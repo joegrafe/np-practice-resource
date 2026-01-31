@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide to Github Terms.md",
+                "file": "Guide - Obsidian Contributors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guide to Github Terms"
+              "title": "Guide - Obsidian Contributors"
             }
           }
         ],
@@ -145,6 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Guide - Obsidian Contributors.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -158,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Guide to Github Terms.md",
+            "file": "Guide - Obsidian Contributors.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -166,9 +167,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "aa0f2303de357469",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,13 +190,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "303d4807c199e9dd",
   "lastOpenFiles": [
+    "Guide - Github Terms.md",
+    "Guide - Obsidian Contributors.md",
     "Welcome Page.md",
-    "Guide to Github Terms.md",
     "home.html",
     "Home/TestWikijs.md",
     "Home/TestObsidian.md",
