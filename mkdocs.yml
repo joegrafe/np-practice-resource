@@ -1,14 +1,15 @@
 site_name: NP Practice Resource
 site_url: https://nppr.jgrafe.synology.me  # Crucial for PWA features
+site_description: A clinical resource for BC NPs.
 theme:
   name: material
   palette: 
     primary: teal
     accent: indigo
   # 2. Define the Logo (Top left of site)
-  logo: icon:material/hospital-box  # Or path to image: assets/logo.png
+  logo: assets/logo.png  # Or path to image: assets/logo.png
   # 3. Define the Favicon (The App Icon on the phone)
-  favicon: icon:material/hospital-box
+  favicon: assets/favicon.ico
   features:
     - navigation.tabs
     - navigation.sections
