@@ -29,13 +29,13 @@ This sets up your primary workstation.
 1. Install & Connect
 	 * Download and install Obsidian from [www.obsidian.md](www.obsidian.md).
 	 * Open Obsidian. In the "Start" window, do NOT click "Create new vault."
-	 * We need to install the connector first. Create a "Dummy" vault (folder) just to get to the settings, or if you already use Obsidian, open your existing vault.
+	 * We need to install the connector first. Create a "NP Practice Resource" vault (folder).
 	 * Go to Settings (Gear Icon) > Community Plugins.
 	 * Turn Restricted Mode -> OFF.
-	 * Click Browse, search for "Obsidian Git", and click Install then Enable.
+	 * Click Browse, search for "Git", and click Install then Enable.
  
 2. Download the Clinical Database ("Clone")
-	 * In Obsidian, open the Command Palette (Press Ctrl + P on Windows or Cmd + P on Mac).
+	 * In Obsidian, open the Command Palette (>_ icon OR Press Ctrl + P on Windows OR Cmd + P on Mac).
 	 * Type "Clone" and select: "Git: Clone an existing remote repo."
 	 * Repo URL: Paste this exactly:
 	   https://github.com/joegrafe/np-practice-resource.git
@@ -47,7 +47,7 @@ This sets up your primary workstation.
  
 3. Configure Automation
 	Now that you are inside the correct vault:
-	 * Go to Settings > Community Plugins > Obsidian Git (Gear Icon).
+	 * Go to Settings > Community Plugins > Git (Gear Icon).
 	 * Pull updates on startup: Toggle ON. This ensures you see your colleagues' updates immediately.
 	 * Auto Pull Interval: Set to 5-30 minutes.
 
@@ -58,12 +58,12 @@ This sets up your phone/tablet.
 	 * Select "Open folder as vault" (create a new empty folder named NP-Resource).
 	 * Tap the Settings (Gear Icon) in the sidebar.
 	 * Go to Community Plugins > Turn Restricted Mode OFF.
-	 * Browse for "Obsidian Git", Install, and Enable.
+	 * Browse for "Git", Install, and Enable.
 
 2. Configure the "Engine" (Critical Step)
 	Mobile phones don't have the same "engine" as computers, so we have to turn on a special one.
 	 * Tap the Gear Icon next to the installed Obsidian Git plugin.
-	 * Set Auto Pull
+	 * Set Auto Pull on start up
 	 * Restart the app (close it completely and reopen) for this to take effect.
  
 3. Connect to the Team
