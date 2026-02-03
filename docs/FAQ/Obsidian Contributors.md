@@ -22,7 +22,7 @@ Time Required: ~15–20 minutes.
 	- Select scopes: Check the box next to repo (this gives full control of private repositories).
 	- Click Generate token.
 
-!!! failure 🔴 COPY THIS CODE NOW. 
+!!! failure "🔴 COPY THIS CODE NOW." 
 - You will never see it again. 
 - Paste it into a temporary sticky note.
 ### Phase 2: Desktop Setup (Office Computer)
@@ -47,7 +47,7 @@ This sets up your primary workstation.
 	 * Location: Type "NP Practice Resource"
 	 * Depth of Clone: Hit enter
 
-!!! info "The NP Practice Resource" folder is the github repository.
+!!! info ""The NP Practice Resource" folder is the github repository."
 - Everything INSIDE the folder will now sync with the repository. 
 - Everything OUTSIDE will stay on your computer.
 - Everything in the "docs" folder will appear on the website.
