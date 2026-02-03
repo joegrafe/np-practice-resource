@@ -78,7 +78,8 @@ This sets up your phone/tablet.
 4. Final Mobile Check
 	Go back to the Git Plugin Settings:
 	 * Custom base path: Ensure this field is COMPLETELY BLANK/EMPTY.
-	 * Vault backup interval: Set to 10.
+	 * Pull updates on startup: Toggle ON.
+	 * Auto Pull Interval: Set to 30 minutes.
 
 ### Phase 4: Your Workflow
 How to co-create without breaking the system.
