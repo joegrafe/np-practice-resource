@@ -1,3 +1,6 @@
+---
+title: guide-obsidian-contributors
+---
 This is meant to be a comprehensive, non-technical guide designed for our Nurse Practitioner team. This document takes you through the steps of getting synced 
 on both desktop and mobile.
 
