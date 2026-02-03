@@ -4,13 +4,11 @@ title: Guide - Obsidian Contributors
 This is meant to be a comprehensive, non-technical guide designed for our Nurse Practitioner team. This document takes you through the steps of getting synced 
 on both desktop and mobile.
 
-
 ## NP Practice Resource: Contributor Setup Guide
 
 Goal: Link your Obsidian app to our shared clinical database so we can co-create an "NP Practice Resource".
 
 Time Required: ~15–20 minutes.
-
 
 ### Phase 1: Accounts & Keys (The "Badge" Setup)
 - Before you can enter the secure system, you need a digital key. We use GitHub to store our data securely.
@@ -27,7 +25,6 @@ Time Required: ~15–20 minutes.
 - Select scopes: Check the box next to repo (this gives full control of private repositories).
 - Click Generate token.
 - 🔴 COPY THIS CODE NOW. You will never see it again. Paste it into a temporary sticky note.
-
 
 ### Phase 2: Desktop Setup (Office Computer)
 This sets up your primary workstation.
@@ -56,7 +53,6 @@ This sets up your primary workstation.
 	 * Vault backup interval: Set to 10 (minutes). This auto-saves your work to the team server.
 	 * Pull updates on startup: Toggle ON. This ensures you see your colleagues' updates immediately.
 
-
 ### Phase 3: Mobile Setup (Point of Care)
 This sets up your phone/tablet.
 1. Install & Prep
@@ -71,7 +67,6 @@ This sets up your phone/tablet.
 	 * Tap the Gear Icon next to the installed Obsidian Git plugin.
 	 * Set Auto Pull
 	 * Restart the app (close it completely and reopen) for this to take effect.
-
  
 3. Connect to the Team
 	 * Open the app again.
@@ -87,7 +82,6 @@ This sets up your phone/tablet.
 	 * Custom base path: Ensure this field is COMPLETELY BLANK/EMPTY.
 	 * Vault backup interval: Set to 10.
 
-
 ### Phase 4: Formatting Rules (The "Clinical Standard")
 - To ensure our website works correctly, everyone must use the same link settings.
 - On BOTH Desktop and Mobile:
@@ -95,7 +89,6 @@ This sets up your phone/tablet.
 - Use [[Wikilinks]]: Toggle OFF.
 - Why? The web server requires standard links.
 - New link format: Select Relative path to file.
-
 
 ### Phase 5: Your Workflow
 How to co-create without breaking the system.
