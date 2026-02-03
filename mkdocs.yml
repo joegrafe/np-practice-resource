@@ -23,5 +23,5 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
-  - Home: index.md
+  - Home: home.md
   # MkDocs will automatically discover other files, or you can list them here
