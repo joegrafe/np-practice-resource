@@ -39,6 +39,13 @@ plugins:
   - search
   - offline # <--- This enables "Service Workers" to cache the site
 
+extra:
+  manifest: manifest.json  # Some Material versions use this specifically
+
+# Add this to ensure the manifest is linked in the HTML head
+extra_javascript:
+  - manifest.json
+
 #nav:
   #- Home: index.md
   # MkDocs will automatically discover other files, or you can list them here
