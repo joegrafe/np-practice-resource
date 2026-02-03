@@ -1,4 +1,4 @@
-https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization
+[https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization](https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization)
 ### Contents & introduction  
 
 - [Table of Contents](https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/TOC_Chapter_2.pdf "link opens in a new window")  
