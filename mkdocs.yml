@@ -12,7 +12,6 @@ theme:
   palette: 
     primary: teal
     accent: indigo
-  
   # 3. Define the Favicon (The App Icon on the phone
   features:
     - navigation.instant
@@ -26,6 +25,8 @@ theme:
     - search.suggest          # Type-ahead suggestions
     - search.highlight        # Highlights terms on the page
     - search.share            # Share links to specific results
+    - content.action.edit
+    - content.action.view
 
 markdown_extensions:
   - admonition
