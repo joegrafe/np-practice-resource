@@ -38,7 +38,7 @@ This sets up your primary workstation.
  
 2. Download the Clinical Database ("Clone")
 	 * In Obsidian, open the Command Palette (Press Ctrl + P on Windows or Cmd + P on Mac).
-	 * Type "Clone" and select: Obsidian Git: Clone an existing remote repo.
+	 * Type "Clone" and select: "Git: Clone an existing remote repo."
 	 * Repo URL: Paste this exactly:
 	   https://github.com/joegrafe/np-practice-resource.git
 	 * Authentication:
@@ -82,15 +82,7 @@ This sets up your phone/tablet.
 	 * Custom base path: Ensure this field is COMPLETELY BLANK/EMPTY.
 	 * Vault backup interval: Set to 10.
 
-### Phase 4: Formatting Rules (The "Clinical Standard")
-- To ensure our website works correctly, everyone must use the same link settings.
-- On BOTH Desktop and Mobile:
-- Go to Settings > Files & Links.
-- Use [[Wikilinks]]: Toggle OFF.
-- Why? The web server requires standard links.
-- New link format: Select Relative path to file.
-
-### Phase 5: Your Workflow
+### Phase 4: Your Workflow
 How to co-create without breaking the system.
  - Start: Open Obsidian. Look at the status bar (bottom right on desktop) or swipe down (mobile). Wait for "Git: Pulled" notification. Now you have the latest repository.
  - During Day:
