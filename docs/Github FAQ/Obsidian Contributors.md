@@ -33,8 +33,8 @@ This sets up your primary workstation.
 	 * Open Obsidian. 
 	 * Create a new vault. 
 	 * Go to Settings (Gear Icon) > Community Plugins.
-	 * Turn Restricted Mode -> OFF.
-	 * Click Browse, search for "Git", and click Install then Enable.
+		 * Turn Restricted Mode -> OFF.
+		 * Click Browse, search for "Git", and click Install then Enable.
  
 2. Download the Clinical Database ("Clone")
 	 * In Obsidian, open the Command Palette (>_ icon on the left side OR Press Ctrl + P on Windows OR Cmd + P on Mac).
@@ -59,16 +59,20 @@ This sets up your primary workstation.
 3. Configure Automation
 	Now that you are inside the correct vault:
 	 * Go to Settings > Community Plugins > Git (Gear Icon).
-	 * Pull updates on startup: Toggle ON. This ensures you see your colleagues' updates immediately.
-	 * Auto Pull Interval: Set to 10-30 minutes.
-	 * Under "Custom Git Directory Path (instead of .git)" type "NP Practice Resource"
+		 * Pull updates on startup: Toggle ON. This ensures you see your colleagues' updates immediately.
+		 * Auto Pull Interval: Set to 10-30 minutes.
+		 * Under "Custom Git Directory Path (instead of .git)" type "NP Practice Resource"
+	 * Go to Settings (Gear Icon) > Files and Links
+		 * Default location for new attachments = In folder specified below
+		 * Attachment fold path = docs/assets
+		 * New link format = path from current file
+		 * Use Wikilinks = OFF
 
 ### Phase 3: Mobile Setup (Point of Care)
 This sets up your phone/tablet.
 1. Install & Prep
 	 * Download the Obsidian app.
 	 * Select "Create Vault"
-	 * 
 	 * Select "Device Storage"
 	 * Tap the Settings (Gear Icon) in the sidebar.
 	 * Go to Community Plugins > Turn Restricted Mode OFF.
@@ -96,14 +100,13 @@ This sets up your phone/tablet.
 	 * Auto Pull Interval: Set to 30 minutes.
 
 ### Phase 4: Your Workflow
-How to co-create without breaking the system.
-- Start: Open Obsidian. Look at the status bar (bottom right on desktop) or swipe down (mobile). Wait for "Git: Pulled" notification. Now you have the latest repository.
-- During Day:
-	- Create a new note for a guideline or observation.
-	- Write freely.
-	- The system will Auto-Backup every 10 minutes.
-- Urgent Update: If you just added a critical protocol and need it on the website now:
-	- Desktop: Press Ctrl + P -> Type "Push" -> Select Obsidian Git: Create Backup.
+How to co-create without breaking the system. 
+- Start: Open Obsidian. Look at the status bar (bottom right on desktop) or swipe down (mobile). Wait for "Git: Pulled" notification. Now you have the latest repository. 
+- During Day: Create a new note for a guideline or observation. 
+	- Write freely. 
+	- The system will Auto-Backup every 10 minutes. 
+- Urgent Update: If you just added a critical protocol and need it on the website now: 
+	- Desktop: Press Ctrl + P -> Type "Push" -> Select Obsidian Git: Create Backup. 
 	- Mobile: Open Command Palette -> Type "Push" -> Select Obsidian Git: Create Backup.
 
 Troubleshooting:
