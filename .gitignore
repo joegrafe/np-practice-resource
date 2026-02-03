@@ -1,6 +1,9 @@
 /Admin/
 /Ignore/
 /Exclude/
+/content/
+/cache/
+/uploads/
 /.trash/
 /.obsidian/
 /.drive_sync/
