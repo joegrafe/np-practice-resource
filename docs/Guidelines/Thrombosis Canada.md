@@ -1,0 +1,1 @@
+https://thrombosiscanada.ca/hcp/practice/clinical_guides
