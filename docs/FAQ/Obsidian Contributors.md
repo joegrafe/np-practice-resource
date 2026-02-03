@@ -60,13 +60,16 @@ This sets up your primary workstation.
 	Now that you are inside the correct vault:
 	 * Go to Settings > Community Plugins > Git (Gear Icon).
 	 * Pull updates on startup: Toggle ON. This ensures you see your colleagues' updates immediately.
-	 * Auto Pull Interval: Set to 5-30 minutes.
+	 * Auto Pull Interval: Set to 10-30 minutes.
+	 * Under "Custom Git Directory Path (instead of .git)" type "NP Practice Resource"
 
 ### Phase 3: Mobile Setup (Point of Care)
 This sets up your phone/tablet.
 1. Install & Prep
 	 * Download the Obsidian app.
-	 * Select "Open folder as vault" (create a new empty folder named NP-Resource).
+	 * Select "Create Vault"
+	 * 
+	 * Select "Device Storage"
 	 * Tap the Settings (Gear Icon) in the sidebar.
 	 * Go to Community Plugins > Turn Restricted Mode OFF.
 	 * Browse for "Git", Install, and Enable.
