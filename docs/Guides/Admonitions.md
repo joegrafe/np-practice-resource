@@ -36,6 +36,9 @@ Markdown
     * New-onset neurological deficits.
 ```
 
+!!! failure "Red Flags / Contraindications"
+    * Acute chest pain with radiation to the jaw.
+    * New-onset neurological deficits.
 #### The Clinical Pearl
 
 Use this for "pro-tips" from your experience.
@@ -47,6 +50,8 @@ Markdown
     When assessing pediatric patients, always check the capillary refill on the sternum rather than the finger for better accuracy.
 ```
 
+!!! quote "Clinical Pearl"
+    When assessing pediatric patients, always check the capillary refill on the sternum rather than the finger for better accuracy.
 #### The Collapsible Section (The "Spoiler" Box)
 
 This is perfect for "Answer Keys" or "Deep Dive" sections that you don't want to clutter the main page. Note the `???` instead of `!!!`.
@@ -58,8 +63,10 @@ Markdown
     This section contains a deep dive into the local epidemiological data...
 ```
 
----
+??? info "Click to expand: Pathophysiology of BC-specific strains"
+    This section contains a deep dive into the local epidemiological data...
 
+---
 ### Step 3: Available Styles
 
 The Material theme provides several built-in colors and icons:

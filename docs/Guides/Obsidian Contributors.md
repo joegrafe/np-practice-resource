@@ -4,7 +4,6 @@ title: Guide - Obsidian Contributors
 This is meant to be a comprehensive, non-technical guide designed for our Nurse Practitioner team. This document takes you through the steps of getting synced 
 on both desktop and mobile.
 
-![[logo_1.png]]
 ## NP Practice Resource: Contributor Setup Guide
 
 Goal: Link your Obsidian app to our shared clinical database so we can co-create an "NP Practice Resource".
