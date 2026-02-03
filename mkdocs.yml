@@ -15,15 +15,17 @@ theme:
   
   # 3. Define the Favicon (The App Icon on the phone
   features:
+    - navigation.instant
     - navigation.tabs
     - navigation.sections
     - navigation.expand
-    - toc.integrate
-    - search.suggest
-    - search.highlight
-    # Mobile features
+    - navigation.tabs.sticky
     - navigation.top      # "Back to Top" button
     - navigation.tracking # Highlights where you are in the doc
+    - toc.integrate
+    - search.suggest          # Type-ahead suggestions
+    - search.highlight        # Highlights terms on the page
+    - search.share            # Share links to specific results
 
 markdown_extensions:
   - admonition
