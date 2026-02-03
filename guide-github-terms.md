@@ -1,5 +1,5 @@
 ---
-title: guide-github-terms
+title: Guide - Github Terms
 ---
 This guide translates the technical jargon of GitHub into clinical terms you already know. Think of this system not as "coding," but as a secure, collaborative charting system.
 
