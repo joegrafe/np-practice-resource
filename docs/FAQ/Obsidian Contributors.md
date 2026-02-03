@@ -41,6 +41,7 @@ This sets up your primary workstation.
 	 * Type "Clone" and select: "Git: Clone an existing remote repo."
 	 * Repo URL: Paste this exactly:
 	   https://github.com/joegrafe/np-practice-resource.git
+	 * Directory for Clone
 	 * Authentication:
 	   * Username: Your GitHub username.
 	   * Password: Paste the Access Token (PAT) you copied in Phase 1.
@@ -93,14 +94,14 @@ This sets up your phone/tablet.
 
 ### Phase 4: Your Workflow
 How to co-create without breaking the system.
- - Start: Open Obsidian. Look at the status bar (bottom right on desktop) or swipe down (mobile). Wait for "Git: Pulled" notification. Now you have the latest repository.
- - During Day:
-   - Create a new note for a guideline or observation.
-   - Write freely.
-   - The system will Auto-Backup every 10 minutes.
- - Urgent Update: If you just added a critical protocol and need it on the website now:
-   - Desktop: Press Ctrl + P -> Type "Push" -> Select Obsidian Git: Create Backup.
-   - Mobile: Open Command Palette -> Type "Push" -> Select Obsidian Git: Create Backup.
+- Start: Open Obsidian. Look at the status bar (bottom right on desktop) or swipe down (mobile). Wait for "Git: Pulled" notification. Now you have the latest repository.
+- During Day:
+	- Create a new note for a guideline or observation.
+	- Write freely.
+	- The system will Auto-Backup every 10 minutes.
+- Urgent Update: If you just added a critical protocol and need it on the website now:
+	- Desktop: Press Ctrl + P -> Type "Push" -> Select Obsidian Git: Create Backup.
+	- Mobile: Open Command Palette -> Type "Push" -> Select Obsidian Git: Create Backup.
 
 Troubleshooting:
  * "Authentication Failed": Your Token (PAT) may have expired. Generate a new one in GitHub and re-enter it in the plugin settings.
