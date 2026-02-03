@@ -1,7 +1,6 @@
 site_name: NP Practice Resource
 site_url: https://nppr.jgrafe.synology.me  # Crucial for PWA features
 site_description: A clinical resource for BC NPs.
-site_favicon: assets/favicon.ico
 
 extra_css:
   - assets/extra.css
@@ -9,6 +8,7 @@ extra_css:
 theme:
   name: material
   logo: assets/logo.png # Or path to image: assets/logo.png
+  favicon: assets/favicon.ico
   palette: 
     primary: teal
     accent: indigo
@@ -37,23 +37,25 @@ markdown_extensions:
       title: "Sections"
       permalink: true      # Adds the "anchor" symbol to headers so you can share links to specific sections
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
   - search
   - offline # <--- This enables "Service Workers" to cache the site
   - social
-
+  
+extra_javascript:
+  - manifest.json
+  
 extra:
   manifest: manifest.json  # Some Material versions use this specifically
   social:
     - icon: fontawesome/solid/stethoscope # A medical icon for the card
       link: https://nppr.jgrafe.synology.me
 
-# Add this to ensure the manifest is linked in the HTML head
-extra_javascript:
-  - manifest.json
+
+
 
 #nav:
   #- Home: index.md
