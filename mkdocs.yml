@@ -30,6 +30,10 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
+plugins:
+  - search
+  - offline # <--- This enables "Service Workers" to cache the site
+
 #nav:
   #- Home: index.md
   # MkDocs will automatically discover other files, or you can list them here
