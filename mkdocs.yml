@@ -1,9 +1,14 @@
 site_name: NP Practice Resource
+site_url: https://nppr.jgrafe.synology.me  # Crucial for PWA features
 theme:
   name: material
   palette: 
     primary: teal
     accent: indigo
+  # 2. Define the Logo (Top left of site)
+  logo: icon:material/hospital-box  # Or path to image: assets/logo.png
+  # 3. Define the Favicon (The App Icon on the phone)
+  favicon: icon:material/hospital-box
   features:
     - navigation.tabs
     - navigation.sections
@@ -11,6 +16,9 @@ theme:
     - toc.integrate
     - search.suggest
     - search.highlight
+    # Mobile features
+    - navigation.top      # "Back to Top" button
+    - navigation.tracking # Highlights where you are in the doc
 
 markdown_extensions:
   - admonition
