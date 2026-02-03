@@ -9,7 +9,7 @@ Time Required: ~15–20 minutes.
 
 ### Phase 1: Accounts & Keys (The "Badge" Setup)
 - Before you can enter the secure system, you need a digital key. We use GitHub to store our data securely.
-	- Create a GitHub Account: If you don't have one, sign up at www.github.com.
+	- Create a GitHub Account: If you don't have one, sign up at [www.github.com](www.github.com).
 	- Accept the Invite: Check your email for an invitation to the np-practice-resource repository and click Accept.
 - Generate Your "Access Token" (PAT):
 	- Note: You cannot use your regular GitHub password for Obsidian. You must use this special token.
@@ -27,7 +27,7 @@ Time Required: ~15–20 minutes.
 This sets up your primary workstation.
 
 1. Install & Connect
-	 * Download and install Obsidian from www.obsidian.md.
+	 * Download and install Obsidian from [www.obsidian.md](www.obsidian.md).
 	 * Open Obsidian. In the "Start" window, do NOT click "Create new vault."
 	 * We need to install the connector first. Create a "Dummy" vault (folder) just to get to the settings, or if you already use Obsidian, open your existing vault.
 	 * Go to Settings (Gear Icon) > Community Plugins.
