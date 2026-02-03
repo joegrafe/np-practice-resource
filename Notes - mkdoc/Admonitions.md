@@ -75,5 +75,3 @@ The Material theme provides several built-in colors and icons:
 ### Pro-Tip for BC NPs
 
 Since you are building this for colleagues, consistency is key. I recommend deciding on a "Style Guide" (e.g., always use `!!! failure` for medication contraindications) so that when a clinician is in a hurry, they instantly know what a red box means without having to read the title.
-
-**Would you like me to help you set up a "Table of Contents" that stays on the side of the screen as you scroll, so your colleagues never get lost in long guides?**
