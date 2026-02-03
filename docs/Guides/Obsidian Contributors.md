@@ -1,6 +1,3 @@
----
-title: Guide - Obsidian Contributors
----
 This is meant to be a comprehensive, non-technical guide designed for our Nurse Practitioner team. This document takes you through the steps of getting synced 
 on both desktop and mobile.
 
@@ -12,24 +9,25 @@ Time Required: ~15–20 minutes.
 
 ### Phase 1: Accounts & Keys (The "Badge" Setup)
 - Before you can enter the secure system, you need a digital key. We use GitHub to store our data securely.
-- Create a GitHub Account: If you don't have one, sign up at github.com.
-- Accept the Invite: Check your email for an invitation to the np-practice-resource repository and click Accept.
+	- Create a GitHub Account: If you don't have one, sign up at www.github.com.
+	- Accept the Invite: Check your email for an invitation to the np-practice-resource repository and click Accept.
 - Generate Your "Access Token" (PAT):
-- Note: You cannot use your regular GitHub password for Obsidian. You must use this special token.
-- Log in to GitHub and go to Settings (click your profile photo in the top right).
-- Scroll down to Developer Settings (left sidebar, very bottom).
-- Select Personal access tokens > Tokens (classic).
-- Click Generate new token (classic).
-- Note: "Obsidian Key".
-- Expiration: Set to "No expiration" or "90 days" (your preference).
-- Select scopes: Check the box next to repo (this gives full control of private repositories).
-- Click Generate token.
-- 🔴 COPY THIS CODE NOW. You will never see it again. Paste it into a temporary sticky note.
+	- Note: You cannot use your regular GitHub password for Obsidian. You must use this special token.
+	- Log in to GitHub and go to Settings (click your profile photo in the top right).
+	- Scroll down to Developer Settings (left sidebar, very bottom).
+	- Select Personal access tokens > Tokens (classic).
+	- Click Generate new token (classic).
+	- Note: "Obsidian Key".
+	- Expiration: Set to "No expiration" or "90 days" (your preference).
+	- Select scopes: Check the box next to repo (this gives full control of private repositories).
+	- Click Generate token.
+	- 🔴 COPY THIS CODE NOW. You will never see it again. Paste it into a temporary sticky note.
 
 ### Phase 2: Desktop Setup (Office Computer)
 This sets up your primary workstation.
+
 1. Install & Connect
-	 * Download and install Obsidian from obsidian.md.
+	 * Download and install Obsidian from www.obsidian.md.
 	 * Open Obsidian. In the "Start" window, do NOT click "Create new vault."
 	 * We need to install the connector first. Create a "Dummy" vault (folder) just to get to the settings, or if you already use Obsidian, open your existing vault.
 	 * Go to Settings (Gear Icon) > Community Plugins.
@@ -50,8 +48,8 @@ This sets up your primary workstation.
 3. Configure Automation
 	Now that you are inside the correct vault:
 	 * Go to Settings > Community Plugins > Obsidian Git (Gear Icon).
-	 * Vault backup interval: Set to 10 (minutes). This auto-saves your work to the team server.
 	 * Pull updates on startup: Toggle ON. This ensures you see your colleagues' updates immediately.
+	 * Auto Pull Interval: Set to 5-30 minutes.
 
 ### Phase 3: Mobile Setup (Point of Care)
 This sets up your phone/tablet.
