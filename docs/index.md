@@ -1,4 +1,6 @@
-Welcome to NP Practice Resource!
+Welcome to an NP Practice Resource!
 
-This is a collaboratively built digital practice resource for Nurse Practitioners in British Columbia, Canada.
+This will be a collaboratively built digital practice resource for Nurse Practitioners in British Columbia, Canada.
+
+
 
