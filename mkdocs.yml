@@ -3,6 +3,9 @@ site_url: https://nppr.jgrafe.synology.me  # Crucial for PWA features
 site_description: A clinical resource for BC NPs.
 site_favicon: assets/favicon.ico
 
+extra_css:
+  - assets/extra.css
+  
 theme:
   name: material
   logo: assets/logo.png # Or path to image: assets/logo.png
