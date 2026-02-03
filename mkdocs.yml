@@ -33,6 +33,9 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  - toc:
+      title: "Sections"
+      permalink: true      # Adds the "anchor" symbol to headers so you can share links to specific sections
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
