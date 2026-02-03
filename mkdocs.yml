@@ -46,8 +46,7 @@ plugins:
   - search
   - offline # <--- This enables "Service Workers" to cache the site
   - social
-  - tags:
-      tags_file: tags.md  # Optional: Links tags to a central "Tag Index" page
+  - tags
   
 extra_javascript:
   - manifest.json
