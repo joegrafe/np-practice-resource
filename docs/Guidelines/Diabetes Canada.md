@@ -1,0 +1,1 @@
+https://guidelines.diabetes.ca/health-care-provider-tools
