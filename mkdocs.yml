@@ -43,9 +43,13 @@ markdown_extensions:
 plugins:
   - search
   - offline # <--- This enables "Service Workers" to cache the site
+  - social
 
 extra:
   manifest: manifest.json  # Some Material versions use this specifically
+  social:
+    - icon: fontawesome/solid/stethoscope # A medical icon for the card
+      link: https://nppr.jgrafe.synology.me
 
 # Add this to ensure the manifest is linked in the HTML head
 extra_javascript:
