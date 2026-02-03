@@ -24,7 +24,6 @@ https://www.bccdc.ca/health-professionals/clinical-resources/communicable-diseas
 - [Guidance for Receiving and Handling the Moderna COVID-19 mRNA Vaccine](https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Guidance_Receiving_Handling_Moderna_COVID-19_Vaccine.pdf)  
 - [Appendix F: Principles of Immunology](https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Appendix_F_PrinciplesImmunology.pdf) | Basic concepts related to the immune system and the vaccine immune response   
     
-
 ### Supporting documents  
 
 - [History of Immunization in BC](https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/HistoryImmunization.pdf)  
