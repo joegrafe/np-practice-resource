@@ -8,18 +8,18 @@ This guide translates the technical jargon of GitHub into clinical terms you alr
 We are building a shared brain for our practice. Because multiple NPs are adding guidelines at the same time, we need a way to track every change, prevent accidental deletions, and ensure everyone sees the same information.
 
 Here is how the concepts map to your daily clinical life.
-1. The Repository (Repo)
-	Technical Term: Repository
-	Clinical Analogy: The Central Medical Records Room
+The Repository (Repo)
+Technical Term: Repository
+Clinical Analogy: The Central Medical Records Room
 	 * What it is: The master folder that lives on the cloud (GitHub). It contains the "Source of Truth" for every guideline, policy, and image.
 	 * How it works: You never "take" the original file. Instead, you have a Local Copy (Clone) on your own device. You can mess up your local copy all you want; the Central Records Room remains safe until you deliberately send your updates.
  
-2. Stage
-	Technical Term: Staging
-	Clinical Analogy: The "To Be Signed" Pile
-	 * The Concept: Imagine you have written notes for three different patients (Patient A, B, and C). You are finished with A and B, but C is still a draft.
-	 * What Staging does: You "Stage" the notes for A and B. This puts them in a special pile that says, "These are ready to be finalized." Patient C’s note stays on your desk (Unstaged) and is not included in the batch you are about to sign.
-	 * In Obsidian: Usually, the system automatically "Stages" all your changes for you. It grabs every file you edited and prepares them to be saved.
+Stage
+Technical Term: Staging
+Clinical Analogy: The "To Be Signed" Pile
+The Concept: Imagine you have written notes for three different patients (Patient A, B, and C). You are finished with A and B, but C is still a draft.
+What Staging does: You "Stage" the notes for A and B. This puts them in a special pile that says, "These are ready to be finalized." Patient C’s note stays on your desk (Unstaged) and is not included in the batch you are about to sign.
+In Obsidian: Usually, the system automatically "Stages" all your changes for you. It grabs every file you edited and prepares them to be saved.
  
 3. Commit
 	Technical Term: Commit
