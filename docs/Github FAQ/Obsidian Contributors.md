@@ -37,16 +37,15 @@ This sets up your primary workstation.
 		 * Click Browse, search for "Git", and click Install then Enable.
  
 2. Download the Clinical Database ("Clone")
-	 * In Obsidian, open the Command Palette (>_ icon on the left side OR Press Ctrl + P on Windows OR Cmd + P on Mac).
-	 * Type "Clone" and select: "Git: Clone an existing remote repo."
-	 * Repo URL: Paste this exactly:
-	   https://github.com/joegrafe/np-practice-resource.git
-	 * Directory for Clone
-	 * Authentication:
-	   * Username: Your GitHub username.
-	   * Password: Paste the Access Token (PAT) you copied in Phase 1.
-	 * Location: Type "NP Practice Resource"
-	 * Depth of Clone: Hit enter
+	1. In Obsidian, open the Command Palette (>_ icon on the left side OR Press Ctrl + P on Windows OR Cmd + P on Mac).
+	2. Type "Clone" and select: "Git: Clone an existing remote repo."
+	3. Repo URL: Paste this exactly: https://github.com/joegrafe/np-practice-resource.git
+	4. Directory for Clone
+	5. Authentication:
+		- Username: Your GitHub username.
+		- Password: Paste the Access Token (PAT) you copied in Phase 1.
+	6. Location: Type "NP Practice Resource"
+	7. Depth of Clone: Hit enter
 
 !!! info ""The NP Practice Resource" folder is the github repository."
 	- Everything INSIDE the folder will now sync with the repository. 
