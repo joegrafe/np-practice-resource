@@ -52,7 +52,7 @@ This sets up your primary workstation.
 - Everything OUTSIDE will stay on your computer.
 - Everything in the "docs" folder will appear on the website.
 
-!!! failure Never Rename the "docs" folder. 
+!!! failure "Never Rename the "docs" folder." 
 - That is required by the website.
  
 3. Configure Automation
