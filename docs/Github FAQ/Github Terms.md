@@ -28,7 +28,7 @@ Here is how the concepts map to your daily clinical life.
 - Clinical Analogy: Faxing/Uploading to Central Records
 - The Concept: You have "Committed" (Signed) ten chart entries today. They are official, but they are still sitting on your iPad. Nobody else can see them.
 - What Pushing does: This takes your signed commits and uploads them to the Repository (GitHub).
-- The Result: Once you "Push," the Wiki.js website updates, and the changes become visible to every other NP in the practice.
+- The Result: Once you "Push," the website updates, and the changes become visible to every other NP in the practice.
  
 ### Pull (or Sync)
 - Clinical Analogy: Morning Handoff / Shift Report

@@ -1,1 +1,0 @@
-[https://www.cma.ca/resources/alternate-providers-clinical-tools](https://www.cma.ca/resources/alternate-providers-clinical-tools)
