@@ -29,12 +29,12 @@ Time Required: ~15–20 minutes.
 This sets up your primary workstation.
 
 1. Install & Connect
-	 * Download and install Obsidian from www.obsidian.md.
-	 * Open Obsidian. 
-	 * Create a new vault. 
-	 * Go to Settings (Gear Icon) > Community Plugins.
-		 * Turn Restricted Mode -> OFF.
-		 * Click Browse, search for "Git", and click Install then Enable.
+	- Download and install Obsidian from www.obsidian.md.
+	- Open Obsidian. 
+	- Create a new vault. 
+	- Go to Settings (Gear Icon) > Community Plugins.
+	- Turn Restricted Mode -> OFF.
+	- Click Browse, search for "Git", and click Install then Enable.
  
 2. Download the Clinical Database ("Clone")
 	1. In Obsidian, open the Command Palette (>_ icon on the left side OR Press Ctrl + P on Windows OR Cmd + P on Mac).
@@ -70,20 +70,20 @@ This sets up your primary workstation.
 ### Phase 3: Mobile Setup (Point of Care)
 This sets up your phone/tablet.
 1. Install & Prep
-	 * Download the Obsidian app.
-	 * Select "Create Vault"
-	 * Select "Device Storage"
-	 * Tap the Settings (Gear Icon) in the sidebar.
-	 * Go to Community Plugins > Turn Restricted Mode OFF.
-	 * Browse for "Git", Install, and Enable.
+	- Download the Obsidian app.
+	- Select "Create Vault"
+	- Select "Device Storage"
+	- Tap the Settings (Gear Icon) in the sidebar.
+	- Go to Community Plugins > Turn Restricted Mode OFF.
+	- Browse for "Git", Install, and Enable.
 
-2. Configure the "Engine" (Critical Step)
+7. Configure the "Engine" (Critical Step)
 	Mobile phones don't have the same "engine" as computers, so we have to turn on a special one.
 	 * Tap the Gear Icon next to the installed Obsidian Git plugin.
 	 * Set Auto Pull on start up
 	 * Restart the app (close it completely and reopen) for this to take effect.
  
-3. Connect to the Team
+8. Connect to the Team
 	 * Open the app again.
 	 * Swipe down from the top to open the Command Palette.
 	 * Type "Clone" and tap Obsidian Git: Clone.
@@ -92,7 +92,7 @@ This sets up your phone/tablet.
 	 * Password: Paste your Access Token (PAT).
 	 * Directory: Select the empty folder you created.
  
-4. Final Mobile Check
+9. Final Mobile Check
 	Go back to the Git Plugin Settings:
 	 * Custom base path: Ensure this field is COMPLETELY BLANK/EMPTY.
 	 * Pull updates on startup: Toggle ON.
