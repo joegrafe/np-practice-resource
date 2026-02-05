@@ -1,0 +1,7 @@
+/* Make the header logo larger */
+.md-header__button.md-logo img, 
+.md-header__button.md-logo svg {
+    height: auto;
+    width: 60px; /* Adjust this number to make it bigger/smaller */
+    max-height: none;
+}
