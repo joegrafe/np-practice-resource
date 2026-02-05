@@ -1,0 +1,21 @@
+{
+  "name": "NP Practice Resource",
+  "short_name": "NPPR",
+  "description": "Clinical resource for BC Nurse Practitioners.",
+  "start_url": "https://nppr.jgrafe.synology.me/",
+  "display": "standalone",
+  "background_color": "#009688",
+  "theme_color": "#009688",
+  "icons": [
+    {
+      "src": "assets/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
