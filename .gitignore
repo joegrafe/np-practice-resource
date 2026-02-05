@@ -1,8 +1,8 @@
-/Admin/
-/Ignore/
-/Exclude/
+/admin/
+/ignore/
+/exclude/
 /content/
-/cache/
+/.cache/
 /uploads/
 /.trash/
 /.obsidian/
