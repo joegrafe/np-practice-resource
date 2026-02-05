@@ -13,6 +13,8 @@ Building on the markdown (MD) format rather googledocs or onenote allows us to h
 
 ![The Ecosystem](../assets/ecosystem_obsidian_github_mikdocs.png)
 
+To learn how to download this website as an app, check out [How to - Save as an App](FAQ/How%20to%20-%20Save%20as%20an%20App.md).
+
 To learn how to set yourself up as a contributor, check out [Obsidian Contributors](Github%20FAQ/Obsidian%20Contributors.md).
 
 
