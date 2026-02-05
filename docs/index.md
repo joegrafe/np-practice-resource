@@ -9,7 +9,7 @@ The goal of this project is to have a first-stop for nurse practitioners and stu
 
 This will be a collaboratively built digital practice resource for Nurse Practitioners in British Columbia, Canada. It will be built on the github repository [joegrafe/np-practice-resource](https://github.com/joegrafe/np-practice-resource).
 
-Building on the markdown (MD) format rather googledocs or onenote allows us to have a notebook like experience in Obsidian that directly syncs with github and the website. It also saves our work in a format that can be transferred in the future. 
+Building on the markdown (MD) format rather than googledocs or onenote allows us to have a notebook like experience in Obsidian that directly syncs with github and the website. It also saves our work in a format that can be transferred in the future. 
 
 ![The Ecosystem](../assets/ecosystem_obsidian_github_mikdocs.png)
 
