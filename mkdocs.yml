@@ -1,0 +1,65 @@
+site_name: NP Practice Resource
+site_url: https://nppr.jgrafe.synology.me  # Crucial for PWA features
+site_description: A clinical resource for BC NPs.
+
+extra_css:
+  - assets/extra.css
+  
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/logo.png # Or path to image: assets/logo.png
+  favicon: assets/favicon.ico
+  palette: 
+    primary: teal
+    accent: indigo
+  # 3. Define the Favicon (The App Icon on the phone
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.tabs.sticky
+    - navigation.top      # "Back to Top" button
+    - navigation.tracking # Highlights where you are in the doc
+    - toc.integrate
+    - search.suggest          # Type-ahead suggestions
+    - search.highlight        # Highlights terms on the page
+    - search.share            # Share links to specific results
+    - content.action.edit     # giscus
+    - content.action.view     # giscus
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - toc:
+      title: "Sections"
+      permalink: true      # Adds the "anchor" symbol to headers so you can share links to specific sections
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+  - offline # <--- This enables "Service Workers" to cache the site
+  - social
+  - tags
+  
+extra_javascript:
+  - manifest.json
+  
+extra:
+  manifest: manifest.json  # Some Material versions use this specifically
+  social:
+    - icon: fontawesome/solid/stethoscope # A medical icon for the card
+      link: https://nppr.jgrafe.synology.me
+
+
+
+
+#nav:
+  #- Home: index.md
+  # MkDocs will automatically discover other files, or you can list them here

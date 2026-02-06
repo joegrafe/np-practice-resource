@@ -26,7 +26,7 @@ Time Required: ~15–20 minutes.
 	- You will never see it again. 
 	- Paste it into a temporary sticky note.
 ### Phase 2: Desktop Setup (Office Computer)
-*This sets up your primary workstation.*
+This sets up your primary workstation.
 
 1. Install & Connect
 	- Download and install Obsidian from www.obsidian.md.
@@ -47,19 +47,20 @@ Time Required: ~15–20 minutes.
 	6. Location: Type "NP Practice Resource"
 	7. Depth of Clone: Hit enter
 
-!!! info ""The NP Practice Resource" folder is the github repository."
-	- Everything INSIDE the folder will now sync with the repository. 
-	- Everything OUTSIDE will stay on your computer.
-	- Everything in the "docs" folder will appear on the website.
+!!! failure ""The NP Practice Resource" vault is the github repository."
+	- Everything INSIDE the vault will now sync with the repository. 
+	- For personal notes, create a personal vault. 
+	
 
-!!! failure "Never Rename the "docs" folder." 
-	- That is required by the website.
+!!! failure "Never Rename the "docs" or "asset" folders." 
+	- These are required by the website.
  
 3. Configure Automation
 	Now that you are inside the correct vault:
 	 * Go to Settings > Community Plugins > Git (Gear Icon).
 		 * Pull updates on startup: Toggle ON. This ensures you see your colleagues' updates immediately.
-		 * Auto Pull Interval: Set to 10 minutes
+		 * Auto Pull Interval: Set to 10-30 minutes.
+		 * Under "Custom Git Directory Path (instead of .git)" type "NP Practice Resource"
 	 * Go to Settings (Gear Icon) > Files and Links
 		 * Default location for new attachments = In folder specified below
 		 * Attachment fold path = docs/assets
@@ -67,46 +68,45 @@ Time Required: ~15–20 minutes.
 		 * Use Wikilinks = OFF
 
 ### Phase 3: Mobile Setup (Point of Care)
-*This sets up your phone/tablet.*
+This sets up your phone/tablet.
 1. Install & Prep
 	- Download the Obsidian app.
-	- Select "Create Vault" named "NP Practice Resource"
-		- *This whole vault will sync with the github repository*
+	- Select "Create Vault"
 	- Select "Device Storage"
 	- Tap the Settings (Gear Icon) in the sidebar.
 	- Go to Community Plugins > Turn Restricted Mode OFF.
 	- Browse for "Git", Install, and Enable.
+
+7. Configure the "Engine" (Critical Step)
+	Mobile phones don't have the same "engine" as computers, so we have to turn on a special one.
+	 * Tap the Gear Icon next to the installed Obsidian Git plugin.
+	 * Set Auto Pull on start up
+	 * Restart the app (close it completely and reopen) for this to take effect.
  
-2. Connect to the Team
+8. Connect to the Team
+	 * Open the app again.
 	 * Swipe down from the top to open the Command Palette.
-	 * Type "Clone" and tap "Git: Clone and existing remote repo".
+	 * Type "Clone" and tap Obsidian Git: Clone.
 	 * Repo URL: https://github.com/joegrafe/np-practice-resource.git
-		 * Username: Your GitHub username.
-		 * Password: Paste your Access Token (PAT).
-	 * Directory: Select Vault Root.
-	 * Depth: Hit Enter for all
+	 * Username: Your GitHub username.
+	 * Password: Paste your Access Token (PAT).
+	 * Directory: Select the empty folder you created.
  
-3. Final Mobile Checks
-	 * Go to Settings > Community Plugins > Git (Gear Icon).
-		 * Pull updates on startup: Toggle ON. *This ensures you see your colleagues' updates immediately.*
-		 * Auto Pull Interval: Set to 10 minutes.
-		 * Fill in Commit Author information.
-	 * Go to Settings (Gear Icon) > Files and Links
-		 * Default location for new attachments = In folder specified below
-		 * Attachment fold path = docs/assets
-		 * New link format = path from current file
-		 * Use Wikilinks = OFF
-	 * Go to Settings (Gear Icon) > Core Plugins
-		 * Turn off Daily Notes.
-	 * Close and restart the app.
+9. Final Mobile Check
+	Go back to the Git Plugin Settings:
+	 * Custom base path: Ensure this field is COMPLETELY BLANK/EMPTY.
+	 * Pull updates on startup: Toggle ON.
+	 * Auto Pull Interval: Set to 30 minutes.
 
 ### Phase 4: Your Workflow
 How to co-create without breaking the system. 
 - Start: Open Obsidian. Look at the status bar (bottom right on desktop) or swipe down (mobile). Wait for "Git: Pulled" notification. Now you have the latest repository. 
-- During Day: 
-	- Create a new note for a guideline or resource. 
+- During Day: Create a new note for a guideline or observation. 
 	- Write freely. 
 	- The system will Auto-Backup every 10 minutes. 
+- Urgent Update: If you just added a critical protocol and need it on the website now: 
+	- Desktop: Press Ctrl + P -> Type "Push" -> Select Obsidian Git: Create Backup. 
+	- Mobile: Open Command Palette -> Type "Push" -> Select Obsidian Git: Create Backup.
 
 Troubleshooting:
  * "Authentication Failed": Your Token (PAT) may have expired. Generate a new one in GitHub and re-enter it in the plugin settings.
