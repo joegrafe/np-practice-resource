@@ -5,9 +5,9 @@
 The [Canadian Task Force on Preventive Health Care (CTFPHC)](https://canadiantaskforce.ca/) develops evidence-based clinical practice guidelines for preventive health care in Canada, primarily for primary care providers.
 
 ### Recent Major Guidelines (2024-2025)
-- **[Depression in Adults](https://canadiantaskforce.ca/guidelines/published-guidelines/depression-in-adults/)** (2025): Screening and management guidance
-- **[Tobacco Smoking in Adults](https://canadiantaskforce.ca/guidelines/published-guidelines/tobacco-smoking/)** (2025): Behavioral and pharmacological interventions, e-cigarette guidance
-- **[Breast Cancer](https://canadiantaskforce.ca/guidelines/published-guidelines/breast-cancer/)** (2024): Age and risk-based screening recommendations
+- **[Depression in Adults](https://canadiantaskforce.ca/guidelines/published-guidelines/depression-in-adults-update/)** (2025): Screening and management guidance
+- **[Tobacco Smoking in Adults](https://canadiantaskforce.ca/guidelines/published-guidelines/tobacco-smoking-in-adults/)** (2025): Behavioral and pharmacological interventions, e-cigarette guidance
+- **[Breast Cancer](https://canadiantaskforce.ca/guidelines/published-guidelines/breast-cancer-update-2024/)** (2024): Age and risk-based screening recommendations
 - **[Cognitive Impairment in Older Adults](https://canadiantaskforce.ca/guidelines/published-guidelines/cognitive-impairment/)** (2024): Screening and prevention strategies
 - **[Fragility Fractures](https://canadiantaskforce.ca/guidelines/published-guidelines/primary-prevention-fragility-fracture/)** (2023): Primary prevention guidelines
 
