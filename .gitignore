@@ -5,12 +5,28 @@
 /.cache/
 /uploads/
 /.trash/
+
+# Obsidian personal workspace (don't sync)
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/workspaces/
+.obsidian/plugins/
 /.obsidian/
-/.drive_sync/
+
+# Temporary/backup files
 /*.bak/
+/*.swp/
+/*~/
 /.DS_Store/
+/.drive_sync/
 /Thumbs.db/
+
+# mkdocs files
 /docs/assets/ecosystem_obsidian_github_mikdocs.png
 /docs/assets/logo.png
 /mkdocs.yml/
 /docs/manifest.json
+/comments/partials/
+
+# Node modules
+node_modules/
