@@ -14,7 +14,7 @@ search:
 The goal of this project is to have a first-stop for nurse practitioners and students to see if any of our colleagues have already found a brilliant resource, guideline, or approach to a patient presentation. This will be a collaboratively built digital practice resource for Nurse Practitioners in British Columbia, Canada. 
 ### How To's
 
-To contribute to the comment sections here or on the [github forums](https://github.com/joegrafe/np-practice-resource/discussions), sign up for a [www.github.com](https://www.github.com) account.
+To contribute to the comment sections here, the [github forums](https://github.com/joegrafe/np-practice-resource/discussions), or to edit pages, sign up for a [www.github.com](https://www.github.com) account.
 
 To learn how to download this website as an app, check out [How to - Save as an App](FAQ/How%20to%20-%20Save%20as%20an%20App.md).
 
