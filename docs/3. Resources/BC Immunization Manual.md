@@ -1,3 +1,8 @@
+---
+tags:
+  - immunizations
+  - vaccinations
+---
 [https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization](https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization)
 ### Contents & introduction  
 
