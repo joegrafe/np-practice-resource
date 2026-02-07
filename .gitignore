@@ -1,17 +1,17 @@
+# Obsidian personal workspace
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/workspaces/
+.obsidian/plugins/
+/.trash/
+/.obsidian/
+/Daily Notes/
 /admin/
 /ignore/
 /exclude/
 /content/
 /.cache/
 /uploads/
-/.trash/
-
-# Obsidian personal workspace (don't sync)
-.obsidian/workspace.json
-.obsidian/cache/
-.obsidian/workspaces/
-.obsidian/plugins/
-/.obsidian/
 
 # Temporary/backup files
 /*.bak/
