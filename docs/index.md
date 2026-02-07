@@ -1,13 +1,11 @@
 ---
-title: Home
+title: Welcome to an NP Practice Resource!
 search:
   exclude: true
 ---
 !!! failure "Obligatory Disclaimer: This website is for educational purposes only. It is not to be used to make medical decisions." 
 	- Medical decisions should be made only with the  guidance of a licensed medical professional.
 	- Medical professionals should use their own clinical judgement when assessing, appraising and applying all resources and material.
-
-### Welcome to an NP Practice Resource!
 
 ??? info "The Goal"
 	The goal of this project is to have a first-stop for nurse practitioners and students to see if any of our colleagues have already found a brilliant resource, guideline, or approach to a patient presentation. This will be a collaboratively built digital practice resource for Nurse Practitioners in British Columbia, Canada. 
