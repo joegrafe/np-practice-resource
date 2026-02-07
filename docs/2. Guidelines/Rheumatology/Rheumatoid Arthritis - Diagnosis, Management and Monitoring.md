@@ -2,9 +2,12 @@
 tags:
   - BCGuidelines
 ---
+
 ## BC Guidelines: Rheumatoid Arthritis - Diagnosis, Management and Monitoring
 
-Comprehensive BC clinical guideline for early recognition, intervention, diagnosis, management, and monitoring of adults with rheumatoid arthritis, aligned with Canadian Rheumatology Association and international standards.
+**Resource:** [https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis)
+
+Comprehensive BC clinical guideline for early recognition, intervention, diagnosis, management, and monitoring of adults with rheumatoid arthritis, aligned with [Canadian Rheumatology Association](https://rheum.ca/) and international standards.
 
 ### Early Recognition & Diagnosis
 - **Early RA Definition**: Symptoms <3 months; early intervention prevents permanent joint damage
@@ -27,8 +30,6 @@ Comprehensive BC clinical guideline for early recognition, intervention, diagnos
 - **Long-Term Surveillance**: Periodic liver, renal, hematological monitoring with DMARD therapy
 
 ### Additional Resources
-- Full practitioner guideline and quick reference summary PDFs
-- Patient information guide
-- Alignment with CRA living guidelines and ACR recommendations
-
-[https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis)
+- [Full practitioner guideline](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/rheumatoid_arthritis.pdf) and [quick reference summary](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/ra_guideline_summary.pdf) PDFs
+- [Patient information guide](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/rheumatoid_arthritis_pg.pdf)
+- Alignment with [CRA living guidelines](https://rheum.ca/resources/publications/) and [ACR recommendations](https://www.rheumatology.org/)

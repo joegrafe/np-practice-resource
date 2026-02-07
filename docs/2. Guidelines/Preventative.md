@@ -1,18 +1,20 @@
 ## Canadian Task Force on Preventive Health Care Guidelines
 
-The Canadian Task Force on Preventive Health Care (CTFPHC) develops evidence-based clinical practice guidelines for preventive health care in Canada, primarily for primary care providers.
+**Resource:** [https://canadiantaskforce.ca/guidelines/published-guidelines/](https://canadiantaskforce.ca/guidelines/published-guidelines/)
+
+The [Canadian Task Force on Preventive Health Care (CTFPHC)](https://canadiantaskforce.ca/) develops evidence-based clinical practice guidelines for preventive health care in Canada, primarily for primary care providers.
 
 ### Recent Major Guidelines (2024-2025)
-- **Depression in Adults** (2025): Screening and management guidance
-- **Tobacco Smoking in Adults** (2025): Behavioral and pharmacological interventions, e-cigarette guidance
-- **Breast Cancer** (2024): Age and risk-based screening recommendations
-- **Cognitive Impairment in Older Adults** (2024): Screening and prevention strategies
-- **Fragility Fractures** (2023): Primary prevention guidelines
+- **[Depression in Adults](https://canadiantaskforce.ca/guidelines/published-guidelines/depression-in-adults/)** (2025): Screening and management guidance
+- **[Tobacco Smoking in Adults](https://canadiantaskforce.ca/guidelines/published-guidelines/tobacco-smoking/)** (2025): Behavioral and pharmacological interventions, e-cigarette guidance
+- **[Breast Cancer](https://canadiantaskforce.ca/guidelines/published-guidelines/breast-cancer/)** (2024): Age and risk-based screening recommendations
+- **[Cognitive Impairment in Older Adults](https://canadiantaskforce.ca/guidelines/published-guidelines/cognitive-impairment/)** (2024): Screening and prevention strategies
+- **[Fragility Fractures](https://canadiantaskforce.ca/guidelines/published-guidelines/primary-prevention-fragility-fracture/)** (2023): Primary prevention guidelines
 
 ### Additional Key Topics
-- **Cancer Screening**: Colorectal, lung, prostate, cervical, breast
+- **Cancer Screening**: [Colorectal](https://canadiantaskforce.ca/guidelines/published-guidelines/colorectal-cancer/), [lung](https://canadiantaskforce.ca/guidelines/published-guidelines/lung-cancer/), [prostate](https://canadiantaskforce.ca/guidelines/published-guidelines/prostate-cancer/), [cervical](https://canadiantaskforce.ca/guidelines/published-guidelines/cervical-cancer/), breast
 - **Chronic Diseases**: Type 2 diabetes, hypertension, cardiovascular risk
-- **Infectious Diseases**: Chlamydia, gonorrhea, hepatitis C, HIV
+- **Infectious Diseases**: [Chlamydia](https://canadiantaskforce.ca/guidelines/published-guidelines/chlamydia/) and [gonorrhea](https://canadiantaskforce.ca/guidelines/published-guidelines/gonorrhea/), [hepatitis C](https://canadiantaskforce.ca/guidelines/published-guidelines/hepatitis-c/), HIV
 - **Mental Health**: Depression during pregnancy and postpartum, anxiety
 - **Preventive Measures**: Immunizations, lifestyle counseling
 - **Age-Specific Screening**: Children, adults, and seniors
@@ -22,7 +24,7 @@ The Canadian Task Force on Preventive Health Care (CTFPHC) develops evidence-bas
 - Screening frequency and preferred methods
 - Summary of evidence and harm-benefit balance
 - Decision aids and patient-clinician handouts
-- Grading of recommendation strength (GRADE framework)
+- Grading of recommendation strength ([GRADE framework](https://www.gradeworkinggroup.org/))
 
 ### Supporting Tools
 - Infographics and summary tables
@@ -35,5 +37,3 @@ The Canadian Task Force on Preventive Health Care (CTFPHC) develops evidence-bas
 - Involvement of clinicians, patients, and experts
 - Regular updates to reflect new evidence
 - Modernization efforts for more inclusive and responsive guidelines
-
-[https://canadiantaskforce.ca/guidelines/published-guidelines/](https://canadiantaskforce.ca/guidelines/published-guidelines/)

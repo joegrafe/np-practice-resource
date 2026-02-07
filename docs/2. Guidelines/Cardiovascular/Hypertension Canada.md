@@ -2,16 +2,19 @@
 tags:
   - HTN
 ---
+
 ## Hypertension Canada Guidelines
 
-Hypertension Canada provides comprehensive, evidence-based clinical practice guidelines for hypertension management. The latest 2025 update includes a primary care guideline with streamlined, practical recommendations.
+**Resource:** [https://hypertension.ca/guidelines/](https://hypertension.ca/guidelines/)
+
+[Hypertension Canada](https://hypertension.ca/) provides comprehensive, evidence-based clinical practice guidelines for hypertension management. The latest [2025 update](https://hypertension.ca/wp-content/uploads/2025/05/Hypertension-guideline.pdf) includes a primary care guideline with streamlined, practical recommendations.
 
 ### 2025 Primary Care Guideline - Key Highlights
 
 **Diagnostic Changes**
 - **New threshold**: Hypertension defined as BP ≥130/80 mm Hg (measured under optimal conditions)
 - Emphasis on out-of-office BP assessment (ambulatory or home monitoring) to confirm diagnosis and detect white-coat/masked hypertension
-- Uses WHO HEARTS framework for pragmatic diagnosis and treatment algorithms
+- Uses [WHO HEARTS framework](https://www.who.int/teams/noncommunicable-diseases/hearts) for pragmatic diagnosis and treatment algorithms
 
 **Treatment Targets & Pharmacotherapy**
 - **Target**: Systolic BP <130 mm Hg for most adults (no specific diastolic target)
@@ -24,15 +27,13 @@ Hypertension Canada provides comprehensive, evidence-based clinical practice gui
 - Integrated into treatment algorithms
 
 ### Development & Resources
-- **Methodology**: GRADE and ADAPTE frameworks, AGREE II reporting standards
+- **Methodology**: [GRADE](https://www.gradeworkinggroup.org/) and ADAPTE frameworks, AGREE II reporting standards
 - **Multidisciplinary team**: Primary care professionals, patient partners, hypertension specialists
 - **Comprehensive Guidelines**: "Living" guideline to be continuously updated, covering special populations (children, pregnant women, unique scenarios)
 
 ### Available Tools
-- Full guideline documents and algorithms (downloadable)
+- [Full guideline documents](https://guidelines.hypertension.ca/) and algorithms (downloadable)
 - Patient/public guideline summaries
-- List of validated BP measurement devices
+- [List of validated BP measurement devices](https://hypertension.ca/hypertension-and-you/managing-hypertension/measuring-blood-pressure/devices/)
 - Professional certification programs, webinars, and educational resources
 - Patient support tools for shared decision-making
-
-[https://hypertension.ca/guidelines/](https://hypertension.ca/guidelines/)
