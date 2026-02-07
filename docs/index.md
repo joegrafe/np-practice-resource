@@ -23,7 +23,7 @@ To learn how to set yourself up as a contributor, check out the [github page](ht
 
 Building on the markdown (MD) format rather than googledocs or onenote allows us to have a notebook like experience in Obsidian that directly syncs with the github repository [joegrafe/np-practice-resource](https://github.com/joegrafe/np-practice-resource) and this website. This future-proofs our work in a format that can be transferred or built on by others.
 
-![The Ecosystem](../assets/ecosystem_obsidian_github_mkdocs.png)
+![The Ecosystem](./assets/ecosystem_obsidian_github_mkdocs.png)
 
 
 
