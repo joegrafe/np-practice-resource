@@ -2,7 +2,7 @@
 tags:
   - HTN
 ---
-**Resource:** [Hypertension Canada](https://guidelines.hypertension.ca/) * 
+**Resource:** [Hypertension Canada](https://guidelines.hypertension.ca/) *
 **BC Context:** [BC Guidelines HTN](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension)
 
 [Hypertension Canada](https://hypertension.ca/) provides comprehensive, evidence-based clinical practice guidelines for hypertension management. The latest [2025 update](https://hypertension.ca/wp-content/uploads/2025/05/Hypertension-guideline.pdf) includes a primary care guideline with streamlined, practical recommendations.
