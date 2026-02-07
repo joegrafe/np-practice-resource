@@ -2,9 +2,6 @@
 tags:
   - asthma
 ---
-
-## Asthma Guidelines - Asthma Canada
-
 **Resource:** [https://asthma.ca/get-help/understanding-asthma/asthma-guidelines/](https://asthma.ca/get-help/understanding-asthma/asthma-guidelines/)
 
 Comprehensive resource page linking to evidence-based asthma guidelines from Canadian and international organizations for healthcare professionals managing asthma care.

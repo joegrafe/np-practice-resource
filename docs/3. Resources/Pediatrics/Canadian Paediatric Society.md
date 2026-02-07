@@ -1,4 +1,4 @@
-## Canadian Paediatric Society Clinical Tools & Resources
+## Clinical Tools & Resources
 
 **Resource:** [https://cps.ca/en/tools-outils](https://cps.ca/en/tools-outils)
 
