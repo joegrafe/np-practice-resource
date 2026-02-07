@@ -12,13 +12,15 @@ search:
 ### The Goal 
 
 The goal of this project is to have a first-stop for nurse practitioners and students to see if any of our colleagues have already found a brilliant resource, guideline, or approach to a patient presentation. This will be a collaboratively built digital practice resource for Nurse Practitioners in British Columbia, Canada. 
-### How To's
+### How To's...
 
-To contribute to the comment sections here, the [github forums](https://github.com/joegrafe/np-practice-resource/discussions), or to edit pages, sign up for a [www.github.com](https://www.github.com) account.
+Submit a link you think would be helpful for other NPs [here](Contribute/index.md)!
 
-To learn how to download this website as an app, check out [How to - Save as an App](FAQ/How%20to%20-%20Save%20as%20an%20App.md).
+To download this website as an offline app, check out [How to - Save as an App](FAQ/How%20to%20-%20Save%20as%20an%20App.md).
 
-To learn how to set yourself up as a contributor, check out the [github page](https://github.com/joegrafe/np-practice-resource) or [Desktop Setup Guide](Contribute/Obsidian%20Setup/Desktop%20Setup%20Guide.md).
+To participate in the comments sections here, the [github forums](https://github.com/joegrafe/np-practice-resource/discussions), or to edit pages, sign up for a [www.github.com](https://www.github.com) account.
+
+To learn how to set yourself up as a contributor, check out the [github page](https://github.com/joegrafe/np-practice-resource) or Obsidian [Desktop Setup Guide](Contribute/Obsidian%20Setup/Desktop%20Setup%20Guide.md) or [Mobile Setup Guide](Contribute/Obsidian%20Setup/Mobile%20Setup%20Guide.md).
 ### The NPPR Ecosystem
 
 Building on the markdown (MD) format rather than googledocs or onenote allows us to have a notebook like experience in Obsidian that directly syncs with the github repository [joegrafe/np-practice-resource](https://github.com/joegrafe/np-practice-resource) and this website. This future-proofs our work in a format that can be transferred or built on by others.
