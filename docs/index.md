@@ -12,7 +12,7 @@ search:
 ??? info "The Goal"
 	The goal of this project is to have a first-stop for nurse practitioners and students to see if any of our colleagues have already found a brilliant resource, guideline, or approach to a patient presentation. This will be a collaboratively built digital practice resource for Nurse Practitioners in British Columbia, Canada. 
 
-???info "How To's..."
+??? info "How To's..."
 	- Submit a link you think would be helpful for other NPs [here](Contribute/index.md)!
 	- To download this website as an offline app, check out [How to - Save as an App](FAQ/How%20to%20-%20Save%20as%20an%20App.md).
 	- To participate in the comments sections here, the [github forums](https://github.com/joegrafe/np-practice-resource/discussions), or to edit pages, sign up for a [www.github.com](https://www.github.com) account.
