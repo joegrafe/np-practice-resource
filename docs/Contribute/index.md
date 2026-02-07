@@ -1,3 +1,7 @@
+---
+title: How to Contribute
+hide_comments: true   <-- ADD THIS LINE
+---
 
 Found a new guideline? Submit it here, and we will add it to the site.
 
