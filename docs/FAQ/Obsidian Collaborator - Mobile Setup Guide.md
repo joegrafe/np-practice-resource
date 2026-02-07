@@ -9,7 +9,6 @@ _Before entering the secure system, you need a digital key. We use GitHub to sto
 2. **Accept the Invite:** Check your email for an invitation to the `np-practice-resource` repository and click **Accept**.
 3. **Generate Your "Access Token" (PAT):**
     - _Note: You cannot use your regular GitHub password for Obsidian. You must use this special token._
-    
     1. Log in to GitHub and click your profile photo (top right) $\rightarrow$ **Settings**.
     2. Scroll to the very bottom left sidebar $\rightarrow$ **Developer Settings**.
     3. Select **Personal access tokens** $\rightarrow$ **Tokens (classic)**.
@@ -21,11 +20,9 @@ _Before entering the secure system, you need a digital key. We use GitHub to sto
         
 
 !!! failure "🔴 COPY THIS CODE NOW"
-
-You will never see this code again. Copy it and paste it into a temporary sticky note or password manager immediately.
+	You will never see this code again. Copy it and paste it into a temporary sticky note or password manager immediately.
 
 ---
-
 ### Phase 2: Desktop Setup (The Engine)
 
 _This sets up the software on your computer._
@@ -62,23 +59,17 @@ _Now we download the shared clinical content._
     
     `https://github.com/joegrafe/np-practice-resource.git`
     
-4. **Authentication:**
-    
+1. **Authentication:**
     - **Username:** Your GitHub username.
     - **Password:** Paste the **Access Token (PAT)** you copied in Phase 1.
     - _(If asked for a directory name, type: `NP-Practice-Resource`)_
-        
-5. **Wait:** The download may take a moment.
-    
-6. **The Switch:** Obsidian will ask: _"Repo cloned. Would you like to open the new vault?"_
-    
+2. **Wait:** The download may take a moment.
+3. **The Switch:** Obsidian will ask: _"Repo cloned. Would you like to open the new vault?"_
     - Click **YES** (or "Open Vault").
     - _You are now inside the shared database._
-        
 
 !!! failure "CRITICAL RULE: The 'docs' Folder"
-
-Never rename or move the folder named **`docs`**. The website requires this specific folder to function.
+	Never rename or move the folder named **`docs`**. The website requires this specific folder to function.
 
 ---
 
