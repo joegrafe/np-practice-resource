@@ -1,6 +1,6 @@
 ---
 title: How to Contribute
-hide_comments: true   <-- ADD THIS LINE
+hide_comments: true
 ---
 
 Found a new guideline? Submit it here, and we will add it to the site.
