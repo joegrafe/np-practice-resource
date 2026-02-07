@@ -2,7 +2,6 @@
 tags:
   - RA
   - SLE
-search: "boost: 5"
 ---
 Resource: [https://rheum.ca/resources/publications/](https://rheum.ca/resources/publications/)
 

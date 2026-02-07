@@ -1,7 +1,6 @@
 ---
 tags:
   - preventative
-search: "boost: 5"
 ---
 ## Canadian Task Force on Preventive Health Care Guidelines
 

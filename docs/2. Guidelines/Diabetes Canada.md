@@ -1,7 +1,6 @@
 ---
 tags:
   - DM
-search: "boost: 5"
 ---
 ## Diabetes Canada Clinical Practice Guidelines
 

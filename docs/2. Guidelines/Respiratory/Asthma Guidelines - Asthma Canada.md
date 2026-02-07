@@ -1,7 +1,6 @@
 ---
 tags:
   - asthma
-search: "boost: 5"
 ---
 **Resource:** [https://asthma.ca/get-help/understanding-asthma/asthma-guidelines/](https://asthma.ca/get-help/understanding-asthma/asthma-guidelines/)
 

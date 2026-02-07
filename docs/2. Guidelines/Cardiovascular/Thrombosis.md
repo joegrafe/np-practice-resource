@@ -4,7 +4,6 @@ tags:
   - DOACs
   - PE
   - Warfarin
-search: "boost: 5"
 ---
 
 ## Thrombosis Canada Clinical Guides
