@@ -1,6 +1,7 @@
 ---
 tags:
   - BCGuidelines
+search: "boost: 5"
 ---
 
 ## BC Guidelines: Rheumatoid Arthritis - Diagnosis, Management and Monitoring
