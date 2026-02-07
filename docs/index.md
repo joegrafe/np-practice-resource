@@ -18,7 +18,7 @@ To contribute to the comment sections here, the [github forums](https://github.c
 
 To learn how to download this website as an app, check out [How to - Save as an App](FAQ/How%20to%20-%20Save%20as%20an%20App.md).
 
-To learn how to set yourself up as a contributor, check out the [github page](https://github.com/joegrafe/np-practice-resource) or [Obsidian - Desktop Setup Guide](FAQ/Obsidian%20-%20Desktop%20Setup%20Guide.md).
+To learn how to set yourself up as a contributor, check out the [github page](https://github.com/joegrafe/np-practice-resource) or [Obsidian - Desktop Setup Guide](Contribute/Obsidian%20-%20Desktop%20Setup%20Guide.md).
 ### The NPPR Ecosystem
 
 Building on the markdown (MD) format rather than googledocs or onenote allows us to have a notebook like experience in Obsidian that directly syncs with the github repository [joegrafe/np-practice-resource](https://github.com/joegrafe/np-practice-resource) and this website. This future-proofs our work in a format that can be transferred or built on by others.
