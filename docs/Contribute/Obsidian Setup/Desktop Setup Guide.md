@@ -1,4 +1,4 @@
-**Goal:** Link the Obsidian app on your computer to our shared clinical database so we can co-create the "NP Practice Resource".
+**Goal:** Link the Obsidian app for a notebook like experience in our shared clinical database so we can co-create the "NP Practice Resource".
 
 ---
 ### Phase 1: Accounts & Keys (The "Badge" Setup)
