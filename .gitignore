@@ -7,11 +7,10 @@
 /.trash/
 /.obsidian/
 /.drive_sync/
-
-/overrides/
-/overrides/partials/
-/overrides/partials/comments.html
+/*.bak/
+/.DS_Store/
+/Thumbs.db/
 /docs/assets/ecosystem_obsidian_github_mikdocs.png
 /docs/assets/logo.png
-/mkdocs.yml
+/mkdocs.yml/
 /docs/manifest.json
