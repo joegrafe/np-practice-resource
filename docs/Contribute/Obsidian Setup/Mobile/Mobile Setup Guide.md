@@ -26,4 +26,4 @@ _Before entering the secure system, you need a digital key. We use GitHub to sto
  
 Update: The Git Plugin for Obsidian is experimental and does not appear user-friendly enough for our purposes. 
 
-I'm currently testing the android app [GitSync](https://play.google.com/store/apps/details?id=com.viscouspot.gitsync ) to sync the folder your Obsidian vault is built on with the Github repository. It is free for one repository and has a cleaner learning curve than navigating Git in Obsidian. 
+I'm currently testing the android app [GitSync](https://play.google.com/store/apps/details?id=com.viscouspot.gitsync ) to sync either the whole vault (OR a folder within your vault) with the Github repository. It is free for one repository and has a cleaner learning curve than navigating Git in Obsidian. Having the Github repository sync with only one folder is nice because it gives you a space to make your own notes as well. 
