@@ -1,3 +1,1 @@
-
-
-https://ccs.ca/guideline/2021-lipids/
+Resource: https://ccs.ca/guideline/2021-lipids/

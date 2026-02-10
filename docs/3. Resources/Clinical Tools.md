@@ -1,5 +1,4 @@
-## CMA Alternate Providers for Clinical Tools
-
+Title: CMA Alternate Providers for Clinical Tools
 **Resource:** [https://www.cma.ca/resources/alternate-providers-clinical-tools](https://www.cma.ca/resources/alternate-providers-clinical-tools)
 
 As of December 2023, the CMA no longer provides direct access to clinical tools through membership. This page lists alternate providers and resources for accessing essential clinical decision-support tools.
