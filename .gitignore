@@ -9,6 +9,8 @@
 /personal/
 **/.cache/
 /uploads/
+/Templates/
+/Scripts/
 
 # Temporary/backup files
 **/*.bak/
@@ -18,6 +20,14 @@
 **/.drive_sync/
 **/Thumbs.db/
 .drive_sync/**
+
+# --- MkDocs / Python ---
+# Ignore the built site (Cloudflare generates this on the fly)
+site/
+# Python environment and cache
+__pycache__/
+venv/
+.env
 
 # Node modules
 node_modules/
