@@ -4,4 +4,5 @@ tags:
   - antibiotics
   - abx
 ---
-Resource: https://www.bugsanddrugs.org/
+**Title:** Bugs and Drugs
+**Resource:** https://www.bugsanddrugs.org/
