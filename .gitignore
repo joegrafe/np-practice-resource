@@ -17,6 +17,7 @@
 **/.DS_Store/
 **/.drive_sync/
 **/Thumbs.db/
+.drive_sync/**
 
 # Node modules
 node_modules/
