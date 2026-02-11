@@ -1,31 +1,22 @@
-# Obsidian personal workspace
-.obsidian/workspace.json
-.obsidian/cache/
-.obsidian/workspaces/
-.obsidian/plugins/
-/.trash/
-/.obsidian/
-/Daily Notes/
+# Obsidian personal workspaces
+.obsidian/**
+**/.trash/
+**/.obsidian/
+**/Daily Notes/
 /admin/
 /ignore/
 /exclude/
-/content/
-/.cache/
+/personal/
+**/.cache/
 /uploads/
 
 # Temporary/backup files
-/*.bak/
-/*.swp/
-/*~/
-/.DS_Store/
-/.drive_sync/
-/Thumbs.db/
-
-# mkdocs files
-/docs/assets/ecosystem_obsidian_github_mikdocs.png
-/docs/assets/logo.png
-/mkdocs.yml/
-/comments/partials/
+**/*.bak/
+**/*.swp/
+**/*~/
+**/.DS_Store/
+**/.drive_sync/
+**/Thumbs.db/
 
 # Node modules
 node_modules/
