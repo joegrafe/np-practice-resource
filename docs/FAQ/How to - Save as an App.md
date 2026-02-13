@@ -15,6 +15,6 @@ To provide colleagues and clinicians with the best experience, the NP Practice R
  * Access: Chrome will add the app to the home screen and the app drawer automatically.
  
 ## Why use the "App" version?
- * Offline Access: Protocols are cached locally, meaning they can be read in areas of the hospital or clinic with poor cellular service.
+ * Offline Access: Protocols and pdfs are cached locally, meaning they can be read in areas of the hospital or clinic with poor cellular service.
  * One-Tap Access: Clinicians can jump straight into the resource without typing a URL or searching through bookmarks.
  * Full Screen: The app version removes the browser's address bar and navigation buttons, providing more screen space for reading guidelines.
