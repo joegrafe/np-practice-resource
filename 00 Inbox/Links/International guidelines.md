@@ -1,0 +1,7 @@
+[Guideline Central (US) Opens in a new window](https://www.guidelinecentral.com/guidelines/)  
+[ECRI Guidelines Trust Opens in a new window](https://www.ecri.org/solutions/ecri-guidelines-trust)  
+[National Institute for Health and Care Excellence (NICE) Opens in a new window](https://www.nice.org.uk/guidance)  
+[Scottish Intercollegiate Guidelines Network (SIGN) Opens in a new window](https://www.sign.ac.uk/our-guidelines/)  
+[Royal Australian College of General Practitioners Opens in a new window](https://www.racgp.org.au/clinical-resources/clinical-guidelines)  
+[TRIP database – a medical database that includes international guidelines, including Canadian ones Opens in a new window](https://www.tripdatabase.com/Home)  
+[Guidelines International Network (GIN) International Guidelines Library](https://g-i-n.net/international-guidelines-library)
