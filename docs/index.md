@@ -11,7 +11,7 @@ search:
 	- Medical professionals should use their own clinical judgement when assessing, appraising and applying all resources and material.
 
 ??? info "The Goal"
-	The goal of this project is to have a first-stop for nurse practitioners and students to see if any of our colleagues have already found a brilliant resource, guideline, or approach to a patient presentation. This will be a collaboratively built digital practice resource for Nurse Practitioners in British Columbia, Canada. 
+	The goal of this project is to have a first-stop for nurse practitioners and students to see if any of our colleagues have already found a brilliant resource for our own personal practice resources. This will be a collaboratively built digital practice resource for Nurse Practitioners with an emphasis on British Columbia, Canada. 
 	
 ??? info "Levels of Engagement"
 	1. Mild: [Save the website to your phone as an app]([How to - Save as an App](How%20to%20-%20Save%20as%20an%20App.md)) using chrome or safari. Submit links you find. 
