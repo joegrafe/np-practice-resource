@@ -1,4 +1,4 @@
-To provide colleagues and clinicians with the best experience, the NP Practice Resource can be installed directly onto a smartphone. This allows the clinical guidelines to appear as an app icon on the home screen and function even when the device is offline.
+The NP Practice Resource can be installed directly onto a smartphone. This allows the clinical guidelines to appear as an app icon on the home screen and function even when the device is offline.
 
 ## For iPhone Users (Safari)
  * Open Safari: Launch the Safari browser and navigate to the resource site: [https://www.nppr.ca](https://www.nppr.ca)
