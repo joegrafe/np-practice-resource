@@ -12,6 +12,8 @@ Home
 	1. Clinical
 	2. Patient
 	3. Regional
+		1. Northern
+		2. Interior
 5. Professional Practice
 	1. Legislative Legal and Ethical: NP Legislative, Legal, and Ethical Accountabilities 
 	2. BCCNM NP Regulation 
