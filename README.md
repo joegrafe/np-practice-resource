@@ -6,7 +6,7 @@ This website is for educational purposes only. It is not to be used to make medi
 
 ## Repository Layout
 
-!!! /docs/ is the folder for clinical resources, the website, and what will be cloned to repositories.
+!!! /docs/ is the folder for clinical resources and the website
 
 00 Inbox: Unprocessed links, resources, etc.  
 01 Projects: Finite works in progress.  
