@@ -8,6 +8,8 @@ This website is for educational purposes only. It is not to be used to make medi
 
 !!! /docs/ is the folder for clinical resources and the website
 
+Ignore ".github/workflows", it updates the website when there are changes.
+
 00 Inbox: Unprocessed links, resources, etc.  
 01 Projects: Finite works in progress.  
 02 Areas: Regular workflows.  
