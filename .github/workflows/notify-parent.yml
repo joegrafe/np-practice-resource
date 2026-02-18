@@ -1,0 +1,19 @@
+name: Notify Parent Repository
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    permissions: {}
+    steps:
+      - name: Trigger parent repository update
+        run: |
+          curl -f -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
+            https://api.github.com/repos/joegrafe/nppr-website-config/dispatches \
+            -d '{"event_type":"submodule-update"}'
