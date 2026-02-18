@@ -11,7 +11,7 @@
 /uploads/
 /Templates/
 /Scripts/
-/.github/
+**/.github/**
 
 # Temporary/backup files
 **/*.bak/
