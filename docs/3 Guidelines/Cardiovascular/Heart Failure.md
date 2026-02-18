@@ -1,16 +1,16 @@
-
 ---
-
 title: Heart Failure
-tags: #HF #HFrEF #HFpEF #HFmrEF
+tags:
+  - "#HF"
+  - HFrEF
+  - HFpEF
 status:
-last-reviewed: 
-
+last-reviewed:
 ---
 
-**Organization:** Canadian Heart Failure Society
-**Title:** Guidelines & Clinical Updates
-**Resource:** https://heartfailure.ca/education/guidelines-clinical-updates
+**Organization:** Canadian Heart Failure Society  
+**Title:** Guidelines & Clinical Updates  
+**Resource:** https://heartfailure.ca/education/guidelines-clinical-updates  
 
 **Organization:** BC Guidelines
 **Title:** Heart Failure - Diagnosis and Management

@@ -1,4 +1,5 @@
-Title: Trans Care BC
+
+**Title:** Trans Care BC
 **Resource:** [https://www.transcarebc.ca/](https://www.transcarebc.ca/)
 
 Trans Care BC is a comprehensive provincial resource providing clinical guidelines, tools, and support for gender-affirming care in British Columbia.
