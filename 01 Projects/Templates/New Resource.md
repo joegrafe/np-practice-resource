@@ -8,7 +8,7 @@ last-reviewed:
 
 ---
 
-**Organization:**
-**Title:**
-**Resource:**
-**Key Words:**
+**Organization:**  
+**Title:**  
+**Resource:**  
+**Key Words:**  
