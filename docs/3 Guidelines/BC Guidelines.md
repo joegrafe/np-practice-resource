@@ -1,6 +1,6 @@
 
- **Title:** BC Guidelines
- **Resource:** [https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines)
+ **Title:** BC Guidelines  
+ **Resource:** [https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines)  
 
 - [Addictions and Substance Use](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/addictions-and-substance-use)
 - [Cardiovascular System](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular)
