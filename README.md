@@ -6,7 +6,7 @@ This website is for educational purposes only. It is not to be used to make medi
 
 ## Repository Layout
 
-!!! /docs/ is the folder for clinical resources and the website
+!!! /docs/ is the folder for clinical resources and the website.
 
 Ignore ".github/workflows", it updates the website when there are changes.
 
