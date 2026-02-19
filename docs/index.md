@@ -19,7 +19,7 @@ search:
 	3. Spicy ![🌶](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png): Have a onenote/notebook like experience on your phone/desktop that directly syncs to the website.
 
 ??? info "How To's..."
-	- Submit a link you think would be helpful for other NPs [here](Submit%20a%20Link.md)!
+	- Submit a link you think would be helpful for other NPs [here](Contribute/index.md)!
 	- To download this website as an offline app, check out [How to - Save as an App](How%20to%20-%20Save%20as%20an%20App.md).
 	- To participate in the comments sections here, the [github forums](https://github.com/joegrafe/np-practice-resource/discussions), or to edit pages, sign up for a [www.github.com](https://www.github.com) account.
 	- To learn how to set yourself up as a contributor, check out the [github page](https://github.com/joegrafe/np-practice-resource) or Obsidian [Desktop Setup Guide](Desktop%20Setup%20Guide.md) or [Mobile Setup Guide](Mobile%20Setup%20Guide.md).
@@ -27,8 +27,8 @@ search:
 ??? info "The NPPR Ecosystem"
 	Building on the markdown (MD) format rather than googledocs or onenote allows us to have a notebook like experience in Obsidian that directly syncs with the github repository [joegrafe/np-practice-resource](https://github.com/joegrafe/np-practice-resource) and this website. This future-proofs our work in a format that can be transferred or built on by others.
 
-![The Ecosystem](ecosystem_obsidian_github_mkdocs.png)
-
+![The Ecosystem](docs/assets/ecosystem_obsidian_github_mkdocs.png)
+![]()
 
 
   
