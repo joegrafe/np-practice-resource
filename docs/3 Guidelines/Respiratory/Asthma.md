@@ -2,6 +2,14 @@
 tags:
   - asthma
 ---
+**Organization:** BC Guidelines
+**Title:** Asthma Diagnosis, Education and Management
+**Resource:** https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma
+
+---
+
+**Organization:** Asthma Canada
+**Title:** Asthma Guidelines
 **Resource:** [https://asthma.ca/get-help/understanding-asthma/asthma-guidelines/](https://asthma.ca/get-help/understanding-asthma/asthma-guidelines/)
 
 Comprehensive resource page linking to evidence-based asthma guidelines from Canadian and international organizations for healthcare professionals managing asthma care.
