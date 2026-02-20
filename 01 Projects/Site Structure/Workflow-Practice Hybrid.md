@@ -42,23 +42,24 @@ Home
 			ii. Diagnostic Reasoning and Criteria
 			iii. Health Assessment
 			iv. Pharmacotherapeutics
-			v. Lab Medicine and Investigations
-6. Community
-7. About
-	1. FAQ
-	2. Contribute
-	3. About NPPR.ca
+			- v. Lab Medicine and Investigations
+- Community
+- About
+	- FAQ
+	- Contribute
+	- About NPPR.ca
 
----
+- ---
 
-HEENT
-Cardiovascular
-	Peripheral vascular
-Respiratory
-Gastrointestinal
-Genitourinary
-Gynaecological 
-Musculoskeletal
-Integumentary
-Psychological
-Neurological
+Systems  
+- HEENT
+- Cardiovascular
+- Peripheral vascular
+- Respiratory
+- Gastrointestinal
+- Genitourinary
+- Gynaecological 
+- Musculoskeletal
+- Integumentary
+- Psychological
+- Neurological
