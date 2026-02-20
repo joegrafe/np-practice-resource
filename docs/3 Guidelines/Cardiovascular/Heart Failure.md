@@ -7,9 +7,9 @@ tags:
 status:
 last-reviewed:
 ---
-**Organization:** BC Guidelines
-**Title:** Heart Failure - Diagnosis and Management
-**Resource:** https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic
+**Organization:** BC Guidelines  
+**Title:** Heart Failure - Diagnosis and Management  
+**Resource:** https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic  
 
 **Organization:** Canadian Cardiovascular Society  
 **Title:** Guidelines and Clinical Practice Update Library  
