@@ -13,7 +13,7 @@ last-reviewed:
 
 **Organization:** Canadian Cardiovascular Society  
 **Title:** Guidelines and Clinical Practice Update Library  
-**Resource:** [https://ccs.ca/guidelines-and-clinical-practice-update-library/](https://ccs.ca/guidelines-and-clinical-practice-update-library/)
+**Resource:** https://ccs.ca/guidelines-and-clinical-practice-update-library/
 
 **Organization:** Canadian Heart Failure Society  
 **Title:** Guidelines & Clinical Updates  

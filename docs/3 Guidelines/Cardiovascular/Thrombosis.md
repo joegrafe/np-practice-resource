@@ -6,5 +6,4 @@ tags:
   - Warfarin
 ---
 Title: Thrombosis Canada Clinical Guides
-**Resource:** [https://thrombosiscanada.ca/hcp/practice/clinical_guides](https://thrombosiscanada.ca/hcp/practice/clinical_guides)
-
+**Resource:** https://thrombosiscanada.ca/hcp/practice/clinical_guides
