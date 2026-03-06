@@ -2,9 +2,9 @@
 tags:
   - copd
 ---
-**Organization:** BC Guidelines
-**Title:** Chronic Obstructive Pulmonary Disease (COPD): Diagnosis and Management
-**Resource:** https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd
+**Organization:** BC Guidelines  
+**Title:** Chronic Obstructive Pulmonary Disease (COPD): Diagnosis and Management  
+**Resource:** https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd  
 
 **Organization:** Canadian Thoracic Society Guideline Library
 **Resource:** [https://cts-sct.ca/guideline-library/](https://cts-sct.ca/guideline-library/)

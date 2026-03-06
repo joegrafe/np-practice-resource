@@ -2,9 +2,9 @@
 tags:
   - asthma
 ---
-**Organization:** BC Guidelines
-**Title:** Asthma Diagnosis, Education and Management
-**Resource:** https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma
+**Organization:** BC Guidelines  
+**Title:** Asthma Diagnosis, Education and Management  
+**Resource:** https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma  
 
 ---
 
