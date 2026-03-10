@@ -4,5 +4,11 @@
     "slug": "1-approaches",
     "path": "docs/1 Approaches",
     "children": []
+  },
+  {
+    "title": "2 Assessments",
+    "slug": "2-assessments",
+    "path": "docs/2 Assessments",
+    "children": []
   }
 ]
