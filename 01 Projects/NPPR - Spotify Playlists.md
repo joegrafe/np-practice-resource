@@ -1,0 +1,3 @@
+[Hypertension](https://open.spotify.com/playlist/6ta1xH8olamUP8z8YEui9A?si=4087c1a54ca0413d)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6ta1xH8olamUP8z8YEui9A?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
