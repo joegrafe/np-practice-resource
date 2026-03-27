@@ -1,0 +1,10 @@
+![https://learn.vch.ca/m2/pluginfile.php/170834/mod_ibook/chapter/15193/HA_map_small_V5.gif](30%20Resources/assets/Pasted%20image%2020260327115946.png)
+
+- [First Nations Health Authority](http://www.fnha.ca/)
+- [Fraser Health](http://www.fraserhealth.ca/) 
+- [Island Health](http://www.viha.ca/)
+- [Interior Health](http://www.interiorhealth.ca/) 
+- [Northern Health](http://www.northernhealth.ca/)
+- [Providence Health Care](http://www.providencehealthcare.org/)
+- [Provincial Health Services](http://www.phsa.ca/default.htm)
+- [Vancouver Coastal Health](http://www.vch.ca/)
