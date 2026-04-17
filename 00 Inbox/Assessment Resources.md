@@ -23,7 +23,7 @@ This table is formatted for your Obsidian vault (e.g., `docs/3. Resources/Assess
 
 ---
 
-### **Integration Strategy for Your App**
+### **Integration Strategy 
 
 1. **Ortho "Cheat Sheet":** Download the **"Ottawa Ankle Rules"** and **"Canadian C-Spine Rule"** images. Put them in `docs/assets/images/` so you can show patients _why_ you aren't ordering an X-ray.
     

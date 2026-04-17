@@ -1,6 +1,6 @@
 ---
 tags:
-  - approaches
+  - Approach
 ---
 !!! failure "Blackbook Disclaimer"
 	- This material is for educational purposes only.  
