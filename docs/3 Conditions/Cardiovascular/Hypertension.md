@@ -6,6 +6,8 @@ tags:
 
 [Hypertension Canada 2025 Primary Care Guidelines](https://hypertension.ca/guidelines/)  
 		- [Recommendations](https://hypertension.ca/guidelines/recommendations)
+		- [Diagnosis](https://hypertension.ca/guidelines/diagnosis)
+		- [Treatment](https://hypertension.ca/guidelines/treatment)
  
 [BC Guidelines - Hypertension - Diagnosis and Management](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension) [^1]   
 		- [Scope](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#scope)  
