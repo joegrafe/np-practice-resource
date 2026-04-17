@@ -19,7 +19,7 @@ search:
 	3. Spicy ![🌶](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png): Have a onenote/notebook like experience on your phone/desktop that directly syncs to the website.
 
 ??? info "How To's..."
-	- Submit a link you think would be helpful for other NPs [here](About/Contribute/index.md) or by commenting on the page.
+	- Submit a link you think would be helpful for other NPs [here](docs/4%20Resources/index.md) or by commenting on the page.
 	- To download this website as an offline app, check out [How to - Save as an App](About/FAQ/How%20to%20-%20Save%20as%20an%20App.md).
 	- To participate in the comments sections here, the [github forums](https://github.com/joegrafe/np-practice-resource/discussions), or to edit pages, sign up for a [www.github.com](https://www.github.com) account.
 
