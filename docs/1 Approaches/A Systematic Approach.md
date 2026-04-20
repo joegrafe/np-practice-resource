@@ -1,47 +1,47 @@
 A draft framework for a clinical process and considerations when working through Case Studies.
 
 #### 1. History Taking
-	- Patient-Centred Interviewing
-	- Clinician-Centred Interviewing
+	Patient-Centred Interviewing
+	Clinician-Centred Interviewing
 
 #### 2. Physical Examination
-	- Focused vs Comprehensive
-		- *System above, system below*
-		- *Systems that cause and systems affected*
+	Focused vs Comprehensive
+	Anatomic: *System above, system below*
+	Physiologic: *Systems that cause and systems affected*
 
 #### 3. Problem Representation and Framing
-	- Diagnostic Frameworks (Anatomic, Physiologic, Organ/System)
-	- Illness Scripts (Key Features)
-	- Problem Lists (Group vs Split)
-		- *Chief Complaint(s)*
-		- *Abnormal Findings*
-		- *Chronic Conditions*
-		- *Health Maintenance*
+	Diagnostic Frameworks (Anatomic, Physiologic, Organ/System)
+	Illness Scripts (Key Features)
+	Problem Lists (Group vs Split)
+		*Chief Complaint(s)*
+		*Abnormal Findings*
+		*Chronic Conditions*
+		*Health Maintenance*
 
 #### 4. Hypothesis Generation
-	- Summary Statement
-	- Semantic Qualifiers
+	Summary Statement
+	Semantic Qualifiers
 
 #### 5. Differential Diagnoses (Ddx)
-	- Probabilistic vs Prognostic
-	- Threshold Model: Leading, Active, Other, Excluded
+	Probabilistic vs Prognostic
+	Threshold Model: Leading, Active, Other, Excluded
 
 #### 6. Diagnostic Testing and Evaluation
-	- Sequential vs Simultaneous
-	- Test Selection
-		- Confirmation, Elimination, and Discrimination
-		- Positive vs Negative Predictive Value
-		- SNOUT & SPIN: Sensitivity, rule OUT. Specificity, rule IN.
+	Sequential vs Simultaneous
+	Test Selection
+	Confirmation, Elimination, and Discrimination
+	Positive vs Negative Predictive Value
+	SNOUT & SPIN: Sensitivity, rule OUT. Specificity, rule IN.
 
 #### 7. Hypothesis Refinement and Diagnosis (Dx)
 
 #### 8. Plan of Care: Management
-	- Patient Goals and Meaning Making
-	- Education
-	- Non-Pharmacological Therapies 
-	- Pharmacological Therapies
-		- Rationale Prescribing
-	- Follow-up
+	Patient Goals and Meaning Making  
+	Education  
+	Non-Pharmacological Therapies  
+	Pharmacological Therapies  
+	Rationale Prescribing  
+	Follow-up  
 
 ---
 
