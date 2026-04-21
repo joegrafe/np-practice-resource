@@ -44,7 +44,7 @@ A draft framework for a clinical process and considerations when working through
 	Education  
 	Non-Pharmacological Therapies  
 	Pharmacological Therapies  
-		Rationale Prescribing  
+		Rational Prescribing  
 	Follow-up
 
 ---
