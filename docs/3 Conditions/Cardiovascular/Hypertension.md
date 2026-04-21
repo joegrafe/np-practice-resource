@@ -1,6 +1,9 @@
 ---
+title: Hypertension
 tags:
   - HTN
+status:
+last-reviewed: 2024-04-16
 ---
 ## Canadian Guidelines
 
