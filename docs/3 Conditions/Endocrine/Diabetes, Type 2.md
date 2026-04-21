@@ -3,6 +3,7 @@ title: Diabetes
 tags:
   - DM
   - Condition
+  - Adults
 status:
 last-reviewed: 2026-04-20
 ---
