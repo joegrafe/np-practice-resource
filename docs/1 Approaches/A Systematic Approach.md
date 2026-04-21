@@ -4,8 +4,8 @@ A draft framework for a clinical process and considerations when working through
 	Patient-Centred Interviewing
 	Clinician-Centred Interviewing
 
-??? failure "Bias Check: Don't get tunnel vision"
-	- Remember to not diagnose early. 
+??? failure "Bias Check: Don't get tunnel vision."
+	- Remember to not anchor on a diagnosis early. 
 	- Consider your developing problem list and differential diagnoses (Ddx) as you move into your physical exam. 
 	- "If it's not in your differentials, it won't be your diagnosis". 
 #### 2. Physical Examination
@@ -28,7 +28,9 @@ A draft framework for a clinical process and considerations when working through
 	Threshold Model: Leading, Active, Must-Not-Miss, Excluded
 
 ??? failure "Bias Check: Rule out before ruling in."
-	As a novice NP, consider "starting from the bottom" and ruling out must-not-miss diagnoses before focusing on the leading diagnosis. 
+	- As a novice NP, consider "starting from the bottom" and ruling out must-not-miss diagnoses before focusing on the leading diagnosis. 
+	- Don't underestimate "Red Flags". Refresh your understanding of their definitions (e.g. metabolic decompensation in the initial pharmacological treatment of Type 2 Diabetes).
+	
 #### 6. Diagnostic Testing and Evaluation
 	Test Selection
 		Sequential vs Simultaneous testing
