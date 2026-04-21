@@ -2,6 +2,7 @@
 title: Hypertension
 tags:
   - HTN
+  - Condition
 status:
 last-reviewed: 2024-04-16
 ---
