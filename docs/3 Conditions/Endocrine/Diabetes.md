@@ -64,9 +64,9 @@ last-reviewed: 2026-04-20
 ## Assessments, Calculators, and Tools
 
 [eyeguru.org](https://eyeguru.org/videos/)
-- [5.01: Anatomy of the retina](https://eyeguru.org/videos/retina/anatomy-of-the-retina/)
-- [5.02: Non-proliferative diabetic retinopathy](https://eyeguru.org/videos/retina/non-proliferative-diabetic-retinopathy/)
-- [5.03: Proliferative diabetic retinopathy](https://eyeguru.org/videos/retina/proliferative-diabetic-retinopathy/)
+- [5.01: Anatomy of the retina](https://eyeguru.org/videos/retina/anatomy-of-the-retina/)  
+- [5.02: Non-proliferative diabetic retinopathy](https://eyeguru.org/videos/retina/non-proliferative-diabetic-retinopathy/)  
+- [5.03: Proliferative diabetic retinopathy](https://eyeguru.org/videos/retina/proliferative-diabetic-retinopathy/)  
 ## Patient Resources
 
 *Pending*
