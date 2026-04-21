@@ -1,5 +1,5 @@
 ---
-title: Diabetes
+title: Diabetes, Type 2
 tags:
   - DM
   - Condition
