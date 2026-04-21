@@ -40,7 +40,7 @@ last-reviewed: 2026-04-20
 	[Diabetes in Older People](https://guidelines.diabetes.ca/cpg/chapter37)  
 	[Type 2 Diabetes and Indigenous Peoples](https://guidelines.diabetes.ca/cpg/chapter38)  
 	[Remission of Type 2 Diabetes: 2022 ADDITION](https://guidelines.diabetes.ca/cpg/special-article-remission-of-type-2-diabetes)  
-	[Remission of Type 2 Diabetes: User’s Guide2022 ADDITION](https://guidelines.diabetes.ca/cpg/sa-remission-of-type-2-diabetes-users-guide)  
+	[Remission of Type 2 Diabetes: User’s Guide: 2022 ADDITION](https://guidelines.diabetes.ca/cpg/sa-remission-of-type-2-diabetes-users-guide)  
 	[Glycemic Management Across the Lifespan for People With Type 1 Diabetes: 2025 ADDITION](https://guidelines.diabetes.ca/cpg/chapter41)  
 	[Diabetes and Metabolic Dysfunction-associated Steatotic Liver Disease in Adults: 2025 ADDITION](https://guidelines.diabetes.ca/cpg/chapter42)  
 	[Appendices](https://guidelines.diabetes.ca/appendices)  
