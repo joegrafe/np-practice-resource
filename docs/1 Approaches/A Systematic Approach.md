@@ -1,47 +1,47 @@
 A draft framework for a clinical process and considerations when working through Case Studies.
 
-#### 1. History Taking  
-	Patient-Centred Interviewing  
-	Clinician-Centred Interviewing  
+#### 1. History Taking
+	Patient-Centred Interviewing
+	Clinician-Centred Interviewing
 
-#### 2. Physical Examination  
-	Focused vs Comprehensive  
-	Anatomic: *System above, system below*  
-	Physiologic: *Systems that cause and systems affected*  
-
+!!! failure "Bias Check: Don't get tunnel vision"
+	Don't diagnose early. Consider your developing problem list and differential diagnoses (Ddx). "If it's not in your differentials, it won't be your diagnosis". 
+#### 2. Physical Examination
+	Focused vs Comprehensive
+	Anatomic: *System above, system below*
+	Physiologic: *Systems cause and effect*
 #### 3. Problem Representation and Framing
-	Diagnostic Frameworks (Anatomic, Physiologic, Organ/System)  
-	Illness Scripts (Key Features)  
-	Problem Lists (Group vs Split)  
-		*Chief Complaint(s)*  
-		*Abnormal Findings*  
-		*Chronic Conditions*  
-		*Health Maintenance*  
+	Diagnostic Frameworks (Anatomic, Physiologic, Organ/System)
+	Illness Scripts (Key Features)
+	Problem Lists (Group vs Split)
+	    *Chief Complaint(s)*
+	    *Abnormal Findings*
+	    *Chronic Conditions*
+	    *Health Maintenance*
+#### 4. Hypothesis Generation
+	Summary Statement
+	Semantic Qualifiers
+#### 5. Differential Diagnoses (Ddx)
+	Probabilistic vs Prognostic
+	Threshold Model: Leading, Active, Must-Not-Miss, Excluded
 
-#### 4. Hypothesis Generation  
-	Summary Statement  
-	Semantic Qualifiers  
-
-#### 5. Differential Diagnoses (Ddx)  
-	Probabilistic vs Prognostic  
-	Threshold Model: Leading, Active, Other, Excluded  
-
+!!! failure "Bias Check: "Rule out before ruling in."
+	As a novice NP, consider "starting from the bottom" and ruling out must-not-miss diagnoses before focusing on the leading diagnosis. 
 #### 6. Diagnostic Testing and Evaluation
-	Sequential vs Simultaneous  
-	Test Selection  
-		Confirmation, Elimination, and Discrimination  
-		Positive vs Negative Predictive Value  
-		SNOUT & SPIN: Sensitivity, rule OUT. Specificity, rule IN.  
+	Test Selection
+		Sequential vs Simultaneous testing
+		Confirmation, Elimination, and Discrimination
+		Positive vs Negative Predictive Value
+		SNOUT & SPIN: Sensitivity, rule OUT. Specificity, rule IN.
+#### 7. Hypothesis Refinement and Diagnosis (Dx)
 
-#### 7. Hypothesis Refinement and Diagnosis (Dx)  
-
-#### 8. Plan of Care: Management  
+#### 8. Plan of Care: Management
 	Patient Goals and Meaning Making  
 	Education  
 	Non-Pharmacological Therapies  
 	Pharmacological Therapies  
 		Rationale Prescribing  
-	Follow-up  
+	Follow-up
 
 ---
 
