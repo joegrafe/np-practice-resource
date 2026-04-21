@@ -10,7 +10,7 @@ last-reviewed: 2026-04-20
 ## Canadian Guidelines
 
 ??? info "[Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada](https://guidelines.diabetes.ca/cpg)"
-	*Only chapters deemed relevant to Primary Care are listed here*
+	*Only chapters deemed relevant to Primary Care are listed here*  
 	- [Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome](https://guidelines.diabetes.ca/cpg/chapter3)  
 	- [Screening for Diabetes in Adults](https://guidelines.diabetes.ca/cpg/chapter4)  
 	- [Reducing the Risk of Developing Diabetes](https://guidelines.diabetes.ca/cpg/chapter5)  
