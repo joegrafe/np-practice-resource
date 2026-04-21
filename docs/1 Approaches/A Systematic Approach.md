@@ -5,7 +5,9 @@ A draft framework for a clinical process and considerations when working through
 	Clinician-Centred Interviewing
 
 ??? failure "Bias Check: Don't get tunnel vision"
-	Don't diagnose early. Consider your developing problem list and differential diagnoses (Ddx) as you move into your physical exam. Remember, "if it's not in your differentials, it won't be your diagnosis". 
+	- Remember to not diagnose early. 
+	- Consider your developing problem list and differential diagnoses (Ddx) as you move into your physical exam. 
+	- "If it's not in your differentials, it won't be your diagnosis". 
 #### 2. Physical Examination
 	Focused vs Comprehensive
 	Anatomic: *System above, system below*
