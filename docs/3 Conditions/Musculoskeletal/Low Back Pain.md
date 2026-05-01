@@ -11,14 +11,16 @@ last-reviewed:
 [BC Guidelines - Appropriate Imaging for Low Back Pain in Adults](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#lowbackpain)
 
 [CFP - PEER simplified chronic pain guideline](https://www.cfp.ca/content/68/3/179#sec-9)
-## Practice Resources
+## Practice Resources and Pathways
 
-[CEP - Clinically Organized Relevant Exam (CORE) Back Tool](https://cep.health/clinical-products/low-back-pain/)
+[AHS - Provincial Spine: Low Back Primary Care Clinical Pathway](https://www.albertahealthservices.ca/assets/info/aph/if-aph-prov-spine-low-back-primary-care-pathway.pdf)
 
 [CMAJ - Diagnosis and management of low-back pain in primary care](https://www.cmaj.ca/content/189/45/e1386)
 
 [Emergency Care BC - Low Back Pain](https://emergencycarebc.ca/clinical_resource/clinical-summary/low-back-pain/)
 ## Assessments, Calculators, and Tools
+
+[CEP - Clinically Organized Relevant Exam (CORE) Back Tool](https://cep.health/clinical-products/low-back-pain/)
 
 [NEJM - Clinical Examination of the Lumbar Spine](https://www.nejm.org/doi/full/10.1056/NEJMvcm2402306)
 
