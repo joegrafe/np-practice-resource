@@ -2,12 +2,15 @@
 title: Low Back Pain
 tags:
   - Condition
+  - LBP
 status:
 last-reviewed:
 ---
 ## Canadian Guidelines
 
 [BC Guidelines - Appropriate Imaging for Low Back Pain in Adults](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#lowbackpain)
+
+[CFP - PEER simplified chronic pain guideline](https://www.cfp.ca/content/68/3/179#sec-9)
 ## Practice Resources
 
 [CEP - Clinically Organized Relevant Exam (CORE) Back Tool](https://cep.health/clinical-products/low-back-pain/)
