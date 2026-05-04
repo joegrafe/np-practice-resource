@@ -18,6 +18,8 @@ last-reviewed:
 [CMAJ - Diagnosis and management of low-back pain in primary care](https://www.cmaj.ca/content/189/45/e1386)
 
 [Emergency Care BC - Low Back Pain](https://emergencycarebc.ca/clinical_resource/clinical-summary/low-back-pain/)
+
+[Clinical practice guidelines for the noninvasive management of low back pain: A systematic review by the Ontario Protocol for Traffic Injury Management (OPTIMa) Collaboration](https://onlinelibrary.wiley.com/doi/10.1002/ejp.931)
 ## Assessments, Calculators, and Tools
 
 [CEP - Clinically Organized Relevant Exam (CORE) Back Tool](https://cep.health/clinical-products/low-back-pain/)
