@@ -1,7 +1,11 @@
 ---
 title: Directory of Canadian Medical Associations
-tags: [associations, canada, resources, directory]
-sort: alphabetical
+tags:
+  - associations
+  - canada
+  - resources
+  - directory
+sort:
 ---
 
 | Association | Website | Focus |
