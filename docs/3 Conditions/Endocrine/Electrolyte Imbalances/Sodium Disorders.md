@@ -5,9 +5,9 @@ tags:
 status:
 last-reviewed: 2026-05-22
 ---
-## Canadian Guidelines
+## Canadian Guidelines & Approaches
 
-*Pending*
+[MJM An Approach to Hyponatremia](https://mjm.mcgill.ca/article/view/833)
 ## Practice Resources
 
 [AAFP Diagnosis and Management of Sodium Disorders: Hyponatremia and Hypernatremia](https://www.aafp.org/afp/2023/1100/sodium-disorders-hyponatremia-hypernatremia)
