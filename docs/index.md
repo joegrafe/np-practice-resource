@@ -26,7 +26,7 @@ hide: comments
 
 </div>
 
-Welcome to a Nurse Practitioner Practice Resource (NPPR).
+Welcome to a Nurse Practitioner Practice Resource (NPPR), a starting place for your own digital practice resource.
 
 !!! failure "Obligatory Disclaimer: This website is for educational purposes only. It is not to be used to make medical decisions."  
 	- Medical decisions should be made only with the  guidance of a licensed medical professional.
