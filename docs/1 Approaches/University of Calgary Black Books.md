@@ -4,6 +4,19 @@ tags:
 ---
 [Approaches to Medical Presentations](https://blackbook.ucalgary.ca/){ .md-buttons }
 
+<form action="https://blackbook.ucalgary.ca/schemes/" method="get" target="_blank" style="display: flex; gap: 8px; margin: 15px 0;">
+  <input 
+    type="text" 
+    name="term" 
+    placeholder="Search Blackbooks" 
+    style="flex-grow: 1; padding: 10px 14px; border: 1px solid #e4e4e7; border-radius: 6px; font-size: 16px;"
+  >
+  <button type="submit" class="md-button md-button--primary" style="margin: 0;">
+    Search Blackbooks
+  </button>
+</form>
+
+
 <iframe src="https://blackbook.ucalgary.ca/schemes/" width="100%" height="1200px"></iframe>
 
 !!! failure "Blackbook Disclaimer"
