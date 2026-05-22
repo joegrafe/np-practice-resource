@@ -1,6 +1,6 @@
 ---
 title: Submit a Link
-hide_comments: true
+hide: comments
 ---
 Links can also be submitted as "Issues" on the [NPPR Github repository](https://github.com/joegrafe/np-practice-resource/issues).
 

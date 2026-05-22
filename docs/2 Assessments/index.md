@@ -3,7 +3,8 @@ title: Assessments
 tags:
 last-reviewed:
 status:
-hide_comments: true
+hide:
+  - comments
 ---
 <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-vertical: 15px;">
   
