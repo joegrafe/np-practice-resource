@@ -1,9 +1,9 @@
 ---
-title:
+title: Sodium Disorders
 tags:
   - Condition
 status:
-last-reviewed:
+last-reviewed: 2026-05-22
 ---
 ## Canadian Guidelines
 

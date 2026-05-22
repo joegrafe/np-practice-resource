@@ -3,8 +3,31 @@ title: Home
 search:
   exclude: true
 ---
+<div style="display: flex; gap: 12px; flex-wrap: wrap; margin-vertical: 15px;">
+  
+  <a href="https://www.nppr.ca/1%20Approaches/A%20Systematic%20Approach.html" style="display: inline-block; padding: 10px 20px; background-color: #005A9C; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    Approaches
+  </a>
 
-## Welcome to an NP Practice Resource!
+  <a href="https://www.nppr.ca/2%20Assessments" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
+    Assessments
+  </a>
+
+  <a href="https://www.nppr.ca/3%20Conditions" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
+    Conditions
+  </a>
+  
+  <a href="https://www.nppr.ca/4%20Resources" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
+    Resources
+  </a>
+  
+<a href="https://www.nppr.ca/4%20Resources" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
+    Submit a Link
+  </a>
+
+</div>
+
+## Welcome to an Nurse Practitioner Practice Resource (NPPR)
 
 !!! failure "Obligatory Disclaimer: This website is for educational purposes only. It is not to be used to make medical decisions."  
 	- Medical decisions should be made only with the  guidance of a licensed medical professional.
@@ -19,7 +42,7 @@ search:
 	3. Spicy ![🌶](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png)![🌶](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png)![🌶](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png): Have a onenote/notebook like experience on your phone/desktop that directly syncs to the website.  
 
 ??? info "How To's..."  
-	- Submit a link you think would be helpful for other NPs [here](docs/4%20Resources/index.md) or by commenting on the page.  
+	- Submit a link you think would be helpful for other NPs [here](docs/About/Submissions.md) or by commenting on the page.  
 	- To download this website as an offline app, check out [How to - Save as an App](About/FAQ/How%20to%20-%20Save%20as%20an%20App.md).  
 	- To participate in the comments sections here, the [github forums](https://github.com/joegrafe/np-practice-resource/discussions), or to edit pages, sign up for a [www.github.com](https://www.github.com) account.  
 
