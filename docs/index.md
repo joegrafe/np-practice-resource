@@ -1,6 +1,5 @@
 ---
 title:
-search: '{"exclude":true}'
 ---
 # Nurse Practitioner Practice Resource (NPPR)
 

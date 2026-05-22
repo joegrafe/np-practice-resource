@@ -1,7 +1,6 @@
 ---
 title: About NPPR
 hide_comments: true
-search: '{"exclude":true}'
 ---
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-vertical: 15px;">
