@@ -4,7 +4,7 @@ tags:
 ---
 [Approaches to Medical Presentations](https://blackbook.ucalgary.ca/){ .md-buttons }
 
-<iframe src="https://blackbook.ucalgary.ca/schemes/" width="100%" height="600px"></iframe>
+<iframe src="https://blackbook.ucalgary.ca/schemes/" width="100%" height="1200px"></iframe>
 
 !!! failure "Blackbook Disclaimer"
 	- This material is for educational purposes only.  
