@@ -5,6 +5,8 @@ search: '{"exclude":true}'
 ---
 Nurse Practitioner Practice Resource (NPPR) is meant to be a public, cooperative repository you can use to build your own practice resource. 
 
+It can also be viewed, discussed, and worked on through the [NPPR GitHub repository forums](https://github.com/joegrafe/np-practice-resource/discussions).
+
 ??? info "The Goal"  
 	The goal of this project is to have a first-stop for nurse practitioners and students to build our personal practice resources. Let's collaboratively build a digital practice resource for Nurse Practitioners with an emphasis on British Columbia, Canada. 
 	

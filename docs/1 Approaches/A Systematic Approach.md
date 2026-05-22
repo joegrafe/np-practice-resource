@@ -1,4 +1,4 @@
-A draft framework for a clinical process and considerations when working through Case Studies.
+A draft framework for a clinical process and considerations when working through Case Based Learning.
 
 #### 1. History Taking
 	Patient-Centred Interviewing
@@ -10,8 +10,8 @@ A draft framework for a clinical process and considerations when working through
 	- "If it's not in your differentials, it won't be your diagnosis". 
 #### 2. Physical Examination
 	Focused vs Comprehensive
-	Anatomic: *System above, system below*
-	Physiologic: *Systems cause and effect*
+	Anatomic: *"System above, system below"*
+	Physiologic: *"Cause and effect"*
 #### 3. Problem Representation and Framing
 	Diagnostic Frameworks (Anatomic, Physiologic, Organ/System)
 	Illness Scripts (Key Features)
