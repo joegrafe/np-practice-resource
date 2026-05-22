@@ -1,5 +1,5 @@
 ---
-title: Nurse Practitioner Practice Resource (NPPR)
+title: Home
 ---
 <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-vertical: 15px;">
   
@@ -24,6 +24,8 @@ title: Nurse Practitioner Practice Resource (NPPR)
   </a>
 
 </div>
+
+Welcome to a Nurse Practitioner Practice Resource (NPPR).
 
 !!! failure "Obligatory Disclaimer: This website is for educational purposes only. It is not to be used to make medical decisions."  
 	- Medical decisions should be made only with the  guidance of a licensed medical professional.
