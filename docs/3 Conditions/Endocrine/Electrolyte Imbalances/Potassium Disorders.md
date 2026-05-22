@@ -2,6 +2,8 @@
 title: Potassium Disorders
 tags:
   - Condition
+  - K
+  - -kalemia
 status:
 last-reviewed: 2026-05-22
 ---

@@ -2,6 +2,8 @@
 title: Sodium Disorders
 tags:
   - Condition
+  - "#Na"
+  - -natremia
 status:
 last-reviewed: 2026-05-22
 ---
