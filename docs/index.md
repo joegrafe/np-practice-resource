@@ -32,4 +32,4 @@ Welcome to a Nurse Practitioner Practice Resource (NPPR), a starting place for y
 	- Medical decisions should be made only with the  guidance of a licensed medical professional.
 	- Medical professionals should use their own clinical judgement when assessing, appraising and applying all resources and material.
 
-  
+[auto-index-grid]
