@@ -4,7 +4,7 @@ tags:
   - HTN
   - Condition
 status:
-last-reviewed: 2024-04-16
+last-reviewed: 2026-04-16
 ---
 ## Canadian Guidelines
 

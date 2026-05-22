@@ -4,7 +4,7 @@ tags:
   - Condition
   - LBP
 status:
-last-reviewed:
+last-reviewed: 2026-04-06
 ---
 ## Canadian Guidelines
 
