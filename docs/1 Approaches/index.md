@@ -24,7 +24,7 @@ hide:
     Resources
   </a>
   
-<a href="https://www.nppr.ca/4%20Resources" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
+<a href="https://www.nppr.ca/About/Submissions.html" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
     Submit a Link
   </a>
 
