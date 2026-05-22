@@ -20,7 +20,7 @@ hide: comments
     Resources
   </a>
   
-<a href="https://www.nppr.ca/4%20Resources" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
+<a href="https://www.nppr.ca/About/Submissions.html" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
     Submit a Link
   </a>
 
@@ -28,7 +28,7 @@ hide: comments
 
 Welcome to a Nurse Practitioner Practice Resource (NPPR), a starting place for your own digital practice resource.
 
-!!! failure "Obligatory Disclaimer: This website is for educational purposes only. It is not to be used to make medical decisions."  
+!!! failure "Obligatory Disclaimer: This website is for educationahttps://www.nppr.ca/About/Submissions.htmll purposes only. It is not to be used to make medical decisions."  
 	- Medical decisions should be made only with the  guidance of a licensed medical professional.
 	- Medical professionals should use their own clinical judgement when assessing, appraising and applying all resources and material.
 
