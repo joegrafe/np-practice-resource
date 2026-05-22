@@ -28,4 +28,6 @@ hide:
     Submit a Link
   </a>
 
-</div>
+</div>  
+
+[auto-index-grid]
