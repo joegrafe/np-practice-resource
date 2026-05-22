@@ -1,5 +1,5 @@
 ---
-title: Chronic Kidney Disease
+title: Chronic Kidney Disease (CKD)
 tags:
   - Condition
   - CKD
