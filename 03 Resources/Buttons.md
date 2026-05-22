@@ -57,3 +57,57 @@ HTML
 ```
 <a href="https://example.com" target="_blank" style="...">Open in New Tab</a>
 ```
+
+To arrange buttons in a clean, horizontal row that looks great on desktop but automatically drops down into a stack on mobile screens, you want to use a layout container called **Flexbox**.
+
+Here are the two ways to implement this, depending on whether you prefer the native Markdown theme styles or raw HTML.
+
+### **Method 1: Universal HTML Flexbox (Safest & Most Customizable)**
+
+This approach gives you total control over the spacing and guarantees the layout won’t break on mobile. It wraps standard HTML buttons inside a flex container.
+
+Paste this into your Markdown file:
+
+HTML
+
+```
+<div style="display: flex; gap: 12px; flex-wrap: wrap; margin-vertical: 15px;">
+  
+  <a href="https://example.com/1" style="display: inline-block; padding: 10px 20px; background-color: #005A9C; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    Primary Action
+  </a>
+
+  <a href="https://example.com/2" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
+    Secondary Action
+  </a>
+
+  <a href="https://example.com/3" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
+    Third Tool
+  </a>
+
+</div>
+```
+
+### **Method 2: Combining HTML Layout with Material Markdown Buttons**
+
+If you are using the `{ .md-button }` extension from your theme and want to keep using it, you can wrap your Markdown links inside a special HTML `div`.
+
+> **Important:** To make Markdown syntax work inside a raw HTML tag, you _must_ add `markdown="1"` to the opening `<div>` tag.
+
+HTML
+
+```
+<div style="display: flex; gap: 12px; flex-wrap: wrap;" markdown="1">
+
+[First Guideline](https://example.com/1){ .md-button .md-button--primary }
+[Second Guideline](https://example.com/2){ .md-button }
+[Third Guideline](https://example.com/3){ .md-button }
+
+</div>
+```
+
+### **Why this specific code works for Clinical UX**
+
+- **`gap: 12px;`** This handles the perfect horizontal space between the buttons so they don't mash together on a desktop screen.
+    
+- **`flex-wrap: wrap;`** This is the secret sauce for mobile. If an NP pulls up `nppr.ca` on an iPhone, a rigid row of three buttons would overflow off the screen. This attribute forces the second and third buttons to neatly drop down to a new row if space runs out, making them easy to tap with a thumb.

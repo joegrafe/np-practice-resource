@@ -1,10 +1,11 @@
 ---
-title:
+title: Chronic Kidney Disease
 tags:
   - Condition
   - CKD
 status:
 last-reviewed: 2026-05-22
+hide_comments: false
 ---
 ## Canadian Guidelines
 

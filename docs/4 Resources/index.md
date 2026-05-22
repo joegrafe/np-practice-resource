@@ -1,5 +1,5 @@
 ---
-title: Assessments
+title: Resources
 tags:
 last-reviewed:
 status:
@@ -12,7 +12,7 @@ hide_comments: true
     Approaches
   </a>
 
-  <a href="https://www.nppr.ca/2%20Assessments" style="display: inline-block; padding: 10px 20px; background-color: #005A9C; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+  <a href="https://www.nppr.ca/2%20Assessments" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
     Assessments
   </a>
 
@@ -20,7 +20,7 @@ hide_comments: true
     Conditions
   </a>
   
-  <a href="https://www.nppr.ca/4%20Resources" style="display: inline-block; padding: 10px 20px; background-color: #f4f4f5; color: #18181b; text-decoration: none; border-radius: 6px; font-weight: bold; border: 1px solid #e4e4e7;">
+  <a href="https://www.nppr.ca/4%20Resources" style="display: inline-block; padding: 10px 20px; background-color: #005A9C; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
     Resources
   </a>
   
