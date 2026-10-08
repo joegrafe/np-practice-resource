@@ -11,7 +11,7 @@ last-reviewed: 2026-05-22
 
 [Primary hyperparathyroidism: review and recommendations on evaluation, diagnosis, and management. A Canadian and international consensus](https://pubmed.ncbi.nlm.nih.gov/27613721/)
 
-[CFP Hypocalcemia: Updates in diagnosis and management for primary care](https://pubmed.ncbi.nlm.nih.gov/22439169/)
+[CFP Hypocalcemia: Updates in diagnosis and management for primary care](https://www.cfp.ca/content/58/2/158)
 ## Practice Resources
 
 [AAFP Initial Approach to Calcium Abnormalities](https://www.aafp.org/afp/2022/0300/p289#initial-approach-to-calcium-abnormalities)

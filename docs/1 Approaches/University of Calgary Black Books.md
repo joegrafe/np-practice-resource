@@ -2,7 +2,8 @@
 tags:
   - Approach
 ---
-[Approaches to Medical Presentations](https://blackbook.ucalgary.ca/){ .md-buttons }
+
+[Approaches to Medical Presentations](https://blackbook.ucalgary.ca/){ .md-button .md-button--primary}
 
 <iframe src="https://blackbook.ucalgary.ca/schemes/" width="100%" height="1200px"></iframe>
 
