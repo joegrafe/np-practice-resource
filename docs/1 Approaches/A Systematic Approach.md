@@ -30,7 +30,6 @@ A draft framework for a clinical process and considerations when working through
 ??? failure "Bias Check: Rule out before ruling in."
 	- As a novice NP, consider "starting from the bottom" and ruling out must-not-miss diagnoses before focusing on the leading diagnosis. 
 	- Don't underestimate "Red Flags". Refresh your understanding of their definitions (e.g. metabolic decompensation in the initial pharmacological treatment of Type 2 Diabetes).
-	
 #### 6. Diagnostic Testing and Evaluation
 	Test Selection
 		Sequential vs Simultaneous testing
