@@ -4,10 +4,10 @@ type: condition
 system: cardiovascular
 tags: [condition, cardiovascular, htn, adults, older-adults]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-htn
     title: "BC Guidelines: Hypertension - Diagnosis and Management"
@@ -258,7 +258,7 @@ sources:
     kind: summary
     version: "2025"
     pdf: "https://www.cmaj.ca/content/cmaj/suppl/2025/05/23/197.20.E549.DC1/241770-guide-at-2.pdf"
-    checked:
+    checked: 2026-10-09
   - id: htn-canada-clinician-pocket-card
     title: "Hypertension Canada Clinician Pocket Card: Diagnostic Algorithm"
     publisher: Hypertension Canada
@@ -540,9 +540,7 @@ sources:
     url: "https://eyeguru.org/videos/retina/hypertensive-retinopathy/"
     checked: 2026-10-09
 ---
-<!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-09: the CMAJ PDFs of the Hypertension Canada 2025 guideline and its Appendix 2 (cmaj.ca shows a Cloudflare check for PDFs; the article page opened in a browser).
-     The BC guideline web page is dated 2024-06-21, but the guideline and its PDFs are the 2020 version (effective 2020-04-15).
+<!-- The BC guideline web page is dated 2024-06-21, but the guideline and its PDFs are the 2020 version (effective 2020-04-15).
      The 2026-04-16 version of this page cited the 2018 Hypertension Canada pharmacological guidelines; the 2025 primary care guideline replaces them.
      Pregnancy and pediatric hypertension sources are kept on the Populations pages (Pregnancy and Perinatal, Pediatrics).
      Link to the source guidance; don't restate its recommendations. -->

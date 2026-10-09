@@ -3,10 +3,10 @@ title: Pediatrics
 type: population
 tags: [population, pediatrics]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bcch-nephrology
     title: Nephrology (Renal Program, including the Hypertension Clinic)
@@ -48,7 +48,7 @@ sources:
     kind: guideline
     version: "2020 (Can J Cardiol 2020;36(5):596-624)"
     url: "https://www.onlinecjc.ca/article/S0828-282X(20)30191-4/fulltext"
-    checked:
+    checked: 2026-10-09
   - id: pch-paediatric-htn-2021
     title: "Paediatric hypertension for the primary care provider: What you need to know"
     publisher: Paediatrics & Child Health (Canadian Paediatric Society journal)
@@ -56,7 +56,7 @@ sources:
     kind: summary
     version: "2021 (Paediatr Child Health 2021;26(2):93-8)"
     url: "https://doi.org/10.1093/pch/pxaa069"
-    checked:
+    checked: 2026-10-09
   - id: mdcalc-aap-pediatric-htn
     title: AAP Pediatric Hypertension Guidelines
     publisher: MDCalc
@@ -66,9 +66,7 @@ sources:
     url: "https://www.mdcalc.com/calc/4052/aap-pediatric-hypertension-guidelines"
     checked: 2026-10-09
 ---
-<!-- status: review. Set status to published after opening every link.
-     This page so far holds the hypertension notes moved from the Hypertension condition page; the rest of the Population template is filled in step 2.2.
-     Unconfirmed on 2026-10-09: htn-canada-2020-comprehensive (onlinecjc.ca) and pch-paediatric-htn-2021 (academic.oup.com) show a Cloudflare check; citations confirmed in PubMed.
+<!-- This page so far holds the hypertension notes moved from the Hypertension condition page; the rest of the Population template is filled in step 2.2.
      Link to the source guidance; don't restate its recommendations. -->
 *Sources and services for infants, children and youth.*
 
