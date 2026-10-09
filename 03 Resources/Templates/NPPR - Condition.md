@@ -35,7 +35,7 @@ sources:
 	*Only chapters relevant to primary care are listed here*  
 	- [Chapter](URL)  
 
-<!-- BC first, then national, then international (label it). One block per source in the sources list above. -->
+<!-- BC first, then national, then international (label it). One block per source in the sources list above. Relevant to Primary Care -->
 
 ## Algorithms and Pathways
 
@@ -46,7 +46,7 @@ sources:
 
 - [Tool Name](URL) — *what it's for*
 
-<!-- include relevant calculators from mdcalc.com first -->
+<!-- include relevant calculators from mdcalc.com first then other sites as required -->
 
 ## Prescribing
 
