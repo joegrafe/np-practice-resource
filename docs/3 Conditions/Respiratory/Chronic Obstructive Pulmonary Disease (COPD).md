@@ -243,14 +243,6 @@ sources:
     version: "2025-05-01"
     url: "https://www.primarycarealberta.ca/pathways/424/clinical"
     checked: 2026-10-09
-  - id: calgary-copd-pathway
-    title: "Primary care pathway: Chronic obstructive pulmonary disease (COPD)"
-    publisher: Specialist Link (Calgary Zone)
-    jurisdiction: CA
-    kind: pathway
-    version: May 2025
-    pdf: "https://www.specialistlink.ca/assets/pdf/Respirology_COPD_Pathway.pdf"
-    checked: 2026-10-09
   - id: ab-pathway-hub-lung-testing
     title: "Alberta's Pathway Hub: Lung Testing for Ages 6 and Above"
     publisher: Primary Care Alberta
@@ -370,7 +362,6 @@ sources:
 ## Algorithms and Pathways
 
 - [Alberta's Pathway Hub: Chronic Obstructive Pulmonary Disease (COPD) (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/424/clinical) — *Alberta referral guideline last updated May 1, 2025; choose "All" when the hub asks for an area*
-    - [Primary Care Pathway: COPD, Calgary (Specialist Link, PDF, updated May 2025)](https://www.specialistlink.ca/assets/pdf/Respirology_COPD_Pathway.pdf)
 - [Alberta's Pathway Hub: Lung Testing for Ages 6 and Above (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/436/clinical) — *clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024)*
 
 ## Assessment Tools and Calculators
