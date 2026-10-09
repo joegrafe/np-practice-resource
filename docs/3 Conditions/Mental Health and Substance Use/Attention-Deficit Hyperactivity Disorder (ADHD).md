@@ -4,10 +4,10 @@ type: condition
 system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, adhd, pediatrics, adolescents, inattention, hyperactivity]
 jurisdiction: [BC, CA]
-status: review
+status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-pharmacare-lcd-methylphenidate
     title: Limited coverage criteria - methylphenidate
@@ -389,8 +389,7 @@ sources:
     url: "https://caddac.ca/about-adhd/ages-7-17-yrs/"
     checked: 2026-10-09
 ---
-<!-- status: review. Set status to published after opening every link.
-     No BC Guidelines (GPAC) guideline and no Alberta Pathway Hub pathway exists for ADHD; CADDRA and CPS are the main Canadian sources.
+<!-- No BC Guidelines (GPAC) guideline and no Alberta Pathway Hub pathway exists for ADHD; CADDRA and CPS are the main Canadian sources.
      The Compass ADHD toolkit is hosted on articulate.com, which the build environment can't reach, so the page links Compass's education page instead.
      MDCalc has no pediatric ADHD tool (only the adult ASRS). International guidance (AAP, NICE) is left out because Canadian guidance exists.
      bcchildrens.ca refuses automated requests, so the weekly link check lists its links under "check by hand".
@@ -431,15 +430,15 @@ sources:
 
 ## Prescribing
 
+- [CADDRA Guide to ADHD Pharmacological Treatments in Canada (May 2026, PDF)](https://www.caddra.ca/wp-content/uploads/CADDRA_ADHD-Medication-Chart_EN_FINAL.pdf)
+- [CADDRA Patient ADHD Medication Form (PDF)](https://www.caddra.ca/wp-content/uploads/CADDRA-Patient-ADHD-Medication-Form.pdf) — *for tracking medication response and side effects*
+- [RxFiles: ADHD](https://www.rxfiles.ca/rxfiles/uploads/documents/books/adhd.html) — *drug comparison chart and newsletter for children, adolescents and adults; some documents need an RxFiles subscription*
 - PharmaCare Special Authority criteria for long-acting ADHD medications:
     - [Methylphenidate (last updated July 23, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-methylphenidate)
     - [Lisdexamfetamine (last updated July 23, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-lisdexamfetamine)
     - [Dextroamphetamine-amphetamine, mixed amphetamine salts (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-dextroamphetamine-amphetamine)
     - [Atomoxetine (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-atomoxetine)
 - [PharmaCare Special Authority Request: ADHD Medication Coverage (HLTH 5472, rev. 2025/07/23)](https://www2.gov.bc.ca/assets/gov/health/forms/5472fil.pdf)
-- [CADDRA Guide to ADHD Pharmacological Treatments in Canada (May 2026, PDF)](https://www.caddra.ca/wp-content/uploads/CADDRA_ADHD-Medication-Chart_EN_FINAL.pdf)
-- [CADDRA Patient ADHD Medication Form (PDF)](https://www.caddra.ca/wp-content/uploads/CADDRA-Patient-ADHD-Medication-Form.pdf) — *for tracking medication response and side effects*
-- [RxFiles: ADHD](https://www.rxfiles.ca/rxfiles/uploads/documents/books/adhd.html) — *drug comparison chart and newsletter for children, adolescents and adults; some documents need an RxFiles subscription*
 
 ## Advice and Referral
 

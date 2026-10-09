@@ -350,8 +350,8 @@ sources:
     - [Warfarin (2026-07-05)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=WARFARIN)
     - [Warfarin: Management of Out-of-Range INRs (2025-06-15)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=45)
     - [Warfarin: Perioperative Management (2026-06-24)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=PERIOPERATIVEMANAGEMENTOFPATIE_1)
-- [PharmaCare Special Authority Request: Dabigatran for Atrial Fibrillation (HLTH 5391, rev. 2023/12/05)](https://www2.gov.bc.ca/assets/gov/health/forms/5391fil.pdf)
 - [RxFiles: Atrial Fibrillation Anticoagulation Colour Comparison Chart (July 2025, PDF)](https://www.rxfiles.ca/RxFiles/uploads/documents/AFib-WarfarinVsNOACs.pdf)
+- [PharmaCare Special Authority Request: Dabigatran for Atrial Fibrillation (HLTH 5391, rev. 2023/12/05)](https://www2.gov.bc.ca/assets/gov/health/forms/5391fil.pdf)
 
 ## Advice and Referral
 
