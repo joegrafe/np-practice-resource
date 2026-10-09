@@ -2,9 +2,17 @@
 title: Cardiovascular Risk and Lipids
 type: condition
 system: cardiovascular
-tags: [condition, cardiovascular, cv-risk, lipids, dyslipidemia, adults]
-jurisdiction: [BC, CA]
-status: review
+tags:
+  - condition
+  - cardiovascular
+  - cv-risk
+  - lipids
+  - dyslipidemia
+  - adults
+jurisdiction:
+  - BC
+  - CA
+status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
 reviewers: []
@@ -15,8 +23,8 @@ sources:
     jurisdiction: BC
     kind: guideline
     version: "2021"
-    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease"
-    pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_full_guideline_dec2021_updated_aug2023.pdf"
+    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_full_guideline_dec2021_updated_aug2023.pdf
     checked: 2026-10-09
   - id: bc-gpac-cvd-algorithm
     title: "BC Guidelines: CVD Primary Prevention, Appendix A algorithm"
@@ -24,7 +32,7 @@ sources:
     jurisdiction: BC
     kind: algorithm
     version: "2021"
-    pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixa_dec2021.pdf"
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixa_dec2021.pdf
     checked: 2026-10-09
   - id: bc-gpac-cvd-framingham
     title: "BC Guidelines: CVD Primary Prevention, Appendix B Framingham 10-year risk estimation"
@@ -32,7 +40,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2021"
-    pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixb_dec2021.pdf"
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixb_dec2021.pdf
     checked: 2026-10-09
   - id: bc-gpac-cvd-lipid-testing
     title: "BC Guidelines: CVD Primary Prevention, Appendix C lipid testing"
@@ -40,7 +48,7 @@ sources:
     jurisdiction: BC
     kind: summary
     version: "2021"
-    pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixc_dec2021.pdf"
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixc_dec2021.pdf
     checked: 2026-10-09
   - id: bc-gpac-cvd-statin-table
     title: "BC Guidelines: CVD Primary Prevention, Appendix D pharmaceutical table"
@@ -48,7 +56,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2021"
-    pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixd_dec2021.pdf"
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixd_dec2021.pdf
     checked: 2026-10-09
   - id: bc-gpac-cvd-resource-guide
     title: "Resource Guide for Physicians: Tools for Primary Prevention of Cardiovascular Disease"
@@ -56,7 +64,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2021"
-    pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_associated-document_dec2021.pdf"
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_associated-document_dec2021.pdf
     checked: 2026-10-09
   - id: healthlinkbc-high-cholesterol
     title: High Cholesterol
@@ -64,7 +72,7 @@ sources:
     jurisdiction: BC
     kind: patient
     version:
-    url: "https://www.healthlinkbc.ca/healthwise/high-cholesterol"
+    url: https://www.healthlinkbc.ca/healthwise/high-cholesterol
     checked: 2026-10-09
   - id: race-connect
     title: "RACE: Rapid Access to Consultative Expertise"
@@ -72,15 +80,15 @@ sources:
     jurisdiction: BC
     kind: tool
     version:
-    url: "https://www.raceconnect.ca/"
+    url: https://www.raceconnect.ca/
     checked: 2026-10-09
   - id: ccs-dyslipidemia-2021
-    title: "2021 Canadian Cardiovascular Society Guidelines for the Management of Dyslipidemia for the Prevention of Cardiovascular Disease in Adults"
+    title: 2021 Canadian Cardiovascular Society Guidelines for the Management of Dyslipidemia for the Prevention of Cardiovascular Disease in Adults
     publisher: Canadian Cardiovascular Society
     jurisdiction: CA
     kind: guideline
     version: "2021"
-    url: "https://doi.org/10.1016/j.cjca.2021.03.016"
+    url: https://doi.org/10.1016/j.cjca.2021.03.016
     checked: 2026-10-09
   - id: peer-lipid-2023
     title: "PEER simplified lipid guideline 2023 update: Prevention and management of cardiovascular disease in primary care"
@@ -88,7 +96,7 @@ sources:
     jurisdiction: CA
     kind: guideline
     version: "2023"
-    url: "https://www.cfp.ca/content/69/10/675"
+    url: https://www.cfp.ca/content/69/10/675
     checked: 2026-10-09
   - id: tfp-343-lipoproteins
     title: "Tools for Practice #343: Non-traditional lipoproteins for cardiovascular risk"
@@ -96,7 +104,7 @@ sources:
     jurisdiction: CA
     kind: summary
     version: "2023"
-    url: "https://cfpclearn.ca/tfp343/"
+    url: https://cfpclearn.ca/tfp343/
     checked: 2026-10-09
   - id: tfp-121-nonfasting-lipids
     title: "Tools for Practice #121: Can I get my cholesterol checked fast (without fasting)?"
@@ -104,7 +112,7 @@ sources:
     jurisdiction: CA
     kind: summary
     version: "2014"
-    url: "https://cfpclearn.ca/tfp121/"
+    url: https://cfpclearn.ca/tfp121/
     checked: 2026-10-09
   - id: tfp-23-ezetimibe
     title: "Tools for Practice #23: Ezetimibe: Lowers LDL cholesterol but what else?"
@@ -112,7 +120,7 @@ sources:
     jurisdiction: CA
     kind: summary
     version: "2010"
-    url: "https://cfpclearn.ca/tfp23/"
+    url: https://cfpclearn.ca/tfp23/
     checked: 2026-10-09
   - id: rxfiles-lipids
     title: "RxFiles: Lipids"
@@ -120,15 +128,15 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://www.rxfiles.ca/rxfiles/uploads/documents/books/lipids.html"
+    url: https://www.rxfiles.ca/rxfiles/uploads/documents/books/lipids.html
     checked: 2026-10-09
   - id: rxfiles-statin-intolerance
     title: "RxFiles: Statin Intolerance"
     publisher: RxFiles
     jurisdiction: CA
     kind: summary
-    version: "Nov 2024"
-    pdf: "https://www.rxfiles.ca/RxFiles/uploads/documents/Lipid-Statin-Intolerance.pdf"
+    version: Nov 2024
+    pdf: https://www.rxfiles.ca/RxFiles/uploads/documents/Lipid-Statin-Intolerance.pdf
     checked: 2026-10-09
   - id: heart-stroke-managing-cholesterol
     title: Managing cholesterol
@@ -136,7 +144,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version:
-    url: "https://www.heartandstroke.ca/heart-disease/risk-and-prevention/condition-risk-factors/managing-cholesterol"
+    url: https://www.heartandstroke.ca/heart-disease/risk-and-prevention/condition-risk-factors/managing-cholesterol
     checked: 2026-10-09
   - id: heart-stroke-cholesterol-guide
     title: How to manage your cholesterol
@@ -144,7 +152,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version:
-    pdf: "https://www.heartandstroke.ca/-/media/pdf-files/canada/heart/how-to-manage-your-cholesterol-en.pdf"
+    pdf: https://www.heartandstroke.ca/-/media/pdf-files/canada/heart/how-to-manage-your-cholesterol-en.pdf
     checked: 2026-10-09
 ---
 <!-- status: review. Set status to published after opening every link.

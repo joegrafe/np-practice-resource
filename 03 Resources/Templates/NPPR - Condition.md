@@ -41,6 +41,7 @@ sources:
 
 - [Algorithm Name (Publisher, Year)](PDF URL)
 
+<!-- BC first, then Alberta pathway hub. -->
 ## Assessment Tools and Calculators
 
 - [Tool Name](URL) — *what it's for*
