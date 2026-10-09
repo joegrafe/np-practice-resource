@@ -1,8 +1,12 @@
 ---
 title: <% tp.file.folder(false).replace(/^\d+\s+/, '') %>
-tags:
+type: index
+tags: [index]
+jurisdiction: [BC, CA]
 status: draft
 last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
+review-due: <% tp.date.now("YYYY-MM-DD", 365) %>
+reviewers: []
 hide:
   - comments
 ---

@@ -1,9 +1,23 @@
 ---
 title: <% tp.file.title %>
-tags:
-  - Assessment
+type: assessment
+tags: [assessment]
+jurisdiction: [BC, CA]
 status: draft
 last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
+review-due: <% tp.date.now("YYYY-MM-DD", 365) %>
+reviewers: []
+sources:
+  # BC sources first, then national, then international (INTL). Field list: FRONTMATTER.md
+  - id:
+    title:
+    publisher:
+    jurisdiction: BC
+    kind: guideline        # guideline | algorithm | pathway | summary | tool | patient
+    version:
+    url:
+    pdf:                   # publisher's own PDF link only
+    checked: <% tp.date.now("YYYY-MM-DD") %>
 ---
 *Scope: which system or exam this covers and when it's used in primary care.*
 
@@ -11,7 +25,7 @@ last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
 - Key question
 - Key question
 
-## Physical Exam
+## Exam and Special Tests
 
 | **Test / Manoeuvre** | **Technique** | **Positive Finding** | **Sn / Sp** | **Link** |
 | -------------------- | ------------- | -------------------- | ----------- | -------- |

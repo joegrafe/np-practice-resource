@@ -1,9 +1,23 @@
 ---
 title: <% tp.file.title %>
-tags:
-  - Approach
+type: approach
+tags: [approach]
+jurisdiction: [BC, CA]
 status: draft
 last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
+review-due: <% tp.date.now("YYYY-MM-DD", 365) %>
+reviewers: []
+sources:
+  # BC sources first, then national, then international (INTL). Field list: FRONTMATTER.md
+  - id:
+    title:
+    publisher:
+    jurisdiction: BC
+    kind: guideline        # guideline | algorithm | pathway | summary | tool | patient
+    version:
+    url:
+    pdf:                   # publisher's own PDF link only
+    checked: <% tp.date.now("YYYY-MM-DD") %>
 ---
 *One sentence on what clinical process this framework supports and when to use it.*
 
