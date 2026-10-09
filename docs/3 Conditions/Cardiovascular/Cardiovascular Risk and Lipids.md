@@ -66,6 +66,14 @@ sources:
     version:
     url: "https://www.healthlinkbc.ca/healthwise/high-cholesterol"
     checked: 2026-10-09
+  - id: race-connect
+    title: "RACE: Rapid Access to Consultative Expertise"
+    publisher: RACE
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://www.raceconnect.ca/"
+    checked: 2026-10-09
   - id: ccs-dyslipidemia-2021
     title: "2021 Canadian Cardiovascular Society Guidelines for the Management of Dyslipidemia for the Prevention of Cardiovascular Disease in Adults"
     publisher: Canadian Cardiovascular Society
@@ -82,6 +90,30 @@ sources:
     version:
     url: "https://www.cfp.ca/content/69/10/675"
     checked:
+  - id: tfp-343-lipoproteins
+    title: "Tools for Practice #343: Non-traditional lipoproteins for cardiovascular risk"
+    publisher: CFPCLearn (Tools for Practice)
+    jurisdiction: CA
+    kind: summary
+    version: "2023"
+    url: "https://cfpclearn.ca/tfp343/"
+    checked: 2026-10-09
+  - id: tfp-121-nonfasting-lipids
+    title: "Tools for Practice #121: Can I get my cholesterol checked fast (without fasting)?"
+    publisher: CFPCLearn (Tools for Practice)
+    jurisdiction: CA
+    kind: summary
+    version: "2014"
+    url: "https://cfpclearn.ca/tfp121/"
+    checked: 2026-10-09
+  - id: tfp-23-ezetimibe
+    title: "Tools for Practice #23: Ezetimibe: Lowers LDL cholesterol but what else?"
+    publisher: CFPCLearn (Tools for Practice)
+    jurisdiction: CA
+    kind: summary
+    version: "2010"
+    url: "https://cfpclearn.ca/tfp23/"
+    checked: 2026-10-09
   - id: rxfiles-lipids
     title: "RxFiles: Lipids"
     publisher: RxFiles
@@ -136,6 +168,11 @@ sources:
 ??? info "[PEER Simplified Lipid Guideline 2023 Update](https://www.cfp.ca/content/69/10/675)"
 	*Canadian Family Physician, 2023. Primary care guideline from the PEER group.*  
 
+??? info "Tools for Practice (CFPCLearn) evidence summaries"
+	- [#343 Non-traditional lipoproteins for cardiovascular risk (2023)](https://cfpclearn.ca/tfp343/)  
+	- [#121 Can I get my cholesterol checked fast (without fasting)? (2014)](https://cfpclearn.ca/tfp121/)  
+	- [#23 Ezetimibe: Lowers LDL cholesterol but what else? (2010)](https://cfpclearn.ca/tfp23/)  
+
 ## Algorithms and Pathways
 
 - [BC Guidelines: Appendix A - Primary Prevention of Cardiovascular Disease Algorithm (BC GPAC, 2021)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixa_dec2021.pdf)
@@ -154,7 +191,7 @@ sources:
 
 ## Advice and Referral
 
-*Pending*
+- [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
 
 ## Patient Resources
 
