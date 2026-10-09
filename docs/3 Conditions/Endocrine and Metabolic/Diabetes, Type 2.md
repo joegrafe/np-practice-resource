@@ -22,9 +22,9 @@ sources:
     publisher: Diabetes Canada
     jurisdiction: CA
     kind: guideline
-    version:
-    url: "https://guidelines.diabetes.ca/cpg"
-    checked:
+    version: "2018, chapter updates 2023-2025"
+    url: "https://www.diabetes.ca/for-professionals/full-guidelines"
+    checked: 2026-10-09
 ---
 ## Canadian Guidelines
 

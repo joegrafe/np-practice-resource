@@ -26,13 +26,13 @@ sources:
     url: "https://www.cfp.ca/content/68/3/179"
     checked:
   - id: ahs-low-back-pathway
-    title: "Provincial Spine: Low Back Primary Care Clinical Pathway"
-    publisher: Alberta Health Services
+    title: "Spine: Low Back Clinical Pathway"
+    publisher: Primary Care Alberta / Alberta Bone & Joint Health Institute
     jurisdiction: CA
     kind: pathway
-    version:
-    pdf: "https://www.albertahealthservices.ca/assets/info/aph/if-aph-prov-spine-low-back-primary-care-pathway.pdf"
-    checked:
+    version: "2025-06-18"
+    url: "https://www.primarycarealberta.ca/pathways/546/clinical"
+    checked: 2026-10-09
 ---
 ## Canadian Guidelines
 
