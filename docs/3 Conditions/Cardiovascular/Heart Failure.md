@@ -74,6 +74,22 @@ sources:
     version:
     url: "https://www.raceconnect.ca/"
     checked: 2026-10-09
+  - id: ccs-chfs-hfnref-2025
+    title: "CCS/CHFS 2025 Guideline Update for Pharmacologic Management of Heart Failure With Nonreduced Ejection Fraction (LVEF > 40%)"
+    publisher: Canadian Cardiovascular Society / Canadian Heart Failure Society
+    jurisdiction: CA
+    kind: guideline
+    version: "2025"
+    url: "https://onlinecjc.ca/article/S0828-282X(25)00640-3/fulltext"
+    checked:
+  - id: ccs-chfs-phenotypes-2023
+    title: "CCS/CHFS Focused Clinical Practice Update of Patients With Differing Heart Failure Phenotypes"
+    publisher: Canadian Cardiovascular Society / Canadian Heart Failure Society
+    jurisdiction: CA
+    kind: guideline
+    version: "2023"
+    pdf: "https://heartfailure.ca/sites/default/files/papers/PIIS0828282X23003719.pdf"
+    checked: 2026-10-09
   - id: ccs-chfs-hfref-2021
     title: "CCS/CHFS Heart Failure Guidelines Update: Defining a New Pharmacologic Standard of Care for Heart Failure with Reduced Ejection Fraction"
     publisher: Canadian Cardiovascular Society / Canadian Heart Failure Society
@@ -130,6 +146,22 @@ sources:
     version:
     url: "https://www.rxfiles.ca/rxfiles/uploads/documents/books/heartfailure.html"
     checked: 2026-10-09
+  - id: chfs-patient-resources
+    title: "Canadian Heart Failure Society: Patient Resources (Living Well with Heart Failure)"
+    publisher: Canadian Heart Failure Society
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://heartfailure.ca/patient-resources-0"
+    checked: 2026-10-09
+  - id: chfs-sick-days
+    title: How to manage your heart failure medication on sick days
+    publisher: Canadian Heart Failure Society
+    jurisdiction: CA
+    kind: patient
+    version:
+    pdf: "https://heartfailure.ca/sites/default/files/sick_days_hf_tool_021221.pdf"
+    checked: 2026-10-09
   - id: heart-stroke-heart-failure
     title: Heart failure
     publisher: Heart and Stroke Foundation of Canada
@@ -140,7 +172,7 @@ sources:
     checked: 2026-10-09
 ---
 <!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-09 (publisher sites block automated checks; DOIs resolve to the Canadian Journal of Cardiology): ccs-chfs-hfref-2021, ccs-hf-2017.
+     Unconfirmed on 2026-10-09 (Canadian Journal of Cardiology blocks automated checks; all three are listed on the CHFS guidelines page): ccs-chfs-hfnref-2025, ccs-chfs-hfref-2021, ccs-hf-2017.
      Unconfirmed: calgary-hf-clinical-pathway (specialistlink.ca not reachable from the build environment).
      Link to the source guidance; don't restate its recommendations. -->
 
@@ -155,6 +187,12 @@ sources:
 	- [Indications for Referral](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#indications)  
 	- [Palliative Care and End of Life Care](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#palliative)  
 	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_guideline_complete_2024.pdf)  
+
+??? info "[CCS/CHFS 2025 Guideline Update: Pharmacologic Management of HF With Nonreduced Ejection Fraction, LVEF > 40% (2025)](https://onlinecjc.ca/article/S0828-282X(25)00640-3/fulltext)"
+	*Canadian Journal of Cardiology, 2025. Listed on the [Canadian Heart Failure Society guidelines page](https://heartfailure.ca/education/guidelines-clinical-updates).*  
+
+??? info "[CCS/CHFS Focused Clinical Practice Update: Patients With Differing Heart Failure Phenotypes (2023)](https://heartfailure.ca/sites/default/files/papers/PIIS0828282X23003719.pdf)"
+	*Canadian Journal of Cardiology 2023;39:1030–1040 (PDF hosted by the Canadian Heart Failure Society).*  
 
 ??? info "[CCS/CHFS Heart Failure Guidelines Update: HFrEF Pharmacologic Standard of Care (2021)](https://doi.org/10.1016/j.cjca.2021.01.017)"
 	*Canadian Journal of Cardiology 2021;37(4):531–546.*  
@@ -191,8 +229,9 @@ sources:
 ## Patient Resources
 
 - [What to Do with Heart Failure Medications When I am Sick? (PDF, via BC Guidelines)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/heart-failure-sick-days.pdf)
-- [BC Guidelines: Patient, Family and Caregiver Resources](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#patient)
 - [HealthLink BC - Heart Failure](https://www.healthlinkbc.ca/healthwise/heart-failure)
+- [Canadian Heart Failure Society - Patient Resources (Living Well with Heart Failure)](https://heartfailure.ca/patient-resources-0)
+- [Canadian Heart Failure Society - How to manage your heart failure medication on sick days (PDF)](https://heartfailure.ca/sites/default/files/sick_days_hf_tool_021221.pdf)
 - [Heart & Stroke - Heart failure](https://www.heartandstroke.ca/heart-disease/conditions/heart-failure)
 
 ## Evidence Pack
