@@ -4,10 +4,10 @@ type: condition
 system: neurology
 tags: [condition, neurology, concussion, mtbi, head-injury, adults, pediatrics, headache]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-concussion-mtbi
     title: "BC Guidelines: Concussion / Mild Traumatic Brain Injury (mTBI)"
@@ -323,7 +323,7 @@ sources:
     kind: tool
     version:
     url: "https://www.physio-pedia.com/Vestibular_Oculomotor_Motor_Screening_(VOMS)_Assessment"
-    checked:
+    checked: 2026-10-09
   - id: mdcalc-canadian-ct-head
     title: Canadian CT Head Injury/Trauma Rule
     publisher: MDCalc
@@ -381,9 +381,7 @@ sources:
     url: "https://www.mdcalc.com/calc/3702/pediatric-glasgow-coma-scale-pgcs"
     checked: 2026-10-09
 ---
-<!-- status: review. Set status to published after opening every link.
-     Not reachable from the build environment on 2026-10-09: CATT resource letters (resources.cattonline.com), SCAT6/Child SCAT6 (bjsm.bmj.com shows a bot check; the Concussion Recognition Tool 6 is linked instead) and the VOMS form itself (impacttest.app.box.com, drrandallmoore.com; the Living Concussion Guidelines vestibular section that links it is listed instead).
-     Unconfirmed on 2026-10-09: physiopedia-voms (physio-pedia.com shows a bot check).
+<!-- Not reachable from the build environment on 2026-10-09: CATT resource letters (resources.cattonline.com), SCAT6/Child SCAT6 (bjsm.bmj.com shows a bot check; the Concussion Recognition Tool 6 is linked instead) and the VOMS form itself (impacttest.app.box.com, drrandallmoore.com; the Living Concussion Guidelines vestibular section that links it is listed instead).
      G.F. Strong Adult Concussion Service (vch.ca) refuses automated requests and is left out.
      Alberta's Pathway Hub entries are linked in place of Specialist Link's Calgary pathways, which they repeat.
      Link to the source guidance; don't restate its recommendations. -->
