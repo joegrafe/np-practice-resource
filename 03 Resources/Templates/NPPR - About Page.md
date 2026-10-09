@@ -1,5 +1,9 @@
 ---
 title: <% tp.file.title %>
+type: about
+status: draft
+last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
+review-due: <% tp.date.now("YYYY-MM-DD", 365) %>
 hide:
   - comments
 ---

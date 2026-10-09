@@ -1,44 +1,67 @@
 ---
 title: <% tp.file.title %>
-tags:
-  - Condition
-  - <% tp.file.folder(false).replace(/^\d+\s+/, '').replace(/\s+/g, '-') %>
+type: condition
+system: <% tp.file.folder(false).replace(/^\d+\s+/, '').toLowerCase().replace(/\band\b/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') %>
+tags: [condition, <% tp.file.folder(false).replace(/^\d+\s+/, '').toLowerCase().replace(/\band\b/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') %>]
+jurisdiction: [BC, CA]
 status: draft
 last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
+review-due: <% tp.date.now("YYYY-MM-DD", 365) %>
+reviewers: []
+sources:
+  # BC sources first, then national, then international (INTL). Field list: FRONTMATTER.md
+  - id:
+    title:
+    publisher:
+    jurisdiction: BC
+    kind: guideline        # guideline | algorithm | pathway | summary | tool | patient
+    version:
+    url:
+    pdf:                   # publisher's own PDF link only
+    checked: <% tp.date.now("YYYY-MM-DD") %>
 ---
-<!-- status: draft → review → published. Update last-reviewed whenever links are re-checked. -->
+<!-- system comes from the folder name; check it against the list in FRONTMATTER.md.
+     Add population and symptom tags (e.g. pediatrics, chest-pain).
+     status: draft → review → published. Update last-reviewed and each source's checked date when links are re-checked.
+     Link to the source guidance; don't restate its recommendations. -->
 
-## Canadian Guidelines
+## Key Sources
 
-??? info "[BC Guidelines - Condition Name](URL)"
+??? info "[BC Guidelines - Condition Name (Year)](URL)"
 	- [Key Recommendations](URL)  
-	- [Diagnosis](URL)  
-	- [Management](URL)  
 	- [Summary PDF](URL)  
 
 ??? info "[National Guideline Name (Year)](URL)"
 	*Only chapters relevant to primary care are listed here*  
 	- [Chapter](URL)  
-	- [Chapter](URL)  
 
-<!-- BC Guidelines first, then national bodies. One collapsible block per guideline. -->
+<!-- BC first, then national, then international (label it). One block per source in the sources list above. -->
 
-## Practice Resources
+## Algorithms and Pathways
 
-*Pending*
+- [Algorithm Name (Publisher, Year)](PDF URL)
 
-## Assessments, Calculators, and Tools
+## Assessment Tools and Calculators
 
-*Pending*
+- [Tool Name](URL) — *what it's for*
+
+## Prescribing
+
+- [Drug reference or PharmaCare / Special Authority page](URL)
+
+## Advice and Referral
+
+- [RACE / Pathways / service](URL)
 
 ## Patient Resources
 
-*Pending*
+- [Resource Name (Publisher)](URL)
 
-## Spotify Playlist
+## Evidence Pack
 
-<!-- Optional: paste the Spotify embed iframe here, or delete this section. -->
+*Pending: generated from the sources list in a later build step.*
 
 ---
 
+<!-- Optional extras such as a Spotify embed go above this line. -->
 <!-- Review notes as footnotes, e.g.  [^1]: *On YYYY-MM-DD references the 20XX guideline.* -->

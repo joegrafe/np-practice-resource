@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
-type: resource           # use prescribing for pages in the Prescribing section
-tags: [resource]
+type: practice
+tags: [practice]
 jurisdiction: [BC, CA]
 status: draft
 last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
@@ -19,17 +19,20 @@ sources:
     pdf:                   # publisher's own PDF link only
     checked: <% tp.date.now("YYYY-MM-DD") %>
 ---
-**Organization:**  
-**Title:**  
-**Resource:** [URL](URL)  
+<!-- Link each standard or rule to its source (BCCNM, Ministry of Health, etc.). -->
+## Topic
 
-*One or two sentences on what this is and why it's useful for BC NP practice.*
+*One or two sentences on what this practice topic covers for BC NPs.*
 
-### Key Resources
-- **[Resource Name](URL)**: What it covers.
-- **[Resource Name](URL)**: What it covers.
+## Standard or Rule
 
-### Access
-- **Cost:** Free / Subscription / Institutional login
-- **Format:** Web / PDF / App
-- **Scope:** BC / Canada / International
+- [Standard, limit or condition (Publisher, Year)](URL)
+
+## How to Do It in BC
+
+1. Step, linked to the form or system where one exists.
+2. Step.
+
+## Contacts
+
+- **Organization:** [Name](URL) · phone · email
