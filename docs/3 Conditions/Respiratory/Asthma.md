@@ -4,10 +4,10 @@ type: condition
 system: respiratory
 tags: [condition, respiratory, asthma, adults, pediatrics, wheeze]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-asthma
     title: "BC Guidelines: Asthma Diagnosis, Education and Management"
@@ -351,7 +351,7 @@ sources:
     kind: guideline
     version: Sept 2026
     url: "https://doi.org/10.1080/24745332.2026.2704731"
-    checked:
+    checked: 2026-10-09
   - id: cps-mild-asthma-2023
     title: The management of very mild and mild asthma in preschoolers, children, and adolescents
     publisher: Canadian Paediatric Society
@@ -481,11 +481,8 @@ sources:
     url: "https://www.mdcalc.com/calc/10495/asthma-impairment-risk-questionnaire-airq"
     checked: 2026-10-09
 ---
-<!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-09: cts-severe-asthma-2026 (tandfonline.com shows a bot check; the CTS guideline library lists it as current, dated Sept 2026).
-     The three BC patient care flow sheets state no version; the 2023 guideline still links them.
+<!-- The three BC patient care flow sheets state no version; the 2023 guideline still links them.
      bcchildrens.ca refuses automated requests, so the weekly link check lists its links under "check by hand".
-     The Lung Centre (thelungcentre.ca, linked from the BC guideline) now redirects to the Centre for Lung Health (centreforlunghealth.ca).
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
