@@ -14,9 +14,9 @@ sources:
     publisher: McGill Journal of Medicine
     jurisdiction: CA
     kind: summary
-    version:
+    version: "2021"
     url: "https://mjm.mcgill.ca/article/view/833"
-    checked:
+    checked: 2026-10-09
 ---
 ## Canadian Guidelines & Approaches
 

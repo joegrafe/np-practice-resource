@@ -14,33 +14,33 @@ sources:
     publisher: BC GPAC
     jurisdiction: BC
     kind: guideline
-    version:
+    version: "2024"
     url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension"
-    checked:
+    checked: 2026-10-09
   - id: bc-gpac-htn-summary
     title: "Summary of Guideline: Hypertension - Diagnosis and Management"
     publisher: BC GPAC
     jurisdiction: BC
     kind: summary
-    version:
+    version: "2020"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-summary.pdf"
-    checked:
+    checked: 2026-10-09
   - id: bc-gpac-htn-algorithm
     title: "BC Guidelines: Hypertension, Appendix A algorithm"
     publisher: BC GPAC
     jurisdiction: BC
     kind: algorithm
-    version:
+    version: "2020"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-a.pdf"
-    checked:
+    checked: 2026-10-09
   - id: htn-canada-primary-care
     title: Hypertension Canada Primary Care Guidelines
     publisher: Hypertension Canada
     jurisdiction: CA
     kind: guideline
-    version:
+    version: "2025"
     url: "https://hypertension.ca/guidelines/"
-    checked:
+    checked: 2026-10-09
 ---
 ## Canadian Guidelines
 

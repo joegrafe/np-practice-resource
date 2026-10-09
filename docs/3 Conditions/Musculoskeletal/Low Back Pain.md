@@ -14,9 +14,9 @@ sources:
     publisher: BC GPAC
     jurisdiction: BC
     kind: guideline
-    version:
+    version: "2019"
     url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#lowbackpain"
-    checked:
+    checked: 2026-10-09
   - id: peer-chronic-pain
     title: PEER simplified chronic pain guideline
     publisher: PEER / Canadian Family Physician

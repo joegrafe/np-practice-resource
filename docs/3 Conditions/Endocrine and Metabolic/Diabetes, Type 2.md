@@ -14,9 +14,9 @@ sources:
     publisher: BC GPAC
     jurisdiction: BC
     kind: guideline
-    version:
+    version: "2021, revised 2026-05-08"
     url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes"
-    checked:
+    checked: 2026-10-09
   - id: diabetes-canada-cpg
     title: Diabetes Canada Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada
     publisher: Diabetes Canada
