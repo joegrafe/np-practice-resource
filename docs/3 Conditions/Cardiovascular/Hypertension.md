@@ -73,7 +73,7 @@ sources:
 
 [College of Family Physicians of Canada - Managing hypertension in primary care](https://www.cfp.ca/content/65/10/725)
 
-[American Academy of Family Physicians - Hypertension: Clinical Guidance and Practice Resources](https://www.aafp.org/family-physician/patient-care/clinical-recommendations/clinical-guidance-hypertension.html) 
+[American Academy of Family Physicians - Hypertension: Clinical Guidance and Practice Resources](https://www.aafp.org/clinical-insights/cardiometabolic-health/hypertension) 
 ## Assessments, Calculators, and Tools
 
 [eyeguru.org - Hypertensive retinopathy](https://eyeguru.org/videos/retina/hypertensive-retinopathy/)

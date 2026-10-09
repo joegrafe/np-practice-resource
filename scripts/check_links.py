@@ -7,7 +7,11 @@ Report sections:
   Broken      - 404/410, other 4xx/5xx, DNS or connection failures
   Redirected  - the link works but lands on a different address; update it
   Check by hand - the site refused an automated request (401/403/429, cookie
-                  or bot checks); the link may be fine in a browser
+                  or bot checks), sent it to a login page or a redirect loop,
+                  or has an incomplete SSL certificate chain that browsers
+                  repair; the link may be fine in a browser
+Not reported: DOI links resolving to the publisher, and a site's home page
+redirecting to a language or home path on the same site.
 Uses only the Python standard library. Always exits 0; the report is the result.
 """
 import concurrent.futures
@@ -94,6 +98,19 @@ def same_place(a, b):
     return norm(a) == norm(b)
 
 
+LOGIN_RE = re.compile(r"(?i)(log-?in|sign-?in|sign-?up|cta=signup|formsauthentication)")
+
+
+def expected_redirect(url, final):
+    """Redirects that need no change: a DOI resolving to its publisher, or a
+    site's home page moving to a language/home path on the same site."""
+    a, b = urllib.parse.urlsplit(url), urllib.parse.urlsplit(final)
+    if a.hostname in ("doi.org", "dx.doi.org"):
+        return True
+    same_site = (a.hostname or "").removeprefix("www.") == (b.hostname or "").removeprefix("www.")
+    return same_site and a.path in ("", "/") and not a.query
+
+
 def check(url):
     current, hops = url.split("#")[0], 0
     while True:
@@ -105,15 +122,21 @@ def check(url):
             reason = getattr(e, "reason", e)
             if "Tunnel connection failed: 403" in str(reason):
                 return "blocked", "blocked by this environment's network policy", None
+            if "unable to get local issuer certificate" in str(reason):
+                return "blocked", "incomplete SSL certificate chain (usually fine in a browser)", None
             return "broken", f"no response ({reason})", None
-        if code in (301, 302, 303, 307, 308) and location and hops < MAX_REDIRECTS:
+        if code in (301, 302, 303, 307, 308) and location:
+            if hops >= MAX_REDIRECTS:
+                return "blocked", "redirect loop", None
             current, hops = urllib.parse.urljoin(current, location), hops + 1
             continue
         if code in BLOCKED_CODES:
             return "blocked", f"HTTP {code}", None
         if code >= 400:
             return "broken", f"HTTP {code}", None
-        if hops and not same_place(url.split("#")[0], current):
+        if hops and LOGIN_RE.search(current):
+            return "blocked", "sends you to a login or sign-up page", None
+        if hops and not same_place(url.split("#")[0], current) and not expected_redirect(url, current):
             return "redirected", f"HTTP {code}", current
         return "ok", f"HTTP {code}", None
 

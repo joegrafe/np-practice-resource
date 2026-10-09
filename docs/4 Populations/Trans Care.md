@@ -6,7 +6,7 @@ Trans Care BC is a comprehensive provincial resource providing clinical guidelin
 
 ### Key Resources
 - **[Clinical Handbook](https://www.transcarebc.ca/clinical-handbook)**: Comprehensive guide covering fundamentals of TTNB (trans, Two-Spirit, non-binary) care, medical/non-medical transition options, prevention, screening, fertility, and pregnancy care
-- **Clinical Guidelines**: BC's endocrine therapy guidelines, [WPATH Standards of Care](https://www.wpath.org/soc8), and [Endocrine Society practice guidelines](https://www.endocrine.org/clinical-practice-guidelines)
+- **Clinical Guidelines**: BC's endocrine therapy guidelines, [WPATH Standards of Care](https://wpath.org/publications/soc8/), and [Endocrine Society practice guidelines](https://www.endocrine.org/clinical-practice-guidelines)
 - **Hormone Therapy Protocols**: Detailed guidance on assessment, prescription, initiation, and ongoing care
 - **Care Coordination Team**: Navigation support connecting patients and providers to gender-affirming services across BC
 - **Surgical Pathways**: Information sheets, checklists, and referral processes for surgical interventions
