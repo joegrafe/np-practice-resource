@@ -4,10 +4,10 @@ type: condition
 system: cardiovascular
 tags: [condition, cardiovascular, atrial-fibrillation, afib, anticoagulation, doac, warfarin, adults]
 jurisdiction: [BC, CA]
-status: review
+status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-afib
     title: "BC Guidelines: Atrial Fibrillation - Diagnosis and Management"
@@ -156,7 +156,7 @@ sources:
     kind: guideline
     version: "2020"
     url: "https://doi.org/10.1016/j.cjca.2020.09.001"
-    checked:
+    checked: 2026-10-09
   - id: thrombosis-canada-spaf
     title: "Thrombosis Canada Clinical Guide: Stroke Prevention in Atrial Fibrillation"
     publisher: Thrombosis Canada
@@ -278,9 +278,7 @@ sources:
     url: "https://www.heartandstroke.ca/heart-disease/conditions/atrial-fibrillation"
     checked: 2026-10-09
 ---
-<!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-09 (Canadian Journal of Cardiology and ccs.ca block automated checks): ccs-chrs-af-2020. The DOI resolves to the article the BC guideline cites, and the CHRS guidelines page lists this November 2020 guideline as its most recent AF guideline.
-     Thrombosis Canada guide versions are the "Date of Version" each guide states; the older guide PDFs are out of date, so the page links the web guides.
+<!-- Thrombosis Canada guide versions are the "Date of Version" each guide states; the older guide PDFs are out of date, so the page links the web guides.
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
