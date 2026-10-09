@@ -242,14 +242,6 @@ sources:
     version: Last updated 2026-06-03
     url: "https://www.healthlinkbc.ca/healthlinkbc-files/healthy-eating-lower-high-blood-pressure"
     checked: 2026-10-09
-  - id: healthlinkbc-bp-children-teens
-    title: High Blood Pressure in Children and Teens
-    publisher: HealthLink BC
-    jurisdiction: BC
-    kind: patient
-    version: Current as of 2022-09-07
-    url: "https://www.healthlinkbc.ca/healthwise/high-blood-pressure-children-and-teens"
-    checked: 2026-10-09
   - id: htn-canada-primary-care
     title: Hypertension Canada guideline for the diagnosis and treatment of hypertension in adults in primary care
     publisher: Hypertension Canada (CMAJ)
@@ -539,14 +531,6 @@ sources:
     version:
     url: "https://www.mdcalc.com/calc/3939/ckd-epi-equations-glomerular-filtration-rate-gfr"
     checked: 2026-10-09
-  - id: mdcalc-aap-pediatric-htn
-    title: AAP Pediatric Hypertension Guidelines
-    publisher: MDCalc
-    jurisdiction: INTL
-    kind: tool
-    version:
-    url: "https://www.mdcalc.com/calc/4052/aap-pediatric-hypertension-guidelines"
-    checked: 2026-10-09
   - id: eyeguru-hypertensive-retinopathy
     title: Hypertensive Retinopathy
     publisher: EyeGuru
@@ -560,9 +544,12 @@ sources:
      Unconfirmed on 2026-10-09: the CMAJ PDFs of the Hypertension Canada 2025 guideline and its Appendix 2 (cmaj.ca shows a Cloudflare check for PDFs; the article page opened in a browser).
      The BC guideline web page is dated 2024-06-21, but the guideline and its PDFs are the 2020 version (effective 2020-04-15).
      The 2026-04-16 version of this page cited the 2018 Hypertension Canada pharmacological guidelines; the 2025 primary care guideline replaces them.
+     Pregnancy and pediatric hypertension sources are kept on the Populations pages (Pregnancy and Perinatal, Pediatrics).
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
+
+*Hypertension in pregnancy and in children: see [Pregnancy and Perinatal](../../4%20Populations/Pregnancy%20and%20Perinatal.md) and [Pediatrics](../../4%20Populations/Pediatrics/Pediatrics.md) under Populations.*
 
 ??? info "[BC Guidelines - Hypertension - Diagnosis and Management (2020; web page published 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension)"
 	- [Key Recommendations](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#recommendations)
@@ -632,7 +619,6 @@ sources:
 - [BC Guidelines: CVD Primary Prevention Appendix B - Framingham 10-year Risk Estimation (BC GPAC, 2021)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixb_dec2021.pdf)
 - [MDCalc - Framingham Risk Score for Hard Coronary Heart Disease](https://www.mdcalc.com/calc/38/framingham-risk-score-hard-coronary-heart-disease)
 - [MDCalc - CKD-EPI Equations for Glomerular Filtration Rate (GFR)](https://www.mdcalc.com/calc/3939/ckd-epi-equations-glomerular-filtration-rate-gfr)
-- [MDCalc - AAP Pediatric Hypertension Guidelines](https://www.mdcalc.com/calc/4052/aap-pediatric-hypertension-guidelines) — *international (American Academy of Pediatrics) BP percentiles for children*
 - [EyeGuru - Hypertensive Retinopathy](https://eyeguru.org/videos/retina/hypertensive-retinopathy/)
 - [BC Guidelines: Appendix E - Hypertension Quality Indicators (BC GPAC, 2020)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-e.pdf)
 
@@ -672,7 +658,6 @@ sources:
 - [HealthLink BC - High Blood Pressure: Checking Your Blood Pressure at Home](https://www.healthlinkbc.ca/healthwise/high-blood-pressure-checking-your-blood-pressure-home)
 - [HealthLinkBC File: Healthy Eating to Lower High Blood Pressure (last updated June 3, 2026)](https://www.healthlinkbc.ca/healthlinkbc-files/healthy-eating-lower-high-blood-pressure)
 - [HealthLink BC - High Blood Pressure: Using the DASH Diet](https://www.healthlinkbc.ca/healthwise/high-blood-pressure-using-dash-diet)
-- [HealthLink BC - High Blood Pressure in Children and Teens](https://www.healthlinkbc.ca/healthwise/high-blood-pressure-children-and-teens)
 - [Hypertension Canada - Patient/Public Guideline (2025, PDF)](https://hypertension.ca/wp-content/uploads/2025/11/241770-guide-at-4.pdf)
 - [Hypertension Canada - Checking Your Blood Pressure and Keeping It Healthy (pocket card, PDF)](https://hypertension.ca/wp-content/uploads/2026/06/2.-Patient-pocket-card-Feb-19-2026.pdf)
 - [Hypertension Canada - Understanding and Managing Your Blood Pressure (brochure, PDF)](https://hypertension.ca/wp-content/uploads/2026/06/3.-Brochure-Understanding-and-Managing-Your-Blood-Pressure.pdf)
