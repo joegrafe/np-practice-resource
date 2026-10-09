@@ -157,6 +157,78 @@ sources:
     version: "2020"
     url: "https://doi.org/10.1016/j.cjca.2020.09.001"
     checked:
+  - id: thrombosis-canada-spaf
+    title: "Thrombosis Canada Clinical Guide: Stroke Prevention in Atrial Fibrillation"
+    publisher: Thrombosis Canada
+    jurisdiction: CA
+    kind: summary
+    version: "2024-01-17"
+    url: "https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=STROKEPREVENTIONINATRIALFIBRIL"
+    checked: 2026-10-09
+  - id: thrombosis-canada-doac-comparison
+    title: "Thrombosis Canada Clinical Guide: DOACs: Comparison and Frequently-asked Questions"
+    publisher: Thrombosis Canada
+    jurisdiction: CA
+    kind: summary
+    version: "2025-05-01"
+    url: "https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=COMPARISONOFNEWORALANTICOAGULA"
+    checked: 2026-10-09
+  - id: thrombosis-canada-doac-bleeding
+    title: "Thrombosis Canada Clinical Guide: DOACs: Management of Bleeding"
+    publisher: Thrombosis Canada
+    jurisdiction: CA
+    kind: summary
+    version: "2025-10-16"
+    url: "https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=MANAGEMENTOFBLEEDINGINPATIENTS"
+    checked: 2026-10-09
+  - id: thrombosis-canada-doac-periop
+    title: "Thrombosis Canada Clinical Guide: DOACs: Perioperative Management"
+    publisher: Thrombosis Canada
+    jurisdiction: CA
+    kind: summary
+    version: "2025-05-29"
+    url: "https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=PERIOPERATIVEMANAGEMENTOFPATIE"
+    checked: 2026-10-09
+  - id: thrombosis-canada-warfarin
+    title: "Thrombosis Canada Clinical Guide: Warfarin"
+    publisher: Thrombosis Canada
+    jurisdiction: CA
+    kind: summary
+    version: "2026-07-05"
+    url: "https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=WARFARIN"
+    checked: 2026-10-09
+  - id: thrombosis-canada-warfarin-inr
+    title: "Thrombosis Canada Clinical Guide: Warfarin: Management of Out-of-Range INRs"
+    publisher: Thrombosis Canada
+    jurisdiction: CA
+    kind: summary
+    version: "2025-06-15"
+    url: "https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=45"
+    checked: 2026-10-09
+  - id: thrombosis-canada-warfarin-periop
+    title: "Thrombosis Canada Clinical Guide: Warfarin: Perioperative Management"
+    publisher: Thrombosis Canada
+    jurisdiction: CA
+    kind: summary
+    version: "2026-06-24"
+    url: "https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=PERIOPERATIVEMANAGEMENTOFPATIE_1"
+    checked: 2026-10-09
+  - id: thrombosis-canada-oac-antiplatelet
+    title: "Thrombosis Canada Clinical Guide: Anticoagulation in Patients Requiring Antiplatelet Therapy"
+    publisher: Thrombosis Canada
+    jurisdiction: CA
+    kind: summary
+    version: "2026-10-06"
+    url: "https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=93"
+    checked: 2026-10-09
+  - id: thrombosis-canada-periop-algorithm
+    title: Perioperative Anticoagulant Management Algorithm
+    publisher: Thrombosis Canada
+    jurisdiction: CA
+    kind: tool
+    version:
+    url: "https://thrombosiscanada.ca/hcp/practice/clinical_tools?calc=perioperativeAnticoagulantAlgorithm"
+    checked: 2026-10-09
   - id: ab-pathway-hub-af
     title: "Alberta's Pathway Hub: Atrial Fibrillation"
     publisher: Primary Care Alberta
@@ -207,8 +279,8 @@ sources:
     checked: 2026-10-09
 ---
 <!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-09 (Canadian Journal of Cardiology and ccs.ca block automated checks; the DOI resolves to the article cited by the BC guideline): ccs-chrs-af-2020.
-     Not reachable: Thrombosis Canada clinical guides (content loads from api.thrombosiscanada.ca, which the build environment cannot reach).
+     Unconfirmed on 2026-10-09 (Canadian Journal of Cardiology and ccs.ca block automated checks): ccs-chrs-af-2020. The DOI resolves to the article the BC guideline cites, and the CHRS guidelines page lists this November 2020 guideline as its most recent AF guideline.
+     Thrombosis Canada guide versions are the "Date of Version" each guide states; the older guide PDFs are out of date, so the page links the web guides.
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
@@ -244,7 +316,11 @@ sources:
 	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/doctorsbc-elctvintrptnemergreversal-guideline_v7.pdf)  
 
 ??? info "[2020 CCS/CHRS Comprehensive Guidelines for the Management of Atrial Fibrillation (2020)](https://doi.org/10.1016/j.cjca.2020.09.001)"
-	*Canadian Journal of Cardiology. Cited by the BC guideline.*  
+	*Canadian Journal of Cardiology. Cited by the BC guideline. Listed as the current AF guideline on the [CHRS guidelines page](https://chrsonline.ca/resources-publications/guidelines-clinical-updates).*  
+
+??? info "[Thrombosis Canada - Stroke Prevention in Atrial Fibrillation (version 2024-01-17)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=STROKEPREVENTIONINATRIALFIBRIL)"
+	*Clinical guide for health care professionals. Related guides:*  
+	- [Anticoagulation in Patients Requiring Antiplatelet Therapy (2026-10-06)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=93)  
 
 ??? info "Tools for Practice (CFPCLearn) evidence summaries"
 	- [#271 Be still my quivering heart: alcohol and atrial fibrillation (2020)](https://cfpclearn.ca/tfp271/)  
@@ -253,6 +329,7 @@ sources:
 ## Algorithms and Pathways
 
 - [BC Guidelines: Oral Anticoagulants, Appendix B - Warfarin Reversal Flowchart (BC GPAC, 2023)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/images/periop_appendixb.pdf)
+- [Thrombosis Canada: Perioperative Anticoagulant Management Algorithm (online tool)](https://thrombosiscanada.ca/hcp/practice/clinical_tools?calc=perioperativeAnticoagulantAlgorithm)
 - [Alberta's Pathway Hub: Atrial Fibrillation (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/44/clinical) — *Alberta clinical pathway and referral guideline (referral guideline last updated July 1, 2025); choose "All" when the hub asks for an area*
 - [Atrial Fibrillation Primary Care Pathway, Calgary (Specialist Link, PDF, updated July 2025)](https://www.specialistlink.ca/assets/pdf/Cardiology_AFIB_Pathway.pdf)
 
@@ -268,6 +345,13 @@ sources:
 - [BC Guidelines: AF Appendix E - Antithrombotic Therapy in AF with CAD/PAD (BC GPAC, 2023)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendixe.pdf)
 - [BC Guidelines: DOACs Appendix B - Switching Between Anticoagulant Therapies (BC GPAC, 2023)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/images/switching_between_anticoagulant_therapies.pdf)
 - [BC Guidelines: Warfarin Appendix A - Important Interactions with Warfarin (BC GPAC, 2023)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/warfarin_appendixa.pdf)
+- Thrombosis Canada clinical guides (version dates as stated by Thrombosis Canada):
+    - [DOACs: Comparison and Frequently-asked Questions (2025-05-01)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=COMPARISONOFNEWORALANTICOAGULA)
+    - [DOACs: Perioperative Management (2025-05-29)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=PERIOPERATIVEMANAGEMENTOFPATIE)
+    - [DOACs: Management of Bleeding (2025-10-16)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=MANAGEMENTOFBLEEDINGINPATIENTS)
+    - [Warfarin (2026-07-05)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=WARFARIN)
+    - [Warfarin: Management of Out-of-Range INRs (2025-06-15)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=45)
+    - [Warfarin: Perioperative Management (2026-06-24)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=PERIOPERATIVEMANAGEMENTOFPATIE_1)
 - [PharmaCare Special Authority Request: Dabigatran for Atrial Fibrillation (HLTH 5391, rev. 2023/12/05)](https://www2.gov.bc.ca/assets/gov/health/forms/5391fil.pdf)
 - [RxFiles: Atrial Fibrillation Anticoagulation Colour Comparison Chart (July 2025, PDF)](https://www.rxfiles.ca/RxFiles/uploads/documents/AFib-WarfarinVsNOACs.pdf)
 
