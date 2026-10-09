@@ -113,6 +113,63 @@ sources:
     version: Current as of 2022-10-20
     url: "https://www.healthlinkbc.ca/healthwise/behaviour-therapy-adhd"
     checked: 2026-10-09
+  - id: compass-mental-health
+    title: Compass Mental Health
+    publisher: Compass (BC Children's Hospital)
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://compassbc.ca/"
+    checked: 2026-10-09
+  - id: compass-education
+    title: Compass Education Resources
+    publisher: Compass (BC Children's Hospital)
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://compassbc.ca/education"
+    checked: 2026-10-09
+  - id: kelty-adhd
+    title: Attention-Deficit / Hyperactivity Disorder (ADHD)
+    publisher: Kelty Mental Health Resource Centre (BC Children's Hospital)
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://keltymentalhealth.ca/adhd"
+    checked: 2026-10-09
+  - id: kelty-child-might-have-adhd
+    title: "I think my child might have ADHD, what can I do?"
+    publisher: Kelty Mental Health Resource Centre (BC Children's Hospital)
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://keltymentalhealth.ca/i-think-my-child-might-have-adhd-what-can-i-do"
+    checked: 2026-10-09
+  - id: kelty-adhd-medications
+    title: ADHD Medications
+    publisher: Kelty Mental Health Resource Centre (BC Children's Hospital)
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://keltymentalhealth.ca/collection/adhd-medications"
+    checked: 2026-10-09
+  - id: kelty-managing-stimulants
+    title: Managing Stimulant Medications in Children and Adolescents
+    publisher: Kelty Mental Health Resource Centre (BC Children's Hospital)
+    jurisdiction: BC
+    kind: patient
+    version: October 2025
+    url: "https://keltymentalhealth.ca/r/managing-stimulant-medications-children-and-adolescents"
+    pdf: "https://keltymentalhealth.ca/sites/default/files/resources/ManagingStimulantMedications%20Oct%202025.pdf"
+    checked: 2026-10-09
+  - id: foundry-adhd
+    title: Attention Deficit / Hyperactivity Disorder (ADHD)
+    publisher: Foundry BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://foundrybc.ca/topic-page/attention-deficit-hyperactivity-disorder-adhd/"
+    checked: 2026-10-09
   - id: caddra-guidelines-4-1
     title: Canadian ADHD Practice Guidelines
     publisher: CADDRA (Canadian ADHD Resource Alliance)
@@ -315,10 +372,26 @@ sources:
     version: Last updated July 2023
     url: "https://caringforkids.cps.ca/handouts/behavior-and-development/non-prescription-interventions-for-attention-deficit-hyperactivity-disorder"
     checked: 2026-10-09
+  - id: aboutkidshealth-adhd
+    title: Attention deficit hyperactivity disorder (ADHD) Learning Hub
+    publisher: AboutKidsHealth (SickKids)
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://www.aboutkidshealth.ca/adhd"
+    checked: 2026-10-09
+  - id: caddac-ages-7-17
+    title: "About ADHD: Ages 7-17"
+    publisher: CADDAC (Centre for ADHD Awareness, Canada)
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://caddac.ca/about-adhd/ages-7-17-yrs/"
+    checked: 2026-10-09
 ---
 <!-- status: review. Set status to published after opening every link.
      No BC Guidelines (GPAC) guideline and no Alberta Pathway Hub pathway exists for ADHD; CADDRA and CPS are the main Canadian sources.
-     Not reachable from the build environment on 2026-10-09: Compass Mental Health (compassbc.ca), Kelty Mental Health (keltymentalhealth.ca), Foundry (foundrybc.ca), AboutKidsHealth (aboutkidshealth.ca) and CADDAC (caddac.ca).
+     The Compass ADHD toolkit is hosted on articulate.com, which the build environment can't reach, so the page links Compass's education page instead.
      MDCalc has no pediatric ADHD tool (only the adult ASRS). International guidance (AAP, NICE) is left out because Canadian guidance exists.
      bcchildrens.ca refuses automated requests, so the weekly link check lists its links under "check by hand".
      Link to the source guidance; don't restate its recommendations. -->
@@ -370,7 +443,9 @@ sources:
 
 ## Advice and Referral
 
-- [BC Children's Hospital: Mental Health and Substance Use Outpatient Services Referral](https://www.bcchildrens.ca/health-professionals/make-referral/mental-health-and-substance-use-outpatient-services-referral) — *consultative outpatient psychiatry for ages 0 to 18, including ADHD; the page strongly encourages consulting Compass Mental Health (1-855-702-7272) before referring*
+- [Compass Mental Health](https://compassbc.ca/) — *province-wide phone consultation for providers caring for children and youth with mental health or substance use concerns: diagnostic clarification, medication recommendations and treatment planning (1-855-702-7272)*
+    - [Compass Education Resources](https://compassbc.ca/education) — *toolkits, webinars and resources; filter by the ADHD topic*
+- [BC Children's Hospital: Mental Health and Substance Use Outpatient Services Referral](https://www.bcchildrens.ca/health-professionals/make-referral/mental-health-and-substance-use-outpatient-services-referral) — *consultative outpatient psychiatry for ages 0 to 18, including ADHD; the page strongly encourages consulting Compass before referring*
     - [Outpatient Psychiatry Programs Referral Form (revised April 2025, PDF)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2025-07/outpatient-psychiatry-programs-referral-form.pdf)
 - [BC Children's Hospital: Mental Health and Substance Use Outpatient Services](https://www.bcchildrens.ca/clinics-services/mental-health-and-substance-use-outpatient-services)
 - [Child and Youth Mental Health Intake Clinics (Government of BC)](https://www2.gov.bc.ca/gov/content/health/managing-your-health/mental-health-substance-use/child-teen-mental-health/mental-health-intake-clinics) — *community child and youth mental health intake across BC*
@@ -379,11 +454,18 @@ sources:
 
 ## Patient Resources
 
+- [Kelty Mental Health - ADHD](https://keltymentalhealth.ca/adhd) — *for parents and caregivers*
+    - [I think my child might have ADHD, what can I do?](https://keltymentalhealth.ca/i-think-my-child-might-have-adhd-what-can-i-do)
+    - [ADHD Medications](https://keltymentalhealth.ca/collection/adhd-medications) — *information sheets for each ADHD medication*
+    - [Managing Stimulant Medications in Children and Adolescents (October 2025, PDF)](https://keltymentalhealth.ca/sites/default/files/resources/ManagingStimulantMedications%20Oct%202025.pdf)
+- [Foundry BC - ADHD](https://foundrybc.ca/topic-page/attention-deficit-hyperactivity-disorder-adhd/) — *for youth and young adults*
 - [HealthLink BC - Attention Deficit Hyperactivity Disorder (ADHD)](https://www.healthlinkbc.ca/healthwise/attention-deficit-hyperactivity-disorder-adhd)
 - [HealthLink BC - ADHD: Should My Child Take Medicine for ADHD?](https://www.healthlinkbc.ca/healthwise/adhd-should-my-child-take-medicine-adhd) — *decision aid for parents*
 - [HealthLink BC - Behaviour Therapy for ADHD](https://www.healthlinkbc.ca/healthwise/behaviour-therapy-adhd)
 - [Caring for Kids (CPS) - Medications for ADHD](https://caringforkids.cps.ca/handouts/behavior-and-development/medications-for-attention-deficit-hyperactivity-disorder)
 - [Caring for Kids (CPS) - Non-prescription Interventions for ADHD](https://caringforkids.cps.ca/handouts/behavior-and-development/non-prescription-interventions-for-attention-deficit-hyperactivity-disorder)
+- [AboutKidsHealth (SickKids) - ADHD Learning Hub](https://www.aboutkidshealth.ca/adhd)
+- [CADDAC - About ADHD: Ages 7-17](https://caddac.ca/about-adhd/ages-7-17-yrs/)
 - [CADDRA ADHD Information and Resources Handout (PDF)](https://www.caddra.ca/wp-content/uploads/CADDRA-ADHD-information-resources-handout.pdf)
 - [CADDRA Psychosocial Chart (October 2016, PDF)](https://caddra.ca/pdfs/Psychosocial_October2016.pdf) — *psychoeducation and practical strategies*
 
