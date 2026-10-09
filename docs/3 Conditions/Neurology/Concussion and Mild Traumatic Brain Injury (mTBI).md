@@ -316,6 +316,14 @@ sources:
     version: "2019"
     url: "https://www.aafp.org/pubs/afp/issues/2019/0401/p426.html"
     checked: 2026-10-09
+  - id: voms-scorecard
+    title: Vestibular/Ocular-Motor Screening (VOMS) for Concussion - Scorecard and Instructions
+    publisher: Mucha et al. (2014), shared by ImPACT
+    jurisdiction: INTL
+    kind: tool
+    version:
+    url: "https://impacttest.app.box.com/s/qo0cvhbqbavl8ya75mznx3299pqhxv2p"
+    checked: 2026-10-09
   - id: physiopedia-voms
     title: Vestibular Oculomotor Motor Screening (VOMS) Assessment
     publisher: Physiopedia
@@ -381,7 +389,7 @@ sources:
     url: "https://www.mdcalc.com/calc/3702/pediatric-glasgow-coma-scale-pgcs"
     checked: 2026-10-09
 ---
-<!-- Not reachable from the build environment on 2026-10-09: CATT resource letters (resources.cattonline.com), SCAT6/Child SCAT6 (bjsm.bmj.com shows a bot check; the Concussion Recognition Tool 6 is linked instead) and the VOMS form itself (impacttest.app.box.com, drrandallmoore.com; the Living Concussion Guidelines vestibular section that links it is listed instead).
+<!-- Not reachable from the build environment on 2026-10-09: CATT resource letters (resources.cattonline.com) and SCAT6/Child SCAT6 (bjsm.bmj.com shows a bot check; the Concussion Recognition Tool 6 is linked instead).
      G.F. Strong Adult Concussion Service (vch.ca) refuses automated requests and is left out.
      Alberta's Pathway Hub entries are linked in place of Specialist Link's Calgary pathways, which they repeat.
      Link to the source guidance; don't restate its recommendations. -->
@@ -448,6 +456,7 @@ sources:
 - [Pedsconcussion.com Tool 2.2: PECARN Management Algorithm for Children after Head Trauma (PDF)](https://pedsconcussion.com/wp-content/uploads/2019/07/Tool-2.2-PECARN-Management-Algorithm.pdf)
 - [Living Concussion Guidelines: Vestibular and Vision Dysfunction](https://concussionsontario.org/concussion/guideline-section/vestibular-balance-dizziness-vision-dysfunction) — *recommends the Vestibular/Ocular Motor Screening (VOMS) and links the VOMS form*
     - [Appendix 10.4: Screening Techniques for Vision Dysfunction (PDF)](https://concussionsontario.org/sites/default/files/2023-03/appendix-10-4.pdf)
+- [VOMS Scorecard and Instructions (Mucha et al., shared by ImPACT on Box)](https://impacttest.app.box.com/s/qo0cvhbqbavl8ya75mznx3299pqhxv2p) — *international; the VOMS form linked from the Living Concussion Guidelines*
 - [Physiopedia - Vestibular Oculomotor Motor Screening (VOMS) Assessment](<https://www.physio-pedia.com/Vestibular_Oculomotor_Motor_Screening_(VOMS)_Assessment>) — *international; how to perform and score the VOMS*
 - [Pedsconcussion.com: Visio-Vestibular Examination (demonstration video)](https://pedsconcussion.com/vve/) — *pediatric vestibular and oculomotor exam*
 - [BC Guidelines: Appendix E - Screening Tools for Persisting Concussion Symptoms (BC GPAC, 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-e.pdf) — *pediatric and adult screening tools*
