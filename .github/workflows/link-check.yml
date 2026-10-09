@@ -1,0 +1,48 @@
+name: Weekly link check
+
+# Checks every external link in docs/ and keeps one open issue, labelled
+# link-check, listing broken and redirected links. Closes it when all pass.
+on:
+  schedule:
+    - cron: "17 15 * * 1"   # Mondays 15:17 UTC (8:17 Vancouver, 7:17 in winter)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check links
+        run: python3 scripts/check_links.py docs link-report.md
+
+      - name: Open, update or close the link-check issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          gh label create link-check --repo "$REPO" --color d93f0b \
+            --description "Weekly external link check" 2>/dev/null || true
+          issue=$(gh issue list --repo "$REPO" --label link-check --state open \
+            --json number --jq '.[0].number // empty')
+          # Broken and redirected links decide the issue; 'check by hand' ones are listed only.
+          problems=$(awk '/^## Check by hand/{exit} /^- \[ \]/{n++} END{print n+0}' link-report.md)
+          if [ "$problems" -gt 0 ]; then
+            if [ -n "$issue" ]; then
+              gh issue edit "$issue" --repo "$REPO" --body-file link-report.md
+            else
+              gh issue create --repo "$REPO" --label link-check \
+                --title "Link check: links to fix" --body-file link-report.md
+            fi
+          elif [ -n "$issue" ]; then
+            gh issue comment "$issue" --repo "$REPO" --body "All links passed on $(date -u +%F). Closing."
+            gh issue close "$issue" --repo "$REPO"
+          fi

@@ -32,3 +32,6 @@ venv/
 
 # Node modules
 node_modules/
+
+# Link check output
+link-report.md
