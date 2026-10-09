@@ -122,6 +122,30 @@ sources:
     version:
     url: "https://www.healthlinkbc.ca/healthwise/head-injury-age-4-and-older"
     checked: 2026-10-09
+  - id: catt
+    title: Concussion Awareness Training Tool (CATT)
+    publisher: BC Injury Research and Prevention Unit
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://cattonline.com/"
+    checked: 2026-10-09
+  - id: catt-medical-professionals
+    title: "CATT: Concussion Awareness Training Tool for Medical Professionals"
+    publisher: BC Injury Research and Prevention Unit
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://cattonline.com/course/concussion-awareness-training-tool-for-medical-professionals"
+    checked: 2026-10-09
+  - id: catt-parents-caregivers
+    title: "CATT: Concussion Awareness Training Tool for Parents and Caregivers"
+    publisher: BC Injury Research and Prevention Unit
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://cattonline.com/course/concussion-awareness-training-tool-for-parents-and-caregivers"
+    checked: 2026-10-09
   - id: cps-acute-head-trauma-2025
     title: Management of the paediatric patient with acute head trauma
     publisher: Canadian Paediatric Society
@@ -186,6 +210,71 @@ sources:
     version:
     url: "https://choosingwiselycanada.org/pamphlet/ct-scans-children/"
     checked: 2026-10-09
+  - id: onf-living-concussion-guideline-adult
+    title: "Living Concussion Guidelines: Guideline for Concussion & Prolonged Symptoms for Adults 18 Years of Age or Older"
+    publisher: Living Concussion Guidelines
+    jurisdiction: CA
+    kind: guideline
+    version: "2023"
+    url: "https://concussionsontario.org/"
+    checked: 2026-10-09
+  - id: living-guideline-pediatric-concussion
+    title: Living Guideline for Pediatric Concussion Care
+    publisher: Pedsconcussion.com
+    jurisdiction: CA
+    kind: guideline
+    version: Living guideline, last module update May 2024
+    url: "https://pedsconcussion.com/"
+    checked: 2026-10-09
+  - id: pedsconcussion-head-trauma-algorithm
+    title: "Tool 2.4: Algorithm for the Management of the Pediatric Patient 2 Years and Older with Minor Head Trauma"
+    publisher: Pedsconcussion.com
+    jurisdiction: CA
+    kind: algorithm
+    version:
+    url: "https://pedsconcussion.com/tool-2-4-algorithym-for-the-management-of-the-pediatric-patient-2-years-with-minor-head-trauma"
+    checked: 2026-10-09
+  - id: concussion-recognition-tool-6
+    title: Concussion Recognition Tool 6 (CRT6)
+    publisher: Pedsconcussion.com
+    jurisdiction: CA
+    kind: tool
+    version: "2023"
+    url: "https://pedsconcussion.com/recognition/"
+    checked: 2026-10-09
+  - id: parachute-concussion-in-sport-2024
+    title: Canadian Guideline on Concussion in Sport
+    publisher: Parachute
+    jurisdiction: CA
+    kind: guideline
+    version: 2nd edition, March 2024
+    url: "https://parachute.ca/en/professional-resource/concussion-collection/canadian-guideline-on-concussion-in-sport/"
+    pdf: "https://parachute.ca/wp-content/uploads/2019/06/Concussion-Guideline-2024.pdf"
+    checked: 2026-10-09
+  - id: onf-living-concussion-patient-version
+    title: "Living Concussion Guidelines: Patient Version"
+    publisher: Living Concussion Guidelines
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://concussionsontario.org/patient-version"
+    checked: 2026-10-09
+  - id: schoolfirst-concussion
+    title: "SCHOOLFirst: Return to school after concussion"
+    publisher: SCHOOLFirst (Public Health Agency of Canada funded)
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://schoolfirstconcussion.ca/"
+    checked: 2026-10-09
+  - id: brain-injury-canada
+    title: Brain Injury Canada
+    publisher: Brain Injury Canada
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://braininjurycanada.ca/en/"
+    checked: 2026-10-09
   - id: aafp-concussion-2019
     title: "Current Concepts in Concussion: Initial Evaluation and Management"
     publisher: American Academy of Family Physicians (American Family Physician)
@@ -244,7 +333,7 @@ sources:
     checked: 2026-10-09
 ---
 <!-- status: review. Set status to published after opening every link.
-     Not reachable from the build environment on 2026-10-09: Concussion Awareness Training Tool (cattonline.com), National Adult and Pediatric Concussion Living Guidelines (concussionsontario.org, pedsconcussion.com), Parachute Canadian Guideline on Concussion in Sport (parachute.ca), SCAT6/Child SCAT6 (bjsm.bmj.com) and PHAC school concussion resources (schoolfirstconcussion.ca).
+     Not reachable from the build environment on 2026-10-09: CATT resource letters (resources.cattonline.com) and SCAT6/Child SCAT6 (bjsm.bmj.com shows a bot check); the Concussion Recognition Tool 6 is linked instead.
      G.F. Strong Adult Concussion Service (vch.ca) refuses automated requests and is left out.
      Alberta's Pathway Hub entries are linked in place of Specialist Link's Calgary pathways, which they repeat.
      Link to the source guidance; don't restate its recommendations. -->
@@ -260,6 +349,23 @@ sources:
 	- [Prognosis and Risk Factors for Persisting Symptoms](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi#persisting)  
 	- [Special Considerations for Children, Older Adults, and Certain Populations](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi#special)  
 	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-full-guideline.pdf)  
+
+??? info "[Concussion Awareness Training Tool (CATT) - BC Injury Research and Prevention Unit](https://cattonline.com/)"
+	*BC's concussion training and resources; the 2025 revision of the BC guideline uses CATT's return-to-activity resources.*  
+	- [CATT for Medical Professionals](https://cattonline.com/course/concussion-awareness-training-tool-for-medical-professionals)  
+
+??? info "[Living Concussion Guidelines: Adults 18 and Older (2023)](https://concussionsontario.org/)"
+	*National adult concussion guideline.*  
+	- [Diagnosis](https://concussionsontario.org/concussion/guideline-section/diagnosis)  
+	- [Initial Management](https://concussionsontario.org/concussion/guideline-section/initial_management)  
+	- [Return-to-Activity / Work / School Considerations](https://concussionsontario.org/concussion/guideline-section/return-to-activity_work_school_considerations)  
+	- [Tools and Other Materials](https://concussionsontario.org/concussion/resources/tools-and-other-materials)  
+
+??? info "[Living Guideline for Pediatric Concussion Care (living guideline, updated May 2024)](https://pedsconcussion.com/)"
+	- [Guideline Tools and Resources](https://pedsconcussion.com/tools-resources/)  
+
+??? info "[Parachute - Canadian Guideline on Concussion in Sport (2nd edition, March 2024)](https://parachute.ca/en/professional-resource/concussion-collection/canadian-guideline-on-concussion-in-sport/)"
+	- [Full Guideline (PDF)](https://parachute.ca/wp-content/uploads/2019/06/Concussion-Guideline-2024.pdf)  
 
 ??? info "[Canadian Paediatric Society - Management of the Paediatric Patient with Acute Head Trauma (2025)](https://cps.ca/en/documents/position/acute-head-trauma)"
 	- [Sport-related Concussion and Bodychecking in Children and Youth (2023)](https://cps.ca/en/documents/position/sport-related-concussion-and-bodychecking)  
@@ -277,6 +383,7 @@ sources:
 - [BC Guidelines: Appendix A - Return to Sport Protocol (BC GPAC, updated December 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-a.pdf)
 - [BC Guidelines: Appendix B - Return to School Protocol (BC GPAC, updated December 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-b.pdf)
 - [BC Guidelines: Appendix C - Return to Work Protocol (BC GPAC, 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-c.pdf)
+- [Pedsconcussion.com Tool 2.4: Algorithm for the Management of the Pediatric Patient 2 Years and Older with Minor Head Trauma](https://pedsconcussion.com/tool-2-4-algorithym-for-the-management-of-the-pediatric-patient-2-years-with-minor-head-trauma)
 - [Alberta's Pathway Hub: Acute Concussion (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/13/clinical) — *0 to 12 weeks after injury; referral guideline last updated January 23, 2025; choose "All" when the hub asks for an area*
 - [Alberta's Pathway Hub: Persisting Post-Concussion Symptoms (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/316/clinical) — *more than 12 weeks after injury; referral guideline last updated January 1, 2025*
 
@@ -288,6 +395,7 @@ sources:
 - [MDCalc - PECARN Pediatric Head Injury/Trauma Algorithm](https://www.mdcalc.com/calc/589/pecarn-pediatric-head-injury-trauma-algorithm) — *CT decision in children with minor head injury*
 - [MDCalc - Glasgow Coma Scale (GCS)](https://www.mdcalc.com/calc/64/glasgow-coma-scale-score-gcs)
 - [MDCalc - Pediatric Glasgow Coma Scale (pGCS)](https://www.mdcalc.com/calc/3702/pediatric-glasgow-coma-scale-pgcs)
+- [Concussion Recognition Tool 6 (CRT6, 2023)](https://pedsconcussion.com/recognition/) — *recognizing possible concussion in children, adolescents and adults*
 - [BC Guidelines: Appendix E - Screening Tools for Persisting Concussion Symptoms (BC GPAC, 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-e.pdf) — *pediatric and adult screening tools*
 
 ## Prescribing
@@ -304,12 +412,16 @@ sources:
 ## Patient Resources
 
 - [BC Guidelines: Appendix D - Patient Handout (BC GPAC, 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-d.pdf)
+- [CATT for Parents and Caregivers (BC Injury Research and Prevention Unit)](https://cattonline.com/course/concussion-awareness-training-tool-for-parents-and-caregivers)
 - [My Guide: Adult Concussion (Vancouver Coastal Health)](https://concussion.vch.ca/)
 - [My Guide: Teen Concussion (G.F. Strong, VCH)](https://teenconcussion.vch.ca/)
 - [HealthLinkBC File: Concussion (last updated October 24, 2024)](https://www.healthlinkbc.ca/healthlinkbc-files/concussion)
 - [HealthLink BC - Head Injury, Age 3 and Younger](https://www.healthlinkbc.ca/healthwise/head-injury-age-3-and-younger)
 - [HealthLink BC - Head Injury, Age 4 and Older](https://www.healthlinkbc.ca/healthwise/head-injury-age-4-and-older)
 - [Caring for Kids (CPS) - Sport-related Concussion: Information for Parents, Coaches and Trainers](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/sport_related_concussion)
+- [Living Concussion Guidelines - Patient Version](https://concussionsontario.org/patient-version)
+- [SCHOOLFirst - Return to School After Concussion](https://schoolfirstconcussion.ca/)
+- [Brain Injury Canada](https://braininjurycanada.ca/en/)
 - [Choosing Wisely Canada - CT Scans for Adults with Head Injuries](https://choosingwiselycanada.org/pamphlet/ct-scans-for-adults-with-head-injuries/)
 - [Choosing Wisely Canada - CT Scans for Children with Head Injuries](https://choosingwiselycanada.org/pamphlet/ct-scans-children/)
 
