@@ -303,6 +303,30 @@ sources:
     version:
     url: "https://www.worksafebc.com/en/health-safety/injuries-diseases/asthma"
     checked: 2026-10-09
+  - id: bcinhalers
+    title: "BC Inhalers: Inhaler Guide for British Columbia"
+    publisher: Fraser Health (Planetary Health Steering Committee)
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://www.bcinhalers.ca/"
+    checked: 2026-10-09
+  - id: clh-asthma
+    title: Asthma
+    publisher: Centre for Lung Health (Vancouver General Hospital)
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://centreforlunghealth.ca/asthma/"
+    checked: 2026-10-09
+  - id: regional-respirology-referral-form
+    title: Regional Respirology Referral
+    publisher: Vancouver Coastal Health / Providence Health Care
+    jurisdiction: BC
+    kind: tool
+    version: Form 10063 (PHC-RE076), version 2021 Dec 1
+    pdf: "https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf"
+    checked: 2026-10-09
   - id: race-connect
     title: "RACE: Rapid Access to Consultative Expertise"
     publisher: RACE
@@ -461,7 +485,7 @@ sources:
      Unconfirmed on 2026-10-09: cts-severe-asthma-2026 (tandfonline.com shows a bot check; the CTS guideline library lists it as current, dated Sept 2026).
      The three BC patient care flow sheets state no version; the 2023 guideline still links them.
      bcchildrens.ca refuses automated requests, so the weekly link check lists its links under "check by hand".
-     The Lung Centre asthma education program (thelungcentre.ca, linked from the BC guideline) now redirects to centreforlunghealth.ca, which the build environment can't reach.
+     The Lung Centre (thelungcentre.ca, linked from the BC guideline) now redirects to the Centre for Lung Health (centreforlunghealth.ca).
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
@@ -515,6 +539,7 @@ sources:
 - [MDCalc - Pediatric Respiratory Assessment Measure (PRAM)](https://www.mdcalc.com/calc/3384/pediatric-respiratory-assessment-measure-pram-asthma-exacerbation-severity) — *severity of an asthma exacerbation in children*
 - [MDCalc - Modified Asthma Predictive Index (mAPI)](https://www.mdcalc.com/calc/3382/modified-asthma-predictive-index-mapi) — *likelihood of later asthma in young children who wheeze*
 - [MDCalc - Asthma Impairment and Risk Questionnaire (AIRQ)](https://www.mdcalc.com/calc/10495/asthma-impairment-risk-questionnaire-airq) — *asthma control and exacerbation risk*
+- [BC Inhalers (Fraser Health)](https://www.bcinhalers.ca/) — *inhaler guide for asthma and COPD: filter by PharmaCare coverage without Special Authority, carbon footprint and age, with device instructions*
 - [Child Health BC: PRAM Scoring Table (effective October 14, 2024, PDF)](https://childhealthbc.ca/asthma/guideline/pram_scoring_table)
 - [BC Guidelines: Asthma Appendix A - Getting Ready for Spirometry (BC GPAC, 2023)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_a.pdf)
 - [Asthma Patient Care Flow Sheet: Adults 19 and Over (BC GPAC, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma-adult-care-sheet.pdf)
@@ -542,6 +567,8 @@ sources:
 - [BC Children's Hospital: Respiratory Medicine Referral](https://www.bcchildrens.ca/health-professionals/make-referral/respiratory-medicine-referral) — *referral steps for the Asthma Clinic, Pulmonary Function Laboratory and Respiratory Consult Clinic*
     - [Asthma Program Referral Form (revised June 2022, PDF)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/asthma-clinic-referral-form.pdf)
 - [BC Children's Hospital: Asthma Clinical Resources](https://www.bcchildrens.ca/clinics-services/respiratory-medicine/asthma-clinical-resources)
+- [Centre for Lung Health: Asthma (Vancouver General Hospital)](https://centreforlunghealth.ca/asthma/) — *asthma clinic and airways education, including difficult-to-treat and severe asthma (formerly The Lung Centre)*
+    - [Regional Respirology Referral Form (VCH/PHC, version 2021 Dec 1, PDF)](https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf)
 - [BC Lung Foundation: BC Pediatric Asthma Clinics](https://bclung.ca/lung-health/childhood-asthma/bc-pediatric-asthma-clinics/) — *contact details for pediatric asthma clinics across BC*
 - [WorkSafeBC: Asthma](https://www.worksafebc.com/en/health-safety/injuries-diseases/asthma) — *work-related asthma*
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
