@@ -41,7 +41,7 @@ sources:
 [CFP - PEER simplified chronic pain guideline](https://www.cfp.ca/content/68/3/179#sec-9)
 ## Practice Resources and Pathways
 
-[AHS - Provincial Spine: Low Back Primary Care Clinical Pathway](https://www.albertahealthservices.ca/assets/info/aph/if-aph-prov-spine-low-back-primary-care-pathway.pdf)
+[Primary Care Alberta - Spine: Low Back Clinical Pathway](https://www.primarycarealberta.ca/pathways/546/clinical)
 
 [CMAJ - Diagnosis and management of low-back pain in primary care](https://www.cmaj.ca/content/189/45/e1386)
 
