@@ -50,7 +50,10 @@ sources:
 
 ## Prescribing
 
-- [Drug reference or PharmaCare / Special Authority page](URL)
+- [Drug reference, RxFiles or medication chart](URL)
+- [PharmaCare Special Authority criteria or form](URL)
+
+<!-- Special Authority links always go at the bottom of the Prescribing section. -->
 
 ## Advice and Referral
 
