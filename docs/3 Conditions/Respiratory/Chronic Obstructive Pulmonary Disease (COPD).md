@@ -4,10 +4,10 @@ type: condition
 system: respiratory
 tags: [condition, respiratory, copd, adults, older-adults, dyspnea, cough]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-copd
     title: "BC Guidelines: Chronic Obstructive Pulmonary Disease (COPD): Diagnosis and Management"
@@ -234,7 +234,7 @@ sources:
     kind: guideline
     version: Jan 2025
     url: "https://doi.org/10.1080/24745332.2024.2443178"
-    checked:
+    checked: 2026-10-09
   - id: ab-pathway-hub-copd
     title: "Alberta's Pathway Hub: Chronic Obstructive Pulmonary Disease (COPD)"
     publisher: Primary Care Alberta
@@ -340,9 +340,7 @@ sources:
     url: "https://www.mdcalc.com/calc/3916/bode-index-copd-survival"
     checked: 2026-10-09
 ---
-<!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-09: cts-alpha1-2025 (tandfonline.com shows a bot check; the CTS guideline library lists it as current, dated Jan 2025).
-     GOLD (international) is left out because Canadian guidance exists.
+<!-- GOLD (international) is left out because Canadian guidance exists.
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
