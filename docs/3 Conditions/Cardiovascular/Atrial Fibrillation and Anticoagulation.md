@@ -237,14 +237,6 @@ sources:
     version: 2025-07-01
     url: "https://www.primarycarealberta.ca/pathways/44/clinical"
     checked: 2026-10-09
-  - id: calgary-af-pathway
-    title: Atrial Fibrillation Primary Care Pathway (Calgary)
-    publisher: Specialist Link (Calgary Zone)
-    jurisdiction: CA
-    kind: pathway
-    version: "2025-07"
-    pdf: "https://www.specialistlink.ca/assets/pdf/Cardiology_AFIB_Pathway.pdf"
-    checked: 2026-10-09
   - id: tfp-271-alcohol-af
     title: "Tools for Practice #271: Be still my quivering heart: alcohol and atrial fibrillation"
     publisher: CFPCLearn (Tools for Practice)
@@ -329,7 +321,6 @@ sources:
 - [BC Guidelines: Oral Anticoagulants, Appendix B - Warfarin Reversal Flowchart (BC GPAC, 2023)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/images/periop_appendixb.pdf)
 - [Thrombosis Canada: Perioperative Anticoagulant Management Algorithm (online tool)](https://thrombosiscanada.ca/hcp/practice/clinical_tools?calc=perioperativeAnticoagulantAlgorithm)
 - [Alberta's Pathway Hub: Atrial Fibrillation (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/44/clinical) — *Alberta clinical pathway and referral guideline (referral guideline last updated July 1, 2025); choose "All" when the hub asks for an area*
-- [Atrial Fibrillation Primary Care Pathway, Calgary (Specialist Link, PDF, updated July 2025)](https://www.specialistlink.ca/assets/pdf/Cardiology_AFIB_Pathway.pdf)
 
 ## Assessment Tools and Calculators
 

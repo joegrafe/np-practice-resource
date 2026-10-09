@@ -31,7 +31,7 @@ Each of these does one job well. None indexes current BC and Canadian sources by
 | [RxFiles](https://www.rxfiles.ca/rxfiles/modules/aboutus/AboutUs.aspx) | RxFiles Academic Detailing, University of Saskatchewan | Front-line practitioners; app needs a subscription | Drug Comparison Charts (15th edition, July 2025), app, Q&As, patient handouts | A model for a Prescribing section that links out rather than copying. |
 | [Firstline: Canadian Antibiotic Treatment Guidance](https://firstline.org/canada/) | AMMI Canada, supported by PHAC | Primary care prescribers; free app and web | National antibiotic guidance, starting with respiratory infections | Cite on every infection page. |
 | [Thrombosis Canada app](https://krs.libguides.com/mobile/thrombosiscanada) | Thrombosis Canada | Canadian health care providers; no ads, works offline | Clinical guides and calculators, e.g. perioperative anticoagulation | Shows the value of offline access and built-in calculators, which NPPR already has as a PWA. |
-| Centre for Effective Practice | CEP, co-lead of [Evidence2Practice Ontario](https://digitalhealthcanada.com/?p=33928) | Ontario primary care | Point-of-care tools, including Ontario Health quality standards built into EMRs | Structured tools fit into clinical workflow. Note: effectivepractice.org redirected to an unrelated site when checked on 2026-10-09. |
+| Centre for Effective Practice | CEP, co-lead of [Evidence2Practice Ontario](https://digitalhealthcanada.com/?p=33928) | Ontario primary care | Point-of-care tools, including Ontario Health quality standards built into EMRs | Structured tools fit into clinical workflow. |
 | [CMA CPG Infobase](https://lists.koumbit.net/pipermail/canmedlib-chlaabsc.koumbit.org/2023-September/001674.html) | Canadian Medical Association | All clinicians | Database of Canadian clinical practice guidelines | Shut down December 1, 2023; there is no national guideline index now. |
 | [NNPBC NP Portal](https://www.nnpbc.com/np-portal/) | Nurses and Nurse Practitioners of BC | BC NPs; some resources members-only | Practice supports and a searchable content library | Link to it for NP practice and scope topics. |
 
@@ -126,6 +126,36 @@ The same rule applies to every page type: provincial sources first, then nationa
 
 The six templates already in the vault map onto these types. They would need `type`, `jurisdiction`, `review-due` and `sources` added, and two new templates for Population and Practice pages.
 
+## Source map
+
+Before writing or reviewing any page, check every site in the "All topics" row and in the row for that page's system or population. Search in the order the columns run: BC, then Canadian, then calculators, then patient resources. Use American or international sources only where no BC or Canadian source covers the question, and label them as such. For approaches and condition pages, AAFP (aafp.org) is the first international source to check, using only articles that are free to read; then USPSTF, NICE, Cochrane and TRIP. Where Alberta's Pathway Hub (primarycarealberta.ca) has a pathway for a condition, link it and leave out Specialist Link's Calgary pathway for the same condition, which repeats it. Add a site to this table whenever a new one proves useful.
+
+| System or topic | BC | Canadian | Calculators and tools | Patient resources |
+| --- | --- | --- | --- | --- |
+| All topics | BC Guidelines and PharmaCare (gov.bc.ca), BCCDC (bccdc.ca), RACE (raceconnect.ca), Pathways (pathwaysbc.ca) | Canadian Task Force on Preventive Health Care (canadiantaskforce.ca), Choosing Wisely Canada, PEER and Tools for Practice (peerevidence.ca, cfpclearn.ca), Canadian Family Physician (cfp.ca) | MDCalc (mdcalc.com) | HealthLinkBC (healthlinkbc.ca) |
+| Approaches (and "approach to" reviews on condition pages) | none listed yet | McGill Journal of Medicine "Approach to" articles (mjm.mcgill.ca), UCalgary Black Book (blackbook.ucalgary.ca); AAFP (aafp.org, free articles only) as the first international source | none listed yet | none listed yet |
+| Cardiovascular | Cardiac Services BC (cardiacbc.ca) | Hypertension Canada, Canadian Cardiovascular Society (ccs.ca, onlinecjc.ca), Canadian Heart Failure Society (heartfailure.ca), Canadian Heart Rhythm Society (chrsonline.ca), Thrombosis Canada | MDCalc: CHA2DS2-VASc, HAS-BLED, Framingham | Heart & Stroke (heartandstroke.ca) |
+| Respiratory | BC Guidelines (asthma, COPD) | Canadian Thoracic Society (cts-sct.ca), Lung Association (lung.ca); GOLD and GINA (international) | MDCalc: Wells and PERC for PE; GOLD COPD tools | Lung Association |
+| Endocrine and Metabolic | BC Guidelines | Diabetes Canada (diabetes.ca), Obesity Canada, Osteoporosis Canada (osteoporosis.ca) | MDCalc: BMI; FRAX (frax.shef.ac.uk) | Diabetes Canada, Obesity Canada |
+| Renal and Genitourinary | BC Renal (bcrenal.ca) | KDIGO (international), Canadian Urological Association (cua.org) | MDCalc: CKD-EPI eGFR, Kidney Failure Risk Equation | BC Renal |
+| Gastrointestinal and Liver | BC Guidelines | Canadian Association of Gastroenterology (cag-acg.org) | MDCalc: FIB-4, Child-Pugh | HealthLinkBC |
+| Musculoskeletal | BC Guidelines | Canadian Rheumatology Association (rheum.ca), RheumInfo, RheumGuide | MDCalc: Ottawa ankle and knee rules; OrthoBullets, Physiopedia | RheumInfo |
+| Neurology | BC Guidelines | Alzheimer Society (alzheimer.ca), Heart & Stroke for stroke | MoCA (mocacognition.com); MDCalc: NIHSS, ABCD2 | Alzheimer Society |
+| Mental Health and Substance Use | BCCSU (bccsu.ca), HeretoHelp (heretohelp.bc.ca) | CANMAT, CAMH, CADDRA, META:PHI (metaphi.ca), Canadian Psychiatric Association | MDCalc: PHQ-9, GAD-7 | HeretoHelp, CAMH |
+| Infectious Disease | BCCDC, BC Centre for Excellence in HIV/AIDS (bccfe.ca), ImmunizeBC | AMMI Canada and Firstline (firstline.org), NACI and STI guidelines (canada.ca), Bugs & Drugs | MDCalc: Centor (McIsaac) | HealthLinkBC, ImmunizeBC, Smart Sex Resource |
+| Dermatology | BC Guidelines | Canadian Dermatology Association (dermatology.ca) | DermNet NZ (images) | DermNet NZ |
+| Hematology and Oncology | BC Cancer (bccancer.bc.ca) | Thrombosis Canada (thrombosiscanada.ca) | MDCalc: Wells for DVT | BC Cancer |
+| Eyes, Ears, Nose and Throat | BC Guidelines | Canadian Paediatric Society for children | EyeGuru (eyeguru.org) | HealthLinkBC |
+| Sexual and Reproductive Health | Perinatal Services BC, BC Women's, Smart Sex Resource | SOGC (sogc.org, jogc.com), Sex & U (sexandu.ca) | none listed yet | Sex & U, Smart Sex Resource |
+| Pediatrics | BC Children's (bcchildrens.ca), Perinatal Services BC | Canadian Paediatric Society (cps.ca), Rourke Baby Record, TREKK, Pediatric Palliative Care | PedsCases | Caring for Kids (cps.ca) |
+| Older adults | BC Guidelines (frailty, dementia) | Canadian Geriatrics Society, deprescribing.org, Canadian Deprescribing Network | MoCA | deprescribing.org handouts |
+| Indigenous health | First Nations Health Authority (fnha.ca) | none listed yet | none listed yet | FNHA |
+| Trans and gender-affirming care | Trans Care BC (transcarebc.ca) | WPATH (international) | none listed yet | Trans Care BC |
+| Rural and remote | BC Rural Health Network (bcruralhealth.org), RACE, Pathways | none listed yet | none listed yet | none listed yet |
+| Pain | Pain BC (painbc.ca), BC Guidelines (chronic pain) | Pain Canada, PEER simplified chronic pain guideline | none listed yet | Pain BC |
+| Prescribing | PharmaCare and Special Authority (gov.bc.ca), BCCNM prescribing standards, Therapeutics Initiative (ti.ubc.ca) | RxFiles, CPS (pharmacists.ca), Bugs & Drugs, Firstline, deprescribing.org | MDCalc | none listed yet |
+| NP practice and scope | BCCNM (bccnm.ca), NNPBC (nnpbc.com) | Nurse Practitioner Association of Canada (npac-aiipc.org), CNPS (cnps.ca) | none listed yet | none listed yet |
+
 ## Loading guidelines into AI tools
 
 Heidi Evidence answers from the documents an NP uploads, so NPPR's job is to tell NPs exactly which current BC and Canadian documents to upload and to flag when one is replaced. Its own national coverage is thin: the only Canadian-specific source Heidi names is BMJ Best Practice (CA), a paid partner source.
@@ -175,7 +205,7 @@ An index is only as trustworthy as its dates. Each rule below can be shown on th
 | Review cycle | Every clinical page is reviewed within 12 months, and sooner when a listed source publishes a new version. `review-due` drives an "overdue" banner on the page |
 | Publishing workflow | Clinical pages go draft, then review, then published. Each change goes through a GitHub pull request with one reviewer other than the author |
 | Shown on each page | Last reviewed, review due, and git last-updated date (turn on the git-revision-date plugin already in requirements.txt) |
-| Link health | A weekly GitHub Action checks every external link and opens an issue for each broken or redirected link, such as effectivepractice.org today |
+| Link health | A weekly GitHub Action checks every external link and opens an issue for each broken or redirected link |
 | Licensing | NPPR's own text under an open licence such as CC BY 4.0. Third-party documents are linked to the publisher's own copy and not hosted on NPPR |
 | Disclaimer | Keep the home page disclaimer and repeat a one-line version on every Evidence Pack: AI answers must be checked against the cited source |
 | Build stability | Pin `mkdocs<2` in requirements.txt. Material's maintainers say MkDocs 2.0 removes the plugin and theme-override systems this site relies on |
@@ -266,6 +296,8 @@ Almost every step runs in Claude Code, because it edits files, builds the site a
 | 2.1 | New condition page (repeat per condition) | Claude Code | Opus 5.5, high |
 | 2.2 | Populations, Prescribing and Practice pages | Claude Code | Opus 5.5, high |
 | 2.3 | Population and symptom tags | Claude Code | Opus 5.5, medium |
+| 2.4 | Review and update existing pages (repeat per section) | Claude Code | Opus 5.5, high |
+| 2.5 | Update section index pages (repeat after pages change) | Claude Code | Opus 5.5, medium |
 | 2 gate | Phase 2 check | Claude Code | Opus 5.5, medium |
 | 3.1 | Evidence Pack generator | Claude Code | Opus 5.5, high (Fable if stuck) |
 | 3.2 | Manifest CSV and RSS feed | Claude Code | Opus 5.5, medium |
@@ -435,7 +467,7 @@ All steps run in Claude Code. Step 2.1 repeats once per condition on the Roadmap
 1. Replace the bracketed parts and paste:
 
 ```text
-Create a condition page for [Heart failure] under 3 Conditions/[Cardiovascular] using the NPPR Condition template and the Page standard in NPPR-FRAMEWORK.md. Find the current BC Guidelines page first, then national Canadian guidance ([Canadian Cardiovascular Society]), PEER or Tools for Practice summaries, RxFiles or Firstline where prescribing applies, and patient resources. Open every source you cite, record publisher, version and date checked in the sources frontmatter, and set status to review. List anything where you found no BC or Canadian source.
+Create a condition page for [Heart failure] under 3 Conditions/[Cardiovascular] using the NPPR Condition template and the Page standard in NPPR-FRAMEWORK.md. Check every site in the Source map rows for this page's system and the All topics row. Find the current BC Guidelines page first, then national Canadian guidance ([Canadian Cardiovascular Society]), PEER or Tools for Practice summaries, RxFiles or Firstline where prescribing applies, relevant clinical calculators, scores and decision aids (from MDCalc where it has them, for example CHA2DS2-VASc or BMI; a BC or Canadian tool where that is the standard here), and patient resources. Record each calculator in sources with kind: tool. Open every source you cite, record publisher, version and date checked in the sources frontmatter, and set status to review. List anything where you found no BC or Canadian source.
 ```
 
 2. Open every link on the new page in the local preview and confirm the versions.
@@ -458,10 +490,40 @@ Add population and presenting-symptom tags to every condition page (for example 
 
 Check: approve the tag list, then browse the Tags page.
 
+**2.4 Review and update existing pages** · Run in: Claude Code, cloud or local · Opus 5.5, high · repeat per section
+
+This brings the pages written before the framework up to the current standard and checks that their sources are still current. Start with 3 Conditions, then do the other sections one at a time.
+
+1. Replace the bracketed section and paste:
+
+```text
+Review and update the existing pages in [3 Conditions], one page at a time, against NPPR-FRAMEWORK.md. For each page, open every link and check that it still works and points to the current version. Replace superseded guidelines and record the old version in that source's supersedes field. Check every site in the Source map rows for that page's system or population and the All topics row, and add missing sources in this order: BC first, then Canadian, then American or other international sources labelled as such. Reorder the page to the section order in the Page standard for its type, and fill any missing frontmatter. Under Assessment tools and calculators, add links to the clinical calculators, scores and decision aids relevant to the condition, from MDCalc where it has them (for example CHA2DS2-VASc for atrial fibrillation, or BMI); use a BC or Canadian tool instead where that is the standard here. Open each calculator link to confirm it is the right tool, and record it in sources with kind: tool. Set status to review and last-reviewed to today. Don't add clinical recommendations in our own words. Before changing anything, show me a table of each page with what is out of date and what you plan to change, and wait for my OK.
+```
+
+2. Approve the plan table, or tell Claude which changes to drop.
+3. Check the updated pages in the preview or the pull request, opening any link whose version changed.
+4. Set `status: published` yourself on each page you're happy with, then commit or merge.
+
+Re-run this step for any section the monthly review sweep (4.3) flags.
+
+**2.5 Update the section index pages** · Run in: Claude Code, cloud or local · Opus 5.5, medium · repeat after pages are added, moved or removed
+
+This keeps each section's index page listing every page in that section. Run it after a batch of 2.1 to 2.4 work, and whenever pages are added, moved or removed.
+
+1. Paste:
+
+```text
+Update every index.md in docs/ (the home page, each top-level section and each sub-folder index) so its In This Section list matches the pages actually in that folder and its sub-folders. Add missing pages with a one-line description taken from the page itself, remove links to pages that were moved or deleted, and group condition pages under their body-system headings in the same order as the fixed list in NPPR-FRAMEWORK.md. Use relative links. Don't change the section buttons, which come from overrides/partials/section-nav.html. Show me the changes for each index page and wait for my OK before saving.
+```
+
+2. Approve the changes, or tell Claude what to drop.
+3. Click through each index page in the preview or the pull request to check every link opens.
+4. Commit or merge.
+
 **Phase 2 gate** · Run in: Claude Code · Opus 5.5, medium
 
 ```text
-Run the Phase 2 gate check from NPPR-FRAMEWORK.md: how many condition pages are published, which roadmap conditions are missing, and which pages have sources with no version or checked date.
+Run the Phase 2 gate check from NPPR-FRAMEWORK.md: how many condition pages are published, which roadmap conditions are missing, which pages have sources with no version or checked date, which existing pages haven't been through step 2.4, and which index pages are missing pages from their section.
 ```
 
 ## Phase 3: AI layer
