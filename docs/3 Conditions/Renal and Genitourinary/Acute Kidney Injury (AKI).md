@@ -16,15 +16,15 @@ sources:
     kind: guideline
     version:
     url: "https://www.bcrenal.ca/health-professionals/clinical-resources/acute-kidney-injury"
-    checked:
+    checked: 2026-10-09
   - id: kdigo-aki
     title: KDIGO Acute Kidney Injury (AKI) and Acute Kidney Disease (AKD)
     publisher: KDIGO
     jurisdiction: INTL
     kind: guideline
-    version:
+    version: "2012"
     url: "https://kdigo.org/guidelines/acute-kidney-injury/"
-    checked:
+    checked: 2026-10-09
 ---
 ## Canadian Guidelines
 

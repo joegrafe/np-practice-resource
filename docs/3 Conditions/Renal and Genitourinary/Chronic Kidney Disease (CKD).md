@@ -16,7 +16,7 @@ sources:
     kind: guideline
     version:
     url: "https://www.bcrenal.ca/health-professionals/clinical-resources/kidney-care-(non-dialysis)"
-    checked:
+    checked: 2026-10-09
 ---
 ## Canadian Guidelines
 [BC Renal Kidney Care (Non-Dialysis)](https://www.bcrenal.ca/health-professionals/clinical-resources/kidney-care-(non-dialysis))

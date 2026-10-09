@@ -14,9 +14,9 @@ sources:
     publisher: BC GPAC
     jurisdiction: BC
     kind: guideline
-    version:
+    version: "2019"
     url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#lowbackpain"
-    checked:
+    checked: 2026-10-09
   - id: peer-chronic-pain
     title: PEER simplified chronic pain guideline
     publisher: PEER / Canadian Family Physician
@@ -26,13 +26,13 @@ sources:
     url: "https://www.cfp.ca/content/68/3/179"
     checked:
   - id: ahs-low-back-pathway
-    title: "Provincial Spine: Low Back Primary Care Clinical Pathway"
-    publisher: Alberta Health Services
+    title: "Spine: Low Back Clinical Pathway"
+    publisher: Primary Care Alberta / Alberta Bone & Joint Health Institute
     jurisdiction: CA
     kind: pathway
-    version:
-    pdf: "https://www.albertahealthservices.ca/assets/info/aph/if-aph-prov-spine-low-back-primary-care-pathway.pdf"
-    checked:
+    version: "2025-06-18"
+    url: "https://www.primarycarealberta.ca/pathways/546/clinical"
+    checked: 2026-10-09
 ---
 ## Canadian Guidelines
 
@@ -41,7 +41,7 @@ sources:
 [CFP - PEER simplified chronic pain guideline](https://www.cfp.ca/content/68/3/179#sec-9)
 ## Practice Resources and Pathways
 
-[AHS - Provincial Spine: Low Back Primary Care Clinical Pathway](https://www.albertahealthservices.ca/assets/info/aph/if-aph-prov-spine-low-back-primary-care-pathway.pdf)
+[Primary Care Alberta - Spine: Low Back Clinical Pathway](https://www.primarycarealberta.ca/pathways/546/clinical)
 
 [CMAJ - Diagnosis and management of low-back pain in primary care](https://www.cmaj.ca/content/189/45/e1386)
 
