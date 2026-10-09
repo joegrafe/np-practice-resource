@@ -115,13 +115,13 @@ sources:
     url: "https://www.primarycarealberta.ca/pathways/195/clinical"
     checked: 2026-10-09
   - id: calgary-hf-clinical-pathway
-    title: Calgary Confirmed Heart Failure Clinical Pathway
+    title: Confirmed Heart Failure Primary Care Pathway (Calgary)
     publisher: Specialist Link (Calgary Zone)
     jurisdiction: CA
     kind: pathway
-    version:
+    version: "2026-08-04"
     pdf: "https://www.specialistlink.ca/assets/pdf/CZ_HeartFailure_Pathway.pdf"
-    checked:
+    checked: 2026-10-09
   - id: tfp-191-sacubitril-valsartan
     title: "Tools for Practice #191: Sacubitril/Valsartan: Getting to the Heart of This Novel Therapy"
     publisher: CFPCLearn (Tools for Practice)
@@ -173,7 +173,6 @@ sources:
 ---
 <!-- status: review. Set status to published after opening every link.
      Unconfirmed on 2026-10-09 (Canadian Journal of Cardiology blocks automated checks; all three are listed on the CHFS guidelines page): ccs-chfs-hfnref-2025, ccs-chfs-hfref-2021, ccs-hf-2017.
-     Unconfirmed: calgary-hf-clinical-pathway (specialistlink.ca not reachable from the build environment).
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
@@ -208,7 +207,7 @@ sources:
 
 - [BC Guidelines: Figure 1 - Diagnosis of Heart Failure (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#fig1)
 - [Alberta's Pathway Hub: Heart Failure (CHF) (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/195/clinical) — *Alberta clinical pathway and referral guideline (referral guideline last updated October 5, 2023); choose "All" when the hub asks for an area*
-- [Calgary Confirmed Heart Failure Clinical Pathway (Specialist Link, PDF)](https://www.specialistlink.ca/assets/pdf/CZ_HeartFailure_Pathway.pdf)
+- [Confirmed Heart Failure Primary Care Pathway, Calgary (Specialist Link, PDF, updated August 4, 2026)](https://www.specialistlink.ca/assets/pdf/CZ_HeartFailure_Pathway.pdf)
 
 ## Assessment Tools and Calculators
 
