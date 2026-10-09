@@ -46,6 +46,8 @@ sources:
 
 - [Tool Name](URL) — *what it's for*
 
+<!-- include relevant calculators from mdcalc.com first -->
+
 ## Prescribing
 
 - [Drug reference or PharmaCare / Special Authority page](URL)
