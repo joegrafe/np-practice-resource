@@ -1,11 +1,14 @@
 ---
 title: Potassium Disorders
-tags:
-  - Condition
-  - K
-  - -kalemia
-status:
+type: condition
+system: endocrine-metabolic
+tags: [condition, endocrine-metabolic, k, kalemia]
+jurisdiction: [BC, CA]
+status: published
 last-reviewed: 2026-05-22
+review-due: 2027-05-22
+reviewers: []
+sources: []
 ---
 ## Canadian Guidelines
 

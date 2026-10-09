@@ -1,10 +1,46 @@
 ---
 title: Hypertension
-tags:
-  - HTN
-  - Condition
-status:
+type: condition
+system: cardiovascular
+tags: [condition, cardiovascular, htn]
+jurisdiction: [BC, CA]
+status: published
 last-reviewed: 2026-04-16
+review-due: 2027-04-16
+reviewers: []
+sources:
+  - id: bc-gpac-htn
+    title: "BC Guidelines: Hypertension - Diagnosis and Management"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: guideline
+    version:
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension"
+    checked:
+  - id: bc-gpac-htn-summary
+    title: "Summary of Guideline: Hypertension - Diagnosis and Management"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: summary
+    version:
+    pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-summary.pdf"
+    checked:
+  - id: bc-gpac-htn-algorithm
+    title: "BC Guidelines: Hypertension, Appendix A algorithm"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: algorithm
+    version:
+    pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-a.pdf"
+    checked:
+  - id: htn-canada-primary-care
+    title: Hypertension Canada Primary Care Guidelines
+    publisher: Hypertension Canada
+    jurisdiction: CA
+    kind: guideline
+    version:
+    url: "https://hypertension.ca/guidelines/"
+    checked:
 ---
 ## Canadian Guidelines
 

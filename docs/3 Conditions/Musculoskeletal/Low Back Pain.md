@@ -1,10 +1,38 @@
 ---
 title: Low Back Pain
-tags:
-  - Condition
-  - LBP
-status:
+type: condition
+system: musculoskeletal
+tags: [condition, musculoskeletal, lbp]
+jurisdiction: [BC, CA]
+status: published
 last-reviewed: 2026-04-06
+review-due: 2027-04-06
+reviewers: []
+sources:
+  - id: bc-gpac-imaging-lbp
+    title: "BC Guidelines: Appropriate Imaging for Low Back Pain in Adults"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: guideline
+    version:
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#lowbackpain"
+    checked:
+  - id: peer-chronic-pain
+    title: PEER simplified chronic pain guideline
+    publisher: PEER / Canadian Family Physician
+    jurisdiction: CA
+    kind: guideline
+    version:
+    url: "https://www.cfp.ca/content/68/3/179"
+    checked:
+  - id: ahs-low-back-pathway
+    title: "Provincial Spine: Low Back Primary Care Clinical Pathway"
+    publisher: Alberta Health Services
+    jurisdiction: CA
+    kind: pathway
+    version:
+    pdf: "https://www.albertahealthservices.ca/assets/info/aph/if-aph-prov-spine-low-back-primary-care-pathway.pdf"
+    checked:
 ---
 ## Canadian Guidelines
 

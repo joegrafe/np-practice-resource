@@ -1,11 +1,22 @@
 ---
 title: Sodium Disorders
-tags:
-  - Condition
-  - Na
-  - -natremia
-status:
+type: condition
+system: endocrine-metabolic
+tags: [condition, endocrine-metabolic, na, natremia]
+jurisdiction: [CA]
+status: published
 last-reviewed: 2026-05-22
+review-due: 2027-05-22
+reviewers: []
+sources:
+  - id: mjm-hyponatremia
+    title: An Approach to Hyponatremia
+    publisher: McGill Journal of Medicine
+    jurisdiction: CA
+    kind: summary
+    version:
+    url: "https://mjm.mcgill.ca/article/view/833"
+    checked:
 ---
 ## Canadian Guidelines & Approaches
 

@@ -1,10 +1,30 @@
 ---
 title: Acute Kidney Injury (AKI)
-tags:
-  - Condition
-  - AKI
-status:
+type: condition
+system: renal-genitourinary
+tags: [condition, renal-genitourinary, aki]
+jurisdiction: [BC, INTL]
+status: published
 last-reviewed: 2026-05-22
+review-due: 2027-05-22
+reviewers: []
+sources:
+  - id: bc-renal-aki
+    title: "BC Renal: Acute Kidney Injury"
+    publisher: BC Renal
+    jurisdiction: BC
+    kind: guideline
+    version:
+    url: "https://www.bcrenal.ca/health-professionals/clinical-resources/acute-kidney-injury"
+    checked:
+  - id: kdigo-aki
+    title: KDIGO Acute Kidney Injury (AKI) and Acute Kidney Disease (AKD)
+    publisher: KDIGO
+    jurisdiction: INTL
+    kind: guideline
+    version:
+    url: "https://kdigo.org/guidelines/acute-kidney-injury/"
+    checked:
 ---
 ## Canadian Guidelines
 

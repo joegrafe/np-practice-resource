@@ -1,10 +1,22 @@
 ---
 title: Chronic Kidney Disease (CKD)
-tags:
-  - Condition
-  - CKD
-status:
+type: condition
+system: renal-genitourinary
+tags: [condition, renal-genitourinary, ckd]
+jurisdiction: [BC]
+status: published
 last-reviewed: 2026-05-22
+review-due: 2027-05-22
+reviewers: []
+sources:
+  - id: bc-renal-kidney-care
+    title: "BC Renal: Kidney Care (Non-Dialysis)"
+    publisher: BC Renal
+    jurisdiction: BC
+    kind: guideline
+    version:
+    url: "https://www.bcrenal.ca/health-professionals/clinical-resources/kidney-care-(non-dialysis)"
+    checked:
 ---
 ## Canadian Guidelines
 [BC Renal Kidney Care (Non-Dialysis)](https://www.bcrenal.ca/health-professionals/clinical-resources/kidney-care-(non-dialysis))
