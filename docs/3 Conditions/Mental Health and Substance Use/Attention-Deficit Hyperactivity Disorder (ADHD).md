@@ -129,6 +129,14 @@ sources:
     version:
     url: "https://compassbc.ca/education"
     checked: 2026-10-09
+  - id: compass-adhd-toolkit
+    title: "Compass Toolkit: ADHD"
+    publisher: Compass (BC Children's Hospital)
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://share.articulate.com/62BrXcl2d8jqBTQSBx3vn"
+    checked: 2026-10-09
   - id: kelty-adhd
     title: Attention-Deficit / Hyperactivity Disorder (ADHD)
     publisher: Kelty Mental Health Resource Centre (BC Children's Hospital)
@@ -390,7 +398,6 @@ sources:
     checked: 2026-10-09
 ---
 <!-- No BC Guidelines (GPAC) guideline and no Alberta Pathway Hub pathway exists for ADHD; CADDRA and CPS are the main Canadian sources.
-     The Compass ADHD toolkit is hosted on articulate.com, which the build environment can't reach, so the page links Compass's education page instead.
      MDCalc has no pediatric ADHD tool (only the adult ASRS). International guidance (AAP, NICE) is left out because Canadian guidance exists.
      bcchildrens.ca refuses automated requests, so the weekly link check lists its links under "check by hand".
      Link to the source guidance; don't restate its recommendations. -->
@@ -443,6 +450,7 @@ sources:
 ## Advice and Referral
 
 - [Compass Mental Health](https://compassbc.ca/) — *province-wide phone consultation for providers caring for children and youth with mental health or substance use concerns: diagnostic clarification, medication recommendations and treatment planning (1-855-702-7272)*
+    - [Compass Toolkit: ADHD](https://share.articulate.com/62BrXcl2d8jqBTQSBx3vn) — *assessment, management and family resources for child and youth ADHD*
     - [Compass Education Resources](https://compassbc.ca/education) — *toolkits, webinars and resources; filter by the ADHD topic*
 - [BC Children's Hospital: Mental Health and Substance Use Outpatient Services Referral](https://www.bcchildrens.ca/health-professionals/make-referral/mental-health-and-substance-use-outpatient-services-referral) — *consultative outpatient psychiatry for ages 0 to 18, including ADHD; the page strongly encourages consulting Compass before referring*
     - [Outpatient Psychiatry Programs Referral Form (revised April 2025, PDF)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2025-07/outpatient-psychiatry-programs-referral-form.pdf)
