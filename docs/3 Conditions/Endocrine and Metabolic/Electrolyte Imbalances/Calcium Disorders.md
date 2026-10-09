@@ -1,11 +1,30 @@
 ---
 title: Calcium Disorders
-tags:
-  - Condition
-  - Ca
-  - -calcemia
-status:
+type: condition
+system: endocrine-metabolic
+tags: [condition, endocrine-metabolic, ca, calcemia]
+jurisdiction: [CA]
+status: published
 last-reviewed: 2026-05-22
+review-due: 2027-05-22
+reviewers: []
+sources:
+  - id: phpt-consensus
+    title: "Primary hyperparathyroidism: review and recommendations on evaluation, diagnosis, and management. A Canadian and international consensus"
+    publisher: Osteoporosis International
+    jurisdiction: CA
+    kind: guideline
+    version:
+    url: "https://pubmed.ncbi.nlm.nih.gov/27613721/"
+    checked:
+  - id: cfp-hypocalcemia
+    title: "Hypocalcemia: Updates in diagnosis and management for primary care"
+    publisher: Canadian Family Physician
+    jurisdiction: CA
+    kind: summary
+    version:
+    url: "https://www.cfp.ca/content/58/2/158"
+    checked:
 ---
 ## Canadian Guidelines
 

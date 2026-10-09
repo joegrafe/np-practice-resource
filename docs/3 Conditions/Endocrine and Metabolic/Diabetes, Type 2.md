@@ -1,11 +1,30 @@
 ---
-title: Diabetes, Type 2
-tags:
-  - DM
-  - Condition
-  - Adults
-status:
+title: "Diabetes, Type 2"
+type: condition
+system: endocrine-metabolic
+tags: [condition, endocrine-metabolic, dm, adults]
+jurisdiction: [BC, CA]
+status: published
 last-reviewed: 2026-04-20
+review-due: 2027-04-20
+reviewers: []
+sources:
+  - id: bc-gpac-diabetes
+    title: "BC Guidelines: Diabetes Care"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: guideline
+    version:
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes"
+    checked:
+  - id: diabetes-canada-cpg
+    title: Diabetes Canada Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada
+    publisher: Diabetes Canada
+    jurisdiction: CA
+    kind: guideline
+    version:
+    url: "https://guidelines.diabetes.ca/cpg"
+    checked:
 ---
 ## Canadian Guidelines
 
