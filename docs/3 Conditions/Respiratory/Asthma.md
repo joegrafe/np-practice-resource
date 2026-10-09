@@ -102,6 +102,111 @@ sources:
     url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma-action-plans"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthmaactionplan_ages12-17_english.pdf"
     checked: 2026-10-09
+  - id: chbc-asthma-resources
+    title: "Child Health BC: Asthma Care Across Settings (clinician resources)"
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://childhealthbc.ca/clinician-resources/asthma"
+    checked: 2026-10-09
+  - id: chbc-pediatric-asthma-guideline
+    title: Child Health BC Provincial Pediatric Asthma Management Guideline
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: guideline
+    version:
+    url: "https://childhealthbc.ca/clinician-resources/asthma"
+    pdf: "https://shop.healthcarebc.ca/phsa/BCWH_2/CW%20Campus%20Wide/C-0506-07-63037.pdf"
+    checked:
+  - id: chbc-asthma-initial-algorithm
+    title: "Algorithm: Initial Management of Pediatric Asthma Exacerbations"
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: algorithm
+    version: "Effective 2025-10-14, revised 2025-11-14"
+    pdf: "https://childhealthbc.ca/asthma/guideline/initial_mgmt_ped_asthma_exacerbation_algo"
+    checked: 2026-10-09
+  - id: chbc-asthma-ongoing-algorithm
+    title: "Algorithm: Ongoing Management of Pediatric Asthma Exacerbations"
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: algorithm
+    version: "Effective 2025-10-14, revised 2025-11-14"
+    pdf: "https://childhealthbc.ca/asthma/ongoing_algorithm"
+    checked: 2026-10-09
+  - id: chbc-pram-table
+    title: PRAM Scoring Table
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: tool
+    version: "Effective 2024-10-14"
+    pdf: "https://childhealthbc.ca/asthma/guideline/pram_scoring_table"
+    checked: 2026-10-09
+  - id: chbc-asthma-exacerbation-medications
+    title: Initial Management of Pediatric Asthma Exacerbations Medication References
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: tool
+    version: "Effective 2024-10-18"
+    pdf: "https://childhealthbc.ca/asthma/initial_and_ongoing_med_table"
+    checked: 2026-10-09
+  - id: chbc-asthma-what-you-should-know
+    title: "Asthma: What You Should Know"
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    pdf: "https://childhealthbc.ca/asthma/should_know_handout"
+    checked: 2026-10-09
+  - id: bcch-asthma-clinical-resources
+    title: Asthma Clinical Resources
+    publisher: BC Children's Hospital
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://www.bcchildrens.ca/clinics-services/respiratory-medicine/asthma-clinical-resources"
+    checked: 2026-10-09
+  - id: bcch-respiratory-referral
+    title: Respiratory Medicine Referral
+    publisher: BC Children's Hospital
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://www.bcchildrens.ca/health-professionals/make-referral/respiratory-medicine-referral"
+    checked: 2026-10-09
+  - id: bcch-asthma-clinic-referral-form
+    title: Asthma Program Referral Form
+    publisher: BC Children's Hospital
+    jurisdiction: BC
+    kind: tool
+    version: Revised Jun 2022
+    pdf: "https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/asthma-clinic-referral-form.pdf"
+    checked: 2026-10-09
+  - id: bcch-asthma-family-resources
+    title: Asthma Patient and Family Resources
+    publisher: BC Children's Hospital
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.bcchildrens.ca/clinics-services/respiratory-medicine/asthma-patient-and-family-resources"
+    checked: 2026-10-09
+  - id: bcch-my-asthma-diary
+    title: My Asthma Diary
+    publisher: BC Children's Hospital
+    jurisdiction: BC
+    kind: patient
+    version: "2015"
+    pdf: "https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/my-asthma-diary.pdf"
+    checked: 2026-10-09
+  - id: bcch-inhaler-dose-tracking
+    title: Inhaler Dose Tracking Sheet
+    publisher: BC Children's Hospital
+    jurisdiction: BC
+    kind: patient
+    version:
+    pdf: "https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/inhaler-dose-tracking-sheet.pdf"
+    checked: 2026-10-09
   - id: bc-pharmacare-sa-drug-list
     title: Special Authority drug list, criteria and forms
     publisher: BC PharmaCare
@@ -297,8 +402,9 @@ sources:
     checked: 2026-10-09
 ---
 <!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-09 (tandfonline.com is not reachable from the build environment): cts-severe-asthma-2026. The CTS guideline library lists it as current, dated Sept 2026.
+     Unconfirmed on 2026-10-09: cts-severe-asthma-2026 (tandfonline.com shows a bot check; the CTS guideline library lists it as current, dated Sept 2026) and chbc-pediatric-asthma-guideline (the PDF is on shop.healthcarebc.ca, which the build environment can't reach; Child Health BC's asthma page links it).
      The three BC patient care flow sheets state no version; the 2023 guideline still links them.
+     bcchildrens.ca refuses automated requests, so the weekly link check lists its links under "check by hand".
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
@@ -312,6 +418,14 @@ sources:
 	- [Stepwise approach](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#stepwise)  
 	- [Air Quality and Wildfire Resources](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#aqwresources)  
 	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_final.pdf)  
+
+??? info "[Child Health BC - Provincial Pediatric Asthma Management Guideline](https://childhealthbc.ca/clinician-resources/asthma)"
+	*For children 1 to 17 years presenting to an emergency department or urgent care centre with wheezing or respiratory distress (scope as described by BC Children's Hospital).*  
+	- [Full Guideline (PDF)](https://shop.healthcarebc.ca/phsa/BCWH_2/CW%20Campus%20Wide/C-0506-07-63037.pdf)  
+	- [Algorithm: Initial Management of Pediatric Asthma Exacerbations (PDF)](https://childhealthbc.ca/asthma/guideline/initial_mgmt_ped_asthma_exacerbation_algo)  
+	- [Algorithm: Ongoing Management of Pediatric Asthma Exacerbations (PDF)](https://childhealthbc.ca/asthma/ongoing_algorithm)  
+	- [PRAM Scoring Table (PDF)](https://childhealthbc.ca/asthma/guideline/pram_scoring_table)  
+	- [All Child Health BC asthma resources](https://childhealthbc.ca/clinician-resources/asthma)  
 
 ??? info "[Canadian Thoracic Society 2021 Guideline Update: Diagnosis and Management of Asthma in Preschoolers, Children and Adults (2021)](https://doi.org/10.1080/24745332.2021.1945887)"
 	*Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Includes the 2021 focused update on very mild and mild asthma.*  
@@ -333,6 +447,8 @@ sources:
 ## Algorithms and Pathways
 
 - [BC Guidelines: Asthma, Stepwise Approach (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#stepwise)
+- [Child Health BC: Initial Management of Pediatric Asthma Exacerbations Algorithm (effective October 14, 2025, revised November 14, 2025, PDF)](https://childhealthbc.ca/asthma/guideline/initial_mgmt_ped_asthma_exacerbation_algo)
+- [Child Health BC: Ongoing Management of Pediatric Asthma Exacerbations Algorithm (effective October 14, 2025, revised November 14, 2025, PDF)](https://childhealthbc.ca/asthma/ongoing_algorithm)
 - [Alberta's Pathway Hub: Lung Testing for Ages 6 and Above (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/436/clinical) — *Alberta clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024); choose "All" when the hub asks for an area*
 - [Alberta's Pathway Hub: Pediatric Lung Testing for Ages 6 and Above (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/435/clinical) — *pediatric version of the same pathway (last updated February 13, 2024)*
 
@@ -342,6 +458,7 @@ sources:
 - [MDCalc - Pediatric Respiratory Assessment Measure (PRAM)](https://www.mdcalc.com/calc/3384/pediatric-respiratory-assessment-measure-pram-asthma-exacerbation-severity) — *severity of an asthma exacerbation in children*
 - [MDCalc - Modified Asthma Predictive Index (mAPI)](https://www.mdcalc.com/calc/3382/modified-asthma-predictive-index-mapi) — *likelihood of later asthma in young children who wheeze*
 - [MDCalc - Asthma Impairment and Risk Questionnaire (AIRQ)](https://www.mdcalc.com/calc/10495/asthma-impairment-risk-questionnaire-airq) — *asthma control and exacerbation risk*
+- [Child Health BC: PRAM Scoring Table (effective October 14, 2024, PDF)](https://childhealthbc.ca/asthma/guideline/pram_scoring_table)
 - [BC Guidelines: Asthma Appendix A - Getting Ready for Spirometry (BC GPAC, 2023)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_a.pdf)
 - [Asthma Patient Care Flow Sheet: Adults 19 and Over (BC GPAC, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma-adult-care-sheet.pdf)
 - [Asthma Patient Care Flow Sheet: Ages 6 to 18 (BC GPAC, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma-children-flowsheet-6-18.pdf)
@@ -351,6 +468,7 @@ sources:
 
 - [BC Guidelines: Asthma Appendix C - Asthma Medication Table (BC GPAC, 2023)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_c.pdf)
 - [BC Guidelines: Asthma Appendix B - Supporting Patients with Poor Medication Adherence (BC GPAC, 2023)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_b.pdf)
+- [Child Health BC: Initial Management of Pediatric Asthma Exacerbations Medication References (effective October 18, 2024, PDF)](https://childhealthbc.ca/asthma/initial_and_ongoing_med_table)
 - PharmaCare Special Authority criteria for ICS-LABA inhalers:
     - [Budesonide-formoterol (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-budesonide-formoterol)
     - [Fluticasone propionate-salmeterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-propionate-salmeterol)
@@ -364,6 +482,9 @@ sources:
 
 - [BC Guidelines: Indications for Referral](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#referral)
 - [BC Guidelines: Practitioner and Patient Resources](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#ppresources)
+- [BC Children's Hospital: Respiratory Medicine Referral](https://www.bcchildrens.ca/health-professionals/make-referral/respiratory-medicine-referral) — *referral steps for the Asthma Clinic, Pulmonary Function Laboratory and Respiratory Consult Clinic*
+    - [Asthma Program Referral Form (revised June 2022, PDF)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/asthma-clinic-referral-form.pdf)
+- [BC Children's Hospital: Asthma Clinical Resources](https://www.bcchildrens.ca/clinics-services/respiratory-medicine/asthma-clinical-resources)
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
 
 ## Patient Resources
@@ -373,6 +494,10 @@ sources:
     - [Children age 1-5 (May 2025, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthmaactionplanages1-5_english.pdf)
     - [Children age 6-11 (May 2025, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthmaactionplan_6-11_english.pdf)
     - [Ages 12-17 (May 2025, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthmaactionplan_ages12-17_english.pdf)
+- [BC Children's Hospital: Asthma Patient and Family Resources](https://www.bcchildrens.ca/clinics-services/respiratory-medicine/asthma-patient-and-family-resources) — *handouts, family video and device guides*
+    - [My Asthma Diary (PDF)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/my-asthma-diary.pdf)
+    - [Inhaler Dose Tracking Sheet (PDF)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/inhaler-dose-tracking-sheet.pdf)
+- [Child Health BC: Asthma - What You Should Know (PDF)](https://childhealthbc.ca/asthma/should_know_handout)
 - [HealthLink BC - Asthma](https://www.healthlinkbc.ca/healthwise/asthma)
 - [HealthLink BC - Asthma in Children](https://www.healthlinkbc.ca/healthwise/asthma-children)
 - [Canadian Lung Association - Asthma](https://www.lung.ca/lung-diseases/asthma/)
