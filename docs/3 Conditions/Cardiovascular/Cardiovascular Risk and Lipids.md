@@ -79,17 +79,17 @@ sources:
     publisher: Canadian Cardiovascular Society
     jurisdiction: CA
     kind: guideline
-    version:
+    version: "2021"
     url: "https://doi.org/10.1016/j.cjca.2021.03.016"
-    checked:
+    checked: 2026-10-09
   - id: peer-lipid-2023
     title: "PEER simplified lipid guideline 2023 update: Prevention and management of cardiovascular disease in primary care"
     publisher: PEER / Canadian Family Physician
     jurisdiction: CA
     kind: guideline
-    version:
+    version: "2023"
     url: "https://www.cfp.ca/content/69/10/675"
-    checked:
+    checked: 2026-10-09
   - id: tfp-343-lipoproteins
     title: "Tools for Practice #343: Non-traditional lipoproteins for cardiovascular risk"
     publisher: CFPCLearn (Tools for Practice)
@@ -148,7 +148,7 @@ sources:
     checked: 2026-10-09
 ---
 <!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-09 (sites blocked automated checks): ccs-dyslipidemia-2021, peer-lipid-2023.
+     CCS 2021 and PEER 2023 were confirmed by hand on 2026-10-09 (their sites block automated checks).
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
