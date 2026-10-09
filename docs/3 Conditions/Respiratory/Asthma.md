@@ -115,10 +115,10 @@ sources:
     publisher: Child Health BC
     jurisdiction: BC
     kind: guideline
-    version:
+    version: "Effective 2025-10-14"
     url: "https://childhealthbc.ca/clinician-resources/asthma"
     pdf: "https://shop.healthcarebc.ca/phsa/BCWH_2/CW%20Campus%20Wide/C-0506-07-63037.pdf"
-    checked:
+    checked: 2026-10-09
   - id: chbc-asthma-initial-algorithm
     title: "Algorithm: Initial Management of Pediatric Asthma Exacerbations"
     publisher: Child Health BC
@@ -271,6 +271,38 @@ sources:
     version:
     url: "https://www.healthlinkbc.ca/healthwise/asthma-children"
     checked: 2026-10-09
+  - id: bclung-adult-asthma
+    title: Adult Asthma
+    publisher: BC Lung Foundation
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://bclung.ca/lung-health/adult-asthma/"
+    checked: 2026-10-09
+  - id: bclung-childhood-asthma
+    title: Childhood Asthma
+    publisher: BC Lung Foundation
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://bclung.ca/lung-health/childhood-asthma/"
+    checked: 2026-10-09
+  - id: bclung-pediatric-asthma-clinics
+    title: BC Pediatric Asthma Clinics
+    publisher: BC Lung Foundation
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://bclung.ca/lung-health/childhood-asthma/bc-pediatric-asthma-clinics/"
+    checked: 2026-10-09
+  - id: worksafebc-asthma
+    title: Asthma
+    publisher: WorkSafeBC
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://www.worksafebc.com/en/health-safety/injuries-diseases/asthma"
+    checked: 2026-10-09
   - id: race-connect
     title: "RACE: Rapid Access to Consultative Expertise"
     publisher: RACE
@@ -368,6 +400,30 @@ sources:
     version:
     url: "https://www.lung.ca/lung-diseases/asthma/"
     checked: 2026-10-09
+  - id: asthma-canada-understanding-asthma
+    title: Understanding Asthma
+    publisher: Asthma Canada
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://asthma.ca/get-help/understanding-asthma/"
+    checked: 2026-10-09
+  - id: asthma-canada-helpline
+    title: Asthma & Allergy HelpLine
+    publisher: Asthma Canada
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://asthma.ca/what-we-do/helpline/"
+    checked: 2026-10-09
+  - id: lunghealth-asthma
+    title: Asthma
+    publisher: Lung Health Foundation
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://lunghealth.ca/lung-disease/asthma/"
+    checked: 2026-10-09
   - id: mdcalc-peak-flow
     title: Estimated/Expected Peak Expiratory Flow (Peak Flow)
     publisher: MDCalc
@@ -402,9 +458,10 @@ sources:
     checked: 2026-10-09
 ---
 <!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-09: cts-severe-asthma-2026 (tandfonline.com shows a bot check; the CTS guideline library lists it as current, dated Sept 2026) and chbc-pediatric-asthma-guideline (the PDF is on shop.healthcarebc.ca, which the build environment can't reach; Child Health BC's asthma page links it).
+     Unconfirmed on 2026-10-09: cts-severe-asthma-2026 (tandfonline.com shows a bot check; the CTS guideline library lists it as current, dated Sept 2026).
      The three BC patient care flow sheets state no version; the 2023 guideline still links them.
      bcchildrens.ca refuses automated requests, so the weekly link check lists its links under "check by hand".
+     The Lung Centre asthma education program (thelungcentre.ca, linked from the BC guideline) now redirects to centreforlunghealth.ca, which the build environment can't reach.
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
@@ -419,7 +476,7 @@ sources:
 	- [Air Quality and Wildfire Resources](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#aqwresources)  
 	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_final.pdf)  
 
-??? info "[Child Health BC - Provincial Pediatric Asthma Management Guideline](https://childhealthbc.ca/clinician-resources/asthma)"
+??? info "[Child Health BC - Provincial Pediatric Asthma Management Guideline (effective 2025)](https://childhealthbc.ca/clinician-resources/asthma)"
 	*For children 1 to 17 years presenting to an emergency department or urgent care centre with wheezing or respiratory distress (scope as described by BC Children's Hospital).*  
 	- [Full Guideline (PDF)](https://shop.healthcarebc.ca/phsa/BCWH_2/CW%20Campus%20Wide/C-0506-07-63037.pdf)  
 	- [Algorithm: Initial Management of Pediatric Asthma Exacerbations (PDF)](https://childhealthbc.ca/asthma/guideline/initial_mgmt_ped_asthma_exacerbation_algo)  
@@ -485,6 +542,8 @@ sources:
 - [BC Children's Hospital: Respiratory Medicine Referral](https://www.bcchildrens.ca/health-professionals/make-referral/respiratory-medicine-referral) — *referral steps for the Asthma Clinic, Pulmonary Function Laboratory and Respiratory Consult Clinic*
     - [Asthma Program Referral Form (revised June 2022, PDF)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/asthma-clinic-referral-form.pdf)
 - [BC Children's Hospital: Asthma Clinical Resources](https://www.bcchildrens.ca/clinics-services/respiratory-medicine/asthma-clinical-resources)
+- [BC Lung Foundation: BC Pediatric Asthma Clinics](https://bclung.ca/lung-health/childhood-asthma/bc-pediatric-asthma-clinics/) — *contact details for pediatric asthma clinics across BC*
+- [WorkSafeBC: Asthma](https://www.worksafebc.com/en/health-safety/injuries-diseases/asthma) — *work-related asthma*
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
 
 ## Patient Resources
@@ -500,7 +559,12 @@ sources:
 - [Child Health BC: Asthma - What You Should Know (PDF)](https://childhealthbc.ca/asthma/should_know_handout)
 - [HealthLink BC - Asthma](https://www.healthlinkbc.ca/healthwise/asthma)
 - [HealthLink BC - Asthma in Children](https://www.healthlinkbc.ca/healthwise/asthma-children)
+- [BC Lung Foundation - Adult Asthma](https://bclung.ca/lung-health/adult-asthma/)
+- [BC Lung Foundation - Childhood Asthma](https://bclung.ca/lung-health/childhood-asthma/)
 - [Canadian Lung Association - Asthma](https://www.lung.ca/lung-diseases/asthma/)
+- [Asthma Canada - Understanding Asthma](https://asthma.ca/get-help/understanding-asthma/)
+- [Asthma Canada - Asthma & Allergy HelpLine](https://asthma.ca/what-we-do/helpline/) — *one-on-one support from a Certified Respiratory Educator*
+- [Lung Health Foundation - Asthma](https://lunghealth.ca/lung-disease/asthma/)
 
 ## Evidence Pack
 
