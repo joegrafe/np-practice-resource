@@ -275,6 +275,39 @@ sources:
     version:
     url: "https://braininjurycanada.ca/en/"
     checked: 2026-10-09
+  - id: onf-living-concussion-vestibular-vision
+    title: "Living Concussion Guidelines: Vestibular (Balance/Dizziness) and Vision Dysfunction"
+    publisher: Living Concussion Guidelines
+    jurisdiction: CA
+    kind: tool
+    version: "2023"
+    url: "https://concussionsontario.org/concussion/guideline-section/vestibular-balance-dizziness-vision-dysfunction"
+    checked: 2026-10-09
+  - id: onf-living-concussion-vision-screening
+    title: "Living Concussion Guidelines: Appendix 10.4 Screening Techniques for Vision Dysfunction"
+    publisher: Living Concussion Guidelines
+    jurisdiction: CA
+    kind: tool
+    version:
+    pdf: "https://concussionsontario.org/sites/default/files/2023-03/appendix-10-4.pdf"
+    checked: 2026-10-09
+  - id: pedsconcussion-visio-vestibular-exam
+    title: "Visio-Vestibular Examination: Demonstration Video"
+    publisher: Pedsconcussion.com
+    jurisdiction: CA
+    kind: tool
+    version:
+    url: "https://pedsconcussion.com/vve/"
+    checked: 2026-10-09
+  - id: pedsconcussion-pecarn-algorithm
+    title: "Tool 2.2: PECARN Management Algorithm for Children after Head Trauma"
+    publisher: Pedsconcussion.com
+    jurisdiction: CA
+    kind: algorithm
+    version:
+    url: "https://pedsconcussion.com/pecarn-head/"
+    pdf: "https://pedsconcussion.com/wp-content/uploads/2019/07/Tool-2.2-PECARN-Management-Algorithm.pdf"
+    checked: 2026-10-09
   - id: aafp-concussion-2019
     title: "Current Concepts in Concussion: Initial Evaluation and Management"
     publisher: American Academy of Family Physicians (American Family Physician)
@@ -315,6 +348,14 @@ sources:
     version:
     url: "https://www.mdcalc.com/calc/589/pecarn-pediatric-head-injury-trauma-algorithm"
     checked: 2026-10-09
+  - id: mdcalc-pecarn-c-spine
+    title: PECARN Cervical Spine Injury Prediction Rule
+    publisher: MDCalc
+    jurisdiction: INTL
+    kind: tool
+    version:
+    url: "https://www.mdcalc.com/calc/10552/pecarn-cervical-spine-injury-prediction-rule"
+    checked: 2026-10-09
   - id: mdcalc-gcs
     title: Glasgow Coma Scale (GCS)
     publisher: MDCalc
@@ -333,7 +374,7 @@ sources:
     checked: 2026-10-09
 ---
 <!-- status: review. Set status to published after opening every link.
-     Not reachable from the build environment on 2026-10-09: CATT resource letters (resources.cattonline.com) and SCAT6/Child SCAT6 (bjsm.bmj.com shows a bot check); the Concussion Recognition Tool 6 is linked instead.
+     Not reachable from the build environment on 2026-10-09: CATT resource letters (resources.cattonline.com), SCAT6/Child SCAT6 (bjsm.bmj.com shows a bot check; the Concussion Recognition Tool 6 is linked instead) and the VOMS form itself (impacttest.app.box.com, drrandallmoore.com; the Living Concussion Guidelines vestibular section that links it is listed instead).
      G.F. Strong Adult Concussion Service (vch.ca) refuses automated requests and is left out.
      Alberta's Pathway Hub entries are linked in place of Specialist Link's Calgary pathways, which they repeat.
      Link to the source guidance; don't restate its recommendations. -->
@@ -393,9 +434,14 @@ sources:
 - [MDCalc - Canadian C-Spine Rule](https://www.mdcalc.com/calc/696/canadian-c-spine-rule) — *cervical spine imaging decision*
 - [MDCalc - CATCH Rule](https://www.mdcalc.com/calc/3954/catch-canadian-assessment-tomography-childhood-head-injury-rule) — *CT decision in children with minor head injury*
 - [MDCalc - PECARN Pediatric Head Injury/Trauma Algorithm](https://www.mdcalc.com/calc/589/pecarn-pediatric-head-injury-trauma-algorithm) — *CT decision in children with minor head injury*
+- [MDCalc - PECARN Cervical Spine Injury Prediction Rule](https://www.mdcalc.com/calc/10552/pecarn-cervical-spine-injury-prediction-rule) — *cervical spine imaging decision in children*
 - [MDCalc - Glasgow Coma Scale (GCS)](https://www.mdcalc.com/calc/64/glasgow-coma-scale-score-gcs)
 - [MDCalc - Pediatric Glasgow Coma Scale (pGCS)](https://www.mdcalc.com/calc/3702/pediatric-glasgow-coma-scale-pgcs)
 - [Concussion Recognition Tool 6 (CRT6, 2023)](https://pedsconcussion.com/recognition/) — *recognizing possible concussion in children, adolescents and adults*
+- [Pedsconcussion.com Tool 2.2: PECARN Management Algorithm for Children after Head Trauma (PDF)](https://pedsconcussion.com/wp-content/uploads/2019/07/Tool-2.2-PECARN-Management-Algorithm.pdf)
+- [Living Concussion Guidelines: Vestibular and Vision Dysfunction](https://concussionsontario.org/concussion/guideline-section/vestibular-balance-dizziness-vision-dysfunction) — *recommends the Vestibular/Ocular Motor Screening (VOMS) and links the VOMS form*
+    - [Appendix 10.4: Screening Techniques for Vision Dysfunction (PDF)](https://concussionsontario.org/sites/default/files/2023-03/appendix-10-4.pdf)
+- [Pedsconcussion.com: Visio-Vestibular Examination (demonstration video)](https://pedsconcussion.com/vve/) — *pediatric vestibular and oculomotor exam*
 - [BC Guidelines: Appendix E - Screening Tools for Persisting Concussion Symptoms (BC GPAC, 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-e.pdf) — *pediatric and adult screening tools*
 
 ## Prescribing
