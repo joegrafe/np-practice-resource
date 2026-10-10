@@ -229,11 +229,11 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [x] Type 2 diabetes
 - [x] Chronic kidney disease
 - [x] Acute kidney injury
-- [ ] Cardiovascular risk and lipids
-- [ ] Heart failure
-- [ ] Atrial fibrillation and anticoagulation
-- [ ] Asthma
-- [ ] COPD
+- [x] Cardiovascular risk and lipids
+- [x] Heart failure
+- [x] Atrial fibrillation and anticoagulation
+- [x] Asthma
+- [x] COPD
 - [ ] Depression and anxiety
 - [ ] Opioid use disorder
 - [ ] Chronic pain
