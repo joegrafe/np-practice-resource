@@ -3,10 +3,10 @@ title: "McGill Journal of Medicine: Approach To"
 type: approach
 tags: [approach]
 jurisdiction: [CA]
-status: draft
+status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
-reviewers: []
+reviewers: [joegrafe]
 description: "An index of the McGill Journal of Medicine's peer-reviewed \"Approach to\" articles, grouped by body system and linked to NPPR condition pages."
 sources:
   - id: mjm-approach-314
