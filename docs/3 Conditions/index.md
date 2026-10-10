@@ -12,31 +12,31 @@ hide:
 
 <div class="grid cards nppr-cards" markdown>
 
--   [**Cardiovascular**](Cardiovascular/index.md)
+-   :material-heart-pulse:{ .nppr-icon } [**Cardiovascular**](Cardiovascular/index.md)
 
     Atrial fibrillation, lipids, heart failure and hypertension.
 
--   [**Respiratory**](Respiratory/index.md)
+-   :material-lungs:{ .nppr-icon } [**Respiratory**](Respiratory/index.md)
 
     Asthma and COPD.
 
--   [**Endocrine and Metabolic**](Endocrine%20and%20Metabolic/index.md)
+-   :material-diabetes:{ .nppr-icon } [**Endocrine and Metabolic**](Endocrine%20and%20Metabolic/index.md)
 
     Type 2 diabetes and electrolyte disorders.
 
--   [**Renal and Genitourinary**](Renal%20and%20Genitourinary/index.md)
+-   :material-water-outline:{ .nppr-icon } [**Renal and Genitourinary**](Renal%20and%20Genitourinary/index.md)
 
     Acute kidney injury and chronic kidney disease.
 
--   [**Musculoskeletal**](Musculoskeletal/index.md)
+-   :material-bone:{ .nppr-icon } [**Musculoskeletal**](Musculoskeletal/index.md)
 
     Low back pain.
 
--   [**Neurology**](Neurology/index.md)
+-   :material-brain:{ .nppr-icon } [**Neurology**](Neurology/index.md)
 
     Concussion and mild traumatic brain injury.
 
--   [**Mental Health and Substance Use**](Mental%20Health%20and%20Substance%20Use/index.md)
+-   :material-head-heart-outline:{ .nppr-icon } [**Mental Health and Substance Use**](Mental%20Health%20and%20Substance%20Use/index.md)
 
     ADHD.
 
