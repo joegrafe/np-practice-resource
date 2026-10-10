@@ -3,10 +3,10 @@ title: Indigenous Health
 type: population
 tags: [population, indigenous-health, cultural-safety]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
-reviewers: []
+reviewers: [joegrafe]
 sources:
   # BC
   - id: fnha-cultural-safety-humility
