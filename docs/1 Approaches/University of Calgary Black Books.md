@@ -29,9 +29,11 @@ sources:
      Link to the schemes; don't copy them. Regenerate the list when the Blackbook adds schemes. -->
 *Diagnostic schemes for common presentations from the University of Calgary's Blackbook, written by its medical students and faculty. Browse it embedded below, or find a scheme by system.*
 
-[Open the Blackbook](https://blackbook.ucalgary.ca/schemes/){ .md-button .md-button--primary target="_blank" rel="noopener" } [PDF, 15th edition (2022-2023)](https://blackbook.ucalgary.ca/wp-content/uploads/2022/06/blackbook-15-2022-2023.pdf){ .md-button } [PDF, édition française (2025)](https://blackbook.ucalgary.ca/wp-content/uploads/2026/07/Blackbook-2025-edition-francaise.pdf){ .md-button }
+[Open the Blackbook](https://blackbook.ucalgary.ca/schemes/){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
 <iframe src="https://blackbook.ucalgary.ca/schemes/" title="University of Calgary Blackbook schemes" loading="lazy" style="width:100%;height:75vh;min-height:480px;border:1px solid var(--md-default-fg-color--lightest);border-radius:0.4rem;"></iframe>
+
+[Download PDF: 15th edition (2022-2023)](https://blackbook.ucalgary.ca/wp-content/uploads/2022/06/blackbook-15-2022-2023.pdf){ .md-button } [Download PDF: édition française (2025)](https://blackbook.ucalgary.ca/wp-content/uploads/2026/07/Blackbook-2025-edition-francaise.pdf){ .md-button }
 
 !!! failure "Blackbook Disclaimer"
 	- This material is for educational purposes only.
