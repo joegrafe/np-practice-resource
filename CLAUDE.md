@@ -13,6 +13,7 @@ Before any NPPR build step, read NPPR-FRAMEWORK.md at the root of this vault. It
 - One entry per guideline. Put its PDF, appendices and algorithm as sub-links under that entry, not as separate bullets, and don't link the same document from more than one section of a page.
 - Show the year beside every guideline, algorithm and pathway in the page body.
 - Always keep the BC Guidelines on a condition page, however old, and keep each one at its current version: when GPAC updates a guideline, replace the link and its year on every page that cites it.
-- Remove summaries, reviews and "approach to" articles (PEER, AAFP, journal reviews) that predate the current version of the guideline they discuss, unless they cover something the guideline doesn't.
+- The Approaches section is a complete, accurate list of the "approach to" articles and pages each source offers, whatever their age. When a more recent guideline covers the same topic as an approach, keep the approach and add a link to that guideline, with its year, beside it.
+- On condition pages, remove summaries and reviews (PEER, journal reviews) that predate the current version of the guideline they discuss, unless they cover something the guideline doesn't.
 - When you add, move or remove a page, update the In This Section list on its section's index.md in the same change.
 - Test-build the site and show the result before committing.
