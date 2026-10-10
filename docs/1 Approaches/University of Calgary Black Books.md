@@ -33,7 +33,7 @@ sources:
 
 <iframe src="https://blackbook.ucalgary.ca/schemes/" title="University of Calgary Blackbook schemes" loading="lazy" style="width:100%;height:75vh;min-height:480px;border:1px solid var(--md-default-fg-color--lightest);border-radius:0.4rem;"></iframe>
 
-[Download PDF: 15th edition (2022-2023)](https://blackbook.ucalgary.ca/wp-content/uploads/2022/06/blackbook-15-2022-2023.pdf){ .md-button } [Download PDF: édition française (2025)](https://blackbook.ucalgary.ca/wp-content/uploads/2026/07/Blackbook-2025-edition-francaise.pdf){ .md-button }
+[Download PDF (2022-23)](https://blackbook.ucalgary.ca/wp-content/uploads/2022/06/blackbook-15-2022-2023.pdf){ .md-button style="font-size:0.6rem;padding:0.35em 0.9em;margin:0 0.3em 0.4em 0;" } [PDF en français (2025)](https://blackbook.ucalgary.ca/wp-content/uploads/2026/07/Blackbook-2025-edition-francaise.pdf){ .md-button style="font-size:0.6rem;padding:0.35em 0.9em;margin:0 0.3em 0.4em 0;" }
 
 !!! failure "Blackbook Disclaimer"
 	- This material is for educational purposes only.
