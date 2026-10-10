@@ -3,10 +3,10 @@ title: University of Calgary Black Books
 type: approach
 tags: [approach]
 jurisdiction: [CA]
-status: draft
+status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
-reviewers: []
+reviewers: [joegrafe]
 description: "The University of Calgary Blackbook's 353 diagnostic schemes for common presentations, listed by system and linked to NPPR condition pages, with the Blackbook embedded."
 sources:
   - id: ucalgary-blackbook-web
