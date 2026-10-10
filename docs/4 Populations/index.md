@@ -14,7 +14,7 @@ hide:
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*Sources and services for specific patient groups: pediatrics, pregnancy and perinatal care, women's health, trans and gender-affirming care, and rural and remote practice.*
+*Sources and services for specific patient groups: pediatrics, pregnancy and perinatal care, women's health, trans and gender-affirming care, Indigenous health, and rural and remote practice.*
 
 ## In This Section
 - [Pediatrics](Pediatrics/Pediatrics.md)
@@ -23,4 +23,5 @@ hide:
 - [Pregnancy and Perinatal](Pregnancy%20and%20Perinatal.md)
 - [Women's Health](Women%27s%20Health.md)
 - [Trans Care](Trans%20Care.md)
+- [Indigenous Health](Indigenous%20Health.md)
 - [BC Rural Health](BC%20Rural%20Health.md)
