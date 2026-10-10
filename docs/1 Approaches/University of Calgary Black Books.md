@@ -1,13 +1,433 @@
 ---
-tags:
-  - Approach
+title: University of Calgary Black Books
+type: approach
+tags: [approach]
+jurisdiction: [CA]
+status: published
+last-reviewed: 2026-10-10
+review-due: 2027-10-10
+reviewers: [joegrafe]
+description: "The University of Calgary Blackbook's 353 diagnostic schemes for common presentations, listed by system and linked to NPPR condition pages, with the Blackbook embedded."
+sources:
+  - id: ucalgary-blackbook-web
+    title: "Blackbook: Approaches to Medical Presentations"
+    publisher: University of Calgary, Cumming School of Medicine
+    jurisdiction: CA
+    kind: summary
+    url: "https://blackbook.ucalgary.ca/schemes/"
+    checked: 2026-10-10
+  - id: ucalgary-blackbook-15
+    title: "Blackbook, 15th edition (2022-2023)"
+    publisher: University of Calgary, Cumming School of Medicine
+    jurisdiction: CA
+    kind: summary
+    version: "15th edition, 2022-2023"
+    pdf: "https://blackbook.ucalgary.ca/wp-content/uploads/2022/06/blackbook-15-2022-2023.pdf"
+    checked: 2026-10-10
 ---
+<!-- Scheme list checked against every system page at blackbook.ucalgary.ca/schemes/ on 2026-10-10 (353 schemes, matching the site's counts).
+     Link to the schemes; don't copy them. Regenerate the list when the Blackbook adds schemes. -->
+*Diagnostic schemes for common presentations from the University of Calgary's Blackbook, written by its medical students and faculty. Browse it embedded below, or find a scheme by system.*
 
-[Approaches to Medical Presentations](https://blackbook.ucalgary.ca/){ .md-button .md-button--primary}
+[Open the Blackbook](https://blackbook.ucalgary.ca/schemes/){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
-<iframe src="https://blackbook.ucalgary.ca/schemes/" width="100%" height="1200px"></iframe>
+<iframe src="https://blackbook.ucalgary.ca/schemes/" title="University of Calgary Blackbook schemes" loading="lazy" style="width:100%;height:75vh;min-height:480px;border:1px solid var(--md-default-fg-color--lightest);border-radius:0.4rem;"></iframe>
+
+[Download PDF (2022-23)](https://blackbook.ucalgary.ca/wp-content/uploads/2022/06/blackbook-15-2022-2023.pdf){ .md-button style="font-size:0.6rem;padding:0.35em 0.9em;margin:0 0.3em 0.4em 0;" } [PDF en français (2025)](https://blackbook.ucalgary.ca/wp-content/uploads/2026/07/Blackbook-2025-edition-francaise.pdf){ .md-button style="font-size:0.6rem;padding:0.35em 0.9em;margin:0 0.3em 0.4em 0;" }
 
 !!! failure "Blackbook Disclaimer"
-	- This material is for educational purposes only.  
-	- It is not to be used to make medical decisions.  Medical decisions should be made only with the  guidance of a licensed medical professional.  
-	- While efforts have been made to ensure  the accuracy of the content within,  the accuracy is not guaranteed.
+	- This material is for educational purposes only.
+	- It is not to be used to make medical decisions. Medical decisions should be made only with the guidance of a licensed medical professional.
+	- While efforts have been made to ensure the accuracy of the content within, the accuracy is not guaranteed.
+
+## Schemes by System
+
+*Each heading opens a list of that system's schemes. Where NPPR has a condition page for the same topic, it is linked after the scheme.*
+
+??? note "Cardiovascular (17)"
+	- [Abnormal rhythm (1)](https://blackbook.ucalgary.ca/schemes/cardiovascular/abnormal-rhythm-1/) · NPPR: [Atrial Fibrillation and Anticoagulation](../3%20Conditions/Cardiovascular/Atrial%20Fibrillation%20and%20Anticoagulation.md)
+	- [Abnormal rhythm (2)](https://blackbook.ucalgary.ca/schemes/cardiovascular/abnormal-rhythm-2/) · NPPR: [Atrial Fibrillation and Anticoagulation](../3%20Conditions/Cardiovascular/Atrial%20Fibrillation%20and%20Anticoagulation.md)
+	- [Chest discomfort: cardiovascular](https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-discomfort-cardiovascular/)
+	- [Chest discomfort: other](https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-discomfort-other/)
+	- [Chest discomfort: pulmonary / mediastinal](https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-discomfort-pulmonary-mediastinal/)
+	- [Chest pain: cardiac/non-cardiac](https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-pain1/)
+	- [Chest pain: life-threatening/non-life-threatening](https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-pain2/)
+	- [Diastolic murmur](https://blackbook.ucalgary.ca/schemes/cardiovascular/diastolic-murmur/)
+	- [Hypertension](https://blackbook.ucalgary.ca/schemes/cardiovascular/hypertension/) · NPPR: [Hypertension](../3%20Conditions/Cardiovascular/Hypertension.md)
+	- [Hypertension in pregnancy](https://blackbook.ucalgary.ca/schemes/cardiovascular/hypertension-in-pregnancy/)
+	- [Isolated right-sided heart failure](https://blackbook.ucalgary.ca/schemes/cardiovascular/isolated-right-sided-heart-failure/) · NPPR: [Heart Failure](../3%20Conditions/Cardiovascular/Heart%20Failure.md)
+	- [Left-sided heart failure](https://blackbook.ucalgary.ca/schemes/cardiovascular/left-sided-heart-failure/) · NPPR: [Heart Failure](../3%20Conditions/Cardiovascular/Heart%20Failure.md)
+	- [Pulse abnormalities](https://blackbook.ucalgary.ca/schemes/cardiovascular/pulse-abnormalities/)
+	- [Shock](https://blackbook.ucalgary.ca/schemes/cardiovascular/shock/)
+	- [Syncope](https://blackbook.ucalgary.ca/schemes/cardiovascular/syncope/)
+	- [Systolic murmur: benign & stenotic](https://blackbook.ucalgary.ca/schemes/cardiovascular/systolic-murmur-benign-stenotic/)
+	- [Systolic murmur: valvular & other](https://blackbook.ucalgary.ca/schemes/cardiovascular/systolic-murmur-valvular-other/)
+
+??? note "Respiratory (19)"
+	- [Acid-base-disorder: pulmonary](https://blackbook.ucalgary.ca/schemes/respiratory/acid-base-disorder-pulmonary/)
+	- [Chest discomfort: cardiovascular](https://blackbook.ucalgary.ca/schemes/respiratory/chest-discomfort-cardiovascular-2/)
+	- [Chest discomfort: other](https://blackbook.ucalgary.ca/schemes/respiratory/chest-discomfort-other-2/)
+	- [Chest discomfort: pulmonary/mediastinal](https://blackbook.ucalgary.ca/schemes/respiratory/chest-discomfort-pulmonary-mediastinal-2/)
+	- [Chest trauma complications](https://blackbook.ucalgary.ca/schemes/respiratory/chest-trauma-complications/)
+	- [Cough: chronic](https://blackbook.ucalgary.ca/schemes/respiratory/cough-chronic/)
+	- [Cough: dyspnea & fever](https://blackbook.ucalgary.ca/schemes/respiratory/cough-dyspnea-fever/)
+	- [Dyspnea: acute](https://blackbook.ucalgary.ca/schemes/respiratory/dyspnea-acute/)
+	- [Dyspnea: chronic - cardiac](https://blackbook.ucalgary.ca/schemes/respiratory/dyspnea-chronic-cardiac/)
+	- [Dyspnea: chronic - pulmonary/other](https://blackbook.ucalgary.ca/schemes/respiratory/dyspnea-chronic-pulmonary-other/)
+	- [Excessive daytime sleepiness](https://blackbook.ucalgary.ca/schemes/respiratory/excessive-daytime-sleepiness/)
+	- [Hemoptysis](https://blackbook.ucalgary.ca/schemes/respiratory/hemoptysis/)
+	- [Hypoxemia](https://blackbook.ucalgary.ca/schemes/respiratory/hypoxemia/)
+	- [Lung nodule](https://blackbook.ucalgary.ca/schemes/respiratory/lung-nodule/)
+	- [Mediastinal mass](https://blackbook.ucalgary.ca/schemes/respiratory/mediastinal-mass/)
+	- [Pleural effusion](https://blackbook.ucalgary.ca/schemes/respiratory/pleural-effusion/)
+	- [Pulmonary disorders: spirometry](https://blackbook.ucalgary.ca/schemes/respiratory/pulmonary-disorders-spirometry/)
+	- [Pulmonary function tests](https://blackbook.ucalgary.ca/schemes/respiratory/pulmonary-function-tests/)
+	- [Pulmonary hypertension](https://blackbook.ucalgary.ca/schemes/respiratory/pulmonary-hypertension/)
+
+??? note "Endocrine and Metabolic (30)"
+	- [Abnormal lipid profile: combined & decreased HDL](https://blackbook.ucalgary.ca/schemes/endocrinology/abnormal-lipid-profile-combined-decreased-hdl/) · NPPR: [Cardiovascular Risk and Lipids](../3%20Conditions/Cardiovascular/Cardiovascular%20Risk%20and%20Lipids.md)
+	- [Abnormal lipid profile: increased LDL & increased triglycerides](https://blackbook.ucalgary.ca/schemes/endocrinology/abnormal-lipid-profile-increased-ldl-increased-triglycerides/) · NPPR: [Cardiovascular Risk and Lipids](../3%20Conditions/Cardiovascular/Cardiovascular%20Risk%20and%20Lipids.md)
+	- [Abnormal serum TSH](https://blackbook.ucalgary.ca/schemes/endocrinology/abnormal-serum-tsh/)
+	- [Adrenal mass: benign](https://blackbook.ucalgary.ca/schemes/endocrinology/adrenal-mass-benign/)
+	- [Adrenal mass: malignant](https://blackbook.ucalgary.ca/schemes/endocrinology/adrenal-mass-malignant/)
+	- [Amenorrhea](https://blackbook.ucalgary.ca/schemes/endocrinology/amenorrhea/)
+	- [Breast discharge](https://blackbook.ucalgary.ca/schemes/endocrinology/breast-discharge/)
+	- [Gynecomastia: increased estrogen & increased HCG](https://blackbook.ucalgary.ca/schemes/endocrinology/gynecomastia-increased-estrogen-increased-hcg/)
+	- [Gynecomastia: increased LH & decreased testosterone](https://blackbook.ucalgary.ca/schemes/endocrinology/gynecomastia-increased-lh-decreased-testosterone/)
+	- [Hirsutism](https://blackbook.ucalgary.ca/schemes/endocrinology/hirsutism/)
+	- [Hirsutism & virilization: androgen excess](https://blackbook.ucalgary.ca/schemes/endocrinology/hirsutism-virilization-androgen-excess/)
+	- [Hirsutism & virilization: hypertrichosis](https://blackbook.ucalgary.ca/schemes/endocrinology/hirsutism-virilization-hypertrichosis/)
+	- [Hypercalcemia: low PTH](https://blackbook.ucalgary.ca/schemes/endocrinology/hypercalcemia-low-pth/) · NPPR: [Calcium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Calcium%20Disorders.md)
+	- [Hypercalcemia: normal/high PTH](https://blackbook.ucalgary.ca/schemes/endocrinology/hypercalcemia-normal-high-pth/) · NPPR: [Calcium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Calcium%20Disorders.md)
+	- [Hyperglycemia](https://blackbook.ucalgary.ca/schemes/endocrinology/hyperglycemia/) · NPPR: [Diabetes, Type 2](../3%20Conditions/Endocrine%20and%20Metabolic/Diabetes%2C%20Type%202.md)
+	- [Hyperphosphatemia](https://blackbook.ucalgary.ca/schemes/endocrinology/hyperphosphatemia/)
+	- [Hyperthyroidism](https://blackbook.ucalgary.ca/schemes/endocrinology/hyperthyroidism/)
+	- [Hyperuricemia](https://blackbook.ucalgary.ca/schemes/endocrinology/hyperuricemia/)
+	- [Hypocalcemia: high phosphate](https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-high-phosphate/) · NPPR: [Calcium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Calcium%20Disorders.md)
+	- [Hypocalcemia: high/low PTH](https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-high-low-pth/) · NPPR: [Calcium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Calcium%20Disorders.md)
+	- [Hypocalcemia: low phosphate](https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-low-phosphate/) · NPPR: [Calcium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Calcium%20Disorders.md)
+	- [Hypoglycemia](https://blackbook.ucalgary.ca/schemes/endocrinology/hypoglycemia/)
+	- [Hypophosphatemia](https://blackbook.ucalgary.ca/schemes/endocrinology/hypophosphatemia/)
+	- [Hypothyroidism](https://blackbook.ucalgary.ca/schemes/endocrinology/hypothyroidism/)
+	- [Male sexual dysfunction](https://blackbook.ucalgary.ca/schemes/endocrinology/male-sexual-dysfunction/)
+	- [Sellar/pituitary mass](https://blackbook.ucalgary.ca/schemes/endocrinology/sellar-pituitary-mass/)
+	- [Sellar/pituitary mass: size](https://blackbook.ucalgary.ca/schemes/endocrinology/sellar-pituitary-mass-size/)
+	- [Short stature](https://blackbook.ucalgary.ca/schemes/endocrinology/short-stature/)
+	- [Tall stature](https://blackbook.ucalgary.ca/schemes/endocrinology/tall-stature/)
+	- [Weight gain/obesity](https://blackbook.ucalgary.ca/schemes/endocrinology/weight-gain-obesity/)
+
+??? note "Renal (24)"
+	- [Acute kidney injury](https://blackbook.ucalgary.ca/schemes/renal/acute-kidney-injury/) · NPPR: [Acute Kidney Injury (AKI)](../3%20Conditions/Renal%20and%20Genitourinary/Acute%20Kidney%20Injury%20%28AKI%29.md)
+	- [Chronic kidney disease](https://blackbook.ucalgary.ca/schemes/renal/chronic-kidney-disease/) · NPPR: [Chronic Kidney Disease (CKD)](../3%20Conditions/Renal%20and%20Genitourinary/Chronic%20Kidney%20Disease%20%28CKD%29.md)
+	- [Dysuria](https://blackbook.ucalgary.ca/schemes/renal/dysuria/)
+	- [Generalized edema](https://blackbook.ucalgary.ca/schemes/renal/generalized-edema/)
+	- [Hematuria](https://blackbook.ucalgary.ca/schemes/renal/hematuria/)
+	- [Hyperkalemia: intracellular shift](https://blackbook.ucalgary.ca/schemes/renal/hyperkalemia-intracellular-shift/) · NPPR: [Potassium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Potassium%20Disorders.md)
+	- [Hyperkalemia: reduced excretion](https://blackbook.ucalgary.ca/schemes/renal/hyperkalemia-reduced-excretion/) · NPPR: [Potassium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Potassium%20Disorders.md)
+	- [Hypernatremia](https://blackbook.ucalgary.ca/schemes/renal/hypernatremia/) · NPPR: [Sodium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Sodium%20Disorders.md)
+	- [Hypertension](https://blackbook.ucalgary.ca/schemes/renal/hypertension-2/) · NPPR: [Hypertension](../3%20Conditions/Cardiovascular/Hypertension.md)
+	- [Hypokalemia](https://blackbook.ucalgary.ca/schemes/renal/hypokalemia/) · NPPR: [Potassium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Potassium%20Disorders.md)
+	- [Hyponatremia](https://blackbook.ucalgary.ca/schemes/renal/hyponatremia/) · NPPR: [Sodium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Sodium%20Disorders.md)
+	- [Increased urinary frequency](https://blackbook.ucalgary.ca/schemes/renal/increased-urinary-frequency/)
+	- [Metabolic acidosis: elevated anion gap](https://blackbook.ucalgary.ca/schemes/renal/metabolic-acidosis-elevated-anion-gap/)
+	- [Metabolic acidosis: normal anion gap](https://blackbook.ucalgary.ca/schemes/renal/metabolic-acidosis-normal-anion-gap/)
+	- [Metabolic alkalosis](https://blackbook.ucalgary.ca/schemes/renal/metabolic-alkalosis/)
+	- [Nephrolithiasis](https://blackbook.ucalgary.ca/schemes/renal/nephrolithiasis/)
+	- [Polyuria](https://blackbook.ucalgary.ca/schemes/renal/polyuria/)
+	- [Proteinuria](https://blackbook.ucalgary.ca/schemes/renal/proteinuria/)
+	- [Renal mass: cystic](https://blackbook.ucalgary.ca/schemes/renal/renal-mass-cystic/)
+	- [Renal mass: solid](https://blackbook.ucalgary.ca/schemes/renal/renal-mass-solid/)
+	- [Scrotal mass](https://blackbook.ucalgary.ca/schemes/renal/scrotal-mass/)
+	- [Suspected acid-base disturbance](https://blackbook.ucalgary.ca/schemes/renal/suspected-acid-base-disturbance/)
+	- [Urinary incontinence](https://blackbook.ucalgary.ca/schemes/renal/urinary-incontinence/)
+	- [Urinary tract obstruction](https://blackbook.ucalgary.ca/schemes/renal/urinary-tract-obstruction/)
+
+??? note "Gastrointestinal (29)"
+	- [Abdominal distention](https://blackbook.ucalgary.ca/schemes/gastrointestinal/abdominal-distension/)
+	- [Abdominal distention: ascites](https://blackbook.ucalgary.ca/schemes/gastrointestinal/abdominal-distention-ascites/)
+	- [Abdominal distention: other causes](https://blackbook.ucalgary.ca/schemes/gastrointestinal/abdominal-distention-other-causes/)
+	- [Abdominal mass](https://blackbook.ucalgary.ca/schemes/gastrointestinal/abdominal-mass/)
+	- [Abdominal pain (adult): acute - diffuse](https://blackbook.ucalgary.ca/schemes/gastrointestinal/abdominal-pain-adult-acute-diffuse/)
+	- [Abdominal pain (adult): acute - localized](https://blackbook.ucalgary.ca/schemes/gastrointestinal/abdominal-pain-adult-acute-localized/)
+	- [Abdominal pain (adult): chronic - constant](https://blackbook.ucalgary.ca/schemes/gastrointestinal/abdominal-pain-adult-chronic-constant/)
+	- [Abdominal pain (adult): chronic - crampy/fleeting](https://blackbook.ucalgary.ca/schemes/gastrointestinal/abdominal-pain-adult-chronic-crampy-fleeting/)
+	- [Abdominal pain (adult): chronic - post-prandial](https://blackbook.ucalgary.ca/schemes/gastrointestinal/abdominal-pain-adult-chronic-post-prandial/)
+	- [Acute diarrhea](https://blackbook.ucalgary.ca/schemes/gastrointestinal/acute-diarrhea/)
+	- [Anorectal pain](https://blackbook.ucalgary.ca/schemes/gastrointestinal/anorectal-pain/)
+	- [Chronic diarrhea: small bowel](https://blackbook.ucalgary.ca/schemes/gastrointestinal/chronic-diarrhea-small-bowel/)
+	- [Chronic diarrhea: steatorrhea & large bowel](https://blackbook.ucalgary.ca/schemes/gastrointestinal/chronic-diarrhea-steatorrhea-large-bowel/)
+	- [Constipation (adult): altered bowel function & idiopathic](https://blackbook.ucalgary.ca/schemes/gastrointestinal/constipation-adult-altered-bowel-function-idiopathic/)
+	- [Constipation (adult): secondary causes](https://blackbook.ucalgary.ca/schemes/gastrointestinal/constipation-adult-secondary-causes/)
+	- [Dysphagia](https://blackbook.ucalgary.ca/schemes/gastrointestinal/dysphagia/)
+	- [Elevated liver enzymes](https://blackbook.ucalgary.ca/schemes/gastrointestinal/elevated-liver-enzymes/)
+	- [Hepatomegaly](https://blackbook.ucalgary.ca/schemes/gastrointestinal/hepatomegaly/)
+	- [Jaundice](https://blackbook.ucalgary.ca/schemes/gastrointestinal/jaundice/)
+	- [Liver mass](https://blackbook.ucalgary.ca/schemes/gastrointestinal/liver-mass/)
+	- [Lower gastrointestinal bleed](https://blackbook.ucalgary.ca/schemes/gastrointestinal/lower-gastrointestinal-bleed/)
+	- [Mouth disorders: adult and elderly](https://blackbook.ucalgary.ca/schemes/gastrointestinal/mouth-disorders-adult-and-elderly/)
+	- [Nausea and vomiting: gastrointestinal disease](https://blackbook.ucalgary.ca/schemes/gastrointestinal/nausea-and-vomiting-gastrointestinal-disease/)
+	- [Nausea and vomiting: other systemic disease](https://blackbook.ucalgary.ca/schemes/gastrointestinal/nausea-and-vomiting-other-systemic-disease/)
+	- [Stool incontinence](https://blackbook.ucalgary.ca/schemes/gastrointestinal/stool-incontinence/)
+	- [Unintentional weight loss (adults)](https://blackbook.ucalgary.ca/schemes/gastrointestinal/unintentional-weight-loss-adults/)
+	- [Upper gastrointestinal bleed (hematemesis/melena)](https://blackbook.ucalgary.ca/schemes/gastrointestinal/upper-gastrointestinal-bleed-hematemesis-melena/)
+	- [Weight gain](https://blackbook.ucalgary.ca/schemes/gastrointestinal/weight-gain/)
+	- [Weight loss](https://blackbook.ucalgary.ca/schemes/gastrointestinal/weight-loss/)
+
+??? note "Musculoskeletal (14)"
+	- [Acute joint pain - vitamin CD](https://blackbook.ucalgary.ca/schemes/musculoskeletal/acute-joint-pain-vitamin-cd/)
+	- [Bone lesion](https://blackbook.ucalgary.ca/schemes/musculoskeletal/bone-lesion/)
+	- [Chronic joint pain](https://blackbook.ucalgary.ca/schemes/musculoskeletal/chronic-joint-pain/)
+	- [Deformity/limp](https://blackbook.ucalgary.ca/schemes/musculoskeletal/deformity-limp/)
+	- [Fracture healing](https://blackbook.ucalgary.ca/schemes/musculoskeletal/fracture-healing/)
+	- [Guide to spinal cord injury](https://blackbook.ucalgary.ca/schemes/musculoskeletal/guide-to-spinal-cord-injury/)
+	- [Infectious joint pain](https://blackbook.ucalgary.ca/schemes/musculoskeletal/infectious-joint-pain/)
+	- [Inflammatory joint pain](https://blackbook.ucalgary.ca/schemes/musculoskeletal/inflammatory-joint-pain/)
+	- [Myotomes: segmental innervation of muscles](https://blackbook.ucalgary.ca/schemes/musculoskeletal/myotomes-segmental-innervation-of-muscles/)
+	- [Osteoporosis- BMD testing](https://blackbook.ucalgary.ca/schemes/musculoskeletal/osteoporosis-bmd-testing/)
+	- [Pathologic fractures](https://blackbook.ucalgary.ca/schemes/musculoskeletal/pathologic-fractures/)
+	- [Soft tissue](https://blackbook.ucalgary.ca/schemes/musculoskeletal/soft-tissue/)
+	- [Tumour](https://blackbook.ucalgary.ca/schemes/musculoskeletal/tumour/)
+	- [Vascular joint pain](https://blackbook.ucalgary.ca/schemes/musculoskeletal/vascular-joint-pain/)
+
+??? note "Neurologic (28)"
+	- [Altered level of consciousness: approach](https://blackbook.ucalgary.ca/schemes/neurologic/altered-level-of-consciousness-approach/)
+	- [Altered level of consciousness: GCS ≤ 7](https://blackbook.ucalgary.ca/schemes/neurologic/altered-level-of-consciousness-gcs-%e2%89%a4-7/)
+	- [Aphasia: fluent](https://blackbook.ucalgary.ca/schemes/neurologic/aphasia-fluent/)
+	- [Aphasia: non-fluent](https://blackbook.ucalgary.ca/schemes/neurologic/aphasia-non-fluent/)
+	- [Back pain](https://blackbook.ucalgary.ca/schemes/neurologic/back-pain/) · NPPR: [Low Back Pain](../3%20Conditions/Musculoskeletal/Low%20Back%20Pain.md)
+	- [Cognitive impairment](https://blackbook.ucalgary.ca/schemes/neurologic/cognitive-impairment/)
+	- [Dizziness: dizziness](https://blackbook.ucalgary.ca/schemes/neurologic/dizziness-dizziness/)
+	- [Dizziness: vertigo](https://blackbook.ucalgary.ca/schemes/neurologic/dizziness-vertigo/)
+	- [Dysarthria](https://blackbook.ucalgary.ca/schemes/neurologic/dysarthria/)
+	- [Falls in the elderly](https://blackbook.ucalgary.ca/schemes/neurologic/falls-in-the-elderly/)
+	- [Gait disturbance](https://blackbook.ucalgary.ca/schemes/neurologic/gait-disturbance/)
+	- [Headache: primary](https://blackbook.ucalgary.ca/schemes/neurologic/headache-primary/)
+	- [Headache: secondary, with red flag symptoms](https://blackbook.ucalgary.ca/schemes/neurologic/headache-secondary-with-red-flag-symptoms/)
+	- [Headache: secondary, without red flag symptoms](https://blackbook.ucalgary.ca/schemes/neurologic/headache-secondary-without-red-flag-symptoms/)
+	- [Hemiplegia](https://blackbook.ucalgary.ca/schemes/neurologic/hemiplegia/)
+	- [Mechanisms of pain](https://blackbook.ucalgary.ca/schemes/neurologic/mechanisms-of-pain/)
+	- [Movement disorder: bradykinetic](https://blackbook.ucalgary.ca/schemes/neurologic/movement-disorder-bradykinetic/)
+	- [Movement disorder: hyperkinetic](https://blackbook.ucalgary.ca/schemes/neurologic/movement-disorder-hyperkinetic/)
+	- [Movement disorder: tremor](https://blackbook.ucalgary.ca/schemes/neurologic/movement-disorder-tremor/)
+	- [Peripheral weakness](https://blackbook.ucalgary.ca/schemes/neurologic/peripheral-weakness/)
+	- [Peripheral weakness: sensory changes](https://blackbook.ucalgary.ca/schemes/neurologic/peripheral-weakness-sensory-changes/)
+	- [Spell/seizure: epileptic seizure](https://blackbook.ucalgary.ca/schemes/neurologic/spell-seizure-epileptic-seizure/)
+	- [Spell/seizure: other](https://blackbook.ucalgary.ca/schemes/neurologic/spell-seizure-other/)
+	- [Spell/seizure: secondary organic](https://blackbook.ucalgary.ca/schemes/neurologic/spell-seizure-secondary-organic/)
+	- [Stroke: intracerebral hemorrhage](https://blackbook.ucalgary.ca/schemes/neurologic/stroke-intracerebral-hemorrhage/)
+	- [Stroke: ischemia](https://blackbook.ucalgary.ca/schemes/neurologic/stroke-ischemia/)
+	- [Stroke: subarachnoid hemorrhage](https://blackbook.ucalgary.ca/schemes/neurologic/stroke-subarachnoid-hemorrhage/)
+	- [Syncope](https://blackbook.ucalgary.ca/schemes/neurologic/syncope-2/)
+
+??? note "Psychiatric (9)"
+	- [Anxiety disorders: associated with panic](https://blackbook.ucalgary.ca/schemes/psychiatric/anxiety-disorders-associated-with-panic/)
+	- [Anxiety disorders: recurrent anxious thoughts](https://blackbook.ucalgary.ca/schemes/psychiatric/anxiety-disorders-recurrent-anxious-thoughts/)
+	- [Mood disorders: bipolar and related disorders](https://blackbook.ucalgary.ca/schemes/psychiatric/mood-disorders-bipolar-related-disorders/)
+	- [Mood disorders: depressive disorders](https://blackbook.ucalgary.ca/schemes/psychiatric/mood-disorders-depressive-disorders/)
+	- [Obsessive-compulsive & related disorders](https://blackbook.ucalgary.ca/schemes/psychiatric/obsessive-compulsive-related-disorders/)
+	- [Personality disorder](https://blackbook.ucalgary.ca/schemes/psychiatric/personality-disorder/)
+	- [Schizophrenia spectrum and psychotic disorders](https://blackbook.ucalgary.ca/schemes/psychiatric/schizophrenia-spectrum-psychotic-disorders/)
+	- [Somatoform disorders](https://blackbook.ucalgary.ca/schemes/psychiatric/somatic-symptom-related-disorders/)
+	- [Trauma and stressor related disorders](https://blackbook.ucalgary.ca/schemes/psychiatric/trauma-and-stressor-related-disorders/)
+
+??? note "Hematologic (26)"
+	- [Anemia with elevated MCV](https://blackbook.ucalgary.ca/schemes/hematologic/anemia-with-elevated-mcv/)
+	- [Anemia with low MCV](https://blackbook.ucalgary.ca/schemes/hematologic/anemia-with-low-mcv/)
+	- [Anemia with normal MCV](https://blackbook.ucalgary.ca/schemes/hematologic/anemia-with-normal-mcv/)
+	- [Approach to anemia: mean corpuscular volume](https://blackbook.ucalgary.ca/schemes/hematologic/approach-to-anemia-mean-corpuscular-volume/)
+	- [Approach to bleeding/bruising: coagulation proteins](https://blackbook.ucalgary.ca/schemes/hematologic/approach-to-bleeding-bruising-coagulation-proteins/)
+	- [Approach to bleeding/bruising: platelets & vascular system](https://blackbook.ucalgary.ca/schemes/hematologic/approach-to-bleeding-bruising-platelets-vascular-system/)
+	- [Approach to leukocytosis](https://blackbook.ucalgary.ca/schemes/hematologic/approach-to-leukocytosis/)
+	- [Approach to prolonged PT (INR), prolonged PTT](https://blackbook.ucalgary.ca/schemes/hematologic/approach-to-prolonged-pt-inr-prolonged-ptt/)
+	- [Approach to splenomegaly](https://blackbook.ucalgary.ca/schemes/hematologic/approach-to-splenomegaly/)
+	- [Fever in the immunocompromised host](https://blackbook.ucalgary.ca/schemes/hematologic/fever-in-the-immunocompromised-host/)
+	- [Hemolysis](https://blackbook.ucalgary.ca/schemes/hematologic/hemolysis/)
+	- [Lymphadenopathy: diffuse](https://blackbook.ucalgary.ca/schemes/hematologic/lymphadenopathy-diffuse/)
+	- [Lymphadenopathy: localized](https://blackbook.ucalgary.ca/schemes/hematologic/lymphadenopathy-localized/)
+	- [Lymphocytosis](https://blackbook.ucalgary.ca/schemes/hematologic/lymphocytosis/)
+	- [Neutropenia: bicytopenia/pancytopenia](https://blackbook.ucalgary.ca/schemes/hematologic/neutropenia-bicytopenia-pancytopenia/)
+	- [Neutropenia: decreased neutrophils only](https://blackbook.ucalgary.ca/schemes/hematologic/neutropenia-decreased-neutrophils-only/)
+	- [Neutrophilia](https://blackbook.ucalgary.ca/schemes/hematologic/neutrophilia/)
+	- [Overall approach to anemia](https://blackbook.ucalgary.ca/schemes/hematologic/overall-approach-to-anemia/)
+	- [Polycythemia](https://blackbook.ucalgary.ca/schemes/hematologic/polycythemia/)
+	- [Prolonged PT (INR), normal PTT](https://blackbook.ucalgary.ca/schemes/hematologic/prolonged-pt-inr-normal-ptt/)
+	- [Prolonged PTT, normal PT (INR): bleeding tendency](https://blackbook.ucalgary.ca/schemes/hematologic/prolonged-ptt-normal-pt-inr-bleeding-tendency/)
+	- [Prolonged PTT, normal PT (INR): no bleeding tendency](https://blackbook.ucalgary.ca/schemes/hematologic/prolonged-ptt-normal-pt-inr-no-bleeding-tendency/)
+	- [Suspected deep vein thrombosis (DVT)](https://blackbook.ucalgary.ca/schemes/hematologic/suspected-deep-vein-thrombosis-dvt/)
+	- [Suspected pulmonary embolism (PE)](https://blackbook.ucalgary.ca/schemes/hematologic/suspected-pulmonary-embolism-pe/)
+	- [Thrombocytopenia](https://blackbook.ucalgary.ca/schemes/hematologic/thrombocytopenia/)
+	- [Thrombocytosis](https://blackbook.ucalgary.ca/schemes/hematologic/thrombocytosis/)
+
+??? note "Dermatologic (28)"
+	- [Burns](https://blackbook.ucalgary.ca/schemes/dermatologic/burns/)
+	- [Dermatoses in pregnancy: physiologic changes](https://blackbook.ucalgary.ca/schemes/dermatologic/dermatoses-in-pregnancy-physiologic-changes/)
+	- [Dermatoses in pregnancy: specific skin conditions](https://blackbook.ucalgary.ca/schemes/dermatologic/dermatoses-in-pregnancy-specific-skin-conditions/)
+	- [Disorders of pigmentation: hyperpigmentation](https://blackbook.ucalgary.ca/schemes/dermatologic/disorders-of-pigmentation-hyperpigmentation/)
+	- [Disorders of pigmentation: hypopigmentation](https://blackbook.ucalgary.ca/schemes/dermatologic/disorders-of-pigmentation-hypopigmentation/)
+	- [Genital lesion](https://blackbook.ucalgary.ca/schemes/dermatologic/genital-lesion/)
+	- [Hair loss (alopecia): diffuse](https://blackbook.ucalgary.ca/schemes/dermatologic/hair-loss-alopecia-diffuse/)
+	- [Hair loss (alopecia): localized](https://blackbook.ucalgary.ca/schemes/dermatologic/hair-loss-alopecia-localized/)
+	- [Morphology of skin lesions: primary skin lesions](https://blackbook.ucalgary.ca/schemes/dermatologic/morphology-of-skin-lesions-primary-skin-lesions/)
+	- [Morphology of skin lesions: secondary skin lesions](https://blackbook.ucalgary.ca/schemes/dermatologic/morphology-of-skin-lesions-secondary-skin-lesions/)
+	- [Mucous membrane disorder (oral cavity)](https://blackbook.ucalgary.ca/schemes/dermatologic/mucous-membrane-disorder-oral-cavity/)
+	- [Nail disorders: primary dermatologic disease](https://blackbook.ucalgary.ca/schemes/dermatologic/nail-disorders-primary-dermatologic-disease/)
+	- [Nail disorders: systemic disease](https://blackbook.ucalgary.ca/schemes/dermatologic/nail-disorders-systemic-disease/)
+	- [Nail disorders: systemic disease - clubbing](https://blackbook.ucalgary.ca/schemes/dermatologic/nail-disorders-systemic-disease-clubbing/)
+	- [Pruritus: no primary skin lesion](https://blackbook.ucalgary.ca/schemes/dermatologic/pruritus-no-primary-skin-lesion/)
+	- [Pruritus: primary skin lesion](https://blackbook.ucalgary.ca/schemes/dermatologic/pruritus-primary-skin-lesion/)
+	- [Skin rash: eczematous](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-rash-eczematous/)
+	- [Skin rash: papulosquamous](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-rash-papulosquamous/)
+	- [Skin rash: pustular](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-rash-pustular/)
+	- [Skin rash: reactive](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-rash-reactive/)
+	- [Skin rash: vesiculobullous](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-rash-vesiculobullous/)
+	- [Skin ulcer by etiology](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-etiology/)
+	- [Skin ulcer by location: genitals](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-location-genitals/)
+	- [Skin ulcer by location: head and neck](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-location-head-and-neck/)
+	- [Skin ulcer by location: lower legs / feet](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-location-lower-legs-feet/)
+	- [Skin ulcer by location: oral ulcers](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-location-oral-ulcers/)
+	- [Skin ulcer by location: trunk / sacral region](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-location-trunk-sacral-region/)
+	- [Vascular lesions](https://blackbook.ucalgary.ca/schemes/dermatologic/vascular-lesions/)
+
+??? note "Ophthalmologic (13)"
+	- [Acute vision loss: bilateral](https://blackbook.ucalgary.ca/schemes/ophthalmologic/acute-vision-loss-bilateral/)
+	- [Acute vision loss: unilateral](https://blackbook.ucalgary.ca/schemes/ophthalmologic/acute-vision-loss-unilateral/)
+	- [Amblyopia](https://blackbook.ucalgary.ca/schemes/ophthalmologic/amblyopia/)
+	- [Approach to an eye exam](https://blackbook.ucalgary.ca/schemes/ophthalmologic/approach-to-an-eye-exam/)
+	- [Chronic vision loss: anatomic](https://blackbook.ucalgary.ca/schemes/ophthalmologic/chronic-vision-loss-anatomic/)
+	- [Cross section of the eye and abbreviations EOM](https://blackbook.ucalgary.ca/schemes/ophthalmologic/cross-section-of-the-eye-and-abbreviations-eom/)
+	- [Diplopia](https://blackbook.ucalgary.ca/schemes/ophthalmologic/diplopia/)
+	- [Neuro-ophthalmology: visual field defects](https://blackbook.ucalgary.ca/schemes/ophthalmologic/neuro-ophthalmology-visual-field-defects/)
+	- [Pupillary abnormalites: isocoria](https://blackbook.ucalgary.ca/schemes/ophthalmologic/pupillary-abnormalites-isocoria/)
+	- [Pupillary abnormalities: anisocoria](https://blackbook.ucalgary.ca/schemes/ophthalmologic/pupillary-abnormalities-anisocoria/)
+	- [Red eye: atraumatic](https://blackbook.ucalgary.ca/schemes/ophthalmologic/red-eye-atraumatic/)
+	- [Red eye: traumatic](https://blackbook.ucalgary.ca/schemes/ophthalmologic/red-eye-traumatic/)
+	- [Strabismus: ocular misalignment](https://blackbook.ucalgary.ca/schemes/ophthalmologic/strabismus-ocular-misalignment/)
+
+??? note "Otolaryngologic (9)"
+	- [Hearing loss: conductive](https://blackbook.ucalgary.ca/schemes/otolaryngologic/hearing-loss-conductive/)
+	- [Hearing loss: sensorineural](https://blackbook.ucalgary.ca/schemes/otolaryngologic/hearing-loss-sensorineural/)
+	- [Hoarseness: acute](https://blackbook.ucalgary.ca/schemes/otolaryngologic/hoarseness-acute/)
+	- [Hoarseness: non-acute](https://blackbook.ucalgary.ca/schemes/otolaryngologic/hoarseness-non-acute/)
+	- [Neck mass](https://blackbook.ucalgary.ca/schemes/otolaryngologic/neck-mass/)
+	- [Otalgia](https://blackbook.ucalgary.ca/schemes/otolaryngologic/otalgia/)
+	- [Smell dysfunction](https://blackbook.ucalgary.ca/schemes/otolaryngologic/smell-dysfunction/)
+	- [Tinnitus: objective](https://blackbook.ucalgary.ca/schemes/otolaryngologic/tinnitus-objective/)
+	- [Tinnitus: subjective](https://blackbook.ucalgary.ca/schemes/otolaryngologic/tinnitus-subjective/)
+
+??? note "Obstetrical and Gynecological (23)"
+	- [Abnormal genital bleeding](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/abnormal-genital-bleeding/)
+	- [Acute pelvic pain](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/acute-pelvic-pain/)
+	- [Amenorrhea: primary](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/amenorrhea-primary/)
+	- [Amenorrhea: secondary](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/amenorrhea-secondary/)
+	- [Antenatal care](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/antenatal-care/)
+	- [Bleeding in pregnancy: 2nd and 3rd trimesters](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/bleeding-in-pregnancy-2nd-and-3rd-trimesters/)
+	- [Bleeding in pregnancy: <20 weeks](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/bleeding-in-pregnancy/)
+	- [Breast disorders](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/breast-disorders/)
+	- [Chronic pelvic pain](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/chronic-pelvic-pain/)
+	- [Growth discrepancy: large for gestational age](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/growth-discrepancy-large-for-gestational-age/)
+	- [Growth discrepancy: small for gestational age/ intrauterine growth restriction](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/growth-discrepancy-small-for-gestational-age-intrauterine-growth-restriction/)
+	- [Infertility: female](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/infertility-female/)
+	- [Infertility: male](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/infertility-male/)
+	- [Intrapartum abnormal fetal heart rate tracing: baseline](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/intrapartum-abnormal-fetal-heart-rate-tracing-baseline/)
+	- [Intrapartum abnormal fetal heart rate tracing: variability & decelerations](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/intrapartum-abnormal-fetal-heart-rate-tracing-variability-decelerations/)
+	- [Intrapartum factors that may affect fetal oxygenation](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/intrapartum-factors-that-may-affect-fetal-oxygenation/)
+	- [Ovarian mass](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/ovarian-mass/)
+	- [Pelvic mass](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/pelvic-mass/)
+	- [Pelvic organ prolapse](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/pelvic-organ-prolapse/)
+	- [Post-partum fever](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/post-partum-fever/)
+	- [Post-partum hemorrhage](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/post-partum-hemorrhage/)
+	- [Recurrent pregnancy loss](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/recurrent-pregnancy-loss/)
+	- [Vaginal discharge](https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/vaginal-discharge/)
+
+??? note "Pediatric (79)"
+	- [Abdominal mass](https://blackbook.ucalgary.ca/schemes/pediatric/abdominal-mass-2/)
+	- [Acute abdominal pain](https://blackbook.ucalgary.ca/schemes/pediatric/acute-abdominal-pain/)
+	- [Acute renal failure](https://blackbook.ucalgary.ca/schemes/pediatric/acute-renal-failure/) · NPPR: [Acute Kidney Injury (AKI)](../3%20Conditions/Renal%20and%20Genitourinary/Acute%20Kidney%20Injury%20%28AKI%29.md)
+	- [Altered level of consciousness](https://blackbook.ucalgary.ca/schemes/pediatric/altered-level-of-consciousness/)
+	- [Anemia by MCV](https://blackbook.ucalgary.ca/schemes/pediatric/anemia-by-mcv/)
+	- [Anemia by mechanism](https://blackbook.ucalgary.ca/schemes/pediatric/anemia-by-mechanism/)
+	- [Bleeding/bruising](https://blackbook.ucalgary.ca/schemes/pediatric/bleeding-bruising/)
+	- [Chronic abdominal pain](https://blackbook.ucalgary.ca/schemes/pediatric/chronic-abdominal-pain/)
+	- [Chronic kidney disease](https://blackbook.ucalgary.ca/schemes/pediatric/chronic-kidney-disease-2/) · NPPR: [Chronic Kidney Disease (CKD)](../3%20Conditions/Renal%20and%20Genitourinary/Chronic%20Kidney%20Disease%20%28CKD%29.md)
+	- [Congenital anomalies](https://blackbook.ucalgary.ca/schemes/pediatric/congenital-anomalies/)
+	- [Constipation: (pediatric)](https://blackbook.ucalgary.ca/schemes/pediatric/constipation-pediatric/)
+	- [Cyanosis in the newborn](https://blackbook.ucalgary.ca/schemes/pediatric/cyanosis-in-the-newborn/)
+	- [Dehydration](https://blackbook.ucalgary.ca/schemes/pediatric/dehydration/)
+	- [Depressed/lethargic newborn](https://blackbook.ucalgary.ca/schemes/pediatric/depressed-lethargic-newborn/)
+	- [Developmental delay](https://blackbook.ucalgary.ca/schemes/pediatric/developmental-delay/)
+	- [Dysuria](https://blackbook.ucalgary.ca/schemes/pediatric/dysuria-2/)
+	- [Edema](https://blackbook.ucalgary.ca/schemes/pediatric/edema/)
+	- [Enuresis](https://blackbook.ucalgary.ca/schemes/pediatric/enuresis/)
+	- [Failure to thrive: inadequate calorie consumption](https://blackbook.ucalgary.ca/schemes/pediatric/failure-to-thrive-inadequate-calorie-consumption/)
+	- [Febrile seizures](https://blackbook.ucalgary.ca/schemes/pediatric/febrile-seizures/)
+	- [Fever](https://blackbook.ucalgary.ca/schemes/pediatric/fever/)
+	- [Global developmental delay/intellectual disability](https://blackbook.ucalgary.ca/schemes/pediatric/global-developmental-delay-intellectual-disability/)
+	- [Headache](https://blackbook.ucalgary.ca/schemes/pediatric/headache/)
+	- [Hematuria](https://blackbook.ucalgary.ca/schemes/pediatric/hematuria-2/)
+	- [Hypernatremia](https://blackbook.ucalgary.ca/schemes/pediatric/hypernatremia-2/) · NPPR: [Sodium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Sodium%20Disorders.md)
+	- [Hypoglycemia](https://blackbook.ucalgary.ca/schemes/pediatric/hypoglycemia-2/)
+	- [Hyponatremia](https://blackbook.ucalgary.ca/schemes/pediatric/hyponatremia-2/) · NPPR: [Sodium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Sodium%20Disorders.md)
+	- [Hyptonic infant (floppy newborn)](https://blackbook.ucalgary.ca/schemes/pediatric/hypotonic-infant-floppy-newborn/)
+	- [Increased urinary frequency](https://blackbook.ucalgary.ca/schemes/pediatric/increased-urinary-frequency-2/)
+	- [Large for gestational age](https://blackbook.ucalgary.ca/schemes/pediatric/large-for-gestational-age/)
+	- [Limp](https://blackbook.ucalgary.ca/schemes/pediatric/limp/)
+	- [Long PT (INR), long PTT](https://blackbook.ucalgary.ca/schemes/pediatric/long-pt-inr-long-ptt/)
+	- [Long PT (INR), normal PTT](https://blackbook.ucalgary.ca/schemes/pediatric/long-pt-inr-normal-ptt/)
+	- [Lymphadenopathy](https://blackbook.ucalgary.ca/schemes/pediatric/lymphadenopathy/)
+	- [Malnutrition](https://blackbook.ucalgary.ca/schemes/pediatric/malnutrition/)
+	- [Microcytic anemia](https://blackbook.ucalgary.ca/schemes/pediatric/microcytic-anemia/)
+	- [Mouth disorders: pediatric](https://blackbook.ucalgary.ca/schemes/pediatric/mouth-disorders-pediatric/)
+	- [Murmur in the newborn (<48 hours)](https://blackbook.ucalgary.ca/schemes/pediatric/murmur-in-the-newborn/)
+	- [Murmur in the newborn beyond neonatal period](https://blackbook.ucalgary.ca/schemes/pediatric/murmur-in-the-newborn-beyond-neonatal-period/)
+	- [Neonatal jaundice: approach to direct hyperbilirubinemia](https://blackbook.ucalgary.ca/schemes/pediatric/neonatal-jaundice-approach-to-direct-hyperbilirubinemia/)
+	- [Neonatal jaundice: approach to indirect hyperbilirubinemia](https://blackbook.ucalgary.ca/schemes/pediatric/neonatal-jaundice-approach-to-indirect-hyperbilirubinemia/)
+	- [Noisy breathing: pediatric stridor](https://blackbook.ucalgary.ca/schemes/pediatric/noisy-breathing-pediatric-stridor/)
+	- [Noisy breathing: pediatric wheezing](https://blackbook.ucalgary.ca/schemes/pediatric/noisy-breathing-pediatric-wheezing/) · NPPR: [Asthma](../3%20Conditions/Respiratory/Asthma.md)
+	- [Non-epileptic paroxysmal event](https://blackbook.ucalgary.ca/schemes/pediatric/non-epileptic-paroxysmal-event/)
+	- [Normal PT (INR), long PTT](https://blackbook.ucalgary.ca/schemes/pediatric/normal-pt-inr-long-ptt/)
+	- [Otalgia (earache)](https://blackbook.ucalgary.ca/schemes/pediatric/otalgia-earache/)
+	- [Pediatric cough: acute](https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-cough-acute/)
+	- [Pediatric cough: chronic](https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-cough-chronic/)
+	- [Pediatric diarrhea](https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-diarrhea/)
+	- [Pediatric dyspnea](https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-dyspnea/)
+	- [Pediatric epilepsies](https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-epilepsies/)
+	- [Pediatric fractures](https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-fractures/)
+	- [Pediatric infectious skin rash](https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-infectious-skin-rash/)
+	- [Pediatric mood and anxiety disorders](https://blackbook.ucalgary.ca/schemes/pediatric/mood-or-anxiety-disorder/)
+	- [Pediatric seizures](https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-seizure-provoked/)
+	- [Pediatric vomiting](https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-vomiting/)
+	- [Pediatric vomiting: systemic causes](https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-vomiting-systemic-causes/)
+	- [Preterm infant complications (34-36 weeks)](https://blackbook.ucalgary.ca/schemes/pediatric/preterm-infant-complications-34-36-weeks/)
+	- [Preterm infant complications (<34 weeks)](https://blackbook.ucalgary.ca/schemes/pediatric/preterm-infant-complications/)
+	- [Proteinuria](https://blackbook.ucalgary.ca/schemes/pediatric/proteinuria-2/)
+	- [Rash (eczematous)](https://blackbook.ucalgary.ca/schemes/pediatric/rash-eczematous/)
+	- [Rash (papulosquamous)](https://blackbook.ucalgary.ca/schemes/pediatric/rash-papulosquamous/)
+	- [Rash (pustular)](https://blackbook.ucalgary.ca/schemes/pediatric/rash-pustular/)
+	- [Rash (reactive)](https://blackbook.ucalgary.ca/schemes/pediatric/rash-reactive/)
+	- [Rash (vesiculobullous)](https://blackbook.ucalgary.ca/schemes/pediatric/rash-vesiculobullous/)
+	- [Respiratory distress in the newborn](https://blackbook.ucalgary.ca/schemes/pediatric/respiratory-distress-in-the-newborn/)
+	- [Respiratory distress in the newborn: tachypnea](https://blackbook.ucalgary.ca/schemes/pediatric/respiratory-distress-in-the-newborn-tachypnea/)
+	- [Salter Harris physeal injury classification system](https://blackbook.ucalgary.ca/schemes/pediatric/salter-harris-physeal-injury-classification-system/)
+	- [School difficulties](https://blackbook.ucalgary.ca/schemes/pediatric/school-difficulties/)
+	- [Scrotal mass](https://blackbook.ucalgary.ca/schemes/pediatric/scrotal-mass-2/)
+	- [Shock](https://blackbook.ucalgary.ca/schemes/pediatric/shock-2/)
+	- [Short stature](https://blackbook.ucalgary.ca/schemes/pediatric/short-stature-2/)
+	- [Skin lesion (primary skin)](https://blackbook.ucalgary.ca/schemes/pediatric/skin-lesion-primary-skin/)
+	- [Skin lesion (secondary skin)](https://blackbook.ucalgary.ca/schemes/pediatric/skin-lesion-secondary-skin/)
+	- [Small for gestational age](https://blackbook.ucalgary.ca/schemes/pediatric/small-for-gestational-age/)
+	- [Sore throat/sore mouth](https://blackbook.ucalgary.ca/schemes/pediatric/sore-throat-sore-mouth/)
+	- [Sudden paroxysmal event](https://blackbook.ucalgary.ca/schemes/pediatric/sudden-paroxysmal-event/)
+	- [Sudden unexpected death in infancy (SUDI)](https://blackbook.ucalgary.ca/schemes/pediatric/sudden-unexpected-death-in-infancy-sudi/)
+	- [Thrombocytopenia](https://blackbook.ucalgary.ca/schemes/pediatric/thrombocytopenia-2/)
+
+??? note "General (5)"
+	- [Acute fever](https://blackbook.ucalgary.ca/schemes/general/acute-fever/)
+	- [Fatigue](https://blackbook.ucalgary.ca/schemes/general/fatigue/)
+	- [Fever of unknown origin / chronic fever](https://blackbook.ucalgary.ca/schemes/general/fever-of-unknown-origin-chronic-fever/)
+	- [Hypothermia](https://blackbook.ucalgary.ca/schemes/general/hypothermia/)
+	- [Sore throat / rhinorrhea](https://blackbook.ucalgary.ca/schemes/general/sore-throat-rhinorrhea/)
+
+## More Approaches
+
+- [McGill Journal of Medicine: Approach To](McGill%20Approach%20To%20Articles.md) — *peer-reviewed "Approach to" articles by body system*
+- [Calgary Guide](https://calgaryguide.ucalgary.ca/) — *the University of Calgary's pathophysiology flowcharts*
