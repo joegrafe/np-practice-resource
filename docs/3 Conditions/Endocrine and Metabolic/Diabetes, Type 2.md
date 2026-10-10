@@ -234,6 +234,22 @@ sources:
     version:
     url: "https://www.healthlinkbc.ca/living-well/food-and-nutrition/conditions/diabetes-and-hypoglycemia"
     checked: 2026-10-10
+  - id: selfmanagementbc-diabetes
+    title: Diabetes Self-Management Program
+    publisher: Self-Management BC (University of Victoria)
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.selfmanagementbc.ca/diabetesselfmanagement"
+    checked: 2026-10-10
+  - id: icon-diabetes
+    title: Diabetes
+    publisher: iCON
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://iconproject.org/healthinformation/diabetes/"
+    checked: 2026-10-10
   - id: diabetes-canada-cpg
     title: Diabetes Canada Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada
     publisher: Diabetes Canada
@@ -872,17 +888,19 @@ sources:
 - [PharmaCare: Diabetes Management (last updated August 5, 2026)](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/what-we-cover/diabetes-supplies) — *medications, devices and supplies*
 - [BC Guidelines: Appendix C - PharmaCare Quantity Limits for Blood Glucose Test Strips (BC GPAC, 2021)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/diabetescare_appendixc_2021.pdf)
 - [PharmaCare: Blood Glucose Test Strips (last updated May 8, 2026)](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/what-we-cover/diabetes-supplies/blood-glucose-test-strips)
-- [PharmaCare Special Authority Drug List (last updated September 24, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/special-authority/sa-drug-list)
-- PharmaCare Special Authority criteria for diabetes drugs and glucose monitors:
-    - [Linagliptin and linagliptin-metformin (last updated March 2, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drug-linagliptin-and-linagliptin-metformin)
-    - [Saxagliptin and saxagliptin-metformin (last updated March 2, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-saxagliptin-and-saxagliptin-metformin)
-    - [Pioglitazone (last updated March 2, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/special-authority-criteria-pioglitazone)
-    - [Semaglutide (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-semaglutide)
-    - [Dexcom continuous glucose monitors (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/dexcom-g6-continuous-glucose-monitor)
-    - [FreeStyle Libre flash glucose monitors (last updated April 1, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-freestyle-libre-2-flash-glucose-monitor-fgm)
-- [PharmaCare Special Authority Request: Third-Line Anti-Diabetic Medications (HLTH 5481, rev. 2026/02/13)](https://www2.gov.bc.ca/assets/gov/health/forms/5481fil.pdf)
-- [PharmaCare Special Authority Request: Semaglutide for Diabetes (HLTH 5826, rev. 2026/02/13)](https://www2.gov.bc.ca/assets/gov/health/forms/5826fil.pdf)
-- [PharmaCare Special Authority Request: Glucose Monitoring Systems (HLTH 5817, 2026/09/09)](https://www2.gov.bc.ca/assets/gov/health/forms/5817fil.pdf)
+
+??? info "PharmaCare Special Authority: criteria and request forms"
+	- [PharmaCare Special Authority Drug List (last updated September 24, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/special-authority/sa-drug-list)
+	- Criteria for diabetes drugs and glucose monitors:
+	    - [Linagliptin and linagliptin-metformin (last updated March 2, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drug-linagliptin-and-linagliptin-metformin)
+	    - [Saxagliptin and saxagliptin-metformin (last updated March 2, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-saxagliptin-and-saxagliptin-metformin)
+	    - [Pioglitazone (last updated March 2, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/special-authority-criteria-pioglitazone)
+	    - [Semaglutide (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-semaglutide)
+	    - [Dexcom continuous glucose monitors (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/dexcom-g6-continuous-glucose-monitor)
+	    - [FreeStyle Libre flash glucose monitors (last updated April 1, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-freestyle-libre-2-flash-glucose-monitor-fgm)
+	- [PharmaCare Special Authority Request: Third-Line Anti-Diabetic Medications (HLTH 5481, rev. 2026/02/13)](https://www2.gov.bc.ca/assets/gov/health/forms/5481fil.pdf)
+	- [PharmaCare Special Authority Request: Semaglutide for Diabetes (HLTH 5826, rev. 2026/02/13)](https://www2.gov.bc.ca/assets/gov/health/forms/5826fil.pdf)
+	- [PharmaCare Special Authority Request: Glucose Monitoring Systems (HLTH 5817, 2026/09/09)](https://www2.gov.bc.ca/assets/gov/health/forms/5817fil.pdf)
 
 ## Advice and Referral
 
@@ -897,6 +915,8 @@ sources:
 - [HealthLink BC - Noninsulin Medicines for Type 2 Diabetes](https://www.healthlinkbc.ca/healthwise/noninsulin-medicines-type-2-diabetes)
 - [HealthLink BC - Diabetes, Type 2: Should I Take Insulin?](https://www.healthlinkbc.ca/healthwise/diabetes-type-2-should-i-take-insulin)
 - [HealthLink BC - Diabetes and Hypoglycemia](https://www.healthlinkbc.ca/living-well/food-and-nutrition/conditions/diabetes-and-hypoglycemia)
+- [Self-Management BC - Diabetes Self-Management Program](https://www.selfmanagementbc.ca/diabetesselfmanagement) — *lay-led group program for people living with type 2 diabetes*
+- [iCON - Diabetes](https://iconproject.org/healthinformation/diabetes/) — *also available in Chinese and Punjabi*
 - [Diabetes Canada - Type 2 Adult Toolkit](https://www.diabetes.ca/living-with-diabetes/newly-diagnosed/type-2-adult-toolkit)
 - [Diabetes Canada - Beyond the Basics: Meal Planning Resource (PDF)](https://www.diabetes.ca/getContentAsset/4b43df0b-e999-44f9-8638-5566a345a569/0f6cf596-933c-4f74-b36a-77091c512445/Beyond-the-Basics.pdf?language=en)
 - [Diabetes Canada - Foot Care: A Step Toward Good Health (PDF)](https://www.diabetes.ca/getContentAsset/33d37ad7-82dd-4c56-a8ee-48cd7051589a/0f6cf596-933c-4f74-b36a-77091c512445/foot-care.pdf?language=en)

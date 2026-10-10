@@ -51,9 +51,14 @@ sources:
 ## Prescribing
 
 - [Drug reference, RxFiles or medication chart](URL)
-- [PharmaCare Special Authority criteria or form](URL)
 
-<!-- Special Authority links always go at the bottom of the Prescribing section. -->
+??? info "PharmaCare Special Authority: criteria and request forms"
+	- Criteria for [drug class]:
+	    - [Drug name (last updated Month D, YYYY)](URL)
+	- [PharmaCare Special Authority Request: Name (HLTH ####, rev. YYYY/MM/DD)](URL)
+
+<!-- Special Authority links always go at the bottom of the Prescribing section.
+     Put lists of Special Authority criteria and forms in the collapsible box above; a single form link can stay a plain bullet. -->
 
 ## Advice and Referral
 

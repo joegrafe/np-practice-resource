@@ -440,12 +440,14 @@ sources:
 - [CADDRA Guide to ADHD Pharmacological Treatments in Canada (May 2026, PDF)](https://www.caddra.ca/wp-content/uploads/CADDRA_ADHD-Medication-Chart_EN_FINAL.pdf)
 - [CADDRA Patient ADHD Medication Form (PDF)](https://www.caddra.ca/wp-content/uploads/CADDRA-Patient-ADHD-Medication-Form.pdf) — *for tracking medication response and side effects*
 - [RxFiles: ADHD](https://www.rxfiles.ca/rxfiles/uploads/documents/books/adhd.html) — *drug comparison chart and newsletter for children, adolescents and adults; some documents need an RxFiles subscription*
-- PharmaCare Special Authority criteria for long-acting ADHD medications:
-    - [Methylphenidate (last updated July 23, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-methylphenidate)
-    - [Lisdexamfetamine (last updated July 23, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-lisdexamfetamine)
-    - [Dextroamphetamine-amphetamine, mixed amphetamine salts (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-dextroamphetamine-amphetamine)
-    - [Atomoxetine (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-atomoxetine)
-- [PharmaCare Special Authority Request: ADHD Medication Coverage (HLTH 5472, rev. 2025/07/23)](https://www2.gov.bc.ca/assets/gov/health/forms/5472fil.pdf)
+
+??? info "PharmaCare Special Authority: criteria and request forms"
+	- Criteria for long-acting ADHD medications:
+	    - [Methylphenidate (last updated July 23, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-methylphenidate)
+	    - [Lisdexamfetamine (last updated July 23, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-lisdexamfetamine)
+	    - [Dextroamphetamine-amphetamine, mixed amphetamine salts (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-dextroamphetamine-amphetamine)
+	    - [Atomoxetine (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-atomoxetine)
+	- [PharmaCare Special Authority Request: ADHD Medication Coverage (HLTH 5472, rev. 2025/07/23)](https://www2.gov.bc.ca/assets/gov/health/forms/5472fil.pdf)
 
 ## Advice and Referral
 
