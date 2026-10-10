@@ -3,7 +3,7 @@ title: Pediatrics
 type: population
 tags: [population, pediatrics]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
 reviewers: [joegrafe]
@@ -114,8 +114,7 @@ sources:
     url: "https://www.mdcalc.com/calc/4052/aap-pediatric-hypertension-guidelines"
     checked: 2026-10-09
 ---
-<!-- status: review. Set status to published after opening every link.
-     This page so far holds the hypertension and diabetes notes moved from those condition pages; the rest of the Population template is filled in step 2.2.
+<!-- This page so far holds the hypertension and diabetes notes moved from those condition pages; the rest of the Population template is filled in step 2.2.
      Link to the source guidance; don't restate its recommendations. -->
 *Sources and services for infants, children and youth.*
 
