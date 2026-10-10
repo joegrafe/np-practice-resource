@@ -3,10 +3,10 @@ title: Alberta Primary Care Pathways
 type: approach
 tags: [approach]
 jurisdiction: [CA]
-status: draft
+status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
-reviewers: []
+reviewers: [joegrafe]
 description: "Alberta's Pathway Hub clinical pathways for primary care: all 82, listed by body system with their year and linked to NPPR condition pages, with the Hub embedded."
 sources:
   - id: pca-pathway-hub
