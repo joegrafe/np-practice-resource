@@ -10,35 +10,35 @@ section_nav: false
 
 <div class="grid cards nppr-cards" markdown>
 
--   [**Approaches**](1%20Approaches/index.md)
+-   :material-head-lightbulb-outline:{ .nppr-icon } [**Approaches**](1%20Approaches/index.md)
 
     Clinical reasoning frameworks and documentation.
 
--   [**Assessments**](2%20Assessments/index.md)
+-   :material-stethoscope:{ .nppr-icon } [**Assessments**](2%20Assessments/index.md)
 
     Exams by system, decision rules, screening, and lab and imaging interpretation.
 
--   [**Conditions**](3%20Conditions/index.md)
+-   :material-clipboard-pulse-outline:{ .nppr-icon } [**Conditions**](3%20Conditions/index.md)
 
     One page per condition, grouped by body system.
 
--   [**Populations**](4%20Populations/index.md)
+-   :material-account-group-outline:{ .nppr-icon } [**Populations**](4%20Populations/index.md)
 
     Pediatrics, women's health, trans and gender-affirming care, and rural and remote practice.
 
--   [**Prescribing**](5%20Prescribing/index.md)
+-   :material-pill:{ .nppr-icon } [**Prescribing**](5%20Prescribing/index.md)
 
     Drug references, antimicrobial guidance and immunization.
 
--   [**Practice**](6%20Practice/index.md)
+-   :material-briefcase-outline:{ .nppr-icon } [**Practice**](6%20Practice/index.md)
 
     NP scope and standards, advice and referral, forms and associations.
 
--   [**Evidence Packs**](7%20Evidence%20Packs/index.md)
+-   :material-file-document-multiple-outline:{ .nppr-icon } [**Evidence Packs**](7%20Evidence%20Packs/index.md)
 
     Current guideline PDFs for each condition, ready to load into an AI tool.
 
--   [**Resources**](8%20Resources/index.md)
+-   :material-bookshelf:{ .nppr-icon } [**Resources**](8%20Resources/index.md)
 
     Guideline directories, library guides, evidence summaries and clinical tools.
 
