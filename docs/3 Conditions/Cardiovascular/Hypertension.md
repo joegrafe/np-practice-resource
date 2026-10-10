@@ -626,23 +626,25 @@ sources:
 - [RxFiles Drug Comparison Charts](https://www.rxfiles.ca/rxfiles/uploads/documents/books/charts.html) — *hypertension charts (overview, ACE inhibitors and ARBs, beta-blockers, CCBs, diuretics) need an RxFiles subscription*
 - [Choosing Wisely Canada - Nephrology Recommendations (last updated November 2025)](https://choosingwiselycanada.org/recommendation/nephrology/) — *includes NSAIDs in hypertension and ACE inhibitor plus ARB combinations*
 - [PharmaCare Reference Drug Program (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/reference-drug-program) — *ACE inhibitors, ARBs and dihydropyridine CCBs*
-- PharmaCare Special Authority criteria, ACE inhibitors:
-    - [Benazepril (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-converting-enzyme-inhibitors-benazepril)
-    - [Enalapril (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-converting-enzyme-inhibitors-enalapril)
-    - [Fosinopril (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-converting-enzyme-inhibitors-fosinopril)
-    - [Lisinopril (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-converting-enzyme-inhibitors-lisinopril)
-    - [Perindopril (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-converting-enzyme-inhibitors-perindopril)
-- PharmaCare Special Authority criteria, ARBs:
-    - [Candesartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-candesartan)
-    - [Irbesartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-irbesartan)
-    - [Losartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-losartan)
-    - [Olmesartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-olmesartan)
-    - [Telmisartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-telmisartan)
-    - [Valsartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-valsartan)
-- PharmaCare Special Authority criteria, dihydropyridine CCBs:
-    - [Nifedipine (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/dihydropyridine-calcium-channel-blocker-drugs-nifedipine)
-- [PharmaCare Special Authority Request: ARBs - RDP Program (HLTH 5492, rev. 2025/07/03)](https://www2.gov.bc.ca/assets/gov/health/forms/5492fil.pdf)
-- [PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)](https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf) — *the form the ACE inhibitor and nifedipine criteria pages link to*
+
+??? info "PharmaCare Special Authority: criteria and request forms"
+	- Criteria, ACE inhibitors:
+	    - [Benazepril (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-converting-enzyme-inhibitors-benazepril)
+	    - [Enalapril (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-converting-enzyme-inhibitors-enalapril)
+	    - [Fosinopril (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-converting-enzyme-inhibitors-fosinopril)
+	    - [Lisinopril (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-converting-enzyme-inhibitors-lisinopril)
+	    - [Perindopril (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-converting-enzyme-inhibitors-perindopril)
+	- Criteria, ARBs:
+	    - [Candesartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-candesartan)
+	    - [Irbesartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-irbesartan)
+	    - [Losartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-losartan)
+	    - [Olmesartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-olmesartan)
+	    - [Telmisartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-telmisartan)
+	    - [Valsartan (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/angiotensin-receptor-blockers-valsartan)
+	- Criteria, dihydropyridine CCBs:
+	    - [Nifedipine (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/dihydropyridine-calcium-channel-blocker-drugs-nifedipine)
+	- [PharmaCare Special Authority Request: ARBs - RDP Program (HLTH 5492, rev. 2025/07/03)](https://www2.gov.bc.ca/assets/gov/health/forms/5492fil.pdf)
+	- [PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)](https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf) — *the form the ACE inhibitor and nifedipine criteria pages link to*
 
 ## Advice and Referral
 

@@ -379,19 +379,21 @@ sources:
 - [BC Guidelines: COPD Appendix B - COPD Medication Table (BC GPAC, 2024)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_b.pdf)
 - [PharmaCare Smoking Cessation Program: Information for Health Professionals (last updated September 9, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/pharmacies/smoking-cessation-program-for-health-professionals)
 - [RxFiles: COPD](https://www.rxfiles.ca/rxfiles/uploads/documents/books/copd.html) — *drug comparison chart, newsletter and inhaler technique tools; some documents need an RxFiles subscription*
-- PharmaCare Special Authority criteria for COPD inhalers:
-    - [Aclidinium (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-aclidinium)
-    - [Glycopyrronium (last updated March 18, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-glycopyrronium)
-    - [Aclidinium-formoterol (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-aclidinium-formoterol)
-    - [Glycopyrronium-indacaterol (last updated March 18, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/glycopyrronium-indacaterol)
-    - [Tiotropium-olodaterol (last updated March 24, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-tiotropium-olodaterol)
-    - [Umeclidinium-vilanterol (last updated March 24, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-umeclidinium-vilanterol)
-    - [Budesonide-glycopyrronium-formoterol (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-budesonide-glycopyrronium-formoterol)
-    - [Fluticasone furoate-umeclidinium-vilanterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-furoate-umeclidinium-vilanterol)
-    - [Fluticasone propionate-salmeterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-propionate-salmeterol)
-    - [Fluticasone furoate-vilanterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-furoate-vilanterol)
-    - [Salmeterol (last updated March 21, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-salmeterol)
-- [PharmaCare Special Authority Request: Inhalers for COPD (HLTH 5362, rev. 2025/05/05)](https://www2.gov.bc.ca/assets/gov/health/forms/5362fil.pdf)
+
+??? info "PharmaCare Special Authority: criteria and request forms"
+	- Criteria for COPD inhalers:
+	    - [Aclidinium (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-aclidinium)
+	    - [Glycopyrronium (last updated March 18, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-glycopyrronium)
+	    - [Aclidinium-formoterol (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-aclidinium-formoterol)
+	    - [Glycopyrronium-indacaterol (last updated March 18, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/glycopyrronium-indacaterol)
+	    - [Tiotropium-olodaterol (last updated March 24, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-tiotropium-olodaterol)
+	    - [Umeclidinium-vilanterol (last updated March 24, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-umeclidinium-vilanterol)
+	    - [Budesonide-glycopyrronium-formoterol (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-budesonide-glycopyrronium-formoterol)
+	    - [Fluticasone furoate-umeclidinium-vilanterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-furoate-umeclidinium-vilanterol)
+	    - [Fluticasone propionate-salmeterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-propionate-salmeterol)
+	    - [Fluticasone furoate-vilanterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-furoate-vilanterol)
+	    - [Salmeterol (last updated March 21, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-salmeterol)
+	- [PharmaCare Special Authority Request: Inhalers for COPD (HLTH 5362, rev. 2025/05/05)](https://www2.gov.bc.ca/assets/gov/health/forms/5362fil.pdf)
 
 ## Advice and Referral
 

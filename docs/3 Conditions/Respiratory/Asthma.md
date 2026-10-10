@@ -549,13 +549,15 @@ sources:
 - [BC Guidelines: Asthma Appendix B - Supporting Patients with Poor Medication Adherence (BC GPAC, 2023)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_b.pdf)
 - [Child Health BC: Initial Management of Pediatric Asthma Exacerbations Medication References (effective October 18, 2024, PDF)](https://childhealthbc.ca/asthma/initial_and_ongoing_med_table)
 - [RxFiles: Asthma](https://www.rxfiles.ca/rxfiles/uploads/documents/books/asthma.html) — *drug comparison chart, mild asthma comparison, devices and inhaler-specific action plans; some documents need an RxFiles subscription*
-- PharmaCare Special Authority criteria for ICS-LABA inhalers:
-    - [Budesonide-formoterol (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-budesonide-formoterol)
-    - [Fluticasone propionate-salmeterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-propionate-salmeterol)
-    - [Fluticasone furoate-vilanterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-furoate-vilanterol)
-    - [Mometasone-formoterol (last updated March 19, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-mometasone-furoate-formoterol)
-- [PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)](https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf)
-- [PharmaCare Special Authority Drug List, Criteria and Forms (last updated September 24, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/special-authority/sa-drug-list) — *includes the asthma biologics, which are requested by specialists*
+
+??? info "PharmaCare Special Authority: criteria and request forms"
+	- Criteria for ICS-LABA inhalers:
+	    - [Budesonide-formoterol (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-budesonide-formoterol)
+	    - [Fluticasone propionate-salmeterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-propionate-salmeterol)
+	    - [Fluticasone furoate-vilanterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-furoate-vilanterol)
+	    - [Mometasone-formoterol (last updated March 19, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-mometasone-furoate-formoterol)
+	- [PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)](https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf)
+	- [PharmaCare Special Authority Drug List, Criteria and Forms (last updated September 24, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/special-authority/sa-drug-list) — *includes the asthma biologics, which are requested by specialists*
 
 ## Advice and Referral
 
