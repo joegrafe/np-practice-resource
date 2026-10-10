@@ -45,7 +45,7 @@ sources:
 	- [Thyroid Nodules](https://www.primarycarealberta.ca/pathways/379/clinical) (2026) · *Calgary Zone*
 
 ??? note "Renal and Genitourinary (10)"
-	- [Chronic Kidney Disease (CKD)](https://www.primarycarealberta.ca/pathways/427/clinical) (year not stated) · [Interactive pathway](https://ckdpathway.ca/) · NPPR: [CKD](../3%20Conditions/Renal%20and%20Genitourinary/Chronic%20Kidney%20Disease%20%28CKD%29.md)
+	- [Chronic Kidney Disease (CKD)](https://www.primarycarealberta.ca/pathways/427/clinical) (2026) · [Interactive pathway](https://ckdpathway.ca/) · NPPR: [CKD](../3%20Conditions/Renal%20and%20Genitourinary/Chronic%20Kidney%20Disease%20%28CKD%29.md)
 	- [Chronic Kidney Disease in Type 2 Diabetes](https://www.primarycarealberta.ca/pathways/86/clinical) (2024) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-chronic-kidney-disease-diabetes-mellitus-2.pdf) · NPPR: [CKD](../3%20Conditions/Renal%20and%20Genitourinary/Chronic%20Kidney%20Disease%20%28CKD%29.md), [Diabetes, Type 2](../3%20Conditions/Endocrine%20and%20Metabolic/Diabetes%2C%20Type%202.md)
 	- [Female Lower Urinary Tract Symptoms (FLUTS)](https://www.primarycarealberta.ca/pathways/173/clinical) (2026) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-female-luts.pdf)
 	- [Female Urinary Incontinence](https://www.primarycarealberta.ca/pathways/391/clinical) (2026) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-female-urinary-incontinence.pdf)
@@ -61,7 +61,7 @@ sources:
 	- [Chronic Abdominal Pain](https://www.primarycarealberta.ca/pathways/79/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-chronic-abdominal-pain.pdf)
 	- [Chronic Constipation](https://www.primarycarealberta.ca/pathways/82/clinical) (2026) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-chronic-constipation.pdf)
 	- [Chronic Diarrhea](https://www.primarycarealberta.ca/pathways/84/clinical) (2023) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-chronic-diarrhea.pdf)
-	- [Cirrhosis Care (interactive)](https://www.primarycarealberta.ca/pathways/428/clinical) (year not stated) · [Interactive pathway](https://cirrhosiscare.ca/practitioner-pathway/)
+	- [Cirrhosis Care (interactive)](https://www.primarycarealberta.ca/pathways/428/clinical) (2021) · [Interactive pathway](https://cirrhosiscare.ca/practitioner-pathway/)
 	- [Clostridioides difficile Infection (recurrent)](https://www.primarycarealberta.ca/pathways/331/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-clostridiodes-difficile.pdf)
 	- [Dyspepsia](https://www.primarycarealberta.ca/pathways/142/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-dyspepsia.pdf)
 	- [Esophageal Cancer Prevention, Screening and Diagnosis](https://www.primarycarealberta.ca/pathways/162/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-esophageal-cancer-prevention-screening-diagnosis.pdf)
