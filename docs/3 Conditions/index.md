@@ -26,7 +26,7 @@ hide:
 
 -   :material-water-outline:{ .nppr-icon } [**Renal and Genitourinary**](Renal%20and%20Genitourinary/index.md)
 
-    Acute kidney injury and chronic kidney disease.
+    Acute kidney injury, chronic kidney disease and urinary tract infection.
 
 -   :material-bone:{ .nppr-icon } [**Musculoskeletal**](Musculoskeletal/index.md)
 
