@@ -384,30 +384,6 @@ sources:
     version: "2026"
     url: "https://cfpclearn.ca/tfp411/"
     checked: 2026-10-09
-  - id: tfp-162-dexamethasone-prednisone
-    title: "Tools for Practice #162: Dexamethasone Versus Prednisone for Pediatric Asthma: Will the results take your breath away?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2016"
-    url: "https://cfpclearn.ca/tfp162/"
-    checked: 2026-10-09
-  - id: tfp-154-ltra-childhood-asthma
-    title: "Tools for Practice #154: Pills vs. Puffers: Leukotriene receptor antagonists for childhood asthma"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2016"
-    url: "https://cfpclearn.ca/tfp154/"
-    checked: 2026-10-09
-  - id: tfp-152-tiotropium-asthma
-    title: "Tools for Practice #152: Tempered Enthusiasm for Tiotropium in Asthma"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2015"
-    url: "https://cfpclearn.ca/tfp152/"
-    checked: 2026-10-09
   - id: rxfiles-asthma
     title: "RxFiles: Asthma"
     publisher: RxFiles
@@ -500,10 +476,9 @@ sources:
 ??? info "[Child Health BC - Provincial Pediatric Asthma Management Guideline (effective 2025)](https://childhealthbc.ca/clinician-resources/asthma)"
 	*For children 1 to 17 years presenting to an emergency department or urgent care centre with wheezing or respiratory distress (scope as described by BC Children's Hospital).*  
 	- [Full Guideline (PDF)](https://shop.healthcarebc.ca/phsa/BCWH_2/CW%20Campus%20Wide/C-0506-07-63037.pdf)  
-	- [Algorithm: Initial Management of Pediatric Asthma Exacerbations (PDF)](https://childhealthbc.ca/asthma/guideline/initial_mgmt_ped_asthma_exacerbation_algo)  
-	- [Algorithm: Ongoing Management of Pediatric Asthma Exacerbations (PDF)](https://childhealthbc.ca/asthma/ongoing_algorithm)  
-	- [PRAM Scoring Table (PDF)](https://childhealthbc.ca/asthma/guideline/pram_scoring_table)  
-	- [All Child Health BC asthma resources](https://childhealthbc.ca/clinician-resources/asthma)  
+	- [Algorithm: Initial Management of Pediatric Asthma Exacerbations (effective October 14, 2025, revised November 14, 2025, PDF)](https://childhealthbc.ca/asthma/guideline/initial_mgmt_ped_asthma_exacerbation_algo)  
+	- [Algorithm: Ongoing Management of Pediatric Asthma Exacerbations (effective October 14, 2025, revised November 14, 2025, PDF)](https://childhealthbc.ca/asthma/ongoing_algorithm)  
+	- [PRAM Scoring Table (effective October 14, 2024, PDF)](https://childhealthbc.ca/asthma/guideline/pram_scoring_table)  
 
 ??? info "[Canadian Thoracic Society 2021 Guideline Update: Diagnosis and Management of Asthma in Preschoolers, Children and Adults (2021)](https://doi.org/10.1080/24745332.2021.1945887)"
 	*Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Includes the 2021 focused update on very mild and mild asthma.*  
@@ -518,15 +493,9 @@ sources:
 
 ??? info "Tools for Practice (CFPCLearn) evidence summaries"
 	- [#411 Bronchodilator with Benefits? Budesonide-formoterol rescue inhaler for asthma (2026)](https://cfpclearn.ca/tfp411/)  
-	- [#162 Dexamethasone Versus Prednisone for Pediatric Asthma (2016)](https://cfpclearn.ca/tfp162/)  
-	- [#154 Pills vs. Puffers: Leukotriene receptor antagonists for childhood asthma (2016)](https://cfpclearn.ca/tfp154/)  
-	- [#152 Tempered Enthusiasm for Tiotropium in Asthma (2015)](https://cfpclearn.ca/tfp152/)  
 
 ## Algorithms and Pathways
 
-- [BC Guidelines: Asthma, Stepwise Approach (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#stepwise)
-- [Child Health BC: Initial Management of Pediatric Asthma Exacerbations Algorithm (effective October 14, 2025, revised November 14, 2025, PDF)](https://childhealthbc.ca/asthma/guideline/initial_mgmt_ped_asthma_exacerbation_algo)
-- [Child Health BC: Ongoing Management of Pediatric Asthma Exacerbations Algorithm (effective October 14, 2025, revised November 14, 2025, PDF)](https://childhealthbc.ca/asthma/ongoing_algorithm)
 - [Alberta's Pathway Hub: Lung Testing for Ages 6 and Above (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/436/clinical) — *Alberta clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024); choose "All" when the hub asks for an area*
 - [Alberta's Pathway Hub: Pediatric Lung Testing for Ages 6 and Above (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/435/clinical) — *pediatric version of the same pathway (last updated February 13, 2024)*
 
@@ -537,7 +506,6 @@ sources:
 - [MDCalc - Modified Asthma Predictive Index (mAPI)](https://www.mdcalc.com/calc/3382/modified-asthma-predictive-index-mapi) — *likelihood of later asthma in young children who wheeze*
 - [MDCalc - Asthma Impairment and Risk Questionnaire (AIRQ)](https://www.mdcalc.com/calc/10495/asthma-impairment-risk-questionnaire-airq) — *asthma control and exacerbation risk*
 - [BC Inhalers (Fraser Health)](https://www.bcinhalers.ca/) — *inhaler guide for asthma and COPD: filter by PharmaCare coverage without Special Authority, carbon footprint and age, with device instructions*
-- [Child Health BC: PRAM Scoring Table (effective October 14, 2024, PDF)](https://childhealthbc.ca/asthma/guideline/pram_scoring_table)
 - [BC Guidelines: Asthma Appendix A - Getting Ready for Spirometry (BC GPAC, 2023)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_a.pdf)
 - [Asthma Patient Care Flow Sheet: Adults 19 and Over (BC GPAC, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma-adult-care-sheet.pdf)
 - [Asthma Patient Care Flow Sheet: Ages 6 to 18 (BC GPAC, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma-children-flowsheet-6-18.pdf)

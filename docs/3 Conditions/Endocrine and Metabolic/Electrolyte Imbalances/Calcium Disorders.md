@@ -3,20 +3,21 @@ title: Calcium Disorders
 type: condition
 system: endocrine-metabolic
 tags: [condition, endocrine-metabolic, ca, calcemia]
-jurisdiction: [CA]
+jurisdiction: [CA, INTL]
 status: published
 last-reviewed: 2026-05-22
 review-due: 2027-05-22
 reviewers: []
 sources:
-  - id: phpt-consensus
-    title: "Primary hyperparathyroidism: review and recommendations on evaluation, diagnosis, and management. A Canadian and international consensus"
-    publisher: Osteoporosis International
-    jurisdiction: CA
+  - id: phpt-fifth-international-workshop
+    title: "Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop"
+    publisher: Journal of Bone and Mineral Research
+    jurisdiction: INTL
     kind: guideline
-    version:
-    url: "https://pubmed.ncbi.nlm.nih.gov/27613721/"
-    checked:
+    version: "2022 (J Bone Miner Res 2022;37(11):2293-2314)"
+    url: "https://doi.org/10.1002/jbmr.4677"
+    checked: 2026-10-12
+    supersedes: "Primary hyperparathyroidism: review and recommendations on evaluation, diagnosis, and management. A Canadian and international consensus (Osteoporos Int 2017), https://pubmed.ncbi.nlm.nih.gov/27613721/"
   - id: cfp-hypocalcemia
     title: "Hypocalcemia: Updates in diagnosis and management for primary care"
     publisher: Canadian Family Physician
@@ -28,7 +29,7 @@ sources:
 ---
 ## Canadian Guidelines
 
-[Primary hyperparathyroidism: review and recommendations on evaluation, diagnosis, and management. A Canadian and international consensus](https://pubmed.ncbi.nlm.nih.gov/27613721/)
+International: [Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop (2022)](https://doi.org/10.1002/jbmr.4677)
 
 [CFP Hypocalcemia: Updates in diagnosis and management for primary care](https://www.cfp.ca/content/58/2/158)
 ## Practice Resources
