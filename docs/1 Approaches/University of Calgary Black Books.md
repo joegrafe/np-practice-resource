@@ -8,6 +8,9 @@ last-reviewed: 2026-10-10
 review-due: 2027-10-10
 reviewers: [joegrafe]
 description: "The University of Calgary Blackbook's 353 diagnostic schemes for common presentations, listed by system and linked to NPPR condition pages."
+logo: "https://blackbook.ucalgary.ca/wp-content/uploads/2020/12/blackbook-logo.svg"
+logo-alt: "University of Calgary Blackbook"
+logo-bg: "#111"
 sources:
   - id: ucalgary-blackbook-web
     title: "Blackbook: Approaches to Medical Presentations"
