@@ -407,7 +407,6 @@ sources:
 ??? info "[CADDRA - Canadian ADHD Practice Guidelines (4.1 edition, January 2020)](https://www.caddra.ca/canadian-adhd-practice-guidelines/)"
 	*Covers screening, assessment and treatment across the lifespan. The access page links a free PDF download through CADDRA's portal store.*  
 	- [Guideline overview](https://www.caddra.ca/guideline-overview/)  
-	- [Medication chart (May 2026, PDF)](https://www.caddra.ca/wp-content/uploads/CADDRA_ADHD-Medication-Chart_EN_FINAL.pdf)  
 	- [ADHD questionnaires and forms](https://www.caddra.ca/etoolkit-forms/)  
 
 ??? info "[Canadian Paediatric Society - ADHD in Children and Youth, Parts 1 to 3 (2018, reaffirmed 2024)](https://cps.ca/en/tools-outils/adhd)"

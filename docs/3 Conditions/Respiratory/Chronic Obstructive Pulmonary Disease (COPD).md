@@ -251,38 +251,6 @@ sources:
     version: "2024-02-13"
     url: "https://www.primarycarealberta.ca/pathways/436/clinical"
     checked: 2026-10-09
-  - id: tfp-238-copd
-    title: "Tools for Practice #238: In COPD puffers, does three-of-kind beat a pair?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2019"
-    url: "https://cfpclearn.ca/tfp238/"
-    checked: 2026-10-09
-  - id: tfp-66-copd
-    title: "Tools for Practice #66: Which is the best puffer for initial therapy in COPD?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2012"
-    url: "https://cfpclearn.ca/tfp66/"
-    checked: 2026-10-09
-  - id: tfp-62-copd
-    title: "Tools for Practice #62: Daily Prophylactic Antibiotics in COPD? If so, who?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2012"
-    url: "https://cfpclearn.ca/tfp62/"
-    checked: 2026-10-09
-  - id: tfp-55-copd
-    title: "Tools for Practice #55: Roflumilast - COPD relief at last?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2011"
-    url: "https://cfpclearn.ca/tfp55/"
-    checked: 2026-10-09
   - id: rxfiles-copd
     title: "RxFiles: COPD"
     publisher: RxFiles
@@ -352,12 +320,6 @@ sources:
 
 ??? info "[CTS Guideline: Alpha-1-Antitrypsin Deficiency Targeted Testing and Augmentation Therapy (2025)](https://doi.org/10.1080/24745332.2024.2443178)"
 	*Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Listed as current in the CTS Guideline Library.*  
-
-??? info "Tools for Practice (CFPCLearn) evidence summaries"
-	- [#238 In COPD puffers, does three-of-kind beat a pair? (2019)](https://cfpclearn.ca/tfp238/)  
-	- [#66 Which is the best puffer for initial therapy in COPD? (2012)](https://cfpclearn.ca/tfp66/)  
-	- [#62 Daily Prophylactic Antibiotics in COPD? If so, who? (2012)](https://cfpclearn.ca/tfp62/)  
-	- [#55 Roflumilast - COPD relief at last? (2011)](https://cfpclearn.ca/tfp55/)  
 
 ## Algorithms and Pathways
 

@@ -474,94 +474,6 @@ sources:
     version: "2023"
     url: "https://cfpclearn.ca/tfp333/"
     checked: 2026-10-10
-  - id: tfp-319-diabetes
-    title: "Tools for Practice #319: Should a 'flozin' be chosen? Part 2: SGLT2 inhibitors in patients with chronic kidney disease"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2022"
-    url: "https://cfpclearn.ca/tfp319/"
-    checked: 2026-10-10
-  - id: tfp-311-diabetes
-    title: "Tools for Practice #311: 'Ultralong'-acting insulin for diabetes: How long is long enough?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2022"
-    url: "https://cfpclearn.ca/tfp311/"
-    checked: 2026-10-10
-  - id: tfp-250-diabetes
-    title: "Tools for Practice #250: DPP-4 inhibitor update: Thousands studied but still no evidence of clinical benefits"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2020"
-    url: "https://cfpclearn.ca/tfp250/"
-    checked: 2026-10-10
-  - id: tfp-202-diabetes
-    title: "Tools for Practice #202: Sulfonylureas in Diabetes: Sweet on the Heart or Surrogate Charlatan?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2018"
-    url: "https://cfpclearn.ca/tfp202/"
-    checked: 2026-10-10
-  - id: tfp-198-diabetes
-    title: "Tools for Practice #198: SGLT2 Inhibitors and Diabetics: Does sugar in the pee protect thee?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2017"
-    url: "https://cfpclearn.ca/tfp198/"
-    checked: 2026-10-10
-  - id: tfp-180-diabetes
-    title: "Tools for Practice #180: GLP-1 Analogues in Diabetes: As sweet as can be?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2017"
-    url: "https://cfpclearn.ca/tfp180/"
-    checked: 2026-10-10
-  - id: tfp-98-diabetes
-    title: "Tools for Practice #98: Is Diabetes a Coronary Heart Disease Equivalent?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2013"
-    url: "https://cfpclearn.ca/tfp98/"
-    checked: 2026-10-10
-  - id: tfp-81-diabetes
-    title: "Tools for Practice #81: Type 2 Diabetes and A1c targets: Pragmatic dogma"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2013"
-    url: "https://cfpclearn.ca/tfp81/"
-    checked: 2026-10-10
-  - id: tfp-68-diabetes
-    title: "Tools for Practice #68: Hemoglobin A1c for the Diagnosis of Type 2 Diabetes"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2012"
-    url: "https://cfpclearn.ca/tfp68/"
-    checked: 2026-10-10
-  - id: tfp-35-diabetes
-    title: "Tools for Practice #35: The long and short of long acting insulin analogues (versus NPH)?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2010"
-    url: "https://cfpclearn.ca/tfp35/"
-    checked: 2026-10-10
-  - id: tfp-3-diabetes
-    title: "Tools for Practice #3: Glucose Self-Monitoring in Type 2 Diabetics Not Using Insulin: Is it Bitter Sweet?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2009"
-    url: "https://cfpclearn.ca/tfp3/"
-    checked: 2026-10-10
   - id: mjm-approach-t2d-management
     title: "Approach to: Type 2 diabetes management"
     publisher: McGill Journal of Medicine
@@ -657,14 +569,6 @@ sources:
     kind: summary
     version:
     pdf: "https://www.aafp.org/assets/image/upload/v1771246432/Migrated%20-%20PDFs%20%28AEM%29/Patient%20Care/clinical_recommendations/diabetes-clinical-framework-pdf.pdf"
-    checked: 2026-10-10
-  - id: afp-glucose-lowering-cv-risk-2022
-    title: "Determining When to Recommend Glucose-Lowering Drugs That Reduce Cardiovascular Risk"
-    publisher: American Family Physician (AAFP)
-    jurisdiction: INTL
-    kind: summary
-    version: "Am Fam Physician 2022;105(1):10-12"
-    url: "https://www.aafp.org/afp/2022/0100/p10"
     checked: 2026-10-10
   - id: mdcalc-findrisc
     title: "FINDRISC: Finnish Diabetes Risk Score"
@@ -812,24 +716,12 @@ sources:
 	- [#395 Long shot: Can weekly insulin replace daily doses? (2025)](https://cfpclearn.ca/tfp395/)  
 	- [#373 Strategies for initiating insulin in type 2 diabetes (2024)](https://cfpclearn.ca/tfp373/)  
 	- [#333 Come Spy with Me: Continuous glucose monitoring in diabetes (2023)](https://cfpclearn.ca/tfp333/)  
-	- [#319 Should a 'flozin' be chosen? Part 2: SGLT2 inhibitors in patients with chronic kidney disease (2022)](https://cfpclearn.ca/tfp319/)  
-	- [#311 'Ultralong'-acting insulin for diabetes: How long is long enough? (2022)](https://cfpclearn.ca/tfp311/)  
-	- [#250 DPP-4 inhibitor update: Thousands studied but still no evidence of clinical benefits (2020)](https://cfpclearn.ca/tfp250/)  
-	- [#202 Sulfonylureas in Diabetes: Sweet on the Heart or Surrogate Charlatan? (2018)](https://cfpclearn.ca/tfp202/)  
-	- [#198 SGLT2 Inhibitors and Diabetics: Does sugar in the pee protect thee? (2017)](https://cfpclearn.ca/tfp198/)  
-	- [#180 GLP-1 Analogues in Diabetes: As sweet as can be? (2017)](https://cfpclearn.ca/tfp180/)  
-	- [#98 Is Diabetes a Coronary Heart Disease Equivalent? (2013)](https://cfpclearn.ca/tfp98/)  
-	- [#81 Type 2 Diabetes and A1c targets: Pragmatic dogma (2013)](https://cfpclearn.ca/tfp81/)  
-	- [#68 Hemoglobin A1c for the Diagnosis of Type 2 Diabetes (2012)](https://cfpclearn.ca/tfp68/)  
-	- [#35 The long and short of long acting insulin analogues (versus NPH)? (2010)](https://cfpclearn.ca/tfp35/)  
-	- [#3 Glucose Self-Monitoring in Type 2 Diabetics Not Using Insulin: Is it Bitter Sweet? (2009)](https://cfpclearn.ca/tfp3/)  
 
 ??? info "[McGill Journal of Medicine - Approach to: Type 2 Diabetes Management (2021)](https://mjm.mcgill.ca/article/view/323)"
 	*McGill J Med 19(2).*
 
 ??? info "International: [AAFP - From Symptoms to Diagnosis: Type 1 vs. Type 2 Diabetes (PDF)](https://www.aafp.org/assets/image/upload/v1771246432/Migrated%20-%20PDFs%20%28AEM%29/Patient%20Care/clinical_recommendations/diabetes-clinical-framework-pdf.pdf)"
 	*AAFP, free to read. Labelled international.*
-	- [American Family Physician - Determining When to Recommend Glucose-Lowering Drugs That Reduce Cardiovascular Risk (2022)](https://www.aafp.org/afp/2022/0100/p10)
 	- [AAFP - Diabetes: Clinical Guidance and Practice Resources](https://www.aafp.org/clinical-insights/cardiometabolic-health/diabetes)
 
 ## Algorithms and Pathways

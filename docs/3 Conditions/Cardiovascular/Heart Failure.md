@@ -121,22 +121,6 @@ sources:
     version: 2023-10-05
     url: https://www.primarycarealberta.ca/pathways/195/clinical
     checked: 2026-10-09
-  - id: tfp-191-sacubitril-valsartan
-    title: "Tools for Practice #191: Sacubitril/Valsartan: Getting to the Heart of This Novel Therapy"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2017"
-    url: https://cfpclearn.ca/tfp191/
-    checked: 2026-10-09
-  - id: tfp-104-aldosterone-antagonists
-    title: "Tools for Practice #104: Aldosterone antagonists in Heart Failure with Reduced Ejection Fraction (HFrEF)"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2014"
-    url: https://cfpclearn.ca/tfp104/
-    checked: 2026-10-09
   - id: rxfiles-heart-failure
     title: "RxFiles: Heart Failure"
     publisher: RxFiles
@@ -182,7 +166,6 @@ sources:
 	- [Diagnosis](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#Diagnosis)  
 	- [Management](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#management)  
 	- [Reassessment and Follow-up](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#reassessment)  
-	- [Indications for Referral](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#indications)  
 	- [Palliative Care and End of Life Care](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#palliative)  
 	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_guideline_complete_2024.pdf)  
 
@@ -199,8 +182,6 @@ sources:
 	*Canadian Journal of Cardiology 2017;33(11):1342–1433.*  
 
 ??? info "Tools for Practice (CFPCLearn) evidence summaries"
-	- [#191 Sacubitril/Valsartan: Getting to the Heart of This Novel Therapy (2017)](https://cfpclearn.ca/tfp191/)  
-	- [#104 Aldosterone antagonists in HFrEF (2014)](https://cfpclearn.ca/tfp104/)  
 
 ## Algorithms and Pathways
 

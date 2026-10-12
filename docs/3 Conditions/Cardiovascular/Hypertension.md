@@ -331,14 +331,6 @@ sources:
     version: "2025"
     url: "https://cfpclearn.ca/tfp386/"
     checked: 2026-10-09
-  - id: tfp-347-htn
-    title: "Tools for Practice #347: Chlorthali-D'OH!: What is the best thiazide diuretic for hypertension?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2023"
-    url: "https://cfpclearn.ca/tfp347/"
-    checked: 2026-10-09
   - id: tfp-248-htn
     title: "Tools for Practice #248: Hydrochlorothiazide and Squamous Cell Skin Cancer: Remember when hypertension was easy?"
     publisher: CFPCLearn (Tools for Practice)
@@ -355,14 +347,6 @@ sources:
     version: "2017"
     url: "https://cfpclearn.ca/tfp183/"
     checked: 2026-10-09
-  - id: tfp-165-htn
-    title: "Tools for Practice #165: Three drugs and still hypertensive: What's Left?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2016"
-    url: "https://cfpclearn.ca/tfp165/"
-    checked: 2026-10-09
   - id: tfp-163-htn
     title: "Tools for Practice #163: How low can the potassium and sodium go with commonly prescribed blood pressure medications?"
     publisher: CFPCLearn (Tools for Practice)
@@ -370,38 +354,6 @@ sources:
     kind: summary
     version: "2016"
     url: "https://cfpclearn.ca/tfp163/"
-    checked: 2026-10-09
-  - id: tfp-22-htn
-    title: "Tools for Practice #22: Treating Hypertension in the Very Elderly: What we know so far?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2010"
-    url: "https://cfpclearn.ca/tfp22/"
-    checked: 2026-10-09
-  - id: tfp-15-htn
-    title: "Tools for Practice #15: Atenolol & Beta-Blockers for Primary Hypertension: Do They Perform Under Pressure?"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2009"
-    url: "https://cfpclearn.ca/tfp15/"
-    checked: 2026-10-09
-  - id: tfp-9-htn
-    title: "Tools for Practice #9: Home in the Range - Home Blood Pressure Monitoring"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2009"
-    url: "https://cfpclearn.ca/tfp9/"
-    checked: 2026-10-09
-  - id: cfp-managing-htn-2019
-    title: Managing hypertension in primary care
-    publisher: Canadian Family Physician
-    jurisdiction: CA
-    kind: summary
-    version: "CFP 2019;65(10):725-9"
-    url: "https://www.cfp.ca/content/65/10/725"
     checked: 2026-10-09
   - id: rxfiles-charts
     title: RxFiles Drug Comparison Charts
@@ -491,14 +443,6 @@ sources:
     version: "2022 (published online 2022-11-14)"
     pdf: "https://www.aafp.org/assets/image/upload/v1746727631/aafphypertensionguideline_iex5pr.pdf"
     checked: 2026-10-09
-  - id: afp-htn-adults-2023
-    title: "Hypertension in Adults: Initial Evaluation and Management"
-    publisher: American Family Physician (AAFP)
-    jurisdiction: INTL
-    kind: summary
-    version: "Am Fam Physician 2023;108(4):352-9"
-    url: "https://www.aafp.org/afp/2023/1000/hypertension-adults"
-    checked: 2026-10-09
   - id: afp-primary-aldosteronism-2023
     title: Primary Aldosteronism
     publisher: American Family Physician (AAFP)
@@ -506,14 +450,6 @@ sources:
     kind: summary
     version: "Am Fam Physician 2023;108(3):273-7"
     url: "https://www.aafp.org/afp/2023/0900/primary-aldosteronism"
-    checked: 2026-10-09
-  - id: afp-home-bp-2021
-    title: Home Blood Pressure Monitoring
-    publisher: American Family Physician (AAFP)
-    jurisdiction: INTL
-    kind: summary
-    version: "Am Fam Physician 2021;104(3):237-43"
-    url: "https://www.aafp.org/afp/2021/0900/p237"
     checked: 2026-10-09
   - id: mdcalc-framingham-hard-chd
     title: Framingham Risk Score for Hard Coronary Heart Disease
@@ -582,23 +518,13 @@ sources:
 	- [#415 Blood Pressure Measurement Technique: Meaningful mistakes or minor details? (2026)](https://cfpclearn.ca/tfp415/)  
 	- [#409 Less than 140, 130, or 120? Counting down to the optimal systolic blood pressure target. (2026)](https://cfpclearn.ca/409/)  
 	- [#386 The Bland Supremacy: Salt and cardiovascular disease (2025)](https://cfpclearn.ca/tfp386/)  
-	- [#347 Chlorthali-D'OH!: What is the best thiazide diuretic for hypertension? (2023)](https://cfpclearn.ca/tfp347/)  
 	- [#248 Hydrochlorothiazide and Squamous Cell Skin Cancer: Remember when hypertension was easy? (2019)](https://cfpclearn.ca/tfp248/)  
 	- [#183 What is Urgent About Hypertensive Urgency? (2017)](https://cfpclearn.ca/tfp183/)  
-	- [#165 Three drugs and still hypertensive: What's Left? (2016)](https://cfpclearn.ca/tfp165/)  
 	- [#163 How low can the potassium and sodium go with commonly prescribed blood pressure medications? (2016)](https://cfpclearn.ca/tfp163/)  
-	- [#22 Treating Hypertension in the Very Elderly: What we know so far? (2010)](https://cfpclearn.ca/tfp22/)  
-	- [#15 Atenolol & Beta-Blockers for Primary Hypertension: Do They Perform Under Pressure? (2009)](https://cfpclearn.ca/tfp15/)  
-	- [#9 Home in the Range - Home Blood Pressure Monitoring (2009)](https://cfpclearn.ca/tfp9/)  
-
-??? info "[Canadian Family Physician - Managing Hypertension in Primary Care (2019)](https://www.cfp.ca/content/65/10/725)"
-	*CFP 2019;65(10):725-9. Predates the 2025 Hypertension Canada guideline.*
 
 ??? info "International: [AAFP - Blood Pressure Targets in Adults With Hypertension: A Clinical Practice Guideline (2022, PDF)](https://www.aafp.org/assets/image/upload/v1746727631/aafphypertensionguideline_iex5pr.pdf)"
 	*AAFP, free to read. Labelled international.*
-	- [American Family Physician - Hypertension in Adults: Initial Evaluation and Management (2023)](https://www.aafp.org/afp/2023/1000/hypertension-adults)
 	- [American Family Physician - Primary Aldosteronism (2023)](https://www.aafp.org/afp/2023/0900/primary-aldosteronism)
-	- [American Family Physician - Home Blood Pressure Monitoring (2021)](https://www.aafp.org/afp/2021/0900/p237)
 	- [AAFP - Hypertension: Clinical Guidance and Practice Resources](https://www.aafp.org/clinical-insights/cardiometabolic-health/hypertension)
 
 ## Algorithms and Pathways
@@ -648,7 +574,6 @@ sources:
 
 ## Advice and Referral
 
-- [BC Guidelines: Indications for Consultation (under Diagnosis)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#diagnosis)
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
 
 ## Patient Resources

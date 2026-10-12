@@ -306,15 +306,6 @@ sources:
     kind: algorithm
     version:
     url: "https://pedsconcussion.com/pecarn-head/"
-    pdf: "https://pedsconcussion.com/wp-content/uploads/2019/07/Tool-2.2-PECARN-Management-Algorithm.pdf"
-    checked: 2026-10-09
-  - id: aafp-concussion-2019
-    title: "Current Concepts in Concussion: Initial Evaluation and Management"
-    publisher: American Academy of Family Physicians (American Family Physician)
-    jurisdiction: INTL
-    kind: summary
-    version: "2019"
-    url: "https://www.aafp.org/pubs/afp/issues/2019/0401/p426.html"
     checked: 2026-10-09
   - id: voms-scorecard
     title: Vestibular/Ocular-Motor Screening (VOMS) for Concussion - Scorecard and Instructions
@@ -342,19 +333,11 @@ sources:
     checked: 2026-10-09
   - id: mdcalc-canadian-c-spine
     title: Canadian C-Spine Rule
-    publisher: MDCalc
+    publisher: ImPACT (Mucha et al.)
     jurisdiction: INTL
     kind: tool
     version:
-    url: "https://www.mdcalc.com/calc/696/canadian-c-spine-rule"
-    checked: 2026-10-09
-  - id: mdcalc-catch
-    title: CATCH (Canadian Assessment of Tomography for Childhood Head injury) Rule
-    publisher: MDCalc
-    jurisdiction: INTL
-    kind: tool
-    version:
-    url: "https://www.mdcalc.com/calc/3954/catch-canadian-assessment-tomography-childhood-head-injury-rule"
+    url: "https://impacttest.app.box.com/s/qo0cvhbqbavl8ya75mznx3299pqhxv2p"
     checked: 2026-10-09
   - id: mdcalc-pecarn-head
     title: PECARN Pediatric Head Injury/Trauma Algorithm
@@ -457,9 +440,6 @@ sources:
 ??? info "[TREKK - Bottom Line Recommendations: Concussion (v4.0, February 2025)](https://trekk.ca/resources/bottom-line-recommendations-concussion/)"
 	*Pediatric emergency care summary from TREKK.*  
 
-??? info "International: [American Family Physician - Current Concepts in Concussion: Initial Evaluation and Management (2019)](https://www.aafp.org/pubs/afp/issues/2019/0401/p426.html)"
-	*AAFP, free to read. Labelled international.*  
-
 ## Algorithms and Pathways
 
 - [BC Guidelines: Figure 1 - Concussion Diagnostic/Management Algorithm (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi#figure1)
@@ -467,7 +447,6 @@ sources:
 - [BC Guidelines: Appendix A - Return to Sport Protocol (BC GPAC, updated December 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-a.pdf)
 - [BC Guidelines: Appendix B - Return to School Protocol (BC GPAC, updated December 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-b.pdf)
 - [BC Guidelines: Appendix C - Return to Work Protocol (BC GPAC, 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-c.pdf)
-- [Pedsconcussion.com Tool 2.4: Algorithm for the Management of the Pediatric Patient 2 Years and Older with Minor Head Trauma](https://pedsconcussion.com/tool-2-4-algorithym-for-the-management-of-the-pediatric-patient-2-years-with-minor-head-trauma)
 - [Alberta's Pathway Hub: Acute Concussion (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/13/clinical) — *0 to 12 weeks after injury; referral guideline last updated January 23, 2025; choose "All" when the hub asks for an area*
 - [Alberta's Pathway Hub: Persisting Post-Concussion Symptoms (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/316/clinical) — *more than 12 weeks after injury; referral guideline last updated January 1, 2025*
 
@@ -475,13 +454,10 @@ sources:
 
 - [MDCalc - Canadian CT Head Injury/Trauma Rule](https://www.mdcalc.com/calc/608/canadian-ct-head-injury-trauma-rule) — *CT decision in adults with minor head injury*
 - [MDCalc - Canadian C-Spine Rule](https://www.mdcalc.com/calc/696/canadian-c-spine-rule) — *cervical spine imaging decision*
-- [MDCalc - CATCH Rule](https://www.mdcalc.com/calc/3954/catch-canadian-assessment-tomography-childhood-head-injury-rule) — *CT decision in children with minor head injury*
 - [MDCalc - PECARN Pediatric Head Injury/Trauma Algorithm](https://www.mdcalc.com/calc/589/pecarn-pediatric-head-injury-trauma-algorithm) — *CT decision in children with minor head injury*
 - [MDCalc - PECARN Cervical Spine Injury Prediction Rule](https://www.mdcalc.com/calc/10552/pecarn-cervical-spine-injury-prediction-rule) — *cervical spine imaging decision in children*
 - [MDCalc - Glasgow Coma Scale (GCS)](https://www.mdcalc.com/calc/64/glasgow-coma-scale-score-gcs)
 - [MDCalc - Pediatric Glasgow Coma Scale (pGCS)](https://www.mdcalc.com/calc/3702/pediatric-glasgow-coma-scale-pgcs)
-- [Concussion Recognition Tool 6 (CRT6, 2023)](https://pedsconcussion.com/recognition/) — *recognizing possible concussion in children, adolescents and adults*
-- [Pedsconcussion.com Tool 2.2: PECARN Management Algorithm for Children after Head Trauma (PDF)](https://pedsconcussion.com/wp-content/uploads/2019/07/Tool-2.2-PECARN-Management-Algorithm.pdf)
 - [Living Concussion Guidelines: Vestibular and Vision Dysfunction](https://concussionsontario.org/concussion/guideline-section/vestibular-balance-dizziness-vision-dysfunction) — *recommends the Vestibular/Ocular Motor Screening (VOMS) and links the VOMS form*
     - [Appendix 10.4: Screening Techniques for Vision Dysfunction (PDF)](https://concussionsontario.org/sites/default/files/2023-03/appendix-10-4.pdf)
 - [VOMS Scorecard and Instructions (Mucha et al., shared by ImPACT on Box)](https://impacttest.app.box.com/s/qo0cvhbqbavl8ya75mznx3299pqhxv2p) — *international; the VOMS form linked from the Living Concussion Guidelines*

@@ -245,14 +245,6 @@ sources:
     version: "2020"
     url: "https://cfpclearn.ca/tfp271/"
     checked: 2026-10-09
-  - id: tfp-39-dabigatran-warfarin
-    title: "Tools for Practice #39: Dabigatran versus Warfarin in Atrial Fibrillation"
-    publisher: CFPCLearn (Tools for Practice)
-    jurisdiction: CA
-    kind: summary
-    version: "2011"
-    url: "https://cfpclearn.ca/tfp39/"
-    checked: 2026-10-09
   - id: rxfiles-af-anticoagulation
     title: "RxFiles: Atrial Fibrillation: Anticoagulation Colour Comparison Chart"
     publisher: RxFiles
@@ -281,7 +273,6 @@ sources:
 	- [Diagnosis and Assessment](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#diagnosis)  
 	- [Stroke Prevention](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#stroke)  
 	- [Management of Rate and Rhythm in the Outpatient Setting](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#management_outpatient)  
-	- [Indications for Potential Specialist Referral](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#indications)  
 	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/doctorsbc-afib-guideline.pdf)  
 
 ??? info "[BC Guidelines - Direct Oral Anticoagulants (DOACs) (2023, revised 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/doac)"
@@ -314,7 +305,6 @@ sources:
 
 ??? info "Tools for Practice (CFPCLearn) evidence summaries"
 	- [#271 Be still my quivering heart: alcohol and atrial fibrillation (2020)](https://cfpclearn.ca/tfp271/)  
-	- [#39 Dabigatran versus Warfarin in Atrial Fibrillation (2011)](https://cfpclearn.ca/tfp39/)  
 
 ## Algorithms and Pathways
 
