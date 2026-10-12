@@ -7,7 +7,7 @@ status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
 reviewers: [joegrafe]
-description: "Alberta's Pathway Hub clinical pathways for primary care: all 82, listed by body system with their year and linked to NPPR condition pages, with the Hub embedded."
+description: "Alberta's Pathway Hub clinical pathways for primary care: all 82, listed by body system with their year and linked to NPPR condition pages."
 sources:
   - id: pca-pathway-hub
     title: "Alberta's Pathway Hub"
@@ -23,8 +23,6 @@ sources:
 *Clinical pathways from [Alberta's Pathway Hub](https://www.primarycarealberta.ca/pathways/), Primary Care Alberta's provincial collection of primary care pathways and referral guidelines. Each pathway is an algorithm for assessing and managing a condition in primary care before referral. These are Alberta pathways: check BC referral routes and BC Guidelines on the linked NPPR condition pages.*
 
 [Open the Pathway Hub](https://www.primarycarealberta.ca/pathways/){ .md-button .md-button--primary target="_blank" rel="noopener" }
-
-<iframe src="https://www.primarycarealberta.ca/pathways/search" title="Alberta's Pathway Hub" loading="lazy" style="width:100%;height:75vh;min-height:480px;border:1px solid var(--md-default-fg-color--lightest);border-radius:0.4rem;"></iframe>
 
 ## Pathways by System
 
