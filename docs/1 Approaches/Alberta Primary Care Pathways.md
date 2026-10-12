@@ -8,6 +8,8 @@ last-reviewed: 2026-10-10
 review-due: 2027-10-10
 reviewers: [joegrafe]
 description: "Alberta's Pathway Hub clinical pathways for primary care: all 82, listed by body system with their year and linked to NPPR condition pages."
+logo: "https://www.primarycarealberta.ca/images/pca-logo.svg"
+logo-alt: "Primary Care Alberta"
 sources:
   - id: pca-pathway-hub
     title: "Alberta's Pathway Hub"
@@ -24,11 +26,11 @@ sources:
 
 [Open the Pathway Hub](https://www.primarycarealberta.ca/pathways/){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
-<div class="nppr-filter" data-placeholder="Filter pathways, e.g. pain"></div>
-
 ## Pathways by System
 
 *Pathways are listed by system, with the year of the current version. "Calgary Zone" pathways were written for Calgary and are shared province-wide through the Hub. Where NPPR has a condition page for the same topic, it is linked after the pathway.*
+
+<div class="nppr-filter" data-placeholder="Filter pathways, e.g. pain"></div>
 
 ### Cardiovascular (3)
 

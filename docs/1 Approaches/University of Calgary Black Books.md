@@ -7,7 +7,10 @@ status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
 reviewers: [joegrafe]
-description: "The University of Calgary Blackbook's 353 diagnostic schemes for common presentations, listed by system and linked to NPPR condition pages, with the Blackbook embedded."
+description: "The University of Calgary Blackbook's 353 diagnostic schemes for common presentations, listed by system and linked to NPPR condition pages."
+logo: "https://blackbook.ucalgary.ca/wp-content/uploads/2020/12/blackbook-logo.svg"
+logo-alt: "University of Calgary Blackbook"
+logo-bg: "#111"
 sources:
   - id: ucalgary-blackbook-web
     title: "Blackbook: Approaches to Medical Presentations"
@@ -27,13 +30,9 @@ sources:
 ---
 <!-- Scheme list checked against every system page at blackbook.ucalgary.ca/schemes/ on 2026-10-10 (353 schemes, matching the site's counts).
      Link to the schemes; don't copy them. Regenerate the list when the Blackbook adds schemes. -->
-*Diagnostic schemes for common presentations from the University of Calgary's Blackbook, written by its medical students and faculty. Browse it embedded below, or find a scheme by system.*
+*Diagnostic schemes for common presentations from the University of Calgary's Blackbook, written by its medical students and faculty. Find a scheme by system below.*
 
 [Open the Blackbook](https://blackbook.ucalgary.ca/schemes/){ .md-button .md-button--primary target="_blank" rel="noopener" }
-
-<div class="nppr-filter" data-placeholder="Filter schemes, e.g. pain"></div>
-
-<iframe src="https://blackbook.ucalgary.ca/schemes/" title="University of Calgary Blackbook schemes" loading="lazy" style="width:100%;height:75vh;min-height:480px;border:1px solid var(--md-default-fg-color--lightest);border-radius:0.4rem;"></iframe>
 
 [Download PDF (2022-23)](https://blackbook.ucalgary.ca/wp-content/uploads/2022/06/blackbook-15-2022-2023.pdf){ .md-button style="font-size:0.6rem;padding:0.35em 0.9em;margin:0 0.3em 0.4em 0;" } [PDF en français (2025)](https://blackbook.ucalgary.ca/wp-content/uploads/2026/07/Blackbook-2025-edition-francaise.pdf){ .md-button style="font-size:0.6rem;padding:0.35em 0.9em;margin:0 0.3em 0.4em 0;" }
 
@@ -45,6 +44,8 @@ sources:
 ## Schemes by System
 
 *Schemes are listed by system. Where NPPR has a condition page for the same topic, it is linked after the scheme.*
+
+<div class="nppr-filter" data-placeholder="Filter schemes, e.g. pain"></div>
 
 ### Cardiovascular (17)
 
