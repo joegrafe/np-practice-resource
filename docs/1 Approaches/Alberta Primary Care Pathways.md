@@ -24,11 +24,11 @@ sources:
 
 [Open the Pathway Hub](https://www.primarycarealberta.ca/pathways/){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
-<div class="nppr-filter" data-placeholder="Filter pathways, e.g. pain"></div>
-
 ## Pathways by System
 
 *Pathways are listed by system, with the year of the current version. "Calgary Zone" pathways were written for Calgary and are shared province-wide through the Hub. Where NPPR has a condition page for the same topic, it is linked after the pathway.*
+
+<div class="nppr-filter" data-placeholder="Filter pathways, e.g. pain"></div>
 
 ### Cardiovascular (3)
 
