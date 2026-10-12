@@ -7,7 +7,7 @@ status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
 reviewers: [joegrafe]
-description: "Alberta's Pathway Hub clinical pathways for primary care: all 82, listed by body system with their year and linked to NPPR condition pages."
+description: "Alberta's Pathway Hub clinical pathways for primary care: all 82, listed by body system with their year."
 logo: "https://www.primarycarealberta.ca/images/pca-logo.svg"
 logo-alt: "Primary Care Alberta"
 sources:
@@ -22,26 +22,26 @@ sources:
 <!-- Clinical pathway list taken from every pathway page on the Hub (ids 1-800) on 2026-10-10: 82 distinct clinical pathways.
      Referral-only pathways are left out; several Hub entries that share one clinical pathway are listed once.
      Calgary Zone pathways are linked through the Hub, not Specialist Link. Link to the pathways; don't copy them. -->
-*Clinical pathways from [Alberta's Pathway Hub](https://www.primarycarealberta.ca/pathways/), Primary Care Alberta's provincial collection of primary care pathways and referral guidelines. Each pathway is an algorithm for assessing and managing a condition in primary care before referral. These are Alberta pathways: check BC referral routes and BC Guidelines on the linked NPPR condition pages.*
+*Clinical pathways from [Alberta's Pathway Hub](https://www.primarycarealberta.ca/pathways/), Primary Care Alberta's provincial collection of primary care pathways and referral guidelines. Each pathway is an algorithm for assessing and managing a condition in primary care before referral. These are Alberta pathways: check BC referral routes and BC Guidelines before applying them.*
 
 [Open the Pathway Hub](https://www.primarycarealberta.ca/pathways/){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
 ## Pathways by System
 
-*Pathways are listed by system, with the year of the current version. "Calgary Zone" pathways were written for Calgary and are shared province-wide through the Hub. Where NPPR has a condition page for the same topic, it is linked after the pathway.*
+*Pathways are listed by system, with the year of the current version. "Calgary Zone" pathways were written for Calgary and are shared province-wide through the Hub.*
 
 <div class="nppr-filter" data-placeholder="Filter pathways, e.g. pain"></div>
 
 ### Cardiovascular (3)
 
-- [Atrial Fibrillation](https://www.primarycarealberta.ca/pathways/44/clinical) (2025) · *Calgary Zone* · NPPR: [Atrial Fibrillation and Anticoagulation](../3%20Conditions/Cardiovascular/Atrial%20Fibrillation%20and%20Anticoagulation.md)
-- [Confirmed Heart Failure](https://www.primarycarealberta.ca/pathways/195/clinical) (2026) · *Calgary Zone* · NPPR: [Heart Failure](../3%20Conditions/Cardiovascular/Heart%20Failure.md)
+- [Atrial Fibrillation](https://www.primarycarealberta.ca/pathways/44/clinical) (2025) · *Calgary Zone*
+- [Confirmed Heart Failure](https://www.primarycarealberta.ca/pathways/195/clinical) (2026) · *Calgary Zone*
 - [Lower Limb Ischemia](https://www.primarycarealberta.ca/pathways/43/clinical) (2024) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-lower-limb-ischemia.pdf)
 
 ### Respiratory (3)
 
-- [Chronic Obstructive Pulmonary Disease (COPD)](https://www.primarycarealberta.ca/pathways/424/clinical) (2025) · *Calgary Zone* · NPPR: [COPD](../3%20Conditions/Respiratory/Chronic%20Obstructive%20Pulmonary%20Disease%20%28COPD%29.md)
-- [Lung Testing (ages 6 and up)](https://www.primarycarealberta.ca/pathways/435/clinical) (2024) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-lung-testing.pdf) · NPPR: [Asthma](../3%20Conditions/Respiratory/Asthma.md), [COPD](../3%20Conditions/Respiratory/Chronic%20Obstructive%20Pulmonary%20Disease%20%28COPD%29.md)
+- [Chronic Obstructive Pulmonary Disease (COPD)](https://www.primarycarealberta.ca/pathways/424/clinical) (2025) · *Calgary Zone*
+- [Lung Testing (ages 6 and up)](https://www.primarycarealberta.ca/pathways/435/clinical) (2024) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-lung-testing.pdf)
 - [Obstructive Sleep Apnea](https://www.primarycarealberta.ca/pathways/287/clinical) (2018) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-obstructive-sleep-apnea.pdf)
 
 ### Endocrine and Metabolic (2)
@@ -51,8 +51,8 @@ sources:
 
 ### Renal and Genitourinary (10)
 
-- [Chronic Kidney Disease (CKD)](https://www.primarycarealberta.ca/pathways/427/clinical) (2026) · [Interactive pathway](https://ckdpathway.ca/) · NPPR: [CKD](../3%20Conditions/Renal%20and%20Genitourinary/Chronic%20Kidney%20Disease%20%28CKD%29.md)
-- [Chronic Kidney Disease in Type 2 Diabetes](https://www.primarycarealberta.ca/pathways/86/clinical) (2024) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-chronic-kidney-disease-diabetes-mellitus-2.pdf) · NPPR: [CKD](../3%20Conditions/Renal%20and%20Genitourinary/Chronic%20Kidney%20Disease%20%28CKD%29.md), [Diabetes, Type 2](../3%20Conditions/Endocrine%20and%20Metabolic/Diabetes%2C%20Type%202.md)
+- [Chronic Kidney Disease (CKD)](https://www.primarycarealberta.ca/pathways/427/clinical) (2026) · [Interactive pathway](https://ckdpathway.ca/)
+- [Chronic Kidney Disease in Type 2 Diabetes](https://www.primarycarealberta.ca/pathways/86/clinical) (2024) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-chronic-kidney-disease-diabetes-mellitus-2.pdf)
 - [Female Lower Urinary Tract Symptoms (FLUTS)](https://www.primarycarealberta.ca/pathways/173/clinical) (2026) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-female-luts.pdf)
 - [Female Urinary Incontinence](https://www.primarycarealberta.ca/pathways/391/clinical) (2026) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-female-urinary-incontinence.pdf)
 - [Hematuria Evaluation (bladder cancer)](https://www.primarycarealberta.ca/pathways/198/clinical) (2024) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-hematuria-bladder-cancer.pdf)
@@ -98,17 +98,17 @@ sources:
 - [Knee](https://www.primarycarealberta.ca/pathways/35/clinical) (2026) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-knee.pdf)
 - [Peripheral Arthritis](https://www.primarycarealberta.ca/pathways/438/clinical) (2024) · *Calgary Zone*
 - [Shoulder](https://www.primarycarealberta.ca/pathways/223/clinical) (2024) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-shoulder.pdf)
-- [Spine: Low Back](https://www.primarycarealberta.ca/pathways/129/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-spine-low-back.pdf) · NPPR: [Low Back Pain](../3%20Conditions/Musculoskeletal/Low%20Back%20Pain.md)
+- [Spine: Low Back](https://www.primarycarealberta.ca/pathways/129/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-spine-low-back.pdf)
 - [Temporomandibular Joint (TMJ) Dysfunction](https://www.primarycarealberta.ca/pathways/92/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-tmj-dysfunction.pdf)
 - [Trigger Finger](https://www.primarycarealberta.ca/pathways/382/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-trigger-finger.pdf)
 
 ### Neurology (7)
 
-- [Acute Concussion](https://www.primarycarealberta.ca/pathways/13/clinical) (2025) · *Calgary Zone* · NPPR: [Concussion and mTBI](../3%20Conditions/Neurology/Concussion%20and%20Mild%20Traumatic%20Brain%20Injury%20%28mTBI%29.md)
+- [Acute Concussion](https://www.primarycarealberta.ca/pathways/13/clinical) (2025) · *Calgary Zone*
 - [Headache and Migraine](https://www.primarycarealberta.ca/pathways/193/clinical) (2024) · *Calgary Zone*
 - [Parkinson's Disease](https://www.primarycarealberta.ca/pathways/311/clinical) (2024) · *Calgary Zone*
-- [Persisting Post-Concussion Symptoms](https://www.primarycarealberta.ca/pathways/316/clinical) (2025) · *Calgary Zone* · NPPR: [Concussion and mTBI](../3%20Conditions/Neurology/Concussion%20and%20Mild%20Traumatic%20Brain%20Injury%20%28mTBI%29.md)
-- [Suspected Diabetic Peripheral Neuropathy](https://www.primarycarealberta.ca/pathways/353/clinical) (2024) · *Calgary Zone* · NPPR: [Diabetes, Type 2](../3%20Conditions/Endocrine%20and%20Metabolic/Diabetes%2C%20Type%202.md)
+- [Persisting Post-Concussion Symptoms](https://www.primarycarealberta.ca/pathways/316/clinical) (2025) · *Calgary Zone*
+- [Suspected Diabetic Peripheral Neuropathy](https://www.primarycarealberta.ca/pathways/353/clinical) (2024) · *Calgary Zone*
 - [Suspected Essential Tremor](https://www.primarycarealberta.ca/pathways/163/clinical) (2024) · *Calgary Zone*
 - [Vertigo](https://www.primarycarealberta.ca/pathways/409/clinical) (2024) · *Calgary Zone*
 

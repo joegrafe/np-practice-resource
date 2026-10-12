@@ -7,7 +7,7 @@ status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
 reviewers: [joegrafe]
-description: "The University of Calgary Blackbook's 353 diagnostic schemes for common presentations, listed by system and linked to NPPR condition pages."
+description: "The University of Calgary Blackbook's 353 diagnostic schemes for common presentations, listed by system."
 logo: "https://blackbook.ucalgary.ca/wp-content/uploads/2020/12/blackbook-logo.svg"
 logo-alt: "University of Calgary Blackbook"
 logo-bg: "#111"
@@ -43,24 +43,24 @@ sources:
 
 ## Schemes by System
 
-*Schemes are listed by system. Where NPPR has a condition page for the same topic, it is linked after the scheme.*
+*Schemes are listed by system.*
 
 <div class="nppr-filter" data-placeholder="Filter schemes, e.g. pain"></div>
 
 ### Cardiovascular (17)
 
-- [Abnormal rhythm (1)](https://blackbook.ucalgary.ca/schemes/cardiovascular/abnormal-rhythm-1/) · NPPR: [Atrial Fibrillation and Anticoagulation](../3%20Conditions/Cardiovascular/Atrial%20Fibrillation%20and%20Anticoagulation.md)
-- [Abnormal rhythm (2)](https://blackbook.ucalgary.ca/schemes/cardiovascular/abnormal-rhythm-2/) · NPPR: [Atrial Fibrillation and Anticoagulation](../3%20Conditions/Cardiovascular/Atrial%20Fibrillation%20and%20Anticoagulation.md)
+- [Abnormal rhythm (1)](https://blackbook.ucalgary.ca/schemes/cardiovascular/abnormal-rhythm-1/)
+- [Abnormal rhythm (2)](https://blackbook.ucalgary.ca/schemes/cardiovascular/abnormal-rhythm-2/)
 - [Chest discomfort: cardiovascular](https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-discomfort-cardiovascular/)
 - [Chest discomfort: other](https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-discomfort-other/)
 - [Chest discomfort: pulmonary / mediastinal](https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-discomfort-pulmonary-mediastinal/)
 - [Chest pain: cardiac/non-cardiac](https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-pain1/)
 - [Chest pain: life-threatening/non-life-threatening](https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-pain2/)
 - [Diastolic murmur](https://blackbook.ucalgary.ca/schemes/cardiovascular/diastolic-murmur/)
-- [Hypertension](https://blackbook.ucalgary.ca/schemes/cardiovascular/hypertension/) · NPPR: [Hypertension](../3%20Conditions/Cardiovascular/Hypertension.md)
+- [Hypertension](https://blackbook.ucalgary.ca/schemes/cardiovascular/hypertension/)
 - [Hypertension in pregnancy](https://blackbook.ucalgary.ca/schemes/cardiovascular/hypertension-in-pregnancy/)
-- [Isolated right-sided heart failure](https://blackbook.ucalgary.ca/schemes/cardiovascular/isolated-right-sided-heart-failure/) · NPPR: [Heart Failure](../3%20Conditions/Cardiovascular/Heart%20Failure.md)
-- [Left-sided heart failure](https://blackbook.ucalgary.ca/schemes/cardiovascular/left-sided-heart-failure/) · NPPR: [Heart Failure](../3%20Conditions/Cardiovascular/Heart%20Failure.md)
+- [Isolated right-sided heart failure](https://blackbook.ucalgary.ca/schemes/cardiovascular/isolated-right-sided-heart-failure/)
+- [Left-sided heart failure](https://blackbook.ucalgary.ca/schemes/cardiovascular/left-sided-heart-failure/)
 - [Pulse abnormalities](https://blackbook.ucalgary.ca/schemes/cardiovascular/pulse-abnormalities/)
 - [Shock](https://blackbook.ucalgary.ca/schemes/cardiovascular/shock/)
 - [Syncope](https://blackbook.ucalgary.ca/schemes/cardiovascular/syncope/)
@@ -91,8 +91,8 @@ sources:
 
 ### Endocrine and Metabolic (30)
 
-- [Abnormal lipid profile: combined & decreased HDL](https://blackbook.ucalgary.ca/schemes/endocrinology/abnormal-lipid-profile-combined-decreased-hdl/) · NPPR: [Cardiovascular Risk and Lipids](../3%20Conditions/Cardiovascular/Cardiovascular%20Risk%20and%20Lipids.md)
-- [Abnormal lipid profile: increased LDL & increased triglycerides](https://blackbook.ucalgary.ca/schemes/endocrinology/abnormal-lipid-profile-increased-ldl-increased-triglycerides/) · NPPR: [Cardiovascular Risk and Lipids](../3%20Conditions/Cardiovascular/Cardiovascular%20Risk%20and%20Lipids.md)
+- [Abnormal lipid profile: combined & decreased HDL](https://blackbook.ucalgary.ca/schemes/endocrinology/abnormal-lipid-profile-combined-decreased-hdl/)
+- [Abnormal lipid profile: increased LDL & increased triglycerides](https://blackbook.ucalgary.ca/schemes/endocrinology/abnormal-lipid-profile-increased-ldl-increased-triglycerides/)
 - [Abnormal serum TSH](https://blackbook.ucalgary.ca/schemes/endocrinology/abnormal-serum-tsh/)
 - [Adrenal mass: benign](https://blackbook.ucalgary.ca/schemes/endocrinology/adrenal-mass-benign/)
 - [Adrenal mass: malignant](https://blackbook.ucalgary.ca/schemes/endocrinology/adrenal-mass-malignant/)
@@ -103,15 +103,15 @@ sources:
 - [Hirsutism](https://blackbook.ucalgary.ca/schemes/endocrinology/hirsutism/)
 - [Hirsutism & virilization: androgen excess](https://blackbook.ucalgary.ca/schemes/endocrinology/hirsutism-virilization-androgen-excess/)
 - [Hirsutism & virilization: hypertrichosis](https://blackbook.ucalgary.ca/schemes/endocrinology/hirsutism-virilization-hypertrichosis/)
-- [Hypercalcemia: low PTH](https://blackbook.ucalgary.ca/schemes/endocrinology/hypercalcemia-low-pth/) · NPPR: [Calcium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Calcium%20Disorders.md)
-- [Hypercalcemia: normal/high PTH](https://blackbook.ucalgary.ca/schemes/endocrinology/hypercalcemia-normal-high-pth/) · NPPR: [Calcium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Calcium%20Disorders.md)
-- [Hyperglycemia](https://blackbook.ucalgary.ca/schemes/endocrinology/hyperglycemia/) · NPPR: [Diabetes, Type 2](../3%20Conditions/Endocrine%20and%20Metabolic/Diabetes%2C%20Type%202.md)
+- [Hypercalcemia: low PTH](https://blackbook.ucalgary.ca/schemes/endocrinology/hypercalcemia-low-pth/)
+- [Hypercalcemia: normal/high PTH](https://blackbook.ucalgary.ca/schemes/endocrinology/hypercalcemia-normal-high-pth/)
+- [Hyperglycemia](https://blackbook.ucalgary.ca/schemes/endocrinology/hyperglycemia/)
 - [Hyperphosphatemia](https://blackbook.ucalgary.ca/schemes/endocrinology/hyperphosphatemia/)
 - [Hyperthyroidism](https://blackbook.ucalgary.ca/schemes/endocrinology/hyperthyroidism/)
 - [Hyperuricemia](https://blackbook.ucalgary.ca/schemes/endocrinology/hyperuricemia/)
-- [Hypocalcemia: high phosphate](https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-high-phosphate/) · NPPR: [Calcium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Calcium%20Disorders.md)
-- [Hypocalcemia: high/low PTH](https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-high-low-pth/) · NPPR: [Calcium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Calcium%20Disorders.md)
-- [Hypocalcemia: low phosphate](https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-low-phosphate/) · NPPR: [Calcium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Calcium%20Disorders.md)
+- [Hypocalcemia: high phosphate](https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-high-phosphate/)
+- [Hypocalcemia: high/low PTH](https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-high-low-pth/)
+- [Hypocalcemia: low phosphate](https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-low-phosphate/)
 - [Hypoglycemia](https://blackbook.ucalgary.ca/schemes/endocrinology/hypoglycemia/)
 - [Hypophosphatemia](https://blackbook.ucalgary.ca/schemes/endocrinology/hypophosphatemia/)
 - [Hypothyroidism](https://blackbook.ucalgary.ca/schemes/endocrinology/hypothyroidism/)
@@ -124,17 +124,17 @@ sources:
 
 ### Renal (24)
 
-- [Acute kidney injury](https://blackbook.ucalgary.ca/schemes/renal/acute-kidney-injury/) · NPPR: [Acute Kidney Injury (AKI)](../3%20Conditions/Renal%20and%20Genitourinary/Acute%20Kidney%20Injury%20%28AKI%29.md)
-- [Chronic kidney disease](https://blackbook.ucalgary.ca/schemes/renal/chronic-kidney-disease/) · NPPR: [Chronic Kidney Disease (CKD)](../3%20Conditions/Renal%20and%20Genitourinary/Chronic%20Kidney%20Disease%20%28CKD%29.md)
+- [Acute kidney injury](https://blackbook.ucalgary.ca/schemes/renal/acute-kidney-injury/)
+- [Chronic kidney disease](https://blackbook.ucalgary.ca/schemes/renal/chronic-kidney-disease/)
 - [Dysuria](https://blackbook.ucalgary.ca/schemes/renal/dysuria/)
 - [Generalized edema](https://blackbook.ucalgary.ca/schemes/renal/generalized-edema/)
 - [Hematuria](https://blackbook.ucalgary.ca/schemes/renal/hematuria/)
-- [Hyperkalemia: intracellular shift](https://blackbook.ucalgary.ca/schemes/renal/hyperkalemia-intracellular-shift/) · NPPR: [Potassium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Potassium%20Disorders.md)
-- [Hyperkalemia: reduced excretion](https://blackbook.ucalgary.ca/schemes/renal/hyperkalemia-reduced-excretion/) · NPPR: [Potassium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Potassium%20Disorders.md)
-- [Hypernatremia](https://blackbook.ucalgary.ca/schemes/renal/hypernatremia/) · NPPR: [Sodium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Sodium%20Disorders.md)
-- [Hypertension](https://blackbook.ucalgary.ca/schemes/renal/hypertension-2/) · NPPR: [Hypertension](../3%20Conditions/Cardiovascular/Hypertension.md)
-- [Hypokalemia](https://blackbook.ucalgary.ca/schemes/renal/hypokalemia/) · NPPR: [Potassium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Potassium%20Disorders.md)
-- [Hyponatremia](https://blackbook.ucalgary.ca/schemes/renal/hyponatremia/) · NPPR: [Sodium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Sodium%20Disorders.md)
+- [Hyperkalemia: intracellular shift](https://blackbook.ucalgary.ca/schemes/renal/hyperkalemia-intracellular-shift/)
+- [Hyperkalemia: reduced excretion](https://blackbook.ucalgary.ca/schemes/renal/hyperkalemia-reduced-excretion/)
+- [Hypernatremia](https://blackbook.ucalgary.ca/schemes/renal/hypernatremia/)
+- [Hypertension](https://blackbook.ucalgary.ca/schemes/renal/hypertension-2/)
+- [Hypokalemia](https://blackbook.ucalgary.ca/schemes/renal/hypokalemia/)
+- [Hyponatremia](https://blackbook.ucalgary.ca/schemes/renal/hyponatremia/)
 - [Increased urinary frequency](https://blackbook.ucalgary.ca/schemes/renal/increased-urinary-frequency/)
 - [Metabolic acidosis: elevated anion gap](https://blackbook.ucalgary.ca/schemes/renal/metabolic-acidosis-elevated-anion-gap/)
 - [Metabolic acidosis: normal anion gap](https://blackbook.ucalgary.ca/schemes/renal/metabolic-acidosis-normal-anion-gap/)
@@ -204,7 +204,7 @@ sources:
 - [Altered level of consciousness: GCS ≤ 7](https://blackbook.ucalgary.ca/schemes/neurologic/altered-level-of-consciousness-gcs-%e2%89%a4-7/)
 - [Aphasia: fluent](https://blackbook.ucalgary.ca/schemes/neurologic/aphasia-fluent/)
 - [Aphasia: non-fluent](https://blackbook.ucalgary.ca/schemes/neurologic/aphasia-non-fluent/)
-- [Back pain](https://blackbook.ucalgary.ca/schemes/neurologic/back-pain/) · NPPR: [Low Back Pain](../3%20Conditions/Musculoskeletal/Low%20Back%20Pain.md)
+- [Back pain](https://blackbook.ucalgary.ca/schemes/neurologic/back-pain/)
 - [Cognitive impairment](https://blackbook.ucalgary.ca/schemes/neurologic/cognitive-impairment/)
 - [Dizziness: dizziness](https://blackbook.ucalgary.ca/schemes/neurologic/dizziness-dizziness/)
 - [Dizziness: vertigo](https://blackbook.ucalgary.ca/schemes/neurologic/dizziness-vertigo/)
@@ -359,13 +359,13 @@ sources:
 
 - [Abdominal mass](https://blackbook.ucalgary.ca/schemes/pediatric/abdominal-mass-2/)
 - [Acute abdominal pain](https://blackbook.ucalgary.ca/schemes/pediatric/acute-abdominal-pain/)
-- [Acute renal failure](https://blackbook.ucalgary.ca/schemes/pediatric/acute-renal-failure/) · NPPR: [Acute Kidney Injury (AKI)](../3%20Conditions/Renal%20and%20Genitourinary/Acute%20Kidney%20Injury%20%28AKI%29.md)
+- [Acute renal failure](https://blackbook.ucalgary.ca/schemes/pediatric/acute-renal-failure/)
 - [Altered level of consciousness](https://blackbook.ucalgary.ca/schemes/pediatric/altered-level-of-consciousness/)
 - [Anemia by MCV](https://blackbook.ucalgary.ca/schemes/pediatric/anemia-by-mcv/)
 - [Anemia by mechanism](https://blackbook.ucalgary.ca/schemes/pediatric/anemia-by-mechanism/)
 - [Bleeding/bruising](https://blackbook.ucalgary.ca/schemes/pediatric/bleeding-bruising/)
 - [Chronic abdominal pain](https://blackbook.ucalgary.ca/schemes/pediatric/chronic-abdominal-pain/)
-- [Chronic kidney disease](https://blackbook.ucalgary.ca/schemes/pediatric/chronic-kidney-disease-2/) · NPPR: [Chronic Kidney Disease (CKD)](../3%20Conditions/Renal%20and%20Genitourinary/Chronic%20Kidney%20Disease%20%28CKD%29.md)
+- [Chronic kidney disease](https://blackbook.ucalgary.ca/schemes/pediatric/chronic-kidney-disease-2/)
 - [Congenital anomalies](https://blackbook.ucalgary.ca/schemes/pediatric/congenital-anomalies/)
 - [Constipation: (pediatric)](https://blackbook.ucalgary.ca/schemes/pediatric/constipation-pediatric/)
 - [Cyanosis in the newborn](https://blackbook.ucalgary.ca/schemes/pediatric/cyanosis-in-the-newborn/)
@@ -381,9 +381,9 @@ sources:
 - [Global developmental delay/intellectual disability](https://blackbook.ucalgary.ca/schemes/pediatric/global-developmental-delay-intellectual-disability/)
 - [Headache](https://blackbook.ucalgary.ca/schemes/pediatric/headache/)
 - [Hematuria](https://blackbook.ucalgary.ca/schemes/pediatric/hematuria-2/)
-- [Hypernatremia](https://blackbook.ucalgary.ca/schemes/pediatric/hypernatremia-2/) · NPPR: [Sodium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Sodium%20Disorders.md)
+- [Hypernatremia](https://blackbook.ucalgary.ca/schemes/pediatric/hypernatremia-2/)
 - [Hypoglycemia](https://blackbook.ucalgary.ca/schemes/pediatric/hypoglycemia-2/)
-- [Hyponatremia](https://blackbook.ucalgary.ca/schemes/pediatric/hyponatremia-2/) · NPPR: [Sodium Disorders](../3%20Conditions/Endocrine%20and%20Metabolic/Electrolyte%20Imbalances/Sodium%20Disorders.md)
+- [Hyponatremia](https://blackbook.ucalgary.ca/schemes/pediatric/hyponatremia-2/)
 - [Hyptonic infant (floppy newborn)](https://blackbook.ucalgary.ca/schemes/pediatric/hypotonic-infant-floppy-newborn/)
 - [Increased urinary frequency](https://blackbook.ucalgary.ca/schemes/pediatric/increased-urinary-frequency-2/)
 - [Large for gestational age](https://blackbook.ucalgary.ca/schemes/pediatric/large-for-gestational-age/)
@@ -399,7 +399,7 @@ sources:
 - [Neonatal jaundice: approach to direct hyperbilirubinemia](https://blackbook.ucalgary.ca/schemes/pediatric/neonatal-jaundice-approach-to-direct-hyperbilirubinemia/)
 - [Neonatal jaundice: approach to indirect hyperbilirubinemia](https://blackbook.ucalgary.ca/schemes/pediatric/neonatal-jaundice-approach-to-indirect-hyperbilirubinemia/)
 - [Noisy breathing: pediatric stridor](https://blackbook.ucalgary.ca/schemes/pediatric/noisy-breathing-pediatric-stridor/)
-- [Noisy breathing: pediatric wheezing](https://blackbook.ucalgary.ca/schemes/pediatric/noisy-breathing-pediatric-wheezing/) · NPPR: [Asthma](../3%20Conditions/Respiratory/Asthma.md)
+- [Noisy breathing: pediatric wheezing](https://blackbook.ucalgary.ca/schemes/pediatric/noisy-breathing-pediatric-wheezing/)
 - [Non-epileptic paroxysmal event](https://blackbook.ucalgary.ca/schemes/pediatric/non-epileptic-paroxysmal-event/)
 - [Normal PT (INR), long PTT](https://blackbook.ucalgary.ca/schemes/pediatric/normal-pt-inr-long-ptt/)
 - [Otalgia (earache)](https://blackbook.ucalgary.ca/schemes/pediatric/otalgia-earache/)
