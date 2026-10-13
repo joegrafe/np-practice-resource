@@ -3,9 +3,9 @@ title: Pregnancy and Perinatal
 type: population
 tags: [population, pregnancy-and-perinatal]
 jurisdiction: [BC, CA]
-status: published
-last-reviewed: 2026-10-10
-review-due: 2027-10-10
+status: review
+last-reviewed: 2026-10-13
+review-due: 2027-10-13
 reviewers: [joegrafe]
 sources:
   - id: healthlinkbc-high-bp-pregnancy
@@ -80,8 +80,17 @@ sources:
     version: "2015"
     url: "https://cfpclearn.ca/tfp148/"
     checked: 2026-10-10
+  - id: rheuminfo-pregnancy-ra
+    title: Pregnancy and Rheumatoid Arthritis
+    publisher: RheumInfo
+    jurisdiction: CA
+    kind: tool
+    version:
+    url: "https://rheuminfo.com/physician-tools/pregnancy-and-rheumatoid-arthritis/"
+    checked: 2026-10-13
 ---
-<!-- This page so far holds the hypertension and diabetes notes from those condition pages; the rest of the Population template is filled in step 2.2.
+<!-- status: review. Set status to published after opening every link.
+     This page so far holds the hypertension, diabetes and rheumatoid arthritis notes from those condition pages; the rest of the Population template is filled in step 2.2.
      No Perinatal Services BC guideline on hypertension or diabetes in pregnancy was found.
      Link to the source guidance; don't restate its recommendations. -->
 *Sources and services for care before, during and after pregnancy.*
@@ -100,6 +109,11 @@ sources:
 - [Diabetes Canada: Diabetes and Pregnancy (chapter 36)](https://www.diabetes.ca/for-professionals/full-guidelines/chapter-36) — *pre-existing and gestational diabetes*
 - [Diabetes Canada: Screening for Gestational Diabetes Mellitus (interactive)](https://www.diabetes.ca/for-professionals/health-care-provider-tools/screening-for-gestational-diabetes-mellitus)
 - [Tools for Practice #148: Has insulin met its match? Metformin for gestational diabetes (2015)](https://cfpclearn.ca/tfp148/)
+
+### Rheumatoid Arthritis
+
+- [Rheumatoid Arthritis](../3%20Conditions/Musculoskeletal/Rheumatoid%20Arthritis.md) — *the adult condition page*
+- [RheumInfo - Pregnancy and Rheumatoid Arthritis](https://rheuminfo.com/physician-tools/pregnancy-and-rheumatoid-arthritis/)
 
 ## Patient Resources
 
