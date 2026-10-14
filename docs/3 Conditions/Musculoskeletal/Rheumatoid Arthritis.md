@@ -186,6 +186,14 @@ sources:
     version:
     url: "https://www.raceconnect.ca/"
     checked: 2026-10-13
+  - id: vch-mary-pack-arthritis-program
+    title: Mary Pack Arthritis Program (MPAP) Clinics
+    publisher: Vancouver Coastal Health
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://www.vch.ca/en/service/mary-pack-arthritis-program"
+    checked: 2026-10-14
   - id: healthlinkbc-rheumatoid-arthritis
     title: Rheumatoid Arthritis
     publisher: HealthLink BC
@@ -234,7 +242,7 @@ sources:
     kind: guideline
     version: Living
     url: "https://app.magicapp.org/#/guideline/jNxw7n"
-    checked:
+    checked: 2026-10-14
   - id: cra-ra-living-jrheum-0
     title: "CRA RA living guideline, Original guideline (Journal of Rheumatology)"
     publisher: Canadian Rheumatology Association (Journal of Rheumatology)
@@ -242,7 +250,7 @@ sources:
     kind: guideline
     version: "2022 (J Rheumatol 2022;49(10):1092-9)"
     url: "https://www.jrheum.org/content/early/2022/07/14/jrheum.220209"
-    checked:
+    checked: 2026-10-14
   - id: cra-ra-living-jrheum-1
     title: "CRA RA living guideline, Update #1 (Journal of Rheumatology)"
     publisher: Canadian Rheumatology Association (Journal of Rheumatology)
@@ -250,7 +258,7 @@ sources:
     kind: guideline
     version: "2023 (J Rheumatol 2023;50(9):1198-9)"
     url: "https://www.jrheum.org/content/early/2023/07/25/jrheum.2023-0625"
-    checked:
+    checked: 2026-10-14
   - id: cra-ra-living-jrheum-2
     title: "CRA RA living guideline, Update #2 (Journal of Rheumatology)"
     publisher: Canadian Rheumatology Association (Journal of Rheumatology)
@@ -258,15 +266,15 @@ sources:
     kind: guideline
     version: "2024 (J Rheumatol 2024;51(9):940-1)"
     url: "https://www.jrheum.org/content/early/2024/07/08/jrheum.2024-0540"
-    checked:
+    checked: 2026-10-14
   - id: cra-ra-living-jrheum-3
     title: "CRA RA living guideline, Update #3 (Journal of Rheumatology)"
     publisher: Canadian Rheumatology Association (Journal of Rheumatology)
     jurisdiction: CA
     kind: guideline
-    version: April 2026
+    version: "2026 (J Rheumatol, published 2026-04-01)"
     url: "https://www.jrheum.org/content/early/2026/03/24/jrheum.2026-0228"
-    checked:
+    checked: 2026-10-14
   - id: cra-ra-decision-aid
     title: "Rheumatoid Arthritis Decision Aid: Your RA is well controlled with a biologic or targeted medicine: should you take less medicine?"
     publisher: Canadian Rheumatology Association
@@ -399,6 +407,22 @@ sources:
     version:
     url: "https://rheuminfo.com/medications/"
     checked: 2026-10-13
+  - id: arthritis-society-ra
+    title: Rheumatoid Arthritis
+    publisher: Arthritis Society Canada
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://arthritis.ca/about-arthritis/arthritis-types-(a-z)/types/rheumatoid-arthritis"
+    checked: 2026-10-14
+  - id: arthritis-research-canada-education
+    title: Arthritis Research Education Series
+    publisher: Arthritis Research Canada
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://www.arthritisresearch.ca/education-series/"
+    checked: 2026-10-14
   - id: mdcalc-acr-eular-ra-2010
     title: 2010 ACR/EULAR Classification Criteria for Rheumatoid Arthritis
     publisher: MDCalc
@@ -441,7 +465,6 @@ sources:
     checked: 2026-10-13
 ---
 <!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-13: the MAGICapp and Journal of Rheumatology links for the CRA living guideline (app.magicapp.org and jrheum.org are blocked from this session). PubMed confirms the original guideline (2022) and Updates #1 (2023) and #2 (2024); the CRA page lists Update #3 (April 2026).
      The CRA 2011/2012 Recommendations for the Management of RA are superseded by the living guideline; they stay in the sources list only so the living guideline's supersedes field can point to them.
      Link to the source guidance; don't restate its recommendations. -->
 
@@ -520,6 +543,7 @@ sources:
 
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
 - [RheumInfo - Comprehensive Arthritis Referral Tool (CART)](https://rheuminfo.com/physician-tools/comprehensive-arthritis-referral-tool-cart/) — *rheumatology referral triage form*
+- [Mary Pack Arthritis Program (MPAP) Clinics (Vancouver Coastal Health)](https://www.vch.ca/en/service/mary-pack-arthritis-program) — *inflammatory arthritis clinics across BC; services need a doctor's or rheumatologist's referral*
 
 ## Patient Resources
 
@@ -530,6 +554,8 @@ sources:
 - [RheumInfo - Rheumatoid Arthritis](https://rheuminfo.com/diseases/rheumatoid-arthritis/)
 - [RheumInfo - Rheumatoid Arthritis Quick Reference Guide (PDF)](https://rheuminfo.com/docs/diseases/pictos/Rheumatoid-Arthritis-Patient-Guide-RheumInfo_EN.pdf)
 - [RheumInfo - Medication Information](https://rheuminfo.com/medications/) — *drug information pages for DMARDs, biologics and steroids*
+- [Arthritis Society Canada - Rheumatoid Arthritis](https://arthritis.ca/about-arthritis/arthritis-types-(a-z)/types/rheumatoid-arthritis)
+- [Arthritis Research Canada - Arthritis Research Education Series](https://www.arthritisresearch.ca/education-series/) — *recorded patient talks*
 
 ## Evidence Pack
 
