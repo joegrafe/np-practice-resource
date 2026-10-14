@@ -4,10 +4,10 @@ type: condition
 system: musculoskeletal
 tags: [condition, musculoskeletal, ra, adults, joint-pain]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-13
 review-due: 2027-10-13
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-rheumatoid-arthritis
     title: "BC Guidelines: Rheumatoid Arthritis - Diagnosis, Management and Monitoring"
@@ -464,8 +464,7 @@ sources:
     url: "https://www.mdcalc.com/calc/2194/simple-disease-activity-index-sdai-rheumatoid-arthritis"
     checked: 2026-10-13
 ---
-<!-- status: review. Set status to published after opening every link.
-     The CRA 2011/2012 Recommendations for the Management of RA are superseded by the living guideline; they stay in the sources list only so the living guideline's supersedes field can point to them.
+<!-- The CRA 2011/2012 Recommendations for the Management of RA are superseded by the living guideline; they stay in the sources list only so the living guideline's supersedes field can point to them.
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
