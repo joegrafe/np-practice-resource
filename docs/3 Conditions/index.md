@@ -30,7 +30,7 @@ hide:
 
 -   :material-bone:{ .nppr-icon } [**Musculoskeletal**](Musculoskeletal/index.md)
 
-    Low back pain.
+    Low back pain and rheumatoid arthritis.
 
 -   :material-brain:{ .nppr-icon } [**Neurology**](Neurology/index.md)
 
