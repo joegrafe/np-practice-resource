@@ -239,7 +239,7 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [ ] Chronic pain
 - [ ] Urinary tract infection
 - [ ] Respiratory tract infections
-- [ ] Thyroid disease
+- [x] Thyroid disease
 - [ ] Osteoporosis
 - [ ] Dementia and frailty
 - [ ] Prenatal care
