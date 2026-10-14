@@ -3,7 +3,7 @@ title: Pregnancy and Perinatal
 type: population
 tags: [population, pregnancy-and-perinatal]
 jurisdiction: [BC, CA]
-status: review
+status: published
 last-reviewed: 2026-10-13
 review-due: 2027-10-13
 reviewers: [joegrafe]
@@ -89,8 +89,7 @@ sources:
     url: "https://rheuminfo.com/physician-tools/pregnancy-and-rheumatoid-arthritis/"
     checked: 2026-10-13
 ---
-<!-- status: review. Set status to published after opening every link.
-     This page so far holds the hypertension, diabetes and rheumatoid arthritis notes from those condition pages; the rest of the Population template is filled in step 2.2.
+<!-- This page so far holds the hypertension, diabetes and rheumatoid arthritis notes from those condition pages; the rest of the Population template is filled in step 2.2.
      No Perinatal Services BC guideline on hypertension or diabetes in pregnancy was found.
      Link to the source guidance; don't restate its recommendations. -->
 *Sources and services for care before, during and after pregnancy.*
