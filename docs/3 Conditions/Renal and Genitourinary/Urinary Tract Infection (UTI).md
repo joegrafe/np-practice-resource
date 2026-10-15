@@ -16,10 +16,10 @@ jurisdiction:
   - BC
   - CA
   - INTL
-status: review
+status: published
 last-reviewed: 2026-10-11
 review-due: 2027-10-11
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bccdc-dst-uti
     title: "BCCDC Certified Decision Support Tool: Uncomplicated Lower Urinary Tract Infection (UTI)"
@@ -175,9 +175,7 @@ sources:
     url: https://www.aafp.org/afp/2020/0801/p173
     checked: 2026-10-11
 ---
-<!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-11 (sites block automated checks): aua-cua-sufu-ruti, ammi-asb-2018, cwc-uti-older-people.
-     No BC Guidelines (GPAC) guideline for UTI; BC Guidelines refers to Bugs & Drugs for antimicrobial use.
+<!-- No BC Guidelines (GPAC) guideline for UTI; BC Guidelines refers to Bugs & Drugs for antimicrobial use.
      Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
