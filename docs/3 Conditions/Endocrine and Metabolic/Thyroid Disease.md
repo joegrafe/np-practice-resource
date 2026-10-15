@@ -15,10 +15,10 @@ jurisdiction:
   - BC
   - CA
   - INTL
-status: review
+status: published
 last-reviewed: 2026-10-14
 review-due: 2027-10-14
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-thyroid-testing
     title: "BC Guidelines: Thyroid Function Testing in the Diagnosis and Monitoring of Thyroid Function Disorder"
@@ -232,10 +232,7 @@ sources:
     url: https://doi.org/10.1177/10507256251363120
     checked: 2026-10-15
 ---
-<!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-14 (site blocks automated checks): thyroid-foundation-canada.
-     ATA guidelines confirmed by DOI and PubMed on 2026-10-15; the journal site blocks automated checks.
-     Link to the source guidance; don't restate its recommendations. -->
+<!-- Link to the source guidance; don't restate its recommendations. -->
 
 ## Key Sources
 
