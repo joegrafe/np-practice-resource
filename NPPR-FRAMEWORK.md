@@ -237,7 +237,7 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [ ] Depression and anxiety
 - [ ] Opioid use disorder
 - [ ] Chronic pain
-- [ ] Urinary tract infection
+- [x] Urinary tract infection
 - [ ] Respiratory tract infections
 - [ ] Thyroid disease
 - [ ] Osteoporosis
