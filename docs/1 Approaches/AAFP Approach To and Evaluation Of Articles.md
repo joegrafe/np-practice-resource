@@ -3,10 +3,10 @@ title: "American Family Physician: Approach To and Evaluation Of"
 type: approach
 tags: [approach]
 jurisdiction: [INTL]
-status: draft
+status: published
 last-reviewed: 2026-10-16
 review-due: 2027-10-16
-reviewers: []
+reviewers: [joegrafe]
 description: "An index of recent, free American Family Physician (AAFP) review articles on the approach to and evaluation of common primary care presentations, grouped by body system."
 logo: "/assets/logos/aafp.svg"
 logo-alt: "American Academy of Family Physicians"
