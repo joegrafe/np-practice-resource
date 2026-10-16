@@ -3,10 +3,10 @@ title: "PedsCases: Approach To"
 type: approach
 tags: [approach, pediatrics]
 jurisdiction: [CA]
-status: draft
+status: published
 last-reviewed: 2026-10-16
 review-due: 2027-10-16
-reviewers: []
+reviewers: [joegrafe]
 description: "An index of PedsCases' peer-reviewed \"Approach to\" podcasts, videos and notes on pediatric presentations, grouped by body system."
 logo: "https://www.pedscases.com/sites/default/files/pedscases.png"
 logo-alt: "PedsCases"
