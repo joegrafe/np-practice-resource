@@ -26,7 +26,7 @@ sources:
     jurisdiction: BC
     kind: guideline
     version: "June 2026"
-    url: "https://www.bccdc.ca/health-professionals/clinical-resources/sti-certified-practice"
+    url: "https://www.bccdc.ca/health-professionals/clinical-resources/sti-certified-practice#:~:text=Uncomplicated%20Lower%20UTI"
     pdf: "https://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/STI/Med%20Handouts/Care%20and%20Treatment%20Plan%20-%20UTI.pdf"
     checked: 2026-10-11
   - id: pace-fluoroquinolones
@@ -35,7 +35,7 @@ sources:
     jurisdiction: BC
     kind: summary
     version: "2020"
-    url: "https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship"
+    url: "https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship#:~:text=Avoid%20Fluoroquinolones%20as%20First%20Line%20Therapy"
     pdf: "https://www.bccdc.ca/Documents/Fluoroquinolones%20-%20Avoid%20as%20first-line%20treatment.pdf"
     checked: 2026-10-11
   - id: bc-pharmacare-macs
@@ -132,7 +132,7 @@ sources:
     jurisdiction: CA
     kind: summary
     version: "2017"
-    url: "https://www.rxfiles.ca/rxfiles/uploads/documents/books/newsletters.html"
+    url: "https://www.rxfiles.ca/rxfiles/uploads/documents/books/newsletters.html#:~:text=Antibiotics%3A%20Part%202"
     pdf: https://www.rxfiles.ca/RxFiles/uploads/documents/ABX-2-Newsletter-Cystitis-and-SSTI.pdf
     checked: 2026-10-11
   - id: cwc-uti-older-people
@@ -168,7 +168,7 @@ sources:
 
 ## Key Sources
 
-??? info "[BCCDC Certified Decision Support Tool: Uncomplicated Lower UTI (2026)](https://www.bccdc.ca/health-professionals/clinical-resources/sti-certified-practice)"
+??? info "[BCCDC Certified Decision Support Tool: Uncomplicated Lower UTI (2026)](https://www.bccdc.ca/health-professionals/clinical-resources/sti-certified-practice#:~:text=Uncomplicated%20Lower%20UTI)"
 	*BC Centre for Disease Control, June 2026. Written for certified-practice RNs managing uncomplicated lower UTI in sexually active people with vulvar/vaginal anatomy.* · [PDF](https://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/STI/Med%20Handouts/Care%20and%20Treatment%20Plan%20-%20UTI.pdf)  
 
 ??? info "[Recurrent Uncomplicated UTIs in Women: AUA/CUA/SUFU Guideline (2019, amended 2025)](https://www.auanet.org/guidelines-and-quality/guidelines/recurrent-uti)"
@@ -199,8 +199,8 @@ sources:
 ## Prescribing
 
 - [Bugs & Drugs (Alberta Health Services)](https://www.bugsanddrugs.org/) — *antimicrobial treatment reference that the BC Guidelines point to for antimicrobial use; see Treatment Recommendations, Urinary Tract; free website and app*
-- [PACE: Avoid Fluoroquinolones as First-Line Treatment (BC PACE, 2020)](https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship) · [PDF](https://www.bccdc.ca/Documents/Fluoroquinolones%20-%20Avoid%20as%20first-line%20treatment.pdf) — *BC antimicrobial stewardship message*
-- [RxFiles ABX-2: Uncomplicated Cystitis & Skin and Soft Tissue Infections (2017)](https://www.rxfiles.ca/rxfiles/uploads/documents/books/newsletters.html) · [PDF](https://www.rxfiles.ca/RxFiles/uploads/documents/ABX-2-Newsletter-Cystitis-and-SSTI.pdf) — *newsletter*
+- [PACE: Avoid Fluoroquinolones as First-Line Treatment (BC PACE, 2020)](https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship#:~:text=Avoid%20Fluoroquinolones%20as%20First%20Line%20Therapy) · [PDF](https://www.bccdc.ca/Documents/Fluoroquinolones%20-%20Avoid%20as%20first-line%20treatment.pdf) — *BC antimicrobial stewardship message*
+- [RxFiles ABX-2: Uncomplicated Cystitis & Skin and Soft Tissue Infections (2017)](https://www.rxfiles.ca/rxfiles/uploads/documents/books/newsletters.html#:~:text=Antibiotics%3A%20Part%202) · [PDF](https://www.rxfiles.ca/RxFiles/uploads/documents/ABX-2-Newsletter-Cystitis-and-SSTI.pdf) — *newsletter*
 
 ## Advice and Referral
 

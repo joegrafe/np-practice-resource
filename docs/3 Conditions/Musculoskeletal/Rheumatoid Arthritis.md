@@ -40,7 +40,7 @@ sources:
     jurisdiction: BC
     kind: patient
     version: "2012"
-    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis#appendix"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/rheumatoid_arthritis_pg.pdf"
     checked: 2026-10-13
   - id: bccdc-immunosuppressive-therapy
@@ -49,7 +49,7 @@ sources:
     jurisdiction: BC
     kind: guideline
     version: September 2026
-    url: "https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization/immunization-of-special-populations"
+    url: "https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization/immunization-of-special-populations#:~:text=Specific%20immunocompromising%20conditions"
     pdf: "https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part2/ImmunosuppressiveTherapy.pdf"
     checked: 2026-10-13
   - id: bc-pharmacare-haq-5383
@@ -291,7 +291,7 @@ sources:
     jurisdiction: CA
     kind: guideline
     version: "Version 1.0, 2026-02-18"
-    url: "https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-for-vaccinations-in-patients-with-rheumatic-diseases/"
+    url: "https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-for-vaccinations-in-patients-with-rheumatic-diseases/#:~:text=Download%20Statement%20Canadian%20Rheumatology%20Association%20Position%20Statement%20on"
     pdf: "https://rheum.ca/app/uploads/2026/03/General-Vaccine-position-statement_FINALrev-ENG.pdf"
     checked: 2026-10-13
   - id: cra-hcq-safety-position
@@ -300,7 +300,7 @@ sources:
     jurisdiction: CA
     kind: guideline
     version: "December 3, 2024 (posted 2025-03-23)"
-    url: "https://rheum.ca/resources-post/cra-position-statement-on-safety-of-hydroxychloroquine-in-the-treatment-of-rheumatic-diseases/"
+    url: "https://rheum.ca/resources-post/cra-position-statement-on-safety-of-hydroxychloroquine-in-the-treatment-of-rheumatic-diseases/#:~:text=Download%20Statement%20Canadian%2DRheumatology%2DAssociation%2DPosition%2DStatement%2Don%2Dthe%2DSafety%2Dof%2DHydroxychloroquine%2Din%2Dthe%2DTreatment%2Dof%2DRheumatic%2DDiseases"
     pdf: "https://rheum.ca/app/uploads/2026/07/FINAL-Canadian-Rheumatology-Association-Position-Statement-on-the-Safety-of-Hydroxychloroquine-in-the-Treatment-of-Rheumatic-Diseases_Dec.-3-2024_EN.pdf"
     checked: 2026-10-13
   - id: cra-hcq-oct-position
@@ -309,7 +309,7 @@ sources:
     jurisdiction: CA
     kind: guideline
     version: "December 1, 2025"
-    url: "https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-on-hydroxychloroquine-monitoring-guidance-for-optical-coherence-tomography/"
+    url: "https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-on-hydroxychloroquine-monitoring-guidance-for-optical-coherence-tomography/#:~:text=Download%20Statement%20Canadian%20Rheumatology%20Association%20Position%20Statement%20on"
     pdf: "https://rheum.ca/app/uploads/2026/07/CRA-Position-Statement-on-Hydroxychloroquine-Monitoring-Guidance-for-OCT.pdf"
     checked: 2026-10-13
   - id: cra-targeted-agents-access
@@ -318,7 +318,7 @@ sources:
     jurisdiction: CA
     kind: guideline
     version: "March 30, 2026"
-    url: "https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-on-criteria-for-access-to-targeted-agents-for-rheumatoid-arthritis-in-canada/"
+    url: "https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-on-criteria-for-access-to-targeted-agents-for-rheumatoid-arthritis-in-canada/#:~:text=Download%20Statement%20Criteria%20for%20Access%20to%20Targeted%20Agents"
     pdf: "https://rheum.ca/app/uploads/2026/07/Revisd-PS__Criteria-for-Access-to-Targeted-Agents-for-RA.pdf"
     checked: 2026-10-13
   - id: tfp-146-anti-ccp
@@ -399,7 +399,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version:
-    url: "https://rheuminfo.com/diseases/rheumatoid-arthritis/"
+    url: "https://rheuminfo.com/diseases/rheumatoid-arthritis/#:~:text=Rheumatoid%20Arthritis%20Quick%20Reference%20Guide"
     pdf: "https://rheuminfo.com/docs/diseases/pictos/Rheumatoid-Arthritis-Patient-Guide-RheumInfo_EN.pdf"
     checked: 2026-10-13
   - id: rheuminfo-medications
@@ -492,10 +492,10 @@ sources:
 	- [Patient Decision Aid: Should You Take Less Medicine? (PDF, July 2022)](https://rheum.ca/app/uploads/2026/07/RA_decisionaid_July-20-2022.pdf)
 
 ??? info "Canadian Rheumatology Association position statements"
-	- [Vaccinations in Patients with Rheumatic Diseases (2026)](https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-for-vaccinations-in-patients-with-rheumatic-diseases/) · [PDF](https://rheum.ca/app/uploads/2026/03/General-Vaccine-position-statement_FINALrev-ENG.pdf)
-	- [Criteria for Access to Targeted Agents for Rheumatoid Arthritis in Canada (2026)](https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-on-criteria-for-access-to-targeted-agents-for-rheumatoid-arthritis-in-canada/) · [PDF](https://rheum.ca/app/uploads/2026/07/Revisd-PS__Criteria-for-Access-to-Targeted-Agents-for-RA.pdf)
-	- [Hydroxychloroquine Monitoring Guidance for Optical Coherence Tomography (2025)](https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-on-hydroxychloroquine-monitoring-guidance-for-optical-coherence-tomography/) · [PDF](https://rheum.ca/app/uploads/2026/07/CRA-Position-Statement-on-Hydroxychloroquine-Monitoring-Guidance-for-OCT.pdf)
-	- [Safety of Hydroxychloroquine in the Treatment of Rheumatic Diseases (2024)](https://rheum.ca/resources-post/cra-position-statement-on-safety-of-hydroxychloroquine-in-the-treatment-of-rheumatic-diseases/) · [PDF](https://rheum.ca/app/uploads/2026/07/FINAL-Canadian-Rheumatology-Association-Position-Statement-on-the-Safety-of-Hydroxychloroquine-in-the-Treatment-of-Rheumatic-Diseases_Dec.-3-2024_EN.pdf)
+	- [Vaccinations in Patients with Rheumatic Diseases (2026)](https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-for-vaccinations-in-patients-with-rheumatic-diseases/#:~:text=Download%20Statement%20Canadian%20Rheumatology%20Association%20Position%20Statement%20on) · [PDF](https://rheum.ca/app/uploads/2026/03/General-Vaccine-position-statement_FINALrev-ENG.pdf)
+	- [Criteria for Access to Targeted Agents for Rheumatoid Arthritis in Canada (2026)](https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-on-criteria-for-access-to-targeted-agents-for-rheumatoid-arthritis-in-canada/#:~:text=Download%20Statement%20Criteria%20for%20Access%20to%20Targeted%20Agents) · [PDF](https://rheum.ca/app/uploads/2026/07/Revisd-PS__Criteria-for-Access-to-Targeted-Agents-for-RA.pdf)
+	- [Hydroxychloroquine Monitoring Guidance for Optical Coherence Tomography (2025)](https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-on-hydroxychloroquine-monitoring-guidance-for-optical-coherence-tomography/#:~:text=Download%20Statement%20Canadian%20Rheumatology%20Association%20Position%20Statement%20on) · [PDF](https://rheum.ca/app/uploads/2026/07/CRA-Position-Statement-on-Hydroxychloroquine-Monitoring-Guidance-for-OCT.pdf)
+	- [Safety of Hydroxychloroquine in the Treatment of Rheumatic Diseases (2024)](https://rheum.ca/resources-post/cra-position-statement-on-safety-of-hydroxychloroquine-in-the-treatment-of-rheumatic-diseases/#:~:text=Download%20Statement%20Canadian%2DRheumatology%2DAssociation%2DPosition%2DStatement%2Don%2Dthe%2DSafety%2Dof%2DHydroxychloroquine%2Din%2Dthe%2DTreatment%2Dof%2DRheumatic%2DDiseases) · [PDF](https://rheum.ca/app/uploads/2026/07/FINAL-Canadian-Rheumatology-Association-Position-Statement-on-the-Safety-of-Hydroxychloroquine-in-the-Treatment-of-Rheumatic-Diseases_Dec.-3-2024_EN.pdf)
 
 ??? info "Tools for Practice (CFPCLearn) evidence summaries"
 	- [#236 It's all in the details... or is it? Biosimilars versus biologics for inflammatory conditions (2019)](https://cfpclearn.ca/tfp236/)
@@ -517,7 +517,7 @@ sources:
 
 ## Prescribing
 
-- [BC Immunization Manual, Part 2: Immunosuppressive Therapy (BCCDC, September 2026)](https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization/immunization-of-special-populations) · [PDF](https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part2/ImmunosuppressiveTherapy.pdf)
+- [BC Immunization Manual, Part 2: Immunosuppressive Therapy (BCCDC, September 2026)](https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization/immunization-of-special-populations#:~:text=Specific%20immunocompromising%20conditions) · [PDF](https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part2/ImmunosuppressiveTherapy.pdf)
 - [RheumInfo - Biologics Safety Screening Tool (BSST)](https://rheuminfo.com/physician-tools/biologics-safety-screening-tool-bsst/)
 - [RheumInfo - Prednisone Tapering Calendar](https://rheuminfo.com/physician-tools/prednisone-tapering-calendar/)
 - [Choosing Wisely Canada - Rheumatology Recommendations (last updated May 2024)](https://choosingwiselycanada.org/recommendation/rheumatology/) — *includes RF and anti-CCP testing, ANA screening and drug toxicity monitoring labs*
@@ -549,12 +549,12 @@ sources:
 
 ## Patient Resources
 
-- [BC Guidelines: Rheumatoid Arthritis Patient Guide (BC GPAC, 2012)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/rheumatoid_arthritis_pg.pdf)
+- [BC Guidelines: Rheumatoid Arthritis Patient Guide (BC GPAC, 2012)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis#appendix) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/rheumatoid_arthritis_pg.pdf)
 - [HealthLink BC - Rheumatoid Arthritis](https://www.healthlinkbc.ca/healthwise/rheumatoid-arthritis)
 - [HealthLink BC - Arthritis: Managing Rheumatoid Arthritis](https://www.healthlinkbc.ca/healthwise/arthritis-managing-rheumatoid-arthritis)
 - [HealthLink BC - Exercise for Rheumatoid Arthritis](https://www.healthlinkbc.ca/healthwise/exercise-rheumatoid-arthritis)
 - [RheumInfo - Rheumatoid Arthritis](https://rheuminfo.com/diseases/rheumatoid-arthritis/)
-- [RheumInfo - Rheumatoid Arthritis Quick Reference Guide](https://rheuminfo.com/diseases/rheumatoid-arthritis/) · [PDF](https://rheuminfo.com/docs/diseases/pictos/Rheumatoid-Arthritis-Patient-Guide-RheumInfo_EN.pdf)
+- [RheumInfo - Rheumatoid Arthritis Quick Reference Guide](https://rheuminfo.com/diseases/rheumatoid-arthritis/#:~:text=Rheumatoid%20Arthritis%20Quick%20Reference%20Guide) · [PDF](https://rheuminfo.com/docs/diseases/pictos/Rheumatoid-Arthritis-Patient-Guide-RheumInfo_EN.pdf)
 - [RheumInfo - Medication Information](https://rheuminfo.com/medications/) — *drug information pages for DMARDs, biologics and steroids*
 - [Arthritis Society Canada - Rheumatoid Arthritis](https://arthritis.ca/about-arthritis/arthritis-types-(a-z)/types/rheumatoid-arthritis)
 - [Arthritis Research Canada - Arthritis Research Education Series](https://www.arthritisresearch.ca/education-series/) — *recorded patient talks*

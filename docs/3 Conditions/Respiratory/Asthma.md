@@ -24,7 +24,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2023"
-    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_a.pdf"
     checked: 2026-10-09
   - id: bc-gpac-asthma-adherence
@@ -33,7 +33,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2023"
-    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_b.pdf"
     checked: 2026-10-09
   - id: bc-gpac-asthma-medications
@@ -42,7 +42,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2023"
-    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_c.pdf"
     checked: 2026-10-09
   - id: bc-gpac-asthma-flowsheet-adult
@@ -51,7 +51,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version:
-    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma-adult-care-sheet.pdf"
     checked: 2026-10-09
   - id: bc-gpac-asthma-action-plan-adult
@@ -157,7 +157,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: Form 10063 (PHC-RE076), version 2021 Dec 1
-    url: "https://centreforlunghealth.ca/appointments/"
+    url: "https://centreforlunghealth.ca/appointments/#:~:text=referral%20form"
     pdf: "https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf"
     checked: 2026-10-09
   - id: race-connect
@@ -296,13 +296,13 @@ sources:
 - [MDCalc - Estimated/Expected Peak Expiratory Flow (Peak Flow)](https://www.mdcalc.com/calc/790/estimated-expected-peak-expiratory-flow-peak-flow) — *predicted peak flow by age, sex and height*
 - [MDCalc - Asthma Impairment and Risk Questionnaire (AIRQ)](https://www.mdcalc.com/calc/10495/asthma-impairment-risk-questionnaire-airq) — *asthma control and exacerbation risk*
 - [BC Inhalers (Fraser Health)](https://www.bcinhalers.ca/) — *inhaler guide for asthma and COPD: filter by PharmaCare coverage without Special Authority, carbon footprint and age, with device instructions*
-- [BC Guidelines: Asthma Appendix A - Getting Ready for Spirometry (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_a.pdf)
-- [Asthma Patient Care Flow Sheet: Adults 19 and Over (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma-adult-care-sheet.pdf)
+- [BC Guidelines: Asthma Appendix A - Getting Ready for Spirometry (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_a.pdf)
+- [Asthma Patient Care Flow Sheet: Adults 19 and Over (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma-adult-care-sheet.pdf)
 
 ## Prescribing
 
-- [BC Guidelines: Asthma Appendix C - Asthma Medication Table (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_c.pdf)
-- [BC Guidelines: Asthma Appendix B - Supporting Patients with Poor Medication Adherence (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_b.pdf)
+- [BC Guidelines: Asthma Appendix C - Asthma Medication Table (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_c.pdf)
+- [BC Guidelines: Asthma Appendix B - Supporting Patients with Poor Medication Adherence (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_b.pdf)
 - [RxFiles: Asthma](https://www.rxfiles.ca/rxfiles/uploads/documents/books/asthma.html) — *drug comparison chart, mild asthma comparison, devices and inhaler-specific action plans; some documents need an RxFiles subscription*
 
 ??? info "PharmaCare Special Authority: criteria and request forms"

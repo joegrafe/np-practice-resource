@@ -190,7 +190,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: Form 10063 (PHC-RE076), version 2021 Dec 1
-    url: "https://centreforlunghealth.ca/appointments/"
+    url: "https://centreforlunghealth.ca/appointments/#:~:text=referral%20form"
     pdf: "https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf"
     checked: 2026-10-09
   - id: bclung-copd-exercise-support
@@ -367,7 +367,7 @@ sources:
 ## Advice and Referral
 
 - [BC Guidelines: Indications for Referral](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#indications)
-- [Regional Respirology Referral Form (VCH/PHC, version 2021 Dec 1)](https://centreforlunghealth.ca/appointments/) · [PDF](https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf) — *includes the COPD clinic at the Centre for Lung Health*
+- [Regional Respirology Referral Form (VCH/PHC, version 2021 Dec 1)](https://centreforlunghealth.ca/appointments/#:~:text=referral%20form) · [PDF](https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf) — *includes the COPD clinic at the Centre for Lung Health*
 - [BC Lung Foundation: Exercise Support and Pulmonary Rehab Programs in BC](https://bclung.ca/lung-health/copd/exercise-support/)
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
 

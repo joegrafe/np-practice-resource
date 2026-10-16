@@ -192,7 +192,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version: May 2026
-    url: "https://www.caddra.ca/resources/medication-chart/"
+    url: "https://www.caddra.ca/resources/medication-chart/#:~:text=CADDRA%20Canadian%20ADHD%20medication%20chart"
     pdf: "https://www.caddra.ca/wp-content/uploads/CADDRA_ADHD-Medication-Chart_EN_FINAL.pdf"
     checked: 2026-10-09
   - id: caddra-etoolkit-forms
@@ -209,7 +209,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://www.caddra.ca/etoolkit-forms/"
+    url: "https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20ADHD%20Assessment%20Form"
     pdf: "https://www.caddra.ca/wp-content/uploads/CADDRA-ASSESSMENT-Form.pdf"
     checked: 2026-10-09
   - id: caddra-teacher-assessment-form
@@ -218,7 +218,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://www.caddra.ca/etoolkit-forms/"
+    url: "https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20Teacher%20Assessment%20Form"
     pdf: "https://www.caddra.ca/wp-content/uploads/CADDRA-Teacher-Assessment-Form.pdf"
     checked: 2026-10-09
   - id: caddra-snap-iv-26
@@ -227,7 +227,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://www.caddra.ca/etoolkit-forms/"
+    url: "https://www.caddra.ca/etoolkit-forms/#:~:text=SNAP%2DIV%2D26%20Teacher%20and%20Parent%20Rating%20Scale%20%28SNAP%29"
     pdf: "https://www.caddra.ca/wp-content/uploads/SNAP-IV-26_July-11-2022.pdf"
     checked: 2026-10-09
   - id: caddra-wfirs-p
@@ -236,7 +236,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://www.caddra.ca/etoolkit-forms/"
+    url: "https://www.caddra.ca/etoolkit-forms/#:~:text=Weiss%20Functional%20Impairment%20Rating%20Scale%20%E2%80%93%20Parent%20%28WFIRS%2DP%29"
     pdf: "https://www.caddra.ca/wp-content/uploads/WFIRS-P.pdf"
     checked: 2026-10-09
   - id: caddra-wsr-ii
@@ -245,7 +245,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://www.caddra.ca/etoolkit-forms/"
+    url: "https://www.caddra.ca/etoolkit-forms/#:~:text=Weiss%20Symptom%20Record%20II%20%28WSR%20II%29"
     pdf: "https://www.caddra.ca/wp-content/uploads/WSR-II_July-11-2022.pdf"
     checked: 2026-10-09
   - id: caddra-clinician-form
@@ -254,7 +254,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://www.caddra.ca/etoolkit-forms/"
+    url: "https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20Clinician%20ADHD%20Baseline%2FFollow%2DUp%20Form"
     pdf: "https://www.caddra.ca/wp-content/uploads/CADDRA-Clinician-Form.pdf"
     checked: 2026-10-09
   - id: caddra-patient-medication-form
@@ -263,7 +263,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://www.caddra.ca/etoolkit-forms/"
+    url: "https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20Patient%20ADHD%20Medication%20Form"
     pdf: "https://www.caddra.ca/wp-content/uploads/CADDRA-Patient-ADHD-Medication-Form.pdf"
     checked: 2026-10-09
   - id: caddra-transition-form
@@ -272,7 +272,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://www.caddra.ca/etoolkit-forms/"
+    url: "https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20ADHD%20Patient%20Transition%20Form"
     pdf: "https://www.caddra.ca/wp-content/uploads/CADDRA-Patient-Transition-Form.pdf"
     checked: 2026-10-09
   - id: cps-adhd-part1-2018
@@ -321,7 +321,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://cps.ca/en/tools-outils/adhd"
+    url: "https://cps.ca/en/tools-outils/adhd#:~:text=School%20Questionnaire%20%286%20to%2018%20years%29"
     pdf: "https://cps.ca/uploads/tools/school-questionnaire-6-18years-CWSP.pdf"
     checked: 2026-10-09
   - id: cps-preschool-questionnaire
@@ -330,7 +330,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://cps.ca/en/tools-outils/adhd"
+    url: "https://cps.ca/en/tools-outils/adhd#:~:text=Preschool%2FKindergarten%20Questionnaire"
     pdf: "https://cps.ca/uploads/tools/preschool-kindergarten-questionnaire-CWSP.pdf"
     checked: 2026-10-09
   - id: cps-mental-health-screening-tools
@@ -363,7 +363,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version:
-    url: "https://www.caddra.ca/etoolkit-forms/"
+    url: "https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20ADHD%20Information%20and%20Resources%20Handout"
     pdf: "https://www.caddra.ca/wp-content/uploads/CADDRA-ADHD-information-resources-handout.pdf"
     checked: 2026-10-09
   - id: caddra-psychosocial-chart
@@ -372,7 +372,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version: October 2016
-    url: "https://www.caddra.ca/resources/psychosocial-chart/"
+    url: "https://www.caddra.ca/resources/psychosocial-chart/#:~:text=psychosocial%20chart"
     pdf: "https://caddra.ca/pdfs/Psychosocial_October2016.pdf"
     checked: 2026-10-09
   - id: caringforkids-adhd-medications
@@ -435,20 +435,20 @@ sources:
 
 ## Assessment Tools and Calculators
 
-- [CADDRA ADHD Assessment Form](https://www.caddra.ca/etoolkit-forms/) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-ASSESSMENT-Form.pdf) — *structured history and assessment*
-- [CADDRA Teacher Assessment Form](https://www.caddra.ca/etoolkit-forms/) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-Teacher-Assessment-Form.pdf)
-- [SNAP-IV-26 Teacher and Parent Rating Scale (CADDRA)](https://www.caddra.ca/etoolkit-forms/) · [PDF](https://www.caddra.ca/wp-content/uploads/SNAP-IV-26_July-11-2022.pdf) — *ADHD symptom rating by parent or teacher*
-- [Weiss Functional Impairment Rating Scale - Parent Report, WFIRS-P (CADDRA)](https://www.caddra.ca/etoolkit-forms/) · [PDF](https://www.caddra.ca/wp-content/uploads/WFIRS-P.pdf) — *functional impairment*
-- [Weiss Symptom Record II, WSR II (CADDRA)](https://www.caddra.ca/etoolkit-forms/) · [PDF](https://www.caddra.ca/wp-content/uploads/WSR-II_July-11-2022.pdf) — *ADHD and comorbid symptoms*
-- [CADDRA Clinician ADHD Baseline/Follow-Up Form](https://www.caddra.ca/etoolkit-forms/) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-Clinician-Form.pdf)
-- [CPS School Questionnaire, 6 to 18 Years](https://cps.ca/en/tools-outils/adhd) · [PDF](https://cps.ca/uploads/tools/school-questionnaire-6-18years-CWSP.pdf)
-- [CPS Preschool/Kindergarten Questionnaire](https://cps.ca/en/tools-outils/adhd) · [PDF](https://cps.ca/uploads/tools/preschool-kindergarten-questionnaire-CWSP.pdf)
+- [CADDRA ADHD Assessment Form](https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20ADHD%20Assessment%20Form) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-ASSESSMENT-Form.pdf) — *structured history and assessment*
+- [CADDRA Teacher Assessment Form](https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20Teacher%20Assessment%20Form) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-Teacher-Assessment-Form.pdf)
+- [SNAP-IV-26 Teacher and Parent Rating Scale (CADDRA)](https://www.caddra.ca/etoolkit-forms/#:~:text=SNAP%2DIV%2D26%20Teacher%20and%20Parent%20Rating%20Scale%20%28SNAP%29) · [PDF](https://www.caddra.ca/wp-content/uploads/SNAP-IV-26_July-11-2022.pdf) — *ADHD symptom rating by parent or teacher*
+- [Weiss Functional Impairment Rating Scale - Parent Report, WFIRS-P (CADDRA)](https://www.caddra.ca/etoolkit-forms/#:~:text=Weiss%20Functional%20Impairment%20Rating%20Scale%20%E2%80%93%20Parent%20%28WFIRS%2DP%29) · [PDF](https://www.caddra.ca/wp-content/uploads/WFIRS-P.pdf) — *functional impairment*
+- [Weiss Symptom Record II, WSR II (CADDRA)](https://www.caddra.ca/etoolkit-forms/#:~:text=Weiss%20Symptom%20Record%20II%20%28WSR%20II%29) · [PDF](https://www.caddra.ca/wp-content/uploads/WSR-II_July-11-2022.pdf) — *ADHD and comorbid symptoms*
+- [CADDRA Clinician ADHD Baseline/Follow-Up Form](https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20Clinician%20ADHD%20Baseline%2FFollow%2DUp%20Form) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-Clinician-Form.pdf)
+- [CPS School Questionnaire, 6 to 18 Years](https://cps.ca/en/tools-outils/adhd#:~:text=School%20Questionnaire%20%286%20to%2018%20years%29) · [PDF](https://cps.ca/uploads/tools/school-questionnaire-6-18years-CWSP.pdf)
+- [CPS Preschool/Kindergarten Questionnaire](https://cps.ca/en/tools-outils/adhd#:~:text=Preschool%2FKindergarten%20Questionnaire) · [PDF](https://cps.ca/uploads/tools/preschool-kindergarten-questionnaire-CWSP.pdf)
 - [CPS Mental Health: Screening Tools and Rating Scales](https://cps.ca/en/mental-health-screening-tools) — *catalogue of pediatric rating scales, including ADHD scales*
 
 ## Prescribing
 
-- [CADDRA Guide to ADHD Pharmacological Treatments in Canada (May 2026)](https://www.caddra.ca/resources/medication-chart/) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA_ADHD-Medication-Chart_EN_FINAL.pdf)
-- [CADDRA Patient ADHD Medication Form](https://www.caddra.ca/etoolkit-forms/) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-Patient-ADHD-Medication-Form.pdf) — *for tracking medication response and side effects*
+- [CADDRA Guide to ADHD Pharmacological Treatments in Canada (May 2026)](https://www.caddra.ca/resources/medication-chart/#:~:text=CADDRA%20Canadian%20ADHD%20medication%20chart) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA_ADHD-Medication-Chart_EN_FINAL.pdf)
+- [CADDRA Patient ADHD Medication Form](https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20Patient%20ADHD%20Medication%20Form) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-Patient-ADHD-Medication-Form.pdf) — *for tracking medication response and side effects*
 - [RxFiles: ADHD](https://www.rxfiles.ca/rxfiles/uploads/documents/books/adhd.html) — *drug comparison chart and newsletter for children, adolescents and adults; some documents need an RxFiles subscription*
 
 ??? info "PharmaCare Special Authority: criteria and request forms"
@@ -468,7 +468,7 @@ sources:
     - [Outpatient Psychiatry Programs Referral Form (revised April 2025, PDF)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2025-07/outpatient-psychiatry-programs-referral-form.pdf)
 - [BC Children's Hospital: Mental Health and Substance Use Outpatient Services](https://www.bcchildrens.ca/clinics-services/mental-health-and-substance-use-outpatient-services)
 - [Child and Youth Mental Health Intake Clinics (Government of BC)](https://www2.gov.bc.ca/gov/content/health/managing-your-health/mental-health-substance-use/child-teen-mental-health/mental-health-intake-clinics) — *community child and youth mental health intake across BC*
-- [CADDRA ADHD Patient Transition Form](https://www.caddra.ca/etoolkit-forms/) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-Patient-Transition-Form.pdf) — *for transfer of care, e.g. youth to adult services*
+- [CADDRA ADHD Patient Transition Form](https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20ADHD%20Patient%20Transition%20Form) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-Patient-Transition-Form.pdf) — *for transfer of care, e.g. youth to adult services*
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
 
 ## Patient Resources
@@ -485,8 +485,8 @@ sources:
 - [Caring for Kids (CPS) - Non-prescription Interventions for ADHD](https://caringforkids.cps.ca/handouts/behavior-and-development/non-prescription-interventions-for-attention-deficit-hyperactivity-disorder)
 - [AboutKidsHealth (SickKids) - ADHD Learning Hub](https://www.aboutkidshealth.ca/adhd)
 - [CADDAC - About ADHD: Ages 7-17](https://caddac.ca/about-adhd/ages-7-17-yrs/)
-- [CADDRA ADHD Information and Resources Handout](https://www.caddra.ca/etoolkit-forms/) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-ADHD-information-resources-handout.pdf)
-- [CADDRA Psychosocial Chart (October 2016)](https://www.caddra.ca/resources/psychosocial-chart/) · [PDF](https://caddra.ca/pdfs/Psychosocial_October2016.pdf) — *psychoeducation and practical strategies*
+- [CADDRA ADHD Information and Resources Handout](https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20ADHD%20Information%20and%20Resources%20Handout) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-ADHD-information-resources-handout.pdf)
+- [CADDRA Psychosocial Chart (October 2016)](https://www.caddra.ca/resources/psychosocial-chart/#:~:text=psychosocial%20chart) · [PDF](https://caddra.ca/pdfs/Psychosocial_October2016.pdf) — *psychoeducation and practical strategies*
 
 ## Evidence Pack
 
