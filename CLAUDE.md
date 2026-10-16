@@ -8,6 +8,7 @@ Before any NPPR build step, read NPPR-FRAMEWORK.md at the root of this vault. It
 - For approaches and condition pages, AAFP (aafp.org) is the first international source, free articles only. Don't link Specialist Link's Calgary pathway when Alberta's Pathway Hub (primarycarealberta.ca) has a pathway for the same condition.
 - Before researching any page, check every site in the Source map table in NPPR-FRAMEWORK.md: the All topics row plus the row for that page's system or population.
 - Link to each publisher's own PDF only. Do not host or copy third-party documents.
+- On condition pages, an entry's main link is the publisher's web page for the document, with its PDF on the same line, as on the approach pages: `- [Title (year)](web page) · [PDF](pdf link) — *note*`. Link the PDF alone only when no publisher page links to it. In frontmatter, record the web page as `url` and the PDF as `pdf`.
 - No clinical recommendations in our own words: link to the source guidance instead.
 - One current version of each source per page. When a guideline is replaced, swap the link and record the old version only in that source's `supersedes` field; superseded versions never appear in the page body.
 - One entry per guideline. Put its PDF, appendices and algorithm as sub-links under that entry, not as separate bullets, and don't link the same document from more than one section of a page.

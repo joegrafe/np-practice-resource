@@ -24,6 +24,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2024"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_a.pdf"
     checked: 2026-10-09
   - id: bc-gpac-copd-medications
@@ -32,6 +33,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2024"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_b.pdf"
     checked: 2026-10-09
   - id: bc-gpac-copd-home-oxygen
@@ -40,6 +42,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2024"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_c.pdf"
     checked: 2026-10-09
   - id: bc-gpac-copd-flowsheet
@@ -48,6 +51,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: Rev. 2024/01/15
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/forms/6003fil.pdf"
     checked: 2026-10-09
   - id: bc-gpac-copd-flare-up-action-plan
@@ -56,6 +60,7 @@ sources:
     jurisdiction: BC
     kind: patient
     version:
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd-flare-upactionplan.pdf"
     checked: 2026-10-09
   - id: bc-gpac-copd-climate-handout
@@ -64,6 +69,7 @@ sources:
     jurisdiction: BC
     kind: patient
     version:
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd-patienthandout-climateevents.pdf"
     checked: 2026-10-09
   - id: bcinhalers
@@ -184,6 +190,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: Form 10063 (PHC-RE076), version 2021 Dec 1
+    url: "https://centreforlunghealth.ca/appointments/"
     pdf: "https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf"
     checked: 2026-10-09
   - id: bclung-copd-exercise-support
@@ -331,14 +338,14 @@ sources:
 - [MDCalc - COPD Assessment Test (CAT)](https://www.mdcalc.com/calc/10161/copd-assessment-test-cat) — *symptom burden*
 - [MDCalc - mMRC Dyspnea Scale](https://www.mdcalc.com/calc/4006/mmrc-modified-medical-research-council-dyspnea-scale) — *breathlessness grade*
 - [MDCalc - BODE Index for COPD Survival](https://www.mdcalc.com/calc/3916/bode-index-copd-survival) — *prognosis*
-- [BC Guidelines: COPD Appendix A - COPD Severity Assessment Scales (BC GPAC, 2024)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_a.pdf)
-- [COPD Patient Care Flow Sheet (HLTH 6003, rev. 2024/01/15, PDF)](https://www2.gov.bc.ca/assets/gov/health/forms/6003fil.pdf)
-- [BC Guidelines: COPD Appendix C - BC Home Oxygen Program Medical Eligibility (BC GPAC, 2024)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_c.pdf)
+- [BC Guidelines: COPD Appendix A - COPD Severity Assessment Scales (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_a.pdf)
+- [COPD Patient Care Flow Sheet (HLTH 6003, rev. 2024/01/15)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/forms/6003fil.pdf)
+- [BC Guidelines: COPD Appendix C - BC Home Oxygen Program Medical Eligibility (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_c.pdf)
 - [BC Inhalers (Fraser Health)](https://www.bcinhalers.ca/) — *inhaler guide for asthma and COPD: filter by PharmaCare coverage without Special Authority, carbon footprint and age, with device instructions*
 
 ## Prescribing
 
-- [BC Guidelines: COPD Appendix B - COPD Medication Table (BC GPAC, 2024)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_b.pdf)
+- [BC Guidelines: COPD Appendix B - COPD Medication Table (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_b.pdf)
 - [PharmaCare Smoking Cessation Program: Information for Health Professionals (last updated September 9, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/pharmacies/smoking-cessation-program-for-health-professionals)
 - [RxFiles: COPD](https://www.rxfiles.ca/rxfiles/uploads/documents/books/copd.html) — *drug comparison chart, newsletter and inhaler technique tools; some documents need an RxFiles subscription*
 
@@ -360,14 +367,14 @@ sources:
 ## Advice and Referral
 
 - [BC Guidelines: Indications for Referral](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#indications)
-- [Regional Respirology Referral Form (VCH/PHC, version 2021 Dec 1, PDF)](https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf) — *includes the COPD clinic at the Centre for Lung Health*
+- [Regional Respirology Referral Form (VCH/PHC, version 2021 Dec 1)](https://centreforlunghealth.ca/appointments/) · [PDF](https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf) — *includes the COPD clinic at the Centre for Lung Health*
 - [BC Lung Foundation: Exercise Support and Pulmonary Rehab Programs in BC](https://bclung.ca/lung-health/copd/exercise-support/)
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
 
 ## Patient Resources
 
-- [COPD Flare-Up Action Plan (BC GPAC, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd-flare-upactionplan.pdf)
-- [Patient Handout: Climate Events and COPD Exacerbations (BC GPAC, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd-patienthandout-climateevents.pdf)
+- [COPD Flare-Up Action Plan (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd-flare-upactionplan.pdf)
+- [Patient Handout: Climate Events and COPD Exacerbations (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd-patienthandout-climateevents.pdf)
 - [HealthLink BC - Chronic Obstructive Pulmonary Disease (COPD)](https://www.healthlinkbc.ca/health-library/illnesses-and-conditions/copd)
 - [BC Lung Foundation - COPD](https://bclung.ca/lung-health/copd/) — *support groups, self-care videos and exercise support*
 - [Canadian Lung Association - COPD](https://www.lung.ca/lung-diseases/copd/)
