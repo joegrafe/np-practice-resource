@@ -32,6 +32,7 @@ sources:
     jurisdiction: BC
     kind: algorithm
     version: "2020"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-a.pdf"
     checked: 2026-10-09
   - id: bc-gpac-htn-measurement
@@ -40,6 +41,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2020"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-b.pdf"
     checked: 2026-10-09
   - id: bc-gpac-htn-secondary-causes
@@ -48,6 +50,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2020"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-c.pdf"
     checked: 2026-10-09
   - id: bc-gpac-htn-drugs
@@ -56,6 +59,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2020"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-d.pdf"
     checked: 2026-10-09
   - id: bc-gpac-htn-quality-indicators
@@ -64,6 +68,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2020"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-e.pdf"
     checked: 2026-10-09
   - id: bc-gpac-cvd-framingham
@@ -72,6 +77,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2021"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixb_dec2021.pdf"
     checked: 2026-10-09
   - id: bc-pharmacare-rdp
@@ -208,6 +214,7 @@ sources:
     jurisdiction: BC
     kind: patient
     version: "2020"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-patient-guide-diagnosis.pdf"
     checked: 2026-10-09
   - id: healthlinkbc-high-blood-pressure
@@ -265,6 +272,7 @@ sources:
     jurisdiction: CA
     kind: algorithm
     version: March 18, 2026
+    url: "https://hypertension.ca/download-educational-resources"
     pdf: "https://hypertension.ca/wp-content/uploads/2026/06/1.-Clinician-pocket-card_March-18-2026.pdf"
     checked: 2026-10-09
   - id: htn-canada-measurement-poster
@@ -273,6 +281,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version: Feb 19, 2026
+    url: "https://hypertension.ca/download-educational-resources"
     pdf: "https://hypertension.ca/wp-content/uploads/2026/06/4.-Poster_Blood-pressure-measurement-poster-Feb-19-2026.pdf"
     checked: 2026-10-09
   - id: htn-canada-recommended-devices
@@ -297,6 +306,7 @@ sources:
     jurisdiction: CA
     kind: algorithm
     version: "2012"
+    url: "https://canadiantaskforce.ca/tools-resources/hypertension/hypertension-clinician-algorithm/"
     pdf: "https://canadiantaskforce.ca/wp-content/uploads/2016/05/2012-hypertension-clinician-algorithm-en.pdf"
     checked: 2026-10-09
   - id: ctfphc-hypertension-summary
@@ -385,6 +395,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version: "2025"
+    url: "https://hypertension.ca/public/download-educational-resources"
     pdf: "https://hypertension.ca/wp-content/uploads/2025/11/241770-guide-at-4.pdf"
     checked: 2026-10-09
   - id: htn-canada-public-pocket-card
@@ -393,6 +404,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version: Feb 19, 2026
+    url: "https://hypertension.ca/public/download-educational-resources"
     pdf: "https://hypertension.ca/wp-content/uploads/2026/06/2.-Patient-pocket-card-Feb-19-2026.pdf"
     checked: 2026-10-09
   - id: htn-canada-brochure
@@ -401,6 +413,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version: "2026"
+    url: "https://hypertension.ca/public/download-educational-resources"
     pdf: "https://hypertension.ca/wp-content/uploads/2026/06/3.-Brochure-Understanding-and-Managing-Your-Blood-Pressure.pdf"
     checked: 2026-10-09
   - id: htn-canada-bp-log
@@ -409,6 +422,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version: March 16, 2026
+    url: "https://hypertension.ca/public/download-educational-resources"
     pdf: "https://hypertension.ca/wp-content/uploads/2026/06/5.-March-16-Fillable-logbook.pdf"
     checked: 2026-10-09
   - id: htn-canada-recommended-devices-public
@@ -529,26 +543,35 @@ sources:
 
 ## Algorithms and Pathways
 
-- [BC Guidelines: Appendix A - Diagnosis and Management of Hypertension Algorithm (BC GPAC, 2020)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-a.pdf)
-- [Hypertension Canada Clinician Pocket Card: Diagnostic Algorithm (PDF, March 18, 2026)](https://hypertension.ca/wp-content/uploads/2026/06/1.-Clinician-pocket-card_March-18-2026.pdf)
-- [Canadian Task Force: Hypertension Clinician Algorithm (2012, PDF)](https://canadiantaskforce.ca/wp-content/uploads/2016/05/2012-hypertension-clinician-algorithm-en.pdf) — *screening*
+- [BC Guidelines: Appendix A - Diagnosis and Management of Hypertension Algorithm (BC GPAC, 2020)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices)
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-a.pdf)
+- [Hypertension Canada Clinician Pocket Card: Diagnostic Algorithm (March 18, 2026)](https://hypertension.ca/download-educational-resources)
+    - [PDF download](https://hypertension.ca/wp-content/uploads/2026/06/1.-Clinician-pocket-card_March-18-2026.pdf)
+- [Canadian Task Force: Hypertension Clinician Algorithm (2012)](https://canadiantaskforce.ca/tools-resources/hypertension/hypertension-clinician-algorithm/) — *screening*
+    - [PDF download](https://canadiantaskforce.ca/wp-content/uploads/2016/05/2012-hypertension-clinician-algorithm-en.pdf)
 - [Alberta's Pathway Hub: Hypertension Refractory to Treatment with 4 or More Antihypertensive Agents (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/526/referral) — *Alberta nephrology referral guideline last updated September 11, 2026; choose "All" when the hub asks for an area*
 
 ## Assessment Tools and Calculators
 
-- [BC Guidelines: Appendix B - Recommended Methods and Techniques for Measuring Blood Pressure (BC GPAC, 2020)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-b.pdf)
-- [Hypertension Canada: Blood Pressure Measurement Poster (PDF, Feb 19, 2026)](https://hypertension.ca/wp-content/uploads/2026/06/4.-Poster_Blood-pressure-measurement-poster-Feb-19-2026.pdf)
+- [BC Guidelines: Appendix B - Recommended Methods and Techniques for Measuring Blood Pressure (BC GPAC, 2020)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices)
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-b.pdf)
+- [Hypertension Canada: Blood Pressure Measurement Poster (Feb 19, 2026)](https://hypertension.ca/download-educational-resources)
+    - [PDF download](https://hypertension.ca/wp-content/uploads/2026/06/4.-Poster_Blood-pressure-measurement-poster-Feb-19-2026.pdf)
 - [Hypertension Canada: Recommended Devices](https://hypertension.ca/healthcare-professionals/recommended-devices) — *validated blood pressure monitors*
-- [BC Guidelines: Appendix C - Examples of Secondary Causes of Hypertension (BC GPAC, 2020)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-c.pdf)
-- [BC Guidelines: CVD Primary Prevention Appendix B - Framingham 10-year Risk Estimation (BC GPAC, 2021)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixb_dec2021.pdf)
+- [BC Guidelines: Appendix C - Examples of Secondary Causes of Hypertension (BC GPAC, 2020)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices)
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-c.pdf)
+- [BC Guidelines: CVD Primary Prevention Appendix B - Framingham 10-year Risk Estimation (BC GPAC, 2021)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease)
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixb_dec2021.pdf)
 - [MDCalc - Framingham Risk Score for Hard Coronary Heart Disease](https://www.mdcalc.com/calc/38/framingham-risk-score-hard-coronary-heart-disease)
 - [MDCalc - CKD-EPI Equations for Glomerular Filtration Rate (GFR)](https://www.mdcalc.com/calc/3939/ckd-epi-equations-glomerular-filtration-rate-gfr)
 - [EyeGuru - Hypertensive Retinopathy](https://eyeguru.org/videos/retina/hypertensive-retinopathy/)
-- [BC Guidelines: Appendix E - Hypertension Quality Indicators (BC GPAC, 2020)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-e.pdf)
+- [BC Guidelines: Appendix E - Hypertension Quality Indicators (BC GPAC, 2020)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices)
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-e.pdf)
 
 ## Prescribing
 
-- [BC Guidelines: Appendix D - Commonly Used Antihypertensive Drugs (BC GPAC, 2020)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-d.pdf)
+- [BC Guidelines: Appendix D - Commonly Used Antihypertensive Drugs (BC GPAC, 2020)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices)
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-d.pdf)
 - [RxFiles Drug Comparison Charts](https://www.rxfiles.ca/rxfiles/uploads/documents/books/charts.html) — *hypertension charts (overview, ACE inhibitors and ARBs, beta-blockers, CCBs, diuretics) need an RxFiles subscription*
 - [Choosing Wisely Canada - Nephrology Recommendations (last updated November 2025)](https://choosingwiselycanada.org/recommendation/nephrology/) — *includes NSAIDs in hypertension and ACE inhibitor plus ARB combinations*
 - [PharmaCare Reference Drug Program (last updated July 27, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/reference-drug-program) — *ACE inhibitors, ARBs and dihydropyridine CCBs*
@@ -578,15 +601,20 @@ sources:
 
 ## Patient Resources
 
-- [BC Guidelines: A Guide for Patients - Diagnosis and Management of Hypertension (BC GPAC, 2020, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-patient-guide-diagnosis.pdf)
+- [BC Guidelines: A Guide for Patients - Diagnosis and Management of Hypertension (BC GPAC, 2020)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices)
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-patient-guide-diagnosis.pdf)
 - [HealthLink BC - High Blood Pressure](https://www.healthlinkbc.ca/healthwise/high-blood-pressure)
 - [HealthLink BC - High Blood Pressure: Checking Your Blood Pressure at Home](https://www.healthlinkbc.ca/healthwise/high-blood-pressure-checking-your-blood-pressure-home)
 - [HealthLinkBC File: Healthy Eating to Lower High Blood Pressure (last updated June 3, 2026)](https://www.healthlinkbc.ca/healthlinkbc-files/healthy-eating-lower-high-blood-pressure)
 - [HealthLink BC - High Blood Pressure: Using the DASH Diet](https://www.healthlinkbc.ca/healthwise/high-blood-pressure-using-dash-diet)
-- [Hypertension Canada - Patient/Public Guideline (2025, PDF)](https://hypertension.ca/wp-content/uploads/2025/11/241770-guide-at-4.pdf)
-- [Hypertension Canada - Checking Your Blood Pressure and Keeping It Healthy (pocket card, PDF)](https://hypertension.ca/wp-content/uploads/2026/06/2.-Patient-pocket-card-Feb-19-2026.pdf)
-- [Hypertension Canada - Understanding and Managing Your Blood Pressure (brochure, PDF)](https://hypertension.ca/wp-content/uploads/2026/06/3.-Brochure-Understanding-and-Managing-Your-Blood-Pressure.pdf)
-- [Hypertension Canada - Home Blood Pressure Log (fillable PDF)](https://hypertension.ca/wp-content/uploads/2026/06/5.-March-16-Fillable-logbook.pdf)
+- [Hypertension Canada - Patient/Public Guideline (2025)](https://hypertension.ca/public/download-educational-resources)
+    - [PDF download](https://hypertension.ca/wp-content/uploads/2025/11/241770-guide-at-4.pdf)
+- [Hypertension Canada - Checking Your Blood Pressure and Keeping It Healthy (pocket card)](https://hypertension.ca/public/download-educational-resources)
+    - [PDF download](https://hypertension.ca/wp-content/uploads/2026/06/2.-Patient-pocket-card-Feb-19-2026.pdf)
+- [Hypertension Canada - Understanding and Managing Your Blood Pressure (brochure)](https://hypertension.ca/public/download-educational-resources)
+    - [PDF download](https://hypertension.ca/wp-content/uploads/2026/06/3.-Brochure-Understanding-and-Managing-Your-Blood-Pressure.pdf)
+- [Hypertension Canada - Home Blood Pressure Log](https://hypertension.ca/public/download-educational-resources)
+    - [Fillable PDF download](https://hypertension.ca/wp-content/uploads/2026/06/5.-March-16-Fillable-logbook.pdf)
 - [Hypertension Canada - Recommended Devices for Home Use](https://hypertension.ca/public/recommended-devices)
 - [Heart and Stroke Foundation - High Blood Pressure](https://www.heartandstroke.ca/heart-disease/risk-and-prevention/condition-risk-factors/high-blood-pressure)
 - [Heart and Stroke Foundation - DASH Diet](https://www.heartandstroke.ca/healthy-living/healthy-eating/dash-diet)

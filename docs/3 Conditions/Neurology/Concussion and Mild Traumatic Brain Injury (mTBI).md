@@ -24,6 +24,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2024, updated December 2024"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-a.pdf"
     checked: 2026-10-09
   - id: bc-gpac-concussion-return-to-school
@@ -32,6 +33,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2024, updated December 2024"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-b.pdf"
     checked: 2026-10-09
   - id: bc-gpac-concussion-return-to-work
@@ -40,6 +42,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2024"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-c.pdf"
     checked: 2026-10-09
   - id: bc-gpac-concussion-patient-handout
@@ -48,6 +51,7 @@ sources:
     jurisdiction: BC
     kind: patient
     version: "2024"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-d.pdf"
     checked: 2026-10-09
   - id: bc-gpac-concussion-screening-tools
@@ -56,6 +60,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2024"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-e.pdf"
     checked: 2026-10-09
   - id: gf-strong-accc-referral-form
@@ -64,6 +69,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: Modified 2015-11-23
+    url: "https://www.vch.ca/en/service/adolescent-complex-concussion-clinic-accc-outpatient-services"
     pdf: "https://teenconcussion.vch.ca/assets/resources/Documents/GFS-ACCC-Referral-Form.pdf"
     checked: 2026-10-09
   - id: fraser-health-concussion-services
@@ -444,9 +450,12 @@ sources:
 
 - [BC Guidelines: Figure 1 - Concussion Diagnostic/Management Algorithm (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi#figure1)
 - [BC Guidelines: Figure 2 - General Return to Activity Protocol (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi#figure2)
-- [BC Guidelines: Appendix A - Return to Sport Protocol (BC GPAC, updated December 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-a.pdf)
-- [BC Guidelines: Appendix B - Return to School Protocol (BC GPAC, updated December 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-b.pdf)
-- [BC Guidelines: Appendix C - Return to Work Protocol (BC GPAC, 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-c.pdf)
+- [BC Guidelines: Appendix A - Return to Sport Protocol (BC GPAC, updated December 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi)
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-a.pdf)
+- [BC Guidelines: Appendix B - Return to School Protocol (BC GPAC, updated December 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi)
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-b.pdf)
+- [BC Guidelines: Appendix C - Return to Work Protocol (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi)
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-c.pdf)
 - [Alberta's Pathway Hub: Acute Concussion (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/13/clinical) — *0 to 12 weeks after injury; referral guideline last updated January 23, 2025; choose "All" when the hub asks for an area*
 - [Alberta's Pathway Hub: Persisting Post-Concussion Symptoms (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/316/clinical) — *more than 12 weeks after injury; referral guideline last updated January 1, 2025*
 
@@ -463,7 +472,8 @@ sources:
 - [VOMS Scorecard and Instructions (Mucha et al., shared by ImPACT on Box)](https://impacttest.app.box.com/s/qo0cvhbqbavl8ya75mznx3299pqhxv2p) — *international; the VOMS form linked from the Living Concussion Guidelines*
 - [Physiopedia - Vestibular Oculomotor Motor Screening (VOMS) Assessment](<https://www.physio-pedia.com/Vestibular_Oculomotor_Motor_Screening_(VOMS)_Assessment>) — *international; how to perform and score the VOMS*
 - [Pedsconcussion.com: Visio-Vestibular Examination (demonstration video)](https://pedsconcussion.com/vve/) — *pediatric vestibular and oculomotor exam*
-- [BC Guidelines: Appendix E - Screening Tools for Persisting Concussion Symptoms (BC GPAC, 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-e.pdf) — *pediatric and adult screening tools*
+- [BC Guidelines: Appendix E - Screening Tools for Persisting Concussion Symptoms (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi) — *pediatric and adult screening tools*
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-e.pdf)
 
 ## Prescribing
 
@@ -472,13 +482,15 @@ sources:
 ## Advice and Referral
 
 - [BC Guidelines: Practitioner Resources](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi#practitioner) — *BC concussion clinics and services, return-to-activity letters and WorkSafeBC advice*
-- [G.F. Strong Adolescent Complex Concussion Clinic Referral Form (VCH, PDF)](https://teenconcussion.vch.ca/assets/resources/Documents/GFS-ACCC-Referral-Form.pdf)
+- [G.F. Strong Adolescent Complex Concussion Clinic Referral Form (VCH)](https://www.vch.ca/en/service/adolescent-complex-concussion-clinic-accc-outpatient-services)
+    - [PDF download](https://teenconcussion.vch.ca/assets/resources/Documents/GFS-ACCC-Referral-Form.pdf)
 - [Fraser Health Concussion Services](https://www.fraserhealth.ca/Service-Directory/Services/Clinics/concussion-services)
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists, including WorkSafeBC occupational medicine*
 
 ## Patient Resources
 
-- [BC Guidelines: Appendix D - Patient Handout (BC GPAC, 2024, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-d.pdf)
+- [BC Guidelines: Appendix D - Patient Handout (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi)
+    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-d.pdf)
 - [CATT for Parents and Caregivers (BC Injury Research and Prevention Unit)](https://cattonline.com/course/concussion-awareness-training-tool-for-parents-and-caregivers)
 - [My Guide: Adult Concussion (Vancouver Coastal Health)](https://concussion.vch.ca/)
 - [My Guide: Teen Concussion (G.F. Strong, VCH)](https://teenconcussion.vch.ca/)
