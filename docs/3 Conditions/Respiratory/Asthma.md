@@ -360,6 +360,56 @@ sources:
     version: 2023-12-08
     url: "https://cps.ca/en/documents/position/mild-asthma"
     checked: 2026-10-09
+  - id: cps-acute-asthma-2021
+    title: "Managing an acute asthma exacerbation in children"
+    publisher: Canadian Paediatric Society
+    jurisdiction: CA
+    kind: guideline
+    version: 2021-11-05
+    url: "https://cps.ca/en/documents/position/managing-an-acute-asthma-exacerbation"
+    checked: 2026-10-16
+  - id: trekk-asthma-blr
+    title: "TREKK Bottom Line Recommendations: Asthma"
+    publisher: TREKK (Translating Emergency Knowledge for Kids)
+    jurisdiction: CA
+    kind: summary
+    version: "v2.3, March 2025"
+    url: "https://trekk.ca/resources/bottom-line-recommendations-asthma/"
+    pdf: "https://cms.trekk.ca/wp-content/uploads/2023/11/2025_03_12_Asthma-BLR-v2.3_FINAL.pdf"
+    checked: 2026-10-16
+  - id: trekk-asthma-algorithm
+    title: "TREKK Algorithm: Severe Asthma Exacerbation"
+    publisher: TREKK (Translating Emergency Knowledge for Kids)
+    jurisdiction: CA
+    kind: algorithm
+    version: "v2.1, March 2025"
+    url: "https://trekk.ca/resources/algorithm-asthma/"
+    pdf: "https://cms.trekk.ca/wp-content/uploads/2023/11/2025-03-11_Asthma-Algorithm_2.1_final.pdf"
+    checked: 2026-10-16
+  - id: trekk-asthma-parent-infographic
+    title: "TREKK Infographic: Asthma and Children, What You Should Know"
+    publisher: TREKK (Translating Emergency Knowledge for Kids)
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://trekk.ca/resources/infographic-for-parents-families-asthma-and-children-what-you-should-know/"
+    checked: 2026-10-16
+  - id: trekk-asthma-parent-video
+    title: "TREKK Video: Understanding and Managing Your Child's Asthma"
+    publisher: TREKK (Translating Emergency Knowledge for Kids)
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://trekk.ca/resources/video-for-parents-families-understanding-and-managing-your-childs-asthma/"
+    checked: 2026-10-16
+  - id: ubccpd-pediatric-asthma-course
+    title: "Pediatric Asthma Management (eLearning)"
+    publisher: UBC CPD with Child Health BC and BC Children's Hospital
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://ubccpd.ca/course/pediatric-asthma-management"
+    checked:
   - id: ab-pathway-hub-lung-testing
     title: "Alberta's Pathway Hub: Lung Testing for Ages 6 and Above"
     publisher: Primary Care Alberta
@@ -459,7 +509,10 @@ sources:
 ---
 <!-- The three BC patient care flow sheets state no version; the 2023 guideline still links them.
      bcchildrens.ca refuses automated requests, so the weekly link check lists its links under "check by hand".
+     ubccpd.ca blocks automated checks; the UBC CPD course link is the address BC Children's Hospital gives in its PRAM pathway PDF.
      Link to the source guidance; don't restate its recommendations. -->
+
+*For children and youth, see [Pediatric Asthma](../../4%20Populations/Pediatrics/Pediatric%20Asthma.md).*
 
 ## Key Sources
 
@@ -479,6 +532,7 @@ sources:
 	- [Algorithm: Initial Management of Pediatric Asthma Exacerbations (effective October 14, 2025, revised November 14, 2025, PDF)](https://childhealthbc.ca/asthma/guideline/initial_mgmt_ped_asthma_exacerbation_algo)  
 	- [Algorithm: Ongoing Management of Pediatric Asthma Exacerbations (effective October 14, 2025, revised November 14, 2025, PDF)](https://childhealthbc.ca/asthma/ongoing_algorithm)  
 	- [PRAM Scoring Table (effective October 14, 2024, PDF)](https://childhealthbc.ca/asthma/guideline/pram_scoring_table)  
+	- [UBC CPD: Pediatric Asthma Management eLearning course](https://ubccpd.ca/course/pediatric-asthma-management) — *free 1-hour course built with Child Health BC and BC Children's Hospital*  
 
 ??? info "[Canadian Thoracic Society 2021 Guideline Update: Diagnosis and Management of Asthma in Preschoolers, Children and Adults (2021)](https://doi.org/10.1080/24745332.2021.1945887)"
 	*Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Includes the 2021 focused update on very mild and mild asthma.*  
@@ -490,6 +544,14 @@ sources:
 
 ??? info "[Canadian Paediatric Society - The Management of Very Mild and Mild Asthma in Preschoolers, Children, and Adolescents (2023)](https://cps.ca/en/documents/position/mild-asthma)"
 	*CPS practice point, posted December 8, 2023.*  
+
+??? info "[Canadian Paediatric Society - Managing an Acute Asthma Exacerbation in Children (2021)](https://cps.ca/en/documents/position/managing-an-acute-asthma-exacerbation)"
+	*CPS position statement, posted November 5, 2021. Children with known asthma presenting to the emergency department with an acute exacerbation.*  
+
+??? info "[TREKK - Bottom Line Recommendations: Asthma (2025)](https://trekk.ca/resources/bottom-line-recommendations-asthma/)"
+	*Translating Emergency Knowledge for Kids: pediatric emergency care for asthma exacerbations, version 2.3, March 2025.*  
+	- [Bottom Line Recommendations (PDF, 2025)](https://cms.trekk.ca/wp-content/uploads/2023/11/2025_03_12_Asthma-BLR-v2.3_FINAL.pdf)  
+	- [Algorithm: Severe Asthma Exacerbation (PDF, 2025)](https://cms.trekk.ca/wp-content/uploads/2023/11/2025-03-11_Asthma-Algorithm_2.1_final.pdf)  
 
 ??? info "Tools for Practice (CFPCLearn) evidence summaries"
 	- [#411 Bronchodilator with Benefits? Budesonide-formoterol rescue inhaler for asthma (2026)](https://cfpclearn.ca/tfp411/)  
@@ -547,10 +609,12 @@ sources:
     - [Children age 1-5 (May 2025, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthmaactionplanages1-5_english.pdf)
     - [Children age 6-11 (May 2025, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthmaactionplan_6-11_english.pdf)
     - [Ages 12-17 (May 2025, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthmaactionplan_ages12-17_english.pdf)
-- [BC Children's Hospital: Asthma Patient and Family Resources](https://www.bcchildrens.ca/clinics-services/respiratory-medicine/asthma-patient-and-family-resources) — *handouts, family video and device guides*
+- [BC Children's Hospital: Asthma Patient and Family Resources](https://www.bcchildrens.ca/clinics-services/respiratory-medicine/asthma-patient-and-family-resources) — *handouts, device guides and the family video "Childhood Asthma: A Guide for Families and Caregivers"*
     - [My Asthma Diary (PDF)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/my-asthma-diary.pdf)
     - [Inhaler Dose Tracking Sheet (PDF)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/inhaler-dose-tracking-sheet.pdf)
 - [Child Health BC: Asthma - What You Should Know (PDF)](https://childhealthbc.ca/asthma/should_know_handout)
+- [TREKK - Asthma and Children: What You Should Know (infographic)](https://trekk.ca/resources/infographic-for-parents-families-asthma-and-children-what-you-should-know/)
+- [TREKK - Understanding and Managing Your Child's Asthma (video)](https://trekk.ca/resources/video-for-parents-families-understanding-and-managing-your-childs-asthma/)
 - [HealthLink BC - Asthma](https://www.healthlinkbc.ca/healthwise/asthma)
 - [HealthLink BC - Asthma in Children](https://www.healthlinkbc.ca/healthwise/asthma-children)
 - [BC Lung Foundation - Adult Asthma](https://bclung.ca/lung-health/adult-asthma/)
