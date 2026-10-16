@@ -18,6 +18,7 @@ hide:
 
 ## In This Section
 - [Pediatrics](Pediatrics/Pediatrics.md)
+- [Pediatric Asthma](Pediatrics/Pediatric%20Asthma.md)
 - [Canadian Paediatric Society](Pediatrics/Canadian%20Paediatric%20Society.md)
 - [Rourke Baby Record](Pediatrics/Rourke%20Baby%20Record.md)
 - [Pregnancy and Perinatal](Pregnancy%20and%20Perinatal.md)

@@ -124,6 +124,10 @@ sources:
 
 ## Conditions with Population Notes
 
+### Asthma
+
+- [Pediatric Asthma](Pediatric%20Asthma.md) — *BC, Canadian and TREKK sources for children and youth with asthma*
+
 ### Hypertension
 
 - [Hypertension](../../3%20Conditions/Cardiovascular/Hypertension.md) — *the adult condition page; the 2025 Hypertension Canada guideline there is not written for children*
