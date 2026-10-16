@@ -174,6 +174,14 @@ sources:
     version: "2020"
     url: https://www.aafp.org/afp/2020/0801/p173
     checked: 2026-10-11
+  - id: rccbc-rtvs-charlie
+    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
+    publisher: Rural Coordination Centre of BC (RCCbc)
+    jurisdiction: BC
+    kind: pathway
+    version:
+    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
+    checked: 2026-10-16
 ---
 <!-- No BC Guidelines (GPAC) guideline for UTI; BC Guidelines refers to Bugs & Drugs for antimicrobial use.
      Link to the source guidance; don't restate its recommendations. -->
@@ -220,6 +228,7 @@ sources:
 ## Advice and Referral
 
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
+- [RTVS CHARLiE: Child Health Advice in Real-Time Electronically (RCCbc)](https://rccbc.ca/initiatives/rtvs/charlie/) — *for children: 24/7 pediatric advice by Zoom (add the contact `charlie1@rccbc.ca`; it takes no email) or phone (236-305-5352) from pediatricians, pediatric emergency physicians and pediatric intensivists, for physicians, NPs, nurses and midwives in rural, remote and First Nations communities in BC*
 - [PharmaCare: Minor Ailments and Contraception Service (MACS)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/initiatives/ppmac) — *BC community pharmacists can assess and prescribe for uncomplicated UTI*
 
 ## Patient Resources

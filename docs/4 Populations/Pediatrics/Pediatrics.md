@@ -113,6 +113,23 @@ sources:
     version:
     url: "https://www.mdcalc.com/calc/4052/aap-pediatric-hypertension-guidelines"
     checked: 2026-10-09
+  - id: rccbc-rtvs-charlie
+    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
+    publisher: Rural Coordination Centre of BC (RCCbc)
+    jurisdiction: BC
+    kind: pathway
+    version:
+    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
+    pdf: "https://rccbc.ca/wp-content/uploads/2022/10/Call-RTVS-pathways-CHARLiE-Jul-26.pdf"
+    checked: 2026-10-16
+  - id: rccbc-rtvs-getting-started
+    title: Getting Started with RTVS
+    publisher: Rural Coordination Centre of BC (RCCbc)
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://rccbc.ca/initiatives/rtvs/getting-started/"
+    checked: 2026-10-16
 ---
 <!-- This page so far holds the hypertension and diabetes notes moved from those condition pages; the rest of the Population template is filled in step 2.2.
      Link to the source guidance; don't restate its recommendations. -->
@@ -142,6 +159,10 @@ sources:
 - [Diabetes Canada: Type 1 Diabetes in Children and Adolescents (chapter 34)](https://www.diabetes.ca/for-professionals/full-guidelines/chapter-34)
 
 ## Services and Referral
+
+- [RTVS CHARLiE: Child Health Advice in Real-Time Electronically (RCCbc)](https://rccbc.ca/initiatives/rtvs/charlie/) — *24/7 pediatric advice by Zoom (add the contact `charlie1@rccbc.ca`; it takes no email) or phone (236-305-5352) from pediatricians, pediatric emergency physicians and pediatric intensivists, for physicians, NPs, nurses and midwives in rural, remote and First Nations communities in BC*
+    - [Call CHARLiE poster (July 2026, PDF)](https://rccbc.ca/wp-content/uploads/2022/10/Call-RTVS-pathways-CHARLiE-Jul-26.pdf)
+    - [Getting Started with RTVS](https://rccbc.ca/initiatives/rtvs/getting-started/) — *Zoom set-up; rural NPs can request a Zoom account from RCCbc*
 
 - [BC Children's Hospital - Nephrology](https://www.bcchildrens.ca/clinics-services/nephrology) — *the Renal Program includes a Hypertension Clinic for children with complex high blood pressure*
     - [Nephrology Referral](https://www.bcchildrens.ca/health-professionals/make-referral/nephrology-referral) — *referral needs a physician or nurse practitioner*
