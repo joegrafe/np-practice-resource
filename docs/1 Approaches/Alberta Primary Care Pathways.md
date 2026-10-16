@@ -156,6 +156,6 @@ sources:
 ## More Approaches
 
 - [McGill Journal of Medicine: Approach To](McGill%20Approach%20To%20Articles.md) — *peer-reviewed "Approach to" articles by body system*
-- [PedsCases: Approach To](PedsCases%20Approach%20To.md) — *pediatric "Approach to" podcasts, videos and notes*
+- [PedsCases Notes](PedsCases%20Approach%20To.md) — *short peer-reviewed summaries of pediatric presentations and conditions*
 - [American Family Physician: Approach To and Evaluation Of](AAFP%20Approach%20To%20and%20Evaluation%20Of%20Articles.md) — *recent free AAFP review articles (international)*
 - [University of Calgary Black Books](University%20of%20Calgary%20Black%20Books.md) — *diagnostic schemes for common presentations*
