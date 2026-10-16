@@ -448,4 +448,5 @@ sources:
 ## More Approaches
 
 - [McGill Journal of Medicine: Approach To](McGill%20Approach%20To%20Articles.md) — *peer-reviewed "Approach to" articles by body system*
+- [American Family Physician: Approach To and Evaluation Of](AAFP%20Approach%20To%20and%20Evaluation%20Of%20Articles.md) — *recent free AAFP review articles (international)*
 - [Calgary Guide](https://calgaryguide.ucalgary.ca/) — *the University of Calgary's pathophysiology flowcharts*
