@@ -1,11 +1,11 @@
 ---
-title: Evidence Packs
+title: Tools
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
 status: draft
-last-reviewed: 2026-10-09
-review-due: 2027-10-09
+last-reviewed: 2026-10-16
+review-due: 2027-10-16
 reviewers: []
 hide:
   - comments
@@ -14,7 +14,10 @@ hide:
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*One pack per condition listing the current guideline and algorithm PDFs to load into Heidi Evidence or another AI tool.*
+*Evidence Packs, templates, point-of-care ultrasound and AI tools for NP practice.*
 
 ## In This Section
-*Pending: packs are added as condition pages are migrated.*
+- [Evidence Packs](1%20Evidence%20Packs/index.md)
+- [Templates](2%20Templates/index.md)
+- [POCUS](3%20POCUS/index.md)
+- [AI Tools](4%20AI%20Tools/index.md)

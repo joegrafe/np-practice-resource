@@ -34,9 +34,9 @@ section_nav: false
 
     NP scope and standards, advice and referral, forms and associations.
 
--   :material-file-document-multiple-outline:{ .nppr-icon } [**Evidence Packs**](7%20Evidence%20Packs/index.md)
+-   :material-toolbox-outline:{ .nppr-icon } [**Tools**](7%20Tools/index.md)
 
-    Current guideline PDFs for each condition, ready to load into an AI tool.
+    Evidence Packs, templates, point-of-care ultrasound and AI tools for practice.
 
 -   :material-bookshelf:{ .nppr-icon } [**Resources**](8%20Resources/index.md)
 
