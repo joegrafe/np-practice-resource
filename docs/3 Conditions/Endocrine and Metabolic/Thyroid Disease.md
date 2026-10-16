@@ -249,8 +249,7 @@ sources:
 	- [Appendix 1: BC Laboratory Algorithm for Thyroid Tests (PDF, 2018)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/thyroid-function-testing-appendix1.pdf)  
 
 ??? info "[BC Cancer Family Oncology Network - Thyroid Cancer: What Family Physicians Need to Know When Caring for Their Patients (2025)](https://www.bccancer.bc.ca/health-professionals/networks/family-practice-oncology-network/continuing-medical-education)"
-	*Primary care role in thyroid cancer diagnosis, follow-up and survivorship.*  
-	- [PDF download](https://www.bccancer.bc.ca/family-oncology-network-site/Documents/Thyroid%20Cancer.pdf)  
+	*Primary care role in thyroid cancer diagnosis, follow-up and survivorship.* · [PDF](https://www.bccancer.bc.ca/family-oncology-network-site/Documents/Thyroid%20Cancer.pdf)  
 
 ??? info "[Canadian Task Force on Preventive Health Care - Asymptomatic Thyroid Dysfunction (2019)](https://canadiantaskforce.ca/guidelines/published-guidelines/asymptomatic-thyroid-dysfunction/)"
 	*Screening for thyroid dysfunction in asymptomatic, non-pregnant adults in primary care.*  

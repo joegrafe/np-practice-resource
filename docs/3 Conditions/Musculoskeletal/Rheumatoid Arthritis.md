@@ -517,8 +517,7 @@ sources:
 
 ## Prescribing
 
-- [BC Immunization Manual, Part 2: Immunosuppressive Therapy (BCCDC, September 2026)](https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization/immunization-of-special-populations)
-    - [PDF download](https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part2/ImmunosuppressiveTherapy.pdf)
+- [BC Immunization Manual, Part 2: Immunosuppressive Therapy (BCCDC, September 2026)](https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization/immunization-of-special-populations) · [PDF](https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part2/ImmunosuppressiveTherapy.pdf)
 - [RheumInfo - Biologics Safety Screening Tool (BSST)](https://rheuminfo.com/physician-tools/biologics-safety-screening-tool-bsst/)
 - [RheumInfo - Prednisone Tapering Calendar](https://rheuminfo.com/physician-tools/prednisone-tapering-calendar/)
 - [Choosing Wisely Canada - Rheumatology Recommendations (last updated May 2024)](https://choosingwiselycanada.org/recommendation/rheumatology/) — *includes RF and anti-CCP testing, ANA screening and drug toxicity monitoring labs*
@@ -550,14 +549,12 @@ sources:
 
 ## Patient Resources
 
-- [BC Guidelines: Rheumatoid Arthritis Patient Guide (BC GPAC, 2012)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/rheumatoid_arthritis_pg.pdf)
+- [BC Guidelines: Rheumatoid Arthritis Patient Guide (BC GPAC, 2012)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/rheumatoid_arthritis_pg.pdf)
 - [HealthLink BC - Rheumatoid Arthritis](https://www.healthlinkbc.ca/healthwise/rheumatoid-arthritis)
 - [HealthLink BC - Arthritis: Managing Rheumatoid Arthritis](https://www.healthlinkbc.ca/healthwise/arthritis-managing-rheumatoid-arthritis)
 - [HealthLink BC - Exercise for Rheumatoid Arthritis](https://www.healthlinkbc.ca/healthwise/exercise-rheumatoid-arthritis)
 - [RheumInfo - Rheumatoid Arthritis](https://rheuminfo.com/diseases/rheumatoid-arthritis/)
-- [RheumInfo - Rheumatoid Arthritis Quick Reference Guide](https://rheuminfo.com/diseases/rheumatoid-arthritis/)
-    - [PDF download](https://rheuminfo.com/docs/diseases/pictos/Rheumatoid-Arthritis-Patient-Guide-RheumInfo_EN.pdf)
+- [RheumInfo - Rheumatoid Arthritis Quick Reference Guide](https://rheuminfo.com/diseases/rheumatoid-arthritis/) · [PDF](https://rheuminfo.com/docs/diseases/pictos/Rheumatoid-Arthritis-Patient-Guide-RheumInfo_EN.pdf)
 - [RheumInfo - Medication Information](https://rheuminfo.com/medications/) — *drug information pages for DMARDs, biologics and steroids*
 - [Arthritis Society Canada - Rheumatoid Arthritis](https://arthritis.ca/about-arthritis/arthritis-types-(a-z)/types/rheumatoid-arthritis)
 - [Arthritis Research Canada - Arthritis Research Education Series](https://www.arthritisresearch.ca/education-series/) — *recorded patient talks*

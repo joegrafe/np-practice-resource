@@ -320,30 +320,22 @@ sources:
 
 ## Algorithms and Pathways
 
-- [BC Guidelines: Oral Anticoagulants, Appendix B - Warfarin Reversal Flowchart (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/oral-anticoagulants)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/images/periop_appendixb.pdf)
+- [BC Guidelines: Oral Anticoagulants, Appendix B - Warfarin Reversal Flowchart (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/oral-anticoagulants) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/images/periop_appendixb.pdf)
 - [Thrombosis Canada: Perioperative Anticoagulant Management Algorithm (online tool)](https://thrombosiscanada.ca/hcp/practice/clinical_tools?calc=perioperativeAnticoagulantAlgorithm)
 - [Alberta's Pathway Hub: Atrial Fibrillation (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/44/clinical) — *Alberta clinical pathway and referral guideline (referral guideline last updated July 1, 2025); choose "All" when the hub asks for an area*
 
 ## Assessment Tools and Calculators
 
-- [BC Guidelines: Appendix D - Stroke Risk Assessment in AF, CHADS2 and CHA2DS2-VASc (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#Appendices)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendixd.pdf)
-- [BC Guidelines: Appendix C - AF Symptom Severity, CCS-SAF Scale (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#Appendices)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendixc.pdf)
-- [BC Guidelines: Oral Anticoagulants, Appendix A - When to Withhold Antiplatelets and Anticoagulants for Medical Imaging (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/oral-anticoagulants)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/images/periop_appendixa.pdf)
+- [BC Guidelines: Appendix D - Stroke Risk Assessment in AF, CHADS2 and CHA2DS2-VASc (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendixd.pdf)
+- [BC Guidelines: Appendix C - AF Symptom Severity, CCS-SAF Scale (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendixc.pdf)
+- [BC Guidelines: Oral Anticoagulants, Appendix A - When to Withhold Antiplatelets and Anticoagulants for Medical Imaging (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/oral-anticoagulants) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/images/periop_appendixa.pdf)
 
 ## Prescribing
 
-- [BC Guidelines: AF Appendix F - Prescription Medication Tables (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#Appendices)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendixf.pdf)
-- [BC Guidelines: AF Appendix E - Antithrombotic Therapy in AF with CAD/PAD (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#Appendices)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendixe.pdf)
-- [BC Guidelines: DOACs Appendix B - Switching Between Anticoagulant Therapies (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/doac#Appendices)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/images/switching_between_anticoagulant_therapies.pdf)
-- [BC Guidelines: Warfarin Appendix A - Important Interactions with Warfarin (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/warfarin#Appendices)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/warfarin_appendixa.pdf)
+- [BC Guidelines: AF Appendix F - Prescription Medication Tables (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendixf.pdf)
+- [BC Guidelines: AF Appendix E - Antithrombotic Therapy in AF with CAD/PAD (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendixe.pdf)
+- [BC Guidelines: DOACs Appendix B - Switching Between Anticoagulant Therapies (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/doac#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/images/switching_between_anticoagulant_therapies.pdf)
+- [BC Guidelines: Warfarin Appendix A - Important Interactions with Warfarin (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/warfarin#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/warfarin_appendixa.pdf)
 - Thrombosis Canada clinical guides (version dates as stated by Thrombosis Canada):
     - [DOACs: Comparison and Frequently-asked Questions (2025-05-01)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=COMPARISONOFNEWORALANTICOAGULA)
     - [DOACs: Perioperative Management (2025-05-29)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=PERIOPERATIVEMANAGEMENTOFPATIE)
@@ -351,10 +343,8 @@ sources:
     - [Warfarin (2026-07-05)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=WARFARIN)
     - [Warfarin: Management of Out-of-Range INRs (2025-06-15)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=45)
     - [Warfarin: Perioperative Management (2026-06-24)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=PERIOPERATIVEMANAGEMENTOFPATIE_1)
-- [RxFiles: Atrial Fibrillation Anticoagulation Colour Comparison Chart (July 2025)](https://www.rxfiles.ca/rxfiles/uploads/documents/books/charts.html)
-    - [PDF download](https://www.rxfiles.ca/RxFiles/uploads/documents/AFib-WarfarinVsNOACs.pdf)
-- [PharmaCare Special Authority Request: Dabigatran for Atrial Fibrillation (HLTH 5391, rev. 2023/12/05)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-dabigatran)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/forms/5391fil.pdf)
+- [RxFiles: Atrial Fibrillation Anticoagulation Colour Comparison Chart (July 2025)](https://www.rxfiles.ca/rxfiles/uploads/documents/books/charts.html) · [PDF](https://www.rxfiles.ca/RxFiles/uploads/documents/AFib-WarfarinVsNOACs.pdf)
+- [PharmaCare Special Authority Request: Dabigatran for Atrial Fibrillation (HLTH 5391, rev. 2023/12/05)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-dabigatran) · [PDF](https://www2.gov.bc.ca/assets/gov/health/forms/5391fil.pdf)
 
 ## Advice and Referral
 
@@ -363,10 +353,8 @@ sources:
 
 ## Patient Resources
 
-- [Patient Record Sheet: DOACs Before and After Procedures (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/oral-anticoagulants)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/patient_record_sheet_-_doacs_before_and_after_procedures_-_2023.pdf)
-- [Patient Record Sheet: Warfarin Before and After Procedures (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/oral-anticoagulants)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/patient_record_sheet_-_warfarin_before_and_after_procedures_-_2023.pdf)
+- [Patient Record Sheet: DOACs Before and After Procedures (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/oral-anticoagulants) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/patient_record_sheet_-_doacs_before_and_after_procedures_-_2023.pdf)
+- [Patient Record Sheet: Warfarin Before and After Procedures (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/oral-anticoagulants) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/patient_record_sheet_-_warfarin_before_and_after_procedures_-_2023.pdf)
 - [HealthLink BC - Atrial Fibrillation](https://www.healthlinkbc.ca/healthwise/atrial-fibrillation)
 - [Heart & Stroke - Atrial fibrillation](https://www.heartandstroke.ca/heart-disease/conditions/atrial-fibrillation)
 

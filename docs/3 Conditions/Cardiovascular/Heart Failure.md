@@ -179,8 +179,7 @@ sources:
 	*Canadian Journal of Cardiology, 2025. Listed on the [Canadian Heart Failure Society guidelines page](https://heartfailure.ca/education/guidelines-clinical-updates).*  
 
 ??? info "[CCS/CHFS Focused Clinical Practice Update: Patients With Differing Heart Failure Phenotypes (2023)](https://heartfailure.ca/education/guidelines-clinical-updates)"
-	*Canadian Journal of Cardiology 2023;39:1030–1040.*  
-	- [PDF download](https://heartfailure.ca/sites/default/files/papers/PIIS0828282X23003719.pdf)  
+	*Canadian Journal of Cardiology 2023;39:1030–1040.* · [PDF](https://heartfailure.ca/sites/default/files/papers/PIIS0828282X23003719.pdf)  
 
 ??? info "[CCS/CHFS Heart Failure Guidelines Update: HFrEF Pharmacologic Standard of Care (2021)](https://doi.org/10.1016/j.cjca.2021.01.017)"
 	*Canadian Journal of Cardiology 2021;37(4):531–546.*  
@@ -197,28 +196,23 @@ sources:
 
 ## Assessment Tools and Calculators
 
-- [BC Guidelines: Appendix B - Heart Failure Zones Reference Guide (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_appendixb.pdf)
-- [BC Guidelines: Appendix A - Health Behaviour Modifications and Self-monitoring (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_appendixa.pdf)
+- [BC Guidelines: Appendix B - Heart Failure Zones Reference Guide (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_appendixb.pdf)
+- [BC Guidelines: Appendix A - Health Behaviour Modifications and Self-monitoring (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_appendixa.pdf)
 
 ## Prescribing
 
-- [BC Guidelines: Appendix C - Commonly Used Drugs in Heart Failure Care (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_appendixc.pdf)
+- [BC Guidelines: Appendix C - Commonly Used Drugs in Heart Failure Care (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_appendixc.pdf)
 - [RxFiles: Heart Failure](https://www.rxfiles.ca/rxfiles/uploads/documents/books/heartfailure.html) — *drug comparison chart and newsletters; most documents need an RxFiles subscription*
 
 ## Advice and Referral
 
-- [Provincial Heart Function Clinic Referral Form](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/4_hf_clinic_referral_form.pdf)
+- [Provincial Heart Function Clinic Referral Form](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/4_hf_clinic_referral_form.pdf)
 - [BC Guidelines: Indications for Referral](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#indications)
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
 
 ## Patient Resources
 
-- [What to Do with Heart Failure Medications When I am Sick? (via BC Guidelines)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic)
-    - [PDF download](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/heart-failure-sick-days.pdf)
+- [What to Do with Heart Failure Medications When I am Sick? (via BC Guidelines)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/heart-failure-sick-days.pdf)
 - [HealthLink BC - Heart Failure](https://www.healthlinkbc.ca/healthwise/heart-failure)
 - [Canadian Heart Failure Society - Patient Resources (Living Well with Heart Failure)](https://heartfailure.ca/patient-resources-0)
 - [Canadian Heart Failure Society - How to manage your heart failure medication on sick days (PDF)](https://heartfailure.ca/sites/default/files/sick_days_hf_tool_021221.pdf)
