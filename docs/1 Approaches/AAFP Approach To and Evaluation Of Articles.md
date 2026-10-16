@@ -8,8 +8,8 @@ last-reviewed: 2026-10-16
 review-due: 2027-10-16
 reviewers: []
 description: "An index of recent, free American Family Physician (AAFP) review articles on the approach to and evaluation of common primary care presentations, grouped by body system."
-logo: "https://dgnvxbcc3-res.cloudinary.com/image/upload/v1779209772/american_family_physician_navigation_desktop.svg"
-logo-alt: "American Family Physician"
+logo: "/assets/logos/aafp.svg"
+logo-alt: "American Academy of Family Physicians"
 sources:
   - id: afp-2023-1000-hypertension-adults
     title: "Hypertension in Adults: Initial Evaluation and Management"
@@ -756,8 +756,6 @@ sources:
     url: "https://www.aafp.org/afp/2016/0415/p686"
     checked: 2026-10-16
 ---
-
-# American Family Physician: Approach To and Evaluation Of
 
 !!! info "International source (AAFP, United States)"
     *American Family Physician* is the American Academy of Family Physicians' peer-reviewed review journal. It reflects US guidance; check BC and Canadian sources first.
