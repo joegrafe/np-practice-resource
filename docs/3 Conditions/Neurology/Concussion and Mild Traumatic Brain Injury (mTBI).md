@@ -69,7 +69,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: Modified 2015-11-23
-    url: "https://www.vch.ca/en/service/adolescent-complex-concussion-clinic-accc-outpatient-services"
+    url: "https://www.vch.ca/en/service/adolescent-complex-concussion-clinic-accc-outpatient-services#:~:text=Get%20a%20referral"
     pdf: "https://teenconcussion.vch.ca/assets/resources/Documents/GFS-ACCC-Referral-Form.pdf"
     checked: 2026-10-09
   - id: fraser-health-concussion-services
@@ -478,7 +478,7 @@ sources:
 ## Advice and Referral
 
 - [BC Guidelines: Practitioner Resources](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi#practitioner) — *BC concussion clinics and services, return-to-activity letters and WorkSafeBC advice*
-- [G.F. Strong Adolescent Complex Concussion Clinic Referral Form (VCH)](https://www.vch.ca/en/service/adolescent-complex-concussion-clinic-accc-outpatient-services) · [PDF](https://teenconcussion.vch.ca/assets/resources/Documents/GFS-ACCC-Referral-Form.pdf)
+- [G.F. Strong Adolescent Complex Concussion Clinic Referral Form (VCH)](https://www.vch.ca/en/service/adolescent-complex-concussion-clinic-accc-outpatient-services#:~:text=Get%20a%20referral) · [PDF](https://teenconcussion.vch.ca/assets/resources/Documents/GFS-ACCC-Referral-Form.pdf)
 - [Fraser Health Concussion Services](https://www.fraserhealth.ca/Service-Directory/Services/Clinics/concussion-services)
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists, including WorkSafeBC occupational medicine*
 

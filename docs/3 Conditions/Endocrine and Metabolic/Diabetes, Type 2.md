@@ -359,7 +359,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version:
-    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools"
+    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=The%20Diabetes%20Distress%20Scale"
     pdf: "https://www.diabetes.ca/getContentAsset/5bcf4817-87cc-478e-a442-466eafe58597/0f6cf596-933c-4f74-b36a-77091c512445/the-DDS-with-scoring-recommendations.pdf?language=en"
     checked: 2026-10-10
   - id: diabetes-canada-immunization
@@ -368,7 +368,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version: Version 3
-    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools"
+    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Immunization%20Recommendations%20for%20Adults%20with%20Diabetes"
     pdf: "https://www.diabetes.ca/getContentAsset/9a15aee1-fe03-4ced-8c70-e829db366f7b/0f6cf596-933c-4f74-b36a-77091c512445/Immunization-Tool_Ver_3.pdf?language=en"
     checked: 2026-10-10
   - id: diabetes-canada-driving-form
@@ -377,7 +377,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version: "2018"
-    url: "https://www.diabetes.ca/for-professionals/appendices/appendix-10"
+    url: "https://www.diabetes.ca/for-professionals/appendices/appendix-10#:~:text=Click%20to%20view%20printable%20and%20saveable%20pdf"
     pdf: "https://www.diabetes.ca/getContentAsset/b9b6e7d0-1799-4b55-809d-5979496267f7/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-10.pdf?language=en"
     checked: 2026-10-10
   - id: diabetes-canada-insulin-titration
@@ -386,7 +386,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version: "2018"
-    url: "https://www.diabetes.ca/for-professionals/appendices/appendix-9"
+    url: "https://www.diabetes.ca/for-professionals/appendices/appendix-9#:~:text=Click%20to%20view%20printable%20and%20saveable%20pdf"
     pdf: "https://www.diabetes.ca/getContentAsset/a153bb6b-99f8-49d6-b437-8cf6cbe9e79d/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-9.pdf?language=en"
     checked: 2026-10-10
   - id: diabetes-canada-renal-impairment
@@ -395,7 +395,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version: "2018"
-    url: "https://www.diabetes.ca/for-professionals/appendices/appendix-7"
+    url: "https://www.diabetes.ca/for-professionals/appendices/appendix-7#:~:text=Click%20to%20view%20printable%20and%20saveable%20pdf"
     pdf: "https://www.diabetes.ca/getContentAsset/41a19823-91cc-4868-b55e-11e2bc92c8fa/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-7.pdf?language=en"
     checked: 2026-10-10
   - id: diabetes-canada-sick-day-list
@@ -404,7 +404,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version: "2018"
-    url: "https://www.diabetes.ca/for-professionals/appendices/appendix-8"
+    url: "https://www.diabetes.ca/for-professionals/appendices/appendix-8#:~:text=Click%20to%20view%20printable%20and%20saveable%20pdf"
     pdf: "https://www.diabetes.ca/getContentAsset/355fef11-90ac-4b4e-aefc-f389bf89269d/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-8.pdf?language=en"
     checked: 2026-10-10
   - id: diabetes-canada-cardiorenal-rx
@@ -413,7 +413,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version: "2025"
-    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools"
+    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Prescription%20for%20Cardiovascular%20Protection%20with%20Diabetes"
     pdf: "https://www.diabetes.ca/getContentAsset/50b0d363-fe5a-4cc4-a9b1-0a0430bc4db4/0f6cf596-933c-4f74-b36a-77091c512445/prescription-for-cardiovascular-protection-with-diabetes.pdf?language=en"
     checked: 2026-10-10
   - id: diabetes-canada-ckd-key-messages
@@ -422,7 +422,7 @@ sources:
     jurisdiction: CA
     kind: summary
     version: "2025"
-    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools"
+    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Chronic%20Kidney%20Disease%20in%20Diabetes%20Key%20Messages%20%28Web%29"
     pdf: "https://www.diabetes.ca/getContentAsset/ef873321-96fb-4691-a53d-e29c073b5491/0f6cf596-933c-4f74-b36a-77091c512445/Kidney_Disease_WEB.pdf?language=en"
     checked: 2026-10-10
   - id: diabetes-canada-types-of-insulin
@@ -431,7 +431,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version: "2025"
-    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools"
+    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Types%20of%20Insulin"
     pdf: "https://www.diabetes.ca/getContentAsset/534e27df-7af0-4f75-beb7-ca52b8b81761/0f6cf596-933c-4f74-b36a-77091c512445/Types-of-Insulin.pdf?language=en"
     checked: 2026-10-10
   - id: obesity-canada-adult-cpg
@@ -464,7 +464,7 @@ sources:
     jurisdiction: CA
     kind: tool
     version: "2012"
-    url: "https://canadiantaskforce.ca/tools-resources/type-2-diabetes-2/type-2-diabetes-canrisk/"
+    url: "https://canadiantaskforce.ca/tools-resources/type-2-diabetes-2/type-2-diabetes-canrisk/#:~:text=English%20PDF"
     pdf: "https://canadiantaskforce.ca/wp-content/uploads/2016/05/2012-type-2-diabetes-canrisk-en.pdf"
     checked: 2026-10-10
   - id: tfp-395-diabetes
@@ -569,7 +569,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version:
-    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools"
+    url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Beyond%20the%20Basics"
     pdf: "https://www.diabetes.ca/getContentAsset/4b43df0b-e999-44f9-8638-5566a345a569/0f6cf596-933c-4f74-b36a-77091c512445/Beyond-the-Basics.pdf?language=en"
     checked: 2026-10-10
   - id: diabetes-canada-foot-care
@@ -578,7 +578,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version:
-    url: "https://www.diabetes.ca/living-with-diabetes/managing-complications/nerve-damage-and-amputation"
+    url: "https://www.diabetes.ca/living-with-diabetes/managing-complications/nerve-damage-and-amputation#:~:text=Foot%20care"
     pdf: "https://www.diabetes.ca/getContentAsset/33d37ad7-82dd-4c56-a8ee-48cd7051589a/0f6cf596-933c-4f74-b36a-77091c512445/foot-care.pdf?language=en"
     checked: 2026-10-10
   - id: aafp-diabetes-framework
@@ -753,7 +753,7 @@ sources:
 
 ## Assessment Tools and Calculators
 
-- [CANRISK Questionnaire (Canadian Task Force, 2012)](https://canadiantaskforce.ca/tools-resources/type-2-diabetes-2/type-2-diabetes-canrisk/) · [PDF](https://canadiantaskforce.ca/wp-content/uploads/2016/05/2012-type-2-diabetes-canrisk-en.pdf) — *diabetes risk screening*
+- [CANRISK Questionnaire (Canadian Task Force, 2012)](https://canadiantaskforce.ca/tools-resources/type-2-diabetes-2/type-2-diabetes-canrisk/#:~:text=English%20PDF) · [PDF](https://canadiantaskforce.ca/wp-content/uploads/2016/05/2012-type-2-diabetes-canrisk-en.pdf) — *diabetes risk screening*
 - [MDCalc - FINDRISC: Finnish Diabetes Risk Score](https://www.mdcalc.com/calc/4000/findrisc-finnish-diabetes-risk-score)
 - [Diabetes Canada: Screening for and Diagnosing Diabetes (interactive)](https://www.diabetes.ca/for-professionals/health-care-provider-tools/screening-for-and-diagnosing-diabetes)
 - [Diabetes Canada: Individualizing Your Patient's A1C Target](https://www.diabetes.ca/for-professionals/reduce-complications/individualizing-your-patients-a1c-target)
@@ -774,22 +774,22 @@ sources:
     - [5.01: Anatomy of the Retina](https://eyeguru.org/videos/retina/anatomy-of-the-retina/)
     - [5.02: Non-proliferative Diabetic Retinopathy](https://eyeguru.org/videos/retina/non-proliferative-diabetic-retinopathy/)
     - [5.03: Proliferative Diabetic Retinopathy](https://eyeguru.org/videos/retina/proliferative-diabetic-retinopathy/)
-- [Diabetes Canada: The Diabetes Distress Scale, with Scoring](https://www.diabetes.ca/for-professionals/health-care-provider-tools) · [PDF](https://www.diabetes.ca/getContentAsset/5bcf4817-87cc-478e-a442-466eafe58597/0f6cf596-933c-4f74-b36a-77091c512445/the-DDS-with-scoring-recommendations.pdf?language=en)
-- [Diabetes Canada: Immunizations Recommended for Adults Living with Diabetes (version 3)](https://www.diabetes.ca/for-professionals/health-care-provider-tools) · [PDF](https://www.diabetes.ca/getContentAsset/9a15aee1-fe03-4ced-8c70-e829db366f7b/0f6cf596-933c-4f74-b36a-77091c512445/Immunization-Tool_Ver_3.pdf?language=en)
-- [Diabetes Canada: Sample Diabetes and Driving Assessment Form (Appendix 10)](https://www.diabetes.ca/for-professionals/appendices/appendix-10) · [PDF](https://www.diabetes.ca/getContentAsset/b9b6e7d0-1799-4b55-809d-5979496267f7/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-10.pdf?language=en)
+- [Diabetes Canada: The Diabetes Distress Scale, with Scoring](https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=The%20Diabetes%20Distress%20Scale) · [PDF](https://www.diabetes.ca/getContentAsset/5bcf4817-87cc-478e-a442-466eafe58597/0f6cf596-933c-4f74-b36a-77091c512445/the-DDS-with-scoring-recommendations.pdf?language=en)
+- [Diabetes Canada: Immunizations Recommended for Adults Living with Diabetes (version 3)](https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Immunization%20Recommendations%20for%20Adults%20with%20Diabetes) · [PDF](https://www.diabetes.ca/getContentAsset/9a15aee1-fe03-4ced-8c70-e829db366f7b/0f6cf596-933c-4f74-b36a-77091c512445/Immunization-Tool_Ver_3.pdf?language=en)
+- [Diabetes Canada: Sample Diabetes and Driving Assessment Form (Appendix 10)](https://www.diabetes.ca/for-professionals/appendices/appendix-10#:~:text=Click%20to%20view%20printable%20and%20saveable%20pdf) · [PDF](https://www.diabetes.ca/getContentAsset/b9b6e7d0-1799-4b55-809d-5979496267f7/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-10.pdf?language=en)
 
 ## Prescribing
 
 - [BC Guidelines: Appendix D - Antihyperglycemic and Adjunctive Agents for Type 2 Diabetes (BC GPAC, revised 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/diabetescare-guideline-appendix-d-2026.pdf)
 - [BC Guidelines: Appendix E - Insulin: Therapeutic Considerations and Availability (BC GPAC, revised 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/diabetescare_appendixe_pharmacare_2026.pdf)
 - [BC Guidelines: Appendix B - Treatment of Hypoglycemia in Diabetes (BC GPAC, 2021)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/diabetescare_appendixb_2021.pdf)
-- [Diabetes Canada: Prescription for Cardiorenal Protection (2025)](https://www.diabetes.ca/for-professionals/health-care-provider-tools) · [PDF](https://www.diabetes.ca/getContentAsset/50b0d363-fe5a-4cc4-a9b1-0a0430bc4db4/0f6cf596-933c-4f74-b36a-77091c512445/prescription-for-cardiovascular-protection-with-diabetes.pdf?language=en)
-- [Diabetes Canada: Key Messages for Chronic Kidney Disease in Diabetes (2025)](https://www.diabetes.ca/for-professionals/health-care-provider-tools) · [PDF](https://www.diabetes.ca/getContentAsset/ef873321-96fb-4691-a53d-e29c073b5491/0f6cf596-933c-4f74-b36a-77091c512445/Kidney_Disease_WEB.pdf?language=en)
+- [Diabetes Canada: Prescription for Cardiorenal Protection (2025)](https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Prescription%20for%20Cardiovascular%20Protection%20with%20Diabetes) · [PDF](https://www.diabetes.ca/getContentAsset/50b0d363-fe5a-4cc4-a9b1-0a0430bc4db4/0f6cf596-933c-4f74-b36a-77091c512445/prescription-for-cardiovascular-protection-with-diabetes.pdf?language=en)
+- [Diabetes Canada: Key Messages for Chronic Kidney Disease in Diabetes (2025)](https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Chronic%20Kidney%20Disease%20in%20Diabetes%20Key%20Messages%20%28Web%29) · [PDF](https://www.diabetes.ca/getContentAsset/ef873321-96fb-4691-a53d-e29c073b5491/0f6cf596-933c-4f74-b36a-77091c512445/Kidney_Disease_WEB.pdf?language=en)
 - [Diabetes Canada: Insulin Prescription Tool](https://www.diabetes.ca/for-professionals/reduce-complications/insulin-prescription-tool)
-- [Diabetes Canada: Examples of Insulin Initiation and Titration Regimens in Type 2 Diabetes (Appendix 9)](https://www.diabetes.ca/for-professionals/appendices/appendix-9) · [PDF](https://www.diabetes.ca/getContentAsset/a153bb6b-99f8-49d6-b437-8cf6cbe9e79d/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-9.pdf?language=en)
-- [Diabetes Canada: Types of Insulin](https://www.diabetes.ca/for-professionals/health-care-provider-tools) · [PDF](https://www.diabetes.ca/getContentAsset/534e27df-7af0-4f75-beb7-ca52b8b81761/0f6cf596-933c-4f74-b36a-77091c512445/Types-of-Insulin.pdf?language=en)
-- [Diabetes Canada: Therapeutic Considerations for Renal Impairment (Appendix 7)](https://www.diabetes.ca/for-professionals/appendices/appendix-7) · [PDF](https://www.diabetes.ca/getContentAsset/41a19823-91cc-4868-b55e-11e2bc92c8fa/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-7.pdf?language=en)
-- [Diabetes Canada: Sick Day Medication List (Appendix 8)](https://www.diabetes.ca/for-professionals/appendices/appendix-8) · [PDF](https://www.diabetes.ca/getContentAsset/355fef11-90ac-4b4e-aefc-f389bf89269d/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-8.pdf?language=en)
+- [Diabetes Canada: Examples of Insulin Initiation and Titration Regimens in Type 2 Diabetes (Appendix 9)](https://www.diabetes.ca/for-professionals/appendices/appendix-9#:~:text=Click%20to%20view%20printable%20and%20saveable%20pdf) · [PDF](https://www.diabetes.ca/getContentAsset/a153bb6b-99f8-49d6-b437-8cf6cbe9e79d/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-9.pdf?language=en)
+- [Diabetes Canada: Types of Insulin](https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Types%20of%20Insulin) · [PDF](https://www.diabetes.ca/getContentAsset/534e27df-7af0-4f75-beb7-ca52b8b81761/0f6cf596-933c-4f74-b36a-77091c512445/Types-of-Insulin.pdf?language=en)
+- [Diabetes Canada: Therapeutic Considerations for Renal Impairment (Appendix 7)](https://www.diabetes.ca/for-professionals/appendices/appendix-7#:~:text=Click%20to%20view%20printable%20and%20saveable%20pdf) · [PDF](https://www.diabetes.ca/getContentAsset/41a19823-91cc-4868-b55e-11e2bc92c8fa/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-7.pdf?language=en)
+- [Diabetes Canada: Sick Day Medication List (Appendix 8)](https://www.diabetes.ca/for-professionals/appendices/appendix-8#:~:text=Click%20to%20view%20printable%20and%20saveable%20pdf) · [PDF](https://www.diabetes.ca/getContentAsset/355fef11-90ac-4b4e-aefc-f389bf89269d/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-8.pdf?language=en)
 - [RxFiles Diabetes Book](https://www.rxfiles.ca/rxfiles/uploads/documents/books/diabetes.html) — *drug comparison charts, insulin and outcome tables; some documents need an RxFiles subscription*
 - Choosing Wisely Canada recommendations that cover diabetes:
     - [Endocrinology and Metabolism (last updated April 2026)](https://choosingwiselycanada.org/recommendation/endocrinology-and-metabolism/) — *includes self-monitoring of blood glucose*
@@ -828,8 +828,8 @@ sources:
 - [Self-Management BC - Diabetes Self-Management Program](https://www.selfmanagementbc.ca/diabetesselfmanagement) — *lay-led group program for people living with type 2 diabetes*
 - [iCON - Diabetes](https://iconproject.org/healthinformation/diabetes/) — *also available in Chinese and Punjabi*
 - [Diabetes Canada - Type 2 Adult Toolkit](https://www.diabetes.ca/living-with-diabetes/newly-diagnosed/type-2-adult-toolkit)
-- [Diabetes Canada - Beyond the Basics: Meal Planning Resource](https://www.diabetes.ca/for-professionals/health-care-provider-tools) · [PDF](https://www.diabetes.ca/getContentAsset/4b43df0b-e999-44f9-8638-5566a345a569/0f6cf596-933c-4f74-b36a-77091c512445/Beyond-the-Basics.pdf?language=en)
-- [Diabetes Canada - Foot Care: A Step Toward Good Health](https://www.diabetes.ca/living-with-diabetes/managing-complications/nerve-damage-and-amputation) · [PDF](https://www.diabetes.ca/getContentAsset/33d37ad7-82dd-4c56-a8ee-48cd7051589a/0f6cf596-933c-4f74-b36a-77091c512445/foot-care.pdf?language=en)
+- [Diabetes Canada - Beyond the Basics: Meal Planning Resource](https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Beyond%20the%20Basics) · [PDF](https://www.diabetes.ca/getContentAsset/4b43df0b-e999-44f9-8638-5566a345a569/0f6cf596-933c-4f74-b36a-77091c512445/Beyond-the-Basics.pdf?language=en)
+- [Diabetes Canada - Foot Care: A Step Toward Good Health](https://www.diabetes.ca/living-with-diabetes/managing-complications/nerve-damage-and-amputation#:~:text=Foot%20care) · [PDF](https://www.diabetes.ca/getContentAsset/33d37ad7-82dd-4c56-a8ee-48cd7051589a/0f6cf596-933c-4f74-b36a-77091c512445/foot-care.pdf?language=en)
 
 ## Evidence Pack
 
