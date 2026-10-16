@@ -3,10 +3,10 @@ title: Pediatric UTI
 type: population
 tags: [population, pediatrics, uti, renal-genitourinary, fever]
 jurisdiction: [BC, CA]
-status: review
+status: published
 last-reviewed: 2026-10-16
 review-due: 2027-10-16
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: cps-uti-children-2026
     title: "Optimizing management of urinary tract infections in children: A need for improved stewardship"
