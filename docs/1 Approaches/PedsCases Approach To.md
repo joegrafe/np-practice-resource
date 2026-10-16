@@ -191,15 +191,6 @@ sources:
     url: "https://www.pedscases.com/approach-child-respiratory-distress"
     pdf: "https://www.pedscases.com/sites/default/files/Approach%20to%20a%20Child%20in%20Respiratory%20Distress.pdf"
     checked: 2026-10-16
-  - id: pedscases-approach-bronchiolitis
-    title: "Approach to Bronchiolitis"
-    publisher: PedsCases (University of Alberta Department of Pediatrics)
-    jurisdiction: CA
-    kind: summary
-    version: "2017"
-    url: "https://www.pedscases.com/approach-bronchiolitis"
-    pdf: "https://pedscases.com/sites/default/files/Bronchiolitis%20Script%20.pdf"
-    checked: 2026-10-16
   - id: pedscases-approach-bronchiolitis-0
     title: "Approach to Bronchiolitis"
     publisher: PedsCases (University of Alberta Department of Pediatrics)
@@ -208,6 +199,15 @@ sources:
     version: "2020"
     url: "https://www.pedscases.com/approach-bronchiolitis-0"
     pdf: "https://pedscases.com/sites/default/files/Bronchiolitis%20Note%20SP%20edit.pdf"
+    checked: 2026-10-16
+  - id: pedscases-approach-bronchiolitis
+    title: "Approach to Bronchiolitis"
+    publisher: PedsCases (University of Alberta Department of Pediatrics)
+    jurisdiction: CA
+    kind: summary
+    version: "2017"
+    url: "https://www.pedscases.com/approach-bronchiolitis"
+    pdf: "https://pedscases.com/sites/default/files/Bronchiolitis%20Script%20.pdf"
     checked: 2026-10-16
   - id: pedscases-approach-mediastinal-masses
     title: "Approach to Mediastinal Masses"
@@ -548,15 +548,6 @@ sources:
     url: "https://www.pedscases.com/approach-pigmented-cutaneous-and-ocular-lesions-and-melanoma"
     pdf: "https://www.pedscases.com/sites/default/files/Part%202%20-%20Approach%20to%20Pigmented%20Cutaneous%20and%20Ocular%20Lesions%20and%20Melanoma%20SLIDES.pptx.pdf"
     checked: 2026-10-16
-  - id: pedscases-approach-warts
-    title: "Approach to Warts"
-    publisher: PedsCases (University of Alberta Department of Pediatrics)
-    jurisdiction: CA
-    kind: summary
-    version: "2021"
-    url: "https://www.pedscases.com/approach-warts"
-    pdf: "https://www.pedscases.com/sites/default/files/Approach%20to%20Warts%20Script.pdf"
-    checked: 2026-10-16
   - id: pedscases-approach-warts-verruca
     title: "Approach to Warts (Verruca)"
     publisher: PedsCases (University of Alberta Department of Pediatrics)
@@ -565,6 +556,15 @@ sources:
     version: "2021"
     url: "https://www.pedscases.com/approach-warts-verruca"
     pdf: "https://www.pedscases.com/sites/default/files/Warts_PedsCases%20Note.pdf"
+    checked: 2026-10-16
+  - id: pedscases-approach-warts
+    title: "Approach to Warts"
+    publisher: PedsCases (University of Alberta Department of Pediatrics)
+    jurisdiction: CA
+    kind: summary
+    version: "2021"
+    url: "https://www.pedscases.com/approach-warts"
+    pdf: "https://www.pedscases.com/sites/default/files/Approach%20to%20Warts%20Script.pdf"
     checked: 2026-10-16
   - id: pedscases-approach-amblyopia
     title: "An Approach to Amblyopia"
@@ -845,14 +845,6 @@ sources:
     url: "https://www.pedscases.com/approach-thrombocytopenia"
     pdf: "https://www.pedscases.com/sites/default/files/Approach%20to%20Thrombocytopenia_PedsCases%20Note.pdf"
     checked: 2026-10-16
-  - id: pedscases-approach-immunodeficiency
-    title: "Approach to Immunodeficiency"
-    publisher: PedsCases (University of Alberta Department of Pediatrics)
-    jurisdiction: CA
-    kind: summary
-    version: "2021"
-    url: "https://www.pedscases.com/approach-immunodeficiency"
-    checked: 2026-10-16
   - id: pedscases-approach-immunodeficiency-0
     title: "Approach to Immunodeficiency"
     publisher: PedsCases (University of Alberta Department of Pediatrics)
@@ -861,6 +853,14 @@ sources:
     version: "2025"
     url: "https://www.pedscases.com/approach-immunodeficiency-0"
     pdf: "https://www.pedscases.com/sites/default/files/3.%20PedsCases%20Notes%20-%20Immunodeficiency%20RC.pdf"
+    checked: 2026-10-16
+  - id: pedscases-approach-immunodeficiency
+    title: "Approach to Immunodeficiency"
+    publisher: PedsCases (University of Alberta Department of Pediatrics)
+    jurisdiction: CA
+    kind: summary
+    version: "2021"
+    url: "https://www.pedscases.com/approach-immunodeficiency"
     checked: 2026-10-16
   - id: pedscases-approach-recurrent-fevers
     title: "Approach to Recurrent Fevers"
@@ -1214,186 +1214,186 @@ sources:
 
 ### General Pediatrics (4)
 
-- [Approach to Abnormalities in Head Shape and Size Part 1: Head Circumference and Head Growth](https://www.pedscases.com/approach-abnormalities-head-shape-and-size-part-1-head-circumference-and-head-growth) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Abnormalities%20in%20Head%20Shape%20and%20Size%20Part%201%20of%204.docx.pdf)
-- [Approach to Abnormalities in Head Shape and Size Part 2: Abnormalities in Head Shape](https://www.pedscases.com/approach-abnormalities-head-shape-and-size-part-2-abnormalities-head-shape) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Abnormalities%20in%20Head%20Shape%20and%20Size%20Part%202.docx.pdf)
-- [Approach to Abnormalities in Head Shape and Size Part 3: Macrocephaly](https://www.pedscases.com/approach-abnormalities-head-shape-and-size-part-3-macrocephaly) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Abnormalities%20in%20Head%20Shape%20and%20Size%20Part%203.docx.pdf)
-- [Approach to Abnormalities in Head Shape and Size Part 4: Microcephaly](https://www.pedscases.com/approach-abnormalities-head-shape-and-size-part-4-microcephaly) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Abnormalities%20in%20Head%20Shape%20and%20Size%20Part%204.pdf)
+- [Approach to Abnormalities in Head Shape and Size Part 1: Head Circumference and Head Growth](https://www.pedscases.com/sites/default/files/Abnormalities%20in%20Head%20Shape%20and%20Size%20Part%201%20of%204.docx.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-abnormalities-head-shape-and-size-part-1-head-circumference-and-head-growth)
+- [Approach to Abnormalities in Head Shape and Size Part 2: Abnormalities in Head Shape](https://www.pedscases.com/sites/default/files/Abnormalities%20in%20Head%20Shape%20and%20Size%20Part%202.docx.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-abnormalities-head-shape-and-size-part-2-abnormalities-head-shape)
+- [Approach to Abnormalities in Head Shape and Size Part 3: Macrocephaly](https://www.pedscases.com/sites/default/files/Abnormalities%20in%20Head%20Shape%20and%20Size%20Part%203.docx.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-abnormalities-head-shape-and-size-part-3-macrocephaly)
+- [Approach to Abnormalities in Head Shape and Size Part 4: Microcephaly](https://www.pedscases.com/sites/default/files/Abnormalities%20in%20Head%20Shape%20and%20Size%20Part%204.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-abnormalities-head-shape-and-size-part-4-microcephaly)
 
 ### Newborn (6)
 
-- [Approach to a Newborn Born to a Mother with Limited Antenatal Care](https://www.pedscases.com/approach-newborn-born-mother-limited-antenatal-care) (2023) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20newborn%20with%20limited%20antenatal%20care%20-%20Script.pdf)
-- [Approach to Neonatal Hypotonia](https://www.pedscases.com/approach-neonatal-hypotonia) (2019) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Neonatal%20Hypotonia.pdf)
-- [Approach to Neonatal Thrombocytopenia](https://www.pedscases.com/approach-neonatal-thrombocytopenia) (2023) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Neonatal%20Thrombocytopenia%20Script.pdf)
-- [Approach to Newborn Screening](https://www.pedscases.com/approach-newborn-screening) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Newborn%20Screening%20Script.docx.pdf)
-- [Approach to Prematurity – Part I An Overview of Prematurity](https://www.pedscases.com/approach-prematurity-%E2%80%93-part-i-overview-prematurity) (2021) · video · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Prematurity%20Part%20I%20Script.pdf)
-- [Approach to Prematurity – Part II - Initial stabilization and Short-Term Complications of Prematurity](https://www.pedscases.com/approach-prematurity-%E2%80%93-part-ii-initial-stabilization-and-short-term-complications-prematurity) (2022) · video · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Prematurity%20-%20Part%20II%20-%20Script.pdf)
+- [Approach to a Newborn Born to a Mother with Limited Antenatal Care](https://www.pedscases.com/sites/default/files/Approach%20to%20newborn%20with%20limited%20antenatal%20care%20-%20Script.pdf) (2023) · PDF · [podcast](https://www.pedscases.com/approach-newborn-born-mother-limited-antenatal-care)
+- [Approach to Neonatal Hypotonia](https://www.pedscases.com/sites/default/files/Neonatal%20Hypotonia.pdf) (2019) · PDF · [podcast](https://www.pedscases.com/approach-neonatal-hypotonia)
+- [Approach to Neonatal Thrombocytopenia](https://www.pedscases.com/sites/default/files/Neonatal%20Thrombocytopenia%20Script.pdf) (2023) · PDF · [podcast](https://www.pedscases.com/approach-neonatal-thrombocytopenia)
+- [Approach to Newborn Screening](https://www.pedscases.com/sites/default/files/Newborn%20Screening%20Script.docx.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-newborn-screening)
+- [Approach to Prematurity – Part I An Overview of Prematurity](https://www.pedscases.com/sites/default/files/Approach%20to%20Prematurity%20Part%20I%20Script.pdf) (2021) · PDF · [video](https://www.pedscases.com/approach-prematurity-%E2%80%93-part-i-overview-prematurity)
+- [Approach to Prematurity – Part II - Initial stabilization and Short-Term Complications of Prematurity](https://www.pedscases.com/sites/default/files/Approach%20to%20Prematurity%20-%20Part%20II%20-%20Script.pdf) (2022) · PDF · [video](https://www.pedscases.com/approach-prematurity-%E2%80%93-part-ii-initial-stabilization-and-short-term-complications-prematurity)
 
 ### Cardiovascular (9)
 
-- [Approach to Cyanosis in a Neonate](https://www.pedscases.com/approach-cyanosis-neonate) (2020) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Cyanosis%20in%20a%20Neonate.pdf)
+- [Approach to Cyanosis in a Neonate](https://pedscases.com/sites/default/files/Approach%20to%20Cyanosis%20in%20a%20Neonate.pdf) (2020) · PDF · [podcast](https://www.pedscases.com/approach-cyanosis-neonate)
 - [Approach to Heart Murmurs](https://www.pedscases.com/approach-heart-murmurs) (2020) · note · [PDF](https://pedscases.com/sites/default/files/Heart%20Murmurs%20PedsCases%20Notes.pdf)
-- [Approach to Pediatric Bradycardia (Part 1)](https://www.pedscases.com/approach-pediatric-bradycardia-part-1) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/PedsCases%20Podcast%20-%20Approach%20to%20Pediatric%20Bradycardia%20-%20Part%201%20-%20DFK%2C%20AL%2C%20KF.docx.pdf)
-- [Approach to Pediatric Bradycardia (Part 2)](https://www.pedscases.com/approach-pediatric-bradycardia-part-2) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/PedsCases%20Podcast%20-%20Approach%20to%20Pediatric%20Bradycardia%20-%20Part%202%20-%20DFK%20and%20KF.docx.pdf)
+- [Approach to Pediatric Bradycardia (Part 1)](https://www.pedscases.com/sites/default/files/PedsCases%20Podcast%20-%20Approach%20to%20Pediatric%20Bradycardia%20-%20Part%201%20-%20DFK%2C%20AL%2C%20KF.docx.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-bradycardia-part-1)
+- [Approach to Pediatric Bradycardia (Part 2)](https://www.pedscases.com/sites/default/files/PedsCases%20Podcast%20-%20Approach%20to%20Pediatric%20Bradycardia%20-%20Part%202%20-%20DFK%20and%20KF.docx.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-bradycardia-part-2)
 - [Approach to Pediatric ECG](https://www.pedscases.com/approach-pediatric-ecg) (2020) · note · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20pediatric%20ECG%20infographic%20PDF%20Final.pdf)
-- [Approach to Pediatric ECG - Part 1](https://www.pedscases.com/approach-pediatric-ecg-part-1) (2020) · video · [PDF](https://www.pedscases.com/sites/default/files/An%20Approach%20to%20Pediatric%20ECGs%20Script.pdf)
-- [Approach to Pediatric ECG - Part 2](https://www.pedscases.com/approach-pediatric-ecg-part-2) (2020) · video · [PDF](https://pedscases.com/sites/default/files/An%20Approach%20to%20Pediatric%20ECGs%20Script%20%28part%202%29.pdf)
-- [Approach to Pediatric Hypertension](https://www.pedscases.com/approach-pediatric-hypertension) (2016) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Hypertension_final%20%281%29.pdf)
-- [Approach to Pediatric Syncope](https://www.pedscases.com/approach-pediatric-syncope) (2017) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Syncope%20.pdf)
+- [Approach to Pediatric ECG - Part 1](https://www.pedscases.com/sites/default/files/An%20Approach%20to%20Pediatric%20ECGs%20Script.pdf) (2020) · PDF · [video](https://www.pedscases.com/approach-pediatric-ecg-part-1)
+- [Approach to Pediatric ECG - Part 2](https://pedscases.com/sites/default/files/An%20Approach%20to%20Pediatric%20ECGs%20Script%20%28part%202%29.pdf) (2020) · PDF · [video](https://www.pedscases.com/approach-pediatric-ecg-part-2)
+- [Approach to Pediatric Hypertension](https://www.pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Hypertension_final%20%281%29.pdf) (2016) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-hypertension)
+- [Approach to Pediatric Syncope](https://www.pedscases.com/sites/default/files/Syncope%20.pdf) (2017) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-syncope)
 
 ### Respiratory (4)
 
-- [Approach to a Child in Respiratory Distress](https://www.pedscases.com/approach-child-respiratory-distress) (2016) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20a%20Child%20in%20Respiratory%20Distress.pdf)
-- [Approach to Bronchiolitis](https://www.pedscases.com/approach-bronchiolitis) (2017) · podcast · [PDF](https://pedscases.com/sites/default/files/Bronchiolitis%20Script%20.pdf) · [note](https://www.pedscases.com/approach-bronchiolitis-0) (2020) · [note PDF](https://pedscases.com/sites/default/files/Bronchiolitis%20Note%20SP%20edit.pdf)
-- [Approach to Mediastinal Masses](https://www.pedscases.com/approach-mediastinal-masses) (2022) · podcast · [PDF](https://pedscases.com/sites/default/files/Mediastinal%20Mass%20Script%20final.pdf)
-- [Approach to Pneumothorax](https://www.pedscases.com/approach-pneumothorax) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Peds%20Case%20Script%20pneumothorax%20FINAL.docx%20%281%29.pdf)
+- [Approach to a Child in Respiratory Distress](https://www.pedscases.com/sites/default/files/Approach%20to%20a%20Child%20in%20Respiratory%20Distress.pdf) (2016) · PDF · [podcast](https://www.pedscases.com/approach-child-respiratory-distress)
+- [Approach to Bronchiolitis](https://www.pedscases.com/approach-bronchiolitis-0) (2020) · note · [PDF](https://pedscases.com/sites/default/files/Bronchiolitis%20Note%20SP%20edit.pdf) · [podcast](https://www.pedscases.com/approach-bronchiolitis) (2017) · [podcast PDF](https://pedscases.com/sites/default/files/Bronchiolitis%20Script%20.pdf)
+- [Approach to Mediastinal Masses](https://pedscases.com/sites/default/files/Mediastinal%20Mass%20Script%20final.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-mediastinal-masses)
+- [Approach to Pneumothorax](https://www.pedscases.com/sites/default/files/Peds%20Case%20Script%20pneumothorax%20FINAL.docx%20%281%29.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-pneumothorax)
 
 ### Gastrointestinal (8)
 
-- [An Approach to Intussusception](https://www.pedscases.com/approach-intussusception) (2016) · podcast · [PDF](https://www.pedscases.com/sites/default/files/intussusception%20script%20.pdf)
-- [An Approach to Pediatric Bowel Obstruction](https://www.pedscases.com/approach-pediatric-bowel-obstruction) (2020) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Pediatric%20Bowel%20Obstruction%20Script.pdf)
-- [Approach to Acute Diarrhea](https://www.pedscases.com/approach-acute-diarrhea) (2018) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Acute%20Diarrhea%20Script.pdf)
-- [Approach to Chronic Diarrhea](https://www.pedscases.com/approach-chronic-diarrhea) (2018) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Chronic%20Diarrhea%20Script.pdf)
-- [Approach to Dehydration in Children](https://www.pedscases.com/approach-dehydration-children) (2026) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Podcast%20Script_Approach%20to%20dehydration_V5.docx.pdf)
-- [Approach to Hirschsprung Disease](https://www.pedscases.com/approach-hirschsprung-disease) (2016) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Hirschsprung%20Disease.pdf)
-- [Approach to Pediatric Vomiting (Part 1)](https://www.pedscases.com/vomit-1) (2014) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Vomiting_0.pdf)
-- [Approach to Pediatric Vomiting (Part 2)](https://www.pedscases.com/vomit-2) (2014) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Vomiting_0.pdf)
+- [An Approach to Intussusception](https://www.pedscases.com/sites/default/files/intussusception%20script%20.pdf) (2016) · PDF · [podcast](https://www.pedscases.com/approach-intussusception)
+- [An Approach to Pediatric Bowel Obstruction](https://www.pedscases.com/sites/default/files/Pediatric%20Bowel%20Obstruction%20Script.pdf) (2020) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-bowel-obstruction)
+- [Approach to Acute Diarrhea](https://pedscases.com/sites/default/files/Approach%20to%20Acute%20Diarrhea%20Script.pdf) (2018) · PDF · [podcast](https://www.pedscases.com/approach-acute-diarrhea)
+- [Approach to Chronic Diarrhea](https://pedscases.com/sites/default/files/Approach%20to%20Chronic%20Diarrhea%20Script.pdf) (2018) · PDF · [podcast](https://www.pedscases.com/approach-chronic-diarrhea)
+- [Approach to Dehydration in Children](https://www.pedscases.com/sites/default/files/Podcast%20Script_Approach%20to%20dehydration_V5.docx.pdf) (2026) · PDF · [podcast](https://www.pedscases.com/approach-dehydration-children)
+- [Approach to Hirschsprung Disease](https://www.pedscases.com/sites/default/files/Approach%20to%20Hirschsprung%20Disease.pdf) (2016) · PDF · [podcast](https://www.pedscases.com/approach-hirschsprung-disease)
+- [Approach to Pediatric Vomiting (Part 1)](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Vomiting_0.pdf) (2014) · PDF · [podcast](https://www.pedscases.com/vomit-1)
+- [Approach to Pediatric Vomiting (Part 2)](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Vomiting_0.pdf) (2014) · PDF · [podcast](https://www.pedscases.com/vomit-2)
 
 ### Renal and Genitourinary (5)
 
-- [Approach to Acid Base Disturbance](https://www.pedscases.com/approach-acid-base-disturbance-0) (2018) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Slides%20and%20Notes.pdf) · [video](https://www.pedscases.com/approach-acid-base-disturbance)
-- [Approach to Enuresis](https://www.pedscases.com/approach-enuresis) (2015) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Enuresis_0.pdf)
-- [Approach to Metabolic Acidosis in Pediatric Patients](https://www.pedscases.com/approach-metabolic-acidosis-pediatric-patients) (2024) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Metabolic%20Acidosis%20Script.pdf)
-- [Approach to Pediatric Chronic Kidney Disease](https://www.pedscases.com/approach-pediatric-chronic-kidney-disease) (2025) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Chronic%20Kidney%20Disease%20-%20Script.pdf)
-- [Approach to Pediatric Renal Tubular Acidosis](https://www.pedscases.com/approach-pediatric-renal-tubular-acidosis) (2023) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Renal%20Tubular%20Acidosis.docx.pdf)
+- [Approach to Acid Base Disturbance](https://www.pedscases.com/sites/default/files/Slides%20and%20Notes.pdf) (2018) · PDF · [podcast](https://www.pedscases.com/approach-acid-base-disturbance-0) · [video](https://www.pedscases.com/approach-acid-base-disturbance)
+- [Approach to Enuresis](https://pedscases.com/sites/default/files/Approach%20to%20Enuresis_0.pdf) (2015) · PDF · [podcast](https://www.pedscases.com/approach-enuresis)
+- [Approach to Metabolic Acidosis in Pediatric Patients](https://www.pedscases.com/sites/default/files/Metabolic%20Acidosis%20Script.pdf) (2024) · PDF · [podcast](https://www.pedscases.com/approach-metabolic-acidosis-pediatric-patients)
+- [Approach to Pediatric Chronic Kidney Disease](https://www.pedscases.com/sites/default/files/Approach%20to%20Chronic%20Kidney%20Disease%20-%20Script.pdf) (2025) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-chronic-kidney-disease)
+- [Approach to Pediatric Renal Tubular Acidosis](https://www.pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Renal%20Tubular%20Acidosis.docx.pdf) (2023) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-renal-tubular-acidosis)
 
 ### Endocrine and Metabolic (3)
 
-- [Approach to Adrenal Insufficiency](https://www.pedscases.com/approach-adrenal-insufficiency) (2020) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Adrenal%20Insufficiency%20Script.pdf)
+- [Approach to Adrenal Insufficiency](https://www.pedscases.com/sites/default/files/Adrenal%20Insufficiency%20Script.pdf) (2020) · PDF · [podcast](https://www.pedscases.com/approach-adrenal-insufficiency)
 - [Approach to Childhood Dyslipidemia](https://www.pedscases.com/approach-childhood-dyslipidemia) (2024) · podcast
 - [Approach to Pediatric Hypocalcemia](https://www.pedscases.com/approach-pediatric-hypocalcemia) (2023) · podcast
 
 ### Neurology (2)
 
-- [Approach to Acute Ataxia](https://www.pedscases.com/approach-acute-ataxia) (2019) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Acute%20Ataxia.pdf)
-- [Approach to Pediatric Migraines](https://www.pedscases.com/approach-pediatric-migraines) (2023) · podcast · [PDF](https://www.pedscases.com/sites/default/files/PedsCases%20Pediatric%20Migraine%20Podcast%20Script%20%28May%202022%29.docx.pdf)
+- [Approach to Acute Ataxia](https://pedscases.com/sites/default/files/Approach%20to%20Acute%20Ataxia.pdf) (2019) · PDF · [podcast](https://www.pedscases.com/approach-acute-ataxia)
+- [Approach to Pediatric Migraines](https://www.pedscases.com/sites/default/files/PedsCases%20Pediatric%20Migraine%20Podcast%20Script%20%28May%202022%29.docx.pdf) (2023) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-migraines)
 
 ### Musculoskeletal and Rheumatology (6)
 
 - [Approach to Knee Pain](https://www.pedscases.com/approach-knee-pain) (2024) · podcast
-- [Approach to Limp](https://www.pedscases.com/approach-limp-updated) (2025) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Limp%20%28Updated%29%20Script.pdf)
-- [Approach to Pediatric Intoeing](https://www.pedscases.com/approach-pediatric-intoeing) (2020) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Pediatric%20Intoeing.pdf)
-- [Approach to Pediatric Toe Walking](https://www.pedscases.com/approach-pediatric-toe-walking) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Toe%20Walking.pdf)
-- [Approach to Shoulder Pain](https://www.pedscases.com/approach-shoulder-pain) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Shoulder%20Pain.pdf)
-- [Approach to Systemic Juvenile Idiopathic Arthritis](https://www.pedscases.com/approach-systemic-juvenile-idiopathic-arthritis) (2023) · podcast · [PDF](https://www.pedscases.com/sites/default/files/PedcasesPodcastSystemicJIA.revised.docx.pdf)
+- [Approach to Limp](https://www.pedscases.com/sites/default/files/Approach%20to%20Limp%20%28Updated%29%20Script.pdf) (2025) · PDF · [podcast](https://www.pedscases.com/approach-limp-updated)
+- [Approach to Pediatric Intoeing](https://www.pedscases.com/sites/default/files/Pediatric%20Intoeing.pdf) (2020) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-intoeing)
+- [Approach to Pediatric Toe Walking](https://www.pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Toe%20Walking.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-toe-walking)
+- [Approach to Shoulder Pain](https://www.pedscases.com/sites/default/files/Approach%20to%20Shoulder%20Pain.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-shoulder-pain)
+- [Approach to Systemic Juvenile Idiopathic Arthritis](https://www.pedscases.com/sites/default/files/PedcasesPodcastSystemicJIA.revised.docx.pdf) (2023) · PDF · [podcast](https://www.pedscases.com/approach-systemic-juvenile-idiopathic-arthritis)
 
 ### Dermatology (9)
 
-- [Approach to Acne (Part 1)](https://www.pedscases.com/approach-acne-part-1-0) (2017) · podcast · [PDF](https://www.pedscases.com/sites/default/files/acne-part1.pdf) · [video](https://www.pedscases.com/approach-acne-part-1)
-- [Approach to Acne (Part 2)](https://www.pedscases.com/approach-acne-part-2-0) (2017) · podcast · [PDF](https://pedscases.com/sites/default/files/acne-part2_0.pdf) · [video](https://www.pedscases.com/approach-acne-part-2)
-- [Approach to Birthmarks](https://www.pedscases.com/approach-birthmarks) (2020) · video · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Birthmarks.pdf)
-- [Approach to Molluscum Contagiosum](https://www.pedscases.com/approach-molluscum-contagiosum) (2020) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Molluscum%20Contagiosum.pdf)
-- [Approach to Pediatric Psoriasis](https://www.pedscases.com/approach-pediatric-psoriasis) (2020) · podcast · [PDF](https://pedscases.com/sites/default/files/Pediatric%20Psoriasis%20Script.pdf) · [video](https://www.pedscases.com/approach-pediatric-psoriasis-0)
-- [Approach to Pediatric Rashes](https://www.pedscases.com/approach-pediatric-rashes) (2015) · podcast · [PDF](https://www.pedscases.com/sites/default/files/PedsCases%20Approach%20to%20Rashes.pdf)
-- [Approach to Pediatric Vitiligo](https://www.pedscases.com/approach-pediatric-vitiligo) (2021) · video · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Vitiligo_Powerpoint%20with%20Notes.pdf)
-- [Approach to Pigmented Cutaneous and Ocular Lesions and Melanoma](https://www.pedscases.com/approach-pigmented-cutaneous-and-ocular-lesions-and-melanoma) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Part%202%20-%20Approach%20to%20Pigmented%20Cutaneous%20and%20Ocular%20Lesions%20and%20Melanoma%20SLIDES.pptx.pdf)
-- [Approach to Warts](https://www.pedscases.com/approach-warts) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Warts%20Script.pdf) · [note](https://www.pedscases.com/approach-warts-verruca) · [note PDF](https://www.pedscases.com/sites/default/files/Warts_PedsCases%20Note.pdf)
+- [Approach to Acne (Part 1)](https://www.pedscases.com/sites/default/files/acne-part1.pdf) (2017) · PDF · [podcast](https://www.pedscases.com/approach-acne-part-1-0) · [video](https://www.pedscases.com/approach-acne-part-1)
+- [Approach to Acne (Part 2)](https://pedscases.com/sites/default/files/acne-part2_0.pdf) (2017) · PDF · [podcast](https://www.pedscases.com/approach-acne-part-2-0) · [video](https://www.pedscases.com/approach-acne-part-2)
+- [Approach to Birthmarks](https://pedscases.com/sites/default/files/Approach%20to%20Birthmarks.pdf) (2020) · PDF · [video](https://www.pedscases.com/approach-birthmarks)
+- [Approach to Molluscum Contagiosum](https://pedscases.com/sites/default/files/Approach%20to%20Molluscum%20Contagiosum.pdf) (2020) · PDF · [podcast](https://www.pedscases.com/approach-molluscum-contagiosum)
+- [Approach to Pediatric Psoriasis](https://pedscases.com/sites/default/files/Pediatric%20Psoriasis%20Script.pdf) (2020) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-psoriasis) · [video](https://www.pedscases.com/approach-pediatric-psoriasis-0)
+- [Approach to Pediatric Rashes](https://www.pedscases.com/sites/default/files/PedsCases%20Approach%20to%20Rashes.pdf) (2015) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-rashes)
+- [Approach to Pediatric Vitiligo](https://www.pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Vitiligo_Powerpoint%20with%20Notes.pdf) (2021) · PDF · [video](https://www.pedscases.com/approach-pediatric-vitiligo)
+- [Approach to Pigmented Cutaneous and Ocular Lesions and Melanoma](https://www.pedscases.com/sites/default/files/Part%202%20-%20Approach%20to%20Pigmented%20Cutaneous%20and%20Ocular%20Lesions%20and%20Melanoma%20SLIDES.pptx.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-pigmented-cutaneous-and-ocular-lesions-and-melanoma)
+- [Approach to Warts (Verruca)](https://www.pedscases.com/approach-warts-verruca) (2021) · note · [PDF](https://www.pedscases.com/sites/default/files/Warts_PedsCases%20Note.pdf) · [podcast](https://www.pedscases.com/approach-warts) · [podcast PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Warts%20Script.pdf)
 
 ### Eyes, Ears, Nose and Throat (12)
 
-- [An Approach to Amblyopia](https://www.pedscases.com/approach-amblyopia) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Amblyopia_FINAL.docx.pdf)
-- [Approach to Blunt Ocular Trauma](https://www.pedscases.com/approach-blunt-ocular-trauma) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Blunt%20Ocular%20Trauma%20201107FINAL.docx.pdf)
-- [Approach to Chalazion and Stye](https://www.pedscases.com/approach-chalazion-and-stye) (2021) · podcast · [PDF](https://pedscases.com/sites/default/files/Chalazion%20and%20Stye%20.pdf)
-- [Approach to Childhood Glaucoma](https://www.pedscases.com/approach-childhood-glaucoma-0) (2019) · podcast · [PDF](https://pedscases.com/sites/default/files/Childhood%20glaucoma%20-%20Slides%20%26%20Notes.pdf) · [video](https://www.pedscases.com/approach-childhood-glaucoma)
-- [Approach to Deep Neck Infections](https://www.pedscases.com/approach-deep-neck-infections) (2023) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Deep%20Neck%20Infections%20Final%20Copy.pdf)
-- [Approach to Esotropia](https://www.pedscases.com/approach-esotropia) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Esotropia.pdf)
-- [Approach to Leukocoria](https://www.pedscases.com/approach-leukocoria-audio) (2016) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Leukocoria-Notes%20.pdf) · [video](https://www.pedscases.com/approach-leukocoria)
-- [Approach to Pediatric Neck Masses](https://www.pedscases.com/approach-pediatric-neck-masses) (2020) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Neck%20Masses.pdf)
-- [Approach to Pediatric Periorbital Edema](https://www.pedscases.com/approach-pediatric-periorbital-edema) (2017) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Periorbital%20Edema.pdf)
-- [Approach to Red Eye](https://www.pedscases.com/approach-red-eye) (2026) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Red%20Eye%20in%20Children%20-%20Script.pdf)
-- [Approach to Sore Throat](https://www.pedscases.com/approach-sore-throat) (2016) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20sore%20throat%20.pdf)
-- [Approach to Structural Eye Anomalies](https://www.pedscases.com/approach-structural-eye-anomalies) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/CongenitialEyeAnomalitiesScript.pdf)
+- [An Approach to Amblyopia](https://www.pedscases.com/sites/default/files/Amblyopia_FINAL.docx.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-amblyopia)
+- [Approach to Blunt Ocular Trauma](https://www.pedscases.com/sites/default/files/Approach%20to%20Blunt%20Ocular%20Trauma%20201107FINAL.docx.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-blunt-ocular-trauma)
+- [Approach to Chalazion and Stye](https://pedscases.com/sites/default/files/Chalazion%20and%20Stye%20.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-chalazion-and-stye)
+- [Approach to Childhood Glaucoma](https://pedscases.com/sites/default/files/Childhood%20glaucoma%20-%20Slides%20%26%20Notes.pdf) (2019) · PDF · [podcast](https://www.pedscases.com/approach-childhood-glaucoma-0) · [video](https://www.pedscases.com/approach-childhood-glaucoma)
+- [Approach to Deep Neck Infections](https://www.pedscases.com/sites/default/files/Approach%20to%20Deep%20Neck%20Infections%20Final%20Copy.pdf) (2023) · PDF · [podcast](https://www.pedscases.com/approach-deep-neck-infections)
+- [Approach to Esotropia](https://www.pedscases.com/sites/default/files/Approach%20to%20Esotropia.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-esotropia)
+- [Approach to Leukocoria](https://www.pedscases.com/sites/default/files/Leukocoria-Notes%20.pdf) (2016) · PDF · [podcast](https://www.pedscases.com/approach-leukocoria-audio) · [video](https://www.pedscases.com/approach-leukocoria)
+- [Approach to Pediatric Neck Masses](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Neck%20Masses.pdf) (2020) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-neck-masses)
+- [Approach to Pediatric Periorbital Edema](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Periorbital%20Edema.pdf) (2017) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-periorbital-edema)
+- [Approach to Red Eye](https://www.pedscases.com/sites/default/files/Approach%20to%20Red%20Eye%20in%20Children%20-%20Script.pdf) (2026) · PDF · [podcast](https://www.pedscases.com/approach-red-eye)
+- [Approach to Sore Throat](https://www.pedscases.com/sites/default/files/Approach%20to%20sore%20throat%20.pdf) (2016) · PDF · [podcast](https://www.pedscases.com/approach-sore-throat)
+- [Approach to Structural Eye Anomalies](https://www.pedscases.com/sites/default/files/CongenitialEyeAnomalitiesScript.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-structural-eye-anomalies)
 
 ### Hematology and Oncology (17)
 
-- [An Approach to Bleeding and Bruising, Part 1](https://www.pedscases.com/approach-bleeding-and-bruising-part-1) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/An%20Approach%20to%20Bleeding%20and%20Bruising%2C%20Part%201%20.docx.pdf)
-- [An Approach to Bleeding and Bruising, Part 2](https://www.pedscases.com/approach-bleeding-and-bruising-part-2) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/An%20Approach%20to%20Bleeding%20and%20Bruising%2C%20Part%202.pdf)
-- [Approach to a Patient with Sickle Cell Disease](https://www.pedscases.com/approach-patient-sickle-cell-disease) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/APPROACH%20TO%20A%20PATIENT%20WITH%20SICKLE%20CELL%20DISEASE.pdf)
-- [Approach to Abdominal Mass Part 1](https://www.pedscases.com/approach-abdominal-mass-part-1) (2017) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Abdominal%20Mass%20Part%201.pdf)
-- [Approach to Abdominal Mass Part 2](https://www.pedscases.com/approach-abdominal-mass-part-2) (2017) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Abdominal%20Mass%20Part%202_0.pdf)
-- [Approach to Acute Leukemia in Children](https://www.pedscases.com/approach-acute-leukemia-children) (2016) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Leukemia%20.pdf)
+- [An Approach to Bleeding and Bruising, Part 1](https://www.pedscases.com/sites/default/files/An%20Approach%20to%20Bleeding%20and%20Bruising%2C%20Part%201%20.docx.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-bleeding-and-bruising-part-1)
+- [An Approach to Bleeding and Bruising, Part 2](https://www.pedscases.com/sites/default/files/An%20Approach%20to%20Bleeding%20and%20Bruising%2C%20Part%202.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-bleeding-and-bruising-part-2)
+- [Approach to a Patient with Sickle Cell Disease](https://www.pedscases.com/sites/default/files/APPROACH%20TO%20A%20PATIENT%20WITH%20SICKLE%20CELL%20DISEASE.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-patient-sickle-cell-disease)
+- [Approach to Abdominal Mass Part 1](https://pedscases.com/sites/default/files/Approach%20to%20Abdominal%20Mass%20Part%201.pdf) (2017) · PDF · [podcast](https://www.pedscases.com/approach-abdominal-mass-part-1)
+- [Approach to Abdominal Mass Part 2](https://pedscases.com/sites/default/files/Approach%20to%20Abdominal%20Mass%20Part%202_0.pdf) (2017) · PDF · [podcast](https://www.pedscases.com/approach-abdominal-mass-part-2)
+- [Approach to Acute Leukemia in Children](https://www.pedscases.com/sites/default/files/Leukemia%20.pdf) (2016) · PDF · [podcast](https://www.pedscases.com/approach-acute-leukemia-children)
 - [Approach to Anemia](https://www.pedscases.com/approach-anemia) (2023) · note · [PDF](https://www.pedscases.com/sites/default/files/4.%20PedsCases%20Approach%20to%20Anemia.pdf)
-- [Approach to Brain Tumors in Children](https://www.pedscases.com/approach-brain-tumors-children) (2020) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Brain%20Tumors%20script.pdf)
-- [Approach to Lymphadenopathy](https://www.pedscases.com/approach-lymphadenopathy) (2017) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Lymphadenopathy%20.pdf)
-- [Approach to Pancytopenia](https://www.pedscases.com/approach-pancytopenia) (2026) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Pancytopenia%20-%20Script.pdf)
-- [Approach to Pediatric Anemia (Part 1)](https://www.pedscases.com/approach-pediatric-anemia-part-1) (2015) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20Pediatric%20Anemia%20-%20Script.pdf)
-- [Approach to Pediatric Anemia (Part 2)](https://www.pedscases.com/approach-pediatric-anemia-part-2) (2015) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20Pediatric%20Anemia%20-%20Script.pdf)
-- [Approach to Pediatric Lymphoma](https://www.pedscases.com/approach-pediatric-lymphoma) (2020) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Lymphoma.pdf)
-- [Approach to Purpura](https://www.pedscases.com/approach-purpura) (2018) · podcast · [PDF](https://pedscases.com/sites/default/files/Purpura%20Script.pdf)
-- [Approach to Thalassemia (Part 1)](https://www.pedscases.com/approach-thalassemia-part-1) (2017) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Thalassemia.pdf)
-- [Approach to Thalassemia (Part 2)](https://www.pedscases.com/approach-thalassemia-part-2) (2017) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Thalassemia.pdf)
+- [Approach to Brain Tumors in Children](https://www.pedscases.com/sites/default/files/Brain%20Tumors%20script.pdf) (2020) · PDF · [podcast](https://www.pedscases.com/approach-brain-tumors-children)
+- [Approach to Lymphadenopathy](https://www.pedscases.com/sites/default/files/Lymphadenopathy%20.pdf) (2017) · PDF · [podcast](https://www.pedscases.com/approach-lymphadenopathy)
+- [Approach to Pancytopenia](https://pedscases.com/sites/default/files/Approach%20to%20Pancytopenia%20-%20Script.pdf) (2026) · PDF · [podcast](https://www.pedscases.com/approach-pancytopenia)
+- [Approach to Pediatric Anemia (Part 1)](https://www.pedscases.com/sites/default/files/Approach%20Pediatric%20Anemia%20-%20Script.pdf) (2015) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-anemia-part-1)
+- [Approach to Pediatric Anemia (Part 2)](https://www.pedscases.com/sites/default/files/Approach%20Pediatric%20Anemia%20-%20Script.pdf) (2015) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-anemia-part-2)
+- [Approach to Pediatric Lymphoma](https://www.pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Lymphoma.pdf) (2020) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-lymphoma)
+- [Approach to Purpura](https://pedscases.com/sites/default/files/Purpura%20Script.pdf) (2018) · PDF · [podcast](https://www.pedscases.com/approach-purpura)
+- [Approach to Thalassemia (Part 1)](https://www.pedscases.com/sites/default/files/Thalassemia.pdf) (2017) · PDF · [podcast](https://www.pedscases.com/approach-thalassemia-part-1)
+- [Approach to Thalassemia (Part 2)](https://www.pedscases.com/sites/default/files/Thalassemia.pdf) (2017) · PDF · [podcast](https://www.pedscases.com/approach-thalassemia-part-2)
 - [Approach to Thrombocytopenia](https://www.pedscases.com/approach-thrombocytopenia) (2021) · note · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Thrombocytopenia_PedsCases%20Note.pdf)
 
 ### Infectious Disease and Immunology (2)
 
-- [Approach to Immunodeficiency](https://www.pedscases.com/approach-immunodeficiency) (2021) · podcast · [note](https://www.pedscases.com/approach-immunodeficiency-0) (2025) · [note PDF](https://www.pedscases.com/sites/default/files/3.%20PedsCases%20Notes%20-%20Immunodeficiency%20RC.pdf)
-- [Approach to Recurrent Fevers](https://www.pedscases.com/approach-recurrent-fevers) (2017) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Recurrent%20Fevers.pdf)
+- [Approach to Immunodeficiency](https://www.pedscases.com/approach-immunodeficiency-0) (2025) · note · [PDF](https://www.pedscases.com/sites/default/files/3.%20PedsCases%20Notes%20-%20Immunodeficiency%20RC.pdf) · [podcast](https://www.pedscases.com/approach-immunodeficiency) (2021)
+- [Approach to Recurrent Fevers](https://www.pedscases.com/sites/default/files/Approach%20to%20Recurrent%20Fevers.pdf) (2017) · PDF · [podcast](https://www.pedscases.com/approach-recurrent-fevers)
 
 ### Mental Health (5)
 
-- [Approach to Emerging Child and Adolescent Psychosis (Part 1 of 3)](https://www.pedscases.com/approach-emerging-child-and-adolescent-psychosis-part-1-3) (2024) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Emerging%20Child%20and%20Adolescent%20Psychosis%20Script.pdf)
-- [Approach to Emerging Child and Adolescent Psychosis (Part 2 of 3)](https://www.pedscases.com/approach-emerging-child-and-adolescent-psychosis-part-2-3) (2024) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Emerging%20Child%20and%20Adolescent%20Psychosis%20Script.pdf)
-- [Approach to Emerging Child and Adolescent Psychosis (Part 3 of 3)](https://www.pedscases.com/approach-emerging-child-and-adolescent-psychosis-part-3-3) (2024) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Psychosis%20Script.pdf)
-- [Approach to Major Depressive Disorder](https://www.pedscases.com/approach-major-depressive-disorder) (2018) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Major%20Depressive%20Disorder.pdf)
-- [Approach to Suicidal Ideation and Behaviour](https://www.pedscases.com/approach-suicidal-ideation-and-behaviour) (2016) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Suicidal%20Ideation%20%26%20Behaviour.pdf)
+- [Approach to Emerging Child and Adolescent Psychosis (Part 1 of 3)](https://www.pedscases.com/sites/default/files/Approach%20to%20Emerging%20Child%20and%20Adolescent%20Psychosis%20Script.pdf) (2024) · PDF · [podcast](https://www.pedscases.com/approach-emerging-child-and-adolescent-psychosis-part-1-3)
+- [Approach to Emerging Child and Adolescent Psychosis (Part 2 of 3)](https://www.pedscases.com/sites/default/files/Approach%20to%20Emerging%20Child%20and%20Adolescent%20Psychosis%20Script.pdf) (2024) · PDF · [podcast](https://www.pedscases.com/approach-emerging-child-and-adolescent-psychosis-part-2-3)
+- [Approach to Emerging Child and Adolescent Psychosis (Part 3 of 3)](https://www.pedscases.com/sites/default/files/Psychosis%20Script.pdf) (2024) · PDF · [podcast](https://www.pedscases.com/approach-emerging-child-and-adolescent-psychosis-part-3-3)
+- [Approach to Major Depressive Disorder](https://www.pedscases.com/sites/default/files/Major%20Depressive%20Disorder.pdf) (2018) · PDF · [podcast](https://www.pedscases.com/approach-major-depressive-disorder)
+- [Approach to Suicidal Ideation and Behaviour](https://pedscases.com/sites/default/files/Approach%20to%20Suicidal%20Ideation%20%26%20Behaviour.pdf) (2016) · PDF · [podcast](https://www.pedscases.com/approach-suicidal-ideation-and-behaviour)
 
 ### Development and Behaviour (2)
 
-- [Approach to Tic Disorders](https://www.pedscases.com/approach-tic-disorders) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Script%20-%20PedsCases%20Tic%20Disorders.docx.pdf)
-- [CPS Podcast: Literacy in School-Aged Children - A Paediatric Approach to Advocacy and Assessment](https://www.pedscases.com/cps-podcast-literacy-school-aged-children-paediatric-approach-advocacy-and-assessment) (2026) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Literacy%20in%20school-aged%20children%20-%20a%20paediatric%20approach%20to%20advocacy%20and%20assessment%20%28CPS%29%20-%20Script.pdf)
+- [Approach to Tic Disorders](https://www.pedscases.com/sites/default/files/Script%20-%20PedsCases%20Tic%20Disorders.docx.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-tic-disorders)
+- [CPS Podcast: Literacy in School-Aged Children - A Paediatric Approach to Advocacy and Assessment](https://www.pedscases.com/sites/default/files/Literacy%20in%20school-aged%20children%20-%20a%20paediatric%20approach%20to%20advocacy%20and%20assessment%20%28CPS%29%20-%20Script.pdf) (2026) · PDF · [podcast](https://www.pedscases.com/cps-podcast-literacy-school-aged-children-paediatric-approach-advocacy-and-assessment)
 
 ### Adolescent Health (8)
 
-- [An Approach to Dealing with Challenging Behavior and Mood Changes in Adolescents](https://www.pedscases.com/approach-dealing-challenging-behavior-and-mood-changes-adolescents) (2018) · podcast · [PDF](https://www.pedscases.com/sites/default/files/An%20Approach%20to%20Dealing%20with%20Challenging%20Behavior%20and%20Changes%20in%20Mood%20in%20Adolescents.pdf)
-- [Approach to Adnexal Torsion in Children and Adolescents](https://www.pedscases.com/approach-adnexal-torsion-children-and-adolescents) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/PedsCases%20Podcast%20-%20Approach%20to%20Adnexal%20Torsion%20in%20Children%20and%20Adolescents%20-%20DFK%20and%20JW.docx.pdf)
-- [Approach to Adolescent History Taking - Part 1](https://www.pedscases.com/approach-adolescent-history-taking-part-1) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Adolescent%20History%20Part%201%20Updated.pdf)
-- [Approach to Adolescent History Taking - Part 2](https://www.pedscases.com/approach-adolescent-history-taking-part-2) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Adolescent%20History%20Part%202%20Updated.pdf)
+- [An Approach to Dealing with Challenging Behavior and Mood Changes in Adolescents](https://www.pedscases.com/sites/default/files/An%20Approach%20to%20Dealing%20with%20Challenging%20Behavior%20and%20Changes%20in%20Mood%20in%20Adolescents.pdf) (2018) · PDF · [podcast](https://www.pedscases.com/approach-dealing-challenging-behavior-and-mood-changes-adolescents)
+- [Approach to Adnexal Torsion in Children and Adolescents](https://www.pedscases.com/sites/default/files/PedsCases%20Podcast%20-%20Approach%20to%20Adnexal%20Torsion%20in%20Children%20and%20Adolescents%20-%20DFK%20and%20JW.docx.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-adnexal-torsion-children-and-adolescents)
+- [Approach to Adolescent History Taking - Part 1](https://www.pedscases.com/sites/default/files/Approach%20to%20Adolescent%20History%20Part%201%20Updated.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-adolescent-history-taking-part-1)
+- [Approach to Adolescent History Taking - Part 2](https://www.pedscases.com/sites/default/files/Approach%20to%20Adolescent%20History%20Part%202%20Updated.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-adolescent-history-taking-part-2)
 - [Approach to Eating Disorders in a Pediatric Population](https://www.pedscases.com/approach-eating-disorders-pediatric-population-updated) (2024) · podcast
-- [Approach to Opioid Use Disorder](https://www.pedscases.com/approach-opioid-use-disorder) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Script%20-%20Opioid%20Use%20Disorder.Final_.docx.pdf)
+- [Approach to Opioid Use Disorder](https://www.pedscases.com/sites/default/files/Script%20-%20Opioid%20Use%20Disorder.Final_.docx.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-opioid-use-disorder)
 - [CPS Position Statement on An Affirming Approach to Caring for Transgender and Gender-diverse Youth: Part 1](https://www.pedscases.com/cps-position-statement-affirming-approach-caring-transgender-and-gender-diverse-youth-part-1) (2024) · podcast
-- [CPS Position Statement on an Affirming Approach to Caring for Transgender and Gender-diverse Youth: Part 2](https://www.pedscases.com/cps-position-statement-affirming-approach-caring-transgender-and-gender-diverse-youth-part-2) (2024) · podcast · [PDF](https://www.pedscases.com/sites/default/files/An%20Affirming%20Approach%20to%20Caring%20for%20Transgender%20and%20Gender-diverse%20Youth%20%28Part%202%29%20-%20CPS%20Podcast.pdf)
+- [CPS Position Statement on an Affirming Approach to Caring for Transgender and Gender-diverse Youth: Part 2](https://www.pedscases.com/sites/default/files/An%20Affirming%20Approach%20to%20Caring%20for%20Transgender%20and%20Gender-diverse%20Youth%20%28Part%202%29%20-%20CPS%20Podcast.pdf) (2024) · PDF · [podcast](https://www.pedscases.com/cps-position-statement-affirming-approach-caring-transgender-and-gender-diverse-youth-part-2)
 
 ### Genetics and Metabolic Disease (2)
 
-- [Approach to Dysmorphic Features](https://www.pedscases.com/approach-dysmorphic-features) (2026) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Dysmorphic%20Features.pdf)
-- [Approach to phenylketonuria](https://www.pedscases.com/approach-phenylketonuria) (2022) · podcast · [PDF](https://www.pedscases.com/sites/default/files/PKU%20Podcast%20Script.pdf)
+- [Approach to Dysmorphic Features](https://www.pedscases.com/sites/default/files/Approach%20to%20Dysmorphic%20Features.pdf) (2026) · PDF · [podcast](https://www.pedscases.com/approach-dysmorphic-features)
+- [Approach to phenylketonuria](https://www.pedscases.com/sites/default/files/PKU%20Podcast%20Script.pdf) (2022) · PDF · [podcast](https://www.pedscases.com/approach-phenylketonuria)
 
 ### Nutrition (2)
 
-- [Approach to Nutrition Support: Parenteral Nutrition](https://www.pedscases.com/approach-nutrition-support-parenteral-nutrition) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Parenteral%20Nutrition%20Script%20FINAL.docx.pdf)
-- [Approach to Nutrition Support: Tube Feeding](https://www.pedscases.com/approach-nutrition-support-tube-feeding) (2020) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Tube%20Feeding.pdf)
+- [Approach to Nutrition Support: Parenteral Nutrition](https://www.pedscases.com/sites/default/files/Parenteral%20Nutrition%20Script%20FINAL.docx.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-nutrition-support-parenteral-nutrition)
+- [Approach to Nutrition Support: Tube Feeding](https://pedscases.com/sites/default/files/Approach%20to%20Tube%20Feeding.pdf) (2020) · PDF · [podcast](https://www.pedscases.com/approach-nutrition-support-tube-feeding)
 
 ### Emergencies, Injuries and Child Protection (7)
 
 - [Approach to Child Maltreatment](https://www.pedscases.com/approach-child-maltreatment) (2025) · note · [PDF](https://www.pedscases.com/sites/default/files/PedsCases%20Approach%20to%20Child%20Maltreatment.pdf)
 - [Approach to Drowning](https://www.pedscases.com/approach-drowning) (2023) · podcast
 - [Approach to Foreign Bodies in Children](https://www.pedscases.com/approach-foreign-bodies-children) (2024) · podcast
-- [Approach to Pediatric Head Injury](https://www.pedscases.com/approach-pediatric-head-injury) (2016) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Head%20Injury.pdf)
-- [Approach to Pediatric Toxicology and Ingestions](https://www.pedscases.com/approach-pediatric-toxicology-and-ingestions) (2021) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Intoxication%20Script.pdf)
-- [Approach to Shock](https://www.pedscases.com/approach-shock) (2016) · podcast · [PDF](https://www.pedscases.com/sites/default/files/approach%20to%20shock.pdf)
+- [Approach to Pediatric Head Injury](https://www.pedscases.com/sites/default/files/Head%20Injury.pdf) (2016) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-head-injury)
+- [Approach to Pediatric Toxicology and Ingestions](https://www.pedscases.com/sites/default/files/Intoxication%20Script.pdf) (2021) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-toxicology-and-ingestions)
+- [Approach to Shock](https://www.pedscases.com/sites/default/files/approach%20to%20shock.pdf) (2016) · PDF · [podcast](https://www.pedscases.com/approach-shock)
 - [Approach to Thermal Burns](https://www.pedscases.com/approach-thermal-burns) (2023) · note · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Thermal%20Burns.pdf)
 
 ### Clinical Skills, Tests and Imaging (10)
 
 - [An Approach to Lumbar Punctures](https://www.pedscases.com/classic-video-approach-lumbar-punctures) (2014) · video
-- [Approach to Family History and Pedigree: Part 1](https://www.pedscases.com/approach-family-history-and-pedigree-part-1) (2023) · video · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Family%20History%20and%20Pedigrees_July%2031%202022.pptx.pdf)
+- [Approach to Family History and Pedigree: Part 1](https://www.pedscases.com/sites/default/files/Approach%20to%20Family%20History%20and%20Pedigrees_July%2031%202022.pptx.pdf) (2023) · PDF · [video](https://www.pedscases.com/approach-family-history-and-pedigree-part-1)
 - [Approach to Otoscopy](https://www.pedscases.com/classic-video-approach-otoscopy) (2014) · video
-- [Approach to Pediatric Abdominal X-Rays](https://www.pedscases.com/approach-pediatric-abdominal-x-rays) (2017) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Abdominal%20X-Rays%20Slides.pdf) · [video](https://www.pedscases.com/approach-pediatric-abdominal-x-rays-video)
-- [Approach to Pediatric Chest X-Rays](https://www.pedscases.com/approach-pediatric-chest-x-rays) (2016) · podcast · [PDF](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Chest%20X-Rays%20Slides%20and%20Script.pdf) · [video](https://www.pedscases.com/approach-pediatric-chest-x-rays-video)
+- [Approach to Pediatric Abdominal X-Rays](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Abdominal%20X-Rays%20Slides.pdf) (2017) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-abdominal-x-rays) · [video](https://www.pedscases.com/approach-pediatric-abdominal-x-rays-video)
+- [Approach to Pediatric Chest X-Rays](https://pedscases.com/sites/default/files/Approach%20to%20Pediatric%20Chest%20X-Rays%20Slides%20and%20Script.pdf) (2016) · PDF · [podcast](https://www.pedscases.com/approach-pediatric-chest-x-rays) · [video](https://www.pedscases.com/approach-pediatric-chest-x-rays-video)
 - [Approach to PIV Insertion in a Pediatric Patient: Procedural Skills - Peripheral Intravenous Access](https://www.pedscases.com/approach-piv-insertion-pediatric-patient-procedural-skills-peripheral-intravenous-access) (2023) · video
-- [Approach to Spirometry](https://www.pedscases.com/approach-spirometry) (2022) · video · [PDF](https://www.pedscases.com/sites/default/files/Slides%20for%20podcast_June%2029%2C%202021.pptx.pdf)
-- [Approach to the Family History and Pedigree Video 2](https://www.pedscases.com/approach-family-history-and-pedigree-video-2) (2023) · video · [PDF](https://www.pedscases.com/sites/default/files/Approach%20to%20Family%20History%20and%20Pedigrees_July%2031%202022.pptx.pdf)
+- [Approach to Spirometry](https://www.pedscases.com/sites/default/files/Slides%20for%20podcast_June%2029%2C%202021.pptx.pdf) (2022) · PDF · [video](https://www.pedscases.com/approach-spirometry)
+- [Approach to the Family History and Pedigree Video 2](https://www.pedscases.com/sites/default/files/Approach%20to%20Family%20History%20and%20Pedigrees_July%2031%202022.pptx.pdf) (2023) · PDF · [video](https://www.pedscases.com/approach-family-history-and-pedigree-video-2)
 - [Approach to the Neurological Exam](https://www.pedscases.com/approach-neurological-exam) (2025) · note · [PDF](https://www.pedscases.com/sites/default/files/2.%20Approach%20to%20Neurological%20Exam%20PedsCases%20Edits.pdf)
-- [Pediatric IV Insertion (Part I): A Pre-Procedural Approach](https://www.pedscases.com/pediatric-iv-insertion-part-i-pre-procedural-approach) (2023) · podcast · [PDF](https://www.pedscases.com/sites/default/files/Pediatric%20IV%20Insertion%20Part%20I_%20A%20Pre-Procedural%20Approach.pdf)
+- [Pediatric IV Insertion (Part I): A Pre-Procedural Approach](https://www.pedscases.com/sites/default/files/Pediatric%20IV%20Insertion%20Part%20I_%20A%20Pre-Procedural%20Approach.pdf) (2023) · PDF · [podcast](https://www.pedscases.com/pediatric-iv-insertion-part-i-pre-procedural-approach)
 
 ## More Approaches
 
