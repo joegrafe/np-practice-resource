@@ -3,10 +3,10 @@ title: Tools
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-16
 review-due: 2027-10-16
-reviewers: []
+reviewers: [joegrafe]
 hide:
   - comments
 ---
