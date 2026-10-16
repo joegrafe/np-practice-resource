@@ -3,10 +3,10 @@ title: Pediatric Asthma
 type: population
 tags: [population, pediatrics, asthma, respiratory, wheeze]
 jurisdiction: [BC, CA]
-status: review
+status: published
 last-reviewed: 2026-10-16
 review-due: 2027-10-16
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: chbc-pediatric-asthma-guideline
     title: Child Health BC Provincial Pediatric Asthma Management Guideline
@@ -281,8 +281,7 @@ sources:
     url: "https://ubccpd.ca/course/pediatric-asthma-management"
     checked:
 ---
-<!-- status: review. Set status to published after opening every link.
-     Sources are shared with the Asthma condition page; keep both pages at the same versions.
+<!-- Sources are shared with the Asthma condition page; keep both pages at the same versions.
      ubccpd.ca and bcchildrens.ca block automated checks.
      Link to the source guidance; don't restate its recommendations. -->
 
