@@ -908,5 +908,6 @@ This page lists 93 "approach to" and "evaluation" review articles relevant to pr
 ## More Approaches
 
 - [McGill Journal of Medicine: Approach To](McGill%20Approach%20To%20Articles.md) — *peer-reviewed "Approach to" articles by body system*
+- [PedsCases: Approach To](PedsCases%20Approach%20To.md) — *pediatric "Approach to" podcasts, videos and notes*
 - [University of Calgary Black Books](University%20of%20Calgary%20Black%20Books.md) — *schemes for common presentations*
 - [AFP by topic](https://www.aafp.org/afp/topics) — *all AFP articles by topic; newer articles may need an AAFP membership*
