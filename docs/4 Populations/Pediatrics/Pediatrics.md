@@ -145,6 +145,10 @@ sources:
 
 - [Pediatric Asthma](Pediatric%20Asthma.md) — *BC, Canadian and TREKK sources for children and youth with asthma*
 
+### Urinary Tract Infection
+
+- [Pediatric UTI](Pediatric%20UTI.md) — *CPS and TREKK guidance, CHARLiE advice and BC Children's Hospital referral for children with a UTI*
+
 ### Hypertension
 
 - [Hypertension](../../3%20Conditions/Cardiovascular/Hypertension.md) — *the adult condition page; the 2025 Hypertension Canada guideline there is not written for children*

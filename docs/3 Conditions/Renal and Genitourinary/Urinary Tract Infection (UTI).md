@@ -9,7 +9,6 @@ tags:
   - cystitis
   - pyelonephritis
   - adults
-  - pediatrics
   - pregnancy
   - dysuria
 jurisdiction:
@@ -61,23 +60,6 @@ sources:
     version: "2023"
     url: https://www.healthlinkbc.ca/healthwise/urinary-tract-infections-teenagers-and-adults
     checked: 2026-10-11
-  - id: healthlinkbc-uti-children
-    title: Urinary Tract Infections in Children
-    publisher: HealthLink BC
-    jurisdiction: BC
-    kind: patient
-    version:
-    url: https://www.healthlinkbc.ca/healthwise/urinary-tract-infections-children
-    checked: 2026-10-11
-  - id: cps-uti-children-2026
-    title: "Optimizing management of urinary tract infections in children: A need for improved stewardship"
-    publisher: Canadian Paediatric Society
-    jurisdiction: CA
-    kind: guideline
-    version: "2026"
-    url: https://cps.ca/en/documents/position/management-urinary-tract-infections
-    checked: 2026-10-11
-    supersedes: cps-uti-children-2014
   - id: aua-cua-sufu-ruti
     title: "Recurrent Uncomplicated Urinary Tract Infections in Women: AUA/CUA/SUFU Guideline"
     publisher: American Urological Association / Canadian Urological Association / SUFU
@@ -174,25 +156,17 @@ sources:
     version: "2020"
     url: https://www.aafp.org/afp/2020/0801/p173
     checked: 2026-10-11
-  - id: rccbc-rtvs-charlie
-    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
-    publisher: Rural Coordination Centre of BC (RCCbc)
-    jurisdiction: BC
-    kind: pathway
-    version:
-    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
-    checked: 2026-10-16
 ---
 <!-- No BC Guidelines (GPAC) guideline for UTI; BC Guidelines refers to Bugs & Drugs for antimicrobial use.
+     Pediatric UTI sources live on Populations > Pediatrics > Pediatric UTI only; all-ages sources live here.
      Link to the source guidance; don't restate its recommendations. -->
+
+*For infants and children, including the Canadian Paediatric Society statement, TREKK, CHARLiE and BC Children's Hospital referral, see [Pediatric UTI](../../4%20Populations/Pediatrics/Pediatric%20UTI.md).*
 
 ## Key Sources
 
 ??? info "[BCCDC Certified Decision Support Tool: Uncomplicated Lower UTI (2026)](https://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/STI/Med%20Handouts/Care%20and%20Treatment%20Plan%20-%20UTI.pdf)"
 	*BC Centre for Disease Control, June 2026 (PDF). Written for certified-practice RNs managing uncomplicated lower UTI in sexually active people with vulvar/vaginal anatomy.*  
-
-??? info "[CPS: Optimizing Management of Urinary Tract Infections in Children (2026)](https://cps.ca/en/documents/position/management-urinary-tract-infections)"
-	*Canadian Paediatric Society position statement, posted August 25, 2026. First UTIs in children aged 1 month to 5 years. Replaces the retired 2014 CPS statement.*  
 
 ??? info "[Recurrent Uncomplicated UTIs in Women: AUA/CUA/SUFU Guideline (2019, amended 2025)](https://www.auanet.org/guidelines-and-quality/guidelines/recurrent-uti)"
 	*Joint guideline of the American Urological Association, the Canadian Urological Association and SUFU.*  
@@ -228,13 +202,11 @@ sources:
 ## Advice and Referral
 
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
-- [RTVS CHARLiE: Child Health Advice in Real-Time Electronically (RCCbc)](https://rccbc.ca/initiatives/rtvs/charlie/) — *for children: 24/7 pediatric advice by Zoom (add the contact `charlie1@rccbc.ca`; it takes no email) or phone (236-305-5352) from pediatricians, pediatric emergency physicians and pediatric intensivists, for physicians, NPs, nurses and midwives in rural, remote and First Nations communities in BC*
 - [PharmaCare: Minor Ailments and Contraception Service (MACS)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/initiatives/ppmac) — *BC community pharmacists can assess and prescribe for uncomplicated UTI*
 
 ## Patient Resources
 
 - [HealthLink BC - Urinary Tract Infections in Teenagers and Adults](https://www.healthlinkbc.ca/healthwise/urinary-tract-infections-teenagers-and-adults)
-- [HealthLink BC - Urinary Tract Infections in Children](https://www.healthlinkbc.ca/healthwise/urinary-tract-infections-children)
 - [Choosing Wisely Canada - Antibiotics for Urinary Tract Infections in Older People](https://choosingwiselycanada.org/pamphlet/antibiotics-urinary-tract-infections/)
 
 ## Evidence Pack

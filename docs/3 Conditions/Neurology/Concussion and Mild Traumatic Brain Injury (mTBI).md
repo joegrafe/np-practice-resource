@@ -371,14 +371,6 @@ sources:
     version:
     url: "https://www.mdcalc.com/calc/3702/pediatric-glasgow-coma-scale-pgcs"
     checked: 2026-10-09
-  - id: rccbc-rtvs-charlie
-    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
-    publisher: Rural Coordination Centre of BC (RCCbc)
-    jurisdiction: BC
-    kind: pathway
-    version:
-    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
-    checked: 2026-10-16
 ---
 <!-- Not reachable from the build environment on 2026-10-09: CATT resource letters (resources.cattonline.com) and SCAT6/Child SCAT6 (bjsm.bmj.com shows a bot check; the Concussion Recognition Tool 6 is linked instead).
      G.F. Strong Adult Concussion Service (vch.ca) refuses automated requests and is left out.
@@ -483,7 +475,6 @@ sources:
 - [G.F. Strong Adolescent Complex Concussion Clinic Referral Form (VCH, PDF)](https://teenconcussion.vch.ca/assets/resources/Documents/GFS-ACCC-Referral-Form.pdf)
 - [Fraser Health Concussion Services](https://www.fraserhealth.ca/Service-Directory/Services/Clinics/concussion-services)
 - [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists, including WorkSafeBC occupational medicine*
-- [RTVS CHARLiE: Child Health Advice in Real-Time Electronically (RCCbc)](https://rccbc.ca/initiatives/rtvs/charlie/) — *for children and youth: 24/7 pediatric advice by Zoom (add the contact `charlie1@rccbc.ca`; it takes no email) or phone (236-305-5352) from pediatricians, pediatric emergency physicians and pediatric intensivists, for physicians, NPs, nurses and midwives in rural, remote and First Nations communities in BC*
 
 ## Patient Resources
 

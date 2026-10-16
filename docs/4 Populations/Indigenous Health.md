@@ -102,13 +102,6 @@ sources:
     kind: pathway
     url: "https://fnha.ca/services-and-support/access-and-support/health-and-virtual-services/maternity-and-babies-advice-line/"
     checked: 2026-10-10
-  - id: rccbc-rtvs-charlie
-    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
-    publisher: Rural Coordination Centre of BC (RCCbc)
-    jurisdiction: BC
-    kind: pathway
-    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
-    checked: 2026-10-16
   - id: fnha-primary-care-centres
     title: First Nations-led Primary Health Care Centres
     publisher: First Nations Health Authority
@@ -299,7 +292,6 @@ sources:
 - [First Nations Virtual Substance Use and Psychiatry Service](https://fnha.ca/services-and-support/access-and-support/health-and-virtual-services/virtual-substance-use-and-psychiatry-service/) — *referral-based addictions medicine and psychiatry for First Nations people and families in BC; NPs can refer; providers call 1-833-456-7655*
 - [First Nations Virtual Doctor of the Day](https://fnha.ca/services-and-support/access-and-support/health-and-virtual-services/virtual-doctor-of-the-day/) — *virtual primary care for First Nations people in BC who can't reach their own provider; 1-855-344-3800*
 - [Maternity and Babies Advice Line (MaBAL)](https://fnha.ca/services-and-support/access-and-support/health-and-virtual-services/maternity-and-babies-advice-line/) — *24/7 advice for providers in rural and remote communities on pregnancy, birth and newborn care; run by RCCbc with FNHA*
-- [RTVS CHARLiE: Child Health Advice in Real-Time Electronically (RCCbc)](https://rccbc.ca/initiatives/rtvs/charlie/) — *24/7 pediatric advice by Zoom (add the contact `charlie1@rccbc.ca`; it takes no email) or phone (236-305-5352) from pediatricians, pediatric emergency physicians and pediatric intensivists, for physicians, NPs, nurses and midwives in rural, remote and First Nations communities in BC; nurses at nursing stations can call directly*
 - [First Nations-led Primary Health Care Centres](https://fnha.ca/primary-care-centres/) — *list of centres by region*
 - [FNHA - Treatment centres](https://fnha.ca/services-and-support/access-and-support/health-and-virtual-services/treatment-centres/)
 - [FNHA - Traditional wellness and healing](https://fnha.ca/services-and-support/culturally-grounded-care/traditional-wellness-and-healing/)
