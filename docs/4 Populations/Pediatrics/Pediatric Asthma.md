@@ -254,6 +254,14 @@ sources:
     version:
     url: "https://ubccpd.ca/course/pediatric-asthma-management"
     checked:
+  - id: rccbc-rtvs-charlie
+    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
+    publisher: Rural Coordination Centre of BC (RCCbc)
+    jurisdiction: BC
+    kind: pathway
+    version:
+    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
+    checked: 2026-10-16
 ---
 <!-- Pediatric asthma sources live here only; all-ages sources live on the Asthma condition page.
      The two BC pediatric patient care flow sheets state no version; the 2023 guideline still links them.
@@ -300,6 +308,7 @@ sources:
 
 ## Advice and Referral
 
+- [RTVS CHARLiE: Child Health Advice in Real-Time Electronically (RCCbc)](https://rccbc.ca/initiatives/rtvs/charlie/) — *24/7 pediatric advice by Zoom (add the contact `charlie1@rccbc.ca`; it takes no email) or phone (236-305-5352) from pediatricians, pediatric emergency physicians and pediatric intensivists, for physicians, NPs, nurses and midwives in rural, remote and First Nations communities in BC*
 - [BC Children's Hospital: Respiratory Medicine Referral](https://www.bcchildrens.ca/health-professionals/make-referral/respiratory-medicine-referral) — *Asthma Clinic, Pulmonary Function Laboratory and Respiratory Consult Clinic*
     - [Asthma Program Referral Form (revised June 2022, PDF)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/asthma-clinic-referral-form.pdf)
 - [BC Children's Hospital: Asthma Clinical Resources](https://www.bcchildrens.ca/clinics-services/respiratory-medicine/asthma-clinical-resources)
