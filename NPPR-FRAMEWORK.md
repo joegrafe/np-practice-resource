@@ -143,7 +143,7 @@ Before writing or reviewing any page, check every site in the "All topics" row a
 | Neurology | BC Guidelines | Alzheimer Society (alzheimer.ca), Heart & Stroke for stroke | MoCA (mocacognition.com); MDCalc: NIHSS, ABCD2 | Alzheimer Society |
 | Mental Health and Substance Use | BCCSU (bccsu.ca), HeretoHelp (heretohelp.bc.ca) | CANMAT, CAMH, CADDRA, META:PHI (metaphi.ca), Canadian Psychiatric Association | MDCalc: PHQ-9, GAD-7 | HeretoHelp, CAMH |
 | Infectious Disease | BCCDC, BC Centre for Excellence in HIV/AIDS (bccfe.ca), ImmunizeBC | AMMI Canada and Firstline (firstline.org), NACI and STI guidelines (canada.ca), Bugs & Drugs | MDCalc: Centor (McIsaac) | HealthLinkBC, ImmunizeBC, Smart Sex Resource |
-| Dermatology | BC Guidelines | Canadian Dermatology Association (dermatology.ca) | DermNet NZ (images) | DermNet NZ |
+| Dermatology | BC Guidelines | Canadian Dermatology Association (dermatology.ca) | DermNet (dermnetnz.org): check every topic, image, treatment and drug page for the condition | DermNet NZ |
 | Hematology and Oncology | BC Cancer (bccancer.bc.ca) | Thrombosis Canada (thrombosiscanada.ca) | MDCalc: Wells for DVT | BC Cancer |
 | Eyes, Ears, Nose and Throat | BC Guidelines | Canadian Paediatric Society for children | EyeGuru (eyeguru.org) | HealthLinkBC |
 | Sexual and Reproductive Health | Perinatal Services BC, BC Women's, Smart Sex Resource | SOGC (sogc.org, jogc.com), Sex & U (sexandu.ca) | none listed yet | Sex & U, Smart Sex Resource |

@@ -275,9 +275,473 @@ sources:
     title: Psoriasis
     publisher: DermNet
     jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-psoriasis-treatment
+    title: "Psoriasis treatment"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/treatment-of-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-chronic-plaque-psoriasis
+    title: "Chronic plaque psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/chronic-plaque-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-chronic-plaque-psoriasis-images
+    title: "Chronic plaque psoriasis images"
+    publisher: DermNet
+    jurisdiction: INTL
     kind: tool
     version:
-    url: "https://dermnetnz.org/topics/psoriasis"
+    url: "https://dermnetnz.org/images/chronic-plaque-psoriasis-images"
+    checked: 2026-10-26
+  - id: dermnet-guttate-psoriasis
+    title: "Guttate psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/guttate-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-guttate-psoriasis-images
+    title: "Guttate psoriasis images"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version:
+    url: "https://dermnetnz.org/images/guttate-psoriasis-images"
+    checked: 2026-10-26
+  - id: dermnet-scalp-psoriasis
+    title: "Scalp psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/scalp-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-scalp-psoriasis-images
+    title: "Scalp psoriasis images"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version:
+    url: "https://dermnetnz.org/images/scalp-psoriasis-images"
+    checked: 2026-10-26
+  - id: dermnet-nail-psoriasis
+    title: "Nail psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/nail-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-nail-psoriasis-images
+    title: "Nail psoriasis images"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/nail-psoriasis-images"
+    checked: 2026-10-26
+  - id: dermnet-flexural-psoriasis
+    title: "Flexural psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/flexural-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-flexural-psoriasis-images
+    title: "Flexural psoriasis images"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/flexural-psoriasis-images"
+    checked: 2026-10-26
+  - id: dermnet-facial-psoriasis
+    title: "Facial psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/facial-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-genital-psoriasis
+    title: "Genital psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/genital-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-genital-psoriasis-images
+    title: "Genital psoriasis images"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/genital-psoriasis-images"
+    checked: 2026-10-26
+  - id: dermnet-palmoplantar-psoriasis
+    title: "Palmoplantar psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/psoriasis-of-the-palms-and-soles"
+    checked: 2026-10-26
+  - id: dermnet-palmoplantar-psoriasis-images
+    title: "Palmoplantar psoriasis images"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/palmoplantar-psoriasis-images"
+    checked: 2026-10-26
+  - id: dermnet-sebopsoriasis
+    title: "Sebopsoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/sebopsoriasis"
+    checked: 2026-10-26
+  - id: dermnet-oral-psoriasis
+    title: "Oral psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/oral-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-erythrodermic-psoriasis
+    title: "Erythrodermic psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/erythrodermic-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-generalised-pustular-psoriasis
+    title: "Generalised pustular psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/generalised-pustular-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-pustular-pregnancy-psoriasis
+    title: "Pustular psoriasis of pregnancy"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/pustular-psoriasis-of-pregnancy"
+    checked: 2026-10-26
+  - id: dermnet-paediatric-psoriasis
+    title: "Paediatric psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/paediatric-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-drug-induced-psoriasis
+    title: "Drug-induced psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/drug-induced-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-psoriatic-arthritis
+    title: "Psoriatic arthritis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/psoriatic-arthritis"
+    checked: 2026-10-26
+  - id: dermnet-psychological-effects
+    title: "Psychological effects of psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/psychological-effects-of-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-liver
+    title: "Liver problems and psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/liver-problems-and-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-pregnancy-treatment
+    title: "Treatment of psoriasis in pregnancy"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/treatment-of-psoriasis-in-pregnancy"
+    checked: 2026-10-26
+  - id: dermnet-biologics-reproduction
+    title: "Biologics and reproduction in psoriasis"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: summary
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/biologics-and-novel-small-molecule-treatments-reproduction-and-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-pasi-score
+    title: "PASI (psoriasis area and severity index)"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/pasi-score"
+    checked: 2026-10-26
+  - id: dermnet-po-pasi
+    title: "Psoriasis PO-PASI scoring"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version:
+    url: "https://dermnetnz.org/resources/psoriasis-po-pasi"
+    checked: 2026-10-26
+  - id: dermnet-dlqi
+    title: "Dermatology Life Quality Index (DLQI)"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2024"
+    url: "https://dermnetnz.org/topics/dermatology-life-quality-index-dlqi"
+    checked: 2026-10-26
+  - id: dermnet-topical-steroids
+    title: "Topical steroids"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/topical-steroid"
+    checked: 2026-10-26
+  - id: dermnet-calcipotriol
+    title: "Calcipotriol"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/calcipotriol"
+    checked: 2026-10-26
+  - id: dermnet-calcipotriol-betamethasone
+    title: "Calcipotriol/betamethasone dipropionate ointment and gel"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/calcipotriolbetamethasone-dipropionate-ointment-and-gel"
+    checked: 2026-10-26
+  - id: dermnet-calcipotriol-betamethasone-foam
+    title: "Calcipotriol/betamethasone dipropionate foam"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/calcipotriolbetamethasone-dipropionate-foam"
+    checked: 2026-10-26
+  - id: dermnet-coal-tar
+    title: "Coal tar"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/coal-tar"
+    checked: 2026-10-26
+  - id: dermnet-dithranol
+    title: "Dithranol (anthralin)"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/dithranol"
+    checked: 2026-10-26
+  - id: dermnet-calcineurin-inhibitors
+    title: "Calcineurin inhibitors"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/calcineurin-inhibitors"
+    checked: 2026-10-26
+  - id: dermnet-tapinarof
+    title: "Tapinarof"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/tapinarof"
+    checked: 2026-10-26
+  - id: dermnet-phototherapy
+    title: "Phototherapy"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2022"
+    url: "https://dermnetnz.org/topics/phototherapy"
+    checked: 2026-10-26
+  - id: dermnet-uvb-phototherapy
+    title: "UVB phototherapy"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/uvb-phototherapy"
+    checked: 2026-10-26
+  - id: dermnet-methotrexate
+    title: "Methotrexate"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/methotrexate"
+    checked: 2026-10-26
+  - id: dermnet-ciclosporin
+    title: "Ciclosporin (cyclosporine)"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/ciclosporin"
+    checked: 2026-10-26
+  - id: dermnet-acitretin
+    title: "Acitretin"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/acitretin"
+    checked: 2026-10-26
+  - id: dermnet-apremilast
+    title: "Apremilast"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/apremilast"
+    checked: 2026-10-26
+  - id: dermnet-deucravacitinib
+    title: "Deucravacitinib"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/deucravacitinib"
+    checked: 2026-10-26
+  - id: dermnet-biologics
+    title: "Biologics for psoriasis: overview"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/biological-agents-for-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-adalimumab
+    title: "Adalimumab"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/adalimumab-for-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-bimekizumab
+    title: "Bimekizumab"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/bimekizumab"
+    checked: 2026-10-26
+  - id: dermnet-brodalumab
+    title: "Brodalumab"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/brodalumab"
+    checked: 2026-10-26
+  - id: dermnet-etanercept
+    title: "Etanercept"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/etanercept-for-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-guselkumab
+    title: "Guselkumab"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2022"
+    url: "https://dermnetnz.org/topics/guselkumab"
+    checked: 2026-10-26
+  - id: dermnet-infliximab
+    title: "Infliximab"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/infliximab-for-psoriasis"
+    checked: 2026-10-26
+  - id: dermnet-ixekizumab
+    title: "Ixekizumab"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/ixekizumab"
+    checked: 2026-10-26
+  - id: dermnet-risankizumab
+    title: "Risankizumab"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/risankizumab"
+    checked: 2026-10-26
+  - id: dermnet-secukinumab
+    title: "Secukinumab"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/secukinumab"
+    checked: 2026-10-26
+  - id: dermnet-tildrakizumab
+    title: "Tildrakizumab"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/tildrakizumab"
+    checked: 2026-10-26
+  - id: dermnet-ustekinumab
+    title: "Ustekinumab"
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version: "Last reviewed 2023"
+    url: "https://dermnetnz.org/topics/ustekinumab-for-psoriasis"
     checked: 2026-10-26
   - id: nice-cg153
     title: "Psoriasis: assessment and management (CG153)"
@@ -386,6 +850,32 @@ sources:
 	- [Systemic Nonbiologic Therapies (2020)](https://www.jaad.org/article/S0190-9622%2820%2930284-X/fulltext)  
 	- [Topical Therapy, Alternative Medicine and Severity Measures (2021)](https://www.jaad.org/article/S0190-9622%2820%2932288-X/fulltext)  
 
+??? info "International: [DermNet - Psoriasis (2023)](https://dermnetnz.org/topics/psoriasis)"
+	*International source: New Zealand clinical reference, not Canadian. Years are DermNet's last review dates.*  
+	- [Psoriasis Treatment (2023)](https://dermnetnz.org/topics/treatment-of-psoriasis)  
+	- Types of psoriasis:
+	    - [Chronic plaque psoriasis (2023)](https://dermnetnz.org/topics/chronic-plaque-psoriasis) · [Images](https://dermnetnz.org/images/chronic-plaque-psoriasis-images)
+	    - [Guttate psoriasis (2023)](https://dermnetnz.org/topics/guttate-psoriasis) · [Images](https://dermnetnz.org/images/guttate-psoriasis-images)
+	    - [Scalp psoriasis (2023)](https://dermnetnz.org/topics/scalp-psoriasis) · [Images](https://dermnetnz.org/images/scalp-psoriasis-images)
+	    - [Nail psoriasis (2023)](https://dermnetnz.org/topics/nail-psoriasis) · [Images](https://dermnetnz.org/topics/nail-psoriasis-images)
+	    - [Flexural psoriasis (2023)](https://dermnetnz.org/topics/flexural-psoriasis) · [Images](https://dermnetnz.org/topics/flexural-psoriasis-images)
+	    - [Facial psoriasis (2023)](https://dermnetnz.org/topics/facial-psoriasis)
+	    - [Genital psoriasis (2023)](https://dermnetnz.org/topics/genital-psoriasis) · [Images](https://dermnetnz.org/topics/genital-psoriasis-images)
+	    - [Palmoplantar psoriasis (2023)](https://dermnetnz.org/topics/psoriasis-of-the-palms-and-soles) · [Images](https://dermnetnz.org/topics/palmoplantar-psoriasis-images)
+	    - [Sebopsoriasis (2023)](https://dermnetnz.org/topics/sebopsoriasis)
+	    - [Oral psoriasis (2023)](https://dermnetnz.org/topics/oral-psoriasis)
+	    - [Erythrodermic psoriasis (2023)](https://dermnetnz.org/topics/erythrodermic-psoriasis)
+	    - [Generalised pustular psoriasis (2023)](https://dermnetnz.org/topics/generalised-pustular-psoriasis)
+	    - [Pustular psoriasis of pregnancy (2023)](https://dermnetnz.org/topics/pustular-psoriasis-of-pregnancy)
+	    - [Paediatric psoriasis (2023)](https://dermnetnz.org/topics/paediatric-psoriasis)
+	    - [Drug-induced psoriasis (2023)](https://dermnetnz.org/topics/drug-induced-psoriasis)
+	- Related conditions, pregnancy and reproduction:
+	    - [Psoriatic arthritis (2023)](https://dermnetnz.org/topics/psoriatic-arthritis)
+	    - [Psychological effects of psoriasis (2023)](https://dermnetnz.org/topics/psychological-effects-of-psoriasis)
+	    - [Liver problems and psoriasis (2023)](https://dermnetnz.org/topics/liver-problems-and-psoriasis)
+	    - [Treatment of psoriasis in pregnancy (2023)](https://dermnetnz.org/topics/treatment-of-psoriasis-in-pregnancy)
+	    - [Biologics and reproduction in psoriasis (2023)](https://dermnetnz.org/topics/biologics-and-novel-small-molecule-treatments-reproduction-and-psoriasis)
+
 ??? info "American Family Physician (AAFP, United States)"
 	*International source: American guidance, not Canadian.*  
 	- [Psoriasis: Update on Topical Therapy From the American Academy of Dermatology (2022)](https://www.aafp.org/pubs/afp/issues/2022/0500/p558.html) — *summary of the 2021 AAD-NPF topical guideline*  
@@ -398,7 +888,8 @@ sources:
 
 - [MDCalc - Psoriasis Area and Severity Index (PASI)](https://www.mdcalc.com/calc/10182/psoriasis-area-severity-index-pasi)
 - [PharmaCare: Psoriasis Area and Severity Index (PASI) Worksheet (HLTH 5379, 2012, PDF)](https://www2.gov.bc.ca/assets/gov/health/forms/5379fil.pdf) — *the PASI worksheet used with PharmaCare Special Authority requests for targeted therapies*
-- [DermNet - Psoriasis](https://dermnetnz.org/topics/psoriasis) · [Chronic Plaque Psoriasis Images](https://dermnetnz.org/images/chronic-plaque-psoriasis-images) — *international (New Zealand); clinical images*
+- [DermNet - PASI (Psoriasis Area and Severity Index) (2023)](https://dermnetnz.org/topics/pasi-score) · [PO-PASI Scoring Tool](https://dermnetnz.org/resources/psoriasis-po-pasi) — *international (New Zealand)*
+- [DermNet - Dermatology Life Quality Index (DLQI) (2024)](https://dermnetnz.org/topics/dermatology-life-quality-index-dlqi) — *international (New Zealand)*
 - [PedsCases - Pediatric Psoriasis (2026)](https://www.pedscases.com/pediatric-psoriasis#:~:text=PDF%20handout) · [PDF](https://www.pedscases.com/sites/default/files/5.%20PedsCases%20-%20Pediatric%20Psoriasis.pptx.pdf) — *one-page clinician infographic*
 
 ## Prescribing
@@ -420,6 +911,40 @@ sources:
 	- Criteria requested by a dermatologist or rheumatologist:
 	    - [Cyclosporine (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-cyclosporine) — *palm and sole psoriasis criteria are for dermatologists only*
 	- [PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)](https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf) — *the form the cyclosporine criteria page links to*
+
+??? info "International: DermNet drug and treatment information for psoriasis"
+	*International source: New Zealand clinical reference, not Canadian. Check Canadian product availability and PharmaCare coverage. Years are DermNet's last review dates.*  
+	- Topical treatments:
+	    - [Topical steroids (2023)](https://dermnetnz.org/topics/topical-steroid)
+	    - [Calcipotriol (2023)](https://dermnetnz.org/topics/calcipotriol)
+	    - [Calcipotriol/betamethasone dipropionate ointment and gel (2023)](https://dermnetnz.org/topics/calcipotriolbetamethasone-dipropionate-ointment-and-gel)
+	    - [Calcipotriol/betamethasone dipropionate foam (2023)](https://dermnetnz.org/topics/calcipotriolbetamethasone-dipropionate-foam)
+	    - [Coal tar (2023)](https://dermnetnz.org/topics/coal-tar)
+	    - [Dithranol (anthralin) (2023)](https://dermnetnz.org/topics/dithranol)
+	    - [Calcineurin inhibitors (2023)](https://dermnetnz.org/topics/calcineurin-inhibitors)
+	    - [Tapinarof (2023)](https://dermnetnz.org/topics/tapinarof)
+	- Phototherapy:
+	    - [Phototherapy (2022)](https://dermnetnz.org/topics/phototherapy)
+	    - [UVB phototherapy (2023)](https://dermnetnz.org/topics/uvb-phototherapy)
+	- Oral systemic treatments:
+	    - [Methotrexate (2023)](https://dermnetnz.org/topics/methotrexate)
+	    - [Ciclosporin (cyclosporine) (2023)](https://dermnetnz.org/topics/ciclosporin)
+	    - [Acitretin (2023)](https://dermnetnz.org/topics/acitretin)
+	    - [Apremilast (2023)](https://dermnetnz.org/topics/apremilast)
+	    - [Deucravacitinib (2023)](https://dermnetnz.org/topics/deucravacitinib)
+	- Biologics:
+	    - [Biologics for psoriasis: overview (2023)](https://dermnetnz.org/topics/biological-agents-for-psoriasis)
+	    - [Adalimumab (2023)](https://dermnetnz.org/topics/adalimumab-for-psoriasis)
+	    - [Bimekizumab (2023)](https://dermnetnz.org/topics/bimekizumab)
+	    - [Brodalumab (2023)](https://dermnetnz.org/topics/brodalumab)
+	    - [Etanercept (2023)](https://dermnetnz.org/topics/etanercept-for-psoriasis)
+	    - [Guselkumab (2022)](https://dermnetnz.org/topics/guselkumab)
+	    - [Infliximab (2023)](https://dermnetnz.org/topics/infliximab-for-psoriasis)
+	    - [Ixekizumab (2023)](https://dermnetnz.org/topics/ixekizumab)
+	    - [Risankizumab (2023)](https://dermnetnz.org/topics/risankizumab)
+	    - [Secukinumab (2023)](https://dermnetnz.org/topics/secukinumab)
+	    - [Tildrakizumab (2023)](https://dermnetnz.org/topics/tildrakizumab)
+	    - [Ustekinumab (2023)](https://dermnetnz.org/topics/ustekinumab-for-psoriasis)
 
 ## Advice and Referral
 
