@@ -208,22 +208,6 @@ sources:
     version: "2026"
     url: https://www.canada.ca/en/health-canada/services/health-services-benefits/national-pharmacare/whats-covered.html
     checked: 2026-10-15
-  - id: ab-pathway-hub-contraception
-    title: "Alberta's Pathway Hub: Contraception"
-    publisher: Primary Care Alberta
-    jurisdiction: CA
-    kind: pathway
-    version:
-    url: https://www.primarycarealberta.ca/pathways/106/clinical
-    checked: 2026-10-15
-  - id: ab-pathway-hub-iud-procedure
-    title: "Alberta's Pathway Hub: Intrauterine Device Procedure (IUDs Insertion and Removal)"
-    publisher: Primary Care Alberta
-    jurisdiction: CA
-    kind: pathway
-    version:
-    url: https://www.primarycarealberta.ca/pathways/226/clinical
-    checked: 2026-10-15
   - id: sexandu-its-a-plan
     title: "It's a Plan"
     publisher: Sex & U (SOGC)
@@ -314,26 +298,9 @@ sources:
     version: "2024"
     url: https://www.cdc.gov/contraception/hcp/contraceptive-guidance/app.html
     checked: 2026-10-15
-  - id: cosrh-ukmec-2025
-    title: "UK Medical Eligibility Criteria for Contraceptive Use (UKMEC 2025)"
-    publisher: College of Sexual and Reproductive Healthcare (UK)
-    jurisdiction: INTL
-    kind: guideline
-    version: "2025"
-    pdf: https://www.cosrh.org/Common/Uploaded%20files/documents/UKMEC_2025.pdf
-    supersedes: fsrh-ukmec-2016
-    checked:
-  - id: fsrh-ukmec-2016
-    title: "UK Medical Eligibility Criteria for Contraceptive Use (UKMEC 2016, amended 2019)"
-    publisher: Faculty of Sexual and Reproductive Healthcare (UK)
-    jurisdiction: INTL
-    kind: guideline
-    version: "2016"
-    url:
-    checked:
 ---
 <!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-15 (sites block automated checks; confirmed through PubMed or a fetch tool instead): sogc-ccc, sogc-co-419-coercion-free, cfp-approach-athlete-contraception-2026, cfp-larc-extended-duration-2025, cosrh-ukmec-2025, and the CDC and canada.ca pages.
+     Unconfirmed on 2026-10-15 (sites block automated checks; confirmed through PubMed or a fetch tool instead): sogc-ccc, sogc-co-419-coercion-free, cfp-approach-athlete-contraception-2026, cfp-larc-extended-duration-2025, and the CDC and canada.ca pages.
      No BC Guidelines (GPAC) guideline for contraception.
      AFP reviews older than US MEC and SPR 2024 or the CCC chapter they discuss were left out (2014 emergency contraception, 2014 IUD update, 2021 initiating hormonal contraception, 2022 common questions).
      Link to the source guidance; don't restate its recommendations. -->
@@ -375,13 +342,8 @@ sources:
 	- [U.S. Medical Eligibility Criteria for Contraceptive Use (2024)](https://www.cdc.gov/contraception/hcp/usmec/index.html)  
 	- [U.S. Selected Practice Recommendations for Contraceptive Use (2024)](https://www.cdc.gov/contraception/hcp/usspr/index.html)  
 
-??? info "[UK Medical Eligibility Criteria for Contraceptive Use - UKMEC (2025, PDF)](https://www.cosrh.org/Common/Uploaded%20files/documents/UKMEC_2025.pdf)"
-	*International source: UK guidance (College of Sexual and Reproductive Healthcare), not Canadian.*  
-
 ## Algorithms and Pathways
 
-- [Alberta's Pathway Hub: Contraception (Primary Care Alberta, year not shown)](https://www.primarycarealberta.ca/pathways/106/clinical) — *Alberta pathway; choose "All" when the hub asks for an area*
-- [Alberta's Pathway Hub: Intrauterine Device Procedure, IUD Insertion and Removal (Primary Care Alberta, year not shown)](https://www.primarycarealberta.ca/pathways/226/clinical) — *Alberta pathway; choose "All" when the hub asks for an area*
 - [BCCDC Decision Support Tool: Dispensing Prophylactic Medications Post-Sexual Assault (2026, PDF)](https://www.bccdc.ca/Documents/CPS_noncertified_DST_DispensingProphlaxisPostSexualAssault.pdf) — *BC tool for RNs and RPNs; includes emergency contraception*
 
 ## Assessment Tools and Calculators
