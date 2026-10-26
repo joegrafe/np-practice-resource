@@ -17,10 +17,10 @@ jurisdiction:
   - BC
   - CA
   - INTL
-status: review
+status: published
 last-reviewed: 2026-10-15
 review-due: 2027-10-15
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bccdc-bc-sti-treatment-guidelines-2025
     title: "British Columbia Treatment Guidelines: Sexually Transmitted Infections (gonorrhea)"

@@ -15,10 +15,10 @@ jurisdiction:
   - BC
   - CA
   - INTL
-status: review
+status: published
 last-reviewed: 2026-10-15
 review-due: 2027-10-15
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-pharmacare-contraceptives-hcp
     title: "Contraceptives: Information for Health Professionals"
