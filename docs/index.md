@@ -47,7 +47,4 @@ section_nav: false
 Know a source other NPs should have? [Submit a link](About/Submissions.md).
 
 !!! warning "Disclaimer"
-    This website is for educational purposes only. It is not to be used to make medical decisions.
-
-    - Medical decisions should be made only with the guidance of a licensed medical professional.
-    - Medical professionals should use their own clinical judgement when assessing, appraising and applying all resources and material.
+    NPPR is a reference index for licensed clinicians. It links to other organizations' guidance and doesn't replace your clinical judgement or the source document. Check any AI answer against the cited source. [Full disclaimer](About/Disclaimer%2C%20Licence%20and%20Privacy.md)
