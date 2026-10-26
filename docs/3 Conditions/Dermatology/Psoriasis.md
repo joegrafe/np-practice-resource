@@ -1,0 +1,444 @@
+---
+title: Psoriasis
+type: condition
+system: dermatology
+tags:
+  - condition
+  - dermatology
+  - psoriasis
+  - plaque-psoriasis
+  - psoriatic-arthritis
+  - adults
+  - children
+jurisdiction:
+  - BC
+  - CA
+  - INTL
+status: review
+last-reviewed: 2026-10-26
+review-due: 2027-10-26
+reviewers: []
+sources:
+  - id: bccdc-immunosuppressive-therapy
+    title: "BC Immunization Manual, Part 2: Immunosuppressive Therapy"
+    publisher: BCCDC
+    jurisdiction: BC
+    kind: guideline
+    version: September 2026
+    url: "https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization/immunization-of-special-populations#:~:text=Specific%20immunocompromising%20conditions"
+    pdf: "https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part2/ImmunosuppressiveTherapy.pdf"
+    checked: 2026-10-26
+  - id: ti-dovobet-drug-assessment
+    title: "Calcipotriol/betamethasone (Dovobet) ointment for the treatment of adult patients with psoriasis vulgaris"
+    publisher: Therapeutics Initiative
+    jurisdiction: BC
+    kind: summary
+    version: "2009-03-06"
+    url: "https://www.ti.ubc.ca/2009/03/06/calcipotriolbetamethasone-dovobet-ointment-treatment-adult-patients-psoriasis-vulgaris/"
+    checked: 2026-10-26
+  - id: ti-dovobet-drug-assessment-summary
+    title: "Calcipotriol/betamethasone dipropionate (Dovobet) ointment for psoriasis vulgaris: summary"
+    publisher: Therapeutics Initiative
+    jurisdiction: BC
+    kind: summary
+    version: "2009-02-17"
+    url: "https://www.ti.ubc.ca/2009/02/17/calcipotriolbetamethasone-dipropionate-dovobet-ointment-treatment-adult-patients-psoriasis-vulgaris/"
+    checked: 2026-10-26
+  - id: bc-pharmacare-lcd-adalimumab
+    title: Limited coverage criteria - adalimumab
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: Last updated 2026-04-21
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-adalimumab"
+    checked: 2026-10-26
+  - id: bc-pharmacare-lcd-bimekizumab
+    title: Limited coverage criteria - bimekizumab for plaque psoriasis
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: Last updated 2026-04-21
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-bimekizumab"
+    checked: 2026-10-26
+  - id: bc-pharmacare-lcd-cyclosporine
+    title: Limited coverage criteria - cyclosporine
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: Last updated 2026-04-21
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-cyclosporine"
+    checked: 2026-10-26
+  - id: bc-pharmacare-lcd-etanercept
+    title: Limited coverage criteria - etanercept
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: Last updated 2025-04-01
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-etanercept"
+    checked: 2026-10-26
+  - id: bc-pharmacare-lcd-infliximab-psa-as-pso
+    title: Limited coverage criteria - infliximab for PsA, AS, PsO
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: Last updated 2026-02-24
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-infliximab"
+    checked: 2026-10-26
+  - id: bc-pharmacare-lcd-ixekizumab
+    title: Limited coverage criteria - ixekizumab
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: Last updated 2025-04-01
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-page-ixekizumab"
+    checked: 2026-10-26
+  - id: bc-pharmacare-lcd-risankizumab
+    title: Limited coverage criteria - risankizumab for plaque psoriasis
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: Last updated 2025-04-01
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-risankizumab"
+    checked: 2026-10-26
+  - id: bc-pharmacare-lcd-secukinumab
+    title: Limited coverage criteria - secukinumab for Ps, AS, PsA
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: Last updated 2026-06-10
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-secukinumab"
+    checked: 2026-10-26
+  - id: bc-pharmacare-lcd-ustekinumab-pso
+    title: Limited coverage criteria - ustekinumab for plaque psoriasis
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: Last updated 2026-08-05
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-page-ustekinumab-for-plaque-psoriasis"
+    checked: 2026-10-26
+  - id: bc-pharmacare-sa-form-5380
+    title: "Special Authority Request: Targeted Therapies for Plaque Psoriasis (HLTH 5380)"
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: Rev. 2026/07/06
+    pdf: "https://www2.gov.bc.ca/assets/gov/health/forms/5380fil.pdf"
+    checked: 2026-10-26
+  - id: bc-pharmacare-pasi-5379
+    title: "Psoriasis Area and Severity Index (PASI) Worksheet (HLTH 5379)"
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: "2012/09/14"
+    pdf: "https://www2.gov.bc.ca/assets/gov/health/forms/5379fil.pdf"
+    checked: 2026-10-26
+  - id: bc-pharmacare-sa-form-5328
+    title: Special Authority Request (HLTH 5328)
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version: Rev. 2019/09/30
+    pdf: "https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf"
+    checked: 2026-10-26
+  - id: race-connect
+    title: "RACE: Rapid Access to Consultative Expertise"
+    publisher: RACE
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://www.raceconnect.ca/"
+    checked: 2026-10-26
+  - id: healthlinkbc-psoriasis
+    title: Psoriasis
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.healthlinkbc.ca/healthwise/psoriasis"
+    checked: 2026-10-26
+  - id: healthlinkbc-psoriasis-skin-scalp-nail-care
+    title: "Psoriasis: Skin, Scalp, and Nail Care"
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.healthlinkbc.ca/healthwise/psoriasis-skin-scalp-and-nail-care"
+    checked: 2026-10-26
+  - id: healthlinkbc-nail-psoriasis
+    title: Nail Psoriasis
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.healthlinkbc.ca/healthwise/nail-psoriasis"
+    checked: 2026-10-26
+  - id: healthlinkbc-phototherapy-psoriasis
+    title: Phototherapy for Psoriasis
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.healthlinkbc.ca/healthwise/phototherapy-psoriasis"
+    checked: 2026-10-26
+  - id: healthlinkbc-psoriatic-arthritis
+    title: Psoriatic Arthritis
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.healthlinkbc.ca/healthwise/psoriatic-arthritis-0"
+    checked: 2026-10-26
+  - id: cdn-plaque-psoriasis-2016-addendum
+    title: "2016 Addendum to the Canadian Guidelines for the Management of Plaque Psoriasis 2009"
+    publisher: Journal of Cutaneous Medicine and Surgery
+    jurisdiction: CA
+    kind: guideline
+    version: "2016 (J Cutan Med Surg 2016;20(5):375-431)"
+    url: "https://journals.sagepub.com/doi/10.1177/1203475416655705"
+    pdf: "https://journals.sagepub.com/doi/pdf/10.1177/1203475416655705"
+    checked: 2026-10-26
+  - id: cdrci-comorbidities-2015
+    title: "Evidence-based Recommendations for the Management of Comorbidities in Rheumatoid Arthritis, Psoriasis, and Psoriatic Arthritis: Expert Opinion of the Canadian Dermatology-Rheumatology Comorbidity Initiative"
+    publisher: The Journal of Rheumatology
+    jurisdiction: CA
+    kind: guideline
+    version: "2015 (J Rheumatol 2015;42(10):1767-80)"
+    url: "https://www.jrheum.org/content/42/10/1767"
+    checked: 2026-10-26
+  - id: cdn-psoriasis-skin-of-color-delphi-2024
+    title: "Optimizing the management of psoriasis in patients with skin of color: A Canadian Delphi consensus"
+    publisher: JAAD International
+    jurisdiction: CA
+    kind: guideline
+    version: "2024 (JAAD Int 2024;19:12-20)"
+    url: "https://www.jaadinternational.org/article/S2666-3287%2824%2900173-1/fulltext"
+    checked: 2026-10-26
+  - id: cfp-psoriasis-2017
+    title: Diagnosis and management of psoriasis
+    publisher: Canadian Family Physician
+    jurisdiction: CA
+    kind: summary
+    version: "2017 (Can Fam Physician 2017;63(4):278-85)"
+    url: "https://www.cfp.ca/content/63/4/278"
+    pdf: "https://www.cfp.ca/content/cfp/63/4/278.full.pdf"
+    checked: 2026-10-26
+  - id: cda-psoriasis-patient
+    title: Psoriasis
+    publisher: Canadian Dermatology Association
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://dermatology.ca/public-patients/diseases-conditions/skin-conditions/psoriasis/"
+    checked: 2026-10-26
+  - id: arthritis-society-psoriatic-arthritis
+    title: Psoriatic Arthritis
+    publisher: Arthritis Society Canada
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://arthritis.ca/about-arthritis/arthritis-types/psoriatic-arthritis/"
+    checked: 2026-10-26
+  - id: rheuminfo-psoriatic-arthritis
+    title: Psoriatic Arthritis
+    publisher: RheumInfo
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://rheuminfo.com/diseases/psoriatic-arthritis/"
+    checked: 2026-10-26
+  - id: rheuminfo-cart
+    title: Comprehensive Arthritis Referral Tool (CART)
+    publisher: RheumInfo
+    jurisdiction: CA
+    kind: tool
+    version:
+    url: "https://rheuminfo.com/physician-tools/comprehensive-arthritis-referral-tool-cart/"
+    checked: 2026-10-26
+  - id: pedscases-pediatric-psoriasis
+    title: Pediatric Psoriasis
+    publisher: PedsCases
+    jurisdiction: CA
+    kind: summary
+    version: "2026-03-25"
+    url: "https://www.pedscases.com/pediatric-psoriasis#:~:text=PDF%20handout"
+    pdf: "https://www.pedscases.com/sites/default/files/5.%20PedsCases%20-%20Pediatric%20Psoriasis.pptx.pdf"
+    checked: 2026-10-26
+  - id: mdcalc-pasi
+    title: Psoriasis Area and Severity Index (PASI)
+    publisher: MDCalc
+    jurisdiction: INTL
+    kind: tool
+    version:
+    url: "https://www.mdcalc.com/calc/10182/psoriasis-area-severity-index-pasi"
+    checked: 2026-10-26
+  - id: dermnet-psoriasis
+    title: Psoriasis
+    publisher: DermNet
+    jurisdiction: INTL
+    kind: tool
+    version:
+    url: "https://dermnetnz.org/topics/psoriasis"
+    checked: 2026-10-26
+  - id: nice-cg153
+    title: "Psoriasis: assessment and management (CG153)"
+    publisher: NICE
+    jurisdiction: INTL
+    kind: guideline
+    version: "Published 2012-10-24, last updated 2017-09-01"
+    url: "https://www.nice.org.uk/guidance/cg153"
+    pdf: "https://www.nice.org.uk/guidance/cg153/resources/psoriasis-assessment-and-management-pdf-35109629621701"
+    checked: 2026-10-26
+  - id: aad-npf-biologics-2019
+    title: "Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics"
+    publisher: Journal of the American Academy of Dermatology
+    jurisdiction: INTL
+    kind: guideline
+    version: "2019 (J Am Acad Dermatol 2019;80(4):1029-72)"
+    url: "https://www.jaad.org/article/S0190-9622%2818%2933001-9/fulltext"
+    checked: 2026-10-26
+  - id: aad-npf-comorbidities-2019
+    title: "Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with awareness and attention to comorbidities"
+    publisher: Journal of the American Academy of Dermatology
+    jurisdiction: INTL
+    kind: guideline
+    version: "2019 (J Am Acad Dermatol 2019;80(4):1073-113)"
+    url: "https://www.jaad.org/article/S0190-9622%2818%2933002-0/fulltext"
+    checked: 2026-10-26
+  - id: aad-npf-phototherapy-2019
+    title: "Joint American Academy of Dermatology-National Psoriasis Foundation guidelines of care for the management and treatment of psoriasis with phototherapy"
+    publisher: Journal of the American Academy of Dermatology
+    jurisdiction: INTL
+    kind: guideline
+    version: "2019 (J Am Acad Dermatol 2019;81(3):775-804)"
+    url: "https://www.jaad.org/article/S0190-9622%2819%2930637-1/fulltext"
+    checked: 2026-10-26
+  - id: aad-npf-pediatric-2020
+    title: "Joint American Academy of Dermatology-National Psoriasis Foundation guidelines of care for the management and treatment of psoriasis in pediatric patients"
+    publisher: Journal of the American Academy of Dermatology
+    jurisdiction: INTL
+    kind: guideline
+    version: "2020 (J Am Acad Dermatol 2020;82(1):161-201)"
+    url: "https://www.jaad.org/article/S0190-9622%2819%2932655-6/fulltext"
+    checked: 2026-10-26
+  - id: aad-npf-systemic-nonbiologic-2020
+    title: "Joint American Academy of Dermatology-National Psoriasis Foundation guidelines of care for the management of psoriasis with systemic nonbiologic therapies"
+    publisher: Journal of the American Academy of Dermatology
+    jurisdiction: INTL
+    kind: guideline
+    version: "2020 (J Am Acad Dermatol 2020;82(6):1445-86)"
+    url: "https://www.jaad.org/article/S0190-9622%2820%2930284-X/fulltext"
+    checked: 2026-10-26
+  - id: aad-npf-topical-2021
+    title: "Joint AAD-NPF Guidelines of care for the management and treatment of psoriasis with topical therapy and alternative medicine modalities for psoriasis severity measures"
+    publisher: Journal of the American Academy of Dermatology
+    jurisdiction: INTL
+    kind: guideline
+    version: "2021 (J Am Acad Dermatol 2021;84(2):432-70)"
+    url: "https://www.jaad.org/article/S0190-9622%2820%2932288-X/fulltext"
+    checked: 2026-10-26
+  - id: afp-psoriasis-topical-therapy-2022
+    title: "Psoriasis: Update on Topical Therapy From the American Academy of Dermatology"
+    publisher: American Family Physician
+    jurisdiction: INTL
+    kind: summary
+    version: "2022 (Am Fam Physician 2022;105(5):558-560)"
+    url: "https://www.aafp.org/pubs/afp/issues/2022/0500/p558.html"
+    checked: 2026-10-26
+  - id: afp-patient-psoriasis-2023
+    title: Psoriasis (patient information)
+    publisher: American Family Physician
+    jurisdiction: INTL
+    kind: patient
+    version: "2023"
+    url: "https://www.aafp.org/pubs/afp/issues/2023/1200/patient-information-psoriasis.html"
+    checked: 2026-10-26
+---
+<!-- status: review. Set status to published after opening every link.
+     No BC Guidelines (GPAC) guideline, BC pathway or Alberta Pathway Hub pathway for psoriasis (checked 2026-10-26).
+     The Canadian Guidelines for the Management of Plaque Psoriasis (2009) are no longer posted online; the 2016 addendum is the current Canadian guideline document.
+     Unconfirmed on 2026-10-26 (sites block automated checks; confirmed through PubMed instead): cdn-plaque-psoriasis-2016-addendum (SAGE), cdn-psoriasis-skin-of-color-delphi-2024 and the six AAD-NPF guidelines (Elsevier), cfp-psoriasis-2017 (cfp.ca).
+     PharmaCare lists no psoriasis criteria for apremilast, guselkumab or tildrakizumab; the tazarotene criteria cover acne only.
+     Left out: AFP reviews that are paywalled (2023 recognition and management review) or older than the guidelines they discuss (2000, 2010); Cutis reviews that restate the AAD-NPF guidelines; a product-specific Canadian consensus (halobetasol/tazarotene, 2024).
+     Link to the source guidance; don't restate its recommendations. -->
+
+## Key Sources
+
+??? info "[Canadian Guidelines for the Management of Plaque Psoriasis: 2016 Addendum (Journal of Cutaneous Medicine and Surgery, 2016)](https://journals.sagepub.com/doi/10.1177/1203475416655705)"
+	*Updates the Canadian Guidelines for the Management of Plaque Psoriasis (2009), which are no longer posted online.*  
+	- [Full Text (PDF, 2016)](https://journals.sagepub.com/doi/pdf/10.1177/1203475416655705)  
+
+??? info "Canadian consensus recommendations"
+	- [Canadian Dermatology-Rheumatology Comorbidity Initiative: Management of Comorbidities in Rheumatoid Arthritis, Psoriasis and Psoriatic Arthritis (Journal of Rheumatology, 2015)](https://www.jrheum.org/content/42/10/1767)  
+	- [Optimizing the Management of Psoriasis in Patients with Skin of Color: A Canadian Delphi Consensus (JAAD International, 2024)](https://www.jaadinternational.org/article/S2666-3287%2824%2900173-1/fulltext)  
+
+??? info "Canadian Family Physician"
+	- [Diagnosis and Management of Psoriasis (2017)](https://www.cfp.ca/content/63/4/278) · [PDF](https://www.cfp.ca/content/cfp/63/4/278.full.pdf)  
+
+??? info "International: [NICE - Psoriasis: Assessment and Management, CG153 (2012, updated 2017)](https://www.nice.org.uk/guidance/cg153)"
+	*International source: UK guidance, not Canadian. NICE last reviewed it in March 2025.*  
+	- [Full Guideline (PDF, 2017)](https://www.nice.org.uk/guidance/cg153/resources/psoriasis-assessment-and-management-pdf-35109629621701)  
+
+??? info "International: AAD-NPF Joint Guidelines of Care for Psoriasis (2019 to 2021)"
+	*International source: American guidance, not Canadian. American Academy of Dermatology and National Psoriasis Foundation, published in six parts in the Journal of the American Academy of Dermatology.*  
+	- [Biologics (2019)](https://www.jaad.org/article/S0190-9622%2818%2933001-9/fulltext)  
+	- [Awareness and Attention to Comorbidities (2019)](https://www.jaad.org/article/S0190-9622%2818%2933002-0/fulltext)  
+	- [Phototherapy (2019)](https://www.jaad.org/article/S0190-9622%2819%2930637-1/fulltext)  
+	- [Pediatric Patients (2020)](https://www.jaad.org/article/S0190-9622%2819%2932655-6/fulltext)  
+	- [Systemic Nonbiologic Therapies (2020)](https://www.jaad.org/article/S0190-9622%2820%2930284-X/fulltext)  
+	- [Topical Therapy, Alternative Medicine and Severity Measures (2021)](https://www.jaad.org/article/S0190-9622%2820%2932288-X/fulltext)  
+
+??? info "American Family Physician (AAFP, United States)"
+	*International source: American guidance, not Canadian.*  
+	- [Psoriasis: Update on Topical Therapy From the American Academy of Dermatology (2022)](https://www.aafp.org/pubs/afp/issues/2022/0500/p558.html) — *summary of the 2021 AAD-NPF topical guideline*  
+
+## Algorithms and Pathways
+
+*No BC or Alberta pathway for psoriasis found.*
+
+## Assessment Tools and Calculators
+
+- [MDCalc - Psoriasis Area and Severity Index (PASI)](https://www.mdcalc.com/calc/10182/psoriasis-area-severity-index-pasi)
+- [PharmaCare: Psoriasis Area and Severity Index (PASI) Worksheet (HLTH 5379, 2012, PDF)](https://www2.gov.bc.ca/assets/gov/health/forms/5379fil.pdf) — *the PASI worksheet used with PharmaCare Special Authority requests for targeted therapies*
+- [DermNet - Psoriasis](https://dermnetnz.org/topics/psoriasis) · [Chronic Plaque Psoriasis Images](https://dermnetnz.org/images/chronic-plaque-psoriasis-images) — *international (New Zealand); clinical images*
+- [PedsCases - Pediatric Psoriasis (2026)](https://www.pedscases.com/pediatric-psoriasis#:~:text=PDF%20handout) · [PDF](https://www.pedscases.com/sites/default/files/5.%20PedsCases%20-%20Pediatric%20Psoriasis.pptx.pdf) — *one-page clinician infographic*
+
+## Prescribing
+
+- [BC Immunization Manual, Part 2: Immunosuppressive Therapy (BCCDC, September 2026)](https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization/immunization-of-special-populations#:~:text=Specific%20immunocompromising%20conditions) · [PDF](https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part2/ImmunosuppressiveTherapy.pdf)
+- [Therapeutics Initiative - Calcipotriol/Betamethasone (Dovobet) Ointment for Psoriasis Vulgaris: Drug Assessment (2009)](https://www.ti.ubc.ca/2009/03/06/calcipotriolbetamethasone-dovobet-ointment-treatment-adult-patients-psoriasis-vulgaris/) · [Summary (2009)](https://www.ti.ubc.ca/2009/02/17/calcipotriolbetamethasone-dipropionate-dovobet-ointment-treatment-adult-patients-psoriasis-vulgaris/) — *BC systematic review*
+
+??? info "PharmaCare Special Authority: criteria and request forms"
+	- Criteria for targeted therapies, requested by a dermatologist:
+	    - [Adalimumab (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-adalimumab)
+	    - [Bimekizumab for plaque psoriasis (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-bimekizumab)
+	    - [Etanercept (last updated April 1, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-etanercept)
+	    - [Infliximab for PsA, AS and PsO (last updated February 24, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-infliximab)
+	    - [Ixekizumab (last updated April 1, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-page-ixekizumab)
+	    - [Risankizumab for plaque psoriasis (last updated April 1, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-risankizumab)
+	    - [Secukinumab for Ps, AS and PsA (last updated June 10, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-secukinumab)
+	    - [Ustekinumab for plaque psoriasis (last updated August 5, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-page-ustekinumab-for-plaque-psoriasis)
+	- [Targeted Therapies for Plaque Psoriasis (HLTH 5380, rev. 2026/07/06)](https://www2.gov.bc.ca/assets/gov/health/forms/5380fil.pdf) — *the request form these criteria pages link to*
+	- Criteria requested by a dermatologist or rheumatologist:
+	    - [Cyclosporine (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-cyclosporine) — *palm and sole psoriasis criteria are for dermatologists only*
+	- [PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)](https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf) — *the form the cyclosporine criteria page links to*
+
+## Advice and Referral
+
+- [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
+- [RheumInfo - Comprehensive Arthritis Referral Tool (CART)](https://rheuminfo.com/physician-tools/comprehensive-arthritis-referral-tool-cart/) — *rheumatology referral triage form, for suspected psoriatic arthritis*
+
+## Patient Resources
+
+- [HealthLink BC - Psoriasis](https://www.healthlinkbc.ca/healthwise/psoriasis)
+- [HealthLink BC - Psoriasis: Skin, Scalp, and Nail Care](https://www.healthlinkbc.ca/healthwise/psoriasis-skin-scalp-and-nail-care)
+- [HealthLink BC - Nail Psoriasis](https://www.healthlinkbc.ca/healthwise/nail-psoriasis)
+- [HealthLink BC - Phototherapy for Psoriasis](https://www.healthlinkbc.ca/healthwise/phototherapy-psoriasis)
+- [HealthLink BC - Psoriatic Arthritis](https://www.healthlinkbc.ca/healthwise/psoriatic-arthritis-0)
+- [Canadian Dermatology Association - Psoriasis](https://dermatology.ca/public-patients/diseases-conditions/skin-conditions/psoriasis/)
+- [Arthritis Society Canada - Psoriatic Arthritis](https://arthritis.ca/about-arthritis/arthritis-types/psoriatic-arthritis/)
+- [RheumInfo - Psoriatic Arthritis](https://rheuminfo.com/diseases/psoriatic-arthritis/)
+- [American Family Physician - Psoriasis Patient Handout (2023)](https://www.aafp.org/pubs/afp/issues/2023/1200/patient-information-psoriasis.html) — *international (American)*
+
+## Evidence Pack
+
+*Pending: generated from the sources list in a later build step.*

@@ -42,6 +42,10 @@ hide:
 
     ADHD.
 
+-   :material-hand-back-left-outline:{ .nppr-icon } [**Dermatology**](Dermatology/index.md)
+
+    Psoriasis.
+
 -   :material-account-heart-outline:{ .nppr-icon } [**Sexual and Reproductive Health**](Sexual%20and%20Reproductive%20Health/index.md)
 
     Contraception and sexually transmitted infections.
