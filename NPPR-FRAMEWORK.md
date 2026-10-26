@@ -244,7 +244,7 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [ ] Dementia and frailty
 - [ ] Prenatal care
 - [ ] Well-child care (Rourke)
-- [ ] Contraception and STI care
+- [x] Contraception and STI care
 
 ## Sources
 
