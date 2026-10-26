@@ -14,10 +14,10 @@ jurisdiction:
   - BC
   - CA
   - INTL
-status: review
+status: published
 last-reviewed: 2026-10-26
 review-due: 2027-10-26
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bccdc-immunosuppressive-therapy
     title: "BC Immunization Manual, Part 2: Immunosuppressive Therapy"
@@ -353,8 +353,7 @@ sources:
     url: "https://www.aafp.org/pubs/afp/issues/2023/1200/patient-information-psoriasis.html"
     checked: 2026-10-26
 ---
-<!-- status: review. Set status to published after opening every link.
-     No BC Guidelines (GPAC) guideline, BC pathway or Alberta Pathway Hub pathway for psoriasis (checked 2026-10-26).
+<!-- No BC Guidelines (GPAC) guideline, BC pathway or Alberta Pathway Hub pathway for psoriasis (checked 2026-10-26).
      The Canadian Guidelines for the Management of Plaque Psoriasis (2009) are no longer posted online; the 2016 addendum is the current Canadian guideline document.
      Unconfirmed on 2026-10-26 (sites block automated checks; confirmed through PubMed instead): cdn-plaque-psoriasis-2016-addendum (SAGE), cdn-psoriasis-skin-of-color-delphi-2024 and the six AAD-NPF guidelines (Elsevier), cfp-psoriasis-2017 (cfp.ca).
      PharmaCare lists no psoriasis criteria for apremilast, guselkumab or tildrakizumab; the tazarotene criteria cover acne only.
