@@ -1,6 +1,6 @@
 # NPPR Framework
 
-Exported 2026-10-09 from the NPPR Framework doc (https://claude.ai/code/artifact/5e9d248a-789d-4815-8f25-a3c965081661). The doc is the master copy: re-export this file whenever the doc changes. Part 1 is the framework; Part 2 is the step-by-step build prompts.
+Exported 2026-10-09 from the NPPR Framework doc (https://claude.ai/code/artifact/5e9d248a-789d-4815-8f25-a3c965081661). The doc is the master copy: re-export this file whenever the doc changes. Part 1 is the framework; Part 2 is the step-by-step build prompts. The "Section page lists" part of Part 1 comes from the NPPR.ca master plan (https://claude.ai/artifact/8pVpBPZ5hLjistCczBVaow), agreed by Joe on 2026-10-26.
 
 ---
 
@@ -67,7 +67,7 @@ NPPR should have eight top-level sections. Four keep their current names and fou
 | 4 | Populations (new) | Pediatrics, pregnancy and perinatal, older adults, women's health, trans and gender-affirming care, Indigenous health and cultural safety, rural and remote | Pediatrics folder, Trans Care, Woman's Health, BC Rural Health |
 | 5 | Prescribing (new) | Drug references, antimicrobials, PharmaCare and Special Authority, immunization, deprescribing, controlled drugs | Bugs & Drugs, BC Immunization Manual |
 | 6 | Practice (new) | NP scope and BCCNM standards, advice and referral (RACE, Pathways), forms, associations | Associations |
-| 7 | Tools (new) | Sub-sections: Evidence Packs (one pack per condition for loading into AI tools, plus how-to guides), Templates, POCUS, AI Tools | none |
+| 7 | Tools (new) | Sub-sections: Evidence Packs (one pack per condition for loading into AI tools, plus how-to guides), Templates (a future community project in the nppr-templates repository; placeholder for now), POCUS, AI Tools | none |
 | 8 | Resources | Guideline directories, libraries, evidence summaries, CPD | BC Guidelines, Guidelines folder, Library Guides, Peerevidence.ca, Clinical Tools |
 
 About stays as it is, as a separate tab after Resources.
@@ -242,13 +242,97 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [x] Thyroid disease
 - [ ] Osteoporosis
 - [ ] Dementia and frailty
-- [ ] Prenatal care
-- [ ] Well-child care (Rourke)
+- [ ] Prenatal care (build as a section of Populations > Pregnancy and Perinatal, not a condition page)
+- [ ] Well-child care (Rourke) (build as a section of Populations > Pediatrics, not a condition page)
 - [x] Contraception and STI care
 
-**Next conditions.** Added after the phase 2 list, as Joe asks for them:
+**Next conditions.** Added after the phase 2 list, as Joe asks for them. Build them in this order once the phase 2 list is done:
 
 - [x] Psoriasis
+- [ ] Alcohol use disorder
+- [ ] Tobacco use disorder
+- [ ] Venous thromboembolism
+- [ ] Obesity
+- [ ] Anemia and iron (iron deficiency, B12 and folate, high ferritin)
+- [ ] GERD and H. pylori
+- [ ] Irritable bowel syndrome
+- [ ] Abnormal liver tests and MASLD
+- [ ] Stroke and TIA
+- [ ] Menopause
+- [ ] Obstructive sleep apnea
+- [ ] Palliative care
+- [ ] Cellulitis and skin infections
+- [ ] Herpes zoster
+- [ ] Acute otitis media and otitis externa
+- [ ] Red eye
+
+**Urgent care conditions.** Added 2026-10-26 so coverage isn't only chronic disease. Interleave them with the list above; their decision rules go on Assessments > Clinical decision rules:
+
+- [ ] Lacerations and minor wounds
+- [ ] Sprains and minor fractures
+- [ ] Chest pain
+- [ ] Burns
+
+## Section page lists
+
+Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/artifact/8pVpBPZ5hLjistCczBVaow). Read this before planning or building a page in any tab. The detailed section plans are [Practice](https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc), [Prescribing](https://claude.ai/artifact/GJeAP8SPPZrsk4G8ihftgU) and [Assessments](https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE); their own open decisions still need Joe's answers before those pages are built.
+
+**Purpose.** NPPR.ca gives primary care and urgent care NPs point-of-care access to high-yield BC and Canadian sources for each step of an appointment, so they can double-check AI diagnostic tools as the human in the loop. Pages lead with the one or two sources an NP would open mid-visit; completeness comes after.
+
+| Step of the visit | Tab | What the NP checks against the AI's output |
+| --- | --- | --- |
+| Presenting complaint and differential | 1 Approaches | Has the differential missed something an "approach to" source lists? |
+| History, exam and tests | 2 Assessments | Is the decision rule, score or test the right one, applied as published? |
+| Diagnosis and management | 3 Conditions | Does the plan match the current BC or Canadian guideline and its year? |
+| Who the patient is | 4 Populations | Does anything change for this patient group? |
+| Treatment | 5 Prescribing | Is the drug appropriate, covered, and checked against an independent reference? |
+| Referral, forms, documentation | 6 Practice | Is it within NP scope, and what must be reported, filed or referred? |
+| Loading sources into the AI tool | 7 Tools | Is the AI tool working from the current documents, and used safely? |
+| Background reading | 8 Resources | Where to look when the topic isn't on NPPR yet |
+
+**Pages by tab.** *(new)* marks a page not built yet; the number is its build wave within the tab.
+
+- **1 Approaches:** AAFP, McGill, UCalgary Black Books, PedsCases, Alberta Primary Care Pathways (built); Centre for Effective Practice tools *(new, 1)*; Canadian Family Physician review articles *(new, 2, if cfp.ca has enough approach-style articles)*.
+- **2 Assessments:** Lab and imaging *(new, 1)*; Clinical decision rules *(new, 2)*; Screening questionnaires and scales *(new, 3)*; Preventive care and cancer screening *(new, 4)*; Physical exam by system *(new, 5)*; retire Assessment Resources once its rows have moved.
+- **3 Conditions:** the Roadmap checklists above are the to-do list, in order.
+- **4 Populations:** Pediatrics (fold in the Canadian Paediatric Society and Rourke stubs; add well-child care, 1); Pregnancy and Perinatal (add prenatal care, 1); Older adults *(new, 2)*; Women's Health (rebuild, 2); Trans Care (rebuild, 2); Rural and remote (rebuild BC Rural Health, 3); Indigenous Health (review, 3); Newcomers and refugees *(new, 3)*.
+- **5 Prescribing:** Rational prescribing, Drug coverage (PharmaCare and Special Authority), Drug references *(new, 1)*; Antimicrobials, Immunization *(new, 2; replace the Bugs & Drugs and BC Immunization Manual pages)*; Opioids, controlled drugs and substance use prescribing, Deprescribing *(new, 3)*.
+- **6 Practice:** Scope of practice and standards, Prescribing authority *(new, 1)*; Registration and licensure, Practice models and compensation, Documentation privacy and records, Starting NP practice in BC *(new, 2)*; Consultation referral and advice, Forms and duty to report *(new, 3)*; Associations (reorder, NP bodies first, 3).
+- **7 Tools:** Evidence Packs (phase 3, steps 3.1 to 3.4); AI Tools (safe use, privacy, data residency); POCUS; Templates stays a placeholder pointing to the nppr-templates repository, a future community project.
+- **8 Resources:** fold today's pages into Guideline directories and Evidence summaries and journals (1), then Libraries and databases and CPD and learning (2); Clinical Tools moves to Assessments.
+- **About:** add a Contributor guide and Reviewer roster (steps 4.1 and 4.2) and a "How NPPR is kept current" page.
+
+**Topic ownership.** A topic has one home page that holds its links; other tabs link to that page. A diagnosis goes in Conditions, a tool or test in Assessments, a drug or its coverage in Prescribing, a rule or form in Practice, a patient group in Populations, and anything loaded into software in Tools. Specific cases:
+
+| Topic | Home | Linked from |
+| --- | --- | --- |
+| BCCNM prescribing rules, controlled drugs, PharmaNet, PRIME | Practice: Prescribing authority | Every Prescribing page |
+| PharmaCare, Special Authority, Limited Coverage programs | Prescribing: Drug coverage | Practice Forms; Indigenous Health (Plan W) |
+| Drug-specific coverage criteria | The condition page's Prescribing section | — |
+| Clinical OUD and AUD treatment | Conditions pages | Prescribing: Opioids and substance use |
+| Antibiotic choice for an infection | The condition page | Prescribing: Antimicrobials (general references) |
+| Deprescribing; immunization | Prescribing | Older adults; Pediatrics, Pregnancy, Preventive care |
+| Drug-dosing calculators (CrCl, MME, PEN-FAST) | Prescribing | Assessments: Lab and imaging |
+| Risk scores and calculators (eGFR, FIB-4, CHA2DS2-VASc) | Assessments, with "Used on:" links | Condition pages keep their own tools box |
+| Preventive care and cancer screening; developmental screening | Assessments | Population pages, instead of their own screening lists |
+| Prenatal care; well-child care | Populations pages | Conditions index |
+| Pediatric versions of conditions (asthma, UTI) | Populations: Pediatrics | Conditions index, under their system, marked (pediatric) |
+| Menopause; frailty and dementia | Conditions | Women's Health; Older adults |
+| Lab and imaging requisitions; driver fitness | Practice: Forms | Assessments |
+| RACE, Pathways, advice lines | Practice: Consultation, referral and advice | Condition pages' Advice and referral; Rural and remote |
+| Documentation standards | Practice: Documentation | Tools: Templates |
+| Safe use of AI tools, privacy, data residency | Tools: AI Tools | Practice: Documentation |
+| "Approach to" articles | Approaches | Condition pages |
+
+**Access labels.** Link members-only and subscription sources with a label so an NP knows before clicking: *members only* (NNPBC NP Portal, CNPS member pages), *login* (Pathways BC), *subscription* (RxFiles app, CPS, Lexicomp, UpToDate, BMJ Best Practice; note when a health authority library gives free access).
+
+**Build order across tabs.** No more than two section PRs open at once, on top of the daily routine's limit of two condition pages awaiting review. Conditions continue through the routine throughout.
+
+1. Stage A: settle each section plan's open decisions; add a Prescribing template to the templates.
+2. Stage B: Practice wave 1 · Prescribing wave 1 · Assessments wave 1 · Populations wave 1 · Resources wave 1. Then run step 2.4 on Populations and Resources.
+3. Stage C: Prescribing wave 2 · Practice wave 2 · Assessments waves 2 and 3 · Populations wave 2 · Approaches wave 1.
+4. Stage D: Prescribing wave 3 · Practice wave 3 · Assessments waves 4 and 5 · Populations wave 3 · Resources wave 2 · About pages. This completes the phase 2 gate.
+5. Stage E: phase 3 (Evidence Packs), then AI Tools and POCUS.
 
 ## Sources
 
