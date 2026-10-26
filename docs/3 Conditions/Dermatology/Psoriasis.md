@@ -826,17 +826,12 @@ sources:
 
 ## Key Sources
 
-??? info "[Canadian Guidelines for the Management of Plaque Psoriasis: 2016 Addendum (Journal of Cutaneous Medicine and Surgery, 2016)](https://journals.sagepub.com/doi/10.1177/1203475416655705)"
-	*Updates the Canadian Guidelines for the Management of Plaque Psoriasis (2009), which are no longer posted online.*  
-	- [Full Text (PDF, 2016)](https://journals.sagepub.com/doi/pdf/10.1177/1203475416655705)  
+??? info "Canadian Family Physician"
+	- [Diagnosis and Management of Psoriasis (2017)](https://www.cfp.ca/content/63/4/278) · [PDF](https://www.cfp.ca/content/cfp/63/4/278.full.pdf)  
 
 ??? info "Canadian consensus recommendations"
 	- [Canadian Dermatology-Rheumatology Comorbidity Initiative: Management of Comorbidities in Rheumatoid Arthritis, Psoriasis and Psoriatic Arthritis (Journal of Rheumatology, 2015)](https://www.jrheum.org/content/42/10/1767)  
 	- [Optimizing the Management of Psoriasis in Patients with Skin of Color: A Canadian Delphi Consensus (JAAD International, 2024)](https://www.jaadinternational.org/article/S2666-3287%2824%2900173-1/fulltext)  
-
-??? info "Canadian Family Physician"
-	- [Diagnosis and Management of Psoriasis (2017)](https://www.cfp.ca/content/63/4/278) · [PDF](https://www.cfp.ca/content/cfp/63/4/278.full.pdf)  
-
 ??? info "International: [NICE - Psoriasis: Assessment and Management, CG153 (2012, updated 2017)](https://www.nice.org.uk/guidance/cg153)"
 	*International source: UK guidance, not Canadian. NICE last reviewed it in March 2025.*  
 	- [Full Guideline (PDF, 2017)](https://www.nice.org.uk/guidance/cg153/resources/psoriasis-assessment-and-management-pdf-35109629621701)  
