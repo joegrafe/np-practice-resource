@@ -51,7 +51,7 @@ sources:
 | `sources` | Yes, except `index` and `about` | List of source entries (below) | List BC sources first, then national, then international. |
 | `hide` | No | `[comments]`, `[toc]`, `[navigation]` | Material for MkDocs option. Section index and About pages hide comments. |
 | `section_nav` | No | `true` · `false` | Shows or hides the section buttons. |
-| `logo` | No | Publisher's own image URL | Shown beside the title and on the section card. Link the publisher's file; never upload or host a copy. |
+| `logo` | No | Publisher's own image URL, or `/assets/logos/<name>` | Shown beside the title and on the section card. Link the publisher's file; host a copy in `docs/assets/logos/` only when Joe asks for one. |
 | `logo-alt` | With `logo` | Text | The institution's name, used as the image's alt text. |
 | `logo-bg` | No | CSS colour, quoted | Background behind a logo drawn for dark headers, e.g. `"#111"` for a white logo. |
 

@@ -67,7 +67,7 @@ NPPR should have eight top-level sections. Four keep their current names and fou
 | 4 | Populations (new) | Pediatrics, pregnancy and perinatal, older adults, women's health, trans and gender-affirming care, Indigenous health and cultural safety, rural and remote | Pediatrics folder, Trans Care, Woman's Health, BC Rural Health |
 | 5 | Prescribing (new) | Drug references, antimicrobials, PharmaCare and Special Authority, immunization, deprescribing, controlled drugs | Bugs & Drugs, BC Immunization Manual |
 | 6 | Practice (new) | NP scope and BCCNM standards, advice and referral (RACE, Pathways), forms, associations | Associations |
-| 7 | Evidence Packs (new) | One pack per condition for loading into AI tools, plus how-to guides | none |
+| 7 | Tools (new) | Sub-sections: Evidence Packs (one pack per condition for loading into AI tools, plus how-to guides), Templates, POCUS, AI Tools | none |
 | 8 | Resources | Guideline directories, libraries, evidence summaries, CPD | BC Guidelines, Guidelines folder, Library Guides, Peerevidence.ca, Clinical Tools |
 
 About stays as it is, as a separate tab after Resources.

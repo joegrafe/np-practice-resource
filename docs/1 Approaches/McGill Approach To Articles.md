@@ -414,4 +414,6 @@ sources:
 ## More Approaches
 
 - [University of Calgary Black Books](University%20of%20Calgary%20Black%20Books.md) — *schemes for common presentations*
+- [PedsCases Notes](PedsCases%20Approach%20To.md) — *short peer-reviewed summaries of pediatric presentations and conditions*
+- [American Family Physician: Approach To and Evaluation Of](AAFP%20Approach%20To%20and%20Evaluation%20Of%20Articles.md) — *recent free AAFP review articles (international)*
 - [MJM issue archive](https://mjm.mcgill.ca/issue/archive) — *new "An Approach To" articles appear in each issue*

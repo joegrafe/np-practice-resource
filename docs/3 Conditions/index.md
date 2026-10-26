@@ -8,6 +8,8 @@ hide:
   - comments
 ---
 
+<div class="nppr-filter nppr-filter--pages nppr-filter--conditions" data-placeholder="Search all conditions, e.g. inhaler or metformin"></div>
+
 ## In This Section
 
 <div class="grid cards nppr-cards" markdown>

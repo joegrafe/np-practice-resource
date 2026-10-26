@@ -32,6 +32,7 @@ sources:
     jurisdiction: BC
     kind: algorithm
     version: "2021"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease"
     pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixa_dec2021.pdf
     checked: 2026-10-09
   - id: bc-gpac-cvd-framingham
@@ -40,6 +41,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2021"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease"
     pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixb_dec2021.pdf
     checked: 2026-10-09
   - id: bc-gpac-cvd-lipid-testing
@@ -48,6 +50,7 @@ sources:
     jurisdiction: BC
     kind: summary
     version: "2021"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease"
     pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixc_dec2021.pdf
     checked: 2026-10-09
   - id: bc-gpac-cvd-statin-table
@@ -56,6 +59,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2021"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease"
     pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixd_dec2021.pdf
     checked: 2026-10-09
   - id: bc-gpac-cvd-resource-guide
@@ -64,6 +68,7 @@ sources:
     jurisdiction: BC
     kind: tool
     version: "2021"
+    url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease"
     pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_associated-document_dec2021.pdf
     checked: 2026-10-09
   - id: healthlinkbc-high-cholesterol
@@ -120,6 +125,7 @@ sources:
     jurisdiction: CA
     kind: summary
     version: Nov 2024
+    url: "https://www.rxfiles.ca/rxfiles/uploads/documents/books/lipids.html#:~:text=Management%20Considerations%20for%20Statin%20Intolerance"
     pdf: https://www.rxfiles.ca/RxFiles/uploads/documents/Lipid-Statin-Intolerance.pdf
     checked: 2026-10-09
   - id: heart-stroke-managing-cholesterol
@@ -136,6 +142,7 @@ sources:
     jurisdiction: CA
     kind: patient
     version:
+    url: "https://www.heartandstroke.ca/heart-disease/risk-and-prevention/condition-risk-factors/managing-cholesterol#:~:text=cholesterol%20management%20guide"
     pdf: https://www.heartandstroke.ca/-/media/pdf-files/canada/heart/how-to-manage-your-cholesterol-en.pdf
     checked: 2026-10-09
 ---
@@ -165,19 +172,19 @@ sources:
 
 ## Algorithms and Pathways
 
-- [BC Guidelines: Appendix A - Primary Prevention of Cardiovascular Disease Algorithm (BC GPAC, 2021)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixa_dec2021.pdf)
+- [BC Guidelines: Appendix A - Primary Prevention of Cardiovascular Disease Algorithm (BC GPAC, 2021)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixa_dec2021.pdf)
 
 ## Assessment Tools and Calculators
 
-- [BC Guidelines: Appendix B - Framingham 10-year Risk Estimation (BC GPAC, 2021)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixb_dec2021.pdf)
-- [BC Guidelines: Appendix C - Lipid Testing in Primary Prevention (BC GPAC, 2021)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixc_dec2021.pdf)
-- [Resource Guide for Physicians: Tools for Primary Prevention of CVD (BC GPAC, 2021)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_associated-document_dec2021.pdf)
+- [BC Guidelines: Appendix B - Framingham 10-year Risk Estimation (BC GPAC, 2021)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixb_dec2021.pdf)
+- [BC Guidelines: Appendix C - Lipid Testing in Primary Prevention (BC GPAC, 2021)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixc_dec2021.pdf)
+- [Resource Guide for Physicians: Tools for Primary Prevention of CVD (BC GPAC, 2021)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_associated-document_dec2021.pdf)
 
 ## Prescribing
 
-- [BC Guidelines: Appendix D - Pharmaceutical Table (BC GPAC, 2021)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixd_dec2021.pdf)
+- [BC Guidelines: Appendix D - Pharmaceutical Table (BC GPAC, 2021)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixd_dec2021.pdf)
 - [RxFiles: Lipids](https://www.rxfiles.ca/rxfiles/uploads/documents/books/lipids.html) — *comparison charts, newsletter and FAQs; most documents need an RxFiles subscription*
-- [RxFiles: Statin Intolerance (Nov 2024)](https://www.rxfiles.ca/RxFiles/uploads/documents/Lipid-Statin-Intolerance.pdf)
+- [RxFiles: Statin Intolerance (Nov 2024)](https://www.rxfiles.ca/rxfiles/uploads/documents/books/lipids.html#:~:text=Management%20Considerations%20for%20Statin%20Intolerance) · [PDF](https://www.rxfiles.ca/RxFiles/uploads/documents/Lipid-Statin-Intolerance.pdf)
 
 ## Advice and Referral
 
@@ -187,7 +194,7 @@ sources:
 
 - [HealthLink BC - High Cholesterol](https://www.healthlinkbc.ca/healthwise/high-cholesterol)
 - [Heart & Stroke - Managing cholesterol](https://www.heartandstroke.ca/heart-disease/risk-and-prevention/condition-risk-factors/managing-cholesterol)
-- [Heart & Stroke - How to manage your cholesterol (PDF)](https://www.heartandstroke.ca/-/media/pdf-files/canada/heart/how-to-manage-your-cholesterol-en.pdf)
+- [Heart & Stroke - How to manage your cholesterol](https://www.heartandstroke.ca/heart-disease/risk-and-prevention/condition-risk-factors/managing-cholesterol#:~:text=cholesterol%20management%20guide) · [PDF](https://www.heartandstroke.ca/-/media/pdf-files/canada/heart/how-to-manage-your-cholesterol-en.pdf)
 
 ## Evidence Pack
 
