@@ -246,6 +246,10 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [ ] Well-child care (Rourke)
 - [x] Contraception and STI care
 
+**Next conditions.** Added after the phase 2 list, as Joe asks for them:
+
+- [x] Psoriasis
+
 ## Sources
 
 All pages opened 2026-10-09.
