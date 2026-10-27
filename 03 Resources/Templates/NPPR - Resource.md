@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-type: resource           # use prescribing for pages in the Prescribing section
+type: resource
 tags: [resource]
 jurisdiction: [BC, CA]
 status: draft
