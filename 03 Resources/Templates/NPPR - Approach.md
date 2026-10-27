@@ -2,45 +2,41 @@
 title: <% tp.file.title %>
 type: approach
 tags: [approach]
-jurisdiction: [BC, CA]
+jurisdiction: [CA]
 status: draft
 last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
 review-due: <% tp.date.now("YYYY-MM-DD", 365) %>
 reviewers: []
+description: "An index of <publisher>'s <article type>, grouped by body system."
+logo: ""                   # publisher's own logo image URL (hotlinked)
+logo-alt: ""
 sources:
-  # BC sources first, then national, then international (INTL). Field list: FRONTMATTER.md
+  # One entry per linked item. BC first, then national, then international (INTL). Field list: FRONTMATTER.md
   - id:
     title:
     publisher:
-    jurisdiction: BC
-    kind: guideline        # guideline | algorithm | pathway | summary | tool | patient
-    version:
-    url:
+    jurisdiction: CA
+    kind: summary          # guideline | algorithm | pathway | summary | tool | patient
+    version:               # year or edition
+    url:                   # publisher's web page for the item
     pdf:                   # publisher's own PDF link only
     checked: <% tp.date.now("YYYY-MM-DD") %>
 ---
-*One sentence on what clinical process this framework supports and when to use it.*
+<!-- List taken from <publisher index URL> on <date> (<n> items). Link to the items; don't copy them.
+     An approach page is an index of a publisher's own "approach to" articles, schemes or pathways.
+     NPPR writes no clinical steps, bias checks or pearls of its own. -->
+*One sentence naming the publisher, what its items are, who writes them, and their jurisdiction (label international or other-province sources).*
 
-#### 1. Step Name
-- Key concept
-- Key concept
+[Open <publisher>](<publisher index URL>){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
-??? failure "Bias Check: Short warning."
-	- What goes wrong at this step.
-	- How to avoid it.
+## <Items> by System
 
-#### 2. Step Name
-- Key concept
-	- Sub-point
+<div class="nppr-filter" data-placeholder="Filter <items>, e.g. pain"></div>
 
-??? tip "Clinical Pearl"
-	- A practical tip for novice NPs.
+### <Body system> (<count>)
 
-#### 3. Step Name
-- Key concept
+- [Item title (year)](web page) · [PDF](pdf link) — *note on what the link holds*
 
----
+## More Approaches
 
-??? cite "References"
-	1. Author, A. (Year). *Title*. Publisher. [Link](URL)  
-	2. Author, B. (Year). *Title*. Publisher. [Link](URL)  
+- [Other approach page](Other%20Approach%20Page.md) — *what it holds*
