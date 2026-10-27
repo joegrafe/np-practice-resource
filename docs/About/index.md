@@ -1,21 +1,59 @@
 ---
 title: About NPPR
+description: "NPPR.ca links primary and urgent care nurse practitioners in BC and Canada to current, high-yield sources for each step of a visit."
+type: index
+tags: [index]
+jurisdiction: [BC, CA]
+status: published
+last-reviewed: 2026-10-26
+review-due: 2027-10-26
+reviewers: [joegrafe]
+redirect_from: [about/nppr-forum]
 hide: comments
 ---
 
-Nurse Practitioner Practice Resource (NPPR) is meant to be a public, cooperative repository you can use to build your own practice resource. 
+*NPPR links primary care and urgent care nurse practitioners in BC and Canada to high-yield, current sources for each step of a visit, so you can check what an AI tool tells you against the source itself.*
 
-It can also be viewed, discussed, and worked through the [NPPR GitHub repository forums](https://github.com/joegrafe/np-practice-resource/discussions).
+## Who it's for
 
-??? info "The Goal"  
-	The goal of this project is to have a first-stop for nurse practitioners and students to build our personal practice resources. Let's collaboratively build a digital practice resource for Nurse Practitioners with an emphasis on British Columbia, Canada. 
-	
-??? info "Levels of Engagement"  
-	1. Mild ![🌶](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png): [Save the website to your phone as an app](FAQ/How%20to%20-%20Save%20as%20an%20App.md) using chrome or safari. Submit links you find.  
-	2. Medium ![🌶](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png)![🌶](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png): Participate on the github page in forums, discussions.   
-	3. Spicy ![🌶](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png)![🌶](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png)![🌶](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png): Have a onenote/notebook like experience on your phone/desktop that directly syncs to the website.  
+Primary care and urgent care nurse practitioners and NP students in British Columbia and across Canada. Other clinicians are welcome to use it.
 
-??? info "How To's..."  
-	- Submit a link you think would be helpful for other NPs [here](Submissions.md) or by commenting on the page. 
-	- To download this website as an offline app, check out [How to - Save as an App](FAQ/How%20to%20-%20Save%20as%20an%20App.md).  
-	- To participate in the comments sections here, the [github forums](https://github.com/joegrafe/np-practice-resource/discussions), or to edit pages, sign up for a [www.github.com](https://www.github.com) account.  
+## How to use it
+
+Each tab matches a step of the appointment.
+
+| Visit step | Tab |
+| --- | --- |
+| Building a differential | [Approaches](../1%20Approaches/index.md) |
+| History, exam, tests and screening | [Assessments](../2%20Assessments/index.md) |
+| Diagnosis and management | [Conditions](../3%20Conditions/index.md) |
+| Care for a specific patient group | [Populations](../4%20Populations/index.md) |
+| Treatment and drug coverage | [Prescribing](../5%20Prescribing/index.md) |
+| Scope, forms, advice and referral | [Practice](../6%20Practice/index.md) |
+| Loading sources into AI tools | [Tools](../7%20Tools/index.md) |
+| Guideline directories and libraries | [Resources](../8%20Resources/index.md) |
+
+## What NPPR is, and isn't
+
+- **An index, not a guideline.** NPPR doesn't write its own clinical recommendations. Every entry links to the publisher's own page or PDF, with its year.
+- **BC first.** BC sources come first, then national Canadian sources, then international guidance, labelled as such.
+- **Dated.** Every page shows when it was last reviewed and when its next review is due.
+- **Free and open.** No login, no ads and no analytics. Every change is public on [GitHub](https://github.com/joegrafe/np-practice-resource).
+- **For clinicians, not patients.** Read the [disclaimer](Disclaimer%2C%20Licence%20and%20Privacy.md).
+
+## Who runs it
+
+NPPR is edited by Joe Grafe, Nurse Practitioner Student. It has no funding, sponsors or advertisers, and no conflicts of interest to declare.
+
+## Get involved
+
+- [Submit a link](Submissions.md) to a guideline or tool other NPs should have. No account needed.
+- Spot an error or a broken link? Use *Submit issue on GitHub* at the bottom of any page.
+- Join the conversation on [GitHub Discussions](https://github.com/joegrafe/np-practice-resource/discussions).
+- [Contact NPPR](Contact.md) with questions or ideas.
+
+## In This Section
+- [Contact](Contact.md)
+- [Disclaimer, Licence and Privacy](Disclaimer%2C%20Licence%20and%20Privacy.md)
+- [Install as an App](Install%20as%20an%20App.md)
+- [Submit a Link](Submissions.md)
