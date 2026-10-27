@@ -325,6 +325,8 @@ sources:
 	- [Full Guideline (PDF, CTS)](https://cts-sct.ca/wp-content/uploads/2023/09/2023-CTS-COPD-Pharmacotherapy-Guideline-1.pdf)  
 	- [CTS Guideline Library](https://cts-sct.ca/guideline-library/)  
 
+## Further Resources
+
 ??? info "[CTS Guideline: Alpha-1-Antitrypsin Deficiency Targeted Testing and Augmentation Therapy (2025)](https://doi.org/10.1080/24745332.2024.2443178)"
 	*Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Listed as current in the CTS Guideline Library.*  
 

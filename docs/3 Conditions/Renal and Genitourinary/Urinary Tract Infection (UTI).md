@@ -171,6 +171,13 @@ sources:
 ??? info "[BCCDC Certified Decision Support Tool: Uncomplicated Lower UTI (2026)](https://www.bccdc.ca/health-professionals/clinical-resources/sti-certified-practice#:~:text=Uncomplicated%20Lower%20UTI)"
 	*BC Centre for Disease Control, June 2026. Written for certified-practice RNs managing uncomplicated lower UTI in sexually active people with vulvar/vaginal anatomy.* · [PDF](https://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/STI/Med%20Handouts/Care%20and%20Treatment%20Plan%20-%20UTI.pdf)  
 
+??? info "American Family Physician rapid evidence reviews (AAFP, United States)"
+	*International source: American guidance, not Canadian.*  
+	- [Acute Uncomplicated UTIs in Adults: Rapid Evidence Review (2024)](https://www.aafp.org/afp/2024/0200/acute-uncomplicated-utis-adults)  
+	- [Acute Pyelonephritis in Adults: Rapid Evidence Review (2020)](https://www.aafp.org/afp/2020/0801/p173)  
+
+## Further Resources
+
 ??? info "[Recurrent Uncomplicated UTIs in Women: AUA/CUA/SUFU Guideline (2019, amended 2025)](https://www.auanet.org/guidelines-and-quality/guidelines/recurrent-uti)"
 	*Joint guideline of the American Urological Association, the Canadian Urological Association and SUFU.*  
 
@@ -182,11 +189,6 @@ sources:
 	- [#337 Clear, not cloudy: Antibiotic options for uncomplicated UTIs (2023)](https://cfpclearn.ca/tfp337/)  
 	- [#335 Asymptomatic bacteriuria in the elderly: Don't drug the bugs? (2023)](https://cfpclearn.ca/tfp335/)  
 	- [#270 Burning Evidence for Fosfomycin in Cystitis (2020)](https://cfpclearn.ca/tfp270/)  
-
-??? info "American Family Physician rapid evidence reviews (AAFP, United States)"
-	*International source: American guidance, not Canadian.*  
-	- [Acute Uncomplicated UTIs in Adults: Rapid Evidence Review (2024)](https://www.aafp.org/afp/2024/0200/acute-uncomplicated-utis-adults)  
-	- [Acute Pyelonephritis in Adults: Rapid Evidence Review (2020)](https://www.aafp.org/afp/2020/0801/p173)  
 
 ## Algorithms and Pathways
 

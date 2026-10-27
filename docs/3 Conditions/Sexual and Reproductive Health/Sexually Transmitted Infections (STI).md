@@ -399,6 +399,19 @@ sources:
 ??? info "[BCCDC - British Columbia Treatment Guidelines: Sexually Transmitted Infections (2025, PDF)](https://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/STI/Med%20Handouts/GC_Guidelines.pdf)"
 	*BC Centre for Disease Control, May 2025. Covers uncomplicated gonorrhea in adolescents and adults; refers to the PHAC guides for other infections. Replaces the retired 2014 BC STI guideline.*  
 
+??? info "[Public Health Agency of Canada - STBBI Guides for Health Professionals (2026)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines.html)"
+	*National guides by infection and syndrome; each guide is updated separately.*  
+	- [Chlamydia and LGV (2025)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/chlamydia-lgv.html)  
+	- [Gonorrhea (2026)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/gonorrhea.html)  
+	- [Syphilis (2025, treatment updated 2026)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/syphilis.html)  
+	- [Anogenital Warts (2025)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/anogenital-warts.html)  
+	- [Genital Herpes (2021)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/herpes-simplex-virus.html)  
+	- [Mycoplasma genitalium (2021)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/mycoplasma-genitalium.html)  
+	- [STI-Associated Syndromes: cervicitis, epididymitis, genital ulcers, PID, proctitis, urethritis and vaginitis (2026)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/sti-associated-syndromes.html)  
+	- [STBBI Prevention Guide (2026)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/stbbi-prevention-guide.html)  
+
+## Further Resources
+
 ??? info "[BCCDC Communicable Disease Control Manual - Chapter 5: Sexually Transmitted Infections](https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/sexually-transmitted-infections)"
 	*BC Centre for Disease Control. Hub for BC STI guidance, decision support tools and partner notification.*  
 	- [Quick Reference STI Screening and Testing Guide (PDF, 2026)](https://www.bccdc.ca/resource-gallery/Documents/Communicable-Disease-Manual/Chapter%205%20-%20STI/STI%20screening%20and%20testing%20table.pdf)  
@@ -425,17 +438,6 @@ sources:
 ??? info "BC Centre for Excellence in HIV/AIDS - HIV prevention guidance"
 	- [Guidance for the Use of PrEP for the Prevention of HIV Acquisition in BC (2026)](https://bccfe.ca/bccfe-documents/guidance-for-the-use-of-pre-exposure-prophylaxis-prep-for-the-prevention-of-hiv-acquisition-in-british-columbia/) · [PDF](https://bccfe.ca/wp-content/uploads/2025/12/prep_guidelines_06-mar-2026.pdf)  
 	- [HIV Post-Exposure Prophylaxis (PEP) Guidelines (2020)](https://bccfe.ca/bccfe-documents/hiv-post-exposure-prophylaxis-pep-guidelines/) · [PDF](https://bccfe.ca/wp-content/uploads/2023/12/guidance_for_the_use_of_post-exposure_prophylaxis_pep_for_the_prevention_of_hiv_in_british_columbia_31march202.pdf)  
-
-??? info "[Public Health Agency of Canada - STBBI Guides for Health Professionals (2026)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines.html)"
-	*National guides by infection and syndrome; each guide is updated separately.*  
-	- [Chlamydia and LGV (2025)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/chlamydia-lgv.html)  
-	- [Gonorrhea (2026)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/gonorrhea.html)  
-	- [Syphilis (2025, treatment updated 2026)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/syphilis.html)  
-	- [Anogenital Warts (2025)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/anogenital-warts.html)  
-	- [Genital Herpes (2021)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/herpes-simplex-virus.html)  
-	- [Mycoplasma genitalium (2021)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/mycoplasma-genitalium.html)  
-	- [STI-Associated Syndromes: cervicitis, epididymitis, genital ulcers, PID, proctitis, urethritis and vaginitis (2026)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/sti-associated-syndromes.html)  
-	- [STBBI Prevention Guide (2026)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/stbbi-prevention-guide.html)  
 
 ??? info "National Advisory Committee on STBBI (NAC-STBBI) statements"
 	- [Prophylactic Doxycycline for Prevention of Bacterial STI (2025)](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/national-advisory-committee-stbbi/recommendations-prophylactic-doxycycline-prevention-bacterial-sti-chlamydia-gonorrhea-syphilis.html)  

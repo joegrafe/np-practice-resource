@@ -523,6 +523,8 @@ sources:
 	- [Appendix 2: Responses to Frequent Questions (PDF, CMAJ)](https://www.cmaj.ca/content/cmaj/suppl/2025/05/23/197.20.E549.DC1/241770-guide-at-2.pdf)
 	- [Primary Care Guideline Slide Decks](https://hypertension.ca/primary-care-guideline-slide-decks)
 
+## Further Resources
+
 ??? info "[Canadian Task Force on Preventive Health Care - Hypertension (2012)](https://canadiantaskforce.ca/guidelines/published-guidelines/hypertension/)"
 	*Screening for high blood pressure in adults. Still listed as a published guideline.*
 	- [Clinician Summary (PDF)](https://canadiantaskforce.ca/wp-content/uploads/2016/06/2012-hypertension-clinician-summary-en-1.pdf)

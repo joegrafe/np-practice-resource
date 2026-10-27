@@ -248,6 +248,20 @@ sources:
 	- [Full Guideline (PDF, 2018)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/thyroid-function-testing.pdf)  
 	- [Appendix 1: BC Laboratory Algorithm for Thyroid Tests (PDF, 2018)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/thyroid-function-testing-appendix1.pdf)  
 
+??? info "[NICE - Thyroid Disease: Assessment and Management, NG145 (2019, updated 2023)](https://www.nice.org.uk/guidance/ng145)"
+	*International source: UK guidance, not Canadian. Investigating suspected thyroid disease and managing primary thyroid disease; does not cover thyroid cancer or thyroid disease in pregnancy.*  
+	- [Recommendations](https://www.nice.org.uk/guidance/ng145/chapter/Recommendations)  
+	- [Full Guideline (PDF, 2023)](https://www.nice.org.uk/guidance/ng145/resources/thyroid-disease-assessment-and-management-pdf-66141781496773)  
+
+??? info "American Family Physician reviews (AAFP, United States)"
+	*International source: American guidance, not Canadian.*  
+	- [Hypothyroidism: Diagnosis and Treatment (2021)](https://www.aafp.org/afp/2021/0515/p605)  
+	- [Thyroiditis: Evaluation and Treatment (2021)](https://www.aafp.org/afp/2021/1200/p609)  
+	- [Thyroid Nodules: Advances in Evaluation and Management (2020)](https://www.aafp.org/afp/2020/0901/p298)  
+	- [Subclinical Hyperthyroidism: When to Consider Treatment (2017)](https://www.aafp.org/afp/2017/0601/p710)  
+
+## Further Resources
+
 ??? info "[BC Cancer Family Oncology Network - Thyroid Cancer: What Family Physicians Need to Know When Caring for Their Patients (2025)](https://www.bccancer.bc.ca/health-professionals/networks/family-practice-oncology-network/continuing-medical-education)"
 	*Primary care role in thyroid cancer diagnosis, follow-up and survivorship.* · [PDF](https://www.bccancer.bc.ca/family-oncology-network-site/Documents/Thyroid%20Cancer.pdf)  
 
@@ -263,18 +277,6 @@ sources:
 
 ??? info "Tools for Practice (CFPCLearn) evidence summaries"
 	- [#249 Helping physicians fatigued by TSH Screening and Subclinical Hypothyroidism (2019)](https://cfpclearn.ca/tfp249/)  
-
-??? info "American Family Physician reviews (AAFP, United States)"
-	*International source: American guidance, not Canadian.*  
-	- [Hypothyroidism: Diagnosis and Treatment (2021)](https://www.aafp.org/afp/2021/0515/p605)  
-	- [Thyroiditis: Evaluation and Treatment (2021)](https://www.aafp.org/afp/2021/1200/p609)  
-	- [Thyroid Nodules: Advances in Evaluation and Management (2020)](https://www.aafp.org/afp/2020/0901/p298)  
-	- [Subclinical Hyperthyroidism: When to Consider Treatment (2017)](https://www.aafp.org/afp/2017/0601/p710)  
-
-??? info "[NICE - Thyroid Disease: Assessment and Management, NG145 (2019, updated 2023)](https://www.nice.org.uk/guidance/ng145)"
-	*International source: UK guidance, not Canadian. Investigating suspected thyroid disease and managing primary thyroid disease; does not cover thyroid cancer or thyroid disease in pregnancy.*  
-	- [Recommendations](https://www.nice.org.uk/guidance/ng145/chapter/Recommendations)  
-	- [Full Guideline (PDF, 2023)](https://www.nice.org.uk/guidance/ng145/resources/thyroid-disease-assessment-and-management-pdf-66141781496773)  
 
 ??? info "American Thyroid Association guidelines (Thyroid journal, United States)"
 	*International source: American specialist guidance, not Canadian.*  

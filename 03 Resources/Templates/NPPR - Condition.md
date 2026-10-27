@@ -35,7 +35,15 @@ sources:
 	*Only chapters relevant to primary care are listed here*  
 	- [Chapter](URL)  
 
-<!-- BC first, then national, then international (label it). One block per source in the sources list above. Relevant to Primary Care -->
+??? info "[Approach to / Management of Condition (Publisher, Year)](URL)"
+
+<!-- Key Sources: 1 to 3 only. BC Guideline first, then a more recent or broader national guideline, then one high-yield "approach to" or "management of" review. -->
+
+## Further Resources
+
+??? info "[Other source (Year)](URL)"
+
+<!-- Every other source: BC first, then national, then international (label it). One block per source in the sources list above. Relevant to Primary Care -->
 
 ## Algorithms and Pathways
 

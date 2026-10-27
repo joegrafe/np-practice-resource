@@ -72,7 +72,7 @@ NPPR should have eight top-level sections. Four keep their current names and fou
 
 About stays as it is, as a separate tab after Resources.
 
-**Body systems under Conditions.** Use one fixed list so the folders, tags and Evidence Packs all line up: Cardiovascular; Respiratory; Endocrine and Metabolic; Renal and Genitourinary; Gastrointestinal and Liver; Musculoskeletal; Neurology; Mental Health and Substance Use; Infectious Disease; Dermatology; Hematology and Oncology; Eyes, Ears, Nose and Throat; Sexual and Reproductive Health. Electrolyte disorders stay under Endocrine and Metabolic.
+**Body systems under Conditions.** Use one fixed list so the folders, tags and Evidence Packs all line up: Cardiovascular; Respiratory; Endocrine and Metabolic; Renal and Genitourinary; Gastrointestinal and Liver; Musculoskeletal; Neurology; Mental Health and Substance Use; Infectious Disease; Dermatology; Hematology and Oncology; Eyes, Ears, Nose and Throat; Sexual and Reproductive Health. Electrolyte disorders stay under Endocrine and Metabolic. Infections go under Infectious Disease (respiratory tract infections, cellulitis, herpes zoster) except ear and eye infections, which go under Eyes, Ears, Nose and Throat. Urgent care conditions go under their body system and carry the `urgent-care` tag. Chronic pain goes under Musculoskeletal.
 
 **Second ways in.** Tags give each condition page a population and a presenting symptom, such as `pediatrics` or `chest-pain`. The Material tags plugin is already enabled, so readers can browse by those tags without duplicating any pages.
 
@@ -115,7 +115,7 @@ The same rule applies to every page type: provincial sources first, then nationa
 
 | Page type | Sections, in order |
 | --- | --- |
-| Condition | Key sources (BC, then national) · Algorithms and pathways · Assessment tools and calculators · Prescribing · Advice and referral · Patient resources · Evidence Pack link · Review notes |
+| Condition | Key sources (1 to 3, see below) · Further resources · Algorithms and pathways · Assessment tools and calculators · Prescribing · Advice and referral · Patient resources · Evidence Pack link · Review notes |
 | Assessment | Scope · Focused history · Exam and special tests · Decision rules · Red flags · Learning videos · Sample documentation · References |
 | Approach | Purpose · Numbered steps with bias checks · Clinical pearls · References |
 | Population | Key sources · Screening and preventive care · Conditions with population notes (links) · Services and referral · Patient resources |
@@ -123,6 +123,8 @@ The same rule applies to every page type: provincial sources first, then nationa
 | Practice | Topic · Standard or rule, linked to its source · How to do it in BC · Contacts |
 | Evidence Pack | Generated from frontmatter: the source manifest table · Download links · Superseded versions · Changelog |
 | Resource | Organization · Title · Link · What it covers · Access and scope |
+
+**Key sources on condition pages.** Key sources holds only the 1 to 3 most relevant, high-yield, primary care sources for broad diagnosis and management, in this order: the BC Guideline (or another BC source where there is no BC Guideline); then a more recent or broader national guideline; then one high-yield "approach to" or "management of" review (for example AAFP, Canadian Family Physician or McGill). Every other source the page cites goes under Further resources, in the usual order: BC, then Canadian, then international, labelled as such. Agreed by Joe on 2026-10-27.
 
 The six templates already in the vault map onto these types. They would need `type`, `jurisdiction`, `review-due` and `sources` added, and two new templates for Population and Practice pages.
 
@@ -234,51 +236,46 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [x] Atrial fibrillation and anticoagulation
 - [x] Asthma
 - [x] COPD
-- [ ] Depression and anxiety
-- [ ] Opioid use disorder
-- [ ] Chronic pain
+- [ ] Depression and anxiety (Mental Health and Substance Use)
+- [ ] Opioid use disorder (Mental Health and Substance Use)
+- [ ] Chronic pain (Musculoskeletal)
 - [x] Urinary tract infection
-- [ ] Respiratory tract infections
+- [ ] Respiratory tract infections (Infectious Disease)
 - [x] Thyroid disease
-- [ ] Osteoporosis
-- [ ] Dementia and frailty
+- [ ] Osteoporosis (Endocrine and Metabolic)
+- [ ] Dementia and frailty (Neurology)
 - [ ] Prenatal care (build as a section of Populations > Pregnancy and Perinatal, not a condition page)
 - [ ] Well-child care (Rourke) (build as a section of Populations > Pediatrics, not a condition page)
 - [x] Contraception and STI care
 
-**Next conditions.** Added after the phase 2 list, as Joe asks for them. Build them in this order once the phase 2 list is done:
+**Build order.** From the [Conditions section plan](https://claude.ai/artifact/5UM4RnW9PTP8De8FtSLmQm), agreed by Joe on 2026-10-27. Build in waves, taking the first unticked item each time: wave 1 is the unticked priority conditions above in this order (depression and anxiety, respiratory tract infections, opioid use disorder, osteoporosis, chronic pain, dementia and frailty), then the two wave 1 urgent care conditions below; waves 2 and 3 follow top to bottom. The folder for each page is in brackets. Urgent care conditions also carry the `urgent-care` tag, and their decision rules go on Assessments > Clinical decision rules.
+
+**Next conditions.** Added after the phase 2 list, as Joe asks for them, in build order:
 
 - [x] Psoriasis
-- [ ] Alcohol use disorder
-- [ ] Tobacco use disorder
-- [ ] Venous thromboembolism
-- [ ] Obesity
-- [ ] Anemia and iron (iron deficiency, B12 and folate, high ferritin)
-- [ ] GERD and H. pylori
-- [ ] Irritable bowel syndrome
-- [ ] Abnormal liver tests and MASLD
-- [ ] Stroke and TIA
-- [ ] Menopause
-- [ ] Obstructive sleep apnea
-- [ ] Palliative care
-- [ ] Cellulitis and skin infections
-- [ ] Herpes zoster
-- [ ] Acute otitis media and otitis externa
-- [ ] Red eye
-
-**Urgent care conditions.** Added 2026-10-26 so coverage isn't only chronic disease. Interleave them with the list above; their decision rules go on Assessments > Clinical decision rules:
-
-- [ ] Lacerations and minor wounds
-- [ ] Sprains and minor fractures
-- [ ] Chest pain
-- [ ] Burns
-
-**Pediatric conditions.** Added 2026-10-27 from the [Populations plan](https://claude.ai/artifact/Smz8FYnzW34EFU3K96MKTV). Build them as pages under Populations > Pediatrics, listed in the Conditions index under their system and marked (pediatric). Interleave them with the lists above:
-
-- [ ] Fever in young infants
-- [ ] Croup
-- [ ] Bronchiolitis
-- [ ] Gastroenteritis and dehydration
+- Wave 1 (urgent care):
+    - [ ] Chest pain (Cardiovascular)
+    - [ ] Sprains and minor fractures (Musculoskeletal)
+- Wave 2:
+    - [ ] Alcohol use disorder (Mental Health and Substance Use)
+    - [ ] Tobacco use disorder (Mental Health and Substance Use)
+    - [ ] Lacerations and minor wounds (Dermatology; urgent care)
+    - [ ] Venous thromboembolism (Hematology and Oncology)
+    - [ ] Obesity (Endocrine and Metabolic)
+    - [ ] Anemia and iron (iron deficiency, B12 and folate, high ferritin) (Hematology and Oncology)
+    - [ ] Burns (Dermatology; urgent care)
+    - [ ] GERD and H. pylori (Gastrointestinal and Liver)
+- Wave 3:
+    - [ ] Irritable bowel syndrome (Gastrointestinal and Liver)
+    - [ ] Abnormal liver tests and MASLD (Gastrointestinal and Liver)
+    - [ ] Stroke and TIA (Neurology)
+    - [ ] Menopause (Sexual and Reproductive Health)
+    - [ ] Obstructive sleep apnea (Respiratory)
+    - [ ] Cellulitis and skin infections (Infectious Disease; sweep DermNet too)
+    - [ ] Herpes zoster (Infectious Disease)
+    - [ ] Acute otitis media and otitis externa (Eyes, Ears, Nose and Throat)
+    - [ ] Red eye (Eyes, Ears, Nose and Throat)
+    - [ ] Palliative care (build as a Populations page, listed in the Conditions index, not a condition page)
 
 ## Section page lists
 
@@ -301,7 +298,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 
 - **1 Approaches:** AAFP, McGill, UCalgary Black Books, PedsCases, Alberta Primary Care Pathways (built); Centre for Effective Practice tools *(new, 1)*; Canadian Family Physician review articles *(new, 2, if cfp.ca has enough approach-style articles)*.
 - **2 Assessments:** Lab and imaging *(new, 1)*; Clinical decision rules *(new, 2)*; Screening questionnaires and scales *(new, 3)*; Preventive care and cancer screening *(new, 4)*; Physical exam by system *(new, 5)*; retire Assessment Resources once its rows have moved.
-- **3 Conditions:** the Roadmap checklists above are the to-do list, in order.
+- **3 Conditions:** the Roadmap checklists above are the to-do list, in the build order given there. Wave 0 brings the older pages (CKD, AKI, low back pain, calcium, potassium and sodium disorders) up to standard with step 2.4.
 - **4 Populations** ([plan](https://claude.ai/artifact/Smz8FYnzW34EFU3K96MKTV), decisions settled 2026-10-27; one PR per wave)**:** Pediatrics (fold in the Canadian Paediatric Society and Rourke stubs; add well-child care and an adolescents section, 1); Pregnancy and Perinatal (add prenatal care and medication in pregnancy and lactation, 1); Older adults *(new, 2)*; Women's Health (rebuild, 2); Trans Care (rebuild, with gender-affirming hormone sources, 2); Rural and remote (rebuild BC Rural Health, 3); Indigenous Health (review, 3); Newcomers and refugees *(new, 3)*; Adults with intellectual and developmental disabilities *(new, 3)*.
 - **5 Prescribing:** Rational prescribing, Drug coverage (PharmaCare and Special Authority), Drug references *(new, 1)*; Antimicrobials, Immunization *(new, 2; replace the Bugs & Drugs and BC Immunization Manual pages)*; Opioids, controlled drugs and substance use prescribing, Deprescribing *(new, 3)*.
 - **6 Practice:** Scope of practice and standards, Prescribing authority *(new, 1)*; Registration and licensure, Practice models and compensation, Documentation privacy and records, Starting NP practice in BC *(new, 2)*; Consultation referral and advice, Forms and duty to report *(new, 3)*; Associations (reorder, NP bodies first, 3).

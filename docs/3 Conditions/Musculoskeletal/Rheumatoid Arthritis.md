@@ -491,6 +491,8 @@ sources:
 	- [Update #3 (Journal of Rheumatology, April 2026)](https://www.jrheum.org/content/early/2026/03/24/jrheum.2026-0228)
 	- [Patient Decision Aid: Should You Take Less Medicine? (PDF, July 2022)](https://rheum.ca/app/uploads/2026/07/RA_decisionaid_July-20-2022.pdf)
 
+## Further Resources
+
 ??? info "Canadian Rheumatology Association position statements"
 	- [Vaccinations in Patients with Rheumatic Diseases (2026)](https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-for-vaccinations-in-patients-with-rheumatic-diseases/#:~:text=Download%20Statement%20Canadian%20Rheumatology%20Association%20Position%20Statement%20on) · [PDF](https://rheum.ca/app/uploads/2026/03/General-Vaccine-position-statement_FINALrev-ENG.pdf)
 	- [Criteria for Access to Targeted Agents for Rheumatoid Arthritis in Canada (2026)](https://rheum.ca/resources-post/canadian-rheumatology-association-position-statement-on-criteria-for-access-to-targeted-agents-for-rheumatoid-arthritis-in-canada/#:~:text=Download%20Statement%20Criteria%20for%20Access%20to%20Targeted%20Agents) · [PDF](https://rheum.ca/app/uploads/2026/07/Revisd-PS__Criteria-for-Access-to-Targeted-Agents-for-RA.pdf)

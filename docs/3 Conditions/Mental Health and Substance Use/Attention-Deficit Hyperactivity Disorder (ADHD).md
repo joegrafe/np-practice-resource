@@ -420,6 +420,8 @@ sources:
 	- [Guideline overview](https://www.caddra.ca/guideline-overview/)  
 	- [ADHD questionnaires and forms](https://www.caddra.ca/etoolkit-forms/)  
 
+## Further Resources
+
 ??? info "[Canadian Paediatric Society - ADHD in Children and Youth, Parts 1 to 3 (2018, reaffirmed 2024)](https://cps.ca/en/tools-outils/adhd)"
 	- [Part 1: Etiology, diagnosis, and comorbidity](https://cps.ca/en/documents/position/adhd-etiology-diagnosis-and-comorbidity)  
 	- [Part 2: Treatment](https://cps.ca/en/documents/position/adhd-2-treatment)  
