@@ -250,6 +250,8 @@ sources:
      Years are the guideline's effective year from its BC Guidelines page, checked 2026-10-27. -->
 *When to order and how to interpret common lab tests and diagnostic imaging in BC primary care: the BC Guidelines on testing, Canada's imaging referral guidelines and the Choosing Wisely Canada lists. Disease-specific tests stay on their condition pages.*
 
+<div class="nppr-filter" data-ai="off" data-placeholder="Filter tests, e.g. ferritin"></div>
+
 ## Laboratory Tests
 
 ### Blood and Iron
