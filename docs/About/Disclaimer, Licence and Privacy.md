@@ -5,7 +5,7 @@ description: "Terms of use for NPPR.ca: a reference for licensed clinicians, the
 type: practice
 tags: [about]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-26
 review-due: 2027-10-26
 reviewers: [joegrafe]

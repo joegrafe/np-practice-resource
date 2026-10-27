@@ -4,7 +4,7 @@ description: "Send a question, correction or idea to NPPR.ca."
 type: practice
 tags: [about]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-26
 review-due: 2027-10-26
 reviewers: [joegrafe]

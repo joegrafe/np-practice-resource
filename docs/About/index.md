@@ -4,7 +4,7 @@ description: "NPPR.ca links primary and urgent care nurse practitioners in BC an
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-26
 review-due: 2027-10-26
 reviewers: [joegrafe]

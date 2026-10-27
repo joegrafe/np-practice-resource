@@ -4,7 +4,7 @@ description: "Add NPPR.ca to your phone's home screen so it opens like an app."
 type: practice
 tags: [about]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-26
 review-due: 2027-10-26
 reviewers: [joegrafe]

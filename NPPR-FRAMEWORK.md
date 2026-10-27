@@ -300,7 +300,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 - **6 Practice:** Scope of practice and standards, Prescribing authority *(new, 1)*; Registration and licensure, Practice models and compensation, Documentation privacy and records, Starting NP practice in BC *(new, 2)*; Consultation referral and advice, Forms and duty to report *(new, 3)*; Associations (reorder, NP bodies first, 3).
 - **7 Tools:** Evidence Packs (phase 3, steps 3.1 to 3.4); AI Tools (safe use, privacy, data residency); POCUS; Templates stays a placeholder pointing to the nppr-templates repository, a future community project.
 - **8 Resources:** fold today's pages into Guideline directories and Evidence summaries and journals (1), then Libraries and databases and CPD and learning (2); Clinical Tools moves to Assessments.
-- **About:** add a Contributor guide and Reviewer roster (steps 4.1 and 4.2) and a "How NPPR is kept current" page.
+- **About:** has About NPPR, Contact, Disclaimer, Licence and Privacy, Install as an App and Submit a Link (since 2026-10-27). Still to add: a Contributor guide and Reviewer roster (steps 4.1 and 4.2) and a "How NPPR is kept current" page.
 
 **Topic ownership.** A topic has one home page that holds its links; other tabs link to that page. A diagnosis goes in Conditions, a tool or test in Assessments, a drug or its coverage in Prescribing, a rule or form in Practice, a patient group in Populations, and anything loaded into software in Tools. Specific cases:
 
