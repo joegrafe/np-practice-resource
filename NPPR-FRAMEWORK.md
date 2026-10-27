@@ -67,7 +67,7 @@ NPPR should have eight top-level sections. Four keep their current names and fou
 | 4 | Populations (new) | Pediatrics, pregnancy and perinatal, older adults, women's health, trans and gender-affirming care, Indigenous health and cultural safety, rural and remote | Pediatrics folder, Trans Care, Woman's Health, BC Rural Health |
 | 5 | Prescribing (new) | Drug references, antimicrobials, PharmaCare and Special Authority, immunization, deprescribing, controlled drugs | Bugs & Drugs, BC Immunization Manual |
 | 6 | Practice (new) | NP scope and BCCNM standards, advice and referral (RACE, Pathways), forms, associations | Associations |
-| 7 | Tools (new) | Sub-sections: Evidence Packs (one pack per condition for loading into AI tools, plus how-to guides), Templates (a future community project in the nppr-templates repository; placeholder for now), POCUS, AI Tools | none |
+| 7 | Tools (new) | Sub-sections: Evidence Packs (one pack per condition for loading into AI tools, plus how-to guides), Templates (peer-written charting templates and AI templates, such as scribe note templates and prompts, contributed through the nppr-templates repository), POCUS, AI Tools | none |
 | 8 | Resources | Guideline directories, libraries, evidence summaries, CPD | BC Guidelines, Guidelines folder, Library Guides, Peerevidence.ca, Clinical Tools |
 
 About stays as it is, as a separate tab after Resources.
@@ -298,7 +298,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 - **4 Populations:** Pediatrics (fold in the Canadian Paediatric Society and Rourke stubs; add well-child care, 1); Pregnancy and Perinatal (add prenatal care, 1); Older adults *(new, 2)*; Women's Health (rebuild, 2); Trans Care (rebuild, 2); Rural and remote (rebuild BC Rural Health, 3); Indigenous Health (review, 3); Newcomers and refugees *(new, 3)*.
 - **5 Prescribing:** Rational prescribing, Drug coverage (PharmaCare and Special Authority), Drug references *(new, 1)*; Antimicrobials, Immunization *(new, 2; replace the Bugs & Drugs and BC Immunization Manual pages)*; Opioids, controlled drugs and substance use prescribing, Deprescribing *(new, 3)*.
 - **6 Practice:** Scope of practice and standards, Prescribing authority *(new, 1)*; Registration and licensure, Practice models and compensation, Documentation privacy and records, Starting NP practice in BC *(new, 2)*; Consultation referral and advice, Forms and duty to report *(new, 3)*; Associations (reorder, NP bodies first, 3).
-- **7 Tools:** point-of-care tools, not only AI. AI Tools (safe use, privacy, data residency); POCUS (scope, training, protocols); Evidence Packs (phase 3, steps 3.1 to 3.4); Templates stays a placeholder pointing to the nppr-templates repository, a future community project.
+- **7 Tools:** point-of-care tools, not only AI. AI Tools (safe use, privacy, data residency); POCUS (scope, training, protocols); Templates (peer-written charting templates and AI templates, a community project in the nppr-templates repository; placeholder until the first ones are reviewed); Evidence Packs (phase 3, steps 3.1 to 3.4).
 - **8 Resources:** fold today's pages into Guideline directories and Evidence summaries and journals (1), then Libraries and databases and CPD and learning (2); Clinical Tools moves to Assessments.
 - **About:** has About NPPR, Contact, Disclaimer, Licence and Privacy, Install as an App and Submit a Link (since 2026-10-27). Still to add: a Contributor guide and Reviewer roster (steps 4.1 and 4.2) and a "How NPPR is kept current" page.
 

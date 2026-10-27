@@ -36,7 +36,7 @@ section_nav: false
 
 -   :material-toolbox-outline:{ .nppr-icon } [**Tools**](7%20Tools/index.md)
 
-    Point-of-care ultrasound and AI tools, with Evidence Packs for loading current guidance.
+    Point-of-care ultrasound, AI tools, peer-written charting and AI templates, and Evidence Packs.
 
 -   :material-bookshelf:{ .nppr-icon } [**Resources**](8%20Resources/index.md)
 

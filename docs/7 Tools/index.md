@@ -14,7 +14,7 @@ hide:
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*Point-of-care tools for NP practice: bedside ultrasound (POCUS) and AI tools, with Evidence Packs to keep AI tools working from current guidance.*
+*Point-of-care tools for NP practice: bedside ultrasound (POCUS), AI tools, peer-written charting and AI templates, and Evidence Packs to keep AI tools working from current guidance.*
 
 ## In This Section
 - [Evidence Packs](1%20Evidence%20Packs/index.md)
