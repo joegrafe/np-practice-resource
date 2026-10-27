@@ -10,7 +10,7 @@ reviewers: []
 hide:
   - comments
 ---
-*Peer-written charting templates and AI templates (scribe note templates and prompts) for NP practice, contributed by NPs through the [nppr-templates](https://github.com/joegrafe/nppr-templates) repository.*
+*Peer-written charting templates and AI templates (scribe note templates and prompts) for NP practice, contributed by NPs through the nppr-templates repository.*
 
 ## In This Section
-*Pending: templates are added as they are built.*
+*Pending: templates are listed here once reviewed. To contribute one, see the [nppr-templates](https://github.com/joegrafe/nppr-templates) repository.*
