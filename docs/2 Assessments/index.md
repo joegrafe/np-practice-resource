@@ -3,10 +3,10 @@ title: Assessments
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-27
 review-due: 2027-10-27
-reviewers: []
+reviewers: [joegrafe]
 hide:
   - comments
 ---
