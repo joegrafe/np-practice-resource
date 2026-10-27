@@ -61,7 +61,7 @@ NPPR should have eight top-level sections. Four keep their current names and fou
 
 | # | Section | Holds | Moves in from today |
 | --- | --- | --- | --- |
-| 1 | Approaches | Clinical reasoning frameworks, documentation, using AI tools safely | A Systematic Approach, UCalgary Black Books |
+| 1 | Approaches | Clinical reasoning frameworks and documentation (safe use of AI tools lives in Tools: AI Tools) | A Systematic Approach, UCalgary Black Books |
 | 2 | Assessments | Exams by system, decision rules, screening, lab and imaging interpretation | Assessment Resources |
 | 3 | Conditions | One page per condition, grouped by body system | All 8 condition pages |
 | 4 | Populations (new) | Pediatrics, pregnancy and perinatal, older adults, women's health, trans and gender-affirming care, Indigenous health and cultural safety, rural and remote | Pediatrics folder, Trans Care, Woman's Health, BC Rural Health |
@@ -302,7 +302,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 - **4 Populations** ([plan](https://claude.ai/artifact/Smz8FYnzW34EFU3K96MKTV), decisions settled 2026-10-27; one PR per wave)**:** Pediatrics (fold in the Canadian Paediatric Society and Rourke stubs; add well-child care and an adolescents section, 1); Pregnancy and Perinatal (add prenatal care and medication in pregnancy and lactation, 1); Older adults *(new, 2)*; Women's Health (rebuild, 2); Trans Care (rebuild, with gender-affirming hormone sources, 2); Rural and remote (rebuild BC Rural Health, 3); Indigenous Health (review, 3); Newcomers and refugees *(new, 3)*; Adults with intellectual and developmental disabilities *(new, 3)*.
 - **5 Prescribing:** Rational prescribing, Drug coverage (PharmaCare and Special Authority), Drug references *(new, 1)*; Antimicrobials, Immunization *(new, 2; replace the Bugs & Drugs and BC Immunization Manual pages)*; Opioids, controlled drugs and substance use prescribing, Deprescribing *(new, 3)*.
 - **6 Practice:** Scope of practice and standards, Prescribing authority *(new, 1)*; Registration and licensure, Practice models and compensation, Documentation privacy and records, Starting NP practice in BC *(new, 2)*; Consultation referral and advice, Forms and duty to report *(new, 3)*; Associations (reorder, NP bodies first, 3).
-- **7 Tools:** point-of-care tools, not only AI. AI Tools (safe use, privacy, data residency); POCUS (scope, training, protocols); Templates (peer-written charting templates and AI templates, a community project in the nppr-templates repository; placeholder until the first ones are reviewed); Evidence Packs (phase 3, steps 3.1 to 3.4).
+- **7 Tools** ([plan](https://claude.ai/artifact/2XqfqicaaAKEQUksHFCVtX), decisions settled 2026-10-27)**:** point-of-care tools, not only AI. AI Tools: Checking AI output, Safe use and accountability, AI scribes consent and privacy, AI tools NPs use (only tools approved by a BC health authority or funded by Infoway, with data residency and no rankings) *(new, 1, with step 3.3 llms.txt)*; POCUS: Scope and training, Protocols and references *(new, 2)*; Templates (peer-written charting templates and AI templates, a community project in the nppr-templates repository; a template is listed only when it is structure only, cites its sources, names its author and has one NP reviewer's approval); Evidence Packs (phase 3, steps 3.1, 3.2 and 3.4, 3).
 - **8 Resources:** fold today's pages into Guideline directories and Evidence summaries and journals (1), then Libraries and databases and CPD and learning (2); Clinical Tools moves to Assessments.
 - **About:** has About NPPR, Contact, Disclaimer, Licence and Privacy, Install as an App and Submit a Link (since 2026-10-27). Still to add: a Contributor guide and Reviewer roster (steps 4.1 and 4.2) and a "How NPPR is kept current" page.
 
@@ -330,15 +330,15 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 | Safe use of AI tools, privacy, data residency | Tools: AI Tools | Practice: Documentation |
 | "Approach to" articles | Approaches | Condition pages |
 
-**Access labels.** Link members-only and subscription sources with a label so an NP knows before clicking: *members only* (NNPBC NP Portal, CNPS member pages), *login* (Pathways BC), *subscription* (RxFiles app, CPS, Lexicomp, UpToDate, BMJ Best Practice; note when a health authority library gives free access).
+**Access labels.** Link members-only and subscription sources with a label so an NP knows before clicking: *members only* (NNPBC NP Portal, CNPS member pages), *login* (Pathways BC), *subscription* (RxFiles app, CPS, Lexicomp, UpToDate, BMJ Best Practice; note when a health authority library gives free access). Label sources written for physicians *physician-focused* (for example Doctors of BC scribe resources, CAEP POCUS statements).
 
 **Build order across tabs.** No more than two section PRs open at once, on top of the daily routine's limit of two condition pages awaiting review. Conditions continue through the routine throughout.
 
 1. Stage A: settle each section plan's open decisions; add a Prescribing template to the templates.
-2. Stage B: Practice wave 1 · Prescribing wave 1 · Assessments wave 1 · Populations wave 1 · Resources wave 1. Then run step 2.4 on Populations and Resources.
+2. Stage B: Practice wave 1 · Prescribing wave 1 · Assessments wave 1 · Populations wave 1 · Resources wave 1 · Tools wave 1 (AI Tools and step 3.3 llms.txt). Then run step 2.4 on Populations and Resources.
 3. Stage C: Prescribing wave 2 · Practice wave 2 · Assessments waves 2 and 3 · Populations wave 2 · Approaches wave 1.
 4. Stage D: Prescribing wave 3 · Practice wave 3 · Assessments waves 4 and 5 · Populations wave 3 · Resources wave 2 · About pages. This completes the phase 2 gate.
-5. Stage E: phase 3 (Evidence Packs), then AI Tools and POCUS.
+5. Stage E: Tools wave 2 (POCUS), then phase 3 (Evidence Packs, steps 3.1, 3.2 and 3.4).
 
 ## Sources
 
@@ -641,6 +641,8 @@ Extend the Evidence Pack hook to publish each pack's manifest as a downloadable 
 Check: open one CSV in Excel and add the RSS feed to a reader.
 
 **3.3 llms.txt for other AI tools** · Run in: Claude Code · Opus 5.5, medium
+
+Runs early, with Tools wave 1 in stage B (decided 2026-10-27), since it needs no Evidence Packs.
 
 ```text
 Add the mkdocs-llmstxt plugin so the site publishes /llms.txt, Markdown copies of each page and llms-full.txt. Group the sections by the eight top-level sections and leave out About. Show me llms.txt from the local preview.
