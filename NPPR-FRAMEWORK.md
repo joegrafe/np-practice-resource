@@ -30,7 +30,7 @@ Each of these does one job well. None indexes current BC and Canadian sources by
 | [PEER resources](https://acfp.ca/research-and-tools/peer-resources/) and [Tools for Practice](https://cfpclearn.ca/tools-for-practice-library/) | PEER team (pharmacists, nurses, family physicians) with ACFP; hosted on CFPCLearn | Mainly family physicians; articles emailed free, 0.25 Mainpro+ credits each | 200+ evidence summaries; simplified guidelines for chronic pain, lipids and opioid use disorder | Link these as plain-language evidence summaries on condition pages. |
 | [RxFiles](https://www.rxfiles.ca/rxfiles/modules/aboutus/AboutUs.aspx) | RxFiles Academic Detailing, University of Saskatchewan | Front-line practitioners; app needs a subscription | Drug Comparison Charts (15th edition, July 2025), app, Q&As, patient handouts | A model for a Prescribing section that links out rather than copying. |
 | [Firstline: Canadian Antibiotic Treatment Guidance](https://firstline.org/canada/) | AMMI Canada, supported by PHAC | Primary care prescribers; free app and web | National antibiotic guidance, starting with respiratory infections | Cite on every infection page. |
-| [Thrombosis Canada app](https://krs.libguides.com/mobile/thrombosiscanada) | Thrombosis Canada | Canadian health care providers; no ads, works offline | Clinical guides and calculators, e.g. perioperative anticoagulation | Shows the value of offline access and built-in calculators, which NPPR already has as a PWA. |
+| [Thrombosis Canada app](https://krs.libguides.com/mobile/thrombosiscanada) | Thrombosis Canada | Canadian health care providers; no ads, works offline | Clinical guides and calculators, e.g. perioperative anticoagulation | Shows the value of offline access and built-in calculators, which NPPR plans: it installs as an app today, and offline use comes with a service worker in stage C. |
 | Centre for Effective Practice | CEP, co-lead of [Evidence2Practice Ontario](https://digitalhealthcanada.com/?p=33928) | Ontario primary care | Point-of-care tools, including Ontario Health quality standards built into EMRs | Structured tools fit into clinical workflow. |
 | [CMA CPG Infobase](https://lists.koumbit.net/pipermail/canmedlib-chlaabsc.koumbit.org/2023-September/001674.html) | Canadian Medical Association | All clinicians | Database of Canadian clinical practice guidelines | Shut down December 1, 2023; there is no national guideline index now. |
 | [NNPBC NP Portal](https://www.nnpbc.com/np-portal/) | Nurses and Nurse Practitioners of BC | BC NPs; some resources members-only | Practice supports and a searchable content library | Link to it for NP practice and scope topics. |
@@ -44,7 +44,7 @@ NPPR has the strongest publishing model of the group but the thinnest coverage a
 - Free and open, with no login. Pathways, RxFiles' app and parts of NNPBC are gated.
 - BC-first and written for NPs, where most peers are written for physicians or are national.
 - Every change is versioned in Git, and readers can suggest edits through GitHub.
-- Installs as an offline app, like the Thrombosis Canada app.
+- Installs as an app; offline use, like the Thrombosis Canada app, needs a service worker (planned for stage C).
 
 **Gaps the comparison exposes**
 
@@ -164,7 +164,7 @@ Heidi Evidence answers from the documents an NP uploads, so NPPR's job is to tel
 
 **Evidence Pack flow (diagram in the doc, described here).** One source list feeds the page, the Evidence Pack and the AI files:
 
-1. Source list (each page's frontmatter: publisher and version, PDF link, date checked) feeds the MkDocs build (Evidence Pack hook, llmstxt plugin).
+1. Source list (each page's frontmatter: publisher and version, PDF link, date checked) feeds the site build (Evidence Pack and llms.txt build scripts).
 2. The build produces three outputs: the condition page (what the clinician reads at the bedside); llms.txt and Markdown copies (clean text for any AI assistant); and the Evidence Pack (manifest, CSV, links to publisher PDFs, superseded list, changelog and RSS feed).
 3. From the Evidence Pack, the NP downloads the PDFs from the publisher sites, named by publisher and version.
 4. The NP adds them to Heidi My Library, one collection per topic group, with superseded files removed.
@@ -189,7 +189,7 @@ The NP only handles the Evidence Pack. The page and the AI text files update the
 
 **Suggested My Library collections,** each one built from a group of packs: BC Guidelines core (or the full ZIP), Chronic disease, Infections and antimicrobials (with the AMMI Canada guidance), Pediatrics and perinatal, Mental health and substance use, and Prescribing.
 
-**For other AI tools.** The [mkdocs-llmstxt](https://github.com/pawamoy/mkdocs-llmstxt) plugin publishes `/llms.txt`, a clean Markdown copy of each page, and an `llms-full.txt` of the whole site. That lets an NP paste or point any assistant at NPPR's index without scraping HTML.
+**For other AI tools.** A post-build script (modelled on the [mkdocs-llmstxt](https://github.com/pawamoy/mkdocs-llmstxt) plugin) publishes `/llms.txt`, a clean Markdown copy of each page, and an `llms-full.txt` of the whole site. That lets an NP paste or point any assistant at NPPR's index without scraping HTML.
 
 **Safe use, stated on every pack:**
 
@@ -222,7 +222,7 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 | --- | --- | --- |
 | 1 Foundation | Frontmatter schema · New section folders · Review dates on pages · Link checks, pin MkDocs | 8 pages migrated |
 | 2 Coverage | 20 priority conditions · Populations section · Prescribing section · Practice section | 20 pages published |
-| 3 AI layer | Evidence Pack hook · Manifest CSV and RSS · llms.txt plugin · Heidi how-to guide | Packs tested in Heidi |
+| 3 AI layer | Evidence Pack build script · Manifest CSV and RSS · llms.txt build script · Heidi how-to guide | Packs tested in Heidi |
 | 4 Community | Contributor guide · Reviewer roster · NP student projects · Yearly review sweep | — |
 
 **Priority conditions for phase 2.** These are high-volume primary care topics with BC or national guidance. The ticked items already have a page; tick the rest as their pages are published:
@@ -336,6 +336,14 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 | "Approach to" articles | Approaches | Condition pages |
 
 **Access labels.** Link members-only and subscription sources with a label so an NP knows before clicking: *members only* (NNPBC NP Portal, CNPS member pages), *login* (Pathways BC), *subscription* (RxFiles app, CPS, Lexicomp, UpToDate, BMJ Best Practice; note when a health authority library gives free access). Label sources written for physicians *physician-focused* (for example Doctors of BC scribe resources, CAEP POCUS statements).
+
+**Site platform** (decided 2026-10-27, Joe approved the [platform audit](https://claude.ai/artifact/EHYwiCpiTExS75Rubcfmog)). nppr.ca stays a static site on MkDocs Material, hosted on Cloudflare, with every change a draft PR; it does not move to WordPress.
+
+- Write new generated features (Evidence Packs, Presentations A to Z, the calculators index, llms.txt) as stand-alone build scripts that read the frontmatter before or after the build, not as MkDocs hooks or plugins, so they carry over to Zensical unchanged.
+- Don't build new features on Material's search box.
+- Re-check Zensical at its 1.0 release, or by February 2027 at the latest; Astro Starlight is the fallback if it stalls.
+- A way to contribute without GitHub (a Tally form that Claude turns into a PR, or a git-based web editor such as Sveltia CMS) waits for Phase 4.
+- Platform PRs by stage, in nppr-website-config: **B** a preview link for each content PR, draft-status and access badges, a build warning for incomplete source entries, llms.txt (step 3.3); **C** calculators index and "Used on:" links (one script, after Clinical decision rules), a service worker for offline use; **D** Presentations A to Z with Approaches wave 2, branch rule and PR template (4.1), reviewer roster check (4.2), monthly review-due issues as a scheduled GitHub Action; **E** Evidence Packs (3.1, 3.2).
 
 **Build order across tabs.** No more than two section PRs open at once, on top of the daily routine's limit of two condition pages awaiting review. Conditions continue through the routine throughout.
 
@@ -632,7 +640,7 @@ Steps 3.1 to 3.4 run in Claude Code. The gate is yours: test a pack in your own 
 **3.1 Evidence Pack generator** · Run in: Claude Code · Opus 5.5, high (Fable if stuck)
 
 ```text
-In nppr-website-config, write a build hook that creates an Evidence Pack page for every condition page from its sources frontmatter, as described in the Loading guidelines into AI tools section of NPPR-FRAMEWORK.md: a manifest table, direct links to each publisher's PDF (link only, no hosted copies), a Superseded list, and a changelog from git history. Put the packs under the Evidence Packs section and link each condition page to its pack. Show me the Hypertension pack in the local preview.
+In nppr-website-config, write a stand-alone build script (run before the site build, not an MkDocs hook; see Site platform) that creates an Evidence Pack page for every condition page from its sources frontmatter, as described in the Loading guidelines into AI tools section of NPPR-FRAMEWORK.md: a manifest table, direct links to each publisher's PDF (link only, no hosted copies), a Superseded list, and a changelog from git history. Put the packs under the Evidence Packs section and link each condition page to its pack. Show me the Hypertension pack in the local preview.
 ```
 
 Check: every PDF link in the Hypertension pack opens the publisher's current file.
@@ -640,7 +648,7 @@ Check: every PDF link in the Hypertension pack opens the publisher's current fil
 **3.2 Manifest CSV and RSS feed** · Run in: Claude Code · Opus 5.5, medium
 
 ```text
-Extend the Evidence Pack hook to publish each pack's manifest as a downloadable CSV, plus one combined CSV of all packs, and an RSS feed of pack changes so NPs can follow updates.
+Extend the Evidence Pack build script to publish each pack's manifest as a downloadable CSV, plus one combined CSV of all packs, and an RSS feed of pack changes so NPs can follow updates.
 ```
 
 Check: open one CSV in Excel and add the RSS feed to a reader.
@@ -650,7 +658,7 @@ Check: open one CSV in Excel and add the RSS feed to a reader.
 Runs early, with Tools wave 1 in stage B (decided 2026-10-27), since it needs no Evidence Packs.
 
 ```text
-Add the mkdocs-llmstxt plugin so the site publishes /llms.txt, Markdown copies of each page and llms-full.txt. Group the sections by the eight top-level sections and leave out About. Show me llms.txt from the local preview.
+Write a post-build script in nppr-website-config (not an MkDocs plugin or hook; see Site platform) so the site publishes /llms.txt, Markdown copies of each page and llms-full.txt. Group the sections by the eight top-level sections and leave out About. Show me llms.txt from the local preview.
 ```
 
 **3.4 Heidi how-to page** · Run in: Claude Code · Opus 5.5, high
