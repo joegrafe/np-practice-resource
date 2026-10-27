@@ -61,7 +61,7 @@ NPPR should have eight top-level sections. Four keep their current names and fou
 
 | # | Section | Holds | Moves in from today |
 | --- | --- | --- | --- |
-| 1 | Approaches | Clinical reasoning frameworks and documentation (safe use of AI tools lives in Tools: AI Tools) | A Systematic Approach, UCalgary Black Books |
+| 1 | Approaches | Indexes of published "approach to" articles, diagnostic schemes and primary care pathways, by body system; NPPR writes no approaches of its own (documentation lives in Practice, safe use of AI tools in Tools: AI Tools) | A Systematic Approach, UCalgary Black Books |
 | 2 | Assessments | Exams by system, point-of-care ultrasound (POCUS), decision rules, screening, lab and imaging interpretation | Assessment Resources; POCUS (from Tools, 2026-10-27) |
 | 3 | Conditions | One page per condition, grouped by body system | All 8 condition pages |
 | 4 | Populations (new) | Pediatrics, pregnancy and perinatal, older adults, women's health, trans and gender-affirming care, Indigenous health and cultural safety, rural and remote | Pediatrics folder, Trans Care, Woman's Health, BC Rural Health |
@@ -117,7 +117,7 @@ The same rule applies to every page type: provincial sources first, then nationa
 | --- | --- |
 | Condition | Key sources (1 to 3, see below) · Further resources · Algorithms and pathways · Assessment tools and calculators · Prescribing · Advice and referral · Patient resources · Evidence Pack link · Review notes |
 | Assessment | Scope · Focused history · Exam and special tests · Decision rules · Red flags · Learning videos · Sample documentation · References |
-| Approach | Purpose · Numbered steps with bias checks · Clinical pearls · References |
+| Approach | Publisher logo title bar · One-line intro naming the publisher and jurisdiction · Link to the publisher's index · Items by body system, each with its year, under a filter box · More Approaches |
 | Population | Key sources · Screening and preventive care · Conditions with population notes (links) · Services and referral · Patient resources |
 | Prescribing | Reference · What it covers · Access (free, subscription, PharmaCare) · NP prescribing notes, linked to BCCNM standards |
 | Practice | Topic · Standard or rule, linked to its source · How to do it in BC · Contacts |
@@ -135,7 +135,7 @@ Before writing or reviewing any page, check every site in the "All topics" row a
 | System or topic | BC | Canadian | Calculators and tools | Patient resources |
 | --- | --- | --- | --- | --- |
 | All topics | BC Guidelines and PharmaCare (gov.bc.ca), BCCDC (bccdc.ca), RACE (raceconnect.ca), Pathways (pathwaysbc.ca) | Canadian Task Force on Preventive Health Care (canadiantaskforce.ca), Choosing Wisely Canada, PEER and Tools for Practice (peerevidence.ca, cfpclearn.ca), Canadian Family Physician (cfp.ca) | MDCalc (mdcalc.com) | HealthLinkBC (healthlinkbc.ca) |
-| Approaches (and "approach to" reviews on condition pages) | none listed yet | McGill Journal of Medicine "Approach to" articles (mjm.mcgill.ca), UCalgary Black Book (blackbook.ucalgary.ca); AAFP (aafp.org, free articles only) as the first international source | none listed yet | none listed yet |
+| Approaches (and "approach to" reviews on condition pages) | none found (Emergency Care BC is retiring) | McGill Journal of Medicine "Approach to" articles (mjm.mcgill.ca), UCalgary Black Book (blackbook.ucalgary.ca), PedsCases Notes (pedscases.com), Alberta's Pathway Hub (primarycarealberta.ca), Canadian Family Physician "Approach to" clinical reviews (cfp.ca), Centre for Effective Practice clinical tools (cep.health, Ontario), TREKK (trekk.ca, pediatric emergency); AAFP (aafp.org, free articles only) as the first international source | none listed yet | none listed yet |
 | Cardiovascular | Cardiac Services BC (cardiacbc.ca) | Hypertension Canada, Canadian Cardiovascular Society (ccs.ca, onlinecjc.ca), Canadian Heart Failure Society (heartfailure.ca), Canadian Heart Rhythm Society (chrsonline.ca), Thrombosis Canada | MDCalc: CHA2DS2-VASc, HAS-BLED, Framingham | Heart & Stroke (heartandstroke.ca) |
 | Respiratory | BC Guidelines (asthma, COPD) | Canadian Thoracic Society (cts-sct.ca), Lung Association (lung.ca); GOLD and GINA (international) | MDCalc: Wells and PERC for PE; GOLD COPD tools | Lung Association |
 | Endocrine and Metabolic | BC Guidelines | Diabetes Canada (diabetes.ca), Obesity Canada, Osteoporosis Canada (osteoporosis.ca) | MDCalc: BMI; FRAX (frax.shef.ac.uk) | Diabetes Canada, Obesity Canada |
@@ -296,7 +296,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 
 **Pages by tab.** *(new)* marks a page not built yet; the number is its build wave within the tab.
 
-- **1 Approaches:** AAFP, McGill, UCalgary Black Books, PedsCases, Alberta Primary Care Pathways (built); Centre for Effective Practice tools *(new, 1)*; Canadian Family Physician review articles *(new, 2, if cfp.ca has enough approach-style articles)*.
+- **1 Approaches** ([plan](https://claude.ai/artifact/4ryGRHfoVhvEURcuPSk1E9), decisions settled 2026-10-27): AAFP, McGill, UCalgary Black Books, PedsCases, Alberta Primary Care Pathways (built); Centre for Effective Practice clinical tools, all clinical tools with an Ontario label *(new, 1)*; Canadian Family Physician "Approach to" articles, titles beginning "Approach to", clinical topics, 2010 onward *(new, 2)*; Presentations A to Z, generated at build time from the other Approaches pages' lists *(new, 2)*; TREKK pediatric emergency topics *(new, 3)*. Condition pages link their matching Approaches items as the daily routine touches them.
 - **2 Assessments:** Lab and imaging *(new, 1)*; Clinical decision rules *(new, 2)*; Screening questionnaires and scales *(new, 3)*; Preventive care and cancer screening *(new, 4)*; Physical exam by system *(new, 5)*; POCUS: Scope and training, Protocols and references *(new, 6, built in stage E; moved from Tools 2026-10-27, placeholder at assessments/pocus)*; retire Assessment Resources once its rows have moved.
 - **3 Conditions:** the Roadmap checklists above are the to-do list, in the build order given there. Wave 0 brings the older pages (CKD, AKI, low back pain, calcium, potassium and sodium disorders) up to standard with step 2.4.
 - **4 Populations** ([plan](https://claude.ai/artifact/Smz8FYnzW34EFU3K96MKTV), decisions settled 2026-10-27; one PR per wave)**:** Pediatrics (fold in the Canadian Paediatric Society and Rourke stubs; add well-child care and an adolescents section, 1); Pregnancy and Perinatal (add prenatal care and medication in pregnancy and lactation, 1); Older adults *(new, 2)*; Women's Health (rebuild, 2); Trans Care (rebuild, with gender-affirming hormone sources, 2); Rural and remote (rebuild BC Rural Health, 3); Indigenous Health (review, 3); Newcomers and refugees *(new, 3)*; Adults with intellectual and developmental disabilities *(new, 3)*.
@@ -342,7 +342,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 1. Stage A: settle each section plan's open decisions; add a Prescribing template to the templates.
 2. Stage B: Practice wave 1 · Prescribing wave 1 · Assessments wave 1 · Populations wave 1 · Resources wave 1 · Tools wave 1 (AI Tools and step 3.3 llms.txt). Then run step 2.4 on Populations and Resources.
 3. Stage C: Prescribing wave 2 · Practice wave 2 · Assessments waves 2 and 3 · Populations wave 2 · Approaches wave 1.
-4. Stage D: Prescribing wave 3 · Practice wave 3 · Assessments waves 4 and 5 · Populations wave 3 · Resources wave 2 · About pages. This completes the phase 2 gate.
+4. Stage D: Prescribing wave 3 · Practice wave 3 · Assessments waves 4 and 5 · Populations wave 3 · Resources wave 2 · Approaches waves 2 and 3 · About pages. This completes the phase 2 gate.
 5. Stage E: Assessments POCUS (wave 6), then Tools wave 2: phase 3 (Evidence Packs, steps 3.1, 3.2 and 3.4).
 
 ## Sources
