@@ -14,10 +14,9 @@ hide:
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*Point-of-care tools for NP practice: bedside ultrasound (POCUS), AI tools, peer-written charting and AI templates, and Evidence Packs to keep AI tools working from current guidance.*
+*AI tools for NP practice: checking AI output and using it safely, peer-written charting and AI templates, and Evidence Packs to keep AI tools working from current guidance. Bedside ultrasound (POCUS) is under [Assessments](../2%20Assessments/POCUS/index.md).*
 
 ## In This Section
 - [Evidence Packs](1%20Evidence%20Packs/index.md)
 - [Templates](2%20Templates/index.md)
-- [POCUS](3%20POCUS/index.md)
 - [AI Tools](4%20AI%20Tools/index.md)

@@ -62,12 +62,12 @@ NPPR should have eight top-level sections. Four keep their current names and fou
 | # | Section | Holds | Moves in from today |
 | --- | --- | --- | --- |
 | 1 | Approaches | Clinical reasoning frameworks and documentation (safe use of AI tools lives in Tools: AI Tools) | A Systematic Approach, UCalgary Black Books |
-| 2 | Assessments | Exams by system, decision rules, screening, lab and imaging interpretation | Assessment Resources |
+| 2 | Assessments | Exams by system, point-of-care ultrasound (POCUS), decision rules, screening, lab and imaging interpretation | Assessment Resources; POCUS (from Tools, 2026-10-27) |
 | 3 | Conditions | One page per condition, grouped by body system | All 8 condition pages |
 | 4 | Populations (new) | Pediatrics, pregnancy and perinatal, older adults, women's health, trans and gender-affirming care, Indigenous health and cultural safety, rural and remote | Pediatrics folder, Trans Care, Woman's Health, BC Rural Health |
 | 5 | Prescribing (new) | Drug references, antimicrobials, PharmaCare and Special Authority, immunization, deprescribing, controlled drugs | Bugs & Drugs, BC Immunization Manual |
 | 6 | Practice (new) | NP scope and BCCNM standards, advice and referral (RACE, Pathways), forms, associations | Associations |
-| 7 | Tools (new) | Sub-sections: Evidence Packs (one pack per condition for loading into AI tools, plus how-to guides), Templates (peer-written charting templates and AI templates, such as scribe note templates and prompts, contributed through the nppr-templates repository), POCUS, AI Tools | none |
+| 7 | Tools (new) | Sub-sections: Evidence Packs (one pack per condition for loading into AI tools, plus how-to guides), Templates (peer-written charting templates and AI templates, such as scribe note templates and prompts, contributed through the nppr-templates repository), AI Tools. POCUS moved to Assessments on 2026-10-27 | none |
 | 8 | Resources | Guideline directories, libraries, evidence summaries, CPD | BC Guidelines, Guidelines folder, Library Guides, Peerevidence.ca, Clinical Tools |
 
 About stays as it is, as a separate tab after Resources.
@@ -286,27 +286,27 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 | Step of the visit | Tab | What the NP checks against the AI's output |
 | --- | --- | --- |
 | Presenting complaint and differential | 1 Approaches | Has the differential missed something an "approach to" source lists? |
-| History, exam and tests | 2 Assessments | Is the decision rule, score or test the right one, applied as published? |
+| History, exam and tests | 2 Assessments | Is the decision rule, score or test the right one, applied as published? Is the bedside scan (POCUS) within my training and scope? |
 | Diagnosis and management | 3 Conditions | Does the plan match the current BC or Canadian guideline and its year? |
 | Who the patient is | 4 Populations | Does anything change for this patient group? |
 | Treatment | 5 Prescribing | Is the drug appropriate, covered, and checked against an independent reference? |
 | Referral, forms, documentation | 6 Practice | Is it within NP scope, and what must be reported, filed or referred? |
-| Using point-of-care tools: ultrasound and AI | 7 Tools | Is the bedside scan within my training and scope? Is the AI tool used safely and working from the current documents? |
+| Using AI tools | 7 Tools | Is the AI tool used safely and working from the current documents? |
 | Background reading | 8 Resources | Where to look when the topic isn't on NPPR yet |
 
 **Pages by tab.** *(new)* marks a page not built yet; the number is its build wave within the tab.
 
 - **1 Approaches:** AAFP, McGill, UCalgary Black Books, PedsCases, Alberta Primary Care Pathways (built); Centre for Effective Practice tools *(new, 1)*; Canadian Family Physician review articles *(new, 2, if cfp.ca has enough approach-style articles)*.
-- **2 Assessments:** Lab and imaging *(new, 1)*; Clinical decision rules *(new, 2)*; Screening questionnaires and scales *(new, 3)*; Preventive care and cancer screening *(new, 4)*; Physical exam by system *(new, 5)*; retire Assessment Resources once its rows have moved.
+- **2 Assessments:** Lab and imaging *(new, 1)*; Clinical decision rules *(new, 2)*; Screening questionnaires and scales *(new, 3)*; Preventive care and cancer screening *(new, 4)*; Physical exam by system *(new, 5)*; POCUS: Scope and training, Protocols and references *(new, 6, built in stage E; moved from Tools 2026-10-27, placeholder at assessments/pocus)*; retire Assessment Resources once its rows have moved.
 - **3 Conditions:** the Roadmap checklists above are the to-do list, in the build order given there. Wave 0 brings the older pages (CKD, AKI, low back pain, calcium, potassium and sodium disorders) up to standard with step 2.4.
 - **4 Populations** ([plan](https://claude.ai/artifact/Smz8FYnzW34EFU3K96MKTV), decisions settled 2026-10-27; one PR per wave)**:** Pediatrics (fold in the Canadian Paediatric Society and Rourke stubs; add well-child care and an adolescents section, 1); Pregnancy and Perinatal (add prenatal care and medication in pregnancy and lactation, 1); Older adults *(new, 2)*; Women's Health (rebuild, 2); Trans Care (rebuild, with gender-affirming hormone sources, 2); Rural and remote (rebuild BC Rural Health, 3); Indigenous Health (review, 3); Newcomers and refugees *(new, 3)*; Adults with intellectual and developmental disabilities *(new, 3)*.
 - **5 Prescribing:** Rational prescribing, Drug coverage (PharmaCare and Special Authority), Drug references *(new, 1)*; Antimicrobials, Immunization *(new, 2; replace the Bugs & Drugs and BC Immunization Manual pages)*; Opioids, controlled drugs and substance use prescribing, Deprescribing *(new, 3)*.
 - **6 Practice:** Scope of practice and standards, Prescribing authority *(new, 1)*; Registration and licensure, Practice models and compensation, Documentation privacy and records, Starting NP practice in BC *(new, 2)*; Consultation referral and advice, Forms and duty to report *(new, 3)*; Associations (reorder, NP bodies first, 3).
-- **7 Tools** ([plan](https://claude.ai/artifact/2XqfqicaaAKEQUksHFCVtX), decisions settled 2026-10-27)**:** point-of-care tools, not only AI. AI Tools: Checking AI output, Safe use and accountability, AI scribes consent and privacy, AI tools NPs use (only tools approved by a BC health authority or funded by Infoway, with data residency and no rankings) *(new, 1, with step 3.3 llms.txt)*; POCUS: Scope and training, Protocols and references *(new, 2)*; Templates (peer-written charting templates and AI templates, a community project in the nppr-templates repository; a template is listed only when it is structure only, cites its sources, names its author and has one NP reviewer's approval); Evidence Packs (phase 3, steps 3.1, 3.2 and 3.4, 3).
-- **8 Resources:** fold today's pages into Guideline directories and Evidence summaries and journals (1), then Libraries and databases and CPD and learning (2); Clinical Tools moves to Assessments.
+- **7 Tools** ([plan](https://claude.ai/artifact/2XqfqicaaAKEQUksHFCVtX), decisions settled 2026-10-27)**:** AI tools and what is loaded into them (POCUS moved to Assessments, 2026-10-27). AI Tools: Checking AI output, Safe use and accountability, AI scribes consent and privacy, AI tools NPs use (only tools approved by a BC health authority or funded by Infoway, with data residency and no rankings) *(new, 1, with step 3.3 llms.txt)*; Templates (peer-written charting templates and AI templates, a community project in the nppr-templates repository; a template is listed only when it is structure only, cites its sources, names its author and has one NP reviewer's approval); Evidence Packs (phase 3, steps 3.1, 3.2 and 3.4, 2).
+- **8 Resources** ([plan](https://claude.ai/artifact/ACLq44znFt6SHSx3t176aX), decisions settled 2026-10-27)**:** a landing page with a "not on NPPR yet" search order (BC Guidelines, Canadian Task Force, specialty-society library, PEER and Tools for Practice, TRIP) and Guideline directories (with specialty-society guideline libraries; NICE and USPSTF labelled; Guideline Central and the Alberta Medical Association page dropped) and Evidence summaries and journals *(1, stage B)*; Libraries and databases (with UpToDate, DynaMed and BMJ Best Practice, labelled subscription with free routes) and CPD and learning *(new, 2, stage D)*. Flatten `8 Resources/Guidelines/` with redirects. Clinical Tools moves to Assessments: Clinical decision rules.
 - **About:** has About NPPR, Contact, Disclaimer, Licence and Privacy, Install as an App and Submit a Link (since 2026-10-27). Still to add: a Contributor guide and Reviewer roster (steps 4.1 and 4.2) and a "How NPPR is kept current" page.
 
-**Topic ownership.** A topic has one home page that holds its links; other tabs link to that page. A diagnosis goes in Conditions, a tool or test in Assessments, a drug or its coverage in Prescribing, a rule or form in Practice, a patient group in Populations, and a point-of-care tool (ultrasound, AI tools and what is loaded into them) in Tools. Specific cases:
+**Topic ownership.** A topic has one home page that holds its links; other tabs link to that page. A diagnosis goes in Conditions, a tool or test in Assessments, a drug or its coverage in Prescribing, a rule or form in Practice, a patient group in Populations, and an AI tool and what is loaded into it in Tools. Point-of-care ultrasound is an assessment, so it lives in Assessments. Specific cases:
 
 | Topic | Home | Linked from |
 | --- | --- | --- |
@@ -328,6 +328,11 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 | RACE, Pathways, advice lines | Practice: Consultation, referral and advice | Condition pages' Advice and referral; Rural and remote |
 | Documentation standards | Practice: Documentation | Tools: Templates |
 | Safe use of AI tools, privacy, data residency | Tools: AI Tools | Practice: Documentation |
+| Point-of-care ultrasound (scope, training, protocols) | Assessments: POCUS | Assessments: Physical exam by system; Tools index (one line) |
+| Alberta Pathway Hub, Centre for Effective Practice tools | Approaches | Resources: Guideline directories (one line) |
+| Specialty-society guideline libraries | Resources: Guideline directories | The societies themselves stay in Practice: Associations |
+| Therapeutics Initiative and Therapeutics Letter | Prescribing: Drug references | Resources: Evidence summaries (one line) |
+| PEER, Tools for Practice, Choosing Wisely Canada | Resources: Evidence summaries | Condition pages cite single articles |
 | "Approach to" articles | Approaches | Condition pages |
 
 **Access labels.** Link members-only and subscription sources with a label so an NP knows before clicking: *members only* (NNPBC NP Portal, CNPS member pages), *login* (Pathways BC), *subscription* (RxFiles app, CPS, Lexicomp, UpToDate, BMJ Best Practice; note when a health authority library gives free access). Label sources written for physicians *physician-focused* (for example Doctors of BC scribe resources, CAEP POCUS statements).
@@ -338,7 +343,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 2. Stage B: Practice wave 1 · Prescribing wave 1 · Assessments wave 1 · Populations wave 1 · Resources wave 1 · Tools wave 1 (AI Tools and step 3.3 llms.txt). Then run step 2.4 on Populations and Resources.
 3. Stage C: Prescribing wave 2 · Practice wave 2 · Assessments waves 2 and 3 · Populations wave 2 · Approaches wave 1.
 4. Stage D: Prescribing wave 3 · Practice wave 3 · Assessments waves 4 and 5 · Populations wave 3 · Resources wave 2 · About pages. This completes the phase 2 gate.
-5. Stage E: Tools wave 2 (POCUS), then phase 3 (Evidence Packs, steps 3.1, 3.2 and 3.4).
+5. Stage E: Assessments POCUS (wave 6), then Tools wave 2: phase 3 (Evidence Packs, steps 3.1, 3.2 and 3.4).
 
 ## Sources
 
