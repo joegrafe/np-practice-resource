@@ -43,7 +43,7 @@ Each tab matches a step of the appointment.
 
 ## Who runs it
 
-NPPR is edited by Joe Grafe, a nurse practitioner in British Columbia. It has no funding, sponsors or advertisers, and no conflicts of interest to declare.
+NPPR is edited by Joe Grafe, Nurse Practitioner Student. It has no funding, sponsors or advertisers, and no conflicts of interest to declare.
 
 ## Get involved
 
