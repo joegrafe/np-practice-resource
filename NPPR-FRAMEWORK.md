@@ -273,6 +273,13 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [ ] Chest pain
 - [ ] Burns
 
+**Pediatric conditions.** Added 2026-10-27 from the [Populations plan](https://claude.ai/artifact/Smz8FYnzW34EFU3K96MKTV). Build them as pages under Populations > Pediatrics, listed in the Conditions index under their system and marked (pediatric). Interleave them with the lists above:
+
+- [ ] Fever in young infants
+- [ ] Croup
+- [ ] Bronchiolitis
+- [ ] Gastroenteritis and dehydration
+
 ## Section page lists
 
 Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/artifact/8pVpBPZ5hLjistCczBVaow). Read this before planning or building a page in any tab. The detailed section plans are [Practice](https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc), [Prescribing](https://claude.ai/artifact/GJeAP8SPPZrsk4G8ihftgU) and [Assessments](https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE); their own open decisions still need Joe's answers before those pages are built.
@@ -295,7 +302,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 - **1 Approaches:** AAFP, McGill, UCalgary Black Books, PedsCases, Alberta Primary Care Pathways (built); Centre for Effective Practice tools *(new, 1)*; Canadian Family Physician review articles *(new, 2, if cfp.ca has enough approach-style articles)*.
 - **2 Assessments:** Lab and imaging *(new, 1)*; Clinical decision rules *(new, 2)*; Screening questionnaires and scales *(new, 3)*; Preventive care and cancer screening *(new, 4)*; Physical exam by system *(new, 5)*; retire Assessment Resources once its rows have moved.
 - **3 Conditions:** the Roadmap checklists above are the to-do list, in order.
-- **4 Populations:** Pediatrics (fold in the Canadian Paediatric Society and Rourke stubs; add well-child care, 1); Pregnancy and Perinatal (add prenatal care, 1); Older adults *(new, 2)*; Women's Health (rebuild, 2); Trans Care (rebuild, 2); Rural and remote (rebuild BC Rural Health, 3); Indigenous Health (review, 3); Newcomers and refugees *(new, 3)*.
+- **4 Populations** ([plan](https://claude.ai/artifact/Smz8FYnzW34EFU3K96MKTV), decisions settled 2026-10-27; one PR per wave)**:** Pediatrics (fold in the Canadian Paediatric Society and Rourke stubs; add well-child care and an adolescents section, 1); Pregnancy and Perinatal (add prenatal care and medication in pregnancy and lactation, 1); Older adults *(new, 2)*; Women's Health (rebuild, 2); Trans Care (rebuild, with gender-affirming hormone sources, 2); Rural and remote (rebuild BC Rural Health, 3); Indigenous Health (review, 3); Newcomers and refugees *(new, 3)*; Adults with intellectual and developmental disabilities *(new, 3)*.
 - **5 Prescribing:** Rational prescribing, Drug coverage (PharmaCare and Special Authority), Drug references *(new, 1)*; Antimicrobials, Immunization *(new, 2; replace the Bugs & Drugs and BC Immunization Manual pages)*; Opioids, controlled drugs and substance use prescribing, Deprescribing *(new, 3)*.
 - **6 Practice:** Scope of practice and standards, Prescribing authority *(new, 1)*; Registration and licensure, Practice models and compensation, Documentation privacy and records, Starting NP practice in BC *(new, 2)*; Consultation referral and advice, Forms and duty to report *(new, 3)*; Associations (reorder, NP bodies first, 3).
 - **7 Tools:** point-of-care tools, not only AI. AI Tools (safe use, privacy, data residency); POCUS (scope, training, protocols); Templates (peer-written charting templates and AI templates, a community project in the nppr-templates repository; placeholder until the first ones are reviewed); Evidence Packs (phase 3, steps 3.1 to 3.4).
@@ -316,8 +323,10 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 | Risk scores and calculators (eGFR, FIB-4, CHA2DS2-VASc) | Assessments, with "Used on:" links | Condition pages keep their own tools box |
 | Preventive care and cancer screening; developmental screening | Assessments | Population pages, instead of their own screening lists |
 | Prenatal care; well-child care | Populations pages | Conditions index |
-| Pediatric versions of conditions (asthma, UTI) | Populations: Pediatrics | Conditions index, under their system, marked (pediatric) |
+| Pediatric versions of conditions (asthma, UTI, croup, bronchiolitis) | Populations: Pediatrics | Conditions index, under their system, marked (pediatric) |
 | Menopause; frailty and dementia | Conditions | Women's Health; Older adults |
+| Gender-affirming hormone therapy | Populations: Trans Care | Prescribing |
+| Medication in pregnancy and lactation | Populations: Pregnancy and Perinatal | Prescribing |
 | Lab and imaging requisitions; driver fitness | Practice: Forms | Assessments |
 | RACE, Pathways, advice lines | Practice: Consultation, referral and advice | Condition pages' Advice and referral; Rural and remote |
 | Documentation standards | Practice: Documentation | Tools: Templates |
