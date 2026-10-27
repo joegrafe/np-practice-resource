@@ -287,7 +287,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 | Who the patient is | 4 Populations | Does anything change for this patient group? |
 | Treatment | 5 Prescribing | Is the drug appropriate, covered, and checked against an independent reference? |
 | Referral, forms, documentation | 6 Practice | Is it within NP scope, and what must be reported, filed or referred? |
-| Loading sources into the AI tool | 7 Tools | Is the AI tool working from the current documents, and used safely? |
+| Using point-of-care tools: ultrasound and AI | 7 Tools | Is the bedside scan within my training and scope? Is the AI tool used safely and working from the current documents? |
 | Background reading | 8 Resources | Where to look when the topic isn't on NPPR yet |
 
 **Pages by tab.** *(new)* marks a page not built yet; the number is its build wave within the tab.
@@ -298,11 +298,11 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 - **4 Populations:** Pediatrics (fold in the Canadian Paediatric Society and Rourke stubs; add well-child care, 1); Pregnancy and Perinatal (add prenatal care, 1); Older adults *(new, 2)*; Women's Health (rebuild, 2); Trans Care (rebuild, 2); Rural and remote (rebuild BC Rural Health, 3); Indigenous Health (review, 3); Newcomers and refugees *(new, 3)*.
 - **5 Prescribing:** Rational prescribing, Drug coverage (PharmaCare and Special Authority), Drug references *(new, 1)*; Antimicrobials, Immunization *(new, 2; replace the Bugs & Drugs and BC Immunization Manual pages)*; Opioids, controlled drugs and substance use prescribing, Deprescribing *(new, 3)*.
 - **6 Practice:** Scope of practice and standards, Prescribing authority *(new, 1)*; Registration and licensure, Practice models and compensation, Documentation privacy and records, Starting NP practice in BC *(new, 2)*; Consultation referral and advice, Forms and duty to report *(new, 3)*; Associations (reorder, NP bodies first, 3).
-- **7 Tools:** Evidence Packs (phase 3, steps 3.1 to 3.4); AI Tools (safe use, privacy, data residency); POCUS; Templates stays a placeholder pointing to the nppr-templates repository, a future community project.
+- **7 Tools:** point-of-care tools, not only AI. AI Tools (safe use, privacy, data residency); POCUS (scope, training, protocols); Evidence Packs (phase 3, steps 3.1 to 3.4); Templates stays a placeholder pointing to the nppr-templates repository, a future community project.
 - **8 Resources:** fold today's pages into Guideline directories and Evidence summaries and journals (1), then Libraries and databases and CPD and learning (2); Clinical Tools moves to Assessments.
 - **About:** has About NPPR, Contact, Disclaimer, Licence and Privacy, Install as an App and Submit a Link (since 2026-10-27). Still to add: a Contributor guide and Reviewer roster (steps 4.1 and 4.2) and a "How NPPR is kept current" page.
 
-**Topic ownership.** A topic has one home page that holds its links; other tabs link to that page. A diagnosis goes in Conditions, a tool or test in Assessments, a drug or its coverage in Prescribing, a rule or form in Practice, a patient group in Populations, and anything loaded into software in Tools. Specific cases:
+**Topic ownership.** A topic has one home page that holds its links; other tabs link to that page. A diagnosis goes in Conditions, a tool or test in Assessments, a drug or its coverage in Prescribing, a rule or form in Practice, a patient group in Populations, and a point-of-care tool (ultrasound, AI tools and what is loaded into them) in Tools. Specific cases:
 
 | Topic | Home | Linked from |
 | --- | --- | --- |
