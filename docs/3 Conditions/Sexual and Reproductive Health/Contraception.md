@@ -315,6 +315,13 @@ sources:
 	- [Part 3: Chapter 8, Progestin-Only Contraception (2016)](https://www.jogc.com/article/S1701-2163%2815%2900025-0/fulltext)  
 	- [Part 4: Chapter 9, Combined Hormonal Contraception, No. 329 (2017)](https://www.jogc.com/article/S1701-2163%2816%2939786-9/fulltext)  
 
+??? info "CDC - U.S. Medical Eligibility Criteria and Selected Practice Recommendations for Contraceptive Use (2024)"
+	*International source: American guidance, not Canadian.*  
+	- [U.S. Medical Eligibility Criteria for Contraceptive Use (2024)](https://www.cdc.gov/contraception/hcp/usmec/index.html)  
+	- [U.S. Selected Practice Recommendations for Contraceptive Use (2024)](https://www.cdc.gov/contraception/hcp/usspr/index.html)  
+
+## Further Resources
+
 ??? info "[SOGC Committee Opinion No. 419 - Coercion Free Contraceptive Care (2021)](https://www.jogc.com/article/S1701-2163%2821%2900502-8/fulltext)"
 	*Society of Obstetricians and Gynaecologists of Canada, JOGC 2021.*  
 
@@ -336,11 +343,6 @@ sources:
 	- [Pain Management for IUD Insertion in Primary Care (2025)](https://www.aafp.org/pubs/afp/issues/2025/0400/editorial-pain-management-iud-insertion.html)  
 	- [Patient-Centered Contraceptive Counseling (2024)](https://www.aafp.org/pubs/afp/issues/2024/1000/curbside-contraceptive-counseling.html)  
 	- [Long-Acting Reversible Contraception: Difficult Insertions and Removals (2018)](https://www.aafp.org/pubs/afp/issues/2018/0901/p304.html)  
-
-??? info "CDC - U.S. Medical Eligibility Criteria and Selected Practice Recommendations for Contraceptive Use (2024)"
-	*International source: American guidance, not Canadian.*  
-	- [U.S. Medical Eligibility Criteria for Contraceptive Use (2024)](https://www.cdc.gov/contraception/hcp/usmec/index.html)  
-	- [U.S. Selected Practice Recommendations for Contraceptive Use (2024)](https://www.cdc.gov/contraception/hcp/usspr/index.html)  
 
 ## Algorithms and Pathways
 

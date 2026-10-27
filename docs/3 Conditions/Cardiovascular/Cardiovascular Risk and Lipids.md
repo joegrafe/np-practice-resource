@@ -161,11 +161,13 @@ sources:
 	- [Controversies in Care](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease#controversies-in-care)  
 	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_full_guideline_dec2021_updated_aug2023.pdf)  
 
-??? info "[2021 Canadian Cardiovascular Society Guidelines for the Management of Dyslipidemia (2021)](https://doi.org/10.1016/j.cjca.2021.03.016)"
-	*Canadian Journal of Cardiology. Covers primary and secondary prevention, including familial hypercholesterolemia.*  
-
 ??? info "[PEER Simplified Lipid Guideline 2023 Update](https://www.cfp.ca/content/69/10/675)"
 	*Canadian Family Physician, 2023. Primary care guideline from the PEER group.*  
+
+## Further Resources
+
+??? info "[2021 Canadian Cardiovascular Society Guidelines for the Management of Dyslipidemia (2021)](https://doi.org/10.1016/j.cjca.2021.03.016)"
+	*Canadian Journal of Cardiology. Covers primary and secondary prevention, including familial hypercholesterolemia.*  
 
 ??? info "Tools for Practice (CFPCLearn) evidence summaries"
 	- [#343 Non-traditional lipoproteins for cardiovascular risk (2023)](https://cfpclearn.ca/tfp343/)  

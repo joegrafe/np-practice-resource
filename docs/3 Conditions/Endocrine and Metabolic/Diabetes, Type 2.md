@@ -724,6 +724,11 @@ sources:
 	- [Appendices](https://www.diabetes.ca/for-professionals/appendices)
 	- [Health-Care Provider Tools](https://www.diabetes.ca/for-professionals/health-care-provider-tools)
 
+??? info "[McGill Journal of Medicine - Approach to: Type 2 Diabetes Management (2021)](https://mjm.mcgill.ca/article/view/323)"
+	*McGill J Med 19(2).*
+
+## Further Resources
+
 ??? info "[Obesity Canada - Canadian Adult Obesity Clinical Practice Guideline (2020; pharmacotherapy chapter updated 2025)](https://obesitycanada.ca/guidelines/)"
 	*With the Canadian Association of Bariatric Physicians and Surgeons.*
 
@@ -735,9 +740,6 @@ sources:
 	- [#395 Long shot: Can weekly insulin replace daily doses? (2025)](https://cfpclearn.ca/tfp395/)  
 	- [#373 Strategies for initiating insulin in type 2 diabetes (2024)](https://cfpclearn.ca/tfp373/)  
 	- [#333 Come Spy with Me: Continuous glucose monitoring in diabetes (2023)](https://cfpclearn.ca/tfp333/)  
-
-??? info "[McGill Journal of Medicine - Approach to: Type 2 Diabetes Management (2021)](https://mjm.mcgill.ca/article/view/323)"
-	*McGill J Med 19(2).*
 
 ??? info "International: [AAFP - From Symptoms to Diagnosis: Type 1 vs. Type 2 Diabetes (PDF)](https://www.aafp.org/assets/image/upload/v1771246432/Migrated%20-%20PDFs%20%28AEM%29/Patient%20Care/clinical_recommendations/diabetes-clinical-framework-pdf.pdf)"
 	*AAFP, free to read. Labelled international.*

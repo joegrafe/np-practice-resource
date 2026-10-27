@@ -829,22 +829,6 @@ sources:
 ??? info "Canadian Family Physician"
 	- [Diagnosis and Management of Psoriasis (2017)](https://www.cfp.ca/content/63/4/278) · [PDF](https://www.cfp.ca/content/cfp/63/4/278.full.pdf)  
 
-??? info "Canadian consensus recommendations"
-	- [Canadian Dermatology-Rheumatology Comorbidity Initiative: Management of Comorbidities in Rheumatoid Arthritis, Psoriasis and Psoriatic Arthritis (Journal of Rheumatology, 2015)](https://www.jrheum.org/content/42/10/1767)  
-	- [Optimizing the Management of Psoriasis in Patients with Skin of Color: A Canadian Delphi Consensus (JAAD International, 2024)](https://www.jaadinternational.org/article/S2666-3287%2824%2900173-1/fulltext)  
-??? info "International: [NICE - Psoriasis: Assessment and Management, CG153 (2012, updated 2017)](https://www.nice.org.uk/guidance/cg153)"
-	*International source: UK guidance, not Canadian. NICE last reviewed it in March 2025.*  
-	- [Full Guideline (PDF, 2017)](https://www.nice.org.uk/guidance/cg153/resources/psoriasis-assessment-and-management-pdf-35109629621701)  
-
-??? info "International: AAD-NPF Joint Guidelines of Care for Psoriasis (2019 to 2021)"
-	*International source: American guidance, not Canadian. American Academy of Dermatology and National Psoriasis Foundation, published in six parts in the Journal of the American Academy of Dermatology.*  
-	- [Biologics (2019)](https://www.jaad.org/article/S0190-9622%2818%2933001-9/fulltext)  
-	- [Awareness and Attention to Comorbidities (2019)](https://www.jaad.org/article/S0190-9622%2818%2933002-0/fulltext)  
-	- [Phototherapy (2019)](https://www.jaad.org/article/S0190-9622%2819%2930637-1/fulltext)  
-	- [Pediatric Patients (2020)](https://www.jaad.org/article/S0190-9622%2819%2932655-6/fulltext)  
-	- [Systemic Nonbiologic Therapies (2020)](https://www.jaad.org/article/S0190-9622%2820%2930284-X/fulltext)  
-	- [Topical Therapy, Alternative Medicine and Severity Measures (2021)](https://www.jaad.org/article/S0190-9622%2820%2932288-X/fulltext)  
-
 ??? info "International: [DermNet - Psoriasis (2023)](https://dermnetnz.org/topics/psoriasis)"
 	*International source: New Zealand clinical reference, not Canadian. Years are DermNet's last review dates.*  
 	- [Psoriasis Treatment (2023)](https://dermnetnz.org/topics/treatment-of-psoriasis)  
@@ -870,6 +854,25 @@ sources:
 	    - [Liver problems and psoriasis (2023)](https://dermnetnz.org/topics/liver-problems-and-psoriasis)
 	    - [Treatment of psoriasis in pregnancy (2023)](https://dermnetnz.org/topics/treatment-of-psoriasis-in-pregnancy)
 	    - [Biologics and reproduction in psoriasis (2023)](https://dermnetnz.org/topics/biologics-and-novel-small-molecule-treatments-reproduction-and-psoriasis)
+
+## Further Resources
+
+??? info "Canadian consensus recommendations"
+	- [Canadian Dermatology-Rheumatology Comorbidity Initiative: Management of Comorbidities in Rheumatoid Arthritis, Psoriasis and Psoriatic Arthritis (Journal of Rheumatology, 2015)](https://www.jrheum.org/content/42/10/1767)  
+	- [Optimizing the Management of Psoriasis in Patients with Skin of Color: A Canadian Delphi Consensus (JAAD International, 2024)](https://www.jaadinternational.org/article/S2666-3287%2824%2900173-1/fulltext)  
+
+??? info "International: [NICE - Psoriasis: Assessment and Management, CG153 (2012, updated 2017)](https://www.nice.org.uk/guidance/cg153)"
+	*International source: UK guidance, not Canadian. NICE last reviewed it in March 2025.*  
+	- [Full Guideline (PDF, 2017)](https://www.nice.org.uk/guidance/cg153/resources/psoriasis-assessment-and-management-pdf-35109629621701)  
+
+??? info "International: AAD-NPF Joint Guidelines of Care for Psoriasis (2019 to 2021)"
+	*International source: American guidance, not Canadian. American Academy of Dermatology and National Psoriasis Foundation, published in six parts in the Journal of the American Academy of Dermatology.*  
+	- [Biologics (2019)](https://www.jaad.org/article/S0190-9622%2818%2933001-9/fulltext)  
+	- [Awareness and Attention to Comorbidities (2019)](https://www.jaad.org/article/S0190-9622%2818%2933002-0/fulltext)  
+	- [Phototherapy (2019)](https://www.jaad.org/article/S0190-9622%2819%2930637-1/fulltext)  
+	- [Pediatric Patients (2020)](https://www.jaad.org/article/S0190-9622%2819%2932655-6/fulltext)  
+	- [Systemic Nonbiologic Therapies (2020)](https://www.jaad.org/article/S0190-9622%2820%2930284-X/fulltext)  
+	- [Topical Therapy, Alternative Medicine and Severity Measures (2021)](https://www.jaad.org/article/S0190-9622%2820%2932288-X/fulltext)  
 
 ??? info "American Family Physician (AAFP, United States)"
 	*International source: American guidance, not Canadian.*  

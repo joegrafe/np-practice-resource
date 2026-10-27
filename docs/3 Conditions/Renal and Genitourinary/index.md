@@ -12,3 +12,4 @@ hide:
 - [Acute Kidney Injury (AKI)](Acute%20Kidney%20Injury%20%28AKI%29.md)
 - [Chronic Kidney Disease (CKD)](Chronic%20Kidney%20Disease%20%28CKD%29.md)
 - [Urinary Tract Infection (UTI)](Urinary%20Tract%20Infection%20%28UTI%29.md)
+- [Pediatric UTI](../../4%20Populations/Pediatrics/Pediatric%20UTI.md) (pediatric, under Populations)

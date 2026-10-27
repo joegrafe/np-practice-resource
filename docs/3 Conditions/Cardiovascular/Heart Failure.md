@@ -178,6 +178,8 @@ sources:
 ??? info "[CCS/CHFS 2025 Guideline Update: Pharmacologic Management of HF With Nonreduced Ejection Fraction, LVEF > 40% (2025)](https://onlinecjc.ca/article/S0828-282X(25)00640-3/fulltext)"
 	*Canadian Journal of Cardiology, 2025. Listed on the [Canadian Heart Failure Society guidelines page](https://heartfailure.ca/education/guidelines-clinical-updates#:~:text=CCS%2FCHFS%202025%20Guideline%20Update%20for%20Pharmacologic%20Management%20of).*  
 
+## Further Resources
+
 ??? info "[CCS/CHFS Focused Clinical Practice Update: Patients With Differing Heart Failure Phenotypes (2023)](https://heartfailure.ca/education/guidelines-clinical-updates#:~:text=CCS%2FCHFS%20Focused%20Clinical%20Practice%20Update%20of%20Patients%20With%20Differing)"
 	*Canadian Journal of Cardiology 2023;39:1030–1040.* · [PDF](https://heartfailure.ca/sites/default/files/papers/PIIS0828282X23003719.pdf)  
 

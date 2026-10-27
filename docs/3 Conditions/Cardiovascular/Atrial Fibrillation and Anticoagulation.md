@@ -287,6 +287,12 @@ sources:
 	- [Management of Rate and Rhythm in the Outpatient Setting](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#management_outpatient)  
 	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/doctorsbc-afib-guideline.pdf)  
 
+??? info "[Thrombosis Canada - Stroke Prevention in Atrial Fibrillation (version 2024-01-17)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=STROKEPREVENTIONINATRIALFIBRIL)"
+	*Clinical guide for health care professionals. Related guides:*  
+	- [Anticoagulation in Patients Requiring Antiplatelet Therapy (2026-10-06)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=93)  
+
+## Further Resources
+
 ??? info "[BC Guidelines - Direct Oral Anticoagulants (DOACs) (2023, revised 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/doac)"
 	- [Key Recommendations](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/doac#Key%20Recommendations)  
 	- [Initiating a DOAC](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/doac#initiating)  
@@ -310,10 +316,6 @@ sources:
 
 ??? info "[2020 CCS/CHRS Comprehensive Guidelines for the Management of Atrial Fibrillation (2020)](https://doi.org/10.1016/j.cjca.2020.09.001)"
 	*Canadian Journal of Cardiology. Cited by the BC guideline. Listed as the current AF guideline on the [CHRS guidelines page](https://chrsonline.ca/resources-publications/guidelines-clinical-updates).*  
-
-??? info "[Thrombosis Canada - Stroke Prevention in Atrial Fibrillation (version 2024-01-17)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=STROKEPREVENTIONINATRIALFIBRIL)"
-	*Clinical guide for health care professionals. Related guides:*  
-	- [Anticoagulation in Patients Requiring Antiplatelet Therapy (2026-10-06)](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=93)  
 
 ??? info "Tools for Practice (CFPCLearn) evidence summaries"
 	- [#271 Be still my quivering heart: alcohol and atrial fibrillation (2020)](https://cfpclearn.ca/tfp271/)  

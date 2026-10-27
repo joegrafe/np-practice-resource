@@ -281,6 +281,8 @@ sources:
 	- [Full Guideline, corrected version (PDF, CTS)](https://cts-sct.ca/wp-content/uploads/2022/01/Corrected-Ver_2021_CTS_CPG-DiagnosisManagement_Asthma.pdf)  
 	- [CTS Guideline Library](https://cts-sct.ca/guideline-library/)  
 
+## Further Resources
+
 ??? info "[CTS Guideline for the Management of Severe Asthma in Children, Adolescents and Adults (Sept 2026)](https://doi.org/10.1080/24745332.2026.2704731)"
 	*Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Listed as current in the CTS Guideline Library.*  
 

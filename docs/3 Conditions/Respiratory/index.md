@@ -11,3 +11,4 @@ hide:
 
 - [Asthma](Asthma.md)
 - [Chronic Obstructive Pulmonary Disease (COPD)](Chronic%20Obstructive%20Pulmonary%20Disease%20%28COPD%29.md)
+- [Pediatric Asthma](../../4%20Populations/Pediatrics/Pediatric%20Asthma.md) (pediatric, under Populations)

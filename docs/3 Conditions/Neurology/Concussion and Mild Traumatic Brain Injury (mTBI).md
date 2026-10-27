@@ -395,16 +395,18 @@ sources:
 	- [Special Considerations for Children, Older Adults, and Certain Populations](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi#special)  
 	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-full-guideline.pdf)  
 
-??? info "[Concussion Awareness Training Tool (CATT) - BC Injury Research and Prevention Unit](https://cattonline.com/)"
-	*BC's concussion training and resources; the 2025 revision of the BC guideline uses CATT's return-to-activity resources.*  
-	- [CATT for Medical Professionals](https://cattonline.com/course/concussion-awareness-training-tool-for-medical-professionals)  
-
 ??? info "[Living Concussion Guidelines: Adults 18 and Older (2023)](https://concussionsontario.org/)"
 	*National adult concussion guideline.*  
 	- [Diagnosis](https://concussionsontario.org/concussion/guideline-section/diagnosis)  
 	- [Initial Management](https://concussionsontario.org/concussion/guideline-section/initial_management)  
 	- [Return-to-Activity / Work / School Considerations](https://concussionsontario.org/concussion/guideline-section/return-to-activity_work_school_considerations)  
 	- [Tools and Other Materials](https://concussionsontario.org/concussion/resources/tools-and-other-materials)  
+
+## Further Resources
+
+??? info "[Concussion Awareness Training Tool (CATT) - BC Injury Research and Prevention Unit](https://cattonline.com/)"
+	*BC's concussion training and resources; the 2025 revision of the BC guideline uses CATT's return-to-activity resources.*  
+	- [CATT for Medical Professionals](https://cattonline.com/course/concussion-awareness-training-tool-for-medical-professionals)  
 
 ??? info "[Living Guideline for Pediatric Concussion Care (living guideline, updated May 2024)](https://pedsconcussion.com/)"
 	- [Guideline Tools and Resources](https://pedsconcussion.com/tools-resources/)  
