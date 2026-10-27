@@ -16,7 +16,7 @@ section_nav: false
 
 -   :material-stethoscope:{ .nppr-icon } [**Assessments**](2%20Assessments/index.md)
 
-    Exams by system, decision rules, screening, and lab and imaging interpretation.
+    Exams by system, point-of-care ultrasound, decision rules, screening, and lab and imaging interpretation.
 
 -   :material-clipboard-pulse-outline:{ .nppr-icon } [**Conditions**](3%20Conditions/index.md)
 
@@ -36,7 +36,7 @@ section_nav: false
 
 -   :material-toolbox-outline:{ .nppr-icon } [**Tools**](7%20Tools/index.md)
 
-    Point-of-care ultrasound, AI tools, peer-written charting and AI templates, and Evidence Packs.
+    AI tools, peer-written charting and AI templates, and Evidence Packs.
 
 -   :material-bookshelf:{ .nppr-icon } [**Resources**](8%20Resources/index.md)
 
