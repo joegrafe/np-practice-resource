@@ -4,8 +4,8 @@ type: index
 tags: [index]
 jurisdiction: [BC, CA]
 status: published
-last-reviewed: 2026-10-16
-review-due: 2027-10-16
+last-reviewed: 2026-10-27
+review-due: 2027-10-27
 reviewers: [joegrafe]
 hide:
   - comments
@@ -14,7 +14,7 @@ hide:
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*Evidence Packs, templates, point-of-care ultrasound and AI tools for NP practice.*
+*Point-of-care tools for NP practice: bedside ultrasound (POCUS), AI tools, peer-written charting and AI templates, and Evidence Packs to keep AI tools working from current guidance.*
 
 ## In This Section
 - [Evidence Packs](1%20Evidence%20Packs/index.md)
