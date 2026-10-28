@@ -500,8 +500,4 @@ sources:
 - [Choosing Wisely Canada - CT Scans for Adults with Head Injuries](https://choosingwiselycanada.org/pamphlet/ct-scans-for-adults-with-head-injuries/)
 - [Choosing Wisely Canada - CT Scans for Children with Head Injuries](https://choosingwiselycanada.org/pamphlet/ct-scans-children/)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

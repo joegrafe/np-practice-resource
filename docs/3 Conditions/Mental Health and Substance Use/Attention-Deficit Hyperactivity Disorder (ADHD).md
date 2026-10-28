@@ -490,8 +490,4 @@ sources:
 - [CADDRA ADHD Information and Resources Handout](https://www.caddra.ca/etoolkit-forms/#:~:text=CADDRA%20ADHD%20Information%20and%20Resources%20Handout) · [PDF](https://www.caddra.ca/wp-content/uploads/CADDRA-ADHD-information-resources-handout.pdf)
 - [CADDRA Psychosocial Chart (October 2016)](https://www.caddra.ca/resources/psychosocial-chart/#:~:text=psychosocial%20chart) · [PDF](https://caddra.ca/pdfs/Psychosocial_October2016.pdf) — *psychoeducation and practical strategies*
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

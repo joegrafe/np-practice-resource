@@ -534,7 +534,3 @@ Link to the source guidance; don't restate its recommendations. -->
 ??? info "Eating and moving well at any size"
 	- [Health Canada - Canada's Food Guide (last modified 2026)](https://www.canada.ca/en/health-canada/services/food-guide.html) · [Food Guide Snapshot](https://www.canada.ca/en/health-canada/services/food-guide/explore/snapshot.html)  
 	- [Canadian 24-Hour Movement Guidelines (CSEP)](https://csepguidelines.ca/) — *physical activity, sedentary time and sleep, by age group*  
-
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*

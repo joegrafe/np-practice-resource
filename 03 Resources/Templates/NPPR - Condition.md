@@ -76,10 +76,6 @@ sources:
 
 - [Resource Name (Publisher)](URL)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---
 
 <!-- Optional extras such as a Spotify embed go above this line. -->

@@ -518,8 +518,4 @@ sources:
 - [HealthLink BC - STI Testing: Should I Get Tested?](https://www.healthlinkbc.ca/healthwise/sti-testing-should-i-get-tested-sexually-transmitted-infection)
 - [Sex & U - STIs and STBBIs](https://www.sexandu.ca/stis/) — *SOGC patient site*
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

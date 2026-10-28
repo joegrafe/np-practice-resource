@@ -607,9 +607,5 @@ sources:
 - [Heart and Stroke Foundation - High Blood Pressure](https://www.heartandstroke.ca/heart-disease/risk-and-prevention/condition-risk-factors/high-blood-pressure)
 - [Heart and Stroke Foundation - DASH Diet](https://www.heartandstroke.ca/healthy-living/healthy-eating/dash-diet)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ## Spotify Playlist
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6ta1xH8olamUP8z8YEui9A?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

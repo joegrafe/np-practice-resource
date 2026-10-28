@@ -4,8 +4,6 @@ tags:
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
 status:
-hide:
-  - comments
 ---
 
 <div class="nppr-filter nppr-filter--pages nppr-filter--conditions" data-placeholder="Search all conditions, e.g. inhaler or metformin"></div>

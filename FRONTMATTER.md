@@ -49,7 +49,7 @@ sources:
 | `review-due` | Yes | `YYYY-MM-DD` | Usually `last-reviewed` plus one year. Sooner when a guideline update is expected. |
 | `reviewers` | Yes | List of GitHub usernames | Who checked the page. Empty `[]` while in draft. |
 | `sources` | Yes, except `index` and `about` | List of source entries (below) | List BC sources first, then national, then international. |
-| `hide` | No | `[comments]`, `[toc]`, `[navigation]` | Material for MkDocs option. Section index and About pages hide comments. |
+| `hide` | No | `[toc]`, `[navigation]`, `[suggest]`, `[report]` | `toc` and `navigation` are Material for MkDocs options; `suggest` hides the Suggest a link card and `report` hides only its GitHub issue button. |
 | `section_nav` | No | `true` · `false` | Shows or hides the section buttons. |
 | `logo` | No | Publisher's own image URL, or `/assets/logos/<name>` | Shown beside the title and on the section card. Link the publisher's file; host a copy in `docs/assets/logos/` only when Joe asks for one. |
 | `logo-alt` | With `logo` | Text | The institution's name, used as the image's alt text. |

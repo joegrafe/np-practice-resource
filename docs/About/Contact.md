@@ -9,7 +9,6 @@ last-reviewed: 2026-10-26
 review-due: 2027-10-26
 reviewers: [joegrafe]
 hide:
-  - comments
   - suggest
 ---
 Questions, corrections or ideas for NPPR. To suggest a guideline or tool, use [Submit a link](Submissions.md) instead. Please don't include any patient information.

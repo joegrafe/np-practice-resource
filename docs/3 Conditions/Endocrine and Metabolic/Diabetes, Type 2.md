@@ -833,10 +833,6 @@ sources:
 - [Diabetes Canada - Beyond the Basics: Meal Planning Resource](https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Beyond%20the%20Basics) · [PDF](https://www.diabetes.ca/getContentAsset/4b43df0b-e999-44f9-8638-5566a345a569/0f6cf596-933c-4f74-b36a-77091c512445/Beyond-the-Basics.pdf?language=en)
 - [Diabetes Canada - Foot Care: A Step Toward Good Health](https://www.diabetes.ca/living-with-diabetes/managing-complications/nerve-damage-and-amputation#:~:text=Foot%20care) · [PDF](https://www.diabetes.ca/getContentAsset/33d37ad7-82dd-4c56-a8ee-48cd7051589a/0f6cf596-933c-4f74-b36a-77091c512445/foot-care.pdf?language=en)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ## Spotify Playlist
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3nWjot6JVX2sb9EWtPh6AP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

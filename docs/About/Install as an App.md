@@ -10,7 +10,6 @@ review-due: 2027-10-26
 reviewers: [joegrafe]
 redirect_from: [about/how-to-save-as-an-app]
 hide:
-  - comments
   - suggest
 ---
 NPPR can be added to your phone's home screen, so it opens full screen with one tap, like an app. It still needs an internet connection: pages and the guidelines they link to load from the web.

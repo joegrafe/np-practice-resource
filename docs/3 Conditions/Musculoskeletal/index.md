@@ -3,8 +3,6 @@ title: Musculoskeletal
 description: "Musculoskeletal conditions for nurse practitioners: low back pain and rheumatoid arthritis."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-hide:
-  - comments
 ---
 
 ## In This Section

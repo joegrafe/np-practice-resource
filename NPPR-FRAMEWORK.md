@@ -115,7 +115,7 @@ The same rule applies to every page type: provincial sources first, then nationa
 
 | Page type | Sections, in order |
 | --- | --- |
-| Condition | Key sources (1 to 3, see below) · Further resources · Algorithms and pathways · Assessment tools and calculators · Prescribing · Advice and referral · Patient resources · Evidence Pack link · Review notes |
+| Condition | Key sources (1 to 3, see below) · Further resources · Algorithms and pathways · Assessment tools and calculators · Prescribing · Advice and referral · Patient resources · Evidence Pack link (added by step 3.1 once the pack exists; no placeholder heading before then) · Review notes |
 | Assessment | Scope · Focused history · Exam and special tests · Decision rules · Red flags · Learning videos · Sample documentation · References |
 | Approach | Publisher logo title bar · One-line intro naming the publisher and jurisdiction · Link to the publisher's index · Items by body system, each with its year, under a filter box · More Approaches |
 | Population | Key sources · Screening and preventive care · Conditions with population notes (links) · Services and referral · Patient resources |

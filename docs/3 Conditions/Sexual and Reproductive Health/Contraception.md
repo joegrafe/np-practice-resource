@@ -379,8 +379,4 @@ sources:
 - [HealthLink BC - Pharmacy Services in B.C.](https://www.healthlinkbc.ca/find-care/pharmacy-services-bc) — *what BC pharmacists can prescribe*
 - [Sex & U - Contraception](https://www.sexandu.ca/contraception/) — *SOGC patient site*
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

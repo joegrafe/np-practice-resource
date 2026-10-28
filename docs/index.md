@@ -1,7 +1,5 @@
 ---
 title: Home
-hide:
-  - comments
 section_nav: false
 ---
 # Nurse Practitioner Practice Resource
