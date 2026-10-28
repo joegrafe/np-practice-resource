@@ -15,10 +15,10 @@ jurisdiction:
   - BC
   - CA
   - INTL
-status: review
+status: published
 last-reviewed: 2026-10-28
 review-due: 2027-10-28
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-pad-weight-loss-2026
     title: "B.C. Provincial Academic Detailing (PAD) Service: Medications for Weight Loss"
@@ -415,7 +415,7 @@ sources:
     url: "https://csepguidelines.ca/"
     checked: 2026-10-28
 ---
-<!-- status: review. New page, built 2026-10-28.
+<!-- New page, built 2026-10-28.
 No BC Guideline: GPAC's alphabetical list has no obesity guideline (checked 2026-10-28). A draft "Obesity and Overweight" BC Guideline went to external review earlier, but its draft PDF now returns 404 and no final guideline is listed; check again at the next review. The BC PAD service topic stands in as the BC Key Source.
 No Therapeutics Initiative letter on obesity drugs (searched ti.ubc.ca for obesity, semaglutide and weight loss).
 PharmaCare: the PAD drug table (July 2025) records each weight-loss drug's PharmaCare status; the semaglutide Limited Coverage page covers type 2 diabetes only and is linked from the Diabetes page, not here. Wegovy has been through PharmaCare's drug review (Your Voice); check the formulary search for any listing.
