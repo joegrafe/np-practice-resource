@@ -24,7 +24,7 @@ hide:
 
 -   :material-diabetes:{ .nppr-icon } [**Endocrine and Metabolic**](Endocrine%20and%20Metabolic/index.md)
 
-    Type 2 diabetes, thyroid disease and electrolyte disorders.
+    Type 2 diabetes, obesity, thyroid disease and electrolyte disorders.
 
 -   :material-water-outline:{ .nppr-icon } [**Renal and Genitourinary**](Renal%20and%20Genitourinary/index.md)
 
