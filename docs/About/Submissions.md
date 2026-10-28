@@ -2,7 +2,6 @@
 title: Submit a Link
 description: "Suggest a guideline, tool or resource for other nurse practitioners. No account needed."
 hide:
-  - comments
   - suggest
 ---
 Only the link is required. We review suggestions every week.

@@ -336,8 +336,4 @@ sources:
 - [Asthma Canada - Asthma & Allergy HelpLine](https://asthma.ca/what-we-do/helpline/) — *one-on-one support from a Certified Respiratory Educator*
 - [Lung Health Foundation - Asthma](https://lunghealth.ca/lung-disease/asthma/)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

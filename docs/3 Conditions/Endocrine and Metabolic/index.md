@@ -3,8 +3,6 @@ title: Endocrine and Metabolic
 description: "Endocrine and Metabolic conditions for nurse practitioners: type 2 diabetes, obesity and weight management, thyroid disease and electrolyte disorders."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-hide:
-  - comments
 ---
 
 ## In This Section

@@ -7,8 +7,6 @@ status: published
 last-reviewed: 2026-10-27
 review-due: 2027-10-27
 reviewers: [joegrafe]
-hide:
-  - comments
 ---
 <!-- Section buttons are added automatically by the website build on top-level section pages.
      Edit them in nppr-website-config/overrides/partials/section-nav.html.

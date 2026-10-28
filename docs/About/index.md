@@ -9,7 +9,6 @@ last-reviewed: 2026-10-26
 review-due: 2027-10-26
 reviewers: [joegrafe]
 redirect_from: [about/nppr-forum]
-hide: comments
 ---
 
 *NPPR links primary care and urgent care nurse practitioners in BC and Canada to high-yield, current sources for each step of a visit, so you can check what an AI tool tells you against the source itself.*

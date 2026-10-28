@@ -311,8 +311,4 @@ sources:
 - [HealthLink BC - Thyroid Nodules](https://www.healthlinkbc.ca/healthwise/thyroid-nodules)
 - [Thyroid Foundation of Canada](https://thyroid.ca/) — *patient guides, webinars and support chapters*
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

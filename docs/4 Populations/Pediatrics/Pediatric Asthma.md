@@ -329,8 +329,4 @@ sources:
 - [HealthLink BC - Asthma in Children](https://www.healthlinkbc.ca/healthwise/asthma-children)
 - [BC Lung Foundation - Childhood Asthma](https://bclung.ca/lung-health/childhood-asthma/)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

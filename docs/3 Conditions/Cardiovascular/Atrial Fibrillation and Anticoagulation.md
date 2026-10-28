@@ -360,8 +360,4 @@ sources:
 - [HealthLink BC - Atrial Fibrillation](https://www.healthlinkbc.ca/healthwise/atrial-fibrillation)
 - [Heart & Stroke - Atrial fibrillation](https://www.heartandstroke.ca/heart-disease/conditions/atrial-fibrillation)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

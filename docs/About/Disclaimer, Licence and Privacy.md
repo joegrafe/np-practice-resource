@@ -10,7 +10,6 @@ last-reviewed: 2026-10-26
 review-due: 2027-10-26
 reviewers: [joegrafe]
 hide:
-  - comments
   - suggest
 ---
 
@@ -41,6 +40,5 @@ Some sources need an account. NPPR marks them so you know before you click:
 
 - **No tracking.** NPPR runs no analytics or advertising and sets no tracking cookies of its own. Fonts are served from nppr.ca, not Google.
 - **Forms.** The [Submit a link](Submissions.md) and [Contact](Contact.md) forms run on [Tally](https://tally.so/help/privacy-policy). They collect only what you type, plus the page you came from. On the Contact form, your name and email are optional.
-- **Comments.** Page comments use [giscus](https://giscus.app) and are stored as public posts in GitHub Discussions under your GitHub account.
 - **Saved in your browser.** The optional AI search downloads its language model from Hugging Face the first time you use it, and keeps its search index in your browser's storage on your device. Your searches aren't sent to NPPR.
-- **Never share patient information** in a form, comment or GitHub issue.
+- **Never share patient information** in a form or GitHub issue.
