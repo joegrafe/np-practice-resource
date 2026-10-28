@@ -262,7 +262,7 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
     - [ ] Tobacco use disorder (Mental Health and Substance Use)
     - [ ] Lacerations and minor wounds (Dermatology; urgent care)
     - [ ] Venous thromboembolism (Hematology and Oncology)
-    - [ ] Obesity (Endocrine and Metabolic)
+    - [x] Obesity (Endocrine and Metabolic)
     - [ ] Anemia and iron (iron deficiency, B12 and folate, high ferritin) (Hematology and Oncology)
     - [ ] Burns (Dermatology; urgent care)
     - [ ] GERD and H. pylori (Gastrointestinal and Liver)
