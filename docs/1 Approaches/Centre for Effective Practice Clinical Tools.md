@@ -3,10 +3,10 @@ title: Centre for Effective Practice Clinical Tools
 type: approach
 tags: [approach]
 jurisdiction: [CA]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "The Centre for Effective Practice's primary care clinical tools: 36, listed by body system with their year. Written for Ontario."
 logo: "https://cep.health/wp-content/uploads/2025/07/cep.svg"
 logo-alt: "Centre for Effective Practice"
