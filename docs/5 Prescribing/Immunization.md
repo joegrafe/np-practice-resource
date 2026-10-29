@@ -3,10 +3,10 @@ title: Immunization
 type: prescribing
 tags: [prescribing, immunization, vaccines]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "The BC Immunization Manual, Canadian Immunization Guide and NACI, with BC's program updates, adverse event reporting, vaccine handling, courses and patient resources."
 redirect_from: [prescribing/bc-immunization-manual]  # replaced the BC Immunization Manual page 2026-10-29
 sources:

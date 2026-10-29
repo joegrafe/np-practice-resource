@@ -3,10 +3,10 @@ title: Antimicrobials
 type: prescribing
 tags: [prescribing, antimicrobials, antibiotics, antimicrobial-stewardship, penicillin-allergy]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "General antimicrobial references for NP prescribing in BC: Bugs & Drugs, the Canadian Antibiotic Treatment Guidance, BC stewardship advice, penicillin allergy de-labelling and local resistance data."
 redirect_from: [prescribing/bugs-and-drugs]  # replaced the Bugs & Drugs page 2026-10-29
 sources:
