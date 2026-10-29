@@ -324,7 +324,7 @@ sources:
 
 - [BC Guidelines: Oral Anticoagulants, Appendix B - Warfarin Reversal Flowchart (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/oral-anticoagulants#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/images/periop_appendixb.pdf)
 - [Thrombosis Canada: Perioperative Anticoagulant Management Algorithm (online tool)](https://thrombosiscanada.ca/hcp/practice/clinical_tools?calc=perioperativeAnticoagulantAlgorithm)
-- [Alberta's Pathway Hub: Atrial Fibrillation (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/44/clinical) — *Alberta clinical pathway and referral guideline (referral guideline last updated July 1, 2025); choose "All" when the hub asks for an area*
+- [Alberta's Pathway Hub: Atrial Fibrillation (Primary Care Alberta, 2025)](https://www.primarycarealberta.ca/pathways/44/clinical) — *Alberta clinical pathway and referral guideline (referral guideline last updated July 1, 2025); choose "All" when the hub asks for an area*
 
 ## Assessment Tools and Calculators
 

@@ -188,15 +188,6 @@ sources:
     version:
     url: "https://www.healthlinkbc.ca/healthwise/psoriatic-arthritis-0"
     checked: 2026-10-26
-  - id: cdn-plaque-psoriasis-2016-addendum
-    title: "2016 Addendum to the Canadian Guidelines for the Management of Plaque Psoriasis 2009"
-    publisher: Journal of Cutaneous Medicine and Surgery
-    jurisdiction: CA
-    kind: guideline
-    version: "2016 (J Cutan Med Surg 2016;20(5):375-431)"
-    url: "https://journals.sagepub.com/doi/10.1177/1203475416655705"
-    pdf: "https://journals.sagepub.com/doi/pdf/10.1177/1203475416655705"
-    checked: 2026-10-26
   - id: cdrci-comorbidities-2015
     title: "Evidence-based Recommendations for the Management of Comorbidities in Rheumatoid Arthritis, Psoriasis, and Psoriatic Arthritis: Expert Opinion of the Canadian Dermatology-Rheumatology Comorbidity Initiative"
     publisher: The Journal of Rheumatology
@@ -818,8 +809,7 @@ sources:
     checked: 2026-10-26
 ---
 <!-- No BC Guidelines (GPAC) guideline, BC pathway or Alberta Pathway Hub pathway for psoriasis (checked 2026-10-26).
-     The Canadian Guidelines for the Management of Plaque Psoriasis (2009) are no longer posted online; the 2016 addendum is the current Canadian guideline document.
-     Unconfirmed on 2026-10-26 (sites block automated checks; confirmed through PubMed instead): cdn-plaque-psoriasis-2016-addendum (SAGE), cdn-psoriasis-skin-of-color-delphi-2024 and the six AAD-NPF guidelines (Elsevier), cfp-psoriasis-2017 (cfp.ca).
+     Unconfirmed on 2026-10-26 (sites block automated checks; confirmed through PubMed instead): cdn-psoriasis-skin-of-color-delphi-2024 and the six AAD-NPF guidelines (Elsevier), cfp-psoriasis-2017 (cfp.ca).
      PharmaCare lists no psoriasis criteria for apremilast, guselkumab or tildrakizumab; the tazarotene criteria cover acne only.
      Left out: AFP reviews that are paywalled (2023 recognition and management review) or older than the guidelines they discuss (2000, 2010); Cutis reviews that restate the AAD-NPF guidelines; a product-specific Canadian consensus (halobetasol/tazarotene, 2024).
      Link to the source guidance; don't restate its recommendations. -->

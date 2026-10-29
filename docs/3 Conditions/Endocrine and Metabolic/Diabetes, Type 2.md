@@ -286,7 +286,7 @@ sources:
     publisher: Diabetes Canada
     jurisdiction: CA
     kind: algorithm
-    version:
+    version: "2018 (Clinical Practice Guidelines, Chapter 4, Figure 1)"
     url: "https://www.diabetes.ca/for-professionals/health-care-provider-tools/screening-diagnosis-algorithm"
     checked: 2026-10-10
   - id: diabetes-canada-screening-tool
@@ -586,7 +586,7 @@ sources:
     publisher: American Academy of Family Physicians
     jurisdiction: INTL
     kind: summary
-    version:
+    version: "2025"
     pdf: "https://www.aafp.org/assets/image/upload/v1771246432/Migrated%20-%20PDFs%20%28AEM%29/Patient%20Care/clinical_recommendations/diabetes-clinical-framework-pdf.pdf"
     checked: 2026-10-10
   - id: mdcalc-findrisc
@@ -741,17 +741,17 @@ sources:
 	- [#373 Strategies for initiating insulin in type 2 diabetes (2024)](https://cfpclearn.ca/tfp373/)  
 	- [#333 Come Spy with Me: Continuous glucose monitoring in diabetes (2023)](https://cfpclearn.ca/tfp333/)  
 
-??? info "International: [AAFP - From Symptoms to Diagnosis: Type 1 vs. Type 2 Diabetes (PDF)](https://www.aafp.org/assets/image/upload/v1771246432/Migrated%20-%20PDFs%20%28AEM%29/Patient%20Care/clinical_recommendations/diabetes-clinical-framework-pdf.pdf)"
+??? info "International: [AAFP - From Symptoms to Diagnosis: Type 1 vs. Type 2 Diabetes (PDF, 2025)](https://www.aafp.org/assets/image/upload/v1771246432/Migrated%20-%20PDFs%20%28AEM%29/Patient%20Care/clinical_recommendations/diabetes-clinical-framework-pdf.pdf)"
 	*AAFP, free to read. Labelled international.*
 	- [AAFP - Diabetes: Clinical Guidance and Practice Resources](https://www.aafp.org/clinical-insights/cardiometabolic-health/diabetes)
 
 ## Algorithms and Pathways
 
 - [BC Guidelines: Appendix A - Screening Algorithm for Type 2 Diabetes in Adults (BC GPAC, 2021)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/diabetescare_appendixa_2021.pdf)
-- [Diabetes Canada: Screening and Diagnosis Algorithm for Type 2 Diabetes](https://www.diabetes.ca/for-professionals/health-care-provider-tools/screening-diagnosis-algorithm)
-- [Alberta's Pathway Hub: Chronic Kidney Disease - Diabetes Mellitus 2 (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/86/clinical) — *clinical pathway, referral guideline and patient resources; last updated July 19, 2024; choose "All" when the hub asks for an area*
-- [Alberta's Pathway Hub: Diabetic Foot Ulcer (Wound) (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/130/clinical) — *clinical pathway and referral guideline; referral guideline last updated January 20, 2026*
-- [Alberta's Pathway Hub: Suspected Diabetic Peripheral Neuropathy (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/353/clinical) — *clinical pathway and referral guideline; referral guideline last updated November 1, 2024*
+- [Diabetes Canada: Screening and Diagnosis Algorithm for Type 2 Diabetes (2018)](https://www.diabetes.ca/for-professionals/health-care-provider-tools/screening-diagnosis-algorithm)
+- [Alberta's Pathway Hub: Chronic Kidney Disease - Diabetes Mellitus 2 (Primary Care Alberta, 2024)](https://www.primarycarealberta.ca/pathways/86/clinical) — *clinical pathway, referral guideline and patient resources; last updated July 19, 2024; choose "All" when the hub asks for an area*
+- [Alberta's Pathway Hub: Diabetic Foot Ulcer (Wound) (Primary Care Alberta, 2026)](https://www.primarycarealberta.ca/pathways/130/clinical) — *clinical pathway and referral guideline; referral guideline last updated January 20, 2026*
+- [Alberta's Pathway Hub: Suspected Diabetic Peripheral Neuropathy (Primary Care Alberta, 2024)](https://www.primarycarealberta.ca/pathways/353/clinical) — *clinical pathway and referral guideline; referral guideline last updated November 1, 2024*
 
 ## Assessment Tools and Calculators
 
@@ -832,7 +832,3 @@ sources:
 - [Diabetes Canada - Type 2 Adult Toolkit](https://www.diabetes.ca/living-with-diabetes/newly-diagnosed/type-2-adult-toolkit)
 - [Diabetes Canada - Beyond the Basics: Meal Planning Resource](https://www.diabetes.ca/for-professionals/health-care-provider-tools#:~:text=Beyond%20the%20Basics) · [PDF](https://www.diabetes.ca/getContentAsset/4b43df0b-e999-44f9-8638-5566a345a569/0f6cf596-933c-4f74-b36a-77091c512445/Beyond-the-Basics.pdf?language=en)
 - [Diabetes Canada - Foot Care: A Step Toward Good Health](https://www.diabetes.ca/living-with-diabetes/managing-complications/nerve-damage-and-amputation#:~:text=Foot%20care) · [PDF](https://www.diabetes.ca/getContentAsset/33d37ad7-82dd-4c56-a8ee-48cd7051589a/0f6cf596-933c-4f74-b36a-77091c512445/foot-care.pdf?language=en)
-
-## Spotify Playlist
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3nWjot6JVX2sb9EWtPh6AP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -192,7 +192,7 @@ sources:
 
 ## Algorithms and Pathways
 
-- [Alberta's Pathway Hub: Urinary Tract Infections (UTI Recurrent) (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/394/clinical) — *Alberta referral guideline; choose "All" when the hub asks for an area*
+- [Alberta's Pathway Hub: Urinary Tract Infections (UTI Recurrent) (Primary Care Alberta, 2026)](https://www.primarycarealberta.ca/pathways/394/clinical) — *Alberta referral guideline; choose "All" when the hub asks for an area*
 
 ## Assessment Tools and Calculators
 
