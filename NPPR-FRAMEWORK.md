@@ -230,8 +230,8 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 
 - [x] Hypertension
 - [x] Type 2 diabetes
-- [x] Chronic kidney disease
-- [x] Acute kidney injury
+- [ ] Chronic kidney disease (Renal and Genitourinary)
+- [ ] Acute kidney injury (Renal and Genitourinary)
 - [x] Cardiovascular risk and lipids
 - [x] Heart failure
 - [x] Atrial fibrillation and anticoagulation
@@ -249,11 +249,16 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [ ] Well-child care (Rourke) (build as a section of Populations > Pediatrics, not a condition page)
 - [x] Contraception and STI care
 
-**Build order.** From the [Conditions section plan](https://claude.ai/artifact/5UM4RnW9PTP8De8FtSLmQm), agreed by Joe on 2026-10-27. Build in waves, taking the first unticked item each time: wave 1 is the unticked priority conditions above in this order (depression and anxiety, respiratory tract infections, opioid use disorder, osteoporosis, chronic pain, dementia and frailty), then the two wave 1 urgent care conditions below; waves 2 and 3 follow top to bottom. The folder for each page is in brackets. Urgent care conditions also carry the `urgent-care` tag, and their decision rules go on Assessments > Clinical decision rules.
+**Build order.** From the [Conditions section plan](https://claude.ai/artifact/5UM4RnW9PTP8De8FtSLmQm), agreed by Joe on 2026-10-27. Build in waves, taking the first unticked item each time: wave 1 is the unticked priority conditions above in this order (depression and anxiety, respiratory tract infections, opioid use disorder, osteoporosis, chronic pain, dementia and frailty, chronic kidney disease, acute kidney injury), then the wave 1 conditions below; waves 2 and 3 follow top to bottom. The folder for each page is in brackets. Urgent care conditions also carry the `urgent-care` tag, and their decision rules go on Assessments > Clinical decision rules.
 
 **Next conditions.** Added after the phase 2 list, as Joe asks for them, in build order:
 
 - [x] Psoriasis
+- Wave 1 (rebuild): these pages, and the CKD and AKI pages above, were older pages removed on 2026-10-29 to be rebuilt to the current standard. The research notes are in the [wave 0 plan](https://claude.ai/artifact/NEYRhd487FAhC9ZS6kGUcV). When a page is rebuilt at its old path, remove its redirect from `mkdocs.yml` in nppr-website-config.
+    - [ ] Low back pain (Musculoskeletal)
+    - [ ] Calcium disorders (Endocrine and Metabolic, Electrolyte Imbalances)
+    - [ ] Potassium disorders (Endocrine and Metabolic, Electrolyte Imbalances)
+    - [ ] Sodium disorders (Endocrine and Metabolic, Electrolyte Imbalances)
 - Wave 1 (urgent care):
     - [ ] Chest pain (Cardiovascular)
     - [ ] Sprains and minor fractures (Musculoskeletal)
@@ -309,7 +314,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 
 - **1 Approaches** ([plan](https://claude.ai/artifact/4ryGRHfoVhvEURcuPSk1E9), decisions settled 2026-10-27): AAFP, McGill, UCalgary Black Books, PedsCases, Alberta Primary Care Pathways (built); Pathways BC Enhanced Care Pathways, all 53 in Pathways category 1 (built 2026-10-29 from Joe's Pathways index); Centre for Effective Practice clinical tools, all clinical tools with an Ontario label (built 2026-10-29: 36 of 41 tools, linked to each tool's CEP page because the tools open behind a reCAPTCHA); Canadian Family Physician "Approach to" articles, titles beginning "Approach to", clinical topics, 2010 onward *(new, 2)*; Presentations A to Z, generated at build time from the other Approaches pages' lists *(new, 2)*; TREKK pediatric emergency topics *(new, 3)*; CMAJ "Five things to know about" articles, clinical topics with year *(new, 3; added 2026-10-27 from the resource gap audit)*. Presentations A to Z uses the MCC Examination Objectives for its complaint headings. Condition pages link their matching Approaches items as the daily routine touches them.
 - **2 Assessments:** Lab and imaging *(new, 1, published 2026-10-27)*; Preventive care and cancer screening *(new, 2)*; Physical exam by system *(new, 3)*; Clinical decision rules *(new, 4)*; Screening questionnaires and scales *(new, 5)* (order changed by Joe 2026-10-29); POCUS: Scope and training, Protocols and references *(new, 6, built in stage E; moved from Tools 2026-10-27, placeholder at assessments/pocus)*; retire Assessment Resources once its rows have moved. Added 2026-10-27 from the [resource gap audit](https://claude.ai/artifact/XoVNcRWTM1yEeBH6mz7MWr): Lab and imaging gets the BCCDC eLab Handbook, an ECG heading (LITFL ECG Library) and Radiopaedia; Clinical decision rules adds the Canadian Syncope Risk Score, Ottawa SAH Rule, Canadian TIA Score and TheNNT; Screening adds C-SSRS, STOP-Bang and HEADSSS; Preventive care leads with the BC Lifetime Prevention Schedule, then the Task Force, CPS Greig Health Record and CFPC Preventive Care Checklist; Physical exam adds Geeky Medics.
-- **3 Conditions:** the Roadmap checklists above are the to-do list, in the build order given there. Wave 0 brings the older pages (CKD, AKI, low back pain, calcium, potassium and sodium disorders) up to standard with step 2.4. Infection pages link Firstline's Canadian Antibiotic Treatment Guidance (UTI first), and urgent care pages link RCCbc RTVS beside RACE.
+- **3 Conditions:** the Roadmap checklists above are the to-do list, in the build order given there. The older CKD, AKI, low back pain, calcium, potassium and sodium disorders pages were removed on 2026-10-29 and are rebuilt in wave 1 instead of updated in place. Infection pages link Firstline's Canadian Antibiotic Treatment Guidance (UTI first), and urgent care pages link RCCbc RTVS beside RACE.
 - **4 Populations** ([plan](https://claude.ai/artifact/Smz8FYnzW34EFU3K96MKTV), decisions settled 2026-10-27; one PR per wave)**:** Pediatrics (fold in the Canadian Paediatric Society and Rourke stubs; add well-child care and an adolescents section, 1; pediatric acute care pages for croup and bronchiolitis, fever and gastroenteritis from Child Health BC, TREKK and CPS, wave set in the Populations plan); Pregnancy and Perinatal (add prenatal care and medication in pregnancy and lactation, 1); Older adults *(new, 2)*; Women's Health (rebuild, 2); Trans Care (rebuild, with gender-affirming hormone sources, 2); Rural and remote (rebuild BC Rural Health, 3); Indigenous Health (review, 3); Newcomers and refugees *(new, 3)*; Adults with intellectual and developmental disabilities *(new, 3)*.
 - **5 Prescribing:** Rational prescribing, Drug coverage (PharmaCare and Special Authority), Drug references *(new, 1)*; Antimicrobials, Immunization *(new, 2; replace the Bugs & Drugs and BC Immunization Manual pages)*; Opioids, controlled drugs and substance use prescribing, Deprescribing *(new, 3)*.
 - **6 Practice** ([plan](https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc), decisions settled 2026-10-27; one PR per wave, wave 1 waits for Joe's go-ahead)**:** Scope of practice and standards, Prescribing authority *(new, 1)*; Registration and licensure, Practice models and compensation, Documentation privacy and records, Starting NP practice in BC, Community of practice (NP Circle, NNPBC NP-PIP Community of Practice, BC ECHO series) *(new, 2)*; Consultation referral and advice, Forms and duty to report *(new, 3)*; Associations (reorder, NP bodies first, 3). Members-only sources are linked with an access label.

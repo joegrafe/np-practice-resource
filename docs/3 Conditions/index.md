@@ -22,15 +22,15 @@ status:
 
 -   :material-diabetes:{ .nppr-icon } [**Endocrine and Metabolic**](Endocrine%20and%20Metabolic/index.md)
 
-    Type 2 diabetes, obesity, thyroid disease and electrolyte disorders.
+    Type 2 diabetes, obesity and thyroid disease.
 
 -   :material-water-outline:{ .nppr-icon } [**Renal and Genitourinary**](Renal%20and%20Genitourinary/index.md)
 
-    Acute kidney injury, chronic kidney disease and urinary tract infection.
+    Urinary tract infection.
 
 -   :material-bone:{ .nppr-icon } [**Musculoskeletal**](Musculoskeletal/index.md)
 
-    Low back pain and rheumatoid arthritis.
+    Rheumatoid arthritis.
 
 -   :material-brain:{ .nppr-icon } [**Neurology**](Neurology/index.md)
 
