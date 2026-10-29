@@ -13,8 +13,9 @@ Checks:
                  (the same id on several pages must point to the same address)
   source-order   sources listed BC, then CA, then INTL
   list-sheet     each <!-- nppr-list: --> marker names a CSV beside the page, the CSV
-                 uses only the list-sheet columns, every row has a title and http(s)
-                 links, and every CSV in docs/ is used by a page
+                 uses only the list-sheet columns, every row has a title (a note row
+                 has a note), kind and level hold allowed values, links are http(s),
+                 and every CSV in docs/ is used by a page
 
 Each finding is an error or a warning. Rules that some existing pages don't meet
 yet are warnings (WARN_ONLY below); move a rule to an error once pages pass.
@@ -53,7 +54,9 @@ PAGE_REQUIRED = ["title", "type", "tags", "jurisdiction", "status", "last-review
 SOURCE_REQUIRED = ["id", "title", "publisher", "jurisdiction", "kind", "checked"]
 NO_SOURCES = {"index", "about"}
 LIST_COLUMNS = {"heading", "subheading", "title", "url", "year", "pdf", "links", "note",
-                "keywords", "sub"}
+                "keywords", "sub", "kind", "level"}
+LIST_KINDS = {"", "box", "note", "md"}  # condition sheets; blank is a link line
+LIST_LEVELS = {"", "0", "1", "2"}
 # Rules reported as warnings only, because some published pages don't meet them yet.
 # list-sheet passes on every page today, so it's an error.
 WARN_ONLY = {"frontmatter", "review-due", "sources", "source-order"}
@@ -247,7 +250,15 @@ def check_sheet(path, rel, f):
             continue
         if len(row) > len(cols) and any(x.strip() for x in row[len(cols):]):
             f.add("list-sheet", rel, n, "Row has more cells than the header (an unquoted comma?).")
-        if not cells.get("title"):
+        kind = cells.get("kind", "").lower()
+        if kind not in LIST_KINDS:
+            f.add("list-sheet", rel, n, f"kind '{cells['kind']}' is not blank, box, note or md.")
+        if cells.get("level", "") not in LIST_LEVELS:
+            f.add("list-sheet", rel, n, f"level '{cells['level']}' is not blank, 0, 1 or 2.")
+        if kind == "note":
+            if not cells.get("note"):
+                f.add("list-sheet", rel, n, "Note row has nothing in its note column.")
+        elif not cells.get("title"):
             f.add("list-sheet", rel, n, "Row has no title.")
         for k in ("url", "pdf"):
             if cells.get(k) and not URL.match(cells[k]):
