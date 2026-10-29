@@ -3,10 +3,10 @@ title: Preventive Care and Cancer Screening
 type: assessment
 tags: [assessment, preventive-care, screening, cancer-screening]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "The BC Lifetime Prevention Schedule, BC Cancer screening programs, BC Guidelines and Canadian Task Force guidelines on preventive care and screening in primary care."
 sources:
   - id: bc-lifetime-prevention-schedule-2026
