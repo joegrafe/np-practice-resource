@@ -159,6 +159,14 @@ sources:
     version:
     url: https://www.heartandstroke.ca/heart-disease/conditions/heart-failure
     checked: 2026-10-09
+  - id: pathways-advanced-hf
+    title: "Pathways BC: Advanced and End Stage Heart Failure - Clinician's Enhanced Supportive Tool"
+    publisher: Pathways BC
+    jurisdiction: BC
+    kind: pathway
+    version: "2024-10-18"
+    url: "https://pathwaysbc.ca/ci/5231"
+    checked: 2026-10-29
 ---
 <!-- status: review. Set status to published after opening every link.
      Unconfirmed on 2026-10-09 (Canadian Journal of Cardiology blocks automated checks; all three are listed on the CHFS guidelines page): ccs-chfs-hfnref-2025, ccs-chfs-hfref-2021, ccs-hf-2017.
@@ -194,6 +202,7 @@ sources:
 ## Algorithms and Pathways
 
 - [BC Guidelines: Figure 1 - Diagnosis of Heart Failure (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#fig1)
+- [Pathways BC: Advanced and End Stage Heart Failure, Clinician's Enhanced Supportive Tool (Shared Care, 2024)](https://pathwaysbc.ca/ci/5231) — *BC enhanced care pathway for advanced heart failure and palliative care*
 - [Alberta's Pathway Hub: Heart Failure (CHF) (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/195/clinical) — *Alberta clinical pathway and referral guideline (referral guideline last updated October 5, 2023); choose "All" when the hub asks for an area*
 
 ## Assessment Tools and Calculators

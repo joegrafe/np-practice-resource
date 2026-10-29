@@ -407,6 +407,14 @@ sources:
     version:
     url: "https://caddac.ca/about-adhd/ages-7-17-yrs/"
     checked: 2026-10-09
+  - id: pathways-adhd-adult
+    title: "Pathways BC: ADHD Care Pathway - Adult"
+    publisher: Pathways BC
+    jurisdiction: BC
+    kind: pathway
+    version: "2026-05-25"
+    url: "https://pathwaysbc.ca/ci/9446"
+    checked: 2026-10-29
 ---
 <!-- No BC Guidelines (GPAC) guideline and no Alberta Pathway Hub pathway exists for ADHD; CADDRA and CPS are the main Canadian sources.
      MDCalc has no pediatric ADHD tool (only the adult ASRS). International guidance (AAP, NICE) is left out because Canadian guidance exists.
@@ -433,7 +441,9 @@ sources:
 
 ## Algorithms and Pathways
 
-*No BC or Alberta Pathway Hub pathway for ADHD was found on 2026-10-09. See the CADDRA guideline and CPS statements above.*
+- [Pathways BC: ADHD Care Pathway, Adult (2026)](https://pathwaysbc.ca/ci/9446) — *BC enhanced care pathway for adults; more BC pathways in [Pathways BC Enhanced Care Pathways](../../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md)*
+
+*No Alberta Pathway Hub pathway for ADHD was found on 2026-10-09.*
 
 ## Assessment Tools and Calculators
 
