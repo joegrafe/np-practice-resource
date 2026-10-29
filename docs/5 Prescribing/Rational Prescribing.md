@@ -3,10 +3,10 @@ title: Rational Prescribing
 type: prescribing
 tags: [prescribing, rational-prescribing]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-27
 review-due: 2027-10-27
-reviewers: []
+reviewers: [joegrafe]
 description: "Published frameworks for working through a prescribing decision, and where to check each step in BC."
 sources:
   # BC

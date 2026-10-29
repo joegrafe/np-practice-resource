@@ -3,10 +3,10 @@ title: Drug Coverage
 type: prescribing
 tags: [prescribing, pharmacare, special-authority, drug-coverage]
 jurisdiction: [BC, CA]
-status: review
+status: published
 last-reviewed: 2026-10-27
 review-due: 2027-10-27
-reviewers: []
+reviewers: [joegrafe]
 description: "BC PharmaCare for prescribers: Special Authority, Formulary Search, coverage plans and the programs that decide what a prescription costs the patient."
 sources:
   # BC

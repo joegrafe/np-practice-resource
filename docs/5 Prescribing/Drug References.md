@@ -3,10 +3,10 @@ title: Drug References
 type: prescribing
 tags: [prescribing, drug-information, medication-safety]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-27
 review-due: 2027-10-27
-reviewers: []
+reviewers: [joegrafe]
 description: "Independent and Canadian drug references for checking a drug choice: monographs, comparison charts, safety alerts, shortages and dosing calculators."
 sources:
   # BC
