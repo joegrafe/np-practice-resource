@@ -1,0 +1,33 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords
+Key Sources,box,,Bugs & Drugs - Antimicrobial Therapy Guide (BC and Alberta),https://www.bugsanddrugs.org/,,,,"BC and Alberta empiric treatment guidance informed by regional antibiograms; website and app, free for BC prescribers; updated continuously",antibiotic
+Key Sources,box,,AMMI Canada - Canadian Antibiotic Treatment Guidance,https://ammi.ca/education-professional-development/canadian-antibiotic-treatment-guidance/,2025,,,national empiric antibiotic guidance funded by the Public Health Agency of Canada; first release covers respiratory tract infections,Firstline antibiotic
+Key Sources,,1,Firstline: Canadian Antibiotic Treatment Guidance (web and app),https://firstline.org/canada/,,,,choose Canadian Antibiotic Treatment Guidance as the location,
+Key Sources,,1,Methods Summary (PDF),https://ammi.ca/wp-content/uploads/2026/06/AMMI-Antibiotic-Guidelines-Methods-SummaryEN-2025.pdf,,,,,
+Key Sources,box,,Canadian Family Physician - Pharyngitis: Approach to Diagnosis and Treatment,https://www.cfp.ca/content/66/4/251,2020,,,"Sykes EA, Wu V, Beyea MM et al. Can Fam Physician 66(4)",sore throat strep
+Key Sources,,1,Full Article (PDF),https://www.cfp.ca/content/cfp/66/4/251.full.pdf,,,,,
+Further Resources,box,,BCCDC - Antimicrobial Stewardship for Healthcare Professionals,https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship,,,,"BC community stewardship program (PACE): prescribing tools, susceptibility reports and fluoroquinolone guidance",
+Further Resources,,1,Do Bugs Need Drugs?,https://www.dobugsneeddrugs.org/,,,,BC education program on antibiotic use for prescribers and the public,
+Further Resources,box,,"Canadian Clinical Practice Guidelines for Acute and Chronic Rhinosinusitis (Allergy, Asthma & Clinical Immunology)",https://aacijournal.biomedcentral.com/articles/10.1186/1710-1492-7-2,2011,,,open access,sinusitis
+Further Resources,box,,AMMI Canada Seasonal Influenza Guideline Update 2025-26 (JAMMI),https://jammi.utpjournals.press/doi/10.3138/jammi-2026-0105,2026,,,antiviral treatment and prophylaxis questions for the 2025-26 season,flu oseltamivir antiviral
+Further Resources,box,,Choosing Wisely Canada - Using Antibiotics Wisely in Primary Care,https://choosingwiselycanada.org/primary-care/antibiotics/,,,,"primary care toolkit, including the viral prescription pad",
+Further Resources,box,,AAFP - Community-Acquired Pneumonia in Adults: Diagnosis and Management,https://www.aafp.org/afp/2016/1101/p698,2016,,,"International source: US guidance, not Canadian.",CAP pneumonia
+Further Resources,box,,AAFP - Influenza: Diagnosis and Treatment,https://www.aafp.org/afp/2019/1215/p751,2019,,,"International source: US guidance, not Canadian.",flu
+Further Resources,,1,"2026 update: Influenza: Prevention, Diagnosis, and Treatment",https://www.aafp.org/afp/2026/1000/influenza,2026,,,AAFP members only,
+Further Resources,box,,NICE - Antimicrobial Prescribing Guidelines for Respiratory Tract Infections,,,,,"International source: UK guidance, not Canadian.",
+Further Resources,,1,Cough (acute): antimicrobial prescribing (NG120),https://www.nice.org.uk/guidance/ng120,2019,,,,
+Further Resources,,1,Sore throat (acute): antimicrobial prescribing (NG84),https://www.nice.org.uk/guidance/ng84,2018,,,,
+Further Resources,,1,Sinusitis (acute): antimicrobial prescribing (NG79),https://www.nice.org.uk/guidance/ng79,2017,,,,
+Algorithms and Pathways,,,Pathways BC: COVID-19 Treatment (BCCDC),https://pathwaysbc.ca/ci/6374,2025,,,BC enhanced care pathway; more BC pathways in [Pathways BC Enhanced Care Pathways](../../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md),COVID
+Algorithms and Pathways,,,Alberta Primary Care Pathways: Rhinosinusitis,https://www.primarycarealberta.ca/pathways/342/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-rhinosinusitis.pdf,,Calgary Zone primary care pathway,sinusitis
+Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for pharyngitis or community-acquired pneumonia was found on 2026-10-29.,
+Assessment Tools and Calculators,,,MDCalc: Centor Score (Modified/McIsaac) for Strep Pharyngitis,https://www.mdcalc.com/calc/104/centor-score-modified-mcisaac-strep-pharyngitis,,,,strep pharyngitis likelihood,McIsaac sore throat
+Assessment Tools and Calculators,,,MDCalc: CURB-65 Score for Pneumonia Severity,https://www.mdcalc.com/calc/324/curb-65-score-pneumonia-severity,,,,pneumonia severity and site of care,CAP
+Prescribing,,,NPPR Antimicrobials,../../5%20Prescribing/Antimicrobials.md,,,,"general antimicrobial references, penicillin allergy assessment and stewardship tools",
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,https://www.raceconnect.ca/,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",
+Patient Resources,,,HealthLink BC - Colds,https://www.healthlinkbc.ca/healthwise/colds,,,,,common cold
+Patient Resources,,,HealthLink BC - Sore Throat and Other Throat Problems,https://www.healthlinkbc.ca/healthwise/sore-throat-and-other-throat-problems,,,,,
+Patient Resources,,,HealthLink BC - Strep Throat,https://www.healthlinkbc.ca/healthwise/strep-throat,,,,,
+Patient Resources,,,HealthLink BC - Sinusitis,https://www.healthlinkbc.ca/healthwise/sinusitis,,,,,
+Patient Resources,,,HealthLink BC - Acute Bronchitis,https://www.healthlinkbc.ca/healthwise/acute-bronchitis,,,,,chest cold
+Patient Resources,,,HealthLink BC - Pneumonia,https://www.healthlinkbc.ca/healthwise/pneumonia,,,,,
+Patient Resources,,,HealthLink BC - Influenza (flu),https://www.healthlinkbc.ca/healthwise/influenza-flu,,,,,flu

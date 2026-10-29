@@ -40,6 +40,10 @@ status:
 
     ADHD.
 
+-   :material-virus-outline:{ .nppr-icon } [**Infectious Disease**](Infectious%20Disease/index.md)
+
+    Respiratory tract infections.
+
 -   :material-hand-back-left-outline:{ .nppr-icon } [**Dermatology**](Dermatology/index.md)
 
     Psoriasis.
