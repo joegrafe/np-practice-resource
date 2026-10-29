@@ -1,8 +1,13 @@
 ---
 title: Renal and Genitourinary
+type: index
+tags: [index]
+jurisdiction: [BC, CA]
+status: published
 description: "Renal and Genitourinary conditions for nurse practitioners: urinary tract infection."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
+reviewers: []
 ---
 
 ## In This Section

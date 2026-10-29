@@ -1,8 +1,13 @@
 ---
 title: Endocrine and Metabolic
+type: index
+tags: [index]
+jurisdiction: [BC, CA]
+status: published
 description: "Endocrine and Metabolic conditions for nurse practitioners: type 2 diabetes, obesity and weight management, and thyroid disease."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
+reviewers: []
 ---
 
 ## In This Section
