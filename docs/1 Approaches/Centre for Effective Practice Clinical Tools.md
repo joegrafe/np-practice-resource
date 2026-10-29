@@ -113,7 +113,6 @@ sources:
 
 ## More Approaches
 
-- [Presentations A to Z](Presentations%20A%20to%20Z.md) — *every item on these pages, listed by presenting complaint*
 - [Canadian Family Physician: Approach To and Management Of](Canadian%20Family%20Physician%20Approach%20and%20Management%20Articles.md) — *Canadian primary care "Approach to" and "Management of" reviews by body system, 2010 onward*
 - [Pathways BC Enhanced Care Pathways](Pathways%20BC%20Enhanced%20Care%20Pathways.md) — *BC primary care pathways by body system*
 - [Alberta Primary Care Pathways](Alberta%20Primary%20Care%20Pathways.md) — *Alberta's Pathway Hub clinical pathways by body system*

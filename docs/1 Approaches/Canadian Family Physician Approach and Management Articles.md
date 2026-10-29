@@ -200,7 +200,6 @@ sources:
 
 ## More Approaches
 
-- [Presentations A to Z](Presentations%20A%20to%20Z.md) — *every item on these pages, listed by presenting complaint*
 - [Pathways BC Enhanced Care Pathways](Pathways%20BC%20Enhanced%20Care%20Pathways.md) — *BC primary care pathways by body system*
 - [Centre for Effective Practice Clinical Tools](Centre%20for%20Effective%20Practice%20Clinical%20Tools.md) — *Canadian primary care tools by body system, written for Ontario*
 - [Alberta Primary Care Pathways](Alberta%20Primary%20Care%20Pathways.md) — *Alberta's Pathway Hub clinical pathways by body system*
