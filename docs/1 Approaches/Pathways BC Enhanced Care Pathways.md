@@ -3,10 +3,10 @@ title: Pathways BC Enhanced Care Pathways
 type: approach
 tags: [approach]
 jurisdiction: [BC]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "Pathways BC Enhanced Care Pathways for primary care: all 53, listed by body system with their year."
 logo: "/assets/logos/pathways.svg"
 logo-alt: "Pathways BC"
