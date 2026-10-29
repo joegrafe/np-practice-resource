@@ -4,8 +4,8 @@ type: index
 tags: [index]
 jurisdiction: [BC, CA]
 status: draft
-last-reviewed: 2026-10-09
-review-due: 2027-10-09
+last-reviewed: 2026-10-29
+review-due: 2027-10-29
 reviewers: []
 ---
 <!-- Section buttons are added automatically by the website build on top-level section pages.
@@ -15,4 +15,6 @@ reviewers: []
 *NP scope and standards, advice and referral services, forms and professional associations.*
 
 ## In This Section
+- [Scope of Practice and Standards](Scope%20of%20Practice%20and%20Standards.md)
+- [Prescribing Authority](Prescribing%20Authority.md)
 - [Associations](Associations/index.md)

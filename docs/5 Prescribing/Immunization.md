@@ -185,5 +185,5 @@ sources:
 
 ## NP Prescribing Notes
 
-- Check that a drug is within NP prescribing authority in [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx). The full set of NP prescribing rules will sit on Practice: Prescribing authority.
+- Check that a drug is within NP prescribing authority in [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx). The full set of NP prescribing rules is on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md).
 - BCCDC asks providers to check with their regulatory college and employer about requirements for giving immunizations, and to use the most recent version of each part of the manual.
