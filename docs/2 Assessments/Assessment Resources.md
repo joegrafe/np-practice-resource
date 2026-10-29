@@ -1,7 +1,14 @@
 ---
 title: Assessments & Diagnostics
+type: assessment
+tags: [assessment]
+jurisdiction: [BC, CA]
+status: draft
+last-reviewed: 2026-10-29
+review-due: 2027-10-29
+reviewers: []
 ---
-
+<!-- Older page, waiting to be rebuilt in its section's wave (NPPR-FRAMEWORK.md, Section page lists). Left in search because it is the only page on its topic until then. -->
 | **Specialty**   | **Resource**            | **Description & Link**                                                                                                                                                                                                                              |
 | --------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Orthopedics** | **The Rheum**           | [RheumGuide](https://www.rheumguide.ca/learning.html)<br><br>[RheumTutor](https://youtube.com/@rheumtutor) <br><br>[RheumInfo](https://rheuminfo.com/)<br><br> • *Resources, videos and links on joint exams and questions like "How to detect an effusion" or "Proper McMurray's Test"._*                                                          |
