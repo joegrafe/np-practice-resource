@@ -2408,6 +2408,7 @@ sources:
 
 ## More Approaches
 
+- [Centre for Effective Practice Clinical Tools](Centre%20for%20Effective%20Practice%20Clinical%20Tools.md) — *Canadian primary care tools by body system, written for Ontario*
 - [Pathways BC Enhanced Care Pathways](Pathways%20BC%20Enhanced%20Care%20Pathways.md) — *BC primary care pathways by body system*
 - [University of Calgary Black Books](University%20of%20Calgary%20Black%20Books.md) — *schemes for common presentations, including a Pediatric section*
 - [McGill Journal of Medicine: Approach To](McGill%20Approach%20To%20Articles.md) — *peer-reviewed "Approach to" articles by body system*

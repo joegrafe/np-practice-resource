@@ -138,6 +138,7 @@ sources:
 
 ## More Approaches
 
+- [Centre for Effective Practice Clinical Tools](Centre%20for%20Effective%20Practice%20Clinical%20Tools.md) — *Canadian primary care tools by body system, written for Ontario*
 - [Alberta Primary Care Pathways](Alberta%20Primary%20Care%20Pathways.md) — *Alberta's Pathway Hub clinical pathways by body system*
 - [University of Calgary Black Books](University%20of%20Calgary%20Black%20Books.md) — *diagnostic schemes for common presentations*
 - [McGill Journal of Medicine: Approach To](McGill%20Approach%20To%20Articles.md) — *peer-reviewed "Approach to" articles by body system*

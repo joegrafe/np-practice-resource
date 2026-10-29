@@ -413,6 +413,7 @@ sources:
 
 ## More Approaches
 
+- [Centre for Effective Practice Clinical Tools](Centre%20for%20Effective%20Practice%20Clinical%20Tools.md) — *Canadian primary care tools by body system, written for Ontario*
 - [Pathways BC Enhanced Care Pathways](Pathways%20BC%20Enhanced%20Care%20Pathways.md) — *BC primary care pathways by body system*
 - [University of Calgary Black Books](University%20of%20Calgary%20Black%20Books.md) — *schemes for common presentations*
 - [PedsCases Notes](PedsCases%20Approach%20To.md) — *short peer-reviewed summaries of pediatric presentations and conditions*
