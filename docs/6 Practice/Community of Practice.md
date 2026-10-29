@@ -50,7 +50,7 @@ sources:
 <!-- Practice wave 2 (plan: https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc, approved by Joe 2026-10-27).
      Added to the plan by Joe on 2026-10-27, starting with NP Circle (website and app).
      nnpbc.com answers 403 to the build environment, so the NP-PIP page was confirmed by search. -->
-*Places to talk through cases, find a mentor and keep learning with other nurse practitioners. Professional bodies and memberships are in [Associations](Associations/index.md).*
+*Places to talk through cases, find a mentor and keep learning with other nurse practitioners.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. mentorship"></div>
 

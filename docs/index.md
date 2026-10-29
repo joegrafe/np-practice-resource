@@ -30,7 +30,7 @@ section_nav: false
 
 -   :material-briefcase-outline:{ .nppr-icon } [**Practice**](6%20Practice/index.md)
 
-    NP scope and standards, advice and referral, forms and associations.
+    NP scope and standards, prescribing authority, registration, practice models, documentation and peer support.
 
 -   :material-toolbox-outline:{ .nppr-icon } [**Tools**](7%20Tools/index.md)
 
