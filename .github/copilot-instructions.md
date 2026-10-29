@@ -30,6 +30,16 @@ When reviewing a pull request, check the rules below and comment only where the 
 - When a condition sheet row changes, its source entry in the page's frontmatter `sources` changes in the same PR.
 - The Approaches section is a complete list of each source's "approach to" articles, whatever their age. When a newer guideline covers the same topic, the approach stays and the guideline is added beside it (in `links`) with its year.
 
+## Search
+
+Search is the site's key feature and NPPR's own (assets/search.json, built by nppr-website-config). Flag:
+
+- A new or renamed page with no search aliases (frontmatter `aliases` or a line in nppr-website-config's `hooks/search_aliases.yml`).
+- Frontmatter `type`, `system`, `jurisdiction` or `tags` that don't match the page: the search's filters and region badges come from them.
+- A sheet row with its year or PDF in the title instead of the `year` and `pdf` columns.
+- A new section, sheet column or list style with no matching change to `scripts/search_data.py` and `site_assets/nppr-search.js`.
+- Text repeated on every page without `data-search-exclude`.
+
 ## Structure
 
 - Adding, moving or removing a page updates the In This Section list on its section's `index.md` in the same PR.

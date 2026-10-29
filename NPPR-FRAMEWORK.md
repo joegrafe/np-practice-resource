@@ -147,6 +147,16 @@ The build writes each line as `[Title (year)](url) · [PDF](pdf) · links — *n
 
 Each page's aliases are also written into the page as a hidden line (`<p hidden data-aliases>`), so search engines and any other generator's search find them too. Text that repeats on every page, such as navigation, buttons and banners, is marked `data-search-exclude`, so it isn't searched. The search check fails if the section buttons reach the search file. It runs in the PR checks of both repositories. When a reader's search misses, add the missing word as an alias or synonym and add the search to the checks file.
 
+**Keeping the search structure** (Joe, 2026-10-29). Every PR, in either repository, keeps what the search reads from the pages accurate, and changes the search code in the same PR when it changes what the search reads:
+
+- Frontmatter drives the filters and badges: `type` puts a page in a section index search (`condition` pages are what the Conditions index searches), `system` fills the Body system filter, `jurisdiction` and the link's domain set the BC, Canada or International badge, and `tags` and `aliases` are searched. Keep them accurate on every new or changed page.
+- A page's `##` headings become the jump links on its best-bet card, so keep them short, plain and in the standard order for the page type.
+- Each list-sheet row is a search result of its own, with its year, PDF and region shown, so a row needs its `year` and `pdf` columns filled, not the title. A new sheet column, `kind`, `level` or list style is read by `scripts/search_data.py` in the same change.
+- A new top-level section is added to `SECTIONS` in `scripts/search_data.py` and to the Section filter in `site_assets/nppr-search.js`. A new section index with its own search uses `<div class="nppr-filter nppr-filter--pages">` and gets a preset in `nppr-search.js`. A BC or Canadian source shown with the wrong badge has its domain added to `BC_SITES` or `CA_SITES` in `search_data.py`.
+- A page that shouldn't come up in search (a stub, a redirect) gets `search: {exclude: true}` in its frontmatter.
+- No generator search plugin, and no second search box: a new search feature (the home page box, the missed-search log, offline search, AI search) builds on `assets/search.json` and `nppr-search.js`.
+- `assets/search.json` is fetched on a reader's first search, so keep it small: about 135 KB gzipped on 2026-10-29. A change that adds more than 50 KB says so in its PR, and page text stays capped by `SECTION_TEXT`.
+
 The same rule applies to every page type: provincial sources first, then national, then other sources, each labelled with its publisher and year.
 
 | Page type | Sections, in order |
@@ -247,7 +257,7 @@ An index is only as trustworthy as its dates. Each rule below can be shown on th
 | Link health | A weekly GitHub Action checks every external link and opens an issue for each broken or redirected link |
 | Licensing | NPPR's own text under an open licence such as CC BY 4.0. Third-party documents are linked to the publisher's own copy and not hosted on NPPR |
 | Disclaimer | Keep the home page disclaimer and repeat a one-line version on every Evidence Pack: AI answers must be checked against the cited source |
-| Search | Search is the main feature of an index site: every page has aliases for its abbreviations, drug names and plain words, and every site or page change passes `scripts/search-check.js` (Page standard, Search) before it ships |
+| Search | Search is the main feature of an index site: every page has aliases for its abbreviations, drug names and plain words, every site or page change passes `scripts/search-check.js` before it ships, and keeps what the search reads (frontmatter, headings, sheet columns) accurate, with the search code updated in the same change (Page standard, Search and Keeping the search structure) |
 | Build stability | Pin `mkdocs<2` in requirements.txt. Material's maintainers say MkDocs 2.0 removes the plugin and theme-override systems this site relies on |
 
 ## Roadmap
