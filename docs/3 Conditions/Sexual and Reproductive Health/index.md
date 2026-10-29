@@ -3,8 +3,6 @@ title: Sexual and Reproductive Health
 description: "Sexual and Reproductive Health conditions for nurse practitioners: contraception and sexually transmitted infections."
 last-reviewed: 2026-10-15
 review-due: 2027-10-15
-hide:
-  - comments
 ---
 
 ## In This Section

@@ -214,8 +214,4 @@ sources:
 - [HealthLink BC - Urinary Tract Infections in Teenagers and Adults](https://www.healthlinkbc.ca/healthwise/urinary-tract-infections-teenagers-and-adults)
 - [Choosing Wisely Canada - Antibiotics for Urinary Tract Infections in Older People](https://choosingwiselycanada.org/pamphlet/antibiotics-urinary-tract-infections/)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

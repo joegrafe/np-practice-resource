@@ -1,5 +1,3 @@
-@AGENTS.md
-
 ## NPPR build work
 
 Before any NPPR build step, read NPPR-FRAMEWORK.md at the root of this vault. It holds the site structure, the page standard and the step-by-step build prompts. Follow these rules:

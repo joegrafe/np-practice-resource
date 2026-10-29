@@ -220,8 +220,4 @@ sources:
 - [Canadian Heart Failure Society - How to manage your heart failure medication on sick days (PDF)](https://heartfailure.ca/sites/default/files/sick_days_hf_tool_021221.pdf)
 - [Heart & Stroke - Heart failure](https://www.heartandstroke.ca/heart-disease/conditions/heart-failure)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

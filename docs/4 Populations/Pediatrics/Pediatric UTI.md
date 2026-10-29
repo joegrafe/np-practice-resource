@@ -126,8 +126,4 @@ sources:
 - [TREKK - Did You Know Babies and Children Can Get Urinary Tract Infections? (infographic)](https://trekk.ca/resources/infographic-did-you-know-babies-and-children-can-get-urinary-tract-infections/)
 - [TREKK - Did You Know Babies and Children Can Get Urinary Tract Infections? (video)](https://trekk.ca/resources/video-did-you-know-babies-and-children-can-get-urinary-tract-infections/)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

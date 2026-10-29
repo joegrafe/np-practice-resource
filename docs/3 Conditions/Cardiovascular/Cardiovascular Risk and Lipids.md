@@ -198,8 +198,4 @@ sources:
 - [Heart & Stroke - Managing cholesterol](https://www.heartandstroke.ca/heart-disease/risk-and-prevention/condition-risk-factors/managing-cholesterol)
 - [Heart & Stroke - How to manage your cholesterol](https://www.heartandstroke.ca/heart-disease/risk-and-prevention/condition-risk-factors/managing-cholesterol#:~:text=cholesterol%20management%20guide) · [PDF](https://www.heartandstroke.ca/-/media/pdf-files/canada/heart/how-to-manage-your-cholesterol-en.pdf)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

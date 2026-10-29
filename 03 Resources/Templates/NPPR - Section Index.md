@@ -7,8 +7,6 @@ status: draft
 last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
 review-due: <% tp.date.now("YYYY-MM-DD", 365) %>
 reviewers: []
-hide:
-  - comments
 ---
 <!-- Section buttons are added automatically by the website build on top-level section pages.
      Edit them in nppr-website-config/overrides/partials/section-nav.html.

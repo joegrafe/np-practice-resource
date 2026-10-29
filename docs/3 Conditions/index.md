@@ -4,8 +4,6 @@ tags:
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
 status:
-hide:
-  - comments
 ---
 
 <div class="nppr-filter nppr-filter--pages nppr-filter--conditions" data-placeholder="Search all conditions, e.g. inhaler or metformin"></div>
@@ -24,7 +22,7 @@ hide:
 
 -   :material-diabetes:{ .nppr-icon } [**Endocrine and Metabolic**](Endocrine%20and%20Metabolic/index.md)
 
-    Type 2 diabetes, thyroid disease and electrolyte disorders.
+    Type 2 diabetes, obesity, thyroid disease and electrolyte disorders.
 
 -   :material-water-outline:{ .nppr-icon } [**Renal and Genitourinary**](Renal%20and%20Genitourinary/index.md)
 

@@ -960,7 +960,3 @@ sources:
 - [Arthritis Society Canada - Psoriatic Arthritis](https://arthritis.ca/about-arthritis/arthritis-types/psoriatic-arthritis/)
 - [RheumInfo - Psoriatic Arthritis](https://rheuminfo.com/diseases/psoriatic-arthritis/)
 - [American Family Physician - Psoriasis Patient Handout (2023)](https://www.aafp.org/pubs/afp/issues/2023/1200/patient-information-psoriasis.html) — *international (American)*
-
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*

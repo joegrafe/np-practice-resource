@@ -382,8 +382,4 @@ sources:
 - [Canadian Lung Association - COPD](https://www.lung.ca/lung-diseases/copd/)
 - [Lung Health Foundation - COPD](https://lunghealth.ca/lung-disease/copd/)
 
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*
-
 ---

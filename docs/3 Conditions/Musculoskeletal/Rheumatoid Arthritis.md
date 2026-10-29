@@ -560,7 +560,3 @@ sources:
 - [RheumInfo - Medication Information](https://rheuminfo.com/medications/) — *drug information pages for DMARDs, biologics and steroids*
 - [Arthritis Society Canada - Rheumatoid Arthritis](https://arthritis.ca/about-arthritis/arthritis-types-(a-z)/types/rheumatoid-arthritis)
 - [Arthritis Research Canada - Arthritis Research Education Series](https://www.arthritisresearch.ca/education-series/) — *recorded patient talks*
-
-## Evidence Pack
-
-*Pending: generated from the sources list in a later build step.*

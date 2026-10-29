@@ -3,8 +3,6 @@ title: Renal and Genitourinary
 description: "Renal and Genitourinary conditions for nurse practitioners: acute kidney injury, chronic kidney disease and urinary tract infection."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-hide:
-  - comments
 ---
 
 ## In This Section
