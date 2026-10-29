@@ -5,10 +5,10 @@ system: infectious-disease
 tags: [condition, infectious-disease, respiratory-tract-infection, urgent-care, adults, cough, sore-throat, fever]
 jurisdiction: [BC, CA, INTL]
 aliases: [RTI, URTI, upper respiratory tract infection, LRTI, common cold, cold, sore throat, pharyngitis, strep throat, tonsillitis, sinusitis, rhinosinusitis, acute bronchitis, chest cold, pneumonia, CAP, community-acquired pneumonia, influenza, flu, COVID-19, cough, antibiotics, amoxicillin, doxycycline, oseltamivir, Tamiflu, McIsaac, Centor, CURB-65, Firstline]
-status: review
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bugs-and-drugs
     title: "Bugs & Drugs: Antimicrobial Therapy Guide"
@@ -142,7 +142,7 @@ sources:
     url: "https://www.mdcalc.com/calc/324/curb-65-score-pneumonia-severity"
     checked: 2026-10-29
 ---
-<!-- status: review. New page for Joe's review (Conditions wave 1, 2026-10-29). Adults; pediatric croup, bronchiolitis and fever pages belong under Populations > Pediatrics; ear infections go under Eyes, Ears, Nose and Throat.
+<!-- Reviewed and published by Joe 2026-10-29 (Conditions wave 1, 2026-10-29). Adults; pediatric croup, bronchiolitis and fever pages belong under Populations > Pediatrics; ear infections go under Eyes, Ears, Nose and Throat.
      No BC or Canadian source: BC Guidelines have no respiratory tract infection guideline; no current Canadian community-acquired pneumonia guideline (the Firstline guidance covers empiric treatment).
      Unconfirmed because the session's network or the site blocks checks: firstline.org, dobugsneeddrugs.org, cfp.ca (title from the Approaches sheet), aacijournal.biomedcentral.com (PMID 21310056), jammi.utpjournals.press (PMID 42131379), choosingwiselycanada.org, MDCalc McIsaac and CURB-65 pages. Bugs & Drugs answers but its pages are drawn by script.
      Left out: AAFP Streptococcal Pharyngitis (2024) and Acute Bronchitis (2025) rapid evidence reviews (AAFP members only); older AMMI influenza antiviral guidance (replaced by the 2025-26 update).
