@@ -387,6 +387,14 @@ sources:
     url: https://www.cdc.gov/std/treatment-guidelines/default.htm
     pdf: https://www.cdc.gov/std/treatment-guidelines/STI-Guidelines-2021.pdf
     checked: 2026-10-15
+  - id: pathways-hiv-prep
+    title: "Pathways BC: HIV Pre-exposure Prophylaxis (PrEP) Care Pathway"
+    publisher: Pathways BC
+    jurisdiction: BC
+    kind: pathway
+    version: "2026-09-16"
+    url: "https://pathwaysbc.ca/ci/10546"
+    checked: 2026-10-29
 ---
 <!-- status: review. Set status to published after opening every link.
      Unconfirmed on 2026-10-15 (sites block automated checks): getcheckedonline, smart-sex-resource, cmaj-hiv-prep-pep-2025 and cfp-approach-sti-testing-msm-2024 (confirmed through PubMed); the canada.ca and CDC pages were confirmed with a fetch tool.
@@ -470,6 +478,7 @@ sources:
 
 ## Algorithms and Pathways
 
+- [Pathways BC: HIV Pre-exposure Prophylaxis (PrEP) Care Pathway (2026)](https://pathwaysbc.ca/ci/10546) — *BC enhanced care pathway for starting and following PrEP in primary care*
 - [BCCDC Syphilis Toolkit](https://www.bccdc.ca/health-professionals/clinical-resources/syphilis-toolkit) — *BC syphilis handbook, serology and treatment resources*
 - [University of Calgary Black Book: Genital Lesion (2025)](https://blackbook.ucalgary.ca/schemes/dermatologic/genital-lesion/) — *diagnostic approach scheme*
 - [University of Calgary Black Book: Skin Ulcer by Location, Genitals (2021)](https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-location-genitals/) — *diagnostic approach scheme*

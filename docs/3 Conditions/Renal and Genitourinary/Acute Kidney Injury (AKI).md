@@ -25,11 +25,21 @@ sources:
     version: "2012"
     url: "https://kdigo.org/guidelines/acute-kidney-injury/"
     checked: 2026-10-09
+  - id: pathways-aki
+    title: "Pathways BC: Acute Kidney Injury Care Pathway"
+    publisher: Pathways BC
+    jurisdiction: BC
+    kind: pathway
+    version: "2026-07-24"
+    url: "https://pathwaysbc.ca/ci/9900"
+    checked: 2026-10-29
 ---
 ## Canadian Guidelines
 
 [BC Renal: Acute Kidney Injury](https://www.bcrenal.ca/health-professionals/clinical-resources/acute-kidney-injury)
 ## Practice Resources
+
+[Pathways BC: Acute Kidney Injury Care Pathway (2026)](https://pathwaysbc.ca/ci/9900) — *BC enhanced care pathway*
 
 [KDIGO Acute Kidney Injury (AKI) and Acute Kidney Disease (AKD)](https://kdigo.org/guidelines/acute-kidney-injury/)
 ## Assessments, Calculators, and Tools
