@@ -310,76 +310,8 @@ sources:
 <!-- GOLD (international) is left out because Canadian guidance exists.
      Link to the source guidance; don't restate its recommendations. -->
 
-## Key Sources
-
-??? info "[BC Guidelines - Chronic Obstructive Pulmonary Disease (COPD): Diagnosis and Management (2024, revised 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd)"
-	- [Key Recommendations](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#KeyRecommendations)  
-	- [Diagnosis](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#diagnosis)  
-	- [Management](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#management)  
-	- [Table 1: Antibiotic Treatment Recommendations for Acute Exacerbations of COPD](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#table-1)  
-	- [Environmental Impact and Climate Change](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#environment)  
-	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_guideline_complete.pdf)  
-
-??? info "[2023 Canadian Thoracic Society Guideline on Pharmacotherapy in Patients with Stable COPD (2023)](https://doi.org/10.1080/24745332.2023.2231451)"
-	*Canadian Journal of Respiratory, Critical Care, and Sleep Medicine.*  
-	- [Full Guideline (PDF, CTS)](https://cts-sct.ca/wp-content/uploads/2023/09/2023-CTS-COPD-Pharmacotherapy-Guideline-1.pdf)  
-	- [CTS Guideline Library](https://cts-sct.ca/guideline-library/)  
-
-## Further Resources
-
-??? info "[CTS Guideline: Alpha-1-Antitrypsin Deficiency Targeted Testing and Augmentation Therapy (2025)](https://doi.org/10.1080/24745332.2024.2443178)"
-	*Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Listed as current in the CTS Guideline Library.*  
-
-## Algorithms and Pathways
-
-- [Alberta's Pathway Hub: Chronic Obstructive Pulmonary Disease (COPD) (Primary Care Alberta, 2025)](https://www.primarycarealberta.ca/pathways/424/clinical) — *Alberta referral guideline last updated May 1, 2025; choose "All" when the hub asks for an area*
-- [Alberta's Pathway Hub: Lung Testing for Ages 6 and Above (Primary Care Alberta, 2024)](https://www.primarycarealberta.ca/pathways/436/clinical) — *clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024)*
-
-## Assessment Tools and Calculators
-
-- [MDCalc - COPD Assessment Test (CAT)](https://www.mdcalc.com/calc/10161/copd-assessment-test-cat) — *symptom burden*
-- [MDCalc - mMRC Dyspnea Scale](https://www.mdcalc.com/calc/4006/mmrc-modified-medical-research-council-dyspnea-scale) — *breathlessness grade*
-- [MDCalc - BODE Index for COPD Survival](https://www.mdcalc.com/calc/3916/bode-index-copd-survival) — *prognosis*
-- [BC Guidelines: COPD Appendix A - COPD Severity Assessment Scales (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_a.pdf)
-- [COPD Patient Care Flow Sheet (HLTH 6003, rev. 2024/01/15)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/forms/6003fil.pdf)
-- [BC Guidelines: COPD Appendix C - BC Home Oxygen Program Medical Eligibility (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_c.pdf)
-- [BC Inhalers (Fraser Health)](https://www.bcinhalers.ca/) — *inhaler guide for asthma and COPD: filter by PharmaCare coverage without Special Authority, carbon footprint and age, with device instructions*
-
-## Prescribing
-
-- [BC Guidelines: COPD Appendix B - COPD Medication Table (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd_appendix_b.pdf)
-- [PharmaCare Smoking Cessation Program: Information for Health Professionals (last updated September 9, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/pharmacies/smoking-cessation-program-for-health-professionals)
-- [RxFiles: COPD](https://www.rxfiles.ca/rxfiles/uploads/documents/books/copd.html) — *drug comparison chart, newsletter and inhaler technique tools; some documents need an RxFiles subscription*
-
-??? info "PharmaCare Special Authority: criteria and request forms"
-	- Criteria for COPD inhalers:
-	    - [Aclidinium (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-aclidinium)
-	    - [Glycopyrronium (last updated March 18, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-glycopyrronium)
-	    - [Aclidinium-formoterol (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-aclidinium-formoterol)
-	    - [Glycopyrronium-indacaterol (last updated March 18, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/glycopyrronium-indacaterol)
-	    - [Tiotropium-olodaterol (last updated March 24, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-tiotropium-olodaterol)
-	    - [Umeclidinium-vilanterol (last updated March 24, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-umeclidinium-vilanterol)
-	    - [Budesonide-glycopyrronium-formoterol (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-budesonide-glycopyrronium-formoterol)
-	    - [Fluticasone furoate-umeclidinium-vilanterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-furoate-umeclidinium-vilanterol)
-	    - [Fluticasone propionate-salmeterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-propionate-salmeterol)
-	    - [Fluticasone furoate-vilanterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-furoate-vilanterol)
-	    - [Salmeterol (last updated March 21, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-salmeterol)
-	- [PharmaCare Special Authority Request: Inhalers for COPD (HLTH 5362, rev. 2025/05/05)](https://www2.gov.bc.ca/assets/gov/health/forms/5362fil.pdf)
-
-## Advice and Referral
-
-- [BC Guidelines: Indications for Referral](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#indications)
-- [Regional Respirology Referral Form (VCH/PHC, version 2021 Dec 1)](https://centreforlunghealth.ca/appointments/#:~:text=referral%20form) · [PDF](https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf) — *includes the COPD clinic at the Centre for Lung Health*
-- [BC Lung Foundation: Exercise Support and Pulmonary Rehab Programs in BC](https://bclung.ca/lung-health/copd/exercise-support/)
-- [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
-
-## Patient Resources
-
-- [COPD Flare-Up Action Plan (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd-flare-upactionplan.pdf)
-- [Patient Handout: Climate Events and COPD Exacerbations (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/copd-patienthandout-climateevents.pdf)
-- [HealthLink BC - Chronic Obstructive Pulmonary Disease (COPD)](https://www.healthlinkbc.ca/health-library/illnesses-and-conditions/copd)
-- [BC Lung Foundation - COPD](https://bclung.ca/lung-health/copd/) — *support groups, self-care videos and exercise support*
-- [Canadian Lung Association - COPD](https://www.lung.ca/lung-diseases/copd/)
-- [Lung Health Foundation - COPD](https://lunghealth.ca/lung-disease/copd/)
+<!-- The page's sections live in Chronic Obstructive Pulmonary Disease (COPD).csv beside this page, one row per line; the site build writes them in here.
+     Edit the sheet, not this page, to change a link. Column guide: NPPR-FRAMEWORK.md, Page standard, List sheets. -->
+<!-- nppr-list: Chronic Obstructive Pulmonary Disease (COPD).csv style=condition -->
 
 ---

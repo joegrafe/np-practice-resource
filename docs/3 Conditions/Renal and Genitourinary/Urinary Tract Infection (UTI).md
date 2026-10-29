@@ -166,52 +166,8 @@ sources:
 
 *For infants and children, including the Canadian Paediatric Society statement, TREKK, CHARLiE and BC Children's Hospital referral, see [Pediatric UTI](../../4%20Populations/Pediatrics/Pediatric%20UTI.md).*
 
-## Key Sources
-
-??? info "[BCCDC Certified Decision Support Tool: Uncomplicated Lower UTI (2026)](https://www.bccdc.ca/health-professionals/clinical-resources/sti-certified-practice#:~:text=Uncomplicated%20Lower%20UTI)"
-	*BC Centre for Disease Control, June 2026. Written for certified-practice RNs managing uncomplicated lower UTI in sexually active people with vulvar/vaginal anatomy.* · [PDF](https://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/STI/Med%20Handouts/Care%20and%20Treatment%20Plan%20-%20UTI.pdf)  
-
-??? info "American Family Physician rapid evidence reviews (AAFP, United States)"
-	*International source: American guidance, not Canadian.*  
-	- [Acute Uncomplicated UTIs in Adults: Rapid Evidence Review (2024)](https://www.aafp.org/afp/2024/0200/acute-uncomplicated-utis-adults)  
-	- [Acute Pyelonephritis in Adults: Rapid Evidence Review (2020)](https://www.aafp.org/afp/2020/0801/p173)  
-
-## Further Resources
-
-??? info "[Recurrent Uncomplicated UTIs in Women: AUA/CUA/SUFU Guideline (2019, amended 2025)](https://www.auanet.org/guidelines-and-quality/guidelines/recurrent-uti)"
-	*Joint guideline of the American Urological Association, the Canadian Urological Association and SUFU.*  
-
-??? info "Asymptomatic bacteriuria"
-	- [AMMI Canada position statement on asymptomatic bacteriuria (2018)](https://doi.org/10.3138/jammi.3.1.02) — *JAMMI 2018;3(1)*  
-	- [Canadian Task Force on Preventive Health Care: Asymptomatic Bacteriuria in Pregnancy (2018)](https://canadiantaskforce.ca/guidelines/published-guidelines/asymptomatic-bacteriuria/)  
-
-??? info "Tools for Practice (CFPCLearn) evidence summaries"
-	- [#337 Clear, not cloudy: Antibiotic options for uncomplicated UTIs (2023)](https://cfpclearn.ca/tfp337/)  
-	- [#335 Asymptomatic bacteriuria in the elderly: Don't drug the bugs? (2023)](https://cfpclearn.ca/tfp335/)  
-	- [#270 Burning Evidence for Fosfomycin in Cystitis (2020)](https://cfpclearn.ca/tfp270/)  
-
-## Algorithms and Pathways
-
-- [Alberta's Pathway Hub: Urinary Tract Infections (UTI Recurrent) (Primary Care Alberta, 2026)](https://www.primarycarealberta.ca/pathways/394/clinical) — *Alberta referral guideline; choose "All" when the hub asks for an area*
-
-## Assessment Tools and Calculators
-
-*No UTI-specific calculator found on MDCalc or a BC or Canadian site.*
-
-## Prescribing
-
-- [Bugs & Drugs (Alberta Health Services)](https://www.bugsanddrugs.org/) — *antimicrobial treatment reference that the BC Guidelines point to for antimicrobial use; see Treatment Recommendations, Urinary Tract; free website and app*
-- [PACE: Avoid Fluoroquinolones as First-Line Treatment (BC PACE, 2020)](https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship#:~:text=Avoid%20Fluoroquinolones%20as%20First%20Line%20Therapy) · [PDF](https://www.bccdc.ca/Documents/Fluoroquinolones%20-%20Avoid%20as%20first-line%20treatment.pdf) — *BC antimicrobial stewardship message*
-- [RxFiles ABX-2: Uncomplicated Cystitis & Skin and Soft Tissue Infections (2017)](https://www.rxfiles.ca/rxfiles/uploads/documents/books/newsletters.html#:~:text=Antibiotics%3A%20Part%202) · [PDF](https://www.rxfiles.ca/RxFiles/uploads/documents/ABX-2-Newsletter-Cystitis-and-SSTI.pdf) — *newsletter*
-
-## Advice and Referral
-
-- [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
-- [PharmaCare: Minor Ailments and Contraception Service (MACS)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/initiatives/ppmac) — *BC community pharmacists can assess and prescribe for uncomplicated UTI*
-
-## Patient Resources
-
-- [HealthLink BC - Urinary Tract Infections in Teenagers and Adults](https://www.healthlinkbc.ca/healthwise/urinary-tract-infections-teenagers-and-adults)
-- [Choosing Wisely Canada - Antibiotics for Urinary Tract Infections in Older People](https://choosingwiselycanada.org/pamphlet/antibiotics-urinary-tract-infections/)
+<!-- The page's sections live in Urinary Tract Infection (UTI).csv beside this page, one row per line; the site build writes them in here.
+     Edit the sheet, not this page, to change a link. Column guide: NPPR-FRAMEWORK.md, Page standard, List sheets. -->
+<!-- nppr-list: Urinary Tract Infection (UTI).csv style=condition -->
 
 ---
