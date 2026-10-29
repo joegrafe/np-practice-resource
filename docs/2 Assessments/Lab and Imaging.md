@@ -2,7 +2,7 @@
 title: Lab and Imaging
 type: assessment
 tags: [assessment, lab-tests, imaging]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-27
 review-due: 2027-10-27

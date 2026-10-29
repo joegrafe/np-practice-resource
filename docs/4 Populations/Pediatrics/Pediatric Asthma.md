@@ -2,7 +2,7 @@
 title: Pediatric Asthma
 type: population
 tags: [population, pediatrics, asthma, respiratory, wheeze]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-16
 review-due: 2027-10-16
