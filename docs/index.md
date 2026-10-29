@@ -4,7 +4,7 @@ section_nav: false
 ---
 # Nurse Practitioner Practice Resource
 
-<p class="nppr-hero">A free, curated index of current BC and Canadian practice sources for nurse practitioners, with a review date on every page.</p>
+<p class="nppr-hero">A free, curated index of current BC and Canadian practice sources for nurse practitioners.</p>
 
 <div class="grid cards nppr-cards" markdown>
 
