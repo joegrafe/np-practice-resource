@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """Check every external link in docs/ and write a Markdown report.
 
-Usage: python3 scripts/check_links.py [docs_dir] [report.md]
+Usage: python3 scripts/check_links.py [docs_dir] [report.md] [--added <git ref>]
 Checks the links in every page and in the list spreadsheets (.csv) beside them.
+--added <ref> checks only the links on lines added since that git ref (the pull
+request check), and prints broken links as GitHub Actions warnings.
 
 Report sections:
   Broken      - 404/410, other 4xx/5xx, DNS or connection failures
@@ -19,14 +21,21 @@ import concurrent.futures
 import csv
 import datetime
 import pathlib
+import os
 import re
+import subprocess
 import sys
 import urllib.error
 import urllib.parse
 import urllib.request
 
-DOCS = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else "docs")
-REPORT = pathlib.Path(sys.argv[2] if len(sys.argv) > 2 else "link-report.md")
+ARGS = sys.argv[1:]
+ADDED = None
+if "--added" in ARGS:
+    i = ARGS.index("--added")
+    ADDED, ARGS = ARGS[i + 1], ARGS[:i] + ARGS[i + 2:]
+DOCS = pathlib.Path(ARGS[0] if ARGS else "docs")
+REPORT = pathlib.Path(ARGS[1] if len(ARGS) > 1 else "link-report.md")
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36 NPPR-link-check")
 TIMEOUT = 25
@@ -82,6 +91,22 @@ def find_links():
                         if urllib.parse.urlsplit(url).hostname not in SKIP_HOSTS:
                             links.setdefault(url, []).append(f"{rel}:{n}")
     return links
+
+
+def added_urls(ref):
+    """URLs on lines added to docs/ since git ref."""
+    diff = subprocess.run(["git", "diff", "--unified=0", f"{ref}...HEAD", "--", str(DOCS)],
+                          capture_output=True, text=True, check=True).stdout
+    urls = set()
+    for line in diff.splitlines():
+        if not line.startswith("+") or line.startswith("+++"):
+            continue
+        line = line[1:]
+        found = list(markdown_targets(line))
+        found += [next(g for g in m.groups() if g) for m in TAG_RE.finditer(line)]
+        found += re.findall(r"https?://[^\s,\"'<>]+", line) if not found else []
+        urls.update(u.rstrip(".,;") for u in found)
+    return urls
 
 
 class NoRedirect(urllib.request.HTTPRedirectHandler):
@@ -156,6 +181,9 @@ def check(url):
 
 def main():
     links = find_links()
+    if ADDED:
+        new = added_urls(ADDED)
+        links = {u: w for u, w in links.items() if u in new}
     with concurrent.futures.ThreadPoolExecutor(max_workers=12) as pool:
         results = dict(zip(links, pool.map(check, links)))
     groups = {k: [] for k in ("broken", "redirected", "blocked", "ok")}
@@ -163,7 +191,8 @@ def main():
         groups[status].append((url, detail, target, links[url]))
 
     today = datetime.date.today().isoformat()
-    out = [f"Link check run {today}: {len(links)} external links in `{DOCS}/`, "
+    what = "new external links in this change" if ADDED else f"external links in `{DOCS}/`"
+    out = [f"Link check run {today}: {len(links)} {what}, "
            f"{len(groups['broken'])} broken, {len(groups['redirected'])} redirected, "
            f"{len(groups['blocked'])} to check by hand.", ""]
 
@@ -185,6 +214,12 @@ def main():
     section("Check by hand", groups["blocked"], "The site refused an automated check. Open each in a browser.")
     REPORT.write_text("\n".join(out), encoding="utf-8")
     print(out[0])
+    if ADDED and os.environ.get("GITHUB_ACTIONS") == "true":
+        for status in ("broken", "redirected"):
+            for url, detail, target, where in groups[status]:
+                path, _, line = where[0].rpartition(":")
+                msg = f"{status.capitalize()} link: {url} ({detail})" + (f" now at {target}" if target else "")
+                print(f"::warning file={DOCS / path},line={line},title=link::{msg}")
 
 
 if __name__ == "__main__":
