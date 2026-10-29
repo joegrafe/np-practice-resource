@@ -3,10 +3,10 @@ title: Scope of Practice and Standards
 type: practice
 tags: [practice, scope, bccnm, standards]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "What BC nurse practitioners are authorized to do: the BCCNM practice and ethics standards that set NP scope since April 1, 2026, the legislation behind them and the national NP competencies."
 sources:
   # BC

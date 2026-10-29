@@ -3,10 +3,10 @@ title: Practice
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- Section buttons are added automatically by the website build on top-level section pages.
      Edit them in nppr-website-config/overrides/partials/section-nav.html.

@@ -3,10 +3,10 @@ title: Prescribing Authority
 type: practice
 tags: [practice, prescribing, bccnm, controlled-drugs, pharmanet, prime]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "The rules on what BC nurse practitioners may prescribe: BCCNM prescribing standards and limits, controlled drugs and the Controlled Prescription Program, PharmaNet and PRIME, medical cannabis and programs with their own education requirements."
 sources:
   # BC
