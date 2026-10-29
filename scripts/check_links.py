@@ -2,6 +2,7 @@
 """Check every external link in docs/ and write a Markdown report.
 
 Usage: python3 scripts/check_links.py [docs_dir] [report.md]
+Checks the links in every page and in the list spreadsheets (.csv) beside them.
 
 Report sections:
   Broken      - 404/410, other 4xx/5xx, DNS or connection failures
@@ -15,6 +16,7 @@ redirecting to a language or home path on the same site.
 Uses only the Python standard library. Always exits 0; the report is the result.
 """
 import concurrent.futures
+import csv
 import datetime
 import pathlib
 import re
@@ -68,6 +70,17 @@ def find_links():
                 if urllib.parse.urlsplit(url).hostname in SKIP_HOSTS:
                     continue
                 links.setdefault(url, []).append(f"{rel}:{n}")
+    # Page lists kept as spreadsheets beside the page (nppr-list marker).
+    for path in sorted(DOCS.rglob("*.csv")):
+        rel = path.relative_to(DOCS).as_posix()
+        with path.open(encoding="utf-8-sig", newline="") as fh:
+            for n, row in enumerate(csv.reader(fh), 1):
+                for cell in row:
+                    cell = cell.strip()
+                    found = [cell] if re.match(r"https?://\S+$", cell) else list(markdown_targets(cell))
+                    for url in found:
+                        if urllib.parse.urlsplit(url).hostname not in SKIP_HOSTS:
+                            links.setdefault(url, []).append(f"{rel}:{n}")
     return links
 
 

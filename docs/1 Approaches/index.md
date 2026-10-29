@@ -7,4 +7,4 @@ status:
 section_cards: true
 ---
 
-<div class="nppr-filter nppr-filter--pages" data-placeholder="Search all approaches, e.g. pain"></div>
+<div class="nppr-filter nppr-filter--pages" data-lists="../assets/lists.json" data-placeholder="Search all approaches, e.g. pain"></div>
