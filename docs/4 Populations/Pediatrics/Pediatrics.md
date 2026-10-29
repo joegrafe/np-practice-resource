@@ -4,10 +4,10 @@ type: population
 tags: [population, pediatrics, urgent-care]
 redirect_from: [populations/canadian-paediatric-society, populations/rourke-baby-record]  # stubs folded in 2026-10-29
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: chbc-clinician-resources
     title: Clinician Resources
@@ -261,7 +261,7 @@ sources:
     url: "https://www.mdcalc.com/calc/4052/aap-pediatric-hypertension-guidelines"
     checked: 2026-10-09
 ---
-<!-- status: review (Populations wave 1, 2026-10-29). Every section lives in Pediatrics.csv beside this page.
+<!-- Populations wave 1, reviewed and published by Joe 2026-10-29. Every section lives in Pediatrics.csv beside this page.
      Folded in: the Canadian Paediatric Society and Rourke Baby Record stub pages (their addresses redirect here).
      Greig Health Record and developmental screening stay on Assessments > Preventive Care and Cancer Screening, and immunization on Prescribing > Immunization (topic ownership); this page links them.
      Pediatric croup, bronchiolitis, fever in young infants and gastroenteritis pages are later Populations waves; Child Health BC's topic pages stand in for now.

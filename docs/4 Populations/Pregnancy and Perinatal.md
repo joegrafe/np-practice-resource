@@ -3,10 +3,10 @@ title: Pregnancy and Perinatal
 type: population
 tags: [population, pregnancy-and-perinatal]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: psbc-hub-541
     title: "Prenatal Primary Care"
@@ -366,7 +366,7 @@ sources:
     url: "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
     checked: 2026-10-29
 ---
-<!-- status: review (Populations wave 1, 2026-10-29). Every section lives in Pregnancy and Perinatal.csv beside this page.
+<!-- Populations wave 1, reviewed and published by Joe 2026-10-29. Every section lives in Pregnancy and Perinatal.csv beside this page.
      Perinatal Services BC moved its health professional guidance to the Perinatal and Newborn Health Hub (psbchealthhub.ca); each Hub topic is linked with the year of its "Last revision" date (checked 2026-10-29).
      Unconfirmed: jogc.com (SOGC guidelines) and ncbi.nlm.nih.gov (LactMed) block automated checks; MotherToBaby and e-lactancia could not be reached and are left out.
      Removed: Tools for Practice #148 (2015, metformin for gestational diabetes), which predates Diabetes Canada's 2018 pregnancy chapter.
