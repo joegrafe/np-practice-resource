@@ -414,7 +414,7 @@ sources:
     - [Ages 6 to 9 (PDF)](https://cps.ca/uploads/tools/2016-GHR-Ages-6-to-9.pdf)
     - [Ages 10 to 13 (PDF)](https://cps.ca/uploads/tools/2016-GHR-Ages-10-to-13.pdf)
     - [Ages 14 to 17 (PDF)](https://cps.ca/uploads/tools/2016-GHR-Ages-14-to-17.pdf)
-- [Rourke Baby Record](../4%20Populations/Pediatrics/Rourke%20Baby%20Record.md) — *well-baby and well-child visits from birth to 5 years, on its own page under Pediatrics*
+- [Pediatrics: Well-Child Care](../4%20Populations/Pediatrics/Pediatrics.md#well-child-care) — *the Rourke Baby Record for well-baby and well-child visits from birth to 5 years*
 
 ## Cancer Screening
 
