@@ -147,7 +147,7 @@ sources:
      BCCNM converted its Scope of Practice for NPs document into practice and ethics standards in 2026;
      every standard here was approved by the board in early 2026 and is a bylaw under HPOA from April 1, 2026.
      Topic ownership (NPPR-FRAMEWORK.md): the two prescribing standards live on Prescribing Authority;
-     documentation and privacy will get their own Practice page in wave 2. -->
+     documentation and privacy have their own page, Documentation, Privacy and Records (wave 2). -->
 *What BC nurse practitioners are authorized to do. Since April 1, 2026, NP scope is set by BCCNM practice and ethics standards, which are bylaws under the Health Professions and Occupations Act; BCCNM's earlier Scope of Practice for NPs document was converted into these standards.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. capacity"></div>
@@ -182,10 +182,10 @@ sources:
 
 - [Nurses: Consent (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/consent.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_Consent.pdf)
 - [Nurses: Delegation to Unregulated Care Providers (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/delegation.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_Delegation.pdf) — *new in 2026*
-- [Nurses: Documentation (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/documentation.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_Documentation.pdf)
+- [Nurses: Documentation (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/documentation.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_Documentation.pdf) — *more on [Documentation, Privacy and Records](Documentation%20Privacy%20and%20Records.md)*
 - [Nurses: Medication (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/Medication.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_Medication.pdf)
 - [Nurses: Preventing Transmission of Communicable Diseases (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/communicablediseases.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_CommunicableDiseases.pdf) — *new in 2026*
-- [Nurses: Privacy and Confidentiality (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/privacyconfidentiality.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_PrivacyConfidentiality.pdf)
+- [Nurses: Privacy and Confidentiality (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/privacyconfidentiality.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_PrivacyConfidentiality.pdf) — *more on [Documentation, Privacy and Records](Documentation%20Privacy%20and%20Records.md)*
 - [Nurses: Regulatory Supervision of Students (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/regulatorysupervision.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_RegulatorySupervisionStudents.pdf)
 - [Nurses: Use of Title (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/titles.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_UseOfTitle.pdf)
 
@@ -201,6 +201,7 @@ sources:
 - [CCRNR - Nurse Practitioner Entry-Level Competencies, adopted by BCCNM (updated October 2026) (PDF)](https://www.bccnm.ca/Documents/competencies_requisite_skills/NP_Entry_Level_Competencies.pdf) — *revised in January 2024 to cover clients of all ages and settings*
 - [BCCNM - NP Regulation Framework project](https://www.bccnm.ca/NP/NPR_FIPP/Pages/Default.aspx) — *national move to one general NP class and the Canadian NP Licensure Exam (from September 2026); current NPs need no retraining*
     - [BCCNM - Changes to nurse practitioner licensure in BC (October 6, 2026)](https://www.bccnm.ca/BCCNM/Announcements/Pages/Announcement.aspx?AnnouncementID=670) — *the directory lists all NPs as "practising NP"; streams no longer needed in titles*
+- Applying for and renewing an NP licence — *on [Registration and Licensure](Registration%20and%20Licensure.md)*
 
 ## How to Do It in BC
 
