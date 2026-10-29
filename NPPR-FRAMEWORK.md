@@ -277,7 +277,7 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 
 - [x] Hypertension
 - [x] Type 2 diabetes
-- [ ] Chronic kidney disease (Renal and Genitourinary)
+- [x] Chronic kidney disease (Renal and Genitourinary)
 - [ ] Acute kidney injury (Renal and Genitourinary)
 - [x] Cardiovascular risk and lipids
 - [x] Heart failure
