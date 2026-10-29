@@ -105,6 +105,7 @@ Condition pages use one of these `system` slugs, which match the Conditions sub-
 | NPPR - Condition | `condition` |
 | NPPR - Population | `population` |
 | NPPR - Practice | `practice` |
-| NPPR - Resource | `resource` (change to `prescribing` for pages in the Prescribing section) |
+| NPPR - Prescribing | `prescribing` |
+| NPPR - Resource | `resource` |
 | NPPR - Section Index | `index` |
 | NPPR - About Page | `about` |

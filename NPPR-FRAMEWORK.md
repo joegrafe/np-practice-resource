@@ -156,7 +156,7 @@ Before writing or reviewing any page, check every site in the "All topics" row a
 | Trans and gender-affirming care | Trans Care BC (transcarebc.ca) | WPATH (international) | none listed yet | Trans Care BC |
 | Rural and remote | BC Rural Health Network (bcruralhealth.org), RACE, Pathways, RCCbc Real-Time Virtual Support (rccbc.ca/rtvs: RUDi, CHARLiE, MaBAL) | Canadian Journal of Rural Medicine (cjrm.srpc.ca) | none listed yet | none listed yet |
 | Pain | Pain BC (painbc.ca), BC Guidelines (chronic pain) | Pain Canada, PEER simplified chronic pain guideline | none listed yet | Pain BC |
-| Prescribing | PharmaCare and Special Authority (gov.bc.ca), BCCNM prescribing standards, Therapeutics Initiative (ti.ubc.ca) | RxFiles, CPS (pharmacists.ca), Bugs & Drugs, Firstline, deprescribing.org | MDCalc | none listed yet |
+| Prescribing | PharmaCare and Special Authority (gov.bc.ca), BCCNM prescribing standards, Therapeutics Initiative (ti.ubc.ca), Provincial Academic Detailing (gov.bc.ca), BCCSU, BCCDC, ImmunizeBC, FNHA | RxFiles, CPS (pharmacists.ca), Health Canada (Drug Product Database, MedEffect, drug shortages), ISMP Canada, CDA-AMC, Bugs & Drugs, Firstline, deprescribing.org, Canadian Deprescribing Network; WHO Guide to Good Prescribing (international) | MDCalc (Cockcroft-Gault) | PharmaCare information sheets, Ottawa Patient Decision Aids |
 | NP practice and scope | BCCNM (bccnm.ca), NNPBC (nnpbc.com), Ministry of Health (PRIME, PharmaNet, MSP), RoadSafetyBC, WorkSafeBC, OIPC BC (oipc.bc.ca), BCCSU and Pain BC ECHO communities of practice | Nurse Practitioner Association of Canada (npac-aiipc.org), CNPS (cnps.ca), NP Circle (npcircle.ca) | none listed yet | none listed yet |
 
 ## Loading guidelines into AI tools
@@ -358,7 +358,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 
 **Build order across tabs.** No more than two section PRs open at once, on top of the daily routine's limit of two condition pages awaiting review. Conditions continue through the routine throughout.
 
-1. Stage A: settle each section plan's open decisions; add a Prescribing template to the templates.
+1. Stage A: settle each section plan's open decisions; add a Prescribing template to the templates. *(Prescribing template added 2026-10-27.)*
 2. Stage B: Practice wave 1 · Prescribing wave 1 · Assessments wave 1 · Populations wave 1 · Resources wave 1 · Tools wave 1 (AI Tools and step 3.3 llms.txt). Then run step 2.4 on Populations and Resources.
 3. Stage C: Prescribing wave 2 · Practice wave 2 · Assessments waves 2 and 3 · Populations wave 2 · Approaches wave 1.
 4. Stage D: Prescribing wave 3 · Practice wave 3 · Assessments waves 4 and 5 · Populations wave 3 · Resources wave 2 · Approaches waves 2 and 3 · About pages. This completes the phase 2 gate.
