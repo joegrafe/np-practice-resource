@@ -1,13 +1,110 @@
 ---
 title: Pediatrics
 type: population
-tags: [population, pediatrics]
+tags: [population, pediatrics, urgent-care]
+redirect_from: [populations/canadian-paediatric-society, populations/rourke-baby-record]  # stubs folded in 2026-10-29
 jurisdiction: [BC, CA, INTL]
 status: published
-last-reviewed: 2026-10-10
-review-due: 2027-10-10
+last-reviewed: 2026-10-29
+review-due: 2027-10-29
 reviewers: [joegrafe]
 sources:
+  - id: chbc-clinician-resources
+    title: Clinician Resources
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://childhealthbc.ca/clinician-resources/resource-search"
+    checked: 2026-10-29
+  - id: chbc-in-a-hurry
+    title: Resources in a Hurry
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://childhealthbc.ca/pcc/hurry"
+    checked: 2026-10-29
+  - id: chbc-pews
+    title: Pediatric Early Warning System (PEWS)
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://childhealthbc.ca/clinician-resources/pediatric-early-warning-system-pews"
+    checked: 2026-10-29
+  - id: chbc-bronchiolitis
+    title: Bronchiolitis
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: guideline
+    version:
+    url: "https://childhealthbc.ca/clinician-resources/bronchiolitis"
+    checked: 2026-10-29
+  - id: chbc-croup
+    title: Croup
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: guideline
+    version:
+    url: "https://childhealthbc.ca/clinician-resources/croup"
+    checked: 2026-10-29
+  - id: chbc-sepsis
+    title: Sepsis
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: guideline
+    version:
+    url: "https://childhealthbc.ca/clinician-resources/sepsis"
+    checked: 2026-10-29
+  - id: chbc-mental-health
+    title: Mental Health
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://childhealthbc.ca/clinician-resources/mental-health"
+    checked: 2026-10-29
+  - id: chbc-substance-use
+    title: Substance Use
+    publisher: Child Health BC
+    jurisdiction: BC
+    kind: guideline
+    version:
+    url: "https://childhealthbc.ca/clinician-resources/substance_use"
+    checked: 2026-10-29
+  - id: foundry-bc
+    title: Health Professionals and Educators
+    publisher: Foundry BC
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://foundrybc.ca/health-professionals-educators/"
+    checked: 2026-10-29
+  - id: race
+    title: RACE - Rapid Access to Consultative Expertise
+    publisher: RACE
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://www.raceconnect.ca/"
+    checked: 2026-10-29
+  - id: healthlinkbc-parenting
+    title: Parenting
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.healthlinkbc.ca/living-well/parenting"
+    checked: 2026-10-29
+  - id: kelty-mental-health
+    title: Kelty Mental Health Resource Centre
+    publisher: BC Children's Hospital
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://keltymentalhealth.ca/"
+    checked: 2026-10-29
   - id: bcch-nephrology
     title: Nephrology (Renal Program, including the Hypertension Clinic)
     publisher: BC Children's Hospital
@@ -65,6 +162,56 @@ sources:
     version: "Current as of 2023-03-01"
     url: "https://www.healthlinkbc.ca/healthwise/type-2-diabetes-screening-children"
     checked: 2026-10-10
+  - id: rccbc-rtvs-charlie
+    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
+    publisher: Rural Coordination Centre of BC (RCCbc)
+    jurisdiction: BC
+    kind: pathway
+    version:
+    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
+    pdf: "https://rccbc.ca/wp-content/uploads/2022/10/Call-RTVS-pathways-CHARLiE-Jul-26.pdf"
+    checked: 2026-10-16
+  - id: rccbc-rtvs-getting-started
+    title: Getting Started with RTVS
+    publisher: Rural Coordination Centre of BC (RCCbc)
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://rccbc.ca/initiatives/rtvs/getting-started/"
+    checked: 2026-10-16
+  - id: cps-documents
+    title: Position Statements and Practice Points
+    publisher: Canadian Paediatric Society
+    jurisdiction: CA
+    kind: guideline
+    version:
+    url: "https://cps.ca/en/documents"
+    checked: 2026-10-29
+  - id: rourke-2024
+    title: Rourke Baby Record, National Edition
+    publisher: Rourke Baby Record
+    jurisdiction: CA
+    kind: tool
+    version: "2024"
+    url: "https://www.rourkebabyrecord.ca/downloads"
+    pdf: "https://www.rourkebabyrecord.ca/pdf/2024/RBR%202024%20NAT-EN-3vpp-May%2018-BLACK-Feb%209.pdf"
+    checked: 2026-10-29
+  - id: trekk-blr
+    title: Bottom Line Recommendations
+    publisher: TREKK (Translating Emergency Knowledge for Kids)
+    jurisdiction: CA
+    kind: summary
+    version:
+    url: "https://trekk.ca/resources?type=bottom-line-recommendations"
+    checked: 2026-10-29
+  - id: caring-for-kids
+    title: Caring for Kids
+    publisher: Canadian Paediatric Society
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://caringforkids.cps.ca/"
+    checked: 2026-10-29
   - id: cps-tools
     title: Clinical Tools and Resources
     publisher: Canadian Paediatric Society
@@ -113,70 +260,13 @@ sources:
     version:
     url: "https://www.mdcalc.com/calc/4052/aap-pediatric-hypertension-guidelines"
     checked: 2026-10-09
-  - id: rccbc-rtvs-charlie
-    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
-    publisher: Rural Coordination Centre of BC (RCCbc)
-    jurisdiction: BC
-    kind: pathway
-    version:
-    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
-    pdf: "https://rccbc.ca/wp-content/uploads/2022/10/Call-RTVS-pathways-CHARLiE-Jul-26.pdf"
-    checked: 2026-10-16
-  - id: rccbc-rtvs-getting-started
-    title: Getting Started with RTVS
-    publisher: Rural Coordination Centre of BC (RCCbc)
-    jurisdiction: BC
-    kind: tool
-    version:
-    url: "https://rccbc.ca/initiatives/rtvs/getting-started/"
-    checked: 2026-10-16
 ---
-<!-- This page so far holds the hypertension and diabetes notes moved from those condition pages; the rest of the Population template is filled in step 2.2.
+<!-- Populations wave 1, reviewed and published by Joe 2026-10-29. Every section lives in Pediatrics.csv beside this page.
+     Folded in: the Canadian Paediatric Society and Rourke Baby Record stub pages (their addresses redirect here).
+     Greig Health Record and developmental screening stay on Assessments > Preventive Care and Cancer Screening, and immunization on Prescribing > Immunization (topic ownership); this page links them.
+     Pediatric croup, bronchiolitis, fever in young infants and gastroenteritis pages are later Populations waves; Child Health BC's topic pages stand in for now.
+     Unconfirmed: BC Children's Hospital pages return 403 to automated checks (links carried over from the published page).
      Link to the source guidance; don't restate its recommendations. -->
 *Sources and services for infants, children and youth.*
 
-## Key Sources
-
-- [Canadian Paediatric Society - Clinical Tools and Resources](https://cps.ca/en/tools-outils)
-
-## Conditions with Population Notes
-
-### Asthma
-
-- [Pediatric Asthma](Pediatric%20Asthma.md) — *BC, Canadian and TREKK sources for children and youth with asthma*
-
-### Urinary Tract Infection
-
-- [Pediatric UTI](Pediatric%20UTI.md) — *CPS and TREKK guidance, CHARLiE advice and BC Children's Hospital referral for children with a UTI*
-
-### Hypertension
-
-- [Hypertension](../../3%20Conditions/Cardiovascular/Hypertension.md) — *the adult condition page; the 2025 Hypertension Canada guideline there is not written for children*
-- [Hypertension Canada's 2020 Comprehensive Guidelines for Adults and Children](https://www.onlinecjc.ca/article/S0828-282X(20)30191-4/fulltext) — *Can J Cardiol 2020;36(5):596-624; the most recent Hypertension Canada guidance that covers children*
-- [Paediatric Hypertension for the Primary Care Provider: What You Need to Know (Paediatrics & Child Health, 2021)](https://doi.org/10.1093/pch/pxaa069) — *summarizes the Canadian guidance and the 2017 American Academy of Pediatrics guideline*
-- [MDCalc - AAP Pediatric Hypertension Guidelines](https://www.mdcalc.com/calc/4052/aap-pediatric-hypertension-guidelines) — *international (American Academy of Pediatrics) BP percentiles for children*
-
-### Diabetes
-
-- [Diabetes, Type 2](../../3%20Conditions/Endocrine%20and%20Metabolic/Diabetes%2C%20Type%202.md) — *the adult condition page*
-- [Diabetes Canada: Type 2 Diabetes in Children and Adolescents (chapter 35)](https://www.diabetes.ca/for-professionals/full-guidelines/chapter-35)
-- [Diabetes Canada: Type 1 Diabetes in Children and Adolescents (chapter 34)](https://www.diabetes.ca/for-professionals/full-guidelines/chapter-34)
-
-## Services and Referral
-
-- [RTVS CHARLiE: Child Health Advice in Real-Time Electronically (RCCbc)](https://rccbc.ca/initiatives/rtvs/charlie/) — *24/7 pediatric advice by Zoom (add the contact `charlie1@rccbc.ca`; it takes no email) or phone (236-305-5352) from pediatricians, pediatric emergency physicians and pediatric intensivists, for physicians, NPs, nurses and midwives in rural, remote and First Nations communities in BC*
-    - [Call CHARLiE poster (July 2026, PDF)](https://rccbc.ca/wp-content/uploads/2022/10/Call-RTVS-pathways-CHARLiE-Jul-26.pdf)
-    - [Getting Started with RTVS](https://rccbc.ca/initiatives/rtvs/getting-started/) — *Zoom set-up; rural NPs can request a Zoom account from RCCbc*
-
-- [BC Children's Hospital - Nephrology](https://www.bcchildrens.ca/clinics-services/nephrology) — *the Renal Program includes a Hypertension Clinic for children with complex high blood pressure*
-    - [Nephrology Referral](https://www.bcchildrens.ca/health-professionals/make-referral/nephrology-referral) — *referral needs a physician or nurse practitioner*
-    - [Division of Nephrology Consultation Request (fillable PDF, V1 updated August 2021)](https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/renal-referral-form-fillable.pdf)
-
-- [BC Children's Hospital - Endocrinology, Diabetes and Gender](https://www.bcchildrens.ca/clinics-services/endocrinology) — *diabetes care for children and youth*
-    - [Endocrinology Referral](https://www.bcchildrens.ca/health-professionals/make-referral/endocrinology-referral)
-
-## Patient Resources
-
-- [HealthLink BC - High Blood Pressure in Children and Teens](https://www.healthlinkbc.ca/healthwise/high-blood-pressure-children-and-teens)
-- [HealthLink BC - Type 2 Diabetes in Children](https://www.healthlinkbc.ca/healthwise/type-2-diabetes-children)
-- [HealthLink BC - Type 2 Diabetes: Screening for Children](https://www.healthlinkbc.ca/healthwise/type-2-diabetes-screening-children)
+<!-- nppr-list: Pediatrics.csv style=condition -->
