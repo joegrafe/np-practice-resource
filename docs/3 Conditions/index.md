@@ -1,9 +1,12 @@
 ---
 title: Conditions
-tags:
+type: index
+jurisdiction: [BC, CA]
+tags: [index]
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-status:
+reviewers: []
+status: published
 ---
 
 <div class="nppr-filter nppr-filter--pages nppr-filter--conditions" data-placeholder="Search all conditions, e.g. inhaler or metformin"></div>
@@ -38,7 +41,11 @@ status:
 
 -   :material-head-heart-outline:{ .nppr-icon } [**Mental Health and Substance Use**](Mental%20Health%20and%20Substance%20Use/index.md)
 
-    ADHD.
+    ADHD, depression and anxiety.
+
+-   :material-virus-outline:{ .nppr-icon } [**Infectious Disease**](Infectious%20Disease/index.md)
+
+    Respiratory tract infections.
 
 -   :material-hand-back-left-outline:{ .nppr-icon } [**Dermatology**](Dermatology/index.md)
 

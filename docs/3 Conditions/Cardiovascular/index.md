@@ -1,8 +1,13 @@
 ---
 title: Cardiovascular
+type: index
+tags: [index]
+jurisdiction: [BC, CA]
+status: published
 description: "Cardiovascular conditions for nurse practitioners: atrial fibrillation, lipids, heart failure and hypertension."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
+reviewers: []
 ---
 
 ## In This Section

@@ -111,7 +111,7 @@ sources:
 ---
 ```
 
-**List sheets.** Approaches and condition pages keep their links in a CSV list sheet beside the page; the site build writes them in (scripts/lists.py in nppr-website-config). Add, change or remove a link in the sheet, never in the page.
+**List sheets.** Approaches and condition pages keep their links in a CSV list sheet beside the page; the site build writes them in (scripts/lists.py in nppr-website-config). Add, change or remove a link in the sheet, never in the page. Every other page type moves to list sheets too (Joe, 2026-10-29), so each source it lists is a search result with its year, region and PDF: new pages in every tab are built from a sheet, and the published Assessments, Prescribing and Practice pages are converted in their own wave, with the list style added to scripts/lists.py and scripts/search_data.py in the same change.
 
 *Approaches pages.* An Approaches page keeps its item list in a CSV file beside the page with the same name (`AAFP Approach To and Evaluation Of Articles.csv` beside `AAFP Approach To and Evaluation Of Articles.md`), one row per item, in the order the page shows them. The page holds an `<!-- nppr-list: <file>.csv counts -->` marker under its filter box, and the site build writes the list in there (scripts/lists.py in nppr-website-config). Every sheet has the same columns:
 
@@ -284,11 +284,11 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [x] Atrial fibrillation and anticoagulation
 - [x] Asthma
 - [x] COPD
-- [ ] Depression and anxiety (Mental Health and Substance Use)
+- [x] Depression and anxiety (Mental Health and Substance Use)
 - [ ] Opioid use disorder (Mental Health and Substance Use)
 - [ ] Chronic pain (Musculoskeletal)
 - [x] Urinary tract infection
-- [ ] Respiratory tract infections (Infectious Disease)
+- [x] Respiratory tract infections (Infectious Disease)
 - [x] Thyroid disease
 - [ ] Osteoporosis (Endocrine and Metabolic)
 - [ ] Dementia and frailty (Neurology)
@@ -405,7 +405,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 - Write new generated features (Evidence Packs, Presentations A to Z, the calculators index, llms.txt) as stand-alone build scripts that read the frontmatter before or after the build, not as MkDocs hooks or plugins, so they carry over to Zensical unchanged.
 - Search is NPPR's own (Joe, 2026-10-29): scripts/search_data.py writes assets/search.json and site_assets/nppr-search.js searches it, with no generator search plugin. Build new search features on these, not on a generator's search, so they carry over to Zensical unchanged. Searches that find nothing, or only some of their words, go to the missed-search log: `functions/api/missed-search.js` (a Cloudflare Pages Function) writes the words, date, search box and filters to the D1 database `nppr-search-log`, bound to the `nppr` Pages project as `DB`, with no IP address or other reader details. Check its most common searches each month in the D1 console, then add aliases, synonym groups or pages for them and add them to the checks file. The privacy page says what the log keeps. Later stages (search plan, 2026-10-29): a search box on the home page, offline search, then a decision on AI search.
 - Search quality comes first (Joe, 2026-10-29). A platform change that touches the layout, partials, hooks, scripts or site assets runs `scripts/search-check.js` against a test build before its PR, as content changes do (Page standard, Search).
-- List sheets (Joe, 2026-10-29): Approaches lists and condition page sections are CSV files beside each page, written in at build time by scripts/lists.py in nppr-website-config; every sheet row is also a record in the site's search file, assets/search.json (format: Page standard, List sheets). A stand-alone script with a thin MkDocs adapter, like Presentations A to Z, so it carries over to another generator. Condition pages moved over on 2026-10-29 at Joe's request.
+- List sheets (Joe, 2026-10-29): Approaches lists and condition page sections are CSV files beside each page, written in at build time by scripts/lists.py in nppr-website-config; every sheet row is also a record in the site's search file, assets/search.json (format: Page standard, List sheets). A stand-alone script with a thin MkDocs adapter, like Presentations A to Z, so it carries over to another generator. Condition pages moved over on 2026-10-29 at Joe's request. Every other page type follows (Joe, 2026-10-29): new pages are built from sheets, and the published Assessments, Prescribing and Practice pages are converted in their own wave.
 - Re-check Zensical at its 1.0 release, or by February 2027 at the latest; Astro Starlight is the fallback if it stalls.
 - A way to contribute without GitHub (a Tally form that Claude turns into a PR, or a git-based web editor such as Sveltia CMS) waits for Phase 4.
 - Platform PRs by stage, in nppr-website-config: **B** a preview link for each content PR, draft-status and access badges, a build warning for incomplete source entries, llms.txt (step 3.3); **C** calculators index and "Used on:" links (one script, after Clinical decision rules), a service worker for offline use; **D** Presentations A to Z with Approaches wave 2, branch rule and PR template (4.1), reviewer roster check (4.2), monthly review-due issues as a scheduled GitHub Action; **E** Evidence Packs (3.1, 3.2).
@@ -417,6 +417,8 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 3. Stage C: Prescribing wave 2 · Practice wave 2 · Assessments waves 2 and 3 · Populations wave 2 · Approaches wave 1.
 4. Stage D: Prescribing wave 3 · Practice wave 3 · Assessments waves 4 and 5 · Populations wave 3 · Resources wave 2 · Approaches waves 2 and 3 · About pages. This completes the phase 2 gate.
 5. Stage E: Assessments POCUS (wave 6), then Tools wave 2: phase 3 (Evidence Packs, steps 3.1, 3.2 and 3.4).
+
+**Next waves** (from the [build waves audit](https://claude.ai/artifact/JjicgFNy2PymAqHjZzZBCK), agreed by Joe on 2026-10-29). Stage B was left unfinished while later waves went ahead, so build in this order: 1 tidy search (older pages get full frontmatter so they carry badges and filters; near-empty stubs whose topic has no other use carry `search: {exclude: true}` until rebuilt; stubs that are the only page on their topic stay searchable); 2 Conditions wave 1, starting with depression and anxiety, respiratory tract infections and chronic kidney disease; 3 Populations wave 1, built from sheets; 4 Tools wave 1, AI Tools with llms.txt (step 3.3; Joe kept it in on 2026-10-29); 5 Resources wave 1; 6 list sheets for the published Assessments, Prescribing and Practice pages; 7 the rest of Conditions wave 1; 8 Assessments waves 3 and 4; 9 Practice and Prescribing wave 3; 10 Populations wave 2. The daily "Add a condition" routine stays off, so condition pages are built on request. Once the missed-search log has data, its top missed searches set the order of Conditions waves 2 and 3.
 
 ## Sources
 
