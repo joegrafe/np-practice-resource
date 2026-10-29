@@ -138,6 +138,15 @@ Marker options: `counts` adds the number of items to each heading; `notes=dash` 
 
 The build writes each line as `[Title (year)](url) · [PDF](pdf) · links — *note*`, so put the year in `year`, not in `title`. Each guideline is one box or one line, with its PDF, appendices and algorithm on `level` 1 rows under it. Frontmatter `sources` stays the record of every guideline, algorithm and tool the page cites (with version, checked date and `supersedes`), because the Evidence Pack is generated from it: when a sheet row changes, update its source entry in the same change. Condition sheets are not in the Approaches search file. Start a new page from the NPPR - Condition template and its NPPR - Condition.csv sheet.
 
+**Search.** Search is the main way NPs use an index site, so every page is built to be found, and no change ships that makes search worse (Joe, 2026-10-29). Search on nppr.ca has four parts: the header search on every page (Material's search, with site_assets/search-plus.js adding synonyms, plurals and typo correction), the Conditions index search, the Approaches index search, and the filter box on long list pages. Each new or changed page:
+
+- Gets its other names as search aliases: abbreviations, drug and brand names, and plain words a reader might type (*htn*, *Ozempic*, *puffer*). Put them in `hooks/search_aliases.yml` in nppr-website-config, one line per page, or in the page's `aliases:` frontmatter. In a list sheet, use the `keywords` column.
+- Gets a group in `site_assets/synonyms.js` for any symptom or presentation term the site doesn't already cover (*sob*, *tummy pain*). Group only words that mean the same thing: a group is searched as one term, so grouping *eczema* with *psoriasis* sends one to the other.
+- Gets lines in `scripts/search-checks.txt` in nppr-website-config: its name, its main abbreviation and one plain other name, each with the page that must come up in the top 3.
+- Is checked before its PR: run `scripts/test-build.sh`, then `node scripts/search-check.js`, and report the result in the PR. A failing check is fixed in the same PR, with an alias, a synonym group or a ranking fix. It is never dropped from the checks file.
+
+Text that repeats on every page, such as navigation, buttons and banners, is marked `data-search-exclude`, so it isn't searched. The search check fails if the section buttons reach the index. When a reader's search misses, add the missing word as an alias or synonym and add the search to the checks file.
+
 The same rule applies to every page type: provincial sources first, then national, then other sources, each labelled with its publisher and year.
 
 | Page type | Sections, in order |
@@ -238,6 +247,7 @@ An index is only as trustworthy as its dates. Each rule below can be shown on th
 | Link health | A weekly GitHub Action checks every external link and opens an issue for each broken or redirected link |
 | Licensing | NPPR's own text under an open licence such as CC BY 4.0. Third-party documents are linked to the publisher's own copy and not hosted on NPPR |
 | Disclaimer | Keep the home page disclaimer and repeat a one-line version on every Evidence Pack: AI answers must be checked against the cited source |
+| Search | Search is the main feature of an index site: every page has aliases for its abbreviations, drug names and plain words, and every site or page change passes `scripts/search-check.js` (Page standard, Search) before it ships |
 | Build stability | Pin `mkdocs<2` in requirements.txt. Material's maintainers say MkDocs 2.0 removes the plugin and theme-override systems this site relies on |
 
 ## Roadmap
@@ -383,7 +393,8 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 **Site platform** (decided 2026-10-27, Joe approved the [platform audit](https://claude.ai/artifact/EHYwiCpiTExS75Rubcfmog)). nppr.ca stays a static site on MkDocs Material, hosted on Cloudflare, with every change a draft PR; it does not move to WordPress.
 
 - Write new generated features (Evidence Packs, Presentations A to Z, the calculators index, llms.txt) as stand-alone build scripts that read the frontmatter before or after the build, not as MkDocs hooks or plugins, so they carry over to Zensical unchanged.
-- Don't build new features on Material's search box.
+- Don't build new features on Material's search box. Search tuning stays a thin layer over it (search-plus.js rewrites the query; hooks add aliases to the index), so it can move to another generator's search.
+- Search quality comes first (Joe, 2026-10-29). A platform change that touches the layout, partials, hooks, scripts or site assets runs `scripts/search-check.js` against a test build before its PR, as content changes do (Page standard, Search).
 - List sheets (Joe, 2026-10-29): Approaches lists and condition page sections are CSV files beside each page, written in at build time by scripts/lists.py in nppr-website-config; the Approaches sheets are also combined into one search file for the Approaches index (format: Page standard, List sheets). A stand-alone script with a thin MkDocs adapter, like Presentations A to Z, so it carries over to another generator. Condition pages moved over on 2026-10-29 at Joe's request.
 - Re-check Zensical at its 1.0 release, or by February 2027 at the latest; Astro Starlight is the fallback if it stalls.
 - A way to contribute without GitHub (a Tally form that Claude turns into a PR, or a git-based web editor such as Sveltia CMS) waits for Phase 4.
@@ -618,10 +629,10 @@ All steps run in Claude Code. Step 2.1 repeats once per condition on the Roadmap
 1. Replace the bracketed parts and paste:
 
 ```text
-Create a condition page for [Heart failure] under 3 Conditions/[Cardiovascular] using the NPPR Condition template, its NPPR - Condition.csv list sheet (copied beside the page with the page's name) and the Page standard in NPPR-FRAMEWORK.md. Put every link in the sheet (List sheets in the Page standard), not the page. Check every site in the Source map rows for this page's system and the All topics row. Find the current BC Guidelines page first, then national Canadian guidance ([Canadian Cardiovascular Society]), PEER or Tools for Practice summaries, RxFiles or Firstline where prescribing applies, relevant clinical calculators, scores and decision aids (from MDCalc where it has them, for example CHA2DS2-VASc or BMI; a BC or Canadian tool where that is the standard here), and patient resources. Record each calculator in sources with kind: tool. Open every source you cite, record publisher, version and date checked in the sources frontmatter, and set status to review. List anything where you found no BC or Canadian source.
+Create a condition page for [Heart failure] under 3 Conditions/[Cardiovascular] using the NPPR Condition template, its NPPR - Condition.csv list sheet (copied beside the page with the page's name) and the Page standard in NPPR-FRAMEWORK.md. Put every link in the sheet (List sheets in the Page standard), not the page. Check every site in the Source map rows for this page's system and the All topics row. Find the current BC Guidelines page first, then national Canadian guidance ([Canadian Cardiovascular Society]), PEER or Tools for Practice summaries, RxFiles or Firstline where prescribing applies, relevant clinical calculators, scores and decision aids (from MDCalc where it has them, for example CHA2DS2-VASc or BMI; a BC or Canadian tool where that is the standard here), and patient resources. Record each calculator in sources with kind: tool. Open every source you cite, record publisher, version and date checked in the sources frontmatter, and set status to review. List anything where you found no BC or Canadian source. Add the page's search aliases and its lines in scripts/search-checks.txt (Search in the Page standard).
 ```
 
-2. Test-build the site, open every link on the new page in the local preview and confirm the versions.
+2. Test-build the site, open every link on the new page in the local preview and confirm the versions. Run `node scripts/search-check.js` in nppr-website-config and confirm every search passes.
 3. Set `status: published` yourself in Obsidian, then commit.
 4. Tick the condition off in the Roadmap checklist in the doc.
 

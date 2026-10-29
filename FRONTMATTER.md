@@ -49,6 +49,7 @@ sources:
 | `review-due` | Yes | `YYYY-MM-DD` | Usually `last-reviewed` plus one year. Sooner when a guideline update is expected. |
 | `reviewers` | Yes | List of GitHub usernames | Who checked the page. Empty `[]` while in draft. |
 | `sources` | Yes, except `index` and `about` | List of source entries (below) | List BC sources first, then national, then international. On an Approaches page, one entry for the publisher's index: its items are recorded in the page's CSV list sheet (List sheets in NPPR-FRAMEWORK.md), not here. On a condition page, one entry per guideline, algorithm, pathway and tool the page's list sheet links, kept in step with the sheet: the Evidence Pack is built from these entries. |
+| `aliases` | No | List of text | Other names a reader might search for: abbreviations, drug and brand names, plain words. Added to search only, not shown. Use this or the page's line in `hooks/search_aliases.yml` in nppr-website-config (Search in NPPR-FRAMEWORK.md). |
 | `hide` | No | `[toc]`, `[navigation]`, `[suggest]`, `[report]` | `toc` and `navigation` are Material for MkDocs options; `suggest` hides the Suggest a link card and `report` hides only its GitHub issue button. |
 | `section_nav` | No | `true` · `false` | Shows or hides the section buttons. |
 | `logo` | No | Publisher's own image URL, or `/assets/logos/<name>` | Shown beside the title and on the section card. Link the publisher's file; host a copy in `docs/assets/logos/` only when Joe asks for one. |
