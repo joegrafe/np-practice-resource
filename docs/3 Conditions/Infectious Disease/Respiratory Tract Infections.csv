@@ -22,7 +22,7 @@ Algorithms and Pathways,,,Alberta Primary Care Pathways: Rhinosinusitis,https://
 Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for pharyngitis or community-acquired pneumonia was found on 2026-10-29.,
 Assessment Tools and Calculators,,,MDCalc: Centor Score (Modified/McIsaac) for Strep Pharyngitis,https://www.mdcalc.com/calc/104/centor-score-modified-mcisaac-strep-pharyngitis,,,,strep pharyngitis likelihood,McIsaac sore throat
 Assessment Tools and Calculators,,,MDCalc: CURB-65 Score for Pneumonia Severity,https://www.mdcalc.com/calc/324/curb-65-score-pneumonia-severity,,,,pneumonia severity and site of care,CAP
-Prescribing,,,NPPR Antimicrobials,../../5%20Prescribing/Antimicrobials.md,,,,"general antimicrobial references, penicillin allergy assessment and stewardship tools",
+Prescribing,md,,"- [NPPR Antimicrobials](../../5%20Prescribing/Antimicrobials.md) — *general antimicrobial references, penicillin allergy assessment and stewardship tools*",,,,,,
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,https://www.raceconnect.ca/,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",
 Patient Resources,,,HealthLink BC - Colds,https://www.healthlinkbc.ca/healthwise/colds,,,,,common cold
 Patient Resources,,,HealthLink BC - Sore Throat and Other Throat Problems,https://www.healthlinkbc.ca/healthwise/sore-throat-and-other-throat-problems,,,,,
