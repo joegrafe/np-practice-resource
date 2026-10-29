@@ -248,7 +248,6 @@ sources:
      BC Guidelines first, then Canadian sources. Link to the guidance; don't restate when to order a test or how to read it.
      No lab or imaging requisition forms: sites supply their own (Joe, 2026-10-27).
      Years are the guideline's effective year from its BC Guidelines page, checked 2026-10-27. -->
-*When to order and how to interpret common lab tests and diagnostic imaging in BC primary care: the BC Guidelines on testing, Canada's imaging referral guidelines and the Choosing Wisely Canada lists. Disease-specific tests stay on their condition pages.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter tests, e.g. ferritin"></div>
 
