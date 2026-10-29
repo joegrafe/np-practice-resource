@@ -264,76 +264,8 @@ sources:
 
 *For children and youth, including Child Health BC, the Canadian Paediatric Society, TREKK, PRAM, BC Children's Hospital referral and the pediatric action plans, see [Pediatric Asthma](../../4%20Populations/Pediatrics/Pediatric%20Asthma.md).*
 
-## Key Sources
-
-??? info "[BC Guidelines - Asthma Diagnosis, Education and Management (2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma)"
-	- [Key Recommendations](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#KeyRecommendations)  
-	- [Diagnosis](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Diagnosis)  
-	- [Table 2: Diagnosis of asthma](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#tab2)  
-	- [Management](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Management)  
-	- [Table 6: Assessing asthma symptom control](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#tab6)  
-	- [Stepwise approach](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#stepwise)  
-	- [Air Quality and Wildfire Resources](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#aqwresources)  
-	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_final.pdf)  
-
-??? info "[Canadian Thoracic Society 2021 Guideline Update: Diagnosis and Management of Asthma in Preschoolers, Children and Adults (2021)](https://doi.org/10.1080/24745332.2021.1945887)"
-	*Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Includes the 2021 focused update on very mild and mild asthma.*  
-	- [Full Guideline, corrected version (PDF, CTS)](https://cts-sct.ca/wp-content/uploads/2022/01/Corrected-Ver_2021_CTS_CPG-DiagnosisManagement_Asthma.pdf)  
-	- [CTS Guideline Library](https://cts-sct.ca/guideline-library/)  
-
-## Further Resources
-
-??? info "[CTS Guideline for the Management of Severe Asthma in Children, Adolescents and Adults (Sept 2026)](https://doi.org/10.1080/24745332.2026.2704731)"
-	*Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Listed as current in the CTS Guideline Library.*  
-
-??? info "Tools for Practice (CFPCLearn) evidence summaries"
-	- [#411 Bronchodilator with Benefits? Budesonide-formoterol rescue inhaler for asthma (2026)](https://cfpclearn.ca/tfp411/)  
-
-## Algorithms and Pathways
-
-- [Alberta's Pathway Hub: Lung Testing for Ages 6 and Above (Primary Care Alberta, 2024)](https://www.primarycarealberta.ca/pathways/436/clinical) — *Alberta clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024); choose "All" when the hub asks for an area*
-
-## Assessment Tools and Calculators
-
-- [MDCalc - Estimated/Expected Peak Expiratory Flow (Peak Flow)](https://www.mdcalc.com/calc/790/estimated-expected-peak-expiratory-flow-peak-flow) — *predicted peak flow by age, sex and height*
-- [MDCalc - Asthma Impairment and Risk Questionnaire (AIRQ)](https://www.mdcalc.com/calc/10495/asthma-impairment-risk-questionnaire-airq) — *asthma control and exacerbation risk*
-- [BC Inhalers (Fraser Health)](https://www.bcinhalers.ca/) — *inhaler guide for asthma and COPD: filter by PharmaCare coverage without Special Authority, carbon footprint and age, with device instructions*
-- [BC Guidelines: Asthma Appendix A - Getting Ready for Spirometry (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_a.pdf)
-- [Asthma Patient Care Flow Sheet: Adults 19 and Over (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma-adult-care-sheet.pdf)
-
-## Prescribing
-
-- [BC Guidelines: Asthma Appendix C - Asthma Medication Table (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_c.pdf)
-- [BC Guidelines: Asthma Appendix B - Supporting Patients with Poor Medication Adherence (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma_appendix_b.pdf)
-- [RxFiles: Asthma](https://www.rxfiles.ca/rxfiles/uploads/documents/books/asthma.html) — *drug comparison chart, mild asthma comparison, devices and inhaler-specific action plans; some documents need an RxFiles subscription*
-
-??? info "PharmaCare Special Authority: criteria and request forms"
-	- Criteria for ICS-LABA inhalers:
-	    - [Budesonide-formoterol (last updated April 21, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-budesonide-formoterol)
-	    - [Fluticasone propionate-salmeterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-propionate-salmeterol)
-	    - [Fluticasone furoate-vilanterol (last updated March 17, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-fluticasone-furoate-vilanterol)
-	    - [Mometasone-formoterol (last updated March 19, 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-mometasone-furoate-formoterol)
-	- [PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)](https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf)
-	- [PharmaCare Special Authority Drug List, Criteria and Forms (last updated September 24, 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/special-authority/sa-drug-list) — *includes the asthma biologics, which are requested by specialists*
-
-## Advice and Referral
-
-- [BC Guidelines: Indications for Referral](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#referral)
-- [BC Guidelines: Practitioner and Patient Resources](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#ppresources)
-- [Centre for Lung Health: Asthma (Vancouver General Hospital)](https://centreforlunghealth.ca/asthma/) — *asthma clinic and airways education, including difficult-to-treat and severe asthma (formerly The Lung Centre)*
-    - [Regional Respirology Referral Form (VCH/PHC, version 2021 Dec 1, PDF)](https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf)
-- [WorkSafeBC: Asthma](https://www.worksafebc.com/en/health-safety/injuries-diseases/asthma) — *work-related asthma*
-- [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
-
-## Patient Resources
-
-- [BC Asthma Action Plans and Translations (BC GPAC)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma-action-plans) — *adult English PDF below (the pediatric plans are on Pediatric Asthma); the page also has French, Spanish, Punjabi, Chinese, Korean, Vietnamese, Arabic and Farsi versions*
-    - [Adults (May 2025, PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthmaactionplan_adult_english.pdf)
-- [HealthLink BC - Asthma](https://www.healthlinkbc.ca/healthwise/asthma)
-- [BC Lung Foundation - Adult Asthma](https://bclung.ca/lung-health/adult-asthma/)
-- [Canadian Lung Association - Asthma](https://www.lung.ca/lung-diseases/asthma/)
-- [Asthma Canada - Understanding Asthma](https://asthma.ca/get-help/understanding-asthma/)
-- [Asthma Canada - Asthma & Allergy HelpLine](https://asthma.ca/what-we-do/helpline/) — *one-on-one support from a Certified Respiratory Educator*
-- [Lung Health Foundation - Asthma](https://lunghealth.ca/lung-disease/asthma/)
+<!-- The page's sections live in Asthma.csv beside this page, one row per line; the site build writes them in here.
+     Edit the sheet, not this page, to change a link. Column guide: NPPR-FRAMEWORK.md, Page standard, List sheets. -->
+<!-- nppr-list: Asthma.csv style=condition -->
 
 ---

@@ -25,58 +25,14 @@ sources:
      status: draft → review → published. Update last-reviewed and each source's checked date when links are re-checked.
      Link to the source guidance; don't restate its recommendations. -->
 
-## Key Sources
-
-??? info "[BC Guidelines - Condition Name (Year)](URL)"
-	- [Key Recommendations](URL)  
-	- [Summary PDF](URL)  
-
-??? info "[National Guideline Name (Year)](URL)"
-	*Only chapters relevant to primary care are listed here*  
-	- [Chapter](URL)  
-
-??? info "[Approach to / Management of Condition (Publisher, Year)](URL)"
-
-<!-- Key Sources: 1 to 3 only. BC Guideline first, then a more recent or broader national guideline, then one high-yield "approach to" or "management of" review. -->
-
-## Further Resources
-
-??? info "[Other source (Year)](URL)"
-
-<!-- Every other source: BC first, then national, then international (label it). One block per source in the sources list above. Relevant to Primary Care -->
-
-## Algorithms and Pathways
-
-- [Algorithm Name (Publisher, Year)](PDF URL)
-
-<!-- BC first, then Alberta pathway hub. -->
-## Assessment Tools and Calculators
-
-- [Tool Name](URL) — *what it's for*
-
-<!-- include relevant calculators from mdcalc.com first then other sites as required -->
-
-## Prescribing
-
-- [Drug reference, RxFiles or medication chart](URL)
-
-??? info "PharmaCare Special Authority: criteria and request forms"
-	- Criteria for [drug class]:
-	    - [Drug name (last updated Month D, YYYY)](URL)
-	- [PharmaCare Special Authority Request: Name (HLTH ####, rev. YYYY/MM/DD)](URL)
-
-<!-- Special Authority links always go at the bottom of the Prescribing section.
-     Put lists of Special Authority criteria and forms in the collapsible box above; a single form link can stay a plain bullet. -->
-
-## Advice and Referral
-
-- [RACE / Pathways / service](URL)
-
-## Patient Resources
-
-- [Resource Name (Publisher)](URL)
-
----
-
-<!-- Optional extras go above this line. -->
-<!-- Review notes as footnotes, e.g.  [^1]: *On YYYY-MM-DD references the 20XX guideline.* -->
+<!-- The page's sections live in <% tp.file.title %>.csv beside this page, one row per line; the site build writes them in here.
+     Copy NPPR - Condition.csv beside the page and rename it to the page's name. Edit the sheet, not this page, to change a link.
+     Columns: List sheets in NPPR-FRAMEWORK.md. Put each year in the year column, not the title.
+     Key Sources: 1 to 3 only. BC Guideline first, then a more recent or broader national guideline, then one high-yield "approach to" or "management of" review.
+     Further Resources: every other source, BC first, then national, then international (label it). One box or line per guideline, its PDF, algorithm and chapters on level 1 rows under it.
+     Algorithms and Pathways: BC first, then Alberta's Pathway Hub.
+     Assessment Tools and Calculators: MDCalc first, then other sites as required.
+     Prescribing: Special Authority criteria and forms go last, in one box.
+     Keep frontmatter sources in step with the sheet: one entry per guideline, algorithm, pathway and tool it links.
+     Review notes as footnotes go below the marker, e.g.  [^1]: *On YYYY-MM-DD references the 20XX guideline.* -->
+<!-- nppr-list: <% tp.file.title %>.csv style=condition -->

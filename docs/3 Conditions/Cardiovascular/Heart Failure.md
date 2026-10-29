@@ -172,61 +172,8 @@ sources:
      Unconfirmed on 2026-10-09 (Canadian Journal of Cardiology blocks automated checks; all three are listed on the CHFS guidelines page): ccs-chfs-hfnref-2025, ccs-chfs-hfref-2021, ccs-hf-2017.
      Link to the source guidance; don't restate its recommendations. -->
 
-## Key Sources
-
-??? info "[BC Guidelines - Heart Failure - Diagnosis and Management (2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic)"
-	*Adults ≥19 with suspected or confirmed heart failure in ambulatory primary care. For acute care the guideline refers to the Canadian Cardiovascular Society heart failure guidelines.*  
-	- [Key Recommendations](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#KeyRecommendations)  
-	- [Diagnosis](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#Diagnosis)  
-	- [Management](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#management)  
-	- [Reassessment and Follow-up](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#reassessment)  
-	- [Palliative Care and End of Life Care](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#palliative)  
-	- [Full Guideline (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_guideline_complete_2024.pdf)  
-
-??? info "[CCS/CHFS 2025 Guideline Update: Pharmacologic Management of HF With Nonreduced Ejection Fraction, LVEF > 40% (2025)](https://onlinecjc.ca/article/S0828-282X(25)00640-3/fulltext)"
-	*Canadian Journal of Cardiology, 2025. Listed on the [Canadian Heart Failure Society guidelines page](https://heartfailure.ca/education/guidelines-clinical-updates#:~:text=CCS%2FCHFS%202025%20Guideline%20Update%20for%20Pharmacologic%20Management%20of).*  
-
-## Further Resources
-
-??? info "[CCS/CHFS Focused Clinical Practice Update: Patients With Differing Heart Failure Phenotypes (2023)](https://heartfailure.ca/education/guidelines-clinical-updates#:~:text=CCS%2FCHFS%20Focused%20Clinical%20Practice%20Update%20of%20Patients%20With%20Differing)"
-	*Canadian Journal of Cardiology 2023;39:1030–1040.* · [PDF](https://heartfailure.ca/sites/default/files/papers/PIIS0828282X23003719.pdf)  
-
-??? info "[CCS/CHFS Heart Failure Guidelines Update: HFrEF Pharmacologic Standard of Care (2021)](https://doi.org/10.1016/j.cjca.2021.01.017)"
-	*Canadian Journal of Cardiology 2021;37(4):531–546.*  
-
-??? info "[2017 Comprehensive Update of the CCS Guidelines for the Management of Heart Failure (2017)](https://doi.org/10.1016/j.cjca.2017.08.022)"
-	*Canadian Journal of Cardiology 2017;33(11):1342–1433.*  
-
-??? info "Tools for Practice (CFPCLearn) evidence summaries"
-
-## Algorithms and Pathways
-
-- [BC Guidelines: Figure 1 - Diagnosis of Heart Failure (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#fig1)
-- [Pathways BC: Advanced and End Stage Heart Failure, Clinician's Enhanced Supportive Tool (Shared Care, 2024)](https://pathwaysbc.ca/ci/5231) — *BC enhanced care pathway for advanced heart failure and palliative care*
-- [Alberta's Pathway Hub: Heart Failure (CHF) (Primary Care Alberta, 2026)](https://www.primarycarealberta.ca/pathways/195/clinical) — *Alberta clinical pathway and referral guideline (referral guideline last updated October 5, 2023); choose "All" when the hub asks for an area*
-
-## Assessment Tools and Calculators
-
-- [BC Guidelines: Appendix B - Heart Failure Zones Reference Guide (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#patient) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_appendixb.pdf)
-- [BC Guidelines: Appendix A - Health Behaviour Modifications and Self-monitoring (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#patient) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_appendixa.pdf)
-
-## Prescribing
-
-- [BC Guidelines: Appendix C - Commonly Used Drugs in Heart Failure Care (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#patient) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/hf_appendixc.pdf)
-- [RxFiles: Heart Failure](https://www.rxfiles.ca/rxfiles/uploads/documents/books/heartfailure.html) — *drug comparison chart and newsletters; most documents need an RxFiles subscription*
-
-## Advice and Referral
-
-- [Provincial Heart Function Clinic Referral Form](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#patient) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/4_hf_clinic_referral_form.pdf)
-- [BC Guidelines: Indications for Referral](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#indications)
-- [RACE - Rapid Access to Consultative Expertise](https://www.raceconnect.ca/) — *telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives*
-
-## Patient Resources
-
-- [What to Do with Heart Failure Medications When I am Sick? (via BC Guidelines)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#patient) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/heart-failure-sick-days.pdf)
-- [HealthLink BC - Heart Failure](https://www.healthlinkbc.ca/healthwise/heart-failure)
-- [Canadian Heart Failure Society - Patient Resources (Living Well with Heart Failure)](https://heartfailure.ca/patient-resources-0)
-- [Canadian Heart Failure Society - How to manage your heart failure medication on sick days (PDF)](https://heartfailure.ca/sites/default/files/sick_days_hf_tool_021221.pdf)
-- [Heart & Stroke - Heart failure](https://www.heartandstroke.ca/heart-disease/conditions/heart-failure)
+<!-- The page's sections live in Heart Failure.csv beside this page, one row per line; the site build writes them in here.
+     Edit the sheet, not this page, to change a link. Column guide: NPPR-FRAMEWORK.md, Page standard, List sheets. -->
+<!-- nppr-list: Heart Failure.csv style=condition -->
 
 ---
