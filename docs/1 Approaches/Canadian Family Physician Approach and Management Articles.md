@@ -7,7 +7,7 @@ status: draft
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: []
-description: "Canadian Family Physician's \"Approach to\" and \"Management of\" clinical reviews from 2010 onward: 105, listed by body system with their year."
+description: "Canadian Family Physician's \"Approach to\" and \"Management of\" clinical reviews from 2010 onward: 114, listed by body system with their year."
 sources:
   - id: cfp-approach-to
     title: "Canadian Family Physician: \"Approach to\" and \"Management of\" clinical reviews"
@@ -26,6 +26,8 @@ sources:
      original research (trials, surveys, prevalence and quality-of-care studies), French-language duplicates, one insurance-disability piece,
      the 2015 PEER lipid guideline (replaced by the 2023 update) and three PEER systematic reviews of 2020-2021 that the 2022 PEER
      chronic pain guideline is built on. "Approach to" titles show without those words; "Management of" titles show in full.
+     "Diagnosis and management" / "diagnosis and treatment" titles added 2026-10-29 at Joe's request, same rules; also left out the
+     2014 dementia consensus statement (replaced) and the 2025 Hypertension Canada guideline (a guideline, for condition pages).
      Link to the articles; don't copy them. Add new ones from each issue. -->
 *Peer-reviewed "Approach to" and "Management of" clinical reviews from [Canadian Family Physician](https://www.cfp.ca/) (CFP), the open-access journal of the College of Family Physicians of Canada, written for Canadian primary care. Articles from 2010 onward, grouped by body system. Each was current when published: check the year, and use current BC and Canadian guidance for practice decisions.*
 
@@ -54,15 +56,17 @@ sources:
 - [Obstructive sleep apnea: Interdisciplinary considerations for optimal management](https://www.cfp.ca/content/72/1/25) (2026) · [PDF](https://www.cfp.ca/content/cfp/72/1/25.full.pdf) — *Harris P, Lavigne G, Mayer P et al. Can Fam Physician 72(1).*
 - [Pharmacologic management of COPD: Breadth of products for encouraging a breath of air](https://www.cfp.ca/content/62/5/410) (2016) · [PDF](https://www.cfp.ca/content/cfp/62/5/410.full.pdf) · [BC Guideline: COPD: Diagnosis and Management (2024, revised 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd) — *Crawley A, Laubscher T, Muddiman P et al. Can Fam Physician 62(5).*
 
-### Endocrine and Metabolic (7)
+### Endocrine and Metabolic (9)
 
 - [Osteoporosis diagnosis and fracture risk management in primary care](https://www.cfp.ca/content/72/4/239) (2026) · [PDF](https://www.cfp.ca/content/cfp/72/4/239.full.pdf) — *Garg D, MacLaren J, Stapleton C et al. Can Fam Physician 72(4).*
 - [Management of type 2 diabetes in patients with frailty](https://www.cfp.ca/content/70/1/30) (2024) · [PDF](https://www.cfp.ca/content/cfp/70/1/30.full.pdf) · [BC Guideline: Diabetes Care (2021, revised May 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes) — *Hawker K, Akter R, Molnar F et al. Can Fam Physician 70(1).*
 - [Limitations of hemoglobin A(1c) in the management of type 2 diabetes mellitus](https://www.cfp.ca/content/66/2/112) (2020) · [PDF](https://www.cfp.ca/content/cfp/66/2/112.full.pdf) · [BC Guideline: Diabetes Care (2021, revised May 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes) — *Zhu NA, Reichert S, Harris SB. Can Fam Physician 66(2).*
 - [Diagnosing celiac disease in patients with low bone mineral density or fragility fractures: multidisciplinary task force report](https://www.cfp.ca/content/59/10/1055) (2013) · [PDF](https://www.cfp.ca/content/cfp/59/10/1055.full.pdf) — *Rios LP, Khan A, Sultan M et al. Can Fam Physician 59(10).*
 - [Management of idiopathic hirsutism](https://www.cfp.ca/content/58/2/173) (2012) · [PDF](https://www.cfp.ca/content/cfp/58/2/173.full.pdf) — *Markovski M, Hall J, Jin M et al. Can Fam Physician 58(2).*
+- [Hypocalcemia: updates in diagnosis and management for primary care](https://www.cfp.ca/content/58/2/158) (2012) · [PDF](https://www.cfp.ca/content/cfp/58/2/158.full.pdf) — *Fong J, Khan A. Can Fam Physician 58(2).*
 - [Too much of a good thing: Part 2: Management of hyperosmolar hyperglycemic syndrome](https://www.cfp.ca/content/58/10/1099) (2012) · [PDF](https://www.cfp.ca/content/cfp/58/10/1099.full.pdf) — *Blouin D. Can Fam Physician 58(10).*
 - [Too much of a good thing: management of diabetic ketoacidosis in adults](https://www.cfp.ca/content/58/1/55) (2012) · [PDF](https://www.cfp.ca/content/cfp/58/1/55.full.pdf) — *Blouin D. Can Fam Physician 58(1).*
+- [Primary hyperparathyroidism: Update on presentation, diagnosis, and management in primary care](https://www.cfp.ca/content/57/2/184) (2011) · [PDF](https://www.cfp.ca/content/cfp/57/2/184.full.pdf) — *Pallan S, Khan A. Can Fam Physician 57(2).*
 
 ### Renal and Genitourinary (4)
 
@@ -76,10 +80,11 @@ sources:
 - [Steatotic liver disease in the office: Diagnosis, management, and proposed nomenclature](https://www.cfp.ca/content/71/4/249) (2025) · [PDF](https://www.cfp.ca/content/cfp/71/4/249.full.pdf) — *Szilagyi A, Hilzenrat N. Can Fam Physician 71(4).*
 - [Management of bone health in patients with celiac disease: Practical guide for clinicians](https://www.cfp.ca/content/64/6/433) (2018) · [PDF](https://www.cfp.ca/content/cfp/64/6/433.full.pdf) — *Duerksen D, Pinto-Sanchez MI, Anca A et al. Can Fam Physician 64(6).*
 
-### Neurology (5)
+### Neurology (6)
 
 - [Clinical pearls for management of migraines](https://www.cfp.ca/content/70/5/325) (2024) · [PDF](https://www.cfp.ca/content/cfp/70/5/325.full.pdf) — *Crawley A, Myers J, Regier LD. Can Fam Physician 70(5).*
 - [Parkinson disease primer, part 2: management of motor and nonmotor symptoms](https://www.cfp.ca/content/69/2/91) (2023) · [PDF](https://www.cfp.ca/content/cfp/69/2/91.full.pdf) — *Frank C, Chiu R, Lee J. Can Fam Physician 69(2).*
+- [Degenerative cervical myelopathy: Diagnosis and management in primary care](https://www.cfp.ca/content/65/9/619) (2019) · [PDF](https://www.cfp.ca/content/cfp/65/9/619.full.pdf) — *Milligan J, Ryan K, Fehlings M et al. Can Fam Physician 65(9).*
 - [Pharmacologic management of chronic neuropathic pain: Review of the Canadian Pain Society consensus statement](https://www.cfp.ca/content/63/11/844) (2017) · [PDF](https://www.cfp.ca/content/cfp/63/11/844.full.pdf) — *Mu A, Weinberg E, Moulin DE et al. Can Fam Physician 63(11).*
 - [Guideline for primary care management of headache in adults](https://www.cfp.ca/content/61/8/670) (2015) · [PDF](https://www.cfp.ca/content/cfp/61/8/670.full.pdf) — *Becker WJ, Findlay T, Moga C et al. Can Fam Physician 61(8).*
 - [Pharmacologic management of essential tremor](https://www.cfp.ca/content/56/3/250) (2010) · [PDF](https://www.cfp.ca/content/cfp/56/3/250.full.pdf) — *Lees M, Regier L, Jensen B. Can Fam Physician 56(3).*
@@ -95,21 +100,25 @@ sources:
 - [Traumatic hand injuries for primary care physicians](https://www.cfp.ca/content/59/6/614) (2013) · [PDF](https://www.cfp.ca/content/cfp/59/6/614.full.pdf) — *Cheung K, Hatchell A, Thoma A. Can Fam Physician 59(6).*
 - [Effective detection and management of low-velocity Lisfranc injuries in the emergency setting: principles for a subtle and commonly missed entity](https://www.cfp.ca/content/58/11/1199) (2012) · [PDF](https://www.cfp.ca/content/cfp/58/11/1199.full.pdf) — *Mayich DJ, Mayich MS, Daniels TR. Can Fam Physician 58(11).*
 
-### Dermatology (6)
+### Dermatology (9)
 
+- [Simplifying diagnosis and treatment of drug rashes](https://www.cfp.ca/content/72/10/e323) (2026) · [PDF](https://www.cfp.ca/content/cfp/72/10/e323.full.pdf) — *Mir A, McArthur M, Grindrod KA et al. Can Fam Physician 72(10).*
 - [Burn treatment in the rural emergency department](https://www.cfp.ca/content/70/2/95) (2024) · [PDF](https://www.cfp.ca/content/cfp/70/2/95.full.pdf) — *Tremblay C, Albrecht KA, Sonke CC et al. Can Fam Physician 70(2).*
 - [Allergic contact dermatitis caused by topical medicaments](https://www.cfp.ca/content/67/6/414) (2021) · [PDF](https://www.cfp.ca/content/cfp/67/6/414.full.pdf) — *Choi C, Vafaei-Nodeh S, Phillips J et al. Can Fam Physician 67(6).*
 - [Topical management of tinea pedis](https://www.cfp.ca/content/67/1/30) (2021) · [PDF](https://www.cfp.ca/content/cfp/67/1/30.full.pdf) — *Thomas B, Falk J, Allan GM. Can Fam Physician 67(1).*
+- [Numerous asymptomatic dermal cysts: Diagnosis and treatment of steatocystoma multiplex](https://www.cfp.ca/content/64/12/892) (2018) · [PDF](https://www.cfp.ca/content/cfp/64/12/892.full.pdf) — *Georgakopoulos JR, Ighani A, Yeung J. Can Fam Physician 64(12).*
 - [Diagnosis and management of psoriasis](https://www.cfp.ca/content/63/4/278) (2017) · [PDF](https://www.cfp.ca/content/cfp/63/4/278.full.pdf) — *Kim WB, Jerome D, Yeung J. Can Fam Physician 63(4).*
+- [Diagnosis and treatment of pruritus](https://www.cfp.ca/content/63/12/918) (2017) · [PDF](https://www.cfp.ca/content/cfp/63/12/918.full.pdf) — *Nowak DA, Yeung J. Can Fam Physician 63(12).*
 - [Management of impetigo and cellulitis: Simple considerations for promoting appropriate antibiotic use in skin infections](https://www.cfp.ca/content/63/8/615) (2017) · [PDF](https://www.cfp.ca/content/cfp/63/8/615.full.pdf) — *Kosar L, Laubscher T. Can Fam Physician 63(8).*
 - [Management of painful wounds in advanced disease](https://www.cfp.ca/content/56/9/883) (2010) · [PDF](https://www.cfp.ca/content/cfp/56/9/883.full.pdf) — *Gallagher R. Can Fam Physician 56(9).*
 
-### Eyes, Ears, Nose and Throat (6)
+### Eyes, Ears, Nose and Throat (7)
 
 - [Management of acute dental pain in adults](https://www.cfp.ca/content/72/6/395) (2026) · [PDF](https://www.cfp.ca/content/cfp/72/6/395.full.pdf) — *Sutherland S, Young J. Can Fam Physician 72(6).*
 - [Otitis externa](https://www.cfp.ca/content/70/10/617) (2024) · [PDF](https://www.cfp.ca/content/cfp/70/10/617.full.pdf) — *Ellis J, De La Lis A, Rosen E et al. Can Fam Physician 70(10).*
 - [Sialadenitis](https://www.cfp.ca/content/69/8/531) (2023) · [PDF](https://www.cfp.ca/content/cfp/69/8/531.full.pdf) — *Moore J, Simpson MTW, Cohen N et al. Can Fam Physician 69(8).*
 - [Hearing loss](https://www.cfp.ca/content/66/11/803) (2020) · [PDF](https://www.cfp.ca/content/cfp/66/11/803.full.pdf) — *Newsted D, Rosen E, Cooke B et al. Can Fam Physician 66(11).*
+- [Pharyngitis: Approach to diagnosis and treatment](https://www.cfp.ca/content/66/4/251) (2020) · [PDF](https://www.cfp.ca/content/cfp/66/4/251.full.pdf) — *Sykes EA, Wu V, Beyea MM et al. Can Fam Physician 66(4).*
 - [Ménière disease management](https://www.cfp.ca/content/65/7/463) (2019) · [PDF](https://www.cfp.ca/content/cfp/65/7/463.full.pdf) — *Wu V, Sykes EA, Beyea MM et al. Can Fam Physician 65(7).*
 - [Tinnitus management](https://www.cfp.ca/content/64/7/491) (2018) · [PDF](https://www.cfp.ca/content/cfp/64/7/491.full.pdf) — *Wu V, Cooke B, Eitutis S et al. Can Fam Physician 64(7).*
 
@@ -147,7 +156,7 @@ sources:
 - [Management of gonococcal infection among adults and youth: New key recommendations](https://www.cfp.ca/content/61/10/869) (2015) · [PDF](https://www.cfp.ca/content/cfp/61/10/869.full.pdf) — *Pogany L, Romanowski B, Robinson J et al. Can Fam Physician 61(10).*
 - [Diagnosis and management of syphilis after unique ocular presentation](https://www.cfp.ca/content/57/8/896) (2011) · [PDF](https://www.cfp.ca/content/cfp/57/8/896.full.pdf) — *Lutchman C, Weisbrod DJ, Schwartz CE. Can Fam Physician 57(8).*
 
-### Pediatrics (15)
+### Pediatrics (16)
 
 - [Prevention of respiratory syncytial virus disease in infants by passive immunization](https://www.cfp.ca/content/70/11-12/697) (2024) · [PDF](https://www.cfp.ca/content/cfp/70/11-12/697.full.pdf) — *Siu W, Killikelly A, Salvadori MI et al. Can Fam Physician 70(11-12).*
 - [Management of acute supraventricular tachycardia in children](https://www.cfp.ca/content/69/12/839) (2023) · [PDF](https://www.cfp.ca/content/cfp/69/12/839.full.pdf) — *Abbasi E, Vijayashankar SS, Goldman RD. Can Fam Physician 69(12).*
@@ -161,11 +170,12 @@ sources:
 - [Recurrent fever in childhood](https://www.cfp.ca/content/63/10/756) (2017) · [PDF](https://www.cfp.ca/content/cfp/63/10/756.full.pdf) — *Soon GS, Laxer RM. Can Fam Physician 63(10).*
 - [Autism spectrum disorder: Using the new DSM-V diagnostic criteria and the CanMEDS-FM framework](https://www.cfp.ca/content/61/5/421) (2015) · [PDF](https://www.cfp.ca/content/cfp/61/5/421.full.pdf) — *Lee PF, Thomas RE, Lee PA. Can Fam Physician 61(5).*
 - [Diagnosis and management of eosinophilic esophagitis in children](https://www.cfp.ca/content/61/8/687) (2015) · [PDF](https://www.cfp.ca/content/cfp/61/8/687.full.pdf) — *Teoh T, Chan ES, Avinashi V et al. Can Fam Physician 61(8).*
+- [Diagnosis and treatment of paroxysmal kinesigenic dyskinesia in a 15-year-old boy](https://www.cfp.ca/content/60/5/445) (2014) · [PDF](https://www.cfp.ca/content/cfp/60/5/445.full.pdf) — *Manca D, Liyanaarachchi R, Starreveld E. Can Fam Physician 60(5).*
 - [Office management of mild head injury in children and adolescents](https://www.cfp.ca/content/60/6/523) (2014) · [PDF](https://www.cfp.ca/content/cfp/60/6/523.full.pdf) — *Garcia-Rodriguez JA, Thomas RE. Can Fam Physician 60(6).*
 - [Management of dog bites in children](https://www.cfp.ca/content/58/10/1094) (2012) · [PDF](https://www.cfp.ca/content/cfp/58/10/1094.full.pdf) — *Sabhaney V, Goldman RD. Can Fam Physician 58(10).*
 - [Use of botulinum toxin A in management of children with cerebral palsy](https://www.cfp.ca/content/57/9/1006) (2011) · [PDF](https://www.cfp.ca/content/cfp/57/9/1006.full.pdf) — *Friedman BC, Goldman RD. Can Fam Physician 57(9).*
 
-### Older Adults (8)
+### Older Adults (9)
 
 - [Management of behavioural and psychological symptoms of dementia: Nonpharmacologic interventions and medication considerations](https://www.cfp.ca/content/72/4/252) (2026) · [PDF](https://www.cfp.ca/content/cfp/72/4/252.full.pdf) — *Hou V, Eum L, Trenaman S et al. Can Fam Physician 72(4).*
 - [Pharmacologic management of inappropriate sexual behaviour in long-term care residents](https://www.cfp.ca/content/69/10/687) (2023) · [PDF](https://www.cfp.ca/content/cfp/69/10/687.full.pdf) — *Kindrat A, Frank C. Can Fam Physician 69(10).*
@@ -173,6 +183,7 @@ sources:
 - [Preventive care in the elderly](https://www.cfp.ca/content/62/9/717) (2016) · [PDF](https://www.cfp.ca/content/cfp/62/9/717.full.pdf) — *Tazkarji B, Lam R, Lee S et al. Can Fam Physician 62(9).*
 - [End-of-life issues in advanced dementia: Part 2: management of poor nutritional intake, dehydration, and pneumonia](https://www.cfp.ca/content/61/4/337) (2015) · [PDF](https://www.cfp.ca/content/cfp/61/4/337.full.pdf) — *Arcand M. Can Fam Physician 61(4).*
 - [Inappropriate sexual behaviour in people with dementia](https://www.cfp.ca/content/59/3/255) (2013) · [PDF](https://www.cfp.ca/content/cfp/59/3/255.full.pdf) — *Joller P, Gupta N, Seitz DP et al. Can Fam Physician 59(3).*
+- [Common nail changes and disorders in older people: Diagnosis and management](https://www.cfp.ca/content/57/2/173) (2011) · [PDF](https://www.cfp.ca/content/cfp/57/2/173.full.pdf) — *Abdullah L, Abbas O. Can Fam Physician 57(2).*
 - [Office management of gait disorders in the elderly](https://www.cfp.ca/content/57/7/765) (2011) · [PDF](https://www.cfp.ca/content/cfp/57/7/765.full.pdf) — *Lam R. Can Fam Physician 57(7).*
 - [Office management of urinary incontinence among older patients](https://www.cfp.ca/content/56/11/1115) (2010) · [PDF](https://www.cfp.ca/content/cfp/56/11/1115.full.pdf) — *Frank C, Szlanta A. Can Fam Physician 56(11).*
 
