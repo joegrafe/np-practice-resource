@@ -345,71 +345,9 @@ sources:
 
 <div class="nppr-filter" data-placeholder="Filter articles, e.g. pain"></div>
 
-## Cardiovascular
-
-- [Chest pain](https://mjm.mcgill.ca/article/view/314) (2021) · [PDF](https://mjm.mcgill.ca/article/download/314/646) — *Haghandish N. McGill J Med 19(2).*
-- [Heart failure](https://mjm.mcgill.ca/article/view/518) (2021) · [PDF](https://mjm.mcgill.ca/article/download/518/629) — *Hansen D. McGill J Med 19(2).*
-- [Syncope](https://mjm.mcgill.ca/article/view/1043) (2025) · [PDF](https://mjm.mcgill.ca/article/download/1043/903) — *Rohr E, Stein A. McGill J Med 22(1).*
-- [Shock](https://mjm.mcgill.ca/article/view/872) (2022) · [PDF](https://mjm.mcgill.ca/article/download/872/734) — *Chan J. McGill J Med 20(2).*
-
-## Respiratory
-
-- [Chronic obstructive pulmonary disease (COPD)](https://mjm.mcgill.ca/article/view/197) (2020) · [PDF](https://mjm.mcgill.ca/article/download/197/280) — *Ni A. McGill J Med 18(1).*
-- [Hemoptysis](https://mjm.mcgill.ca/article/view/311) (2022) · [PDF](https://mjm.mcgill.ca/article/download/311/751) — *Peeva M. McGill J Med 20(2).*
-- [Pneumonia in immunocompetent patients](https://mjm.mcgill.ca/article/view/511) (2022) · [PDF](https://mjm.mcgill.ca/article/download/511/668) — *Veeravalli S, Soullane S. McGill J Med 20(2).*
-
-## Endocrine and Metabolic
-
-- [Type 2 diabetes management](https://mjm.mcgill.ca/article/view/323) (2021) · [PDF](https://mjm.mcgill.ca/article/download/323/636) — *Wang SJ. McGill J Med 19(2).*
-- [Adrenal mass](https://mjm.mcgill.ca/article/view/1050) (2023) · [PDF](https://mjm.mcgill.ca/article/download/1050/877) — *Bitektine E. McGill J Med 21(1).*
-- [Acid-base abnormalities](https://mjm.mcgill.ca/article/view/885) (2022) · [PDF](https://mjm.mcgill.ca/article/download/885/777) — *Vallipuram T. McGill J Med 20(2).*
-- [Hyponatremia](https://mjm.mcgill.ca/article/view/833) (2021) · [PDF](https://mjm.mcgill.ca/article/download/833/660) — *Schachter K. McGill J Med 19(2).*
-- [Hyperkalemia](https://mjm.mcgill.ca/article/view/903) (2022) · [PDF](https://mjm.mcgill.ca/article/download/903/781) — *Najjar C. McGill J Med 20(2).*
-- [Hypercalcemia](https://mjm.mcgill.ca/article/view/941) (2022) · [PDF](https://mjm.mcgill.ca/article/download/941/719) — *Mo S. McGill J Med 20(2).*
-
-## Renal and Genitourinary
-
-- [Acute kidney injury](https://mjm.mcgill.ca/article/view/943) (2022) · [PDF](https://mjm.mcgill.ca/article/download/943/726) — *Mo S. McGill J Med 20(2).*
-- [Lower urinary tract symptoms from benign prostatic hyperplasia](https://mjm.mcgill.ca/article/view/330) (2022) · [PDF](https://mjm.mcgill.ca/article/download/330/674) — *Bouhadana D, Sadri I. McGill J Med 20(2).*
-- [Pediatric urinary tract infection](https://mjm.mcgill.ca/article/view/312) (2021) · [PDF](https://mjm.mcgill.ca/article/download/312/644) — *Giannoumis M. McGill J Med 19(2).*
-
-## Gastrointestinal and Liver
-
-- [Dysphagia](https://mjm.mcgill.ca/article/view/1107) (2025) · [PDF](https://mjm.mcgill.ca/article/download/1107/906) — *Chowdhury R, Alsayegh R, Almhanedi H et al. McGill J Med 22(1).*
-
-## Musculoskeletal
-
-- [Low back pain](https://mjm.mcgill.ca/article/view/827) (2021) · [PDF](https://mjm.mcgill.ca/article/download/827/657) — *Moisan P. McGill J Med 19(2).*
-- [Rotator cuff pathology](https://mjm.mcgill.ca/article/view/957) (2023) · [PDF](https://mjm.mcgill.ca/article/download/957/826) — *Wood C. McGill J Med 21(1).*
-- [Falls in older adults](https://mjm.mcgill.ca/article/view/313) (2021) · [PDF](https://mjm.mcgill.ca/article/download/313/666) — *Leung M. McGill J Med 19(2).*
-
-## Neurology
-
-- [Headache](https://mjm.mcgill.ca/article/view/958) (2023) · [PDF](https://mjm.mcgill.ca/article/download/958/814) — *Rehany B, Rehany Z. McGill J Med 21(1).*
-- [Ischemic stroke](https://mjm.mcgill.ca/article/view/855) (2022) · [PDF](https://mjm.mcgill.ca/article/download/855/683) — *Wunder M. McGill J Med 20(2).*
-- [Concussion in the adult athlete](https://mjm.mcgill.ca/article/view/945) (2023) · [PDF](https://mjm.mcgill.ca/article/download/945/807) — *Désilets-Barnabé L, Moisan P. McGill J Med 21(1).*
-- [Delirium](https://mjm.mcgill.ca/article/view/813) (2022) · [PDF](https://mjm.mcgill.ca/article/download/813/698) — *Mukharyamova A. McGill J Med 20(2).*
-- [Febrile seizures](https://mjm.mcgill.ca/article/view/317) (2021) · [PDF](https://mjm.mcgill.ca/article/download/317/610) — *Dabirzadeh A. McGill J Med 19(2).*
-
-## Hematology and Oncology
-
-- [Bleeding](https://mjm.mcgill.ca/article/view/953) (2023) · [PDF](https://mjm.mcgill.ca/article/download/953/820) — *Antel R. McGill J Med 21(1).*
-- [Venous thromboembolism](https://mjm.mcgill.ca/article/view/851) (2023) · [PDF](https://mjm.mcgill.ca/article/download/851/808) — *Ramdani S. McGill J Med 21(1).*
-
-## Eyes, Ears, Nose and Throat
-
-- [Red eye](https://mjm.mcgill.ca/article/view/196) (2021) · [PDF](https://mjm.mcgill.ca/article/download/196/622) — *Santhakumaran S. McGill J Med 19(2).*
-- [Acute vision loss](https://mjm.mcgill.ca/article/view/492) (2021) · [PDF](https://mjm.mcgill.ca/article/download/492/631) — *Santhakumaran S. McGill J Med 19(2).*
-- [Ocular trauma](https://mjm.mcgill.ca/article/view/322) (2021) · [PDF](https://mjm.mcgill.ca/article/download/322/611) — *Dhillon J. McGill J Med 19(2).*
-- [Elevated intraocular pressure](https://mjm.mcgill.ca/article/view/1023) (2023) · [PDF](https://mjm.mcgill.ca/article/download/1023/853) — *Patil N, Dudok D. McGill J Med 21(1).*
-- [Ptosis](https://mjm.mcgill.ca/article/view/1038) (2023) · [PDF](https://mjm.mcgill.ca/article/download/1038/887) — *Patil N, Pirbhai A. McGill J Med 21(1).*
-- [Strabismus](https://mjm.mcgill.ca/article/view/908) (2022) · [PDF](https://mjm.mcgill.ca/article/download/908/741) — *Dhoot AS, Wan MJ. McGill J Med 20(2).*
-
-## Sexual and Reproductive Health
-
-- [Amenorrhea](https://mjm.mcgill.ca/article/view/320) (2021) · [PDF](https://mjm.mcgill.ca/article/download/320/648) — *Baril S. McGill J Med 19(2).*
-- [Gynecological adnexal masses](https://mjm.mcgill.ca/article/view/340) (2022) · [PDF](https://mjm.mcgill.ca/article/download/340/677) — *Dubé L. McGill J Med 20(2).*
-- [Palpable breast mass](https://mjm.mcgill.ca/article/view/1037) (2023) · [PDF](https://mjm.mcgill.ca/article/download/1037/919) — *Ioia RD. McGill J Med 21(1).*
+<!-- The list lives in McGill Approach To Articles.csv beside this page, one row per item; the site build writes it in here.
+     Edit the sheet, not this page, to change the list. -->
+<!-- nppr-list: McGill Approach To Articles.csv notes=dash -->
 
 ## More Approaches
 

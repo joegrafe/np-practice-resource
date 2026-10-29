@@ -21,9 +21,7 @@ sources:
 ---
 <!-- Clinical pathway list taken from every pathway page on the Hub (ids 1-800) on 2026-10-10: 82 distinct clinical pathways.
      Referral-only pathways are left out; several Hub entries that share one clinical pathway are listed once.
-     Calgary Zone pathways are linked through the Hub, not Specialist Link. Link to the pathways; don't copy them.
-     The pathway list lives in Alberta Primary Care Pathways.csv beside this page (one row per pathway);
-     the site build writes it in at the nppr-list marker. Edit the sheet, not this page, to change the list. -->
+     Calgary Zone pathways are linked through the Hub, not Specialist Link. Link to the pathways; don't copy them. -->
 *Clinical pathways from [Alberta's Pathway Hub](https://www.primarycarealberta.ca/pathways/), Primary Care Alberta's provincial collection of primary care pathways and referral guidelines. Each pathway is an algorithm for assessing and managing a condition in primary care before referral. These are Alberta pathways: check BC referral routes and BC Guidelines before applying them.*
 
 [Open the Pathway Hub](https://www.primarycarealberta.ca/pathways/){ .md-button .md-button--primary target="_blank" rel="noopener" }
@@ -34,6 +32,8 @@ sources:
 
 <div class="nppr-filter" data-placeholder="Filter pathways, e.g. pain"></div>
 
+<!-- The list lives in Alberta Primary Care Pathways.csv beside this page, one row per item; the site build writes it in here.
+     Edit the sheet, not this page, to change the list. -->
 <!-- nppr-list: Alberta Primary Care Pathways.csv counts -->
 
 ## More Approaches

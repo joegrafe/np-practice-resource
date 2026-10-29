@@ -76,9 +76,11 @@ def find_links():
         with path.open(encoding="utf-8-sig", newline="") as fh:
             for n, row in enumerate(csv.reader(fh), 1):
                 for cell in row:
-                    url = cell.strip()
-                    if re.match(r"https?://\S+$", url) and urllib.parse.urlsplit(url).hostname not in SKIP_HOSTS:
-                        links.setdefault(url, []).append(f"{rel}:{n}")
+                    cell = cell.strip()
+                    found = [cell] if re.match(r"https?://\S+$", cell) else list(markdown_targets(cell))
+                    for url in found:
+                        if urllib.parse.urlsplit(url).hostname not in SKIP_HOSTS:
+                            links.setdefault(url, []).append(f"{rel}:{n}")
     return links
 
 
