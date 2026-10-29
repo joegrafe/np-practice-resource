@@ -374,13 +374,13 @@ sources:
     version:
     url: "https://www.heretohelp.bc.ca/screening/online/?screen=eatingdisorders"
     checked: 2026-10-28
-  - id: kelty-eating-disorders
-    title: "Kelty Eating Disorders"
+  - id: kelty-body-image
+    title: "Body Image and Eating Disorders"
     publisher: BC Children's Hospital Kelty Mental Health Resource Centre
     jurisdiction: BC
     kind: patient
     version:
-    url: "https://keltyeatingdisorders.ca/"
+    url: "https://keltymentalhealth.ca/body-image-eating-disorders"
     checked: 2026-10-28
   - id: nedic
     title: "National Eating Disorder Information Centre (NEDIC)"
@@ -391,12 +391,12 @@ sources:
     url: "https://nedic.ca/"
     checked: 2026-10-28
   - id: asdah
-    title: "Association for Size Diversity and Health (ASDAH)"
+    title: "Health at Every Size (HAES) Principles"
     publisher: ASDAH
     jurisdiction: INTL
     kind: patient
     version:
-    url: "https://asdah.org/"
+    url: "https://asdah.org/haes/"
     checked: 2026-10-28
   - id: canada-food-guide
     title: "Canada's Food Guide"
@@ -419,7 +419,7 @@ sources:
 No BC Guideline: GPAC's alphabetical list has no obesity guideline (checked 2026-10-28). A draft "Obesity and Overweight" BC Guideline went to external review earlier, but its draft PDF now returns 404 and no final guideline is listed; check again at the next review. The BC PAD service topic stands in as the BC Key Source.
 No Therapeutics Initiative letter on obesity drugs (searched ti.ubc.ca for obesity, semaglutide and weight loss).
 PharmaCare: the PAD drug table (July 2025) records each weight-loss drug's PharmaCare status; the semaglutide Limited Coverage page covers type 2 diabetes only and is linked from the Diabetes page, not here. Wegovy has been through PharmaCare's drug review (Your Voice); check the formulary search for any listing.
-Unconfirmed because the sites block automated checks: cmaj.ca (2020 summary, 2025 pharmacotherapy update and 2025 pediatric guideline, confirmed through PubMed: 197/27/E797, 197/14/E372), cfp.ca (confirmed through PubMed: 71/11-12/705, 66/6/409), vch.ca (Richmond bariatric program, found through HealthLink BC's program listing), keltyeatingdisorders.ca, nedic.ca, csepguidelines.ca and asdah.org (outside this session's allowed network, home pages only), pedscases.com (already linked on the PedsCases approaches page).
+Unconfirmed because the sites block automated checks: cmaj.ca (2020 summary, 2025 pharmacotherapy update and 2025 pediatric guideline, confirmed through PubMed: 197/27/E797, 197/14/E372), cfp.ca (confirmed through PubMed: 71/11-12/705, 66/6/409), vch.ca (Richmond bariatric program, found through HealthLink BC's program listing), pedscases.com (already linked on the PedsCases approaches page).
 Left out: Canadian Task Force obesity guidelines for adults and children (2015), now archived on canadiantaskforce.ca; Alberta's Pathway Hub has only an Alberta bariatric surgery referral guideline, no clinical pathway; RxFiles weight charts need a subscription; NICE CKS is UK-only; BCMJ 2023 Council on Health Promotion piece (advocacy, not clinical guidance); TFP #168 liraglutide (2016, superseded by later drug summaries); AFP articles from the past two years that are members-only (2026 postoperative management, 2026 GLP-1 RAs in adolescents, 2024 USPSTF children summary).
 Link to the source guidance; don't restate its recommendations. -->
 
@@ -527,10 +527,11 @@ Link to the source guidance; don't restate its recommendations. -->
 	- [Obesity Canada - Understand Weight Bias](https://obesitycanada.ca/for-patients/weight-bias/) — *recognising weight bias and stigma, including internalised bias*  
 	- [HeretoHelp - Body Image, Self-Esteem, and Mental Health (2015)](https://www.heretohelp.bc.ca/infosheet/body-image-self-esteem-and-mental-health) — *BC Partners for Mental Health and Substance Use Information infosheet*  
 	- [HeretoHelp - Online Screening: Body Image and Eating Attitudes](https://www.heretohelp.bc.ca/screening/online/?screen=eatingdisorders) — *anonymous self-screen; results can be saved to share with a provider*  
-	- [Kelty Eating Disorders (BC Children's Hospital)](https://keltyeatingdisorders.ca/) — *body image and eating disorder resources for youth and families in BC*  
-	- [NEDIC - National Eating Disorder Information Centre](https://nedic.ca/) — *body image, weight stigma and a national helpline*  
-	- International: [Association for Size Diversity and Health (ASDAH)](https://asdah.org/) — *American source, not Canadian. Health at Every Size, a weight-neutral approach*  
+	- [Kelty Mental Health - Body Image and Eating Disorders (BC Children's Hospital)](https://keltymentalhealth.ca/body-image-eating-disorders) · [Body Image Struggles](https://keltymentalhealth.ca/body-image-struggles) — *for youth and families in BC*  
+	- [NEDIC - National Eating Disorder Information Centre](https://nedic.ca/) · [Help for Yourself](https://nedic.ca/help-for-yourself/) — *body image, food and weight preoccupation, and a national helpline and live chat*  
+	- International: [ASDAH - Health at Every Size (HAES) Principles](https://asdah.org/haes/) — *American source, not Canadian. A weight-neutral approach to health*  
 
 ??? info "Eating and moving well at any size"
 	- [Health Canada - Canada's Food Guide (last modified 2026)](https://www.canada.ca/en/health-canada/services/food-guide.html) · [Food Guide Snapshot](https://www.canada.ca/en/health-canada/services/food-guide/explore/snapshot.html)  
 	- [Canadian 24-Hour Movement Guidelines (CSEP)](https://csepguidelines.ca/) — *physical activity, sedentary time and sleep, by age group*  
+		- [Adults 18-64](https://csepguidelines.ca/guidelines/adults-18-64/) · [Adults 65+](https://csepguidelines.ca/guidelines/adults-65/) · [Children and Youth 5-17](https://csepguidelines.ca/guidelines/children-youth/)  
