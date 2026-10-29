@@ -17,5 +17,6 @@ reviewers: [joegrafe]
 
 ## In This Section
 - [Lab and Imaging](Lab%20and%20Imaging.md)
+- [Preventive Care and Cancer Screening](Preventive%20Care%20and%20Cancer%20Screening.md)
 - [POCUS](POCUS/index.md)
 - [Assessment Resources](Assessment%20Resources.md)
