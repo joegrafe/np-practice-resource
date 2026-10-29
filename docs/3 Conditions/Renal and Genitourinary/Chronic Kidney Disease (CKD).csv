@@ -1,0 +1,26 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords
+Key Sources,box,,BC Guidelines - Chronic Kidney Disease: Diagnosis and Management,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/chronic-kidney-disease-diagnosis-maintain,2025,,,"adults 19 and over in primary care: identification, staging, management and referral",CKD eGFR ACR
+Key Sources,,1,Full Guideline (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/bcguidelines_ckd_full_guideline.pdf,,,,,
+Key Sources,,1,Appendix A: Interpretation of Urine ACR Values to Assess Albuminuria and Proteinuria,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/bcguidelines_ckd-appendixa.pdf,,,,,albuminuria proteinuria
+Key Sources,,1,Appendix B: Recommended Drug Modifications in Presence of Acute Kidney Injury (AKI),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/bcguidelines_ckd-appendixb.pdf,,,,,sick day AKI
+Key Sources,,1,Appendix C: Medications for Chronic Kidney Disease,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/bcguidelines_ckd-appendixc.pdf,,,,,SGLT2 ACE inhibitor ARB
+Key Sources,box,,KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease,https://kdigo.org/guidelines/ckd-evaluation-and-management/,2024,,,"International source: global guidance, not Canadian; the BC guideline refers to it",KDIGO
+Key Sources,,1,Full Guideline (PDF),https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf,,,,,
+Key Sources,box,,AAFP - Chronic Kidney Disease: Detection and Evaluation,https://www.aafp.org/afp/2017/1215/p776,2017,,,"International source: US guidance, not Canadian.",
+Key Sources,,1,2023 update: Chronic Kidney Disease: Prevention Diagnosis and Treatment,https://www.aafp.org/afp/2023/1200/chronic-kidney-disease,2023,,,AAFP members only,
+Further Resources,box,,BC Renal - Chronic Kidney Disease (Kidney Care Clinics),https://www.bcrenal.ca/health-professionals/clinical-resources/kidney-care-(non-dialysis),,,,"guidelines and tools written for BC Kidney Care Clinic teams, useful for shared care",
+Further Resources,,1,CKD E-Learning for Primary Care,https://www.bcrenal.ca/learning-events/clinical-education-and-webinars/ckd-e-learning-for-primary-care,,,,,
+Further Resources,,1,BCCDC Immunization Manual: Recommended Vaccines in Chronic Kidney Disease (PDF),https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part2/ChronicKidneyDisease.pdf,,,,,vaccines
+Algorithms and Pathways,,,Alberta Primary Care Pathways: Chronic Kidney Disease,https://www.primarycarealberta.ca/pathways/427/clinical,2026,,[Interactive CKD Pathway](https://ckdpathway.ca/),Calgary Zone primary care pathway,
+Algorithms and Pathways,note,,,,,,,No BC enhanced care pathway for CKD was found on 2026-10-29.,
+Assessment Tools and Calculators,,,MDCalc: CKD-EPI Equations for Glomerular Filtration Rate (GFR),https://www.mdcalc.com/calc/3939/ckd-epi-equations-glomerular-filtration-rate-gfr,,,,eGFR from creatinine and/or cystatin C (2021 equation),eGFR
+Assessment Tools and Calculators,,,MDCalc: Kidney Failure Risk Calculator (KFRE),https://www.mdcalc.com/calc/10045/kidney-failure-risk-calculator,,,,2- and 5-year risk of kidney failure,KFRE
+Prescribing,,,RxFiles: Kidney,https://www.rxfiles.ca/rxfiles/uploads/documents/books/kidney.html,,,,"drug dosing in kidney disease and CKD charts; some documents need an RxFiles subscription",renal dosing
+Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,
+Prescribing,,1,"Finerenone (last updated October 13, 2026)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-finerenone,,,,,Kerendia
+Prescribing,,1,PharmaCare Special Authority Request: Finerenone (HLTH 5856),https://www2.gov.bc.ca/assets/gov/health/forms/5856fil.pdf,,,,,
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,https://www.raceconnect.ca/,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",nephrology
+Patient Resources,,,HealthLink BC - Chronic Kidney Disease,https://www.healthlinkbc.ca/healthwise/chronic-kidney-disease,,,,,
+Patient Resources,,,BC Renal - Medication,https://www.bcrenal.ca/health-info/managing-my-care/medication,,,,"what to do if you are sick, and medication information sheets",sick day
+Patient Resources,,1,Non-Prescription Medications and Your Kidneys (PDF),https://www.bcrenal.ca/resource-gallery/Documents/Non-Prescription_Medications_and_Your_Kidneys.pdf,,,,also in Simplified Chinese and Punjabi on the BC Renal page,
+Patient Resources,,,BC Renal - Diet,https://www.bcrenal.ca/health-info/managing-my-care/diet,,,,,

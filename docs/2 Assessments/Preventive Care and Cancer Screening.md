@@ -2,7 +2,7 @@
 title: Preventive Care and Cancer Screening
 type: assessment
 tags: [assessment, preventive-care, screening, cancer-screening]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
