@@ -98,7 +98,7 @@ sources:
      The step names in the table are navigation labels in the order of the WHO six-step model, not the WHO's wording.
      Not opened from the build container (host not reachable there): decisionaid.ohri.ca (URL from search results).
      The WHO guide's PDF download would not load; the IRIS record page links it.
-     NP prescribing rules belong on Practice: Prescribing authority; link that page here once it is built. -->
+     NP prescribing rules live on Practice: Prescribing Authority, linked below. -->
 *NPPR links published prescribing frameworks rather than writing its own algorithm. The table maps each step of a prescribing decision to the BC or Canadian source that checks it and the NPPR page that holds it.*
 
 ## Key Sources
@@ -117,7 +117,7 @@ The steps follow the order of the WHO model, with a check of NP prescribing auth
 | 1. Define the problem | The BC Guideline or national guideline for the condition | [Approaches](../1%20Approaches/index.md) · [Conditions](../3%20Conditions/index.md) |
 | 2. Set the treatment goal | The same guideline's targets and outcomes | The condition page's Key Sources |
 | 3. Choose the drug | Therapeutics Initiative, RxFiles, CPS, Health Canada product monographs | [Drug References](Drug%20References.md) |
-| 4. Check NP prescribing authority | [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx) | Practice: Prescribing authority *(coming)* |
+| 4. Check NP prescribing authority | [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx) | [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md) |
 | 5. Check coverage and start | PharmaCare Formulary Search, Special Authority | [Drug Coverage](Drug%20Coverage.md) |
 | 6. Inform the patient | Decision aids and patient handouts below | The condition page's Patient Resources |
 | 7. Monitor, report and stop | MedEffect adverse reaction reporting, prescribing cascades, deprescribing algorithms | [Drug References](Drug%20References.md#safety-and-supply) · Deprescribing *(coming)* |
@@ -138,4 +138,4 @@ The steps follow the order of the WHO model, with a check of NP prescribing auth
 
 ## NP Prescribing Notes
 
-- [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx) — *the standard, limits and conditions for NP prescribing in BC; the full set of prescribing rules will sit on Practice: Prescribing authority*
+- [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx) — *the standard, limits and conditions for NP prescribing in BC; the full set of prescribing rules is on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md)*

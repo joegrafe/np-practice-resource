@@ -163,4 +163,4 @@ sources:
 
 ## NP Prescribing Notes
 
-- NPs can submit Special Authority requests, including by eForm from private community practice. NP prescribing limits and conditions are set by [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx); PharmaNet and PRIME will sit on Practice: Prescribing authority.
+- NPs can submit Special Authority requests, including by eForm from private community practice. NP prescribing limits and conditions are set by [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx); PharmaNet and PRIME are on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md).
