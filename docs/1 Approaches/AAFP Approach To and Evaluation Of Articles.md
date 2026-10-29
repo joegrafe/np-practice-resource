@@ -1,5 +1,5 @@
 ---
-title: "American Family Physician: Approach To and Evaluation Of"
+title: "American Family Physician: Approach, Evaluation and Management"
 type: approach
 tags: [approach]
 jurisdiction: [INTL]
@@ -7,7 +7,7 @@ status: published
 last-reviewed: 2026-10-16
 review-due: 2027-10-16
 reviewers: [joegrafe]
-description: "An index of recent, free American Family Physician (AAFP) review articles on the approach to and evaluation of common primary care presentations, grouped by body system."
+description: "An index of recent, free American Family Physician (AAFP) review articles on the approach to, evaluation and management of common primary care presentations and conditions, grouped by body system."
 logo: "/assets/logos/aafp.svg"
 logo-alt: "American Academy of Family Physicians"
 sources:
@@ -755,32 +755,190 @@ sources:
     version: "2016"
     url: "https://www.aafp.org/afp/2016/0415/p686"
     checked: 2026-10-16
+  - id: afp-2020-0915-p347
+    title: "Management of Hypertriglyceridemia: Common Questions and Answers"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2020"
+    url: "https://www.aafp.org/afp/2020/0915/p347"
+    checked: 2026-10-29
+  - id: afp-2016-0515-p840
+    title: "Diagnosis and Management of Sarcoidosis"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/0515/p840"
+    checked: 2026-10-29
+  - id: afp-2016-0315-p479
+    title: "Diagnosis and Management of Nephrotic Syndrome in Adults"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/0315/p479"
+    checked: 2026-10-29
+  - id: afp-2016-1215-p980
+    title: "Diabetes Mellitus: Management of Gastrointestinal Complications"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/1215/p980"
+    checked: 2026-10-29
+  - id: afp-2016-0901-p361
+    title: "Update on Office-Based Strategies for the Management of Obesity"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/0901/p361"
+    checked: 2026-10-29
+  - id: afp-2022-1100-head-neck-injuries
+    title: "Management of Head and Neck Injuries by the Sideline Physician"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2022"
+    url: "https://www.aafp.org/afp/2022/1100/head-neck-injuries"
+    checked: 2026-10-29
+  - id: afp-2021-0201-p147
+    title: "Telemedicine Management of Musculoskeletal Issues"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2021"
+    url: "https://www.aafp.org/afp/2021/0201/p147"
+    checked: 2026-10-29
+  - id: afp-2019-0801-p147
+    title: "Management of Chronic Tendon Injuries"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2019"
+    url: "https://www.aafp.org/afp/2019/0801/p147"
+    checked: 2026-10-29
+  - id: afp-2016-0201-p183
+    title: "Diagnosis and Management of Common Foot Fractures"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/0201/p183"
+    checked: 2026-10-29
+  - id: afp-2016-0701-p44
+    title: "Diagnosis and Management of Vertebral Compression Fractures"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/0701/p44"
+    checked: 2026-10-29
+  - id: afp-2016-0501-p746
+    title: "Nonoperative Management of Cervical Radiculopathy"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/0501/p746"
+    checked: 2026-10-29
+  - id: afp-2016-0315-p468
+    title: "Diagnosis and Management of Endometrial Cancer"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/0315/p468"
+    checked: 2026-10-29
+  - id: afp-2016-0601-p937
+    title: "Diagnosis and Management of Ovarian Cancer"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/0601/p937"
+    checked: 2026-10-29
+  - id: afp-2023-0400-outpatient-management-of-covid-19
+    title: "Outpatient Management of COVID-19: Rapid Evidence Review"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2023"
+    url: "https://www.aafp.org/afp/2023/0400/outpatient-management-of-covid-19"
+    checked: 2026-10-29
+  - id: afp-2016-1101-p708
+    title: "Initial Management of Patients with HIV Infection"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/1101/p708"
+    checked: 2026-10-29
+  - id: afp-2016-0515-p852
+    title: "Identification and Management of Peripartum Depression"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/0515/p852"
+    checked: 2026-10-29
+  - id: afp-2016-0415-p676
+    title: "Diagnosis and Management of Adnexal Masses"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2016"
+    url: "https://www.aafp.org/afp/2016/0415/p676"
+    checked: 2026-10-29
+  - id: afp-2021-0700-p58
+    title: "Management of Infants Born to Mothers with HIV Infection"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2021"
+    url: "https://www.aafp.org/afp/2021/0700/p58"
+    checked: 2026-10-29
+  - id: afp-2020-0615-p721
+    title: "Management of Fever in Infants and Young Children"
+    publisher: American Academy of Family Physicians
+    jurisdiction: INTL
+    kind: summary
+    version: "2020"
+    url: "https://www.aafp.org/afp/2020/0615/p721"
+    checked: 2026-10-29
 ---
 
 !!! info "International source (AAFP, United States)"
     *American Family Physician* is the American Academy of Family Physicians' peer-reviewed review journal. It reflects US guidance; check BC and Canadian sources first.
 
-This page lists 93 "approach to" and "evaluation" review articles relevant to primary care, published 2016 or later and free to read on aafp.org. Where AFP has more than one free article on a topic, only the newest is listed. Most articles from 2024 onward are for AAFP members only; they are listed only where they update a free article, marked *(AAFP members)*.
+<!-- "Management of" articles added 2026-10-29 at Joe's request: AFP feature reviews (5 pages or more) with "management of" in the title,
+     from PubMed ("Am Fam Physician"[jour] AND "management of"[ti], 2016-2026). Left out: guideline summaries ("Guidelines From ..."),
+     letters, editorials, comments, Cochrane/POEM/AHRQ briefs and drug reviews, members-only articles that update no free article,
+     and intrapartum obstetric topics. -->
+This page lists 112 "approach to", "evaluation" and "management of" review articles relevant to primary care, published 2016 or later and free to read on aafp.org. Where AFP has more than one free article on a topic, only the newest is listed. Most articles from 2024 onward are for AAFP members only; they are listed only where they update a free article, marked *(AAFP members)*.
 
 <div class="nppr-filter" data-placeholder="Filter articles, e.g. pain"></div>
 
-### Cardiovascular (8)
+### Cardiovascular (9)
 
 - [Hypertension in Adults: Initial Evaluation and Management](https://www.aafp.org/afp/2023/1000/hypertension-adults) (2023)
 - [Orthostatic Hypotension: A Practical Approach](https://www.aafp.org/afp/2022/0100/p39) (2022)
 - [Peripheral Edema: Evaluation and Management in Primary Care](https://www.aafp.org/afp/2022/1100/peripheral-edema) (2022)
 - [Efficient Approach to the Evaluation of Syncope](https://www.aafp.org/afp/2021/0900/p305) (2021)
 - [Acute Chest Pain in Adults: Outpatient Evaluation](https://www.aafp.org/afp/2020/1215/p721) (2020)
+- [Management of Hypertriglyceridemia: Common Questions and Answers](https://www.aafp.org/afp/2020/0915/p347) (2020) · [BC Guideline: Cardiovascular Disease: Primary Prevention (2021)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease)
 - [Acute Coronary Syndrome: Diagnostic Evaluation](https://www.aafp.org/afp/2017/0201/p170) (2017) · [2024 update](https://www.aafp.org/afp/2024/0100/acute-coronary-syndrome) (AAFP members)
 - [Palpitations: Evaluation in the Primary Care Setting](https://www.aafp.org/afp/2017/1215/p784) (2017) · [2024 update](https://www.aafp.org/afp/2024/0900/palpitations) (AAFP members)
 - [Severe Asymptomatic Hypertension: Evaluation and Treatment](https://www.aafp.org/afp/2017/0415/p492) (2017)
 
-### Respiratory (4)
+### Respiratory (5)
 
 - [Distinguishing Asthma and COPD in Primary Care: A Case-based Approach](https://www.aafp.org/afp/2023/0300/distinguishing-asthma-copd) (2023)
 - [Hemoptysis: Evaluation and Management](https://www.aafp.org/afp/2022/0200/p144) (2022)
 - [Chronic Dyspnea: Diagnosis and Evaluation](https://www.aafp.org/afp/2020/0501/p542) (2020)
 - [Chronic Cough: Evaluation and Management](https://www.aafp.org/afp/2017/1101/p575) (2017) · [2024 update](https://www.aafp.org/afp/2024/0800/chronic-cough) (AAFP members)
+- [Diagnosis and Management of Sarcoidosis](https://www.aafp.org/afp/2016/0515/p840) (2016)
 
 ### Gastrointestinal and Liver (11)
 
@@ -796,17 +954,20 @@ This page lists 93 "approach to" and "evaluation" review articles relevant to pr
 - [Evaluation of Jaundice in Adults](https://www.aafp.org/afp/2017/0201/p164) (2017) · [2025 update](https://www.aafp.org/afp/2025/0100/jaundice) (AAFP members)
 - [Mildly Elevated Liver Transaminase Levels: Causes and Evaluation](https://www.aafp.org/afp/2017/1201/p709) (2017) · [2024 update](https://www.aafp.org/afp/2024/1200/elevated-liver-transaminase-levels) (AAFP members)
 
-### Renal and Genitourinary (3)
+### Renal and Genitourinary (4)
 
 - [Urinary Incontinence in Women: Evaluation and Management](https://www.aafp.org/afp/2019/0915/p339) (2019)
 - [Urinary Retention in Adults: Evaluation and Initial Management](https://www.aafp.org/afp/2018/1015/p496) (2018)
 - [Chronic Kidney Disease: Detection and Evaluation](https://www.aafp.org/afp/2017/1215/p776) (2017) · [2023 update](https://www.aafp.org/afp/2023/1200/chronic-kidney-disease) (AAFP members)
+- [Diagnosis and Management of Nephrotic Syndrome in Adults](https://www.aafp.org/afp/2016/0315/p479) (2016)
 
-### Endocrine and Metabolic (3)
+### Endocrine and Metabolic (5)
 
 - [Thyroiditis: Evaluation and Treatment](https://www.aafp.org/afp/2021/1200/p609) (2021)
 - [Thyroid Nodules: Advances in Evaluation and Management](https://www.aafp.org/afp/2020/0901/p298) (2020)
 - [Type 2 Diabetes Therapies: A STEPS Approach](https://www.aafp.org/afp/2019/0215/p237) (2019)
+- [Diabetes Mellitus: Management of Gastrointestinal Complications](https://www.aafp.org/afp/2016/1215/p980) (2016)
+- [Update on Office-Based Strategies for the Management of Obesity](https://www.aafp.org/afp/2016/0901/p361) (2016) · [2024 update: Management of Obesity: Office-Based Strategies](https://www.aafp.org/afp/2024/0800/obesity-management) (AAFP members)
 
 ### Neurology (10)
 
@@ -821,16 +982,22 @@ This page lists 93 "approach to" and "evaluation" review articles relevant to pr
 - [Current Concepts in Concussion: Initial Evaluation and Management](https://www.aafp.org/afp/2019/0401/p426) (2019)
 - [Evaluation of Suspected Dementia](https://www.aafp.org/afp/2018/0315/p398) (2018) · [2025 update](https://www.aafp.org/afp/2025/1200/suspected-dementia-evaluation) (AAFP members)
 
-### Musculoskeletal (8)
+### Musculoskeletal (14)
 
 - [Polyarticular Joint Pain in Adults: Evaluation and Differential Diagnosis](https://www.aafp.org/afp/2023/0100/polyarticular-joint-pain) (2023)
 - [Systemic Lupus Erythematosus: Diagnosis and Treatment](https://www.aafp.org/afp/2023/0400/systemic-lupus-erythematosus) (2023)
 - [Soft Tissue Masses: Evaluation and Treatment](https://www.aafp.org/afp/2022/0600/p602) (2022)
+- [Management of Head and Neck Injuries by the Sideline Physician](https://www.aafp.org/afp/2022/1100/head-neck-injuries) (2022)
 - [Hip Pain in Adults: Evaluation and Differential Diagnosis](https://www.aafp.org/afp/2021/0115/p81) (2021)
+- [Telemedicine Management of Musculoskeletal Issues](https://www.aafp.org/afp/2021/0201/p147) (2021)
 - [Neck Pain: Initial Evaluation and Management](https://www.aafp.org/afp/2020/0801/p150) (2020)
+- [Management of Chronic Tendon Injuries](https://www.aafp.org/afp/2019/0801/p147) (2019)
 - [Common Running Injuries: Evaluation and Management](https://www.aafp.org/afp/2018/0415/p510) (2018)
 - [Knee Pain in Adults and Adolescents: The Initial Evaluation](https://www.aafp.org/afp/2018/1101/p576) (2018)
 - [Laceration Repair: A Practical Approach](https://www.aafp.org/afp/2017/0515/p628) (2017)
+- [Diagnosis and Management of Common Foot Fractures](https://www.aafp.org/afp/2016/0201/p183) (2016)
+- [Diagnosis and Management of Vertebral Compression Fractures](https://www.aafp.org/afp/2016/0701/p44) (2016)
+- [Nonoperative Management of Cervical Radiculopathy](https://www.aafp.org/afp/2016/0501/p746) (2016)
 
 ### Dermatology (3)
 
@@ -842,26 +1009,31 @@ This page lists 93 "approach to" and "evaluation" review articles relevant to pr
 
 - [Evaluation of the Painful Eye](https://www.aafp.org/afp/2016/0615/p991) (2016)
 
-### Hematology and Oncology (4)
+### Hematology and Oncology (6)
 
 - [Thrombocytopenia: Evaluation and Management](https://www.aafp.org/afp/2022/0900/thrombocytopenia) (2022)
 - [Hemolytic Anemia: Evaluation and Differential Diagnosis](https://www.aafp.org/afp/2018/0915/p354) (2018)
 - [Clinical Evaluation of Bleeding and Bruising in Primary Care](https://www.aafp.org/afp/2016/0215/p279) (2016) · [2024 update](https://www.aafp.org/afp/2024/1100/bleeding-bruising-evaluation) (AAFP members)
 - [Unexplained Lymphadenopathy: Evaluation and Differential Diagnosis](https://www.aafp.org/afp/2016/1201/p896) (2016) · [2025 update](https://www.aafp.org/afp/2025/0900/lymphadenopathy) (AAFP members)
+- [Diagnosis and Management of Endometrial Cancer](https://www.aafp.org/afp/2016/0315/p468) (2016)
+- [Diagnosis and Management of Ovarian Cancer](https://www.aafp.org/afp/2016/0601/p937) (2016)
 
-### Infectious Disease (2)
+### Infectious Disease (4)
 
+- [Outpatient Management of COVID-19: Rapid Evidence Review](https://www.aafp.org/afp/2023/0400/outpatient-management-of-covid-19) (2023)
 - [Aseptic and Bacterial Meningitis: Evaluation, Treatment, and Prevention](https://www.aafp.org/afp/2017/0901/p314) (2017) · [2026 update](https://www.aafp.org/afp/2026/0300/aseptic-bacterial-meningitis) (AAFP members)
 - [HIV-Associated Complications: A Systems-Based Approach](https://www.aafp.org/afp/2017/0801/p161) (2017) · [2026 update](https://www.aafp.org/afp/2026/0100/hiv-associated-complications) (AAFP members)
+- [Initial Management of Patients with HIV Infection](https://www.aafp.org/afp/2016/1101/p708) (2016)
 
-### Mental Health and Substance Use (4)
+### Mental Health and Substance Use (5)
 
 - [Posttraumatic Stress Disorder: Evaluation and Treatment](https://www.aafp.org/afp/2023/0300/posttraumatic-stress-disorder) (2023)
 - [The Suicidal Patient: Evaluation and Management](https://www.aafp.org/afp/2021/0401/p417) (2021)
 - [Attention-Deficit/Hyperactivity Disorder: Screening and Evaluation](https://www.aafp.org/afp/2019/0601/p712) (2019)
 - [Evaluating Medical Decision-Making Capacity in Practice](https://www.aafp.org/afp/2018/0701/p40) (2018)
+- [Identification and Management of Peripartum Depression](https://www.aafp.org/afp/2016/0515/p852) (2016)
 
-### Sexual and Reproductive Health (8)
+### Sexual and Reproductive Health (9)
 
 - [Evaluation of Acute Pelvic Pain in Women](https://www.aafp.org/afp/2023/0800/acute-pelvic-pain) (2023)
 - [Infertility: Evaluation and Management](https://www.aafp.org/afp/2023/0600/infertility) (2023)
@@ -871,8 +1043,9 @@ This page lists 93 "approach to" and "evaluation" review articles relevant to pr
 - [First Trimester Bleeding: Evaluation and Management](https://www.aafp.org/afp/2019/0201/p166) (2019)
 - [Postpartum Care: An Approach to the Fourth Trimester](https://www.aafp.org/afp/2019/1015/p485) (2019)
 - [Cervical Cancer: Evaluation and Management](https://www.aafp.org/afp/2018/0401/p449) (2018)
+- [Diagnosis and Management of Adnexal Masses](https://www.aafp.org/afp/2016/0415/p676) (2016)
 
-### Pediatrics (13)
+### Pediatrics (15)
 
 - [Evaluating the Child With a Limp](https://www.aafp.org/afp/2023/0500/evaluating-child-with-limp) (2023)
 - [Neonatal Hyperbilirubinemia: Evaluation and Treatment](https://www.aafp.org/afp/2023/0500/neonatal-hyperbilirubinemia) (2023)
@@ -881,7 +1054,9 @@ This page lists 93 "approach to" and "evaluation" review articles relevant to pr
 - [Heart Murmurs in Children: Evaluation and Management](https://www.aafp.org/afp/2022/0300/p250) (2022)
 - [Preoperative Evaluation in Children](https://www.aafp.org/afp/2022/0600/p640) (2022)
 - [The Preparticipation Physical Evaluation](https://www.aafp.org/afp/2021/0501/p539) (2021)
+- [Management of Infants Born to Mothers with HIV Infection](https://www.aafp.org/afp/2021/0700/p58) (2021)
 - [A Primary Care Approach to Adverse Childhood Experiences](https://www.aafp.org/afp/2020/0701/p55) (2020)
+- [Management of Fever in Infants and Young Children](https://www.aafp.org/afp/2020/0615/p721) (2020)
 - [Depression in Children and Adolescents: Evaluation and Treatment](https://www.aafp.org/afp/2019/1115/p609) (2019)
 - [Febrile Seizures: Risks, Evaluation, and Prognosis](https://www.aafp.org/afp/2019/0401/p445) (2019)
 - [Young Febrile Infants: Step-by-Step Evaluation](https://www.aafp.org/afp/2018/0101/p45) (2018)
@@ -907,6 +1082,8 @@ This page lists 93 "approach to" and "evaluation" review articles relevant to pr
 
 ## More Approaches
 
+- [Presentations A to Z](Presentations%20A%20to%20Z.md) — *every item on these pages, listed by presenting complaint*
+- [Canadian Family Physician: Approach To and Management Of](Canadian%20Family%20Physician%20Approach%20and%20Management%20Articles.md) — *Canadian primary care "Approach to" and "Management of" reviews by body system, 2010 onward*
 - [Centre for Effective Practice Clinical Tools](Centre%20for%20Effective%20Practice%20Clinical%20Tools.md) — *Canadian primary care tools by body system, written for Ontario*
 - [Pathways BC Enhanced Care Pathways](Pathways%20BC%20Enhanced%20Care%20Pathways.md) — *BC primary care pathways by body system*
 - [McGill Journal of Medicine: Approach To](McGill%20Approach%20To%20Articles.md) — *peer-reviewed "Approach to" articles by body system*

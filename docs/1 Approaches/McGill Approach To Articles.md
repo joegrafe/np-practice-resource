@@ -413,9 +413,11 @@ sources:
 
 ## More Approaches
 
+- [Presentations A to Z](Presentations%20A%20to%20Z.md) — *every item on these pages, listed by presenting complaint*
+- [Canadian Family Physician: Approach To and Management Of](Canadian%20Family%20Physician%20Approach%20and%20Management%20Articles.md) — *Canadian primary care "Approach to" and "Management of" reviews by body system, 2010 onward*
 - [Centre for Effective Practice Clinical Tools](Centre%20for%20Effective%20Practice%20Clinical%20Tools.md) — *Canadian primary care tools by body system, written for Ontario*
 - [Pathways BC Enhanced Care Pathways](Pathways%20BC%20Enhanced%20Care%20Pathways.md) — *BC primary care pathways by body system*
 - [University of Calgary Black Books](University%20of%20Calgary%20Black%20Books.md) — *schemes for common presentations*
 - [PedsCases Notes](PedsCases%20Approach%20To.md) — *short peer-reviewed summaries of pediatric presentations and conditions*
-- [American Family Physician: Approach To and Evaluation Of](AAFP%20Approach%20To%20and%20Evaluation%20Of%20Articles.md) — *recent free AAFP review articles (international)*
+- [American Family Physician: Approach, Evaluation and Management](AAFP%20Approach%20To%20and%20Evaluation%20Of%20Articles.md) — *recent free AAFP review articles (international)*
 - [MJM issue archive](https://mjm.mcgill.ca/issue/archive) — *new "An Approach To" articles appear in each issue*
