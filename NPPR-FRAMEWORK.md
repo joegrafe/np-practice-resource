@@ -284,7 +284,7 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [x] Atrial fibrillation and anticoagulation
 - [x] Asthma
 - [x] COPD
-- [ ] Depression and anxiety (Mental Health and Substance Use)
+- [x] Depression and anxiety (Mental Health and Substance Use)
 - [ ] Opioid use disorder (Mental Health and Substance Use)
 - [ ] Chronic pain (Musculoskeletal)
 - [x] Urinary tract infection

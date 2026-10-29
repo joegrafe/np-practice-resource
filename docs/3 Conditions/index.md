@@ -41,7 +41,7 @@ status: published
 
 -   :material-head-heart-outline:{ .nppr-icon } [**Mental Health and Substance Use**](Mental%20Health%20and%20Substance%20Use/index.md)
 
-    ADHD.
+    ADHD, depression and anxiety.
 
 -   :material-hand-back-left-outline:{ .nppr-icon } [**Dermatology**](Dermatology/index.md)
 
