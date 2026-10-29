@@ -302,7 +302,7 @@ sources:
 ## Imaging
 
 ### BC Guidelines
-- [BC Guidelines: Appropriate Imaging for Common Situations in Primary and Emergency Care (2019)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appropriate_imaging_full_guideline.pdf) — *Used on: [Low Back Pain](../3%20Conditions/Musculoskeletal/Low%20Back%20Pain.md)*
+- [BC Guidelines: Appropriate Imaging for Common Situations in Primary and Emergency Care (2019)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appropriate_imaging_full_guideline.pdf)
 - [BC Guidelines: Computed Tomography (CT) Prioritization (2020)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/computed-tomography-ct-prioritization) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/ctprioritization.pdf)
     - [Appendix A: Radiation Exposure](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/ct-prioritization-appendix-a.pdf)
 - [BC Guidelines: Magnetic Resonance Imaging (MRI) Prioritization (2020)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/magnetic-resonance-imaging-mri-prioritization) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/mriprioritization.pdf)

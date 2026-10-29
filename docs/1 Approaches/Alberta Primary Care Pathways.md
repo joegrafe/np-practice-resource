@@ -98,7 +98,7 @@ sources:
 - [Knee](https://www.primarycarealberta.ca/pathways/35/clinical) (2026) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-knee.pdf)
 - [Peripheral Arthritis](https://www.primarycarealberta.ca/pathways/438/clinical) (2024) · *Calgary Zone*
 - [Shoulder](https://www.primarycarealberta.ca/pathways/223/clinical) (2024) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-shoulder.pdf)
-- [Spine: Low Back](https://www.primarycarealberta.ca/pathways/129/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-spine-low-back.pdf)
+- [Spine: Low Back](https://www.primarycarealberta.ca/pathways/546/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-spine-low-back.pdf)
 - [Temporomandibular Joint (TMJ) Dysfunction](https://www.primarycarealberta.ca/pathways/92/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-tmj-dysfunction.pdf)
 - [Trigger Finger](https://www.primarycarealberta.ca/pathways/382/clinical) (2025) · [PDF](https://www.albertahealthservices.ca/assets/info/ppu/algorithm-trigger-finger.pdf)
 
