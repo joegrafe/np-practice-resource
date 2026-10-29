@@ -27,7 +27,7 @@ sources:
      Link to the pathways; don't copy them. -->
 *Enhanced Care Pathways from [Pathways BC](https://pathwaysbc.ca/), the Divisions of Family Practice referral directory. Each pathway is a BC primary care algorithm or toolkit, mostly written with BC specialists through Shared Care, for assessing and managing a condition and deciding when and where to refer. The pathway documents below open without a login. The rest of Pathways, such as specialist wait times and referral forms, needs a Pathways login.*
 
-[Open Pathways BC](https://pathwaysbc.ca/){ .md-button .md-button--primary target="_blank" rel="noopener" } *login*
+[Open Pathways BC](https://pathwaysbc.ca/){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
 ## Pathways by System
 
