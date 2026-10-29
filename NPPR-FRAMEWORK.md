@@ -288,7 +288,7 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [ ] Opioid use disorder (Mental Health and Substance Use)
 - [ ] Chronic pain (Musculoskeletal)
 - [x] Urinary tract infection
-- [ ] Respiratory tract infections (Infectious Disease)
+- [x] Respiratory tract infections (Infectious Disease)
 - [x] Thyroid disease
 - [ ] Osteoporosis (Endocrine and Metabolic)
 - [ ] Dementia and frailty (Neurology)
