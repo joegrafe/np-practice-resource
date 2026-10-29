@@ -1,0 +1,114 @@
+name: PR checks
+
+# Runs on every pull request. Results show as notes on the changed lines
+# (Files changed tab) and as a summary on the run page.
+#   Page checks  frontmatter, review dates, source order, list sheets
+#                (scripts/check_pages.py; rules some pages don't meet yet are warnings)
+#   New links    every external link added by the PR (scripts/check_links.py --added);
+#                warnings only, since some sites block automated checks
+#   Site build   a strict test build with nppr-website-config (needs PAT_TOKEN to
+#                read that repo; skipped with a note if it can't)
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pages:
+    name: Page checks
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -q pyyaml
+
+      - name: Check the pages this PR changes
+        env:
+          BASE: ${{ github.event.pull_request.base.sha || 'origin/main' }}
+        run: |
+          git -c core.quotePath=false diff --name-only --diff-filter=d "$BASE"...HEAD -- docs > changed.txt
+          echo "Changed files in docs/: $(wc -l < changed.txt)"
+          mapfile -t files < changed.txt
+          python3 scripts/check_pages.py docs --report changed-report.md --files "${files[@]}"
+
+      - name: Summary of every page
+        if: always()
+        run: |
+          {
+            echo "## Pages changed in this PR"
+            cat changed-report.md 2>/dev/null || echo "Not run."
+            echo
+            echo "## Whole site"
+            python3 scripts/check_pages.py docs --report all-report.md > /dev/null || true
+            echo "<details><summary>Every warning on the site</summary>"
+            echo
+            cat all-report.md
+            echo "</details>"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+  links:
+    name: New links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check links added by this PR
+        env:
+          BASE: ${{ github.event.pull_request.base.sha || 'origin/main' }}
+        run: |
+          python3 scripts/check_links.py docs link-report.md --added "$BASE"
+          cat link-report.md >> "$GITHUB_STEP_SUMMARY"
+
+  build:
+    name: Site build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: content
+          fetch-depth: 0   # page dates come from git history
+
+      - name: Get nppr-website-config
+        id: config
+        continue-on-error: true
+        uses: actions/checkout@v4
+        with:
+          repository: joegrafe/nppr-website-config
+          token: ${{ secrets.PAT_TOKEN }}
+          path: config
+
+      - uses: actions/setup-python@v5
+        if: steps.config.outcome == 'success'
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: config/requirements.txt
+
+      - name: Strict test build
+        if: steps.config.outcome == 'success'
+        working-directory: config
+        env:
+          NPPR_DOCS_DIR: ${{ github.workspace }}/content/docs
+        run: |
+          pip install -q -r requirements.txt
+          mkdocs build -f mkdocs.test.yml --strict
+
+      - name: Note a skipped build
+        if: steps.config.outcome != 'success'
+        run: |
+          echo "::warning title=Site build skipped::Couldn't read joegrafe/nppr-website-config. Give the PAT_TOKEN secret read access to it to turn on the build check."
+          echo "Site build skipped: the PAT_TOKEN secret can't read joegrafe/nppr-website-config." >> "$GITHUB_STEP_SUMMARY"
