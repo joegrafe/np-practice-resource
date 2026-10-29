@@ -1,8 +1,13 @@
 ---
 title: Neurology
+type: index
+tags: [index]
+jurisdiction: [BC, CA]
+status: published
 description: "Neurology conditions for nurse practitioners: concussion and mild traumatic brain injury."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
+reviewers: []
 ---
 
 ## In This Section
