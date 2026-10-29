@@ -332,8 +332,8 @@ sources:
 
 ## Algorithms and Pathways
 
-- [Alberta's Pathway Hub: Chronic Obstructive Pulmonary Disease (COPD) (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/424/clinical) — *Alberta referral guideline last updated May 1, 2025; choose "All" when the hub asks for an area*
-- [Alberta's Pathway Hub: Lung Testing for Ages 6 and Above (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/436/clinical) — *clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024)*
+- [Alberta's Pathway Hub: Chronic Obstructive Pulmonary Disease (COPD) (Primary Care Alberta, 2025)](https://www.primarycarealberta.ca/pathways/424/clinical) — *Alberta referral guideline last updated May 1, 2025; choose "All" when the hub asks for an area*
+- [Alberta's Pathway Hub: Lung Testing for Ages 6 and Above (Primary Care Alberta, 2024)](https://www.primarycarealberta.ca/pathways/436/clinical) — *clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024)*
 
 ## Assessment Tools and Calculators
 

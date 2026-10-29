@@ -203,7 +203,7 @@ sources:
 
 - [BC Guidelines: Figure 1 - Diagnosis of Heart Failure (BC GPAC, 2023)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#fig1)
 - [Pathways BC: Advanced and End Stage Heart Failure, Clinician's Enhanced Supportive Tool (Shared Care, 2024)](https://pathwaysbc.ca/ci/5231) — *BC enhanced care pathway for advanced heart failure and palliative care*
-- [Alberta's Pathway Hub: Heart Failure (CHF) (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/195/clinical) — *Alberta clinical pathway and referral guideline (referral guideline last updated October 5, 2023); choose "All" when the hub asks for an area*
+- [Alberta's Pathway Hub: Heart Failure (CHF) (Primary Care Alberta, 2026)](https://www.primarycarealberta.ca/pathways/195/clinical) — *Alberta clinical pathway and referral guideline (referral guideline last updated October 5, 2023); choose "All" when the hub asks for an area*
 
 ## Assessment Tools and Calculators
 

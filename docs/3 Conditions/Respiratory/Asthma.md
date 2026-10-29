@@ -291,7 +291,7 @@ sources:
 
 ## Algorithms and Pathways
 
-- [Alberta's Pathway Hub: Lung Testing for Ages 6 and Above (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/436/clinical) — *Alberta clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024); choose "All" when the hub asks for an area*
+- [Alberta's Pathway Hub: Lung Testing for Ages 6 and Above (Primary Care Alberta, 2024)](https://www.primarycarealberta.ca/pathways/436/clinical) — *Alberta clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024); choose "All" when the hub asks for an area*
 
 ## Assessment Tools and Calculators
 

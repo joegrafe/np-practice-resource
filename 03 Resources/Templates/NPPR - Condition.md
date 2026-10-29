@@ -78,5 +78,5 @@ sources:
 
 ---
 
-<!-- Optional extras such as a Spotify embed go above this line. -->
+<!-- Optional extras go above this line. -->
 <!-- Review notes as footnotes, e.g.  [^1]: *On YYYY-MM-DD references the 20XX guideline.* -->

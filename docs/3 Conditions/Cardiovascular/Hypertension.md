@@ -548,7 +548,7 @@ sources:
 - [BC Guidelines: Appendix A - Diagnosis and Management of Hypertension Algorithm (BC GPAC, 2020)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-a.pdf)
 - [Hypertension Canada Clinician Pocket Card: Diagnostic Algorithm (March 18, 2026)](https://hypertension.ca/download-educational-resources#:~:text=Clinician%20Pocket%20Card) · [PDF](https://hypertension.ca/wp-content/uploads/2026/06/1.-Clinician-pocket-card_March-18-2026.pdf)
 - [Canadian Task Force: Hypertension Clinician Algorithm (2012)](https://canadiantaskforce.ca/tools-resources/hypertension/hypertension-clinician-algorithm/#:~:text=Download%20PDF) · [PDF](https://canadiantaskforce.ca/wp-content/uploads/2016/05/2012-hypertension-clinician-algorithm-en.pdf) — *screening*
-- [Alberta's Pathway Hub: Hypertension Refractory to Treatment with 4 or More Antihypertensive Agents (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/526/referral) — *Alberta nephrology referral guideline last updated September 11, 2026; choose "All" when the hub asks for an area*
+- [Alberta's Pathway Hub: Hypertension Refractory to Treatment with 4 or More Antihypertensive Agents (Primary Care Alberta, 2026)](https://www.primarycarealberta.ca/pathways/526/referral) — *Alberta nephrology referral guideline last updated September 11, 2026; choose "All" when the hub asks for an area*
 
 ## Assessment Tools and Calculators
 
@@ -606,6 +606,3 @@ sources:
 - [Hypertension Canada - Recommended Devices for Home Use](https://hypertension.ca/public/recommended-devices)
 - [Heart and Stroke Foundation - High Blood Pressure](https://www.heartandstroke.ca/heart-disease/risk-and-prevention/condition-risk-factors/high-blood-pressure)
 - [Heart and Stroke Foundation - DASH Diet](https://www.heartandstroke.ca/healthy-living/healthy-eating/dash-diet)
-
-## Spotify Playlist
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6ta1xH8olamUP8z8YEui9A?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

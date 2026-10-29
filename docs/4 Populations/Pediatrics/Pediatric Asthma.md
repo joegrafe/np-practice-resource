@@ -280,9 +280,6 @@ sources:
 	- [PRAM Scoring Table (effective October 14, 2024, PDF)](https://childhealthbc.ca/asthma/guideline/pram_scoring_table)  
 	- [UBC CPD: Pediatric Asthma Management eLearning course](https://ubccpd.ca/course/pediatric-asthma-management) — *free 1-hour course built with Child Health BC and BC Children's Hospital*  
 
-??? info "[Canadian Paediatric Society - Managing an Acute Asthma Exacerbation in Children (2021)](https://cps.ca/en/documents/position/managing-an-acute-asthma-exacerbation)"
-	*CPS position statement, posted November 5, 2021.*  
-
 ??? info "[Canadian Paediatric Society - The Management of Very Mild and Mild Asthma in Preschoolers, Children, and Adolescents (2023)](https://cps.ca/en/documents/position/mild-asthma)"
 	*CPS practice point, posted December 8, 2023.*  
 
@@ -290,6 +287,11 @@ sources:
 	*Translating Emergency Knowledge for Kids, version 2.3, March 2025.*  
 	- [Bottom Line Recommendations (PDF, 2025)](https://cms.trekk.ca/wp-content/uploads/2023/11/2025_03_12_Asthma-BLR-v2.3_FINAL.pdf)  
 	- [Algorithm: Severe Asthma Exacerbation (PDF, 2025)](https://cms.trekk.ca/wp-content/uploads/2023/11/2025-03-11_Asthma-Algorithm_2.1_final.pdf)  
+
+## Further Resources
+
+??? info "[Canadian Paediatric Society - Managing an Acute Asthma Exacerbation in Children (2021)](https://cps.ca/en/documents/position/managing-an-acute-asthma-exacerbation)"
+	*CPS position statement, posted November 5, 2021.*  
 
 ## Algorithms and Pathways
 

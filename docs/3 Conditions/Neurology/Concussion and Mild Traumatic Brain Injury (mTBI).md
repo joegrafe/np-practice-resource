@@ -455,8 +455,8 @@ sources:
 - [BC Guidelines: Appendix A - Return to Sport Protocol (BC GPAC, updated December 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-a.pdf)
 - [BC Guidelines: Appendix B - Return to School Protocol (BC GPAC, updated December 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-b.pdf)
 - [BC Guidelines: Appendix C - Return to Work Protocol (BC GPAC, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi) · [PDF](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/concussion-mbti-appendix-c.pdf)
-- [Alberta's Pathway Hub: Acute Concussion (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/13/clinical) — *0 to 12 weeks after injury; referral guideline last updated January 23, 2025; choose "All" when the hub asks for an area*
-- [Alberta's Pathway Hub: Persisting Post-Concussion Symptoms (Primary Care Alberta)](https://www.primarycarealberta.ca/pathways/316/clinical) — *more than 12 weeks after injury; referral guideline last updated January 1, 2025*
+- [Alberta's Pathway Hub: Acute Concussion (Primary Care Alberta, 2025)](https://www.primarycarealberta.ca/pathways/13/clinical) — *0 to 12 weeks after injury; referral guideline last updated January 23, 2025; choose "All" when the hub asks for an area*
+- [Alberta's Pathway Hub: Persisting Post-Concussion Symptoms (Primary Care Alberta, 2025)](https://www.primarycarealberta.ca/pathways/316/clinical) — *more than 12 weeks after injury; referral guideline last updated January 1, 2025*
 
 ## Assessment Tools and Calculators
 
