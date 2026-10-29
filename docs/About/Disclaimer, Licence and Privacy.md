@@ -40,5 +40,6 @@ Some sources need an account. NPPR marks them so you know before you click:
 
 - **No tracking.** NPPR runs no analytics or advertising and sets no tracking cookies of its own. Fonts are served from nppr.ca, not Google.
 - **Forms.** The [Submit a link](Submissions.md) and [Contact](Contact.md) forms run on [Tally](https://tally.so/help/privacy-policy). They collect only what you type, plus the page you came from. On the Contact form, your name and email are optional.
-- **Saved in your browser.** The optional AI search downloads its language model from Hugging Face the first time you use it, and keeps its search index in your browser's storage on your device. Your searches aren't sent to NPPR.
-- **Never share patient information** in a form or GitHub issue.
+- **Searches that find nothing.** When a search on NPPR finds nothing, or finds only some of its words, the words you typed are sent to NPPR with the date, which search box you used and any filters you chose, so the missing topic can be added. Nothing about you is kept: no IP address, account, cookie or device details. Long numbers and email addresses are removed before the search is saved. Other searches aren't sent anywhere.
+- **Saved in your browser.** Your last few searches are kept in your browser's storage, on your device only. The optional AI search downloads its language model from Hugging Face the first time you use it, and keeps its search index in your browser's storage too; AI searches aren't sent to NPPR.
+- **Never share patient information** in a search, a form or a GitHub issue.
