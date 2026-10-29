@@ -3,10 +3,10 @@ title: Community of Practice
 type: practice
 tags: [practice, community-of-practice, mentorship, peer-support, echo, np-circle]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "Peer support and case-based learning for BC nurse practitioners: NP Circle, NNPBC's NP-PIP community of practice and mentorship, and the Project ECHO programs open to BC primary care NPs."
 sources:
   # BC

@@ -3,10 +3,10 @@ title: Practice Models and Compensation
 type: practice
 tags: [practice, practice-models, compensation, pcn, np-pip, msp, encounter-records, worksafebc]
 jurisdiction: [BC]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "How BC nurse practitioners are contracted and paid: NNPBC's NP Primary Care Integration Program and PCN contracts, the Patient Medical Home checklist, MSP encounter records, and WorkSafeBC registration for NPs who incorporate or hire staff."
 sources:
   # BC

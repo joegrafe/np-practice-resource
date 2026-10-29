@@ -3,10 +3,10 @@ title: Registration and Licensure
 type: practice
 tags: [practice, registration, licensure, bccnm, quality-assurance, cnps]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "Getting and keeping a BC nurse practitioner licence: BCCNM applications, exams, annual renewal and Quality Assurance, liability protection through CNPS, and the MSP practitioner number."
 sources:
   # BC

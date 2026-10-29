@@ -3,10 +3,10 @@ title: Starting NP Practice in BC
 type: practice
 tags: [practice, checklist, new-graduate, registration, msp, pharmanet, pcn]
 jurisdiction: [BC]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "A checklist for starting nurse practitioner practice in BC, from BCCNM licensure, liability protection and MSP enrolment to PharmaNet, controlled drug pads, a primary care contract, records and peer support, with links to each step's source."
 sources:
   # BC

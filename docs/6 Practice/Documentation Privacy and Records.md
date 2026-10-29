@@ -3,10 +3,10 @@ title: Documentation, Privacy and Records
 type: practice
 tags: [practice, documentation, privacy, confidentiality, records, emr, virtual-care, pipa, fippa]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "Charting and records for BC nurse practitioners: BCCNM documentation and privacy standards, records custody in PCN clinics, BC privacy law, MSP clinical record requirements, virtual care, and CNPS medico-legal guidance."
 sources:
   # BC
