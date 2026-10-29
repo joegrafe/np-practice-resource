@@ -14,6 +14,7 @@ Before any NPPR build step, read NPPR-FRAMEWORK.md at the root of this vault. It
 - Show the year beside every guideline, algorithm and pathway in the page body.
 - Always keep the BC Guidelines on a condition page, however old, and keep each one at its current version: when GPAC updates a guideline, replace the link and its year on every page that cites it.
 - An Approaches page's list lives in the CSV list sheet beside the page (format: List sheets in NPPR-FRAMEWORK.md). Add, change or remove items in the sheet, never in the page, and keep the sheet in the page's order.
+- A condition page's sections, Key Sources to Patient Resources, live in the CSV list sheet beside the page (`style=condition`, format: List sheets in NPPR-FRAMEWORK.md). Add, change or remove links in the sheet, never in the page; put each year in the `year` column; keep frontmatter `sources` in step with the sheet. Start new pages from NPPR - Condition.md and NPPR - Condition.csv.
 - The Approaches section is a complete, accurate list of the "approach to" articles and pages each source offers, whatever their age. When a more recent guideline covers the same topic as an approach, keep the approach and add a link to that guideline, with its year, beside it.
 - On condition pages, remove summaries and reviews (PEER, journal reviews) that predate the current version of the guideline they discuss, unless they cover something the guideline doesn't.
 - When you add, move or remove a page, update the In This Section list on its section's index.md in the same change.

@@ -92,38 +92,8 @@ sources:
 
 *Infants, children and youth with a urinary tract infection. Bugs & Drugs, RACE, BC stewardship advice and adult resources are on the [Urinary Tract Infection (UTI)](../../3%20Conditions/Renal%20and%20Genitourinary/Urinary%20Tract%20Infection%20%28UTI%29.md) condition page.*
 
-## Key Sources
-
-??? info "[Canadian Paediatric Society - Optimizing Management of Urinary Tract Infections in Children (2026)](https://cps.ca/en/documents/position/management-urinary-tract-infections)"
-	*CPS position statement, posted August 25, 2026. First UTIs in children aged 1 month to 5 years. Replaces the retired 2014 CPS statement.*  
-
-??? info "[TREKK - Bottom Line Recommendations: Urinary Tract Infection (2023)](https://trekk.ca/resources/bottom-line-recommendations-urinary-tract-infection/)"
-	*Translating Emergency Knowledge for Kids, version 2.0, October 2023 (marked for revision in 2025; no newer version posted). Children over 2 months.*  
-	- [Bottom Line Recommendations (PDF, 2023)](https://cms.trekk.ca/wp-content/uploads/2023/11/2023-11-14_UTI_BLR_FINAL.pdf)  
-	- [Evidence Repository: Urinary Tract Infection (version 2.0, PDF)](https://cms.trekk.ca/wp-content/uploads/2023/11/2022-23-12_UTI_ER_FINAL_v2.0.pdf)  
-
-## Algorithms and Pathways
-
-*No BC or Canadian pediatric UTI pathway found.*
-
-## Assessment Tools and Calculators
-
-*No pediatric UTI calculator found on MDCalc or a BC or Canadian site.*
-
-## Prescribing
-
-*Antimicrobial references, including Bugs & Drugs' pediatric section, are on the [UTI](../../3%20Conditions/Renal%20and%20Genitourinary/Urinary%20Tract%20Infection%20%28UTI%29.md) condition page.*
-
-## Advice and Referral
-
-- [RTVS CHARLiE: Child Health Advice in Real-Time Electronically (RCCbc)](https://rccbc.ca/initiatives/rtvs/charlie/) — *24/7 pediatric advice by Zoom (add the contact `charlie1@rccbc.ca`; it takes no email) or phone (236-305-5352) from pediatricians, pediatric emergency physicians and pediatric intensivists, for physicians, NPs, nurses and midwives in rural, remote and First Nations communities in BC*
-- [BC Children's Hospital: Urology Referral](https://www.bcchildrens.ca/health-professionals/make-referral/urology-referral) — *referral letter by fax from a physician or nurse practitioner*
-
-## Patient Resources
-
-- [HealthLink BC - Urinary Tract Infections in Children](https://www.healthlinkbc.ca/healthwise/urinary-tract-infections-children)
-- [Caring for Kids (CPS) - Urinary Tract Infections (updated January 2020)](https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/urinary_tract_infections)
-- [TREKK - Did You Know Babies and Children Can Get Urinary Tract Infections? (infographic)](https://trekk.ca/resources/infographic-did-you-know-babies-and-children-can-get-urinary-tract-infections/)
-- [TREKK - Did You Know Babies and Children Can Get Urinary Tract Infections? (video)](https://trekk.ca/resources/video-did-you-know-babies-and-children-can-get-urinary-tract-infections/)
+<!-- The page's sections live in Pediatric UTI.csv beside this page, one row per line; the site build writes them in here.
+     Edit the sheet, not this page, to change a link. Column guide: NPPR-FRAMEWORK.md, Page standard, List sheets. -->
+<!-- nppr-list: Pediatric UTI.csv style=condition -->
 
 ---
