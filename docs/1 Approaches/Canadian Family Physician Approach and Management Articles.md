@@ -8,7 +8,7 @@ last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
 description: "Canadian Family Physician's \"Approach to\" and \"Management of\" clinical reviews from 2010 onward: 114, listed by body system with their year."
-logo: "https://pbs.twimg.com/profile_images/1535256228351430661/83zyyxuG.jpg"
+logo: "/assets/logos/cfp.jpg"
 logo-alt: "Canadian Family Physician"
 sources:
   - id: cfp-approach-to
