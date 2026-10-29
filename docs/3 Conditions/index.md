@@ -29,7 +29,7 @@ status: published
 
 -   :material-water-outline:{ .nppr-icon } [**Renal and Genitourinary**](Renal%20and%20Genitourinary/index.md)
 
-    Urinary tract infection.
+    Chronic kidney disease and urinary tract infection.
 
 -   :material-bone:{ .nppr-icon } [**Musculoskeletal**](Musculoskeletal/index.md)
 
