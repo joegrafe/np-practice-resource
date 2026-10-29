@@ -11,7 +11,7 @@ description: "An index of <publisher>'s <article type>, grouped by body system."
 logo: ""                   # publisher's own logo image URL (hotlinked)
 logo-alt: ""
 sources:
-  # One entry per linked item. BC first, then national, then international (INTL). Field list: FRONTMATTER.md
+  # One entry for the publisher's index. The items go in the CSV list sheet beside the page, not here. Field list: FRONTMATTER.md
   - id:
     title:
     publisher:
@@ -33,9 +33,9 @@ sources:
 
 <div class="nppr-filter" data-placeholder="Filter <items>, e.g. pain"></div>
 
-### <Body system> (<count>)
-
-- [Item title (year)](web page) · [PDF](pdf link) — *note on what the link holds*
+<!-- The list lives in <Page name>.csv beside this page, one row per item; the site build writes it in here.
+     Edit the sheet, not this page, to change the list. Start the sheet from "NPPR - Approach.csv" in Templates. -->
+<!-- nppr-list: <Page name>.csv counts -->
 
 ## More Approaches
 
