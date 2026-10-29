@@ -6,8 +6,10 @@ name: PR checks
 #                (scripts/check_pages.py; rules some pages don't meet yet are warnings)
 #   New links    every external link added by the PR (scripts/check_links.py --added);
 #                warnings only, since some sites block automated checks
-#   Site build   a strict test build with nppr-website-config (needs PAT_TOKEN to
-#                read that repo; skipped with a note if it can't)
+#   Site build   a strict test build with nppr-website-config, then its search
+#                check (scripts/search-check.js: every line of search-checks.txt
+#                must find its page); needs PAT_TOKEN to read that repo, and is
+#                skipped with a note if it can't
 on:
   pull_request:
   workflow_dispatch:
@@ -106,6 +108,19 @@ jobs:
         run: |
           pip install -q -r requirements.txt
           mkdocs build -f mkdocs.test.yml --strict
+
+      - uses: actions/setup-node@v4
+        if: steps.config.outcome == 'success'
+        with:
+          node-version: "22"
+
+      - name: Search check
+        if: steps.config.outcome == 'success'
+        working-directory: config
+        run: |
+          npm install --no-save --no-package-lock playwright@1.56.1
+          npx playwright install --with-deps chromium
+          node scripts/search-check.js
 
       - name: Note a skipped build
         if: steps.config.outcome != 'success'
