@@ -3,10 +3,10 @@ title: Presentations A to Z
 type: approach
 tags: [approach]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "Every item on the other Approaches pages, listed under the presenting complaint it covers, A to Z. BC sources first, then Canadian, then international."
 ---
 <!-- This page is built at site build time by scripts/presentations.py in nppr-website-config.

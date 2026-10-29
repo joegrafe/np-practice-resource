@@ -3,10 +3,10 @@ title: "Canadian Family Physician: Approach To and Management Of"
 type: approach
 tags: [approach]
 jurisdiction: [CA]
-status: draft
+status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
-reviewers: []
+reviewers: [joegrafe]
 description: "Canadian Family Physician's \"Approach to\" and \"Management of\" clinical reviews from 2010 onward: 114, listed by body system with their year."
 sources:
   - id: cfp-approach-to

@@ -4,8 +4,8 @@ type: approach
 tags: [approach]
 jurisdiction: [INTL]
 status: published
-last-reviewed: 2026-10-16
-review-due: 2027-10-16
+last-reviewed: 2026-10-29
+review-due: 2027-10-29
 reviewers: [joegrafe]
 description: "An index of recent, free American Family Physician (AAFP) review articles on the approach to, evaluation and management of common primary care presentations and conditions, grouped by body system."
 logo: "/assets/logos/aafp.svg"
