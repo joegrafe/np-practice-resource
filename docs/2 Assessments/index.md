@@ -20,7 +20,5 @@ redirect_from: [assessments/assessment-resources]  # retired 2026-10-30; its row
 - [Lab and Imaging](Lab%20and%20Imaging.md)
 - [Preventive Care and Cancer Screening](Preventive%20Care%20and%20Cancer%20Screening.md)
 - [Physical Exam by System](Physical%20Exam%20by%20System.md)
-    - [Heart Sounds and Murmurs](Heart%20Sounds%20and%20Murmurs.md)
-    - [Lung Sounds](Lung%20Sounds.md)
 - [Clinical Decision Rules](Clinical%20Decision%20Rules.md)
 - [POCUS](POCUS/index.md)

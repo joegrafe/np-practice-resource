@@ -1,14 +1,15 @@
 ---
 title: Physical Exam by System
 type: assessment
-tags: [assessment, physical-exam, special-tests, msk]
+tags: [assessment, physical-exam, special-tests, msk, auscultation]
 jurisdiction: [BC, CA, INTL]
-aliases: [physical exam, physical examination, clinical examination, exam technique, how to examine, special tests, orthopedic tests, joint exam, MSK exam, shoulder exam, knee exam, hip exam, back exam, neck exam, McMurray, Lachman, Neer, Hawkins-Kennedy, Phalen, Tinel, Finkelstein, FABER, straight leg raise, neuro exam, neurological exam, cranial nerves, dermatomes, diabetic foot exam, monofilament, blood pressure measurement, fundoscopy, ophthalmoscope, skin lesion terms, OSCE]
+aliases: [physical exam, physical examination, clinical examination, exam technique, how to examine, special tests, orthopedic tests, joint exam, MSK exam, shoulder exam, knee exam, hip exam, back exam, neck exam, McMurray, Lachman, Neer, Hawkins-Kennedy, Phalen, Tinel, Finkelstein, FABER, straight leg raise, neuro exam, neurological exam, cranial nerves, dermatomes, diabetic foot exam, monofilament, blood pressure measurement, fundoscopy, ophthalmoscope, skin lesion terms, OSCE, heart sounds, heart murmurs, murmur, cardiac auscultation, auscultation, S3, S4, gallop, systolic murmur, diastolic murmur, aortic stenosis murmur, mitral regurgitation murmur, innocent murmur, Still's murmur, pediatric murmur, heart sound library, lung sounds, breath sounds, respiratory auscultation, chest auscultation, crackles, rales, wheeze, wheezing, rhonchi, stridor, pleural rub, squawk, bronchial breath sounds, lung sound library, stethoscope]
 status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
 reviewers: [joegrafe]
-description: "Exam technique guides and videos by body system, with joint-by-joint special tests: Canadian sources first, international ones labelled."
+redirect_from: [assessments/heart-sounds-and-murmurs, assessments/lung-sounds]  # own pages until 2026-10-30, folded in at Joe's ask
+description: "Exam technique guides and videos by body system, heart and lung sound recordings, and joint-by-joint special tests: Canadian sources first, international ones labelled."
 sources:
   - id: pe-bc-gpac-htn-appendix-b-2020
     title: "Hypertension, Appendix B: Blood Pressure Measurement"
@@ -35,6 +36,15 @@ sources:
     version: "2026"
     url: "https://hypertension.ca/download-educational-resources#:~:text=Blood%20Pressure%20Measurement%20Poster"
     pdf: "https://hypertension.ca/wp-content/uploads/2026/06/4.-Poster_Blood-pressure-measurement-poster-Feb-19-2026.pdf"
+    checked: 2026-10-30
+  - id: pedscases-heart-murmurs-2020
+    title: "Approach to Heart Murmurs"
+    publisher: "PedsCases"
+    jurisdiction: CA
+    kind: summary
+    version: "2020"
+    url: "https://www.pedscases.com/approach-heart-murmurs"
+    pdf: "https://www.pedscases.com/sites/default/files/Heart%20Murmurs%20PedsCases%20Notes_0.pdf"
     checked: 2026-10-30
   - id: diabetes-canada-appendix-11a
     title: "Appendix 11A: Rapid Screening for Diabetic Neuropathy"
@@ -155,6 +165,46 @@ sources:
     kind: tool
     version: "Checked 2026-10-30"
     url: "https://geekymedics.com/category/osce/clinical-examination/"
+    checked: 2026-10-30
+  - id: easy-auscultation-heart
+    title: "Free Learning Resources"
+    publisher: "Easy Auscultation"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-10-30"
+    url: "https://www.easyauscultation.com/learning-resources-free"
+    checked: 2026-10-30
+  - id: umich-heart-sound-library-2015
+    title: "Heart Sound and Murmur Library"
+    publisher: "University of Michigan Medical School"
+    jurisdiction: INTL
+    kind: tool
+    version: "2015"
+    url: "https://deepblue.lib.umich.edu/items/d9d03331-12f5-414e-9c19-3c5985bedb49"
+    checked: 2026-10-30
+  - id: uw-physdx-heart
+    title: "Advanced Physical Diagnosis: Heart Sounds and Murmurs"
+    publisher: "University of Washington"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-10-30"
+    url: "https://depts.washington.edu/physdx/heart/"
+    checked: 2026-10-30
+  - id: easy-auscultation-lung
+    title: "Lung Sounds"
+    publisher: "Easy Auscultation"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-10-30"
+    url: "https://easyauscultation.com/lung-sounds"
+    checked: 2026-10-30
+  - id: thinklabs-lung-sounds
+    title: "Lung Sounds"
+    publisher: "Thinklabs"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-10-30"
+    url: "https://www.thinklabs.com/lung-sounds"
     checked: 2026-10-30
   - id: aafp-polyarticular-joint-pain-2023
     title: "Polyarticular Joint Pain in Adults: Evaluation and Differential Diagnosis"
@@ -294,11 +344,11 @@ sources:
     checked: 2026-10-30
 ---
 <!-- Assessments wave 3, built 2026-10-30, reviewed by Joe 2026-10-30; plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27).
-     How to do the exam; what to do with the findings lives on each condition page. Auscultation has its own pages (Heart Sounds and Murmurs, Lung Sounds); bedside ultrasound is POCUS (Assessments wave 6); rules that decide on imaging are on Clinical Decision Rules.
+     How to do the exam; what to do with the findings lives on each condition page. Heart and lung sounds sit under Cardiovascular and Respiratory (moved in from their own pages 2026-10-30, Joe's ask); bedside ultrasound is POCUS (Assessments wave 6); rules that decide on imaging are on Clinical Decision Rules.
      No BC source teaches exam technique; BC Guidelines appear only where they set out a measurement (blood pressure). Canadian sources (Stethopedia, RheumGuide, RheumInfo, Diabetes Canada, Hypertension Canada, CEP) come before international ones.
      Replaces the exam rows of the old Assessment Resources page: NeuroExam (Oxford University Press, needs a textbook access code) is replaced by the free Utah NeuroLogic Exam; RheumTutor stays as a YouTube channel.
-     Unconfirmed because the session's network or the site blocks checks: Stethopedia, Stanford Medicine 25, UW Advanced Physical Diagnosis, Geeky Medics, Physiopedia, OrthoBullets, RheumTutor (YouTube), Utah NeuroLogic Exam, EyeGuru, EyeRounds (addresses confirmed by web search).
-     Left out: paywalled AAFP articles; JAMA Rational Clinical Examination (subscription).
+     Unconfirmed because the session's network or the site blocks checks: Stethopedia, Stanford Medicine 25, UW Advanced Physical Diagnosis, Geeky Medics, Physiopedia, OrthoBullets, RheumTutor (YouTube), Utah NeuroLogic Exam, EyeGuru, EyeRounds, Easy Auscultation, University of Michigan Deep Blue, Thinklabs (addresses confirmed by web search).
+     No Canadian lung sound source found. Left out: paid auscultation courses; paywalled AAFP articles; JAMA Rational Clinical Examination (subscription).
      Link to the source guidance; don't restate its recommendations. -->
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter exams, e.g. knee"></div>
