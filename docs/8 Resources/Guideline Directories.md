@@ -5,10 +5,10 @@ tags: [resource, guidelines, guideline-directories]
 aliases: [guidelines, guideline library, clinical practice guidelines, cpg, bc guidelines, gpac, task force, ctfphc, specialty society guidelines, nice, uspstf]
 redirect_from: [resources/bc-guidelines, resources/clinical-practice-guidelines, resources/canadian-urological-association]  # pages folded in 2026-10-30
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
-reviewers: []
+reviewers: [joegrafe]
 description: "Where to find the current guideline for a topic NPPR hasn't covered yet: BC Guidelines, BCCDC, the Canadian Task Force, CFPC, Canadian specialty-society guideline libraries, then NICE and USPSTF."
 sources:
   - id: bc-guidelines-gpac-guidelines-by-alphabetical-listing
@@ -181,7 +181,6 @@ sources:
     checked: 2026-10-30
 ---
 <!--
-status: review (Resources wave 1, 2026-10-30)
 Built from the old Guidelines/BC Guidelines, Clinical Practice Guidelines and Canadian Urological Association pages, now removed with redirects.
 Dropped, as the Resources plan decided (Joe, 2026-10-27): Guideline Central (US, commercial) and the Alberta Medical Association CPG page (retiring its single-topic guidelines). NPAC resources moves to Libraries and databases in Resources wave 2.
 BC Guidelines: the topic list drops the duplicate Radiology line; the ZIP is the May 2026 copy linked from What's New (the home page still links a January 2026 ZIP).

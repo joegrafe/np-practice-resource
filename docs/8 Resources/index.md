@@ -4,10 +4,10 @@ type: index
 tags: [index, resource]
 aliases: [not on nppr, where to look, guideline search, find a guideline]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
-reviewers: []
+reviewers: [joegrafe]
 description: "Where to look when a topic isn't on NPPR yet: BC Guidelines, the Canadian Task Force, specialty-society guideline libraries, PEER and Tools for Practice, then Trip."
 ---
 <!-- Section buttons are added automatically by the website build on top-level section pages.
