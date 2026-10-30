@@ -294,12 +294,12 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - [x] Asthma
 - [x] COPD
 - [x] Depression and anxiety (Mental Health and Substance Use)
-- [ ] Opioid use disorder (Mental Health and Substance Use)
-- [ ] Chronic pain (Musculoskeletal)
+- [x] Opioid use disorder (Mental Health and Substance Use)
+- [x] Chronic pain (Musculoskeletal)
 - [x] Urinary tract infection
 - [x] Respiratory tract infections (Infectious Disease)
 - [x] Thyroid disease
-- [ ] Osteoporosis (Endocrine and Metabolic)
+- [x] Osteoporosis (Endocrine and Metabolic)
 - [ ] Dementia and frailty (Neurology)
 - [x] Prenatal care (build as a section of Populations > Pregnancy and Perinatal, not a condition page)
 - [x] Well-child care (Rourke) (build as a section of Populations > Pediatrics, not a condition page)
@@ -427,7 +427,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 4. Stage D: Prescribing wave 3 · Practice wave 3 · Assessments waves 4 and 5 · Populations wave 3 · Resources wave 2 · Approaches waves 2 and 3 · About pages. This completes the phase 2 gate.
 5. Stage E: Assessments POCUS (wave 6), then Tools wave 2: phase 3 (Evidence Packs, steps 3.1, 3.2 and 3.4).
 
-**Next waves** (from the [build waves audit](https://claude.ai/artifact/JjicgFNy2PymAqHjZzZBCK), agreed by Joe on 2026-10-29). Stage B was left unfinished while later waves went ahead, so build in this order: 1 tidy search (older pages get full frontmatter so they carry badges and filters; near-empty stubs whose topic has no other use carry `search: {exclude: true}` until rebuilt; stubs that are the only page on their topic stay searchable); 2 Conditions wave 1, starting with depression and anxiety, respiratory tract infections and chronic kidney disease; 3 Populations wave 1, built from sheets; 4 Tools wave 1, AI Tools with llms.txt (step 3.3; Joe kept it in on 2026-10-29); 5 Resources wave 1 (built 2026-10-30); 6 list sheets for the published Assessments, Prescribing and Practice pages (built 2026-10-30); 7 the rest of Conditions wave 1; 8 Assessments waves 3 and 4; 9 Practice and Prescribing wave 3; 10 Populations wave 2. The daily "Add a condition" routine stays off, so condition pages are built on request. Once the missed-search log has data, its top missed searches set the order of Conditions waves 2 and 3.
+**Next waves** (from the [build waves audit](https://claude.ai/artifact/JjicgFNy2PymAqHjZzZBCK), agreed by Joe on 2026-10-29). Stage B was left unfinished while later waves went ahead, so build in this order: 1 tidy search (older pages get full frontmatter so they carry badges and filters; near-empty stubs whose topic has no other use carry `search: {exclude: true}` until rebuilt; stubs that are the only page on their topic stay searchable); 2 Conditions wave 1, starting with depression and anxiety, respiratory tract infections and chronic kidney disease; 3 Populations wave 1, built from sheets; 4 Tools wave 1, AI Tools with llms.txt (step 3.3; Joe kept it in on 2026-10-29); 5 Resources wave 1 (built 2026-10-30); 6 list sheets for the published Assessments, Prescribing and Practice pages (built 2026-10-30); 7 the rest of Conditions wave 1, in three batches (first batch, opioid use disorder, osteoporosis and chronic pain, built 2026-10-30); 8 Assessments waves 3 and 4; 9 Practice and Prescribing wave 3; 10 Populations wave 2. The daily "Add a condition" routine stays off, so condition pages are built on request. Once the missed-search log has data, its top missed searches set the order of Conditions waves 2 and 3.
 
 ## Sources
 
