@@ -100,40 +100,6 @@ sources:
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. custodian"></div>
 
-## Key Sources
-
-- [BCCNM - Nurses: Documentation (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/documentation.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_Documentation.pdf)
-- [BCCNM - Nurses: Privacy and Confidentiality (2026)](https://www.bccnm.ca/NP/PracticeStandards/Pages/privacyconfidentiality.aspx) · [PDF](https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_PrivacyConfidentiality.pdf)
-- [BCCNM - Documentation learning resources](https://bccnm.ca/NP/learning/documentation/Pages/Default.aspx) — *includes an FAQ on records in PCN clinics: custodian and trustee roles, data-sharing agreements and where record retention is set*
-    - [Documentation in Nursing Practice (learning module)](https://www.bccnm.ca/learning_modules2/documentation_in_nursing_practice/index.html)
-
-## Charting
-
-- [BC Ministry of Health - Clinical Record Documentation for nurse practitioners (November 2024) (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/medical-services-plan/4_clinical_record_documentation_nov2024.pdf) — *what MSP expects in the clinical record behind each encounter record*
-- [CNPS - InfoLAW: Quality Documentation: Your Best Defence (2020, updated 2025)](https://cnps.ca/article/infolaw-qualitydocumentation/)
-
-## Privacy and Confidentiality
-
-- [BCCNM - Privacy and confidentiality learning resources](https://www.bccnm.ca/NP/learning/confidentiality/Pages/Default.aspx)
-- [BC Laws - Personal Information Protection Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03063_01) — *applies to private practices and other private-sector organizations*
-- [BC Laws - Freedom of Information and Protection of Privacy Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00) — *applies to public bodies, including health authorities*
-- [CNPS - InfoLAW: Privacy and Electronic Medical Records (2020, updated 2022)](https://cnps.ca/article/privacy-and-electronic-medical-records/)
-
-## Virtual Care
-
-- [BCCNM - Virtual care learning resources](https://www.bccnm.ca/NP/learning/virtual_care/Pages/Default.aspx)
-
-## AI Tools and Scribes
-
-- See [Tools: AI Tools](../7%20Tools/4%20AI%20Tools/index.md)
-
-## How to Do It in BC
-
-1. When you join a clinic, confirm who is the custodian of the records you create and whether a data-sharing agreement is in place ([BCCNM documentation FAQ](https://bccnm.ca/NP/learning/documentation/Pages/Default.aspx)).
-2. Check your charting against the [BCCNM Documentation standard](https://www.bccnm.ca/NP/PracticeStandards/Pages/documentation.aspx) and [MSP's clinical record requirements](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/medical-services-plan/4_clinical_record_documentation_nov2024.pdf).
-3. For a privacy breach or a records request you're unsure about, call [CNPS](https://cnps.ca/services/plp-core/) or ask [BCCNM Standards Support](https://public.bccnm.ca/standardssupport).
-
-## Contacts
-
-- **BCCNM Standards Support:** [intake form](https://public.bccnm.ca/standardssupport) · 604.742.6200 · toll-free 1.866.880.7101
-- **CNPS:** 1.800.267.3390 · 8:30 a.m. to 4:30 p.m. Eastern
+<!-- Every section below the intro lives in Documentation Privacy and Records.csv beside this page, one row per line; the site build writes it in here.
+     Edit the sheet, not this page. -->
+<!-- nppr-list: Documentation Privacy and Records.csv style=condition -->

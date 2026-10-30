@@ -59,36 +59,6 @@ sources:
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. encounter records"></div>
 
-## Key Sources
-
-- [NNPBC - NP Primary Care Integration Program (NP-PIP)](https://www.nnpbc.com/practice-supports/np-pip/) — *Ministry of Health–funded support for NPs in longitudinal primary care: mentorship and coaching, PCN contract guides, a community of practice and licence fee reimbursement*
-- [NNPBC - Patient Medical Home Checklist for NP Integration (July 2026) (PDF)](https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/Patient-Medical-Home-Checklist-for-NP-Integration-.pdf) — *steps for joining a clinic under a PCN contract, including the practice level agreement*
-- [BC Ministry of Health - MSP: Nurse Practitioners (updated November 22, 2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/msp/nurse-practitioners) — *NPs are not paid fee-for-service by MSP but must submit encounter records*
-    - [Encounter Record Submission Procedures (November 2024) (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/medical-services-plan/3_encounter_record_submission_procedures_nov2024.pdf)
-    - [Definition of Terms (November 2024) (PDF)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/medical-services-plan/1_definition_of_terms_nov2024.pdf)
-
-## Contracts and Practice Models
-
-- [NNPBC - NP Portal: PCN contract resources](https://www.nnpbc.com/np-portal/np-pcn-contract/) — *contract templates and guides* · *members only*
-- [NNPBC - BC nurse practitioners vote yes to pursuing a Main Agreement (April 2026)](https://www.nnpbc.com/bc-nurse-practitioners-vote-yes-to-pursuing-a-main-agreement/) — *no agreement terms are published yet*
-
-## Encounter Records and Teleplan
-
-- [BC Ministry of Health - Encounter Record Submission Authorization, Form 2871 (PDF)](https://www2.gov.bc.ca/assets/gov/health/forms/2871fil.pdf)
-- [BC Ministry of Health - Teleplan](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/msp/claim-submission-payment/teleplan) — *the system that MSP claims and encounter records are submitted through*
-- [BC Ministry of Health - Forms for medical and health care practitioners](https://www2.gov.bc.ca/gov/content/health/health-forms/msp/forms-for-medical-health-care-practitioners)
-
-## WorkSafeBC
-
-- [NNPBC - WorkSafeBC infosheet for nurse practitioners (July 2026) (PDF)](https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/WorkSafe-BC-Infosheet-JUL-2026.pdf) — *when NPs who incorporate or employ staff must register, with the classification unit and 2026 premium*
-- [WorkSafeBC - Apply for coverage](https://www.worksafebc.com/en/insurance/apply-for-coverage)
-
-## How to Do It in BC
-
-1. For a longitudinal primary care role, start with [NNPBC NP-PIP](https://www.nnpbc.com/practice-supports/np-pip/) and work through the [Patient Medical Home checklist](https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/Patient-Medical-Home-Checklist-for-NP-Integration-.pdf).
-2. Before you see patients, set up encounter record submission ([Form 2871](https://www2.gov.bc.ca/assets/gov/health/forms/2871fil.pdf) and [Teleplan](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/msp/claim-submission-payment/teleplan)).
-3. If you incorporate or hire staff, check whether you must [register with WorkSafeBC](https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/WorkSafe-BC-Infosheet-JUL-2026.pdf).
-
-## Contacts
-
-- **NNPBC:** [NP Portal](https://www.nnpbc.com/np-portal/) — *practice supports for BC NPs* · *some content members only*
+<!-- Every section below the intro lives in Practice Models and Compensation.csv beside this page, one row per line; the site build writes it in here.
+     Edit the sheet, not this page. -->
+<!-- nppr-list: Practice Models and Compensation.csv style=condition -->

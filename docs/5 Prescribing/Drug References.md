@@ -108,40 +108,6 @@ sources:
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. monograph"></div>
 
-## Key Sources
-
-- [Therapeutics Initiative - Therapeutics Letter (UBC)](https://www.ti.ubc.ca/therapeutics-letter/) — *independent, bimonthly reviews of drug therapy questions, published since 1994; free*
-    - [Drug Assessments](https://www.ti.ubc.ca/research-publications/drug-assessments/)
-- [Canadian Pharmacists Association - CPS (Compendium of Pharmaceuticals and Specialties)](https://www.pharmacists.ca/products-services/compendium-of-pharmaceuticals-and-specialties/) — *Canadian drug monographs and therapeutic information* · *subscription*
-- [RxFiles - Drug Comparison Charts, 15th edition](https://www.rxfiles.ca/rxfiles/uploads/documents/books/charts.html) — *side-by-side drug comparisons by system, from University of Saskatchewan academic detailing; some charts and the app need a subscription*
-
-## Monographs and Product Information
-
-- [Health Canada - Drug Product Database](https://health-products.canada.ca/dpd-bdpp/index-eng.jsp) — *every drug authorized for sale in Canada, with its product monograph and marketing status; updated nightly*
-- [Canada's Drug Agency (CDA-AMC) - Find Reports](https://www.cda-amc.ca/find-reports) — *reimbursement reviews and recommendations that inform public drug plans, including PharmaCare*
-
-## Safety and Supply
-
-- [Health Canada - MedEffect Canada](https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html) — *report an adverse reaction and find new drug safety information*
-    - [Adverse reaction reporting](https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/adverse-reaction-reporting.html)
-    - [Advisories, warnings and recalls](https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/advisories-warnings-recalls.html)
-- [Government of Canada - Recalls and safety alerts](https://recalls-rappels.canada.ca/en)
-- [ISMP Canada](https://www.ismp-canada.org/) — *safety bulletins, including the "Do Not Use" list of dangerous abbreviations*
-- [BC PharmaCare - Drug shortages](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/pharmacies/drug-shortage-information) — *current shortages at BC community pharmacies, with covered alternatives and coverage notes*
-- [Health Canada - Drug shortages in Canada](https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages.html) — *national shortage and discontinuation reports from manufacturers*
-    - [Drug and health product shortages reporting site](https://healthproductshortages.ca/)
-
-## Dosing Calculators
-
-- [MDCalc - Creatinine Clearance (Cockcroft-Gault Equation)](https://www.mdcalc.com/calc/43/creatinine-clearance-cockcroft-gault-equation) — *international; for renal dose adjustment*
-
-## Special Populations
-
-- [Pregnancy and Perinatal](../4%20Populations/Pregnancy%20and%20Perinatal.md) — *medication in pregnancy and lactation*
-- [Trans Care](../4%20Populations/Trans%20Care.md) — *gender-affirming hormone therapy*
-- [Pediatrics](../4%20Populations/Pediatrics/Pediatrics.md)
-
-## NP Prescribing Notes
-
-- Check that a drug is within NP prescribing authority in [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx). The full set of NP prescribing rules is on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md).
-- For how to work through a prescribing decision, see [Rational Prescribing](Rational%20Prescribing.md).
+<!-- Every section below the intro lives in Drug References.csv beside this page, one row per line; the site build writes it in here.
+     Edit the sheet, not this page. -->
+<!-- nppr-list: Drug References.csv style=condition -->

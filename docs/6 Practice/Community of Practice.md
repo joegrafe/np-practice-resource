@@ -54,23 +54,6 @@ sources:
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. mentorship"></div>
 
-## Key Sources
-
-- [NP Circle](https://npcircle.ca/) · [iPhone app](https://apps.apple.com/ca/app/np-circle/id6756588736) · [Android app](https://play.google.com/store/apps/details?id=ca.npcircle.members) — *online community for NPs and NP students in Canada and the US: discussion forum, case sharing and mentorship; free to join, with paid accredited courses*
-- [NNPBC - NP Primary Care Integration Program (NP-PIP)](https://www.nnpbc.com/practice-supports/np-pip/) — *a community of practice, mentorship and coaching for BC NPs in longitudinal primary care*
-
-## Project ECHO Programs
-
-- [BC Centre on Substance Use - BC ECHO on Substance Use](https://www.bccsu.ca/BCECHOonSubstanceUse/) — *monthly case-based video sessions for primary care physicians and NPs; accredited for continuing education*
-- [Pain BC - BC ECHO for Chronic Pain](https://painbc.ca/echo) — *free, virtual community of practice for BC health care providers: monthly one-hour sessions over four months*
-- [Interior Health - Project ECHO](https://www.interiorhealth.ca/information-for/medical-staff/tools-and-resources/project-echo) — *Interior Health's ECHO programs for clinicians in the region*
-
-## How to Do It in BC
-
-1. Join [NP Circle](https://npcircle.ca/) for a national peer network.
-2. If you work in longitudinal primary care, contact [NNPBC NP-PIP](https://www.nnpbc.com/practice-supports/np-pip/) about its community of practice and mentorship.
-3. Register for an ECHO series that matches your caseload.
-
-## Contacts
-
-- **NNPBC:** [NP Portal](https://www.nnpbc.com/np-portal/) — *practice supports for BC NPs* · *some content members only*
+<!-- Every section below the intro lives in Community of Practice.csv beside this page, one row per line; the site build writes it in here.
+     Edit the sheet, not this page. -->
+<!-- nppr-list: Community of Practice.csv style=condition -->
