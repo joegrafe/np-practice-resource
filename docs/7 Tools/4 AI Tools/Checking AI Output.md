@@ -10,14 +10,15 @@ review-due: 2027-04-30  # 6 months: AI tools and scribe programs change fast (To
 reviewers: [joegrafe]
 description: "How to check an AI tool against the source: the step of the visit each NPPR section serves, and BCCNM, health authority and CMPA guidance on reviewing AI-drafted notes and answers."
 sources:
-  - id: bccnm-using-artificial-intelligence-practice-2024
+  - id: bccnm-using-artificial-intelligence-practice-2026
     title: "Using Artificial Intelligence in Practice"
     publisher: BC College of Nurses and Midwives
     jurisdiction: BC
     kind: guideline
-    version: "2024"
+    version: "2026"
     url: "https://www.bccnm.ca/NP/learning/artificial-intelligence/Pages/Default.aspx"
     checked: 2026-10-30
+    supersedes: bccnm-using-artificial-intelligence-practice-2024
   - id: island-health-ai-toolkit-ai-scribe-limitations
     title: "AI ToolKit: AI Scribe Limitations and Mitigations"
     publisher: Island Health
