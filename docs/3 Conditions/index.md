@@ -17,7 +17,7 @@ status: published
 
 -   :material-heart-pulse:{ .nppr-icon } [**Cardiovascular**](Cardiovascular/index.md)
 
-    Atrial fibrillation, lipids, heart failure and hypertension.
+    Atrial fibrillation, lipids, chest pain, heart failure and hypertension.
 
 -   :material-lungs:{ .nppr-icon } [**Respiratory**](Respiratory/index.md)
 
@@ -25,19 +25,19 @@ status: published
 
 -   :material-diabetes:{ .nppr-icon } [**Endocrine and Metabolic**](Endocrine%20and%20Metabolic/index.md)
 
-    Type 2 diabetes, obesity, osteoporosis and thyroid disease.
+    Type 2 diabetes, electrolyte disorders, obesity, osteoporosis and thyroid disease.
 
 -   :material-water-outline:{ .nppr-icon } [**Renal and Genitourinary**](Renal%20and%20Genitourinary/index.md)
 
-    Chronic kidney disease and urinary tract infection.
+    Acute kidney injury, chronic kidney disease and urinary tract infection.
 
 -   :material-bone:{ .nppr-icon } [**Musculoskeletal**](Musculoskeletal/index.md)
 
-    Chronic pain and rheumatoid arthritis.
+    Chronic pain, low back pain, rheumatoid arthritis, and sprains and minor fractures.
 
 -   :material-brain:{ .nppr-icon } [**Neurology**](Neurology/index.md)
 
-    Concussion and mild traumatic brain injury.
+    Concussion and mild traumatic brain injury, and dementia and frailty.
 
 -   :material-head-heart-outline:{ .nppr-icon } [**Mental Health and Substance Use**](Mental%20Health%20and%20Substance%20Use/index.md)
 
