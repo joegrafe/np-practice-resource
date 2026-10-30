@@ -1,0 +1,49 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords
+Key Sources,box,,"BC Guidelines - Osteoporosis: Diagnosis, Treatment and Fracture Prevention",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/osteoporosis,2012,,,"adults 19 and older; risk assessment, bone mineral density testing, treatment and fracture prevention",OP BMD
+Key Sources,,1,Full Guideline (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/osteoporosis.pdf,,,,,
+Key Sources,,1,Summary (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/osteoprosis_summary.pdf,,,,,
+Key Sources,,1,Appendix A: Examples of Medications that May Contribute to Bone Loss,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/osteoporosis_appendix_a.pdf,,,,,
+Key Sources,,1,Appendix B: Testing for Suspected Secondary Causes of Osteoporosis in Selected Patients,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/osteoporosis_appendix_b.pdf,,,,,secondary osteoporosis
+Key Sources,,1,Appendix C: Using the FRAX Calculator to Assess Absolute Fracture Risk,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/osteoporosis_appendix_c.pdf,,,,,FRAX
+Key Sources,,1,Appendix D: Prescription Medication Table for Osteoporosis,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/osteoporosis_appendix_d.pdf,,,,,
+Key Sources,box,,Osteoporosis Canada - Clinical Practice Guideline for Management of Osteoporosis and Fracture Prevention in Canada: 2023 Update,https://osteoporosis.ca/2023-clinical-practice-guideline/,2023,https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf,,"national guideline for postmenopausal females and males 50 and older: risk assessment, exercise, nutrition and medication; open access in CMAJ",Osteoporosis Canada
+Key Sources,,1,Guideline (CMAJ),https://www.cmaj.ca/content/195/39/E1333,,https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf,,,
+Key Sources,,1,Appendices (CMAJ),https://www.cmaj.ca/content/195/39/E1333/tab-related-content,,,,,
+Key Sources,,1,Algorithm 1 (PDF),https://osteoporosis.ca/wp-content/uploads/2025/01/Algorithm-1-221647-guide-f1_March-22-2024_V1-B-HIGH-RES-Spacing-scaled-1.pdf,,,,,algorithm
+Key Sources,,1,Algorithm 2 (PDF),https://osteoporosis.ca/wp-content/uploads/2025/01/Algorithm-2-221647-guide-f2_March-22-2024_V1-B-HIGH-RES-Spacing-scaled-1.pdf,,,,,algorithm
+Key Sources,,1,2023 Clinical Practice Guideline Tools,https://osteoporosis.ca/2023-clinical-practice-guideline-tools/,,,,,
+Key Sources,box,,Canadian Family Physician - Approach to Osteoporosis Diagnosis and Fracture Risk Management in Primary Care,https://www.cfp.ca/content/72/4/239,2026,https://www.cfp.ca/content/cfp/72/4/239.full.pdf,,Can Fam Physician 72(4); primary care review of the 2023 Canadian guidelines,approach review
+Key Sources,,1,Full Article (PDF),https://www.cfp.ca/content/cfp/72/4/239.full.pdf,,,,,
+Further Resources,box,,"Therapeutics Initiative - [147] Screening to reduce fragility fractures: new trials, still ineffective",https://www.ti.ubc.ca/2024/02/28/147-screening-to-reduce-fragility-fractures-new-trials-still-ineffective/,2024,https://www.ti.ubc.ca/wordpress/wp-content/uploads/2024/02/TL-147wrapper.pdf,,independent drug evaluation from UBC,screening
+Further Resources,,1,Full Letter (PDF),https://www.ti.ubc.ca/wordpress/wp-content/uploads/2024/02/TL-147wrapper.pdf,,,,,
+Further Resources,box,,Canadian Task Force on Preventive Health Care - Screening for the Primary Prevention of Fragility Fractures,https://canadiantaskforce.ca/guidelines/published-guidelines/fragility-fractures/,2023,,,screening adults 40 and older without a prior fragility fracture,screening
+Further Resources,,1,Guideline (CMAJ),https://www.cmaj.ca/lookup/doi/10.1503/cmaj.221219,,,,,
+Further Resources,,1,Clinician Infographic,https://canadiantaskforce.ca/tools-resources/fragility-fractures-clinician-infographic/,,,,,
+Further Resources,,1,Fragility Fractures Decision Aid (interactive),https://frax.canadiantaskforce.ca/,,,,shared decision-making with FRAX-based risk,decision aid
+Further Resources,box,,Canadian Family Physician - 2023 Guidelines for Osteoporosis Care in Older Female Patients,https://www.cfp.ca/content/72/1/39,2026,,,Can Fam Physician 72(1); compares the 2023 Osteoporosis Canada and Task Force guidelines,
+Further Resources,box,,AAFP - Osteoporosis: Common Questions and Answers,https://www.aafp.org/afp/2023/0300/osteoporosis,2023,,,"International source: US guidance, not Canadian.",
+Algorithms and Pathways,,,Pathways BC: Osteoporosis,https://pathwaysbc.ca/ci/9866,2026,,,BC enhanced care pathway (Fraser Health Geriatrics); more BC pathways in [Pathways BC Enhanced Care Pathways](../../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md),
+Algorithms and Pathways,note,,,,,,,No Alberta Pathway Hub pathway for osteoporosis found.,
+Assessment Tools and Calculators,,,FRAX Fracture Risk Assessment Tool (Canada),https://www.fraxplus.org/calculation-tool?country=19,,,,10-year fracture risk with or without BMD; Canadian version,FRAX
+Assessment Tools and Calculators,,,Osteoporosis Canada - CAROC,https://osteoporosis.ca/caroc/,,,,Canadian Association of Radiologists and Osteoporosis Canada 10-year fracture risk tool,CAROC
+Assessment Tools and Calculators,,,Osteoporosis Canada - Calcium Calculator,https://osteoporosis.ca/calcium-calculator/,,,,dietary calcium intake,calcium
+Assessment Tools and Calculators,,,"Osteoporosis Canada - Medications That Can Cause Bone Loss, Falls and/or Fractures",https://osteoporosis.ca/medications-that-can-cause-bone-loss-falls-and-or-fractures/,,,,,
+Prescribing,box,,BC Provincial Academic Detailing - Medications for Osteoporosis: An Update (August 2024),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2023_osteoporosis_medications_update_handout_august_2024_update.pdf,2024,,,"BC Ministry of Health; handout, drug table and references",bisphosphonate denosumab
+Prescribing,,1,Drug Table (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2024_osteoporosis_medications_update_drug_table_august_2024_update.pdf,,,,,
+Prescribing,,1,References (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2023_osteoporosis_medications_update_reference_list_august_2024_update.pdf,,,,,
+Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,
+Prescribing,,1,Criteria any prescriber can request:,,,,,,
+Prescribing,,2,"Denosumab (last updated September 4, 2026)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-denosumab,,,,,Prolia
+Prescribing,,2,"Romosozumab (last updated March 26, 2025)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-page-tezepelumab-73812,,,,,Evenity
+Prescribing,,2,"Zoledronic acid (last updated March 24, 2025)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-zoledronic-acid,,,,,Aclasta
+Prescribing,,1,PharmaCare Special Authority Request: General (HLTH 5328),https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,denosumab and zoledronic acid,
+Prescribing,,1,PharmaCare Special Authority Request: Romosozumab (HLTH 5853),https://www2.gov.bc.ca/assets/gov/health/forms/5853fil.pdf,,,,,
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,https://www.raceconnect.ca/,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",
+Advice and Referral,,,Osteoporosis Canada - Fracture Liaison Services,https://osteoporosis.ca/fls-news/,,,,post-fracture assessment programs,FLS
+Patient Resources,,,HealthLink BC - Osteoporosis,https://www.healthlinkbc.ca/healthwise/osteoporosis,,,,,
+Patient Resources,,1,Osteoporosis: Should I Have a DXA Test?,https://www.healthlinkbc.ca/healthwise/osteoporosis-should-i-have-dual-energy-x-ray-absorptiometry-dxa-test,,,,decision aid,DEXA bone density test
+Patient Resources,,1,Osteoporosis: Should I Take Bisphosphonate Medicines?,https://www.healthlinkbc.ca/healthwise/osteoporosis-should-i-take-bisphosphonate-medicines,,,,decision aid,
+Patient Resources,,1,Osteoporosis in Men,https://www.healthlinkbc.ca/healthwise/osteoporosis-men,,,,,
+Patient Resources,,,BC Guidelines - Osteoporosis Patient Guide,https://www2.gov.bc.ca/assets/gov/health/managing-your-health/patient-information-guides/osteoporosis_patient_guide.pdf,,,,,
+Patient Resources,,,Osteoporosis Canada - Too Fit To Fracture,https://osteoporosis.ca/too-fit-to-fracture/,,,,exercise recommendations,exercise
+Patient Resources,,,Osteoporosis Canada - After the Fracture,https://osteoporosis.ca/after-the-fracture/,,,,,

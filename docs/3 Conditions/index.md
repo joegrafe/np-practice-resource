@@ -25,7 +25,7 @@ status: published
 
 -   :material-diabetes:{ .nppr-icon } [**Endocrine and Metabolic**](Endocrine%20and%20Metabolic/index.md)
 
-    Type 2 diabetes, obesity and thyroid disease.
+    Type 2 diabetes, obesity, osteoporosis and thyroid disease.
 
 -   :material-water-outline:{ .nppr-icon } [**Renal and Genitourinary**](Renal%20and%20Genitourinary/index.md)
 
@@ -33,7 +33,7 @@ status: published
 
 -   :material-bone:{ .nppr-icon } [**Musculoskeletal**](Musculoskeletal/index.md)
 
-    Rheumatoid arthritis.
+    Chronic pain and rheumatoid arthritis.
 
 -   :material-brain:{ .nppr-icon } [**Neurology**](Neurology/index.md)
 
@@ -41,7 +41,7 @@ status: published
 
 -   :material-head-heart-outline:{ .nppr-icon } [**Mental Health and Substance Use**](Mental%20Health%20and%20Substance%20Use/index.md)
 
-    ADHD, depression and anxiety.
+    ADHD, depression and anxiety, and opioid use disorder.
 
 -   :material-virus-outline:{ .nppr-icon } [**Infectious Disease**](Infectious%20Disease/index.md)
 
