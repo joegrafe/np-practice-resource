@@ -4,9 +4,10 @@ type: index
 tags: [index]
 jurisdiction: [BC, CA]
 status: published
-last-reviewed: 2026-10-27
-review-due: 2027-10-27
+last-reviewed: 2026-10-30
+review-due: 2027-10-30
 reviewers: [joegrafe]
+redirect_from: [assessments/assessment-resources]  # retired 2026-10-30; its rows moved to the pages below
 ---
 <!-- Section buttons are added automatically by the website build on top-level section pages.
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
@@ -18,5 +19,8 @@ reviewers: [joegrafe]
 ## In This Section
 - [Lab and Imaging](Lab%20and%20Imaging.md)
 - [Preventive Care and Cancer Screening](Preventive%20Care%20and%20Cancer%20Screening.md)
+- [Physical Exam by System](Physical%20Exam%20by%20System.md)
+    - [Heart Sounds and Murmurs](Heart%20Sounds%20and%20Murmurs.md)
+    - [Lung Sounds](Lung%20Sounds.md)
+- [Clinical Decision Rules](Clinical%20Decision%20Rules.md)
 - [POCUS](POCUS/index.md)
-- [Assessment Resources](Assessment%20Resources.md)
