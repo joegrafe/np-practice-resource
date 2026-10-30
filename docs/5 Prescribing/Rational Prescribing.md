@@ -101,41 +101,6 @@ sources:
      NP prescribing rules live on Practice: Prescribing Authority, linked below. -->
 *NPPR links published prescribing frameworks rather than writing its own algorithm. The table maps each step of a prescribing decision to the BC or Canadian source that checks it and the NPPR page that holds it.*
 
-## Key Sources
-
-- [Therapeutics Initiative - Therapeutics Letter (UBC)](https://www.ti.ubc.ca/therapeutics-letter/) — *independent, bimonthly reviews of drug therapy questions, published since 1994; free*
-    - [Drug Assessments](https://www.ti.ubc.ca/research-publications/drug-assessments/)
-- [WHO - Guide to Good Prescribing: A Practical Manual (1994)](https://iris.who.int/handle/10665/59001) — *international; the six-step model of rational prescribing, written for teaching; the record page links the PDF*
-- [Schiff GD et al. - Principles of Conservative Prescribing (2011)](https://pubmed.ncbi.nlm.nih.gov/21670331/) — *international; Arch Intern Med 2011;171(16):1433-40; full text may need a subscription*
-
-## Where to Check Each Step
-
-The steps follow the order of the WHO model, with a check of NP prescribing authority added.
-
-| Step | Where to check | On NPPR |
-| --- | --- | --- |
-| 1. Define the problem | The BC Guideline or national guideline for the condition | [Approaches](../1%20Approaches/index.md) · [Conditions](../3%20Conditions/index.md) |
-| 2. Set the treatment goal | The same guideline's targets and outcomes | The condition page's Key Sources |
-| 3. Choose the drug | Therapeutics Initiative, RxFiles, CPS, Health Canada product monographs | [Drug References](Drug%20References.md) |
-| 4. Check NP prescribing authority | [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx) | [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md) |
-| 5. Check coverage and start | PharmaCare Formulary Search, Special Authority | [Drug Coverage](Drug%20Coverage.md) |
-| 6. Inform the patient | Decision aids and patient handouts below | The condition page's Patient Resources |
-| 7. Monitor, report and stop | MedEffect adverse reaction reporting, prescribing cascades, deprescribing algorithms | [Drug References](Drug%20References.md#safety-and-supply) · Deprescribing *(coming)* |
-
-## Further Resources
-
-### Independent Drug Education in BC
-- [BC Ministry of Health - Provincial Academic Detailing (PAD) service](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pad-service) — *accredited sessions with a PAD pharmacist on selected drug therapy topics; book through your local academic detailer or PAD@gov.bc.ca*
-- [Therapeutics Initiative - Prescribing Portraits](https://www.ti.ubc.ca/portrait/) — *a snapshot of your own recent prescribing on a topic, compared with other BC clinicians; open to NPs with an active practice; online registration required*
-- [RxFiles Academic Detailing (Saskatchewan)](https://www.rxfiles.ca/rxfiles/modules/aboutus/AboutUs.aspx) — *drug comparison charts and academic detailing; the app needs a subscription*
-
-### Prescribing Less and Prescribing Safely
-- [Choosing Wisely Canada - Medications](https://choosingwiselycanada.org/medications/) — *campaigns, prescriber tools and quality improvement toolkits on medication use, including antibiotics, opioids, sedatives and PPIs*
-- [ThinkCascades (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9477172/) — *international, Canadian-led; nine clinically important prescribing cascades in older people; Drugs Aging 2022;39(10):829-40*
-
-### Shared Decision-Making
-- [Ottawa Hospital Research Institute - Patient Decision Aids, A to Z inventory](https://decisionaid.ohri.ca/AZsearch.php) — *decision aids by topic, screened against international standards*
-
-## NP Prescribing Notes
-
-- [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx) — *the standard, limits and conditions for NP prescribing in BC; the full set of prescribing rules is on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md)*
+<!-- Every section below the intro lives in Rational Prescribing.csv beside this page, one row per line; the site build writes it in here.
+     Edit the sheet, not this page. -->
+<!-- nppr-list: Rational Prescribing.csv style=condition -->

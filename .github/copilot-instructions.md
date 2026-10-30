@@ -23,9 +23,9 @@ When reviewing a pull request, check the rules below and comment only where the 
 - Sections in order: Key Sources · Further Resources · Algorithms and pathways · Assessment tools and calculators · Prescribing · Advice and referral · Patient resources · Review notes. No Evidence Pack placeholder heading and no comment embeds.
 - `system` matches the Conditions sub-folder.
 
-## List sheets (Approaches and condition pages)
+## List sheets (Approaches, condition and other content pages)
 
-- Approaches and condition pages keep their link lists in the CSV beside the page (same name, `.csv`), written in by the `<!-- nppr-list: ... -->` marker at build time. Items are added, changed or removed in the CSV, never in the page. Flag list items added to the page body.
+- Approaches, condition, Assessments, Prescribing, Practice, Populations, Resources and AI Tools pages keep their link lists in the CSV beside the page (same name, `.csv`), written in by the `<!-- nppr-list: ... -->` marker at build time. Items are added, changed or removed in the CSV, never in the page. Flag list items added to the page body.
 - Sheet columns: `heading, subheading, title, url, year, pdf, links, note, keywords, sub`, plus `kind` (blank, `box`, `note`, `md`) and `level` (blank, 0, 1, 2) on condition sheets. The year goes in `year`, not in `title`. Rows stay in the page's order.
 - When a condition sheet row changes, its source entry in the page's frontmatter `sources` changes in the same PR.
 - The Approaches section is a complete list of each source's "approach to" articles, whatever their age. When a newer guideline covers the same topic, the approach stays and the guideline is added beside it (in `links`) with its year.

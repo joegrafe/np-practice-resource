@@ -127,41 +127,6 @@ sources:
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. penicillin allergy"></div>
 
-## Key Sources
-
-- [Alberta Health Services - Bugs & Drugs (2026)](https://www.bugsanddrugs.org/) — *antimicrobial treatment reference by infection and organism, which the BC Guidelines point to for antimicrobial use; free website and app*
-- [AMMI Canada - Canadian Antibiotic Treatment Guidance (2025)](https://ammi.ca/education-professional-development/canadian-antibiotic-treatment-guidance/) — *national primary care antibiotic guidance, funded by the Public Health Agency of Canada; the first release covers respiratory tract infections, with other infections to follow; free on the Firstline app*
-    - [Firstline Canada (free download)](https://firstline.org/canada/)
-    - [Methods summary (PDF)](https://ammi.ca/wp-content/uploads/2026/06/AMMI-Antibiotic-Guidelines-Methods-SummaryEN-2025.pdf)
-- [BCCDC - Antimicrobial Stewardship](https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship) — *best-practice recommendations from BC's Provincial Antimicrobial Clinical Expert (PACE) group; most are for hospitals, the ones below apply in primary care*
-
-## BC Stewardship Advice
-
-- [PACE - Avoid Fluoroquinolones as First Line Therapy (2020)](https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship) · [PDF](https://www.bccdc.ca/Documents/Fluoroquinolones%20-%20Avoid%20as%20first-line%20treatment.pdf)
-- [PACE - Alternatives to Fluoroquinolones in Adults (2021)](https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship) · [PDF](https://www.bccdc.ca/Documents/Fluoroquinolones%20-%20Alternate%20Therapy%20in%20Adults.pdf) — *alternatives by infection*
-
-## Penicillin Allergy
-
-- [PACE - Beta-lactam Allergy De-labelling Guidelines and Toolkit (2021)](https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship) · [PDF](https://www.bccdc.ca/Documents/PACE%20Beta-lactam%20Allergy%20Delabeling%20Toolkit.pdf)
-- [BC Women's Hospital - Penicillin Allergy De-labelling Tool](https://app.firstline.org/en/clients/39-bc-womens-hospital/steps/61581) — *step-by-step risk assessment on the Firstline app, linked from BCCDC*
-- [BC Children's Hospital - Drop the Label](https://www.dropthelabel.ca/) — *BC penicillin allergy de-labelling project, with patient and provider resources*
-- [MDCalc - Penicillin Allergy Decision Rule (PEN-FAST)](https://www.mdcalc.com/calc/10422/penicillin-allergy-decision-rule-pen-fast) — *international; identifies low-risk penicillin allergy labels*
-
-## Local Resistance Data
-
-- [PACE - Health Authority and Community Cumulative Antimicrobial Susceptibility Snapshot (2024)](https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship) · [PDF](https://www.bccdc.ca/Documents/PACE%20Antimicrobial%20Susceptibility%20Report%202024.pdf) — *BC antibiogram by health authority, including community isolates*
-
-## Prescribing Less
-
-- [Choosing Wisely Canada - Using Antibiotics Wisely in Primary Care](https://choosingwiselycanada.org/primary-care/antibiotics/) — *adult and pediatric viral prescription pads, a delayed prescription pad in seven languages, practice recommendations for eight common infections, waiting room posters and patient pamphlets*
-
-## Patient Resources
-
-- [BCCDC - Antibiotic Wise](https://antibioticwise.ca/) — *public information on when antibiotics help; posters and brochures for clinics*
-    - [For professionals](https://antibioticwise.ca/professionals/)
-- [BCCDC - Do Bugs Need Drugs?](https://www.dobugsneeddrugs.org/) — *BC's education program on antibiotic use for the public, schools and care providers*
-
-## NP Prescribing Notes
-
-- Check that a drug is within NP prescribing authority in [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx). The full set of NP prescribing rules is on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md).
-- For PharmaCare coverage and Special Authority, see [Drug Coverage](Drug%20Coverage.md). For renal dosing, see [Drug References](Drug%20References.md#dosing-calculators).
+<!-- Every section below the intro lives in Antimicrobials.csv beside this page, one row per line; the site build writes it in here.
+     Edit the sheet, not this page. -->
+<!-- nppr-list: Antimicrobials.csv style=condition -->
