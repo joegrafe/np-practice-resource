@@ -5,10 +5,10 @@ system: neurology
 tags: [condition, neurology, dementia, cognitive-impairment, frailty, older-adults, adults]
 jurisdiction: [BC, CA, INTL]
 aliases: [dementia, frailty, frail elderly, cognitive impairment, mild cognitive impairment, MCI, major neurocognitive disorder, neurocognitive disorder, Alzheimer's disease, Alzheimer disease, vascular dementia, Lewy body dementia, frontotemporal dementia, memory loss, memory problems, forgetfulness, confusion, BPSD, behavioural and psychological symptoms of dementia, MoCA, MMSE, SMMSE, Mini-Cog, Clinical Frailty Scale, CFS, PRISMA-7, Timed Up and Go, TUG, donepezil, Aricept, galantamine, rivastigmine, Exelon, memantine, cholinesterase inhibitor, driving and dementia, fitness to drive, CCCDTD5, geriatrics, older adults, seniors]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-cognitive-impairment
     title: "Cognitive Impairment: Recognition, Diagnosis and Management in Primary Care"
@@ -265,7 +265,7 @@ sources:
     url: "https://mini-cog.com/"
     checked: 2026-10-30
 ---
-<!-- Status: review (Conditions wave 1, built 2026-10-30).
+<!-- Conditions wave 1, built 2026-10-30.
      Two BC Guidelines apply (Cognitive Impairment 2014, revised 2016; Frailty in Older Adults 2017), so Key Sources holds both, then the Canadian Consensus Conference (CCCDTD5) recommendations; the approach reviews go under Further Resources.
      No Alberta Pathway Hub pathway for dementia or frailty (checked 2026-10-30). The BC enhanced care pathways and the Island Health tools are hosted by Pathways BC (pathwaysbc.ca/ci links open without login).
      PharmaCare Special Authority covers donepezil, galantamine and rivastigmine (one form, HLTH 5465); memantine is not on the Special Authority list (checked 2026-10-30).

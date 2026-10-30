@@ -5,10 +5,10 @@ system: endocrine-metabolic
 tags: [condition, endocrine-metabolic, electrolytes, sodium, adults]
 jurisdiction: [BC, CA, INTL]
 aliases: [hyponatremia, hyponatraemia, low sodium, hypernatremia, hypernatraemia, high sodium, sodium, Na, SIADH, syndrome of inappropriate antidiuretic hormone, osmotic demyelination, free water deficit, corrected sodium, thiazide hyponatremia, beer potomania, electrolyte disorders]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: healthlinkbc-hyponatremia
     title: "Hyponatremia"
@@ -79,7 +79,7 @@ sources:
     url: "https://www.mdcalc.com/free-water-deficit"
     checked: 2026-10-30
 ---
-<!-- Status: review (Conditions wave 1, rebuilt 2026-10-30 to replace the older page removed on 2026-10-29).
+<!-- Conditions wave 1, rebuilt 2026-10-30 to replace the older page removed on 2026-10-29.
      No BC Guideline or Canadian guideline for sodium disorders; CMAJ's 2014 review is the Canadian source. No BC or Alberta pathway (checked 2026-10-30).
      The ESE/ESICM/ERBP hyponatraemia guideline (2014) is still current (PubMed search 2019 to 2026 found no update).
      Unconfirmed because the session's network or the site blocks checks: the ESE guideline (doi.org, Eur J Endocrinol; confirmed in PubMed, PMID 24569125), the CMAJ review (PMID 24344146, PMC4016091), the CFP 2016 article (PMID 27412211), MDCalc, the UCalgary Black Book schemes.
