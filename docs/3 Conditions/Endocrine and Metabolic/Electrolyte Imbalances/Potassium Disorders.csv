@@ -1,0 +1,19 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords
+Key Sources,box,,BC Medical Journal - Managing Hyperkalemia in the Outpatient Setting,https://bcmj.org/articles/managing-hyperkalemia-outpatient-setting,2025,,,"Yi TW, Wong MMY, Picard K, Renouf D, Levin A (BC Renal). BCMJ 67(3); review: causes, lab and sampling factors, medications, diet and outpatient management",outpatient hyperkalemia
+Key Sources,box,,KDIGO - Potassium Homeostasis and Management of Dyskalemia in Kidney Diseases: Controversies Conference Report,https://kdigo.org/conferences/controversies-conference-potassium-management/,2020,https://kdigo.org/wp-content/uploads/2018/04/KDIGO-Potassium-Management-Final-publication.pdf,,"International source: global guidance, not Canadian; Kidney Int 97(1)",KDIGO dyskalemia
+Key Sources,,1,Full Report (PDF),https://kdigo.org/wp-content/uploads/2018/04/KDIGO-Potassium-Management-Final-publication.pdf,,,,,
+Key Sources,box,,AAFP - Potassium Disorders: Hypokalemia and Hyperkalemia,https://www.aafp.org/afp/2023/0100/potassium-disorders-hypokalemia-hyperkalemia,2023,,,"International source: US guidance, not Canadian.",
+Further Resources,,,CMAJ - Prevention and Management of Hyperkalemia in Patients Treated with Renin-Angiotensin-Aldosterone System Inhibitors,https://www.cmaj.ca/content/193/48/E1836,2021,https://www.cmaj.ca/content/cmaj/193/48/E1836.full.pdf,,"CMAJ 193(48); ACE inhibitors, ARBs and MRAs",RAAS ACE inhibitor ARB spironolactone
+Further Resources,,,McGill Journal of Medicine - Approach to Hyperkalemia,https://mjm.mcgill.ca/article/view/903,2022,https://mjm.mcgill.ca/article/download/903/781,,Najjar C. McGill J Med 20(2); approach article,approach
+Further Resources,box,,UCalgary Black Book - Potassium schemes,,,,,diagnostic schemes,
+Further Resources,,1,Hyperkalemia: reduced excretion,https://blackbook.ucalgary.ca/schemes/renal/hyperkalemia-reduced-excretion/,,,,,
+Further Resources,,1,Hyperkalemia: intracellular shift,https://blackbook.ucalgary.ca/schemes/renal/hyperkalemia-intracellular-shift/,,,,,
+Further Resources,,1,Hypokalemia,https://blackbook.ucalgary.ca/schemes/renal/hypokalemia/,,,,,
+Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for potassium disorders found on 2026-10-30.,
+Prescribing,,,Canadian Family Physician - Electrolyte Disturbance with Diuretics and ACEIs,https://www.cfp.ca/content/62/7/569,2016,https://www.cfp.ca/content/cfp/62/7/569.full.pdf,,Can Fam Physician 62(7); drug-induced potassium and sodium changes,diuretics ACE inhibitors
+Prescribing,,,RxFiles: Kidney,https://www.rxfiles.ca/rxfiles/uploads/documents/books/kidney.html,,,,"drug dosing in kidney disease, including potassium binders; some documents need an RxFiles subscription",potassium binders
+Prescribing,note,,,,,,,Patiromer and sodium zirconium cyclosilicate are not on the PharmaCare Special Authority list (checked 2026-10-30).,
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,https://www.raceconnect.ca/,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",nephrology
+Patient Resources,,,HealthLink BC - Hyperkalemia,https://www.healthlinkbc.ca/healthwise/hyperkalemia,2023,,[Hypokalemia](https://www.healthlinkbc.ca/healthwise/hypokalemia),,
+Patient Resources,,,HealthLink BC - High-Potassium Foods,https://www.healthlinkbc.ca/healthwise/high-potassium-foods,,,,,diet
+Patient Resources,,,BC Renal - Potassium Management in Kidney Disease (PDF),https://www.bcrenal.ca/resource-gallery/Documents/Potassium_Management_in_Kidney_Disease.pdf,,,,diet handout for people with kidney disease,low potassium diet

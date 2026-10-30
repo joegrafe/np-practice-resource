@@ -1,0 +1,26 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords
+Key Sources,box,,Canadian Cardiovascular Society - Guidelines for the Diagnosis and Management of Stable Ischemic Heart Disease,https://onlinecjc.ca/article/S0828-282X(14)00356-0/fulltext,2014,https://onlinecjc.ca/article/S0828-282X(14)00356-0/pdf,,"Mancini GBJ et al. Can J Cardiol 30(8); stable angina: diagnosis, risk stratification and management",stable angina CCS
+Key Sources,,1,Full Guideline (PDF),https://onlinecjc.ca/article/S0828-282X(14)00356-0/pdf,,,,,
+Key Sources,box,,AHA/ACC - Guideline for the Evaluation and Diagnosis of Chest Pain,https://www.ahajournals.org/doi/10.1161/CIR.0000000000001029,2021,,,"International source: US guidance, not Canadian; Circulation 144(22), free to read; acute and stable chest pain, risk pathways and testing",AHA ACC
+Key Sources,,1,AAFP summary: Chest Pain Evaluation: Updated Guidelines From the AHA/ACC,https://www.aafp.org/afp/2023/0200/practice-guidelines-chest-pain-evaluation,2023,,,,
+Key Sources,box,,AAFP - Acute Chest Pain in Adults: Outpatient Evaluation,https://www.aafp.org/afp/2020/1215/p721,2020,,,"International source: US guidance, not Canadian; McConaghy JR et al.; office evaluation and when to send to the emergency department",outpatient
+Further Resources,,,BC Guidelines - Appropriate Use of CT for Suspected Pulmonary Embolism in the Non-Pregnant Adult,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#pulmonaryCT,2019,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appropriate_imaging_full_guideline.pdf,,part of Appropriate Imaging for Common Situations in Primary and Emergency Care,pulmonary embolism D-dimer
+Further Resources,,,McGill Journal of Medicine - Approach to: Chest Pain,https://mjm.mcgill.ca/article/view/314,2021,https://mjm.mcgill.ca/article/download/314/646,,Haghandish N. McGill J Med 19(2); approach article,approach
+Further Resources,box,,UCalgary Black Book - Chest pain schemes,,,,,diagnostic schemes,
+Further Resources,,1,Chest pain: life-threatening or not,https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-pain2/,,,,,
+Further Resources,,1,Chest pain: cardiac or non-cardiac,https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-pain1/,,,,,
+Further Resources,,1,Chest discomfort: cardiovascular,https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-discomfort-cardiovascular/,,,,,
+Further Resources,,1,Chest discomfort: pulmonary or mediastinal,https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-discomfort-pulmonary-mediastinal/,,,,,
+Further Resources,,1,Chest discomfort: other,https://blackbook.ucalgary.ca/schemes/cardiovascular/chest-discomfort-other/,,,,,
+Further Resources,box,,AAFP - Acute Coronary Syndrome: Diagnostic Evaluation,https://www.aafp.org/afp/2017/0201/p170,2017,,,"International source: US guidance, not Canadian.",ACS
+Further Resources,,1,NICE CG95 - Recent-Onset Chest Pain of Suspected Cardiac Origin: Assessment and Diagnosis,https://www.nice.org.uk/guidance/cg95,2016,,,"UK guidance (2010, updated 2016)",NICE
+Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for chest pain found on 2026-10-30.,
+Assessment Tools and Calculators,,,MDCalc: Marburg Heart Score (MHS),https://www.mdcalc.com/calc/4022/marburg-heart-score-mhs,,,,coronary artery disease risk for chest pain in primary care,Marburg
+Assessment Tools and Calculators,,,MDCalc: HEART Score for Major Cardiac Events,https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events,,,,emergency department chest pain risk; needs troponin,HEART
+Assessment Tools and Calculators,,,MDCalc: Wells' Criteria for Pulmonary Embolism,https://www.mdcalc.com/wells-criteria-pulmonary-embolism,,,,,Wells PE
+Assessment Tools and Calculators,,,MDCalc: PERC Rule for Pulmonary Embolism,https://www.mdcalc.com/perc-rule-pulmonary-embolism,,,,,PERC
+Prescribing,,,Canadian Cardiovascular Society - Post-Acute Coronary Syndrome Secondary Prevention Pathway,https://ccs.ca/wp-content/uploads/2025/10/CCS-ACS_Prevention_Pathway_Oct-2025.pdf,2025,,,medications and follow-up after ACS; see also [Cardiovascular Risk and Lipids](Cardiovascular%20Risk%20and%20Lipids.md),secondary prevention post-MI
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,https://www.raceconnect.ca/,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",cardiology
+Advice and Referral,,,RCCbc - Real-Time Virtual Support: RUDi (Emergency),https://rccbc.ca/initiatives/rtvs/rudi/,,,,"24/7 emergency physician support by Zoom and phone for rural and remote providers, including nurse practitioners",RTVS rural
+Patient Resources,,,HealthLink BC - Chest Problems,https://www.healthlinkbc.ca/healthwise/chest-problems,2022,,,symptom guide: when to call 9-1-1 or seek care,
+Patient Resources,,,Heart and Stroke Foundation - Signs of a Heart Attack,https://www.heartandstroke.ca/heart-disease/emergency-signs,,,[Angina](https://www.heartandstroke.ca/heart-disease/conditions/angina),,heart attack signs

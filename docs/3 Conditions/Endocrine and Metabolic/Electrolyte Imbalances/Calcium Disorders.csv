@@ -1,0 +1,20 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords
+Key Sources,box,,BC Guidelines - Hormone Testing: Indications and Appropriate Use (Calcium and Bone Metabolism),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/special-endocrine-testing#Calcium%20and%20Bone%20Metabolism,2022,,,"effective 2016, revised 2022; when to test PTH, 25-hydroxy and 1,25-dihydroxy vitamin D",PTH vitamin D testing
+Key Sources,,1,Full guideline page,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/special-endocrine-testing,,,,"reproduction, adrenal, thyroid, growth and glucose testing as well",
+Key Sources,box,,Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop,https://doi.org/10.1002/jbmr.4677,2022,,,"International source: international guidance, not Canadian; J Bone Miner Res 37(11)",PHPT parathyroidectomy
+Key Sources,box,,AAFP - Parathyroid Disorders,https://www.aafp.org/afp/2022/0300/p289,2022,,,"International source: US guidance, not Canadian; includes the initial approach to calcium abnormalities",
+Key Sources,,1,Initial Approach to Calcium Abnormalities,https://www.aafp.org/afp/2022/0300/p289#initial-approach-to-calcium-abnormalities,,,,,approach
+Further Resources,,,Canadian Family Physician - Hypocalcemia: Updates in Diagnosis and Management for Primary Care,https://www.cfp.ca/content/58/2/158,2012,https://www.cfp.ca/content/cfp/58/2/158.full.pdf,,Can Fam Physician 58(2),hypocalcemia
+Further Resources,,,McGill Journal of Medicine - Approach to Hypercalcemia,https://mjm.mcgill.ca/article/view/941,2022,https://mjm.mcgill.ca/article/download/941/719,,Mo S. McGill J Med 20(2); approach article,approach
+Further Resources,box,,UCalgary Black Book - Calcium schemes,,,,,diagnostic schemes,
+Further Resources,,1,Hypercalcemia: low PTH,https://blackbook.ucalgary.ca/schemes/endocrinology/hypercalcemia-low-pth/,,,,,
+Further Resources,,1,Hypercalcemia: normal or high PTH,https://blackbook.ucalgary.ca/schemes/endocrinology/hypercalcemia-normal-high-pth/,,,,,
+Further Resources,,1,Hypocalcemia: high or low PTH,https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-high-low-pth/,,,,,
+Further Resources,,1,Hypocalcemia: high phosphate,https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-high-phosphate/,,,,,
+Further Resources,,1,Hypocalcemia: low phosphate,https://blackbook.ucalgary.ca/schemes/endocrinology/hypocalcemia-low-phosphate/,,,,,
+Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for calcium disorders found on 2026-10-30.,
+Assessment Tools and Calculators,,,MDCalc: Calcium Correction for Hypoalbuminemia,https://www.mdcalc.com/calcium-correction-hypoalbuminemia,,,,corrected calcium from albumin,corrected calcium albumin
+Prescribing,note,,,,,,,No PharmaCare Special Authority criteria for cinacalcet found on 2026-10-30.,
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,https://www.raceconnect.ca/,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",endocrinology
+Patient Resources,,,HealthLink BC - Hyperparathyroidism,https://www.healthlinkbc.ca/healthwise/hyperparathyroidism,2023,,,,
+Patient Resources,,,HealthLink BC - Hypocalcemia,https://www.healthlinkbc.ca/healthwise/hypocalcemia,2023,,,,
