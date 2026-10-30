@@ -1,15 +1,15 @@
 ---
 title: Physical Exam by System
 type: assessment
-tags: [assessment, physical-exam, special-tests, msk, auscultation]
+tags: [assessment, physical-exam, special-tests, msk, auscultation, dermatology, pediatrics]
 jurisdiction: [BC, CA, INTL]
-aliases: [physical exam, physical examination, clinical examination, exam technique, how to examine, special tests, orthopedic tests, joint exam, MSK exam, shoulder exam, knee exam, hip exam, back exam, neck exam, McMurray, Lachman, Neer, Hawkins-Kennedy, Phalen, Tinel, Finkelstein, FABER, straight leg raise, neuro exam, neurological exam, cranial nerves, dermatomes, diabetic foot exam, monofilament, blood pressure measurement, fundoscopy, ophthalmoscope, skin lesion terms, OSCE, heart sounds, heart murmurs, murmur, cardiac auscultation, auscultation, S3, S4, gallop, systolic murmur, diastolic murmur, aortic stenosis murmur, mitral regurgitation murmur, innocent murmur, Still's murmur, pediatric murmur, heart sound library, lung sounds, breath sounds, respiratory auscultation, chest auscultation, crackles, rales, wheeze, wheezing, rhonchi, stridor, pleural rub, squawk, bronchial breath sounds, lung sound library, stethoscope]
+aliases: [physical exam, physical examination, clinical examination, exam technique, how to examine, special tests, orthopedic tests, joint exam, MSK exam, shoulder exam, knee exam, hip exam, back exam, neck exam, McMurray, Lachman, Neer, Hawkins-Kennedy, Phalen, Tinel, Finkelstein, FABER, straight leg raise, neuro exam, neurological exam, cranial nerves, dermatomes, diabetic foot exam, monofilament, blood pressure measurement, fundoscopy, ophthalmoscope, skin lesion terms, OSCE, skin exam, dermatology exam, skin check, full skin exam, describing a rash, rash, morphology, dermoscopy, dermatoscope, mole check, ABCDE, melanoma check, skin of colour, skin of color, darker skin, Mind the Gap, Skin Deep, teledermatology, pediatric dermatology, paediatric dermatology, childhood rash, newborn rash, viral exanthem, purpura, petechiae, bruising child abuse, non-blanching rash, TEN-4, TEN-4-FACESp, Don't Forget the Bubbles, DFTB, heart sounds, heart murmurs, murmur, cardiac auscultation, auscultation, S3, S4, gallop, systolic murmur, diastolic murmur, aortic stenosis murmur, mitral regurgitation murmur, innocent murmur, Still's murmur, pediatric murmur, heart sound library, lung sounds, breath sounds, respiratory auscultation, chest auscultation, crackles, rales, wheeze, wheezing, rhonchi, stridor, pleural rub, squawk, bronchial breath sounds, lung sound library, stethoscope]
 status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
 reviewers: [joegrafe]
 redirect_from: [assessments/heart-sounds-and-murmurs, assessments/lung-sounds]  # own pages until 2026-10-30, folded in at Joe's ask
-description: "Exam technique guides and videos by body system, heart and lung sound recordings, and joint-by-joint special tests: Canadian sources first, international ones labelled."
+description: "Exam technique guides and videos by body system, heart and lung sound recordings, joint-by-joint special tests, and skin exam resources for adults and children: Canadian sources first, international ones labelled."
 sources:
   - id: pe-bc-gpac-htn-appendix-b-2020
     title: "Hypertension, Appendix B: Blood Pressure Measurement"
@@ -19,6 +19,24 @@ sources:
     version: "2020"
     url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-b.pdf"
+    checked: 2026-10-30
+  - id: bcch-dermatology-referral-guidelines-2024
+    title: "Dermatology Referral Guidelines"
+    publisher: "BC Children's Hospital"
+    jurisdiction: BC
+    kind: guideline
+    version: "Last updated December 19, 2024"
+    url: "https://www.bcchildrens.ca/health-professionals/make-referral/dermatology-referral"
+    pdf: "https://bcchildrens.ca/sites/g/files/qpdaav156/files/2025-01/dermatology-referral-guidelines.pdf"
+    checked: 2026-10-30
+  - id: ubc-peds-derm-primer-2023
+    title: "Pediatric Dermatology: A Primer"
+    publisher: "UBC Library (BCcampus Pressbooks)"
+    jurisdiction: BC
+    kind: tool
+    version: "2023"
+    url: "https://pressbooks.bccampus.ca/pedsdermprimer/"
+    pdf: "https://pressbooks.bccampus.ca/pedsdermprimer/open/download?type=pdf"
     checked: 2026-10-30
   - id: stethopedia
     title: "Stethopedia"
@@ -141,6 +159,57 @@ sources:
     kind: tool
     version: "2016"
     url: "https://cep.health/clinical-products/core-neck-tool-and-headache-navigator/"
+    checked: 2026-10-30
+  - id: canadiem-describing-a-rash-2019
+    title: "Describing a Rash"
+    publisher: "CanadiEM"
+    jurisdiction: CA
+    kind: tool
+    version: "2019"
+    url: "https://canadiem.org/describing-a-rash/"
+    checked: 2026-10-30
+  - id: cda-melanoma
+    title: "Melanoma"
+    publisher: "Canadian Dermatology Association"
+    jurisdiction: CA
+    kind: patient
+    version: "Checked 2026-10-30"
+    url: "https://dermatology.ca/public-patients/skin/melanoma/"
+    checked: 2026-10-30
+  - id: cps-bruising-2013
+    title: "The medical assessment of bruising in suspected child maltreatment cases: A clinical perspective"
+    publisher: "Canadian Paediatric Society"
+    jurisdiction: CA
+    kind: guideline
+    version: "2013, reaffirmed 2017"
+    url: "https://cps.ca/documents/position/medical-assessment-of-bruising"
+    checked: 2026-10-30
+  - id: pedscases-pediatric-rashes-2015
+    title: "Approach to Pediatric Rashes"
+    publisher: "PedsCases"
+    jurisdiction: CA
+    kind: summary
+    version: "2015"
+    url: "https://www.pedscases.com/approach-pediatric-rashes"
+    pdf: "https://www.pedscases.com/sites/default/files/PedsCases%20Approach%20to%20Rashes.pdf"
+    checked: 2026-10-30
+  - id: pedscases-viral-rashes-2016
+    title: "Viral Rashes in Children"
+    publisher: "PedsCases"
+    jurisdiction: CA
+    kind: summary
+    version: "2016"
+    url: "https://www.pedscases.com/viral-rashes-children"
+    pdf: "https://www.pedscases.com/sites/default/files/Viral%20Rashes%20in%20Children.pdf"
+    checked: 2026-10-30
+  - id: pedscases-purpura-2018
+    title: "Approach to Purpura"
+    publisher: "PedsCases"
+    jurisdiction: CA
+    kind: summary
+    version: "2018"
+    url: "https://www.pedscases.com/approach-purpura"
+    pdf: "https://pedscases.com/sites/default/files/Purpura%20Script.pdf"
     checked: 2026-10-30
   - id: stanford-medicine-25
     title: "Stanford Medicine 25"
@@ -339,16 +408,144 @@ sources:
     publisher: "DermNet"
     jurisdiction: INTL
     kind: tool
-    version: "Checked 2026-10-30"
+    version: "2023"
     url: "https://dermnetnz.org/topics/terminology"
+    checked: 2026-10-30
+  - id: stanford-25-dermatology-exam
+    title: "The General Dermatology Exam: Learning the Language"
+    publisher: "Stanford Medicine"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-10-30"
+    url: "https://stanfordmedicine25.stanford.edu/the25/dermatology.html"
+    checked: 2026-10-30
+  - id: aafp-generalized-rash-2010
+    title: "The Generalized Rash: Part II. Diagnostic Approach"
+    publisher: "American Academy of Family Physicians (American Family Physician)"
+    jurisdiction: INTL
+    kind: summary
+    version: "2010"
+    url: "https://www.aafp.org/pubs/afp/issues/2010/0315/p735.html"
+    checked: 2026-10-30
+  - id: dermnet-total-body-skin-exam
+    title: "Total body and skin lesion examination"
+    publisher: "DermNet"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-10-30"
+    url: "https://dermnetnz.org/cme/teledermatology-skin-cancer/total-body-and-skin-lesion-examination"
+    checked: 2026-10-30
+  - id: dermnet-dermoscopy
+    title: "Dermoscopy (Dermatoscopy)"
+    publisher: "DermNet"
+    jurisdiction: INTL
+    kind: tool
+    version: "2023"
+    url: "https://dermnetnz.org/topics/dermoscopy"
+    checked: 2026-10-30
+  - id: aafp-dermoscopy-2013
+    title: "Dermoscopy for the Family Physician"
+    publisher: "American Academy of Family Physicians (American Family Physician)"
+    jurisdiction: INTL
+    kind: summary
+    version: "2013"
+    url: "https://www.aafp.org/pubs/afp/issues/2013/1001/p441.html"
+    checked: 2026-10-30
+  - id: dermnet-teledermatology
+    title: "Teledermatology"
+    publisher: "DermNet"
+    jurisdiction: INTL
+    kind: tool
+    version: "2023"
+    url: "https://dermnetnz.org/topics/teledermatology"
+    checked: 2026-10-30
+  - id: aafp-skin-of-color-2023
+    title: "Common Dermatologic Conditions in Skin of Color"
+    publisher: "American Academy of Family Physicians (American Family Physician)"
+    jurisdiction: INTL
+    kind: summary
+    version: "2023"
+    url: "https://www.aafp.org/pubs/afp/issues/2023/0100/dermatologic-conditions-skin-of-color.html"
+    checked: 2026-10-30
+  - id: sgul-mind-the-gap-2020
+    title: "Mind the Gap: A handbook of clinical signs in Black and Brown skin"
+    publisher: "St George's, University of London"
+    jurisdiction: INTL
+    kind: tool
+    version: "2020"
+    url: "https://sgul.figshare.com/articles/online_resource/Mind_the_Gap_A_handbook_of_clinical_signs_in_Black_and_Brown_skin/12769988"
+    checked: 2026-10-30
+  - id: dermnet-skin-of-colour
+    title: "Skin of colour"
+    publisher: "DermNet"
+    jurisdiction: INTL
+    kind: tool
+    version: "2022"
+    url: "https://dermnetnz.org/topics/skin-conditions-in-skin-of-colour"
+    checked: 2026-10-30
+  - id: dftb-skin-deep
+    title: "Skin Deep"
+    publisher: "Don't Forget the Bubbles"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-10-30"
+    url: "https://dftbskindeep.com/"
+    checked: 2026-10-30
+  - id: dermnet-newborn-skin
+    title: "Skin conditions affecting newborn babies"
+    publisher: "DermNet"
+    jurisdiction: INTL
+    kind: tool
+    version: "2023"
+    url: "https://dermnetnz.org/topics/skin-conditions-in-newborn-babies"
+    checked: 2026-10-30
+  - id: dermnet-exanthems
+    title: "Exanthems (reactive rashes)"
+    publisher: "DermNet"
+    jurisdiction: INTL
+    kind: tool
+    version: "2023"
+    url: "https://dermnetnz.org/topics/exanthems"
+    checked: 2026-10-30
+  - id: dftb-neonatal-derm-benign
+    title: "Neonatal dermatology: the benign conditions"
+    publisher: "Don't Forget the Bubbles"
+    jurisdiction: INTL
+    kind: summary
+    version: "Checked 2026-10-30"
+    url: "https://dontforgetthebubbles.com/neonatal-dermatology-the-benign-conditions/"
+    checked: 2026-10-30
+  - id: dftb-non-blanching-rashes
+    title: "At a glance: Non-blanching rashes"
+    publisher: "Don't Forget the Bubbles"
+    jurisdiction: INTL
+    kind: summary
+    version: "Checked 2026-10-30"
+    url: "https://dontforgetthebubbles.com/at-a-glance-non-blanching-rashes/"
+    checked: 2026-10-30
+  - id: dftb-ten4faces
+    title: "Bruising: Can you tell how it happened?"
+    publisher: "Don't Forget the Bubbles"
+    jurisdiction: INTL
+    kind: summary
+    version: "Checked 2026-10-30"
+    url: "https://dontforgetthebubbles.com/ten4faces/"
+    checked: 2026-10-30
+  - id: aafp-skin-rashes-children-2015
+    title: "Common Skin Rashes in Children"
+    publisher: "American Academy of Family Physicians (American Family Physician)"
+    jurisdiction: INTL
+    kind: summary
+    version: "2015"
+    url: "https://www.aafp.org/pubs/afp/issues/2015/0801/p211.html"
     checked: 2026-10-30
 ---
 <!-- Assessments wave 3, built 2026-10-30, reviewed by Joe 2026-10-30; plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27).
      How to do the exam; what to do with the findings lives on each condition page. Heart and lung sounds sit under Cardiovascular and Respiratory (moved in from their own pages 2026-10-30, Joe's ask); bedside ultrasound is POCUS (Assessments wave 6); rules that decide on imaging are on Clinical Decision Rules.
      No BC source teaches exam technique; BC Guidelines appear only where they set out a measurement (blood pressure). Canadian sources (Stethopedia, RheumGuide, RheumInfo, Diabetes Canada, Hypertension Canada, CEP) come before international ones.
      Replaces the exam rows of the old Assessment Resources page: NeuroExam (Oxford University Press, needs a textbook access code) is replaced by the free Utah NeuroLogic Exam; RheumTutor stays as a YouTube channel.
-     Unconfirmed because the session's network or the site blocks checks: Stethopedia, Stanford Medicine 25, UW Advanced Physical Diagnosis, Geeky Medics, Physiopedia, OrthoBullets, RheumTutor (YouTube), Utah NeuroLogic Exam, EyeGuru, EyeRounds, Easy Auscultation, University of Michigan Deep Blue, Thinklabs (addresses confirmed by web search).
-     No Canadian lung sound source found. Left out: paid auscultation courses; paywalled AAFP articles; JAMA Rational Clinical Examination (subscription).
+     Unconfirmed because the session's network or the site blocks checks: Stethopedia, Stanford Medicine 25, UW Advanced Physical Diagnosis, Geeky Medics, Physiopedia, OrthoBullets, RheumTutor (YouTube), Utah NeuroLogic Exam, EyeGuru, EyeRounds, Easy Auscultation, University of Michigan Deep Blue, Thinklabs, Stanford 25 dermatology, BC Children's Hospital dermatology pages (bot check), UBC Pediatric Dermatology primer (BCcampus Pressbooks), Skin Deep, Mind the Gap (St George's figshare), Don't Forget the Bubbles (dontforgetthebubbles.com, years not shown) (addresses confirmed by web search).
+     No Canadian lung sound source found. Skin (dermatology deep dive, Joe 2026-10-30, using his NURS 720 M10 and NURS 730 M7 Zotero folders): BC Children's Hospital and the UBC Pediatric Dermatology primer lead the children's part; no BC or Canadian source teaches dermoscopy or skin of colour, so those are international. Left out: AAFP Newborn Skin Parts I and II (the 2024 versions are paywalled and replace the free 2008 ones); textbook chapters from the course folders (Berkowitz's Pediatrics, not free); condition-specific items (Canadian acne guideline 2016, atopic dermatitis topical insights 2019, CPS skin and soft tissue infections 2026) belong on their condition pages. Left out: paid auscultation courses; paywalled AAFP articles; JAMA Rational Clinical Examination (subscription).
      Link to the source guidance; don't restate its recommendations. -->
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter exams, e.g. knee"></div>
