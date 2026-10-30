@@ -5,10 +5,10 @@ system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, opioid-use-disorder, substance-use, addiction, harm-reduction, adults]
 jurisdiction: [BC, CA, INTL]
 aliases: [OUD, opioid addiction, opioid dependence, OAT, opioid agonist treatment, opioid agonist therapy, buprenorphine, buprenorphine/naloxone, Suboxone, Sublocade, extended-release buprenorphine, methadone, Methadose, slow-release oral morphine, SROM, Kadian, iOAT, injectable OAT, fentanyl, opioid withdrawal, COWS, naloxone, overdose, toxic drug, prescribed alternatives, safer supply, BCCSU, CRISM, Plan Z, micro-dosing, low-dose initiation]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-oud-2018
     title: "Opioid Use Disorder: Diagnosis and Management in Primary Care"
@@ -210,7 +210,7 @@ sources:
     url: "https://www.mdcalc.com/calc/1784/cows-score-opiate-withdrawal"
     checked: 2026-10-30
 ---
-<!-- Status: review (Conditions wave 1, built 2026-10-30).
+<!-- Conditions wave 1, built 2026-10-30.
      Key Sources: the BC Guideline (2018), then BCCSU's 2023 provincial guideline (the current BC clinical guideline, in the review slot because it is more current and BC-specific than any review), then the CRISM 2024 national guideline.
      No Pathways BC enhanced care pathway, Alberta Pathway Hub pathway or Centre for Effective Practice tool for opioid use disorder (checked 2026-10-30).
      Unconfirmed because the session's network or the site blocks checks: the CRISM 2024 synopsis on cmaj.ca and its PDF (confirmed in PubMed, PMID 39532476, DOI 10.1503/cmaj.241173), crism.ca PDFs (national guideline, iOAT guideline), the CMAJ naloxone guideline, ccsmh.ca, towardtheheart.com, MDCalc COWS.

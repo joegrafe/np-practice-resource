@@ -5,10 +5,10 @@ system: musculoskeletal
 tags: [condition, musculoskeletal, chronic-pain, pain, neuropathic-pain, opioids, adults]
 jurisdiction: [BC, CA, INTL]
 aliases: [chronic non-cancer pain, CNCP, persistent pain, long-term pain, neuropathic pain, nerve pain, fibromyalgia, osteoarthritis pain, chronic low back pain, opioids, opioid tapering, opioid taper, analgesics, painkillers, NSAID, acetaminophen, gabapentin, pregabalin, Lyrica, duloxetine, Cymbalta, amitriptyline, tramadol, celecoxib, Celebrex, fentanyl patch, Pain BC, PEER]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-pain-2022
     title: "Managing Patients with Pain in Primary Care, Parts 1 and 2"
@@ -178,7 +178,7 @@ sources:
     url: "https://www.mdcalc.com/calc/10483/revised-opioid-risk-tool-ort-oud"
     checked: 2026-10-30
 ---
-<!-- Status: review (Conditions wave 1, built 2026-10-30).
+<!-- Conditions wave 1, built 2026-10-30.
      No Alberta Pathway Hub pathway for chronic pain (checked 2026-10-30). Low back pain gets its own page in a later batch.
      Unconfirmed because the session's network or the site blocks checks: the PEER simplified chronic pain guideline and its supplements on cfp.ca (confirmed in PubMed, PMID 35292455), the 2017 Canadian opioid guideline on cmaj.ca (PMID 28483845), the CDC 2022 guideline on cdc.gov (PMID 36327391), MDCalc ORT, liveplanbe.ca.
      Left out: PAD's 2013 opioids in chronic non-cancer pain topic (older than the 2022 BC Guideline); AAFP chronic pain reviews older than 2021; Pain BC's Brief Pain Inventory PDF (link broken); the Canadian Pain Task Force report (policy, not point of care).
