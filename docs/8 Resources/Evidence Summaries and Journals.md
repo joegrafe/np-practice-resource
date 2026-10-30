@@ -65,7 +65,7 @@ sources:
     publisher: "American Academy of Family Physicians"
     jurisdiction: INTL
     kind: summary
-    url: "https://www.aafp.org/pubs/afp.html"
+    url: "https://www.aafp.org/afp"
     checked: 2026-10-30
   - id: trip-medical-database
     title: "Trip Medical Database"
