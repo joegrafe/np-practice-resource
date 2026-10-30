@@ -4,10 +4,10 @@ type: assessment
 tags: [assessment, physical-exam, auscultation, cardiovascular]
 jurisdiction: [CA, INTL]
 aliases: [heart sounds, heart murmurs, murmur, cardiac auscultation, auscultation, S3, S4, gallop, systolic murmur, diastolic murmur, aortic stenosis murmur, mitral regurgitation murmur, innocent murmur, Still's murmur, pediatric murmur, stethoscope, heart sound library]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
-reviewers: []
+reviewers: [joegrafe]
 description: "Heart sound and murmur recordings and teaching pages for training the ear, plus an approach to murmurs in children."
 sources:
   - id: pedscases-heart-murmurs-2020
@@ -44,7 +44,7 @@ sources:
     url: "https://depts.washington.edu/physdx/heart/"
     checked: 2026-10-30
 ---
-<!-- Status: review (Assessments wave 3, built 2026-10-30; plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27).
+<!-- Assessments wave 3, built 2026-10-30, reviewed by Joe 2026-10-30; plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27).
      Auscultation sub-page of Physical Exam by System. No BC source; PedsCases is the only Canadian one.
      Replaces the Easy Auscultation row of the old Assessment Resources page.
      Unconfirmed because the session's network or the site blocks checks: Easy Auscultation, University of Michigan Deep Blue, UW Advanced Physical Diagnosis (addresses confirmed by web search).

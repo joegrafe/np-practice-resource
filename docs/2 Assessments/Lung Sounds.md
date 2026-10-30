@@ -4,10 +4,10 @@ type: assessment
 tags: [assessment, physical-exam, auscultation, respiratory]
 jurisdiction: [INTL]
 aliases: [lung sounds, breath sounds, respiratory auscultation, chest auscultation, auscultation, crackles, rales, wheeze, wheezing, rhonchi, stridor, pleural rub, squawk, bronchial breath sounds, stethoscope, lung sound library]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
-reviewers: []
+reviewers: [joegrafe]
 description: "Lung sound recordings and reference guides for training the ear: crackles, wheezes, stridor, rubs and more."
 sources:
   - id: easy-auscultation-lung
@@ -27,7 +27,7 @@ sources:
     url: "https://www.thinklabs.com/lung-sounds"
     checked: 2026-10-30
 ---
-<!-- Status: review (Assessments wave 3, built 2026-10-30; plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27).
+<!-- Assessments wave 3, built 2026-10-30, reviewed by Joe 2026-10-30; plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27).
      Auscultation sub-page of Physical Exam by System. No BC or Canadian source found.
      Replaces the Think Labs row of the old Assessment Resources page (its sound-library address now redirects to Lung Sounds).
      Unconfirmed because the session's network or the site blocks checks: Easy Auscultation, Thinklabs (addresses confirmed by web search).

@@ -4,10 +4,10 @@ type: assessment
 tags: [assessment, physical-exam, special-tests, msk]
 jurisdiction: [BC, CA, INTL]
 aliases: [physical exam, physical examination, clinical examination, exam technique, how to examine, special tests, orthopedic tests, joint exam, MSK exam, shoulder exam, knee exam, hip exam, back exam, neck exam, McMurray, Lachman, Neer, Hawkins-Kennedy, Phalen, Tinel, Finkelstein, FABER, straight leg raise, neuro exam, neurological exam, cranial nerves, dermatomes, diabetic foot exam, monofilament, blood pressure measurement, fundoscopy, ophthalmoscope, skin lesion terms, OSCE]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
-reviewers: []
+reviewers: [joegrafe]
 description: "Exam technique guides and videos by body system, with joint-by-joint special tests: Canadian sources first, international ones labelled."
 sources:
   - id: pe-bc-gpac-htn-appendix-b-2020
@@ -293,7 +293,7 @@ sources:
     url: "https://dermnetnz.org/topics/terminology"
     checked: 2026-10-30
 ---
-<!-- Status: review (Assessments wave 3, built 2026-10-30; plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27).
+<!-- Assessments wave 3, built 2026-10-30, reviewed by Joe 2026-10-30; plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27).
      How to do the exam; what to do with the findings lives on each condition page. Auscultation has its own pages (Heart Sounds and Murmurs, Lung Sounds); bedside ultrasound is POCUS (Assessments wave 6); rules that decide on imaging are on Clinical Decision Rules.
      No BC source teaches exam technique; BC Guidelines appear only where they set out a measurement (blood pressure). Canadian sources (Stethopedia, RheumGuide, RheumInfo, Diabetes Canada, Hypertension Canada, CEP) come before international ones.
      Replaces the exam rows of the old Assessment Resources page: NeuroExam (Oxford University Press, needs a textbook access code) is replaced by the free Utah NeuroLogic Exam; RheumTutor stays as a YouTube channel.
