@@ -10,14 +10,15 @@ review-due: 2027-04-30  # 6 months: AI tools and scribe programs change fast (To
 reviewers: [joegrafe]
 description: "Regulator, legal and policy guidance on using AI tools in BC NP practice: BCCNM, the BC Ministry of Health's Responsible AI Policy Framework, CNPS, other provinces' nursing colleges and physician-focused guidance."
 sources:
-  - id: bccnm-using-artificial-intelligence-practice-2024
+  - id: bccnm-using-artificial-intelligence-practice-2026
     title: "Using Artificial Intelligence in Practice"
     publisher: BC College of Nurses and Midwives
     jurisdiction: BC
     kind: guideline
-    version: "2024"
+    version: "2026"
     url: "https://www.bccnm.ca/NP/learning/artificial-intelligence/Pages/Default.aspx"
     checked: 2026-10-30
+    supersedes: bccnm-using-artificial-intelligence-practice-2024
   - id: bc-moh-responsible-artificial-intelligence-policy-framework-2026
     title: "Responsible Artificial Intelligence Policy Framework"
     publisher: BC Ministry of Health
