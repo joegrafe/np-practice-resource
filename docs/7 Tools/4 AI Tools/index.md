@@ -3,10 +3,10 @@ title: AI Tools
 type: index
 tags: [index, ai-tools]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-04-30
-reviewers: []
+reviewers: [joegrafe]
 ---
 *Using AI tools safely in NP practice: checking AI output against the source, who is accountable, AI scribes with consent and privacy, and the AI tools approved for use in BC.*
 

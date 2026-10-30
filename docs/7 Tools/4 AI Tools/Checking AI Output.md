@@ -4,10 +4,10 @@ type: resource
 tags: [resource, ai-tools, ai, human-in-the-loop, ai-scribe, documentation]
 aliases: [checking ai, verify ai, ai errors, hallucination, human in the loop, ai review, ai output, chatgpt, openevidence]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-04-30  # 6 months: AI tools and scribe programs change fast (Tools plan)
-reviewers: []
+reviewers: [joegrafe]
 description: "How to check an AI tool against the source: the step of the visit each NPPR section serves, and BCCNM, health authority and CMPA guidance on reviewing AI-drafted notes and answers."
 sources:
   - id: bccnm-using-artificial-intelligence-practice-2024
@@ -65,7 +65,7 @@ sources:
     url: "https://www.aafp.org/fpm/2025/0900/effective-ai-prompts"
     checked: 2026-10-30
 ---
-<!-- status: review. Every source list lives in the CSV list sheet beside this page (format: List sheets in NPPR-FRAMEWORK.md).
+<!-- Every source list lives in the CSV list sheet beside this page (format: List sheets in NPPR-FRAMEWORK.md).
      No BC or Canadian source was found on checking an AI tool's clinical answers (as opposed to its notes) against guidelines; the two AAFP articles are international.
      Left out: vendor blogs and white papers; Infoway's AI Scribe Bias Testing Clinic Assessment Tool (no public link found).
      Link to the source guidance; don't restate its recommendations. -->

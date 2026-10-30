@@ -4,10 +4,10 @@ type: resource
 tags: [resource, ai-tools, ai, accountability, standards, bccnm, cnps]
 aliases: [ai policy, ai standards, ai accountability, responsible ai, ai liability, ai ethics, bccnm ai, cnps ai]
 jurisdiction: [BC, CA, INTL]
-status: review
+status: published
 last-reviewed: 2026-10-30
 review-due: 2027-04-30  # 6 months: AI tools and scribe programs change fast (Tools plan)
-reviewers: []
+reviewers: [joegrafe]
 description: "Regulator, legal and policy guidance on using AI tools in BC NP practice: BCCNM, the BC Ministry of Health's Responsible AI Policy Framework, CNPS, other provinces' nursing colleges and physician-focused guidance."
 sources:
   - id: bccnm-using-artificial-intelligence-practice-2024
@@ -94,7 +94,7 @@ sources:
     pdf: "https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf"
     checked: 2026-10-30
 ---
-<!-- status: review. Every source list lives in the CSV list sheet beside this page (format: List sheets in NPPR-FRAMEWORK.md).
+<!-- Every source list lives in the CSV list sheet beside this page (format: List sheets in NPPR-FRAMEWORK.md).
      Unconfirmed (the cloud proxy blocks these sites; titles, years and addresses come from search results): CRNA (nurses.ab.ca), CNO (cno.org), Health Canada (canada.ca), CDA-AMC (cda-amc.ca).
      The CNPS article is open only to CNPS beneficiaries after its introduction. No NNPBC or NPAC guidance on AI was found.
      Left out: Doctors of BC's AI policy statement (advocacy); other provinces' physician colleges (the CMPA FAQ links them all).
