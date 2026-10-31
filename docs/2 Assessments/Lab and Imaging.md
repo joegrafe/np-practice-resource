@@ -1,13 +1,14 @@
 ---
 title: Lab and Imaging
 type: assessment
-tags: [assessment, lab-tests, imaging]
+tags: [assessment, lab-tests, imaging, ecg, spirometry]
+aliases: [lab tests, blood tests, imaging, x-ray, ECG, EKG, electrocardiogram, ECG interpretation, reading an ECG, ECG library, LITFL, spirometry interpretation, reading spirometry, PFT, pulmonary function test, FEV1, FVC]
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-27
 review-due: 2027-10-27
 reviewers: [joegrafe]
-description: "BC Guidelines and Canadian sources on when to order and how to interpret common lab tests and diagnostic imaging in primary care."
+description: "BC Guidelines and Canadian sources on when to order and how to interpret common lab tests and diagnostic imaging in primary care, with ECG and spirometry interpretation guides."
 sources:
   - id: bc-gpac-iron-deficiency-2019
     title: "BC Guidelines: Iron Deficiency - Diagnosis and Management"
@@ -243,11 +244,45 @@ sources:
     kind: patient
     url: https://www.healthlinkbc.ca/health-library/medical-tests
     checked: 2026-10-27
+  - id: ecg-made-simple-instructional-ecg-videos
+    title: "Instructional ECG Videos"
+    publisher: "ECG Made Simple"
+    jurisdiction: CA
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://ecgmadesimple.ca/instructional-ecg-videos/"
+    checked: 2026-10-31
+  - id: litfl-ecg-library
+    title: "ECG Library"
+    publisher: "Life in the Fast Lane (LITFL)"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://litfl.com/ecg-library/"
+    checked: 2026-10-31
+  - id: practical-clinical-skills-ecg-training
+    title: "ECG Training"
+    publisher: "Practical Clinical Skills (MedEdu)"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://www.practicalclinicalskills.com/ecg"
+    checked: 2026-10-31
+  - id: lung-health-foundation-spirometry-2025
+    title: "Spirometry Interpretation Guide"
+    publisher: "Lung Health Foundation"
+    jurisdiction: CA
+    kind: tool
+    version: "2025"
+    url: "https://toolkit.lunghealth.ca/lhftools/spirometry-interpretation-guide/"
+    pdf: "https://toolkit.lunghealth.ca/wp-content/uploads/2025/04/2025-PRINT-Spirometry-Interpretation-Guide-032825-FINAL-COPY.pdf"
+    checked: 2026-10-31
 ---
 <!-- Assessments wave 1 (plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27).
      BC Guidelines first, then Canadian sources. Link to the guidance; don't restate when to order a test or how to read it.
      No lab or imaging requisition forms: sites supply their own (Joe, 2026-10-27).
-     Years are the guideline's effective year from its BC Guidelines page, checked 2026-10-27. -->
+     Years are the guideline's effective year from its BC Guidelines page, checked 2026-10-27.
+     ECG Interpretation and Spirometry added 2026-10-31 from the NP Circle comparison (https://claude.ai/artifact/Q267gfbS3MpF2UDedpPoPh): no BC source teaches either, so the Canadian ones (ECG Made Simple, Lung Health Foundation) lead. -->
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter tests, e.g. ferritin"></div>
 
