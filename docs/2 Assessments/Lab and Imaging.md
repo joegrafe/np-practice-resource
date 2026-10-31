@@ -190,6 +190,13 @@ sources:
     url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/ankle-injury
     pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/anklex.pdf
     checked: 2026-10-27
+  - id: healthlinkbc-medical-tests
+    title: "HealthLinkBC: Medical Tests"
+    publisher: HealthLinkBC
+    jurisdiction: BC
+    kind: patient
+    url: https://www.healthlinkbc.ca/health-library/medical-tests
+    checked: 2026-10-27
   - id: car-referral-guidelines-2025
     title: "CAR Diagnostic Imaging Referral Guidelines"
     publisher: Canadian Association of Radiologists
@@ -230,20 +237,6 @@ sources:
     version: "September 2026"
     url: https://choosingwiselycanada.org/recommendation/medical-biochemistry/
     checked: 2026-10-27
-  - id: mdcalc-ckd-epi
-    title: "MDCalc - CKD-EPI Equations for Glomerular Filtration Rate (GFR)"
-    publisher: MDCalc
-    jurisdiction: INTL
-    kind: tool
-    url: https://www.mdcalc.com/calc/3939/ckd-epi-equations-glomerular-filtration-rate-gfr
-    checked: 2026-10-27
-  - id: healthlinkbc-medical-tests
-    title: "HealthLinkBC: Medical Tests"
-    publisher: HealthLinkBC
-    jurisdiction: BC
-    kind: patient
-    url: https://www.healthlinkbc.ca/health-library/medical-tests
-    checked: 2026-10-27
   - id: ecg-made-simple-instructional-ecg-videos
     title: "Instructional ECG Videos"
     publisher: "ECG Made Simple"
@@ -252,6 +245,22 @@ sources:
     version: "Checked 2026-10-31"
     url: "https://ecgmadesimple.ca/instructional-ecg-videos/"
     checked: 2026-10-31
+  - id: lung-health-foundation-spirometry-2025
+    title: "Spirometry Interpretation Guide"
+    publisher: "Lung Health Foundation"
+    jurisdiction: CA
+    kind: tool
+    version: "2025"
+    url: "https://toolkit.lunghealth.ca/lhftools/spirometry-interpretation-guide/"
+    pdf: "https://toolkit.lunghealth.ca/wp-content/uploads/2025/04/2025-PRINT-Spirometry-Interpretation-Guide-032825-FINAL-COPY.pdf"
+    checked: 2026-10-31
+  - id: mdcalc-ckd-epi
+    title: "MDCalc - CKD-EPI Equations for Glomerular Filtration Rate (GFR)"
+    publisher: MDCalc
+    jurisdiction: INTL
+    kind: tool
+    url: https://www.mdcalc.com/calc/3939/ckd-epi-equations-glomerular-filtration-rate-gfr
+    checked: 2026-10-27
   - id: litfl-ecg-library
     title: "ECG Library"
     publisher: "Life in the Fast Lane (LITFL)"
@@ -267,15 +276,6 @@ sources:
     kind: tool
     version: "Checked 2026-10-31"
     url: "https://www.practicalclinicalskills.com/ecg"
-    checked: 2026-10-31
-  - id: lung-health-foundation-spirometry-2025
-    title: "Spirometry Interpretation Guide"
-    publisher: "Lung Health Foundation"
-    jurisdiction: CA
-    kind: tool
-    version: "2025"
-    url: "https://toolkit.lunghealth.ca/lhftools/spirometry-interpretation-guide/"
-    pdf: "https://toolkit.lunghealth.ca/wp-content/uploads/2025/04/2025-PRINT-Spirometry-Interpretation-Guide-032825-FINAL-COPY.pdf"
     checked: 2026-10-31
 ---
 <!-- Assessments wave 1 (plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27).

@@ -211,6 +211,97 @@ sources:
     url: "https://www.pedscases.com/approach-purpura"
     pdf: "https://pedscases.com/sites/default/files/Purpura%20Script.pdf"
     checked: 2026-10-30
+  - id: uoft-clinical-skills-hub
+    title: "Clinical Skills Hub"
+    publisher: "University of Toronto MD Program"
+    jurisdiction: CA
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://thehub.utoronto.ca/clinicalskills/"
+    checked: 2026-10-31
+  - id: uoft-thyroid-focused-physical-exam
+    title: "Thyroid Focused Physical Exam"
+    publisher: "University of Toronto MD Program"
+    jurisdiction: CA
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://thehub.utoronto.ca/clinicalskills/thyroid/"
+    checked: 2026-10-31
+  - id: pedscases-classic-video-approach-to-otoscopy-2014
+    title: "Classic Video: Approach to Otoscopy"
+    publisher: "PedsCases"
+    jurisdiction: CA
+    kind: tool
+    version: "2014"
+    url: "https://www.pedscases.com/classic-video-approach-otoscopy"
+    checked: 2026-10-31
+  - id: pedscases-the-pediatric-eye-exam-in-primary-care-2018
+    title: "The Pediatric Eye Exam in Primary Care"
+    publisher: "PedsCases"
+    jurisdiction: CA
+    kind: summary
+    version: "2018"
+    url: "https://www.pedscases.com/pediatric-eye-exam-primary-care"
+    pdf: "https://www.pedscases.com/sites/default/files/Pediatric%20Eye%20Exam%20Slides.pdf"
+    checked: 2026-10-31
+  - id: uoft-abdominal-examination
+    title: "Abdominal Examination"
+    publisher: "University of Toronto MD Program"
+    jurisdiction: CA
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://thehub.utoronto.ca/clinicalskills/abdominal/"
+    checked: 2026-10-31
+  - id: pedscases-spleen-physical-exam-2022
+    title: "Spleen Physical Exam"
+    publisher: "PedsCases"
+    jurisdiction: CA
+    kind: summary
+    version: "2022"
+    url: "https://www.pedscases.com/spleen-physical-exam"
+    checked: 2026-10-31
+  - id: uoft-musculoskeletal-examination
+    title: "Musculoskeletal Examination"
+    publisher: "University of Toronto MD Program"
+    jurisdiction: CA
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://thehub.utoronto.ca/clinicalskills/musculoskeletal/"
+    checked: 2026-10-31
+  - id: pedscases-approach-to-the-neurological-exam-2025
+    title: "Approach to the Neurological Exam"
+    publisher: "PedsCases"
+    jurisdiction: CA
+    kind: summary
+    version: "2025"
+    url: "https://www.pedscases.com/approach-neurological-exam"
+    pdf: "https://www.pedscases.com/sites/default/files/2.%20Approach%20to%20Neurological%20Exam%20PedsCases%20Edits.pdf"
+    checked: 2026-10-31
+  - id: uoft-mental-health
+    title: "Mental Health"
+    publisher: "University of Toronto MD Program"
+    jurisdiction: CA
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://thehub.utoronto.ca/clinicalskills/mental-health/"
+    checked: 2026-10-31
+  - id: pedscases-pediatric-psychiatric-history-and-2022
+    title: "Pediatric Psychiatric History and Mental Status Exam"
+    publisher: "PedsCases"
+    jurisdiction: CA
+    kind: summary
+    version: "2022"
+    url: "https://www.pedscases.com/pediatric-psychiatric-history-and-mental-status-exam"
+    pdf: "https://www.pedscases.com/sites/default/files/PedsCases_Script_AW_Final.docx.pdf"
+    checked: 2026-10-31
+  - id: uoft-pediatrics
+    title: "Pediatrics"
+    publisher: "University of Toronto MD Program"
+    jurisdiction: CA
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://thehub.utoronto.ca/clinicalskills/pediatrics/"
+    checked: 2026-10-31
   - id: stanford-medicine-25
     title: "Stanford Medicine 25"
     publisher: "Stanford Medicine"
@@ -539,14 +630,6 @@ sources:
     version: "2015"
     url: "https://www.aafp.org/pubs/afp/issues/2015/0801/p211.html"
     checked: 2026-10-30
-  - id: uoft-clinical-skills-hub
-    title: "Clinical Skills Hub"
-    publisher: "University of Toronto MD Program"
-    jurisdiction: CA
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://thehub.utoronto.ca/clinicalskills/"
-    checked: 2026-10-31
   - id: ucsd-a-practical-guide-to-clinical-medicine
     title: "A Practical Guide to Clinical Medicine"
     publisher: "UC San Diego School of Medicine"
@@ -562,14 +645,6 @@ sources:
     kind: tool
     version: "Checked 2026-10-31"
     url: "https://physicaldiagnosispdx.com/"
-    checked: 2026-10-31
-  - id: uoft-thyroid-focused-physical-exam
-    title: "Thyroid Focused Physical Exam"
-    publisher: "University of Toronto MD Program"
-    jurisdiction: CA
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://thehub.utoronto.ca/clinicalskills/thyroid/"
     checked: 2026-10-31
   - id: stanford-25-thyroid-exam
     title: "Thyroid Exam"
@@ -603,14 +678,6 @@ sources:
     version: "Checked 2026-10-31"
     url: "https://sites.ucsd.edu/clinicalmedguide/head-and-neck-exam/"
     checked: 2026-10-31
-  - id: pedscases-classic-video-approach-to-otoscopy-2014
-    title: "Classic Video: Approach to Otoscopy"
-    publisher: "PedsCases"
-    jurisdiction: CA
-    kind: tool
-    version: "2014"
-    url: "https://www.pedscases.com/classic-video-approach-otoscopy"
-    checked: 2026-10-31
   - id: aafp-otitis-media-diagnosis-and-treatment-2013
     title: "Otitis Media: Diagnosis and Treatment"
     publisher: "American Academy of Family Physicians (American Family Physician)"
@@ -619,15 +686,6 @@ sources:
     version: "2013"
     url: "https://www.aafp.org/pubs/afp/issues/2013/1001/p435.html"
     pdf: "https://www.aafp.org/pubs/afp/issues/2013/1001/p435.pdf"
-    checked: 2026-10-31
-  - id: pedscases-the-pediatric-eye-exam-in-primary-care-2018
-    title: "The Pediatric Eye Exam in Primary Care"
-    publisher: "PedsCases"
-    jurisdiction: CA
-    kind: summary
-    version: "2018"
-    url: "https://www.pedscases.com/pediatric-eye-exam-primary-care"
-    pdf: "https://www.pedscases.com/sites/default/files/Pediatric%20Eye%20Exam%20Slides.pdf"
     checked: 2026-10-31
   - id: stanford-25-fundoscopic-exam-ophthalmoscopy
     title: "Fundoscopic Exam (Ophthalmoscopy)"
@@ -725,22 +783,6 @@ sources:
     version: "Checked 2026-10-31"
     url: "https://www.practicalclinicalskills.com/lung-sounds"
     checked: 2026-10-31
-  - id: uoft-abdominal-examination
-    title: "Abdominal Examination"
-    publisher: "University of Toronto MD Program"
-    jurisdiction: CA
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://thehub.utoronto.ca/clinicalskills/abdominal/"
-    checked: 2026-10-31
-  - id: pedscases-spleen-physical-exam-2022
-    title: "Spleen Physical Exam"
-    publisher: "PedsCases"
-    jurisdiction: CA
-    kind: summary
-    version: "2022"
-    url: "https://www.pedscases.com/spleen-physical-exam"
-    checked: 2026-10-31
   - id: stanford-25-liver-exam
     title: "Liver Exam"
     publisher: "Stanford Medicine"
@@ -796,14 +838,6 @@ sources:
     kind: tool
     version: "Checked 2026-10-31"
     url: "https://sites.ucsd.edu/clinicalmedguide/breast-exam/"
-    checked: 2026-10-31
-  - id: uoft-musculoskeletal-examination
-    title: "Musculoskeletal Examination"
-    publisher: "University of Toronto MD Program"
-    jurisdiction: CA
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://thehub.utoronto.ca/clinicalskills/musculoskeletal/"
     checked: 2026-10-31
   - id: paediatric-musculoskeletal-matters-a-guide-to
     title: "A Guide to pGALS"
@@ -878,15 +912,6 @@ sources:
     url: "https://keele.health/startback-questionnaire/"
     pdf: "https://c535ff89c35985a05dee.b-cdn.net//wp-content/uploads/2022/11/STarT-Back-tool-9-questions.pdf"
     checked: 2026-10-31
-  - id: pedscases-approach-to-the-neurological-exam-2025
-    title: "Approach to the Neurological Exam"
-    publisher: "PedsCases"
-    jurisdiction: CA
-    kind: summary
-    version: "2025"
-    url: "https://www.pedscases.com/approach-neurological-exam"
-    pdf: "https://www.pedscases.com/sites/default/files/2.%20Approach%20to%20Neurological%20Exam%20PedsCases%20Edits.pdf"
-    checked: 2026-10-31
   - id: stanford-25-gait-abnormalities
     title: "Gait Abnormalities"
     publisher: "Stanford Medicine"
@@ -918,23 +943,6 @@ sources:
     kind: tool
     version: "Checked 2026-10-31"
     url: "https://stanfordmedicine25.stanford.edu/the25/parkinsondisease.html"
-    checked: 2026-10-31
-  - id: uoft-mental-health
-    title: "Mental Health"
-    publisher: "University of Toronto MD Program"
-    jurisdiction: CA
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://thehub.utoronto.ca/clinicalskills/mental-health/"
-    checked: 2026-10-31
-  - id: pedscases-pediatric-psychiatric-history-and-2022
-    title: "Pediatric Psychiatric History and Mental Status Exam"
-    publisher: "PedsCases"
-    jurisdiction: CA
-    kind: summary
-    version: "2022"
-    url: "https://www.pedscases.com/pediatric-psychiatric-history-and-mental-status-exam"
-    pdf: "https://www.pedscases.com/sites/default/files/PedsCases_Script_AW_Final.docx.pdf"
     checked: 2026-10-31
   - id: aafp-mental-status-examination-in-primary-care-2024
     title: "Mental Status Examination in Primary Care"
@@ -991,14 +999,6 @@ sources:
     kind: tool
     version: "Checked 2026-10-31"
     url: "https://aimatskincancer.org/skin-cancer-in-skin-of-color/images-of-skin-cancer-in-people-with-skin-of-color/"
-    checked: 2026-10-31
-  - id: uoft-pediatrics
-    title: "Pediatrics"
-    publisher: "University of Toronto MD Program"
-    jurisdiction: CA
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://thehub.utoronto.ca/clinicalskills/pediatrics/"
     checked: 2026-10-31
   - id: stanford-25-mastering-newborn-exams
     title: "Mastering Newborn Exams"

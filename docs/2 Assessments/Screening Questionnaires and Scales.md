@@ -126,6 +126,30 @@ sources:
     version: "Checked 2026-10-30"
     url: "https://cep.health/clinical-products/poverty-a-clinical-tool-for-primary-care-providers/"
     checked: 2026-10-30
+  - id: aide-canada-screening-tests-and-tools-for
+    title: "Screening Tests and Tools for Autism in Adulthood: Examples and Cautions"
+    publisher: "AIDE Canada"
+    jurisdiction: CA
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://aidecanada.ca/resources/learn/asd-id-core-knowledge/screening-tests-and-tools-for-autism-in-adulthood-examples-and-cautions"
+    checked: 2026-10-31
+  - id: camh-alcohol-use-screening
+    title: "Alcohol Use: Screening"
+    publisher: "Centre for Addiction and Mental Health"
+    jurisdiction: CA
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://www.camh.ca/en/professionals/treating-conditions-and-disorders/alcohol-use/alcohol-use---screening"
+    checked: 2026-10-31
+  - id: upstream-lab-spark-tool-screening-for-poverty
+    title: "SPARK Tool (Screening for Poverty And Related social determinants)"
+    publisher: "Upstream Lab (MAP, Unity Health Toronto)"
+    jurisdiction: CA
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://upstreamlab.org/project/spark/"
+    checked: 2026-10-31
   - id: phq-screeners
     title: "PHQ-9, PHQ-2, GAD-7 and PHQ-15"
     publisher: "PHQ Screeners (Pfizer)"
@@ -224,30 +248,6 @@ sources:
     version: "Checked 2026-10-30"
     url: "https://dontforgetthebubbles.com/mental-health-screening/"
     checked: 2026-10-30
-  - id: aide-canada-screening-tests-and-tools-for
-    title: "Screening Tests and Tools for Autism in Adulthood: Examples and Cautions"
-    publisher: "AIDE Canada"
-    jurisdiction: CA
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://aidecanada.ca/resources/learn/asd-id-core-knowledge/screening-tests-and-tools-for-autism-in-adulthood-examples-and-cautions"
-    checked: 2026-10-31
-  - id: camh-alcohol-use-screening
-    title: "Alcohol Use: Screening"
-    publisher: "Centre for Addiction and Mental Health"
-    jurisdiction: CA
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://www.camh.ca/en/professionals/treating-conditions-and-disorders/alcohol-use/alcohol-use---screening"
-    checked: 2026-10-31
-  - id: upstream-lab-spark-tool-screening-for-poverty
-    title: "SPARK Tool (Screening for Poverty And Related social determinants)"
-    publisher: "Upstream Lab (MAP, Unity Health Toronto)"
-    jurisdiction: CA
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://upstreamlab.org/project/spark/"
-    checked: 2026-10-31
 ---
 <!-- Assessments wave 5, built 2026-10-30 on Joe's "start the next assessment wave"; plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27.
      Questionnaires a patient, parent or clinician fills in to screen or rate symptoms. Bedside decision rules (Ottawa, Wells, Centor) are on Clinical Decision Rules; preventive screening schedules (Task Force, BC Lifetime Prevention Schedule) are on Preventive Care and Cancer Screening. Condition pages keep their own tool rows and are listed under "Used on".
