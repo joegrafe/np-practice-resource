@@ -50,10 +50,10 @@ aliases:
   - early menopause
   - surgical menopause
   - postmenopausal bleeding
-status: review
+status: published
 last-reviewed: 2026-11-01
 review-due: 2027-11-01
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-pad-menopause-2026
     title: "B.C. Provincial Academic Detailing (PAD) Service: Medications for Menopause-Associated Vasomotor and Genitourinary Symptoms"
@@ -395,7 +395,7 @@ sources:
     pdf: "https://www.nice.org.uk/guidance/ng23/resources/menopause-identification-and-management-pdf-1837330217413"
     checked: 2026-11-01
 ---
-<!-- status: review. Set status to published after opening every link.
+<!--
      Sources checked 2026-11-01, BC first, then Canadian, then international:
      - No BC Guideline on menopause (GPAC alphabetical list checked). The BC Key Source is the BC PAD topic (updated April 2026), as on the Obesity page.
        BC Guidelines on endometrial cancer (2014), breast cancer (2013) and osteoporosis (2012) touch the topic but are left out: the Pathways BC
