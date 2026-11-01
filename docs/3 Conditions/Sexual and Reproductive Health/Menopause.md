@@ -147,6 +147,13 @@ sources:
     url: "https://www.bcwomens.ca/health-professionals/refer-a-patient/complex-menopause-clinic"
     pdf: "https://www.bcwomens.ca/Specialized-Services-Site/Documents/CMC%20Referral%20Form.pdf"
     checked: 2026-11-01
+  - id: healthlinkbc-menopause-ht-decision
+    title: "Menopause: Should I Use Hormone Therapy (HT)?"
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    url: "https://www.healthlinkbc.ca/healthwise/menopause-should-i-use-hormone-therapy-ht"
+    checked: 2026-11-01
   - id: sogc-menopause-care-continuum-tool
     title: Menopause Care Continuum Interactive Tool
     publisher: SOGC
@@ -313,6 +320,13 @@ sources:
     url: "https://cfpclearn.ca/tfp353/"
     pdf: "https://cfpclearn.ca/wp-content/uploads/2023/11/TFP-353-Menopause-TFP-English.pdf"
     checked: 2026-11-01
+  - id: sogc-menopause-and-u
+    title: Menopause and U
+    publisher: SOGC
+    jurisdiction: CA
+    kind: patient
+    url: "https://www.menopauseandu.ca/"
+    checked: 2026-11-01
   - id: frax-canada
     title: FRAX Fracture Risk Assessment Tool (Canada)
     publisher: Centre for Metabolic Bone Diseases, University of Sheffield
@@ -379,20 +393,6 @@ sources:
     version: "2015, last updated April 15, 2026"
     url: "https://www.nice.org.uk/guidance/ng23"
     pdf: "https://www.nice.org.uk/guidance/ng23/resources/menopause-identification-and-management-pdf-1837330217413"
-    checked: 2026-11-01
-  - id: healthlinkbc-menopause-ht-decision
-    title: "Menopause: Should I Use Hormone Therapy (HT)?"
-    publisher: HealthLink BC
-    jurisdiction: BC
-    kind: patient
-    url: "https://www.healthlinkbc.ca/healthwise/menopause-should-i-use-hormone-therapy-ht"
-    checked: 2026-11-01
-  - id: sogc-menopause-and-u
-    title: Menopause and U
-    publisher: SOGC
-    jurisdiction: CA
-    kind: patient
-    url: "https://www.menopauseandu.ca/"
     checked: 2026-11-01
 ---
 <!-- status: review. Set status to published after opening every link.
