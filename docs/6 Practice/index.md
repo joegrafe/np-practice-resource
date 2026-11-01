@@ -22,4 +22,6 @@ redirect_from: [practice/associations]  # Associations page removed 2026-10-29
 - [Registration and Licensure](Registration%20and%20Licensure.md)
 - [Practice Models and Compensation](Practice%20Models%20and%20Compensation.md)
 - [Documentation, Privacy and Records](Documentation%20Privacy%20and%20Records.md)
+- [Consultation, Referral and Advice](Consultation%20Referral%20and%20Advice.md)
+- [Forms and Duty to Report](Forms%20and%20Duty%20to%20Report.md)
 - [Community of Practice](Community%20of%20Practice.md)
