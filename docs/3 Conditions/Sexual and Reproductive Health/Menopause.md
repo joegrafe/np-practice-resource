@@ -406,7 +406,7 @@ sources:
        The Approaches page "Alberta Primary Care Pathways" still lists both with 2025.
      - Left out: CFP "An efficient tool for the primary care management of menopause" (2017) predates SOGC 2021; the MQ6 tool it introduced is linked
        at mq6.ca instead. AAFP "Hormone Therapy and Other Treatments for Symptoms of Menopause" (2016) predates the 2023 AAFP review.
-       RxFiles documents need a subscription; the RxFiles page is in Key Sources at Joe's request (2026-11-01), labelled. The Menopause Society MenoPro app and sogcguidelines.ca need sign-in.
+       RxFiles documents need a subscription; the RxFiles page is in Prescribing at Joe's request (2026-11-01), labelled. The Menopause Society MenoPro app and sogcguidelines.ca need sign-in.
      - Unconfirmed (sites block automated checks): JOGC (jogc.com), CMAJ (cmaj.ca), CFP (cfp.ca), MDCalc, IMS (imsociety.org) and Taylor & Francis.
        Citations and PIIs were confirmed through PubMed instead. YouTube webinar links come from BC Women's page (YouTube rate-limited the check).
      - RACE: the specialty list did not load in the check; the general RACE line is used.
