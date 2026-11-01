@@ -29,6 +29,7 @@ sources:
      Copy NPPR - Condition.csv beside the page and rename it to the page's name. Edit the sheet, not this page, to change a link.
      Columns: List sheets in NPPR-FRAMEWORK.md. Put each year in the year column, not the title.
      Key Sources: 1 to 3 only. BC Guideline first, then a more recent or broader national guideline, then one high-yield "approach to" or "management of" review.
+     Plus the RxFiles page when RxFiles has an appropriate resource (note when it needs a subscription).
      Further Resources: every other source, BC first, then national, then international (label it). One box or line per guideline, its PDF, algorithm and chapters on level 1 rows under it.
      Algorithms and Pathways: BC first, then Alberta's Pathway Hub.
      Assessment Tools and Calculators: MDCalc first, then other sites as required.

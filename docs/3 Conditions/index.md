@@ -53,6 +53,6 @@ status: published
 
 -   :material-account-heart-outline:{ .nppr-icon } [**Sexual and Reproductive Health**](Sexual%20and%20Reproductive%20Health/index.md)
 
-    Contraception and sexually transmitted infections.
+    Contraception, menopause and sexually transmitted infections.
 
 </div>
