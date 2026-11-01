@@ -3,7 +3,7 @@ title: Physical Exam by System
 type: assessment
 tags: [assessment, physical-exam, special-tests, msk, auscultation, dermatology, pediatrics, abdomen, head-and-neck, ent, eyes, mental-status, newborn]
 jurisdiction: [BC, CA, INTL]
-aliases: [physical exam, physical examination, clinical examination, exam technique, how to examine, special tests, orthopedic tests, joint exam, MSK exam, shoulder exam, knee exam, hip exam, back exam, neck exam, McMurray, Lachman, Neer, Hawkins-Kennedy, Phalen, Tinel, Finkelstein, FABER, straight leg raise, neuro exam, neurological exam, cranial nerves, dermatomes, diabetic foot exam, monofilament, blood pressure measurement, fundoscopy, ophthalmoscope, skin lesion terms, OSCE, skin exam, dermatology exam, skin check, full skin exam, describing a rash, rash, morphology, dermoscopy, dermatoscope, mole check, ABCDE, melanoma check, skin of colour, skin of color, darker skin, Mind the Gap, Skin Deep, teledermatology, pediatric dermatology, paediatric dermatology, childhood rash, newborn rash, viral exanthem, purpura, petechiae, bruising child abuse, non-blanching rash, TEN-4, TEN-4-FACESp, Don't Forget the Bubbles, DFTB, heart sounds, heart murmurs, murmur, cardiac auscultation, auscultation, S3, S4, gallop, systolic murmur, diastolic murmur, aortic stenosis murmur, mitral regurgitation murmur, innocent murmur, Still's murmur, pediatric murmur, heart sound library, lung sounds, breath sounds, respiratory auscultation, chest auscultation, crackles, rales, wheeze, wheezing, rhonchi, stridor, pleural rub, squawk, bronchial breath sounds, lung sound library, stethoscope, Stanford 25, Stanford Medicine 25, bedside exam, JVP, jugular venous pressure, neck veins, precordium, apex beat, pulsus paradoxus, ankle-brachial index, ABI, chest percussion, abdominal exam, abdominal examination, liver exam, spleen exam, splenomegaly, hepatomegaly, ascites, rectal exam, DRE, thyroid exam, goitre, goiter, lymph node exam, lymphadenopathy, head and neck exam, HEENT, otoscopy, ear exam, otoscope, tympanic membrane, eardrum, pneumatic otoscopy, red reflex, pupil exam, visual fields, EyeWiki, Moran CORE, breast exam, clinical breast exam, pelvic exam, speculum exam, bimanual exam, GALS, pGALS, STarT Back, gait, cerebellar exam, reflexes, deep tendon reflexes, Parkinson exam, tremor, mental status exam, MSE, newborn exam, well-child exam, Dermoscopedia, DermDiag, U of T clinical skills, UCSD Practical Guide to Clinical Medicine, Physical Diagnosis PDX]
+aliases: [physical exam, physical examination, clinical examination, exam technique, how to examine, special tests, orthopedic tests, joint exam, MSK exam, shoulder exam, knee exam, hip exam, back exam, neck exam, McMurray, Lachman, Neer, Hawkins-Kennedy, Phalen, Tinel, Finkelstein, FABER, straight leg raise, neuro exam, neurological exam, cranial nerves, dermatomes, diabetic foot exam, monofilament, blood pressure measurement, fundoscopy, ophthalmoscope, skin lesion terms, OSCE, skin exam, dermatology exam, skin check, full skin exam, describing a rash, rash, morphology, dermoscopy, dermatoscope, mole check, ABCDE, melanoma check, skin of colour, skin of color, darker skin, Mind the Gap, Skin Deep, teledermatology, pediatric dermatology, paediatric dermatology, childhood rash, newborn rash, viral exanthem, purpura, petechiae, bruising child abuse, non-blanching rash, TEN-4, TEN-4-FACESp, Don't Forget the Bubbles, DFTB, heart sounds, heart murmurs, murmur, cardiac auscultation, auscultation, S3, S4, gallop, systolic murmur, diastolic murmur, aortic stenosis murmur, mitral regurgitation murmur, innocent murmur, Still's murmur, pediatric murmur, heart sound library, lung sounds, breath sounds, respiratory auscultation, chest auscultation, crackles, rales, wheeze, wheezing, rhonchi, stridor, pleural rub, squawk, bronchial breath sounds, lung sound library, stethoscope, Stanford 25, Stanford Medicine 25, bedside exam, JVP, jugular venous pressure, neck veins, precordium, apex beat, pulsus paradoxus, ankle-brachial index, ABI, chest percussion, abdominal exam, abdominal examination, liver exam, spleen exam, splenomegaly, hepatomegaly, ascites, rectal exam, DRE, thyroid exam, goitre, goiter, lymph node exam, lymphadenopathy, head and neck exam, HEENT, otoscopy, ear exam, otoscope, tympanic membrane, eardrum, red reflex, pupil exam, visual fields, EyeWiki, Moran CORE, breast exam, clinical breast exam, pelvic exam, speculum exam, bimanual exam, GALS, pGALS, STarT Back, gait, cerebellar exam, reflexes, deep tendon reflexes, tremor, involuntary movements, mental status exam, MSE, newborn exam, well-child exam, Dermoscopedia, DermDiag, U of T clinical skills, UCSD Practical Guide to Clinical Medicine, Physical Diagnosis PDX]
 status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
@@ -167,14 +167,6 @@ sources:
     kind: tool
     version: "2019"
     url: "https://canadiem.org/describing-a-rash/"
-    checked: 2026-10-30
-  - id: cda-melanoma
-    title: "Melanoma"
-    publisher: "Canadian Dermatology Association"
-    jurisdiction: CA
-    kind: patient
-    version: "Checked 2026-10-30"
-    url: "https://dermatology.ca/public-patients/skin/melanoma/"
     checked: 2026-10-30
   - id: cps-bruising-2013
     title: "The medical assessment of bruising in suspected child maltreatment cases: A clinical perspective"
@@ -430,14 +422,6 @@ sources:
     version: "2013"
     url: "https://www.aafp.org/afp/2013/0415/p568"
     checked: 2026-10-30
-  - id: aafp-carpal-tunnel-2016
-    title: "Carpal Tunnel Syndrome: Diagnosis and Management"
-    publisher: "American Academy of Family Physicians (American Family Physician)"
-    jurisdiction: INTL
-    kind: summary
-    version: "2016"
-    url: "https://www.aafp.org/afp/2016/1215/p993"
-    checked: 2026-10-30
   - id: aafp-hip-pain-2014
     title: "Evaluation of the Patient with Hip Pain"
     publisher: "American Academy of Family Physicians (American Family Physician)"
@@ -678,15 +662,6 @@ sources:
     version: "Checked 2026-10-31"
     url: "https://sites.ucsd.edu/clinicalmedguide/head-and-neck-exam/"
     checked: 2026-10-31
-  - id: aafp-otitis-media-diagnosis-and-treatment-2013
-    title: "Otitis Media: Diagnosis and Treatment"
-    publisher: "American Academy of Family Physicians (American Family Physician)"
-    jurisdiction: INTL
-    kind: summary
-    version: "2013"
-    url: "https://www.aafp.org/pubs/afp/issues/2013/1001/p435.html"
-    pdf: "https://www.aafp.org/pubs/afp/issues/2013/1001/p435.pdf"
-    checked: 2026-10-31
   - id: stanford-25-fundoscopic-exam-ophthalmoscopy
     title: "Fundoscopic Exam (Ophthalmoscopy)"
     publisher: "Stanford Medicine"
@@ -863,14 +838,6 @@ sources:
     version: "Checked 2026-10-31"
     url: "https://stanfordmedicine25.stanford.edu/the25/hand.html"
     checked: 2026-10-31
-  - id: stanford-25-carpal-tunnel-exam
-    title: "Carpal Tunnel Exam"
-    publisher: "Stanford Medicine"
-    jurisdiction: INTL
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://stanfordmedicine25.stanford.edu/the25/carpaltunnel.html"
-    checked: 2026-10-31
   - id: stanford-25-hip-region-exam
     title: "Hip Region Exam"
     publisher: "Stanford Medicine"
@@ -936,14 +903,6 @@ sources:
     version: "Checked 2026-10-31"
     url: "https://stanfordmedicine25.stanford.edu/the25/tendon.html"
     checked: 2026-10-31
-  - id: stanford-25-parkinson-s-disease-exam
-    title: "Parkinson's Disease Exam"
-    publisher: "Stanford Medicine"
-    jurisdiction: INTL
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://stanfordmedicine25.stanford.edu/the25/parkinsondisease.html"
-    checked: 2026-10-31
   - id: aafp-mental-status-examination-in-primary-care-2024
     title: "Mental Status Examination in Primary Care"
     publisher: "American Academy of Family Physicians (American Family Physician)"
@@ -984,22 +943,6 @@ sources:
     version: "Checked 2026-10-31"
     url: "https://dermoscopedia.org/Main_Page"
     checked: 2026-10-31
-  - id: eczema-in-skin-of-color-image-library
-    title: "Image Library"
-    publisher: "Eczema in Skin of Color"
-    jurisdiction: INTL
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://eczemainskinofcolor.org/image-library/"
-    checked: 2026-10-31
-  - id: aim-at-skin-cancer-foundation-images-of-skin
-    title: "Images of Skin Cancer in People with Skin of Color"
-    publisher: "AIM at Skin Cancer Foundation"
-    jurisdiction: INTL
-    kind: tool
-    version: "Checked 2026-10-31"
-    url: "https://aimatskincancer.org/skin-cancer-in-skin-of-color/images-of-skin-cancer-in-people-with-skin-of-color/"
-    checked: 2026-10-31
   - id: stanford-25-mastering-newborn-exams
     title: "Mastering Newborn Exams"
     publisher: "Stanford Medicine"
@@ -1007,6 +950,14 @@ sources:
     kind: tool
     version: "Checked 2026-10-31"
     url: "https://stanfordmedicine25.stanford.edu/the25/newborn-exams-.html"
+    checked: 2026-10-31
+  - id: stanford-25-involuntary-movements-and-tremors
+    title: "Involuntary Movements and Tremors"
+    publisher: "Stanford Medicine"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-10-31"
+    url: "https://stanfordmedicine25.stanford.edu/the25/involuntary-movements-and-tremors.html"
     checked: 2026-10-31
 ---
 <!-- Assessments wave 3, built 2026-10-30, reviewed by Joe 2026-10-30; plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27).
@@ -1017,6 +968,7 @@ sources:
      No Canadian lung sound source found. Skin (dermatology deep dive, Joe 2026-10-30, using his NURS 720 M10 and NURS 730 M7 Zotero folders): BC Children's Hospital and the UBC Pediatric Dermatology primer lead the children's part; no BC or Canadian source teaches dermoscopy or skin of colour, so those are international. Left out: AAFP Newborn Skin Parts I and II (the 2024 versions are paywalled and replace the free 2008 ones); textbook chapters from the course folders (Berkowitz's Pediatrics, not free); condition-specific items (Canadian acne guideline 2016, atopic dermatitis topical insights 2019, CPS skin and soft tissue infections 2026) belong on their condition pages. Left out: paid auscultation courses; paywalled AAFP articles; JAMA Rational Clinical Examination (subscription).
      High-yield exam sources (2026-10-31, Joe: "Stanford 25 are definitely high yield and should be prioritized"; audit https://claude.ai/artifact/8bEWxjtqMd9vcsaBHz2txE and NP Circle comparison https://claude.ai/artifact/Q267gfbS3MpF2UDedpPoPh): sections now run head to toe, with new Head and Neck, Ears Nose and Throat, Abdomen, Breast and Pelvic, Mental Status and Newborn and Child sections. Stanford Medicine 25 is the first international source in each system, with its own page for each skill (all 42 Stanford 25 links opened 2026-10-31). Canadian sources still come first: Stethopedia, the University of Toronto MD Program Clinical Skills Hub (its videos are on YouTube and open without a login; the Bates' links on the hub need a U of T library login and aren't linked here), RheumGuide, RheumInfo and PedsCases.
      Left out 2026-10-31: Bates' Visual Guide, JAMA Rational Clinical Examination, McGee, Oxford Handbook, NEJM clinical videos and Medmastery (subscription or paid); Merck Manual exam videos (about 10 years old); Toronto Notes OSCE tips (exam prep, not point of care); Skin of Color Society (society home page); the U of T Eyes and ENT pages (their videos are from NEJM or not attributed). Stanford 25 bedside ultrasound pages belong on POCUS.
+     Exam technique only (Joe, 2026-11-01): no pages about a specific condition or disease. Taken out: AAFP Otitis Media and AAFP Carpal Tunnel Syndrome, Stanford 25 Carpal Tunnel, Tarsal Tunnel, Parkinson's Disease, Liver Disease Head to Foot and Aortic Regurgitation pages, the Canadian Dermatology Association melanoma page, and the eczema and skin cancer image libraries.
      Link to the source guidance; don't restate its recommendations. -->
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter exams, e.g. knee"></div>
