@@ -3,10 +3,10 @@ title: Forms and Duty to Report
 type: practice
 tags: [practice, forms, duty-to-report, driver-fitness, worksafebc, icbc, reportable-diseases, child-protection]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-11-01
 review-due: 2027-11-01
-reviewers: []
+reviewers: [joegrafe]
 aliases: [mandatory reporting, duty to report, DMER, driver medical, fitness to drive, RoadSafetyBC, unfit to drive, WorkSafeBC form, Form 8NP, Form 11NP, 8NP, 11NP, work injury report, ICBC report, CL489R, reportable diseases, notifiable diseases, child abuse report, child protection, MCFD, elder abuse, adult abuse, coroner, death certificate, medical certificate of death, MAID forms, MAiD reporting, PWD application, persons with disabilities, disability tax credit, DTC, T2201, CPP disability, gunshot wound]
 description: "Reports BC nurse practitioners must or may make, and the forms they complete: driver fitness, WorkSafeBC, ICBC, reportable diseases, child and adult protection, deaths, MAID and disability benefits."
 sources:

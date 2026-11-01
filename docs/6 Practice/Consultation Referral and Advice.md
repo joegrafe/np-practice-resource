@@ -3,10 +3,10 @@ title: Consultation, Referral and Advice
 type: practice
 tags: [practice, consultation, referral, advice-lines, race, rtvs, econsult]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-11-01
 review-due: 2027-11-01
-reviewers: []
+reviewers: [joegrafe]
 aliases: [RACE, RACE line, RACEapp, RTVS, Real-Time Virtual Support, RUDi, CHARLiE, MaBAL, ROCCi, eConsult, eCASE, specialist advice, advice line, consult line, phone a specialist, Pathways BC, Compass, poison control, DPIC, drug information line, addiction medicine line, palliative care line]
 description: "Getting advice and making referrals as a BC nurse practitioner: the BCCNM consultation and referral standard, RACE and other specialist advice lines, rural virtual support, eConsults and referral directories."
 sources:
