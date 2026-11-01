@@ -92,6 +92,14 @@ sources:
     kind: tool
     url: https://www.medsafer.org/
     checked: 2026-11-01
+  - id: rxfiles-geri
+    title: Geri-RxFiles
+    publisher: RxFiles Academic Detailing, University of Saskatchewan
+    jurisdiction: CA
+    kind: tool
+    version: "4th edition"
+    url: https://www.rxfiles.ca/rxfiles/uploads/documents/books/geri.html
+    checked: 2026-11-01
   - id: cwc-drowsy-without-feeling-lousy
     title: Drowsy Without Feeling Lousy
     publisher: Choosing Wisely Canada
