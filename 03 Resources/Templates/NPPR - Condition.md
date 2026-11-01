@@ -32,7 +32,7 @@ sources:
      Further Resources: every other source, BC first, then national, then international (label it). One box or line per guideline, its PDF, algorithm and chapters on level 1 rows under it.
      Algorithms and Pathways: BC first, then Alberta's Pathway Hub.
      Assessment Tools and Calculators: MDCalc first, then other sites as required.
-     Prescribing: Special Authority criteria and forms go last, in one box.
+     Prescribing: always the RxFiles page when RxFiles has an appropriate resource (note when it needs a subscription). Special Authority criteria and forms go last, in one box.
      Keep frontmatter sources in step with the sheet: one entry per guideline, algorithm, pathway and tool it links.
      Review notes as footnotes go below the marker, e.g.  [^1]: *On YYYY-MM-DD references the 20XX guideline.* -->
 <!-- nppr-list: <% tp.file.title %>.csv style=condition -->
