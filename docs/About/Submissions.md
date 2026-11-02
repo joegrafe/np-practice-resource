@@ -1,5 +1,12 @@
 ---
 title: Submit a Link
+type: about
+tags: [about]
+jurisdiction: [BC, CA]
+status: published
+last-reviewed: 2026-11-02
+review-due: 2027-11-02
+reviewers: [joegrafe]
 description: "Suggest a guideline, tool or resource for other nurse practitioners. No account needed."
 hide:
   - suggest

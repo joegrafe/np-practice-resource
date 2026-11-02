@@ -30,4 +30,3 @@ Where to look, in this order, for the current source behind an answer when a top
 - [Guideline Directories](Guideline%20Directories.md) — *BC Guidelines, BCCDC and other BC collections, the Canadian Task Force, CFPC and specialty-society guideline libraries, then NICE and USPSTF*
 - [Evidence Summaries and Journals](Evidence%20Summaries%20and%20Journals.md) — *PEER, Tools for Practice, Choosing Wisely Canada and CDA-AMC; the BCMJ, CFP and CMAJ; Trip, Cochrane and PubMed*
 - [BC Library Guides](BC%20Library%20Guides.md) — *university library guides for NPs; rebuilt as Libraries and Databases in the next Resources wave*
-- [Clinical Tools](Clinical%20Tools.md) — *moving to Assessments: Clinical Decision Rules*

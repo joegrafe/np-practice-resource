@@ -7,7 +7,7 @@ status: published
 description: "Endocrine and Metabolic conditions for nurse practitioners: type 2 diabetes, calcium, potassium and sodium disorders, obesity and weight management, osteoporosis and thyroid disease."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 
 ## In This Section

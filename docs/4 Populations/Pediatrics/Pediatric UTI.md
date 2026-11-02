@@ -8,6 +8,30 @@ last-reviewed: 2026-10-16
 review-due: 2027-10-16
 reviewers: [joegrafe]
 sources:
+  - id: rccbc-rtvs-charlie
+    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
+    publisher: Rural Coordination Centre of BC (RCCbc)
+    jurisdiction: BC
+    kind: pathway
+    version:
+    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
+    checked: 2026-10-16
+  - id: bcch-urology-referral
+    title: Urology Referral
+    publisher: BC Children's Hospital
+    jurisdiction: BC
+    kind: pathway
+    version:
+    url: "https://www.bcchildrens.ca/health-professionals/make-referral/urology-referral"
+    checked: 2026-11-02
+  - id: healthlinkbc-uti-children
+    title: Urinary Tract Infections in Children
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: https://www.healthlinkbc.ca/healthwise/urinary-tract-infections-children
+    checked: 2026-10-16
   - id: cps-uti-children-2026
     title: "Optimizing management of urinary tract infections in children: A need for improved stewardship"
     publisher: Canadian Paediatric Society
@@ -34,30 +58,6 @@ sources:
     version: "Version 2.0"
     url: "https://trekk.ca/resources/evidence-repository-urinary-tract-infection/"
     pdf: "https://cms.trekk.ca/wp-content/uploads/2023/11/2022-23-12_UTI_ER_FINAL_v2.0.pdf"
-    checked: 2026-10-16
-  - id: rccbc-rtvs-charlie
-    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
-    publisher: Rural Coordination Centre of BC (RCCbc)
-    jurisdiction: BC
-    kind: pathway
-    version:
-    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
-    checked: 2026-10-16
-  - id: bcch-urology-referral
-    title: Urology Referral
-    publisher: BC Children's Hospital
-    jurisdiction: BC
-    kind: pathway
-    version:
-    url: "https://www.bcchildrens.ca/health-professionals/make-referral/urology-referral"
-    checked:
-  - id: healthlinkbc-uti-children
-    title: Urinary Tract Infections in Children
-    publisher: HealthLink BC
-    jurisdiction: BC
-    kind: patient
-    version:
-    url: https://www.healthlinkbc.ca/healthwise/urinary-tract-infections-children
     checked: 2026-10-16
   - id: caringforkids-uti
     title: Urinary tract infections

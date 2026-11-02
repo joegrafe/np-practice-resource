@@ -3,7 +3,7 @@ name: PR checks
 # Runs on every pull request. Results show as notes on the changed lines
 # (Files changed tab) and as a summary on the run page.
 #   Page checks  frontmatter, review dates, source order, list sheets
-#                (scripts/check_pages.py; rules some pages don't meet yet are warnings)
+#                (scripts/check_pages.py; only overdue review dates are warnings)
 #   New links    every external link added by the PR (scripts/check_links.py --added);
 #                warnings only, since some sites block automated checks
 #   Site build   a strict test build with nppr-website-config, then its search

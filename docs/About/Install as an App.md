@@ -1,7 +1,7 @@
 ---
 title: Install as an App
 description: "Add NPPR.ca to your phone's home screen so it opens like an app."
-type: practice
+type: about
 tags: [about]
 jurisdiction: [BC, CA]
 status: published

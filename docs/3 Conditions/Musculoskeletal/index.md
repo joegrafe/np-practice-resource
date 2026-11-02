@@ -7,7 +7,7 @@ status: published
 description: "Musculoskeletal conditions for nurse practitioners: chronic pain, low back pain, rheumatoid arthritis, and sprains and minor fractures."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 
 ## In This Section

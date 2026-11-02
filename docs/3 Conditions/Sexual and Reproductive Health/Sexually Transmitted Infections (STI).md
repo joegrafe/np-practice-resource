@@ -31,14 +31,6 @@ sources:
     pdf: https://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/STI/Med%20Handouts/GC_Guidelines.pdf
     supersedes: bccdc-bc-sti-treatment-guidelines-2014
     checked: 2026-10-15
-  - id: bccdc-bc-sti-treatment-guidelines-2014
-    title: "British Columbia Treatment Guidelines: Sexually Transmitted Infections in Adolescents and Adults (retired)"
-    publisher: BC Centre for Disease Control
-    jurisdiction: BC
-    kind: guideline
-    version: "2014"
-    url:
-    checked:
   - id: bccdc-cdc-manual-ch5-sti
     title: "Communicable Disease Control Manual, Chapter 5: Sexually Transmitted Infections"
     publisher: BC Centre for Disease Control
@@ -137,7 +129,7 @@ sources:
     version: "2025"
     pdf: https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part4/Monkeypox.pdf
     checked: 2026-10-15
-  - id: race-connect
+  - id: race-connect-sti
     title: "RACE: Rapid Access to Consultative Expertise (STI Service)"
     publisher: RACE
     jurisdiction: BC
@@ -160,7 +152,7 @@ sources:
     kind: patient
     version:
     url: https://getcheckedonline.com/
-    checked:
+    checked: 2026-11-02
   - id: bccdc-sti-patient
     title: "Sexually Transmitted Infections (STIs)"
     publisher: BC Centre for Disease Control
@@ -184,7 +176,7 @@ sources:
     kind: patient
     version:
     url: https://smartsexresource.com/
-    checked:
+    checked: 2026-11-02
   - id: healthlinkbc-sti-files
     title: "HealthLinkBC Files: chlamydia, gonorrhea, syphilis, genital herpes, trichomoniasis, HPV and genital warts, preventing STIs"
     publisher: HealthLink BC
@@ -201,6 +193,14 @@ sources:
     version:
     url: https://www.healthlinkbc.ca/healthwise/sti-testing-should-i-get-tested-sexually-transmitted-infection
     checked: 2026-10-15
+  - id: pathways-hiv-prep
+    title: "Pathways BC: HIV Pre-exposure Prophylaxis (PrEP) Care Pathway"
+    publisher: Pathways BC
+    jurisdiction: BC
+    kind: pathway
+    version: "2026-09-16"
+    url: "https://pathwaysbc.ca/ci/10546"
+    checked: 2026-10-29
   - id: phac-stbbi-guides
     title: "Sexually Transmitted and Blood-Borne Infections: Guides for Health Professionals"
     publisher: Public Health Agency of Canada
@@ -250,14 +250,6 @@ sources:
     url: https://www.cmaj.ca/content/197/41/E1374
     supersedes: cmaj-hiv-prep-npep-2017
     checked: 2026-10-15
-  - id: cmaj-hiv-prep-npep-2017
-    title: "Canadian guideline on HIV pre-exposure prophylaxis and nonoccupational postexposure prophylaxis"
-    publisher: CMAJ
-    jurisdiction: CA
-    kind: guideline
-    version: "2017"
-    url:
-    checked:
   - id: ctfphc-chlamydia-gonorrhea-2021
     title: "Chlamydia and Gonorrhea"
     publisher: Canadian Task Force on Preventive Health Care
@@ -387,14 +379,6 @@ sources:
     url: https://www.cdc.gov/std/treatment-guidelines/default.htm
     pdf: https://www.cdc.gov/std/treatment-guidelines/STI-Guidelines-2021.pdf
     checked: 2026-10-15
-  - id: pathways-hiv-prep
-    title: "Pathways BC: HIV Pre-exposure Prophylaxis (PrEP) Care Pathway"
-    publisher: Pathways BC
-    jurisdiction: BC
-    kind: pathway
-    version: "2026-09-16"
-    url: "https://pathwaysbc.ca/ci/10546"
-    checked: 2026-10-29
 ---
 <!-- status: review. Set status to published after opening every link.
      Unconfirmed on 2026-10-15 (sites block automated checks): getcheckedonline, smart-sex-resource, cmaj-hiv-prep-pep-2025 and cfp-approach-sti-testing-msm-2024 (confirmed through PubMed); the canada.ca and CDC pages were confirmed with a fetch tool.

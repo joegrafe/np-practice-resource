@@ -440,7 +440,7 @@ sources:
     jurisdiction: CA
     kind: guideline
     version: "2020, pharmacotherapy chapter updated 2025"
-    url: "https://obesitycanada.ca/guidelines/"
+    url: "https://obesitycanada.ca/healthcare-professionals/adult-clinical-practice-guideline/"
     checked: 2026-10-10
   - id: ctfphc-type-2-diabetes-2012
     title: "Recommendations on screening for type 2 diabetes in adults"

@@ -19,6 +19,7 @@ Checks:
 
 Each finding is an error or a warning. Rules that some existing pages don't meet
 yet are warnings (WARN_ONLY below); move a rule to an error once pages pass.
+The home page (docs/index.md) is skipped: it has only a title.
 Prints GitHub Actions annotations when run in Actions. Exits 1 only on errors.
 Needs PyYAML.
 """
@@ -57,9 +58,11 @@ LIST_COLUMNS = {"heading", "subheading", "title", "url", "year", "pdf", "links",
                 "keywords", "sub", "kind", "level"}
 LIST_KINDS = {"", "box", "note", "md"}  # condition sheets; blank is a link line
 LIST_LEVELS = {"", "0", "1", "2"}
-# Rules reported as warnings only, because some published pages don't meet them yet.
-# list-sheet passes on every page today, so it's an error.
-WARN_ONLY = {"frontmatter", "review-due", "sources", "source-order"}
+# Rules reported as warnings only. Every page passed frontmatter, sources and
+# source-order on 2026-11-02 (build wave 12), so those are errors now, like list-sheet.
+# review-due stays a warning: it goes stale with the calendar, not with an edit.
+WARN_ONLY = {"review-due"}
+HOME = "index.md"  # the home page (docs/index.md) carries only a title, by design
 
 FRONT = re.compile(r"^---\s*\n(.*?)\n---\s*(\n|$)", re.S)
 MARKER = re.compile(r"<!--\s*nppr-list:\s*(.+?)\s*-->")
@@ -101,6 +104,8 @@ def key_line(text, key, start=1):
 
 
 def check_page(path, rel, text, f, source_ids):
+    if pathlib.PurePosixPath(rel).parts[1:] == (HOME,):
+        return
     m = FRONT.match(text)
     if not m:
         f.add("frontmatter", rel, 1, "No frontmatter block (--- at the top of the page).")
