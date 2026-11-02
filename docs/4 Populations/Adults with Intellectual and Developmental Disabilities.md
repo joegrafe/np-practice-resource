@@ -2,7 +2,7 @@
 title: Adults with Intellectual and Developmental Disabilities
 type: population
 slug: idd
-tags: [population, developmental-disabilities, intellectual-disability]
+tags: [population, idd, developmental-disabilities, intellectual-disability]
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-11-02

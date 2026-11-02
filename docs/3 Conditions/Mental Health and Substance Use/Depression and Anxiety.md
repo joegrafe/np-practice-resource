@@ -2,7 +2,7 @@
 title: Depression and Anxiety
 type: condition
 system: mental-health-substance-use
-tags: [condition, mental-health-substance-use, depression, anxiety, mood, adults, low-mood, worry]
+tags: [condition, mental-health-substance-use, depression, anxiety, mood, low-mood, worry, pediatrics, adolescents, pregnancy, depressed-mood, suicidal-thoughts]
 jurisdiction: [BC, CA, INTL]
 aliases: [MDD, major depressive disorder, GAD, generalized anxiety disorder, panic disorder, panic attacks, low mood, depressed, sad, worry, nervous, antidepressant, SSRI, SNRI, sertraline, escitalopram, citalopram, fluoxetine, venlafaxine, duloxetine, bupropion, mirtazapine, PHQ-9, GAD-7, suicide risk, CANMAT]
 status: published

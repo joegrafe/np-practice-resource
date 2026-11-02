@@ -9,6 +9,8 @@ review-due: 2027-10-29
 reviewers: []
 description: "Every item on the other Approaches pages, listed under the presenting complaint it covers, A to Z. BC sources first, then Canadian, then international."
 sources: []  # generated from the other Approaches pages' sheets
+search:
+  exclude: true  # left out of search (Joe, 2026-11-02): its items are already found on their own pages
 ---
 <!-- This page is built at site build time by scripts/presentations.py in nppr-website-config.
      It lists the items already linked on the other Approaches pages under each presenting complaint; it adds no links of its own.

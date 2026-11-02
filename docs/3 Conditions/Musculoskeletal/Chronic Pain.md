@@ -2,7 +2,7 @@
 title: Chronic Pain
 type: condition
 system: musculoskeletal
-tags: [condition, musculoskeletal, chronic-pain, pain, neuropathic-pain, opioids, adults]
+tags: [condition, musculoskeletal, chronic-pain, pain, neuropathic-pain, opioids]
 jurisdiction: [BC, CA, INTL]
 aliases: [chronic non-cancer pain, CNCP, persistent pain, long-term pain, neuropathic pain, nerve pain, fibromyalgia, osteoarthritis pain, chronic low back pain, opioids, opioid tapering, opioid taper, analgesics, painkillers, NSAID, acetaminophen, gabapentin, pregabalin, Lyrica, duloxetine, Cymbalta, amitriptyline, tramadol, celecoxib, Celebrex, fentanyl patch, Pain BC, PEER]
 status: published

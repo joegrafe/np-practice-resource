@@ -2,7 +2,7 @@
 title: Hypertension
 type: condition
 system: cardiovascular
-tags: [condition, cardiovascular, htn, adults, older-adults]
+tags: [condition, cardiovascular, htn, older-adults, hypertension]
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-09

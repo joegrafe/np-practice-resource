@@ -2,7 +2,7 @@
 title: Opioid Use Disorder (OUD)
 type: condition
 system: mental-health-substance-use
-tags: [condition, mental-health-substance-use, opioid-use-disorder, substance-use, addiction, harm-reduction, adults]
+tags: [condition, mental-health-substance-use, opioid-use-disorder, substance-use, addiction, harm-reduction, adolescents, pregnancy, older-adults]
 jurisdiction: [BC, CA, INTL]
 aliases: [OUD, opioid addiction, opioid dependence, OAT, opioid agonist treatment, opioid agonist therapy, buprenorphine, buprenorphine/naloxone, Suboxone, Sublocade, extended-release buprenorphine, methadone, Methadose, slow-release oral morphine, SROM, Kadian, iOAT, injectable OAT, fentanyl, opioid withdrawal, COWS, naloxone, overdose, toxic drug, prescribed alternatives, safer supply, BCCSU, CRISM, Plan Z, micro-dosing, low-dose initiation]
 status: published

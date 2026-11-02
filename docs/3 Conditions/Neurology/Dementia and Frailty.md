@@ -2,7 +2,7 @@
 title: Dementia and Frailty
 type: condition
 system: neurology
-tags: [condition, neurology, dementia, cognitive-impairment, frailty, older-adults, adults]
+tags: [condition, neurology, dementia, cognitive-impairment, frailty, older-adults, dementia-and-memory-loss, falls, confusion-and-delirium]
 jurisdiction: [BC, CA, INTL]
 aliases: [dementia, frailty, frail elderly, cognitive impairment, mild cognitive impairment, MCI, major neurocognitive disorder, neurocognitive disorder, Alzheimer's disease, Alzheimer disease, vascular dementia, Lewy body dementia, frontotemporal dementia, memory loss, memory problems, forgetfulness, confusion, BPSD, behavioural and psychological symptoms of dementia, MoCA, MMSE, SMMSE, Mini-Cog, Clinical Frailty Scale, CFS, PRISMA-7, Timed Up and Go, TUG, donepezil, Aricept, galantamine, rivastigmine, Exelon, memantine, cholinesterase inhibitor, driving and dementia, fitness to drive, CCCDTD5, geriatrics, older adults, seniors]
 status: published

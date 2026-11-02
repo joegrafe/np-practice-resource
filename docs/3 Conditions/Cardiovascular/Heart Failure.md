@@ -2,12 +2,7 @@
 title: Heart Failure
 type: condition
 system: cardiovascular
-tags:
-  - condition
-  - cardiovascular
-  - heart-failure
-  - hf
-  - adults
+tags: [condition, cardiovascular, heart-failure, hf, dyspnea, edema, fatigue]
 jurisdiction:
   - BC
   - CA

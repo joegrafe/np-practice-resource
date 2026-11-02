@@ -2,15 +2,7 @@
 title: Obesity and Weight Management
 type: condition
 system: endocrine-metabolic
-tags:
-  - condition
-  - endocrine-metabolic
-  - obesity
-  - weight-management
-  - glp-1
-  - bariatric-surgery
-  - adults
-  - pediatrics
+tags: [condition, endocrine-metabolic, obesity, weight-management, glp-1, bariatric-surgery, pediatrics, adolescents, pregnancy, weight-gain-and-obesity]
 jurisdiction:
   - BC
   - CA

@@ -1,7 +1,7 @@
 ---
 title: Pediatric Asthma
 type: population
-tags: [population, pediatrics, asthma, respiratory, wheeze]
+tags: [population, pediatrics, asthma, respiratory, wheeze, adolescents, rural-remote, wheeze-and-stridor, cough, dyspnea]
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-16

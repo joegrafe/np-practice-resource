@@ -2,15 +2,7 @@
 title: Contraception
 type: condition
 system: sexual-reproductive-health
-tags:
-  - condition
-  - sexual-reproductive-health
-  - contraception
-  - birth-control
-  - emergency-contraception
-  - iud
-  - adolescents
-  - adults
+tags: [condition, sexual-reproductive-health, contraception, birth-control, emergency-contraception, iud, adolescents, lactation, womens-health]
 jurisdiction:
   - BC
   - CA

@@ -2,7 +2,7 @@
 title: Concussion and Mild Traumatic Brain Injury (mTBI)
 type: condition
 system: neurology
-tags: [condition, neurology, concussion, mtbi, head-injury, adults, pediatrics, headache]
+tags: [condition, neurology, concussion, mtbi, head-injury, pediatrics, headache, adolescents, older-adults, dizziness-and-vertigo]
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-09

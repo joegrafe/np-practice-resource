@@ -434,7 +434,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 **Next waves from wave 12** (from the [master plan update](https://claude.ai/artifact/8pVpBPZ5hLjistCczBVaow) of 2026-11-02, order agreed by Joe on 2026-11-02). Build each wave when Joe says start, as one draft PR pair:
 
 12. Clean-up and gate check: clear the page-check warnings and move each clean rule out of `WARN_ONLY` in scripts/check_pages.py; fix the Alberta menopause pathway years on the Approaches sheet; run the Phase 2 gate check and step 2.5; read the missed-search log's top searches (built 2026-11-02; every page passes the page checks, and frontmatter, sources and source-order are errors now; the missed-search log still needs the Cloudflare connector).
-13. Population and symptom tags (step 2.3) and a Tags page. Waits on Joe's OK on the tag list in the master plan.
+13. Population and symptom tags (step 2.3) and a Tags page. Waits on Joe's OK on the tag list in the master plan. (Built 2026-11-02: tag list approved by Joe; tags on every condition and population page, listed in FRONTMATTER.md; Conditions > Browse by Tag; Presentations A to Z back on the site. Joe asked that both pages stay out of search, so they carry `search: {exclude: true}`, which also keeps them out of llms.txt and web search engines.)
 14. Urgent care batch: lacerations and minor wounds, burns (Dermatology); croup and bronchiolitis, fever in young children, gastroenteritis and dehydration (Populations > Pediatrics).
 15. Conditions wave 2, batch B: alcohol use disorder, tobacco use disorder, venous thromboembolism, anemia and iron. The Opioids page then drops its interim Alcohol and Tobacco sections.
 16. Conditions wave 2, batch C: GERD and H. pylori, migraine and headache, osteoarthritis, insomnia.
@@ -442,7 +442,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 18. Approaches wave 3: TREKK and CMAJ "Five things to know about", only when Joe asks.
 19 to 21. Conditions wave 3 in three batches, ordered by the missed-search log.
 
-After that, each when Joe asks: Assessments per-system exam pages (once Joe answers that plan) and POCUS; Evidence Packs (steps 3.1, 3.2 and 3.4); the calculators index with "Used on:" links, an offline service worker and monthly review-due issues; steps 4.1 and 4.2; the clinical updates feed and Presentations A to Z, which wait on Joe's decisions.
+After that, each when Joe asks: Assessments per-system exam pages (once Joe answers that plan) and POCUS; Evidence Packs (steps 3.1, 3.2 and 3.4); the calculators index with "Used on:" links, an offline service worker and monthly review-due issues; steps 4.1 and 4.2; the clinical updates feed, which waits on Joe's decision.
 
 ## Sources
 
@@ -687,6 +687,8 @@ Add population and presenting-symptom tags to every condition page (for example 
 ```
 
 Check: approve the tag list, then browse the Tags page.
+
+*Built in wave 13 (2026-11-02).* The Tags page is Conditions > Browse by Tag, drawn by Material's tags plugin (already on) from each page's `tags`; its `include` lists name the tags it shows, and only those tags link from a page's tag pills. The tag list and its rules are in FRONTMATTER.md (Tags). Recheck the tags listing at the Zensical review.
 
 **2.4 Review and update existing pages** · Run in: Claude Code, cloud or local · Opus 5.5, high · repeat per section
 

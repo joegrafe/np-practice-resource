@@ -2,7 +2,7 @@
 title: "Diabetes, Type 2"
 type: condition
 system: endocrine-metabolic
-tags: [condition, endocrine-metabolic, dm, adults, older-adults]
+tags: [condition, endocrine-metabolic, dm, older-adults, indigenous-health]
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-10

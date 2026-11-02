@@ -2,14 +2,7 @@
 title: Psoriasis
 type: condition
 system: dermatology
-tags:
-  - condition
-  - dermatology
-  - psoriasis
-  - plaque-psoriasis
-  - psoriatic-arthritis
-  - adults
-  - children
+tags: [condition, dermatology, psoriasis, plaque-psoriasis, psoriatic-arthritis, pediatrics, pregnancy, rash, joint-pain]
 jurisdiction:
   - BC
   - CA

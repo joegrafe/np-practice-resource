@@ -2,7 +2,7 @@
 title: Asthma
 type: condition
 system: respiratory
-tags: [condition, respiratory, asthma, adults, pediatrics, wheeze]
+tags: [condition, respiratory, asthma, pediatrics, wheeze, adolescents, wheeze-and-stridor, cough, dyspnea]
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-09
