@@ -25,7 +25,7 @@ search:
 
 *Named as on [Presentations A to Z](../1%20Approaches/Presentations%20A%20to%20Z.md), which lists the approach articles for each one.*
 
-<!-- material/tags { include: [abnormal-uterine-bleeding, anemia, anxiety, back-pain, chest-pain, confusion-and-delirium, cough, dementia-and-memory-loss, depressed-mood, diarrhea, dizziness-and-vertigo, dyspnea, dysuria-and-urinary-symptoms, edema, falls, fatigue, fever, foot-and-ankle-pain, hand-and-wrist-pain, headache, hypertension, joint-pain, knee-pain, nausea-and-vomiting, palpitations, pelvic-pain, rash, sexual-dysfunction, sore-throat, substance-use, suicidal-thoughts, vaginal-discharge, weight-gain-and-obesity, wheeze-and-stridor] } -->
+<!-- material/tags { include: [abnormal-uterine-bleeding, anxiety, back-pain, chest-pain, confusion-and-delirium, cough, dementia-and-memory-loss, depressed-mood, diarrhea, dizziness-and-vertigo, dyspnea, dysuria-and-urinary-symptoms, edema, falls, fatigue, fever, foot-and-ankle-pain, hand-and-wrist-pain, headache, hypertension, joint-pain, knee-pain, nausea-and-vomiting, palpitations, pelvic-pain, rash, sexual-dysfunction, sore-throat, substance-use, suicidal-thoughts, vaginal-discharge, weight-gain-and-obesity, wheeze-and-stridor] } -->
 
 ## Urgent Care
 

@@ -53,7 +53,7 @@ status: published
 
 -   :material-blood-bag:{ .nppr-icon } [**Hematology and Oncology**](Hematology%20and%20Oncology/index.md)
 
-    Anemia and iron, and venous thromboembolism (DVT and PE).
+    Venous thromboembolism (DVT and PE).
 
 -   :material-account-heart-outline:{ .nppr-icon } [**Sexual and Reproductive Health**](Sexual%20and%20Reproductive%20Health/index.md)
 
