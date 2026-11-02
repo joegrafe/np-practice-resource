@@ -1,10 +1,10 @@
 ---
 title: Drug References
 type: prescribing
-tags: [prescribing, drug-information, medication-safety]
+tags: [prescribing, drug-information, medication-safety, older-adults]
 jurisdiction: [BC, CA, INTL]
 status: published
-last-reviewed: 2026-10-27
+last-reviewed: 2026-11-02
 review-due: 2027-10-27
 reviewers: [joegrafe]
 description: "Independent and Canadian drug references for checking a drug choice: monographs, comparison charts, safety alerts, shortages and dosing calculators."
@@ -47,6 +47,14 @@ sources:
     version: "15th edition"
     url: https://www.rxfiles.ca/rxfiles/uploads/documents/books/charts.html
     checked: 2026-10-27
+  - id: rxfiles-geri
+    title: Geri-RxFiles
+    publisher: RxFiles Academic Detailing, University of Saskatchewan
+    jurisdiction: CA
+    kind: tool
+    version: "4th edition"
+    url: https://www.rxfiles.ca/rxfiles/uploads/documents/books/geri.html
+    checked: 2026-11-02
   - id: hc-drug-product-database
     title: Drug Product Database
     publisher: Health Canada
