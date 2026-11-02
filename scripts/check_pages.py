@@ -16,6 +16,11 @@ Checks:
                  uses only the list-sheet columns, every row has a title (a note row
                  has a note), kind and level hold allowed values, links are http(s),
                  and every CSV in docs/ is used by a page
+  team           the Team sheet (style=team, docs/About/Team.csv) has its own
+                 columns, an id, name and allowed level on every row, and a photo
+                 file that exists; every id in a page's reviewers is on the sheet
+                 (a warning), and a published page isn't reviewed only by past
+                 members (a warning)
 
 Each finding is an error or a warning. Rules that some existing pages don't meet
 yet are warnings (WARN_ONLY below); move a rule to an error once pages pass.
@@ -58,6 +63,11 @@ LIST_COLUMNS = {"heading", "subheading", "title", "url", "year", "pdf", "links",
                 "keywords", "sub", "kind", "level"}
 LIST_KINDS = {"", "box", "note", "md"}  # condition sheets; blank is a link line
 LIST_LEVELS = {"", "0", "1", "2"}
+TEAM_SHEET = "About/Team.csv"
+TEAM_COLUMNS = {"id", "name", "credentials", "level", "areas", "setting", "affiliation", "bio",
+                "links", "photo", "coi", "github", "since", "until", "consent"}
+TEAM_LEVELS = {"editor", "reviewer", "contributor"}
+TEAM_ID = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # Rules reported as warnings only. Every page passed frontmatter, sources and
 # source-order on 2026-11-02 (build wave 12), so those are errors now, like list-sheet.
 # review-due stays a warning: it goes stale with the calendar, not with an edit.
@@ -278,6 +288,75 @@ def check_sheet(path, rel, f):
         first = False
 
 
+def check_team(path, rel, docs, f):
+    """The Team sheet: its columns and rows. Returns {id: row}."""
+    team = {}
+    try:
+        with open(path, encoding="utf-8-sig", newline="") as fh:
+            reader = csv.reader(fh)
+            header = next(reader, [])
+            rows = list(enumerate(reader, 2))
+    except (UnicodeDecodeError, csv.Error) as e:
+        f.add("team", rel, 1, f"Can't read the Team sheet: {e}", level="error")
+        return team
+    cols = [h.strip().lower() for h in header]
+    unknown = [c for c in cols if c and c not in TEAM_COLUMNS]
+    if unknown:
+        f.add("team", rel, 1, f"Unknown column(s): {', '.join(unknown)} (format: Team sheet in NPPR-FRAMEWORK.md).",
+              level="error")
+    for need in ("id", "name", "level"):
+        if need not in cols:
+            f.add("team", rel, 1, f"No {need} column.", level="error")
+            return team
+    for n, row in rows:
+        cells = {c: (row[i].strip() if i < len(row) else "") for i, c in enumerate(cols)}
+        if not any(cells.values()):
+            continue
+        rid = cells["id"]
+        if not TEAM_ID.match(rid):
+            f.add("team", rel, n, f"id '{rid}' should be lowercase letters, numbers and hyphens.", level="error")
+        elif rid in team:
+            f.add("team", rel, n, f"id '{rid}' is used twice.", level="error")
+        if not cells["name"]:
+            f.add("team", rel, n, "Row has no name.", level="error")
+        if cells["level"].lower() not in TEAM_LEVELS:
+            f.add("team", rel, n, f"level '{cells['level']}' is not Editor, Reviewer or Contributor.", level="error")
+        if cells.get("photo") and not (docs / "assets" / "team" / cells["photo"]).exists():
+            f.add("team", rel, n, f"Photo not found: docs/assets/team/{cells['photo']}", level="error")
+        if not cells.get("consent"):
+            f.add("team", rel, n, "No consent date: list someone only after their written consent.", level="error")
+        elif as_date(cells["consent"]) is None:
+            f.add("team", rel, n, f"consent '{cells['consent']}' is not a YYYY-MM-DD date.", level="error")
+        for u in MD_URL.findall(cells.get("links", "")):
+            if not URL.match(u):
+                f.add("team", rel, n, f"links cell has a link that isn't http(s): {u[:60]}", level="error")
+        team[rid] = cells
+    return team
+
+
+def check_reviewers(docs, team, f):
+    """Every reviewers id is on the Team sheet; published pages have a current reviewer."""
+    for path in sorted(docs.rglob("*.md")):
+        text = path.read_text(encoding="utf-8")
+        m = FRONT.match(text)
+        try:
+            meta = yaml.safe_load(m.group(1)) if m else None
+        except yaml.YAMLError:
+            continue
+        if not isinstance(meta, dict) or not isinstance(meta.get("reviewers"), list):
+            continue
+        rel, ids = path.as_posix(), [str(r) for r in meta["reviewers"]]
+        line = key_line(text, "reviewers")
+        missing = [r for r in ids if r not in team]
+        if missing:
+            f.add("team", rel, line, f"reviewers names {', '.join(missing)}, not on the Team sheet ({TEAM_SHEET}).",
+                  level="warning")
+        known = [r for r in ids if r in team]
+        if meta.get("status") == "published" and known and all(team[r].get("until") for r in known):
+            f.add("team", rel, line, "Every reviewer of this published page has left the team; it needs a current reviewer.",
+                  level="warning")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("docs", nargs="?", default="docs")
@@ -308,9 +387,14 @@ def main():
             why = "twice on one page" if same_page else "for different links"
             for p, n, _ in where:
                 f.add("sources", p, n, f"Source id '{sid}' is used {why}: {places}.")
+    team_sheet = docs / TEAM_SHEET
+    team = check_team(team_sheet, team_sheet.as_posix(), docs, f) if team_sheet.exists() else {}
+    if team:
+        check_reviewers(docs, team, f)
     for path in sorted(docs.rglob("*.csv")):
         rel = path.as_posix()
-        check_sheet(path, rel, f)
+        if path.resolve() != team_sheet.resolve():
+            check_sheet(path, rel, f)
         if path.resolve() not in used:
             f.add("list-sheet", rel, 1, "No page has an nppr-list marker for this sheet.")
 

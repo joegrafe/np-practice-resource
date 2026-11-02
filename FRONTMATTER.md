@@ -47,7 +47,7 @@ sources:
 | `status` | Yes | `draft` · `review` · `published` | `draft` while writing, `review` when ready for a reviewer, `published` after review. |
 | `last-reviewed` | Yes | `YYYY-MM-DD` | The date every source on the page was last checked. |
 | `review-due` | Yes | `YYYY-MM-DD` | Usually `last-reviewed` plus one year. Sooner when a guideline update is expected. |
-| `reviewers` | Yes | List of GitHub usernames | Who checked the page. Empty `[]` while in draft. |
+| `reviewers` | Yes | List of team ids | Who checked the page: each id is a row of the Team sheet, `docs/About/Team.csv` (Joe is `joegrafe`). The page shows their names under its title, linked to their cards on About > Team, and reviewers' cards list the pages that name them. Empty `[]` while in draft. A GitHub account is optional. |
 | `sources` | Yes, except `index` and `about` | List of source entries (below) | List BC sources first, then national, then international. On an Approaches page, one entry for the publisher's index: its items are recorded in the page's CSV list sheet (List sheets in NPPR-FRAMEWORK.md), not here. On a condition page, one entry per guideline, algorithm, pathway and tool the page's list sheet links, kept in step with the sheet: the Evidence Pack is built from these entries. |
 | `aliases` | No | List of text | Other names a reader might search for: abbreviations, drug and brand names, plain words. Added to search only, not shown. Use this or the page's line in `hooks/search_aliases.yml` in nppr-website-config (Search in NPPR-FRAMEWORK.md). |
 | `hide` | No | `[toc]`, `[navigation]`, `[suggest]`, `[report]` | `toc` and `navigation` are Material for MkDocs options; `suggest` hides the Suggest a link card and `report` hides only its GitHub issue button. |
