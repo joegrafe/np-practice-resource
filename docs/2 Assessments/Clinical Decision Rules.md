@@ -3,10 +3,10 @@ title: Clinical Decision Rules
 type: assessment
 tags: [assessment, decision-rules, calculators, urgent-care]
 jurisdiction: [BC, CA, INTL]
-aliases: [decision rules, clinical decision rules, clinical prediction rules, decision tools, risk scores, calculators, Ottawa rules, Ottawa ankle rules, Ottawa knee rule, Canadian C-Spine Rule, Canadian CT Head Rule, CATCH, PECARN, Ottawa SAH rule, Canadian TIA Score, Canadian Syncope Risk Score, HEART score, Marburg Heart Score, Wells score, Wells DVT, Wells PE, PERC, CHADS-65, CHA2DS2-VASc, McIsaac, Centor, CURB-65, PRAM, Westley croup score, Alvarado, Pediatric Appendicitis Score, Glasgow Coma Scale, GCS, MDCalc]
+aliases: [decision rules, clinical decision rules, clinical prediction rules, decision tools, risk scores, calculators, Ottawa rules, Ottawa ankle rules, Ottawa knee rule, Canadian C-Spine Rule, Canadian CT Head Rule, CATCH, PECARN, Ottawa SAH rule, Canadian TIA Score, Canadian Syncope Risk Score, HEART score, Marburg Heart Score, Wells score, Wells DVT, Wells PE, PERC, CHADS-65, CHA2DS2-VASc, McIsaac, Centor, CURB-65, PRAM, Westley croup score, PECARN febrile infant rule, Step-by-Step, febrile infant, Alvarado, Pediatric Appendicitis Score, Glasgow Coma Scale, GCS, MDCalc]
 status: published
-last-reviewed: 2026-10-30
-review-due: 2027-10-30
+last-reviewed: 2026-11-02
+review-due: 2027-11-02
 reviewers: [joegrafe]
 redirect_from: [resources/clinical-tools]  # Resources: Clinical Tools retired 2026-11-02
 description: "Clinical decision rules and risk scores used at the bedside, by body system: Canadian-origin rules first, with the condition pages that use each one."
@@ -133,6 +133,22 @@ sources:
     version: "Checked 2026-10-30"
     url: "https://www.mdcalc.com/calc/677/westley-croup-score"
     checked: 2026-10-30
+  - id: cdr-pecarn-febrile-infant
+    title: "PECARN Rule for Low Risk Febrile Infants"
+    publisher: "MDCalc"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-11-02"
+    url: "https://www.mdcalc.com/calc/10204/pecarn-rule-low-risk-febrile-infants-29-60-days-old"
+    checked: 2026-11-02
+  - id: cdr-step-by-step-febrile-infants
+    title: "Step-by-Step Approach to Febrile Infants"
+    publisher: "MDCalc"
+    jurisdiction: INTL
+    kind: tool
+    version: "Checked 2026-11-02"
+    url: "https://www.mdcalc.com/calc/1801/step-step-approach-febrile-infants"
+    checked: 2026-11-02
   - id: cdr-alvarado
     title: "Alvarado Score for Acute Appendicitis"
     publisher: "MDCalc"
