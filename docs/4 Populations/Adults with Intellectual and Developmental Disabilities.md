@@ -4,10 +4,10 @@ type: population
 slug: idd
 tags: [population, developmental-disabilities, intellectual-disability]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: nidus-personal-planning-resource-centre
     title: "Nidus Personal Planning Resource Centre"

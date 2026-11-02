@@ -3,10 +3,10 @@ title: Rural and Remote
 type: population
 tags: [population, rural, remote]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 redirect_from: [populations/bc-rural-health]  # the BC Rural Health stub until 2026-11-02
 sources:
   - id: rccbc-real-time-virtual-support-rtvs

@@ -3,10 +3,10 @@ title: Newcomers and Refugees
 type: population
 tags: [population, newcomers, refugees, immigrants]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bccdc-immunization-of-individuals-new-to-canada-bc-immunizat
     title: "Immunization of Individuals New to Canada (BC Immunization Manual, Part 2)"
