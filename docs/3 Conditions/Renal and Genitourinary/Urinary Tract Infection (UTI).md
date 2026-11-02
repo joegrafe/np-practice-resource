@@ -2,15 +2,7 @@
 title: Urinary Tract Infection (UTI)
 type: condition
 system: renal-genitourinary
-tags:
-  - condition
-  - renal-genitourinary
-  - uti
-  - cystitis
-  - pyelonephritis
-  - adults
-  - pregnancy
-  - dysuria
+tags: [condition, renal-genitourinary, uti, cystitis, pyelonephritis, pregnancy, dysuria, adolescents, older-adults, womens-health, dysuria-and-urinary-symptoms]
 jurisdiction:
   - BC
   - CA

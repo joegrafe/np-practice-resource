@@ -2,15 +2,7 @@
 title: Thyroid Disease
 type: condition
 system: endocrine-metabolic
-tags:
-  - condition
-  - endocrine-metabolic
-  - thyroid
-  - hypothyroidism
-  - hyperthyroidism
-  - thyroid-nodule
-  - adults
-  - pregnancy
+tags: [condition, endocrine-metabolic, thyroid, hypothyroidism, hyperthyroidism, thyroid-nodule, pregnancy]
 jurisdiction:
   - BC
   - CA

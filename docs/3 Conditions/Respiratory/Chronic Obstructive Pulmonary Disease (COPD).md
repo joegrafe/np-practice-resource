@@ -2,7 +2,7 @@
 title: Chronic Obstructive Pulmonary Disease (COPD)
 type: condition
 system: respiratory
-tags: [condition, respiratory, copd, adults, older-adults, dyspnea, cough]
+tags: [condition, respiratory, copd, older-adults, dyspnea, cough]
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-09

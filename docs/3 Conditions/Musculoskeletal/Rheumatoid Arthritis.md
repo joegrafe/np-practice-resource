@@ -2,7 +2,7 @@
 title: Rheumatoid Arthritis
 type: condition
 system: musculoskeletal
-tags: [condition, musculoskeletal, ra, adults, joint-pain]
+tags: [condition, musculoskeletal, ra, joint-pain]
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-13

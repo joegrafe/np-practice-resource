@@ -42,7 +42,7 @@ sources:
 | `title` | Yes | Text | Page title as shown on the site. |
 | `type` | Yes | `approach` · `assessment` · `condition` · `population` · `prescribing` · `practice` · `evidence-pack` · `resource` · `index` · `about` | `index` (section index pages) and `about` (About pages) are additions for pages the framework's list doesn't cover. |
 | `system` | Condition pages only | One slug from the body-system list below | Must match the Conditions sub-folder. |
-| `tags` | Yes | Lowercase, hyphenated list | First tag is the page type. Add the system, a population (`pediatrics`, `older-adults`) and a presenting symptom (`chest-pain`) where they apply. |
+| `tags` | Yes | Lowercase, hyphenated list | First tag is the page type. Add the system, then any population and presenting-symptom tags that apply (see Tags below). |
 | `jurisdiction` | Yes | List of `BC`, `CA`, `INTL` | Every jurisdiction the page's sources cover. |
 | `status` | Yes | `draft` · `review` · `published` | `draft` while writing, `review` when ready for a reviewer, `published` after review. |
 | `last-reviewed` | Yes | `YYYY-MM-DD` | The date every source on the page was last checked. |
@@ -55,6 +55,16 @@ sources:
 | `logo` | No | Publisher's own image URL, or `/assets/logos/<name>` | Shown beside the title and on the section card. Link the publisher's file; host a copy in `docs/assets/logos/` only when Joe asks for one. |
 | `logo-alt` | With `logo` | Text | The institution's name, used as the image's alt text. |
 | `logo-bg` | No | CSS colour, quoted | Background behind a logo drawn for dark headers, e.g. `"#111"` for a white logo. |
+
+## Tags
+
+Population, presenting-symptom and `urgent-care` tags link to the [Browse by Tag](docs/3%20Conditions/Browse%20by%20Tag.md) page, which lists the pages under each one (step 2.3, build wave 13, approved by Joe 2026-11-02). Tag a page only when its own sources cover that population or symptom. Other tags (page type, system, keywords) stay plain words and aren't listed.
+
+- **Populations:** `pediatrics`, `adolescents`, `older-adults`, `pregnancy`, `lactation`, `womens-health`, `trans-care`, `indigenous-health`, `newcomers`, `rural-remote`, `idd`. Use `pediatrics`, not `children`, and no `adults` tag: adults are the default.
+- **Presenting symptoms:** the complaint headings of Presentations A to Z (`scripts/presentations.yml` in nppr-website-config), lowercase and hyphenated: for example `chest-pain`, `dyspnea`, `dysuria-and-urinary-symptoms`.
+- **Setting:** `urgent-care`, for pages built for urgent or same-day presentations.
+
+A tag only shows on Browse by Tag once it's in one of that page's `include` lists: add a new population or symptom tag there too.
 
 ## Source fields
 

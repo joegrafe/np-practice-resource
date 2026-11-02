@@ -2,7 +2,7 @@
 title: Chronic Kidney Disease (CKD)
 type: condition
 system: renal-genitourinary
-tags: [condition, renal-genitourinary, ckd, adults, kidney]
+tags: [condition, renal-genitourinary, ckd, kidney]
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-29

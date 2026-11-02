@@ -2,7 +2,7 @@
 title: Osteoporosis
 type: condition
 system: endocrine-metabolic
-tags: [condition, endocrine-metabolic, osteoporosis, bone-health, fracture-prevention, older-adults, adults]
+tags: [condition, endocrine-metabolic, osteoporosis, bone-health, fracture-prevention, older-adults, falls]
 jurisdiction: [BC, CA, INTL]
 aliases: [OP, osteopenia, low bone density, bone density, BMD, DXA, DEXA, bone scan, fragility fracture, fracture risk, FRAX, CAROC, T-score, bisphosphonate, alendronate, Fosamax, risedronate, Actonel, zoledronic acid, Aclasta, denosumab, Prolia, romosozumab, Evenity, teriparatide, Forteo, vertebral fracture, compression fracture, hip fracture, glucocorticoid-induced osteoporosis, calcium, vitamin D, Osteoporosis Canada]
 status: published

@@ -2,7 +2,7 @@
 title: Low Back Pain
 type: condition
 system: musculoskeletal
-tags: [condition, musculoskeletal, low-back-pain, back-pain, pain, urgent-care, adults]
+tags: [condition, musculoskeletal, low-back-pain, back-pain, pain, urgent-care]
 jurisdiction: [BC, CA, INTL]
 aliases: [LBP, back pain, lower back pain, lumbago, mechanical back pain, acute low back pain, chronic low back pain, sciatica, lumbar radiculopathy, radicular pain, herniated disc, slipped disc, spinal stenosis, neurogenic claudication, back strain, red flags, cauda equina, back imaging, lumbar spine x-ray, lumbar MRI, CORE Back Tool]
 status: published

@@ -2,7 +2,7 @@
 title: Sprains and Minor Fractures
 type: condition
 system: musculoskeletal
-tags: [condition, musculoskeletal, injury, urgent-care, adults, pediatrics]
+tags: [condition, musculoskeletal, injury, urgent-care, pediatrics, rural-remote, foot-and-ankle-pain, hand-and-wrist-pain, knee-pain]
 jurisdiction: [BC, CA, INTL]
 aliases: [sprain, sprains, ankle sprain, sprained ankle, rolled ankle, strain, fracture, broken bone, minor fracture, foot fracture, fifth metatarsal, wrist fracture, distal radius fracture, forearm fracture, buckle fracture, torus fracture, finger fracture, boxer's fracture, mallet finger, toddler's fracture, Salter-Harris, growth plate fracture, Ottawa ankle rules, Ottawa knee rule, ankle x-ray, MSK injury]
 status: published

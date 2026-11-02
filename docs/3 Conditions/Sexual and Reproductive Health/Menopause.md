@@ -2,14 +2,7 @@
 title: Menopause
 type: condition
 system: sexual-reproductive-health
-tags:
-  - condition
-  - sexual-reproductive-health
-  - menopause
-  - perimenopause
-  - hormone-therapy
-  - womens-health
-  - adults
+tags: [condition, sexual-reproductive-health, menopause, perimenopause, hormone-therapy, womens-health, indigenous-health, rural-remote, abnormal-uterine-bleeding, sexual-dysfunction]
 jurisdiction:
   - BC
   - CA

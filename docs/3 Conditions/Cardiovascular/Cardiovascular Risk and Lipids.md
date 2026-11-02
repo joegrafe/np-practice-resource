@@ -2,13 +2,7 @@
 title: Cardiovascular Risk and Lipids
 type: condition
 system: cardiovascular
-tags:
-  - condition
-  - cardiovascular
-  - cv-risk
-  - lipids
-  - dyslipidemia
-  - adults
+tags: [condition, cardiovascular, cv-risk, lipids, dyslipidemia]
 jurisdiction:
   - BC
   - CA
