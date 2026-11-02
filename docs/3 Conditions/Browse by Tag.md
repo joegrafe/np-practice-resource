@@ -3,10 +3,10 @@ title: Browse by Tag
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 description: "Condition and population pages grouped by who the patient is and what they present with."
 section_cards: false
 search:
