@@ -4,7 +4,7 @@ type: index
 tags: [index]
 jurisdiction: [BC, CA]
 status: published
-last-reviewed: 2026-11-01
+last-reviewed: 2026-11-02
 review-due: 2027-11-01
 reviewers: [joegrafe]
 ---
@@ -22,5 +22,7 @@ reviewers: [joegrafe]
 - [Older Adults](Older%20Adults.md) — *BC frailty and fall prevention guidelines, CCSMH delirium, depression and anxiety guidelines, Geri-RxFiles, advance care planning and seniors' services*
 - [Women's Health](Women%27s%20Health.md) — *BC Women's and SOGC; gynecology guidelines (abnormal uterine bleeding, endometriosis, pelvic pain, PCOS, pelvic floor), abortion care, intimate partner violence and sexual assault*
 - [Trans Care](Trans%20Care.md) — *Trans Care BC's Primary Care Toolkit and Sherbourne guidelines; gender-affirming hormone therapy, screening, surgery referral and youth*
-- [Indigenous Health](Indigenous%20Health.md) — *FNHA, cultural safety and First Nations health benefits*
-- [BC Rural Health](BC%20Rural%20Health.md) — *to be rebuilt as Rural and Remote in wave 3*
+- [Indigenous Health](Indigenous%20Health.md) — *BCCNM's cultural safety standard, FNHA and In Plain Sight; First Nations health benefits, FNHA virtual services and Indigenous health programs by region*
+- [Rural and Remote](Rural%20and%20Remote.md) — *RCCbc Real-Time Virtual Support (RUDi, MaBAL, CHARLiE, ROCCi), patient transfer, the Travel Assistance Program and rural practice networks*
+- [Newcomers and Refugees](Newcomers%20and%20Refugees.md) — *CCIRH guidelines and Caring for Kids New to Canada; immunization and TB screening after arrival, IFHP and MSP coverage, interpreters and refugee clinics*
+- [Adults with Intellectual and Developmental Disabilities](Adults%20with%20Intellectual%20and%20Developmental%20Disabilities.md) — *the Canadian primary care guidelines and Health Check, behavioural crisis, decision-making, and CLBC and health authority services*
