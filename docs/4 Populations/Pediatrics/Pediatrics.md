@@ -33,22 +33,6 @@ sources:
     version:
     url: "https://childhealthbc.ca/clinician-resources/pediatric-early-warning-system-pews"
     checked: 2026-10-29
-  - id: chbc-bronchiolitis
-    title: Bronchiolitis
-    publisher: Child Health BC
-    jurisdiction: BC
-    kind: guideline
-    version:
-    url: "https://childhealthbc.ca/clinician-resources/bronchiolitis"
-    checked: 2026-10-29
-  - id: chbc-croup
-    title: Croup
-    publisher: Child Health BC
-    jurisdiction: BC
-    kind: guideline
-    version:
-    url: "https://childhealthbc.ca/clinician-resources/croup"
-    checked: 2026-10-29
   - id: chbc-sepsis
     title: Sepsis
     publisher: Child Health BC
@@ -264,7 +248,7 @@ sources:
 <!-- Populations wave 1, reviewed and published by Joe 2026-10-29. Every section lives in Pediatrics.csv beside this page.
      Folded in: the Canadian Paediatric Society and Rourke Baby Record stub pages (their addresses redirect here).
      Greig Health Record and developmental screening stay on Assessments > Preventive Care and Cancer Screening, and immunization on Prescribing > Immunization (topic ownership); this page links them.
-     Pediatric croup, bronchiolitis, fever in young infants and gastroenteritis pages are later Populations waves; Child Health BC's topic pages stand in for now.
+     Croup, Bronchiolitis, Fever in Young Children and Gastroenteritis and Dehydration have their own pages (build wave 14, 2026-11-02); Child Health BC's croup and bronchiolitis pages moved there.
      Unconfirmed: BC Children's Hospital pages return 403 to automated checks (links carried over from the published page).
      Link to the source guidance; don't restate its recommendations. -->
 *Sources and services for infants, children and youth.*

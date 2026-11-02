@@ -21,7 +21,7 @@ status: published
 
 -   :material-lungs:{ .nppr-icon } [**Respiratory**](Respiratory/index.md)
 
-    Asthma and COPD.
+    Asthma and COPD; for children, asthma, croup and bronchiolitis.
 
 -   :material-diabetes:{ .nppr-icon } [**Endocrine and Metabolic**](Endocrine%20and%20Metabolic/index.md)
 
@@ -45,11 +45,11 @@ status: published
 
 -   :material-virus-outline:{ .nppr-icon } [**Infectious Disease**](Infectious%20Disease/index.md)
 
-    Respiratory tract infections.
+    Respiratory tract infections; for children, fever and gastroenteritis.
 
 -   :material-hand-back-left-outline:{ .nppr-icon } [**Dermatology**](Dermatology/index.md)
 
-    Psoriasis.
+    Burns, lacerations and minor wounds, and psoriasis.
 
 -   :material-account-heart-outline:{ .nppr-icon } [**Sexual and Reproductive Health**](Sexual%20and%20Reproductive%20Health/index.md)
 

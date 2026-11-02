@@ -323,11 +323,11 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
 - Wave 2:
     - [ ] Alcohol use disorder (Mental Health and Substance Use)
     - [ ] Tobacco use disorder (Mental Health and Substance Use)
-    - [ ] Lacerations and minor wounds (Dermatology; urgent care)
+    - [x] Lacerations and minor wounds (Dermatology; urgent care)
     - [ ] Venous thromboembolism (Hematology and Oncology)
     - [x] Obesity (Endocrine and Metabolic)
     - [ ] Anemia and iron (iron deficiency, B12 and folate, high ferritin) (Hematology and Oncology)
-    - [ ] Burns (Dermatology; urgent care)
+    - [x] Burns (Dermatology; urgent care)
     - [ ] GERD and H. pylori (Gastrointestinal and Liver)
     - [ ] Migraine and headache (Neurology)
     - [ ] Osteoarthritis (Musculoskeletal)
@@ -435,7 +435,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 
 12. Clean-up and gate check: clear the page-check warnings and move each clean rule out of `WARN_ONLY` in scripts/check_pages.py; fix the Alberta menopause pathway years on the Approaches sheet; run the Phase 2 gate check and step 2.5; read the missed-search log's top searches (built 2026-11-02; every page passes the page checks, and frontmatter, sources and source-order are errors now; the missed-search log still needs the Cloudflare connector).
 13. Population and symptom tags (step 2.3) and a Tags page. Waits on Joe's OK on the tag list in the master plan. (Built 2026-11-02: tag list approved by Joe; tags on every condition and population page, listed in FRONTMATTER.md; Conditions > Browse by Tag; Presentations A to Z back on the site; both published on Joe's "publish" 2026-11-02. Joe asked that both pages stay out of search, so they carry `search: {exclude: true}`, which also keeps them out of llms.txt and web search engines.)
-14. Urgent care batch: lacerations and minor wounds, burns (Dermatology); croup and bronchiolitis, fever in young children, gastroenteritis and dehydration (Populations > Pediatrics).
+14. Urgent care batch: lacerations and minor wounds, burns (Dermatology); croup and bronchiolitis, fever in young children, gastroenteritis and dehydration (Populations > Pediatrics). (Built 2026-11-02: six pages, with croup and bronchiolitis as separate pages so each keeps 1 to 3 Key Sources; the pediatric pages are listed on the Respiratory and Infectious Disease indexes, and their decision rules on Clinical Decision Rules.)
 15. Conditions wave 2, batch B: alcohol use disorder, tobacco use disorder, venous thromboembolism, anemia and iron. The Opioids page then drops its interim Alcohol and Tobacco sections.
 16. Conditions wave 2, batch C: GERD and H. pylori, migraine and headache, osteoarthritis, insomnia.
 17. Stage D wrap-up: Resources wave 2 (Libraries and databases, CPD and learning; retire the Clinical Tools and BC Library Guides stubs) and About: How NPPR is kept current.

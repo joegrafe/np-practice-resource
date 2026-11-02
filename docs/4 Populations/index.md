@@ -18,6 +18,10 @@ reviewers: [joegrafe]
 - [Pediatrics](Pediatrics/Pediatrics.md) — *Child Health BC, CPS and TREKK; well-child care (Rourke Baby Record), urgent care and red flags, adolescents, CHARLiE and BC Children's Hospital referral*
     - [Pediatric Asthma](Pediatrics/Pediatric%20Asthma.md)
     - [Pediatric UTI](Pediatrics/Pediatric%20UTI.md)
+    - [Croup](Pediatrics/Croup.md)
+    - [Bronchiolitis](Pediatrics/Bronchiolitis.md)
+    - [Fever in Young Children](Pediatrics/Fever%20in%20Young%20Children.md)
+    - [Gastroenteritis and Dehydration](Pediatrics/Gastroenteritis%20and%20Dehydration.md)
 - [Pregnancy and Perinatal](Pregnancy%20and%20Perinatal.md) — *Perinatal Services BC's Health Hub and the national maternity guidelines; prenatal care, medication in pregnancy and lactation, and reproductive mental health referral*
 - [Older Adults](Older%20Adults.md) — *BC frailty and fall prevention guidelines, CCSMH delirium, depression and anxiety guidelines, Geri-RxFiles, advance care planning and seniors' services*
 - [Women's Health](Women%27s%20Health.md) — *BC Women's and SOGC; gynecology guidelines (abnormal uterine bleeding, endometriosis, pelvic pain, PCOS, pelvic floor), abortion care, intimate partner violence and sexual assault*

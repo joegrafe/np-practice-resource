@@ -1,0 +1,43 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords
+Key Sources,,,BCCDC Immunization Manual - Tetanus Prophylaxis in Wound Management,https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization/biological-products#:~:text=Tetanus%20Prophylaxis%20in%20Wound%20Management,2015,https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part4/TetanusProphylaxis.pdf,,"BC table of when a wound needs tetanus toxoid or tetanus immune globulin, by immunization history (Part 4, Biological Products)",tetanus Td Tdap TIg tetanus immune globulin booster
+Key Sources,,,AAFP - Laceration Repair: A Practical Approach,https://www.aafp.org/afp/2017/0515/p628,2017,https://www.aafp.org/afp/2017/0515/p628.pdf,,"International source: US guidance, not Canadian; Forsch RT, Little SH, Williams C; wound preparation, repair techniques and closure options",laceration repair suturing
+Further Resources,box,,BCCDC Communicable Disease Control Manual - Rabies,https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/communicable-disease-control,2026,,,"BC rabies exposure risk assessment after animal bites, with when to call local public health (Chapter I, August 2026)",rabies animal bite bat dog cat exposure
+Further Resources,,1,Rabies (PDF),https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%201%20-%20CDC/Rabies_Guidelines.pdf,,,,,
+Further Resources,,1,"Rabies Post-Exposure Prophylaxis (Immunization Manual, Part 4)",https://www.bccdc.ca/health-professionals/clinical-resources/communicable-disease-control-manual/immunization/biological-products#:~:text=Post%2DExposure%20Prophylaxis,2026,https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part4/RabiesPost-Exposure.pdf,,,rabies vaccine RabIg PEP
+Further Resources,,,Canadian Family Physician - Topical Skin Adhesives for Laceration Repair in Children,https://www.cfp.ca/content/67/4/260,2021,https://www.cfp.ca/content/cfp/67/4/260.full.pdf,,"Child Health Update; Adl H, Henkelman E, Goldman RD. Can Fam Physician 67(4)",tissue adhesive skin glue Dermabond children
+Further Resources,,,Canadian Family Physician - Pain Management for Children Needing Laceration Repair,https://www.cfp.ca/content/64/12/900,2018,https://www.cfp.ca/content/cfp/64/12/900.full.pdf,,"Child Health Update; Lambert C, Goldman RD. Can Fam Physician 64(12); needle-free and injected local anesthesia",LET lidocaine epinephrine tetracaine local anesthetic children
+Further Resources,,,Canadian Family Physician - Management of Dog Bites in Children,https://www.cfp.ca/content/58/10/1094,2012,https://www.cfp.ca/content/cfp/58/10/1094.full.pdf,,"Child Health Update; Sabhaney V, Goldman RD. Can Fam Physician 58(10)",dog bite children
+Further Resources,,,PedsCases Notes - Dog and Cat Bites,https://www.pedscases.com/dog-and-cat-bites,2023,https://www.pedscases.com/sites/default/files/Dog%20and%20Cat%20Bites.pdf,,pediatric approach note,dog cat bite children
+Further Resources,,,AAFP - Common Questions About Wound Care,https://www.aafp.org/afp/2015/0115/p86,2015,https://www.aafp.org/afp/2015/0115/p86.pdf,,"International source: US guidance, not Canadian",wound care cleaning dressing
+Further Resources,box,,DermNet - Wounds and wound care,,,,,"International source: New Zealand, not Canadian; each page shows its last review",
+Further Resources,,1,Wounds,https://dermnetnz.org/topics/wounds,2023,,,,wound types
+Further Resources,,1,Wound closure techniques,https://dermnetnz.org/topics/wound-closure,2023,,,,closure sutures staples strips
+Further Resources,,1,Suturing techniques,https://dermnetnz.org/topics/suturing-techniques,2023,,,,suturing sutures stitches
+Further Resources,,1,Topical skin adhesives,https://dermnetnz.org/topics/topical-skin-adhesives,2023,,,,skin glue tissue adhesive
+Further Resources,,1,Wound cleansers,https://dermnetnz.org/topics/wound-cleansers,2023,,,,irrigation cleansing
+Further Resources,,1,Wound dressings (synthetic),https://dermnetnz.org/topics/synthetic-wound-dressings,2023,,,,dressings
+Further Resources,,1,Wound care,https://dermnetnz.org/topics/wound-care,2023,,,,
+Further Resources,,1,Wound infections,https://dermnetnz.org/topics/wound-infections,2023,,,,infected wound
+Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for lacerations or minor wounds found on 2026-11-02.,
+Assessment Tools and Calculators,note,,,,,,,No laceration or wound calculator found on MDCalc or a BC or Canadian site on 2026-11-02.,
+Prescribing,note,,,,,,,Tetanus toxoid and tetanus immune globulin: see the BCCDC table under Key Sources.,
+Prescribing,box,,Bugs & Drugs - Bite wounds,https://www.bugsanddrugs.org/,,,,"antimicrobial treatment recommendations for bite wounds; BC and Alberta guide, free website and app, updated continuously",antibiotic bite amoxicillin clavulanate
+Prescribing,,1,Dog bites (adult),https://www.bugsanddrugs.org/7522978D-A667-40C0-BA26-16462079D69F,,,,,
+Prescribing,,1,Cat bites (adult),https://www.bugsanddrugs.org/8D25BD0D-CDA2-4E78-BD74-71F29F3C937F,,,,,
+Prescribing,,1,Human bites (adult),https://www.bugsanddrugs.org/dfa66cf2-6abf-4439-8215-1d034716c607,,,,,
+Prescribing,,1,Dog bites (pediatric),https://www.bugsanddrugs.org/0C8C1DEC-8752-45A5-B0C9-8F94DBA93735,,,,,
+Prescribing,,1,Cat bites (pediatric),https://www.bugsanddrugs.org/6DFE4A0D-3E29-4CF2-9B78-AADD654E8D9A,,,,,
+Prescribing,,1,Human bites (pediatric),https://www.bugsanddrugs.org/D4598026-D4EF-4B4A-9ED1-64C31D3EB9A0,,,,,
+Prescribing,box,,RxFiles - Antibiotics: Skin & Soft Tissue Infections,https://www.rxfiles.ca/rxfiles/uploads/documents/books/antibiotics.html#:~:text=Skin%20%26%20Soft%20Tissue%20Infections,,,,RxFiles antibiotic charts; documents need an RxFiles subscription,antibiotic skin infection cellulitis bite
+Prescribing,,1,Skin & Soft Tissue Infections chart (subscription),https://www.rxfiles.ca/RxFiles/uploads/documents/members/ABX-Skin-Infections.pdf,,,,,
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,https://www.raceconnect.ca/,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",plastic surgery
+Advice and Referral,,,RCCbc - Real-Time Virtual Support: RUDi (Emergency),https://rccbc.ca/initiatives/rtvs/rudi/,,,,"24/7 emergency physician support by Zoom and phone for rural and remote providers, including nurse practitioners",RTVS rural
+Patient Resources,,,HealthLink BC - Cuts,https://www.healthlinkbc.ca/healthwise/cuts,2022,,[When Stitches Are Needed](https://www.healthlinkbc.ca/healthwise/cuts-when-stitches-are-needed),,
+Patient Resources,,,HealthLink BC - Taking Care of Your Stitches or Staples,https://www.healthlinkbc.ca/healthwise/taking-care-your-stitches-or-staples,2023,,,,suture care
+Patient Resources,,,HealthLink BC - Skin Adhesives (Liquid Stitches),https://www.healthlinkbc.ca/healthwise/skin-adhesives-liquid-stitches,2022,,,,skin glue
+Patient Resources,,,HealthLink BC - Scrapes,https://www.healthlinkbc.ca/healthwise/scrapes,2022,,,,abrasion
+Patient Resources,,,HealthLink BC - Puncture Wounds,https://www.healthlinkbc.ca/healthwise/puncture-wounds,2022,,,,
+Patient Resources,,,HealthLink BC - Animal and Human Bites,https://www.healthlinkbc.ca/healthwise/animal-and-human-bites,2022,,[When Stitches Are Needed](https://www.healthlinkbc.ca/healthwise/animal-and-human-bites-when-stitches-are-needed),,dog bite cat bite
+Patient Resources,,,HealthLink BC - Tetanus,https://www.healthlinkbc.ca/healthwise/tetanus,2022,,,,
+Patient Resources,,,"Fraser Health - Cuts, Scrapes and Other Wounds: Suture Care",,,https://fraserhealth.patienteduc.ca/file/cuts-scrapes-and-other-wounds-suture-care-2731.pdf,,,stitches care handout
+Patient Resources,,,Fraser Health - Caring for a Wound Treated with Skin Glue,,,https://fraserhealth.patienteduc.ca/file/caring-for-a-wound-treated-with-skin-glue-364408.pdf,,,skin glue handout
