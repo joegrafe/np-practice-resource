@@ -3,10 +3,10 @@ title: Older Adults
 type: population
 tags: [population, older-adults, geriatrics]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-01
 review-due: 2027-11-01
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-guidelines-frailty-in-older-adults-early-identification-a
     title: "Frailty in Older Adults: Early Identification and Management"

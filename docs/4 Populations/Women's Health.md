@@ -3,10 +3,10 @@ title: Women's Health
 type: population
 tags: [population, womens-health]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-01
 review-due: 2027-11-01
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-women-s-hospital-health-centre-health-professionals
     title: "Health Professionals"

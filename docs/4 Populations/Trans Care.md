@@ -3,10 +3,10 @@ title: Trans Care
 type: population
 tags: [population, trans-care, gender-affirming-care]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-01
 review-due: 2027-11-01
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: trans-care-bc-gender-affirming-care-for-trans-two-spirit-and
     title: "Gender-Affirming Care for Trans, Two-Spirit and Gender Diverse Patients in BC: A Primary Care Toolkit"
