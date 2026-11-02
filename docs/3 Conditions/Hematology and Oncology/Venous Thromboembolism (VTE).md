@@ -5,10 +5,10 @@ system: hematology-oncology
 tags: [condition, hematology-oncology, venous-thromboembolism, anticoagulation, urgent-care, edema, dyspnea, chest-pain, pregnancy]
 jurisdiction: [BC, CA, INTL]
 aliases: [VTE, DVT, deep vein thrombosis, deep venous thrombosis, PE, pulmonary embolism, pulmonary embolus, blood clot, clot in leg, leg clot, swollen leg, calf pain, superficial thrombophlebitis, superficial vein thrombosis, phlebitis, post-thrombotic syndrome, Wells score, Wells criteria, PERC, D-dimer, sPESI, PESI, Khorana, compression ultrasound, CTPA, anticoagulant, anticoagulation, blood thinner, DOAC, apixaban, Eliquis, rivaroxaban, Xarelto, edoxaban, Lixiana, dabigatran, Pradaxa, LMWH, low molecular weight heparin, dalteparin, Fragmin, enoxaparin, Lovenox, tinzaparin, Innohep, warfarin, cancer-associated thrombosis, thrombophilia, factor V Leiden, travel clot, Thrombosis Canada]
-status: review
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-vte-2024
     title: Venous Thromboembolism

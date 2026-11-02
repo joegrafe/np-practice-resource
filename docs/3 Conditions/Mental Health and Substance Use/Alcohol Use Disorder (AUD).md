@@ -5,10 +5,10 @@ system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, alcohol-use-disorder, substance-use, addiction, adolescents, pregnancy, older-adults]
 jurisdiction: [BC, CA, INTL]
 aliases: [AUD, alcohol, alcoholism, alcohol dependence, alcohol abuse, high-risk drinking, heavy drinking, binge drinking, drinking problem, alcohol withdrawal, withdrawal management, detox, delirium tremens, CIWA, CIWA-Ar, PAWSS, AUDIT, AUDIT-C, SASQ, naltrexone, Revia, acamprosate, Campral, gabapentin, topiramate, disulfiram, Antabuse, thiamine, Wernicke, Canada's Guidance on Alcohol and Health, low-risk drinking guidelines, standard drink, BCCSU, CRISM]
-status: review
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-hrd-aud-2024
     title: High-Risk Drinking and Alcohol Use Disorder

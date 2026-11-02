@@ -5,10 +5,10 @@ system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, tobacco-use-disorder, smoking-cessation, vaping, substance-use, addiction, adolescents, pregnancy, indigenous-health]
 jurisdiction: [BC, CA, INTL]
 aliases: [TUD, smoking, smoking cessation, quit smoking, stop smoking, tobacco, cigarettes, nicotine, nicotine dependence, nicotine addiction, vaping, vape, e-cigarettes, e-cigs, vaping cessation, chewing tobacco, smokeless tobacco, NRT, nicotine replacement therapy, nicotine patch, nicotine gum, nicotine lozenge, nicotine inhaler, nicotine mouth spray, varenicline, Champix, bupropion, Zyban, cytisine, 5 As, 5As, brief intervention, QuitNow, Smoking Cessation Program, free NRT]
-status: review
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-tud-2024
     title: Tobacco Use Disorder
