@@ -4,8 +4,8 @@ type: index
 tags: [index]
 jurisdiction: [BC, CA]
 status: published
-last-reviewed: 2026-10-29
-review-due: 2027-10-29
+last-reviewed: 2026-11-01
+review-due: 2027-11-01
 reviewers: [joegrafe]
 ---
 <!-- Section buttons are added automatically by the website build on top-level section pages.
@@ -19,7 +19,8 @@ reviewers: [joegrafe]
     - [Pediatric Asthma](Pediatrics/Pediatric%20Asthma.md)
     - [Pediatric UTI](Pediatrics/Pediatric%20UTI.md)
 - [Pregnancy and Perinatal](Pregnancy%20and%20Perinatal.md) — *Perinatal Services BC's Health Hub and the national maternity guidelines; prenatal care, medication in pregnancy and lactation, and reproductive mental health referral*
-- [Women's Health](Women%27s%20Health.md) — *to be rebuilt in wave 2*
-- [Trans Care](Trans%20Care.md) — *to be rebuilt in wave 2, with gender-affirming hormone sources*
+- [Older Adults](Older%20Adults.md) — *BC frailty and fall prevention guidelines, CCSMH delirium, depression and anxiety guidelines, Geri-RxFiles, advance care planning and seniors' services*
+- [Women's Health](Women%27s%20Health.md) — *BC Women's and SOGC; gynecology guidelines (abnormal uterine bleeding, endometriosis, pelvic pain, PCOS, pelvic floor), abortion care, intimate partner violence and sexual assault*
+- [Trans Care](Trans%20Care.md) — *Trans Care BC's Primary Care Toolkit and Sherbourne guidelines; gender-affirming hormone therapy, screening, surgery referral and youth*
 - [Indigenous Health](Indigenous%20Health.md) — *FNHA, cultural safety and First Nations health benefits*
 - [BC Rural Health](BC%20Rural%20Health.md) — *to be rebuilt as Rural and Remote in wave 3*
