@@ -4,10 +4,10 @@ type: population
 tags: [population, pediatrics, gastroenteritis, infectious-disease, urgent-care, rural-remote, diarrhea, nausea-and-vomiting]
 jurisdiction: [BC, CA, INTL]
 aliases: [gastroenteritis, gastro, stomach flu, stomach bug, vomiting and diarrhea, diarrhea children, vomiting children, dehydration, dehydrated child, oral rehydration, oral rehydration solution, ORS, Pedialyte, Gastrolyte, ondansetron, Zofran, rotavirus, norovirus, Clinical Dehydration Scale, Gorelick, stool test, Infectious Diarrhea Panel, IDP]
-status: review
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-infectious-diarrhea-2022
     title: Infectious Diarrhea - Guideline for Investigation
@@ -176,7 +176,7 @@ sources:
     pdf: "https://www.aafp.org/afp/2019/0201/p159.pdf"
     checked: 2026-11-02
 ---
-<!-- Pediatric urgent care (build wave 14), built 2026-11-02. status: review until Joe approves.
+<!-- Pediatric urgent care (build wave 14), built 2026-11-02.
      The BC Guideline covers stool testing for adults and children over 2 months, not rehydration. No BC or Alberta pathway for gastroenteritis in children.
      RxFiles' Nausea & Vomiting chart needs a subscription and could not be opened; check that it covers children.
      Left out: Tools for Practice #185 (2017) and AAFP's 2009 and 2012 dehydration and gastroenteritis articles, older than the 2025 TREKK update and the 2019 AAFP article; NICE CG84 (2009); PedsCases gastroenteritis podcast script; a Pathways BC "PrevED" dehydration table with no named publisher.

@@ -4,10 +4,10 @@ type: population
 tags: [population, pediatrics, bronchiolitis, respiratory, urgent-care, rural-remote, wheeze-and-stridor, cough, dyspnea]
 jurisdiction: [BC, CA, INTL]
 aliases: [bronchiolitis, RSV, respiratory syncytial virus, RSV bronchiolitis, wheezy infant, infant wheeze, happy wheezer, nirsevimab, Beyfortus, RSV prevention, RSV immunization, palivizumab, Synagis, Less is Best]
-status: review
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: chbc-bronchiolitis
     title: Bronchiolitis
@@ -168,7 +168,7 @@ sources:
     url: "https://dontforgetthebubbles.com/5-top-tips-in-bronchiolitis/"
     checked: 2026-11-02
 ---
-<!-- Pediatric urgent care (build wave 14), built 2026-11-02. status: review until Joe approves.
+<!-- Pediatric urgent care (build wave 14), built 2026-11-02.
      No BC Guideline; Child Health BC points BC clinicians to the Choosing Wisely Canada toolkit, and Pathways BC hosts a one-page Enhanced Care Pathway adapted from it (2024).
      Unconfirmed (sites refuse automated checks): Canadian Family Physician (checked through PubMed) and Don't Forget the Bubbles (found by search).
      Left out: PedsCases "Approach to Bronchiolitis" (2020) and CFP Child Health Updates on hypertonic saline (2015) and nebulized epinephrine (2016), which predate the 2021 CPS update; CPS RSV prevention statement for the 2024-2025 season, replaced by the BCCDC program pages for 2026; NICE NG9 (2021), covered by the Canadian sources.

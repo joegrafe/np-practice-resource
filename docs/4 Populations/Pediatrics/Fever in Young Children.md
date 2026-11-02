@@ -4,10 +4,10 @@ type: population
 tags: [population, pediatrics, fever, infectious-disease, urgent-care, rural-remote]
 jurisdiction: [BC, CA, INTL]
 aliases: [fever, febrile infant, febrile child, fever in infants, fever in children, fever without a source, fever without focus, fever under 3 months, neonatal fever, pediatric sepsis, sepsis children, febrile seizure, febrile convulsion, PECARN febrile infant, Step-by-Step, traffic light, temperature taking, antipyretic, acetaminophen, ibuprofen]
-status: review
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: chbc-sepsis
     title: Provincial Pediatric Sepsis Recognition and Management Guideline
@@ -209,7 +209,7 @@ sources:
     url: "https://www.mdcalc.com/calc/1801/step-step-approach-febrile-infants"
     checked: 2026-11-02
 ---
-<!-- Pediatric urgent care (build wave 14), built 2026-11-02. status: review until Joe approves.
+<!-- Pediatric urgent care (build wave 14), built 2026-11-02.
      No BC Guideline on fever in children; the Child Health BC Provincial Pediatric Sepsis guideline (March 2026) is the BC source. No BC or Alberta fever pathway.
      Unconfirmed (sites refuse automated checks): MDCalc, Canadian Family Physician (checked through PubMed) and Don't Forget the Bubbles (found by search).
      RxFiles' Pediatric Pain chart needs a subscription and could not be opened; check that it is the right RxFiles chart for antipyretics.

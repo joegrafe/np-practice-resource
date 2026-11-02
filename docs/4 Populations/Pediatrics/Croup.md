@@ -4,10 +4,10 @@ type: population
 tags: [population, pediatrics, croup, respiratory, urgent-care, rural-remote, wheeze-and-stridor, cough]
 jurisdiction: [BC, CA, INTL]
 aliases: [croup, laryngotracheobronchitis, barky cough, barking cough, seal cough, stridor, croup children, dexamethasone croup, racemic epinephrine, nebulized epinephrine, Westley croup score]
-status: review
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: chbc-croup
     title: Provincial Croup Management Algorithm
@@ -134,7 +134,7 @@ sources:
     url: "https://www.mdcalc.com/calc/677/westley-croup-score"
     checked: 2026-11-02
 ---
-<!-- Pediatric urgent care (build wave 14), built 2026-11-02. status: review until Joe approves.
+<!-- Pediatric urgent care (build wave 14), built 2026-11-02.
      No BC Guideline; the Child Health BC Provincial Croup Management Algorithm (PHSA, effective July 2025) is the BC source. No Alberta Pathway Hub croup pathway.
      Unconfirmed (sites refuse automated checks): MDCalc and Don't Forget the Bubbles, found by search.
      Left out: PedsCases "Acute Management of Croup" (2020) and Tools for Practice #102 (2013, reviewed 2018), which predate the 2026 CPS and TREKK updates; NICE has no croup guideline; Royal Children's Hospital Melbourne croup guideline (2024), covered by the Canadian sources.

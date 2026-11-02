@@ -5,10 +5,10 @@ system: dermatology
 tags: [condition, dermatology, injury, urgent-care, pediatrics, rural-remote]
 jurisdiction: [BC, CA, INTL]
 aliases: [burn, burns, thermal burn, scald, scalds, minor burn, superficial burn, partial thickness burn, full thickness burn, second-degree burn, first-degree burn, third-degree burn, chemical burn, electrical burn, sunburn, TBSA, total body surface area, Lund-Browder, Parkland formula, burn dressing, blister, burn centre, burn unit, VGH Burn Clinic]
-status: review
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: chbc-pcc-burns
     title: "Burns: Pediatric Considerations and Criteria for Referral to a Burn Centre"
@@ -257,7 +257,7 @@ sources:
     url: "https://dermnetnz.org/topics/topical-silver-therapy"
     checked: 2026-11-02
 ---
-<!-- Conditions wave 2, urgent care (build wave 14), built 2026-11-02. status: review until Joe approves.
+<!-- Conditions wave 2, urgent care (build wave 14), built 2026-11-02.
      No BC Guideline on burns. BC sources: Child Health BC's pediatric critical care pages and the UBC Division of Plastic Surgery referral pages (VGH adult, BC Children's pediatric).
      No BC or Alberta burn pathway; no MDCalc burn calculator confirmed (mdcalc.com refuses automated checks).
      Unconfirmed (cfp.ca refuses automated checks): the Canadian Family Physician article, checked through PubMed.

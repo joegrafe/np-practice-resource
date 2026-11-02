@@ -5,10 +5,10 @@ system: dermatology
 tags: [condition, dermatology, injury, wounds, urgent-care, pediatrics, rural-remote]
 jurisdiction: [BC, CA, INTL]
 aliases: [laceration, lacerations, cut, cuts, wound, minor wound, wound repair, laceration repair, sutures, stitches, staples, skin glue, tissue adhesive, Dermabond, liquid stitches, Steri-Strips, abrasion, scrape, puncture wound, skin tear, dog bite, cat bite, human bite, animal bite, bite wound, tetanus, tetanus shot, Td, Tdap, tetanus immune globulin, rabies, wound infection, LET gel]
-status: review
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bccdc-tetanus-prophylaxis-wounds-2015
     title: Tetanus Prophylaxis in Wound Management
@@ -260,7 +260,7 @@ sources:
     url: "https://dermnetnz.org/topics/wound-infections"
     checked: 2026-11-02
 ---
-<!-- Conditions wave 2, urgent care (build wave 14), built 2026-11-02. status: review until Joe approves.
+<!-- Conditions wave 2, urgent care (build wave 14), built 2026-11-02.
      No BC Guideline, CPS statement or TREKK recommendation on laceration repair; BCCDC's tetanus table is the BC source.
      No BC or Alberta pathway, and no MDCalc calculator for lacerations or minor wounds.
      Unconfirmed (cfp.ca refuses automated checks): the three Canadian Family Physician articles, checked through PubMed.
