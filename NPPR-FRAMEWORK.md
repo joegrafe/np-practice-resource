@@ -431,6 +431,19 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 
 **Next waves** (from the [build waves audit](https://claude.ai/artifact/JjicgFNy2PymAqHjZzZBCK), agreed by Joe on 2026-10-29). Stage B was left unfinished while later waves went ahead, so build in this order: 1 tidy search (older pages get full frontmatter so they carry badges and filters; near-empty stubs whose topic has no other use carry `search: {exclude: true}` until rebuilt; stubs that are the only page on their topic stay searchable); 2 Conditions wave 1, starting with depression and anxiety, respiratory tract infections and chronic kidney disease; 3 Populations wave 1, built from sheets; 4 Tools wave 1, AI Tools with llms.txt (step 3.3; Joe kept it in on 2026-10-29); 5 Resources wave 1 (built 2026-10-30); 6 list sheets for the published Assessments, Prescribing and Practice pages (built 2026-10-30); 7 the rest of Conditions wave 1, in three batches (first batch, opioid use disorder, osteoporosis and chronic pain, second batch, dementia and frailty, acute kidney injury and low back pain, and third batch, calcium, potassium and sodium disorders, chest pain, and sprains and minor fractures, built 2026-10-30); 8 Assessments waves 3 and 4; 9 Practice and Prescribing wave 3 (built 2026-11-01); 10 Populations wave 2 (built 2026-11-01); 11 Populations wave 3 (built 2026-11-02). The daily "Add a condition" routine stays off, so condition pages are built on request. Once the missed-search log has data, its top missed searches set the order of Conditions waves 2 and 3.
 
+**Next waves from wave 12** (from the [master plan update](https://claude.ai/artifact/8pVpBPZ5hLjistCczBVaow) of 2026-11-02, order agreed by Joe on 2026-11-02). Build each wave when Joe says start, as one draft PR pair:
+
+12. Clean-up and gate check: clear the page-check warnings and move each clean rule out of `WARN_ONLY` in scripts/check_pages.py; fix the Alberta menopause pathway years on the Approaches sheet; run the Phase 2 gate check and step 2.5; read the missed-search log's top searches.
+13. Population and symptom tags (step 2.3) and a Tags page. Waits on Joe's OK on the tag list in the master plan.
+14. Urgent care batch: lacerations and minor wounds, burns (Dermatology); croup and bronchiolitis, fever in young children, gastroenteritis and dehydration (Populations > Pediatrics).
+15. Conditions wave 2, batch B: alcohol use disorder, tobacco use disorder, venous thromboembolism, anemia and iron. The Opioids page then drops its interim Alcohol and Tobacco sections.
+16. Conditions wave 2, batch C: GERD and H. pylori, migraine and headache, osteoarthritis, insomnia.
+17. Stage D wrap-up: Resources wave 2 (Libraries and databases, CPD and learning; retire the Clinical Tools and BC Library Guides stubs) and About: How NPPR is kept current.
+18. Approaches wave 3: TREKK and CMAJ "Five things to know about", only when Joe asks.
+19 to 21. Conditions wave 3 in three batches, ordered by the missed-search log.
+
+After that, each when Joe asks: Assessments per-system exam pages (once Joe answers that plan) and POCUS; Evidence Packs (steps 3.1, 3.2 and 3.4); the calculators index with "Used on:" links, an offline service worker and monthly review-due issues; steps 4.1 and 4.2; the clinical updates feed and Presentations A to Z, which wait on Joe's decisions.
+
 ## Sources
 
 All pages opened 2026-10-09.
