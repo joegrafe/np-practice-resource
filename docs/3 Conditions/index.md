@@ -41,7 +41,7 @@ status: published
 
 -   :material-head-heart-outline:{ .nppr-icon } [**Mental Health and Substance Use**](Mental%20Health%20and%20Substance%20Use/index.md)
 
-    ADHD, depression and anxiety, and opioid use disorder.
+    ADHD, alcohol use disorder, depression and anxiety, opioid use disorder and tobacco use disorder.
 
 -   :material-virus-outline:{ .nppr-icon } [**Infectious Disease**](Infectious%20Disease/index.md)
 
@@ -50,6 +50,10 @@ status: published
 -   :material-hand-back-left-outline:{ .nppr-icon } [**Dermatology**](Dermatology/index.md)
 
     Burns, lacerations and minor wounds, and psoriasis.
+
+-   :material-blood-bag:{ .nppr-icon } [**Hematology and Oncology**](Hematology%20and%20Oncology/index.md)
+
+    Venous thromboembolism (DVT and PE).
 
 -   :material-account-heart-outline:{ .nppr-icon } [**Sexual and Reproductive Health**](Sexual%20and%20Reproductive%20Health/index.md)
 

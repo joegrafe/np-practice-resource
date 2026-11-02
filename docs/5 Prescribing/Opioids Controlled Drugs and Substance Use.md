@@ -7,7 +7,7 @@ status: published
 last-reviewed: 2026-11-01
 review-due: 2027-05-01
 reviewers: [joegrafe]
-aliases: [opioid prescribing, opioid tapering, MME, morphine equivalents, opioid conversion, controlled substances, narcotics, benzodiazepines, benzos, lorazepam, clonazepam, zopiclone, z-drugs, sedatives, alcohol use disorder, AUD, naltrexone, acamprosate, smoking cessation, nicotine replacement, NRT, varenicline, Champix, bupropion, tobacco use disorder, vaping, stimulants, methamphetamine, prescribed alternatives, safer supply, naloxone, take home naloxone, harm reduction, BCCSU]
+aliases: [opioid prescribing, opioid tapering, MME, morphine equivalents, opioid conversion, controlled substances, narcotics, benzodiazepines, benzos, lorazepam, clonazepam, zopiclone, z-drugs, sedatives, stimulants, methamphetamine, prescribed alternatives, safer supply, naloxone, take home naloxone, harm reduction, smoking cessation, BCCSU]
 description: "Prescribing references for opioids, benzodiazepines and other controlled drugs, and for alcohol, tobacco and other substance use treatment in BC: guidance, coverage, dose calculators, advice lines and naloxone."
 sources:
   # BC
@@ -72,30 +72,12 @@ sources:
     url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pad-service/completed-pad-topics
     pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/pad_insomnia_handout.pdf
     checked: 2026-11-01
-  - id: bccsu-aud-guideline-2019
-    title: Provincial Guideline for the Clinical Management of High-Risk Drinking and Alcohol Use Disorder
-    publisher: BC Centre on Substance Use
-    jurisdiction: BC
-    kind: guideline
-    version: "2019"
-    url: https://www.bccsu.ca/alcohol-use-disorder/
-    pdf: https://www.bccsu.ca/wp-content/uploads/2025/09/AUD-Guideline2.pdf
-    checked: 2026-11-01
   - id: bccsu-stimulant-use-disorder
     title: Stimulant Use Disorder
     publisher: BC Centre on Substance Use
     jurisdiction: BC
     kind: guideline
     url: https://www.bccsu.ca/stimulant-use-disorder/
-    checked: 2026-11-01
-  - id: bcguidelines-tobacco-use-disorder-2024
-    title: Tobacco Use Disorder
-    publisher: Guidelines and Protocols Advisory Committee, Government of BC
-    jurisdiction: BC
-    kind: guideline
-    version: "2024"
-    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/tobacco-use-disorder
-    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/bcguidelines-tud-guideline_2024.pdf
     checked: 2026-11-01
   - id: towardtheheart-thn
     title: Take Home Naloxone Program
@@ -117,13 +99,6 @@ sources:
     jurisdiction: BC
     kind: tool
     url: https://www.bccsu.ca/about-the-addiction-care-and-treatment-online-certificate/
-    checked: 2026-11-01
-  - id: quitnow
-    title: QuitNow
-    publisher: BC Lung Foundation
-    jurisdiction: BC
-    kind: patient
-    url: https://quitnow.ca/
     checked: 2026-11-01
   # National
   - id: cmaj-opioid-cncp-guideline-2017
@@ -150,14 +125,6 @@ sources:
     kind: tool
     url: https://www.rxfiles.ca/rxfiles/uploads/documents/books/pain.html
     checked: 2026-11-01
-  - id: ccsa-alcohol-health-2023
-    title: "Canada's Guidance on Alcohol and Health"
-    publisher: Canadian Centre on Substance Use and Addiction
-    jurisdiction: CA
-    kind: guideline
-    version: "2023"
-    url: https://www.ccsa.ca/en/guidance-tools-resources/substances/alcohol/canadas-guidance-alcohol-and-health
-    checked: 2026-11-01
   - id: cmaj-take-home-naloxone-2023
     title: "Take-home naloxone programs in Canada: national best practice guidance"
     publisher: CMAJ
@@ -177,8 +144,8 @@ sources:
 ---
 <!-- Prescribing wave 3 (plan: https://claude.ai/artifact/GJeAP8SPPZrsk4G8ihftgU, approved by Joe 2026-10-27).
      Topic ownership (NPPR-FRAMEWORK.md): clinical OUD and AUD treatment lives on condition pages; this page links to them.
-     The Alcohol and Tobacco sections hold the BC guidance until the Alcohol use disorder and Tobacco use disorder
-     condition pages (Conditions wave 2) are built; move them there then. BCCNM prescribing rules, controlled drugs,
+     The interim Alcohol and Tobacco sections moved to the Alcohol Use Disorder (AUD) and Tobacco Use Disorder (TUD)
+     condition pages in build wave 15 (2026-11-02); short pointers stay here. BCCNM prescribing rules, controlled drugs,
      the Controlled Prescription Program, PharmaNet and PRIME live on Practice: Prescribing Authority.
      Drug-dosing calculators (MME) live in Prescribing (topic ownership). -->
 *Prescribing references for opioids, benzodiazepines and other controlled drugs, and for treating alcohol, tobacco and other substance use: BC guidance, coverage, dose calculators, advice lines and naloxone. Diagnosis and treatment of a condition are on its condition page, such as [Opioid Use Disorder (OUD)](../3%20Conditions/Mental%20Health%20and%20Substance%20Use/Opioid%20Use%20Disorder%20%28OUD%29.md) and [Chronic Pain](../3%20Conditions/Musculoskeletal/Chronic%20Pain.md). What NPs may prescribe is on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md).*
