@@ -7,7 +7,7 @@ status: published
 description: "Neurology conditions for nurse practitioners: concussion and mild traumatic brain injury, and dementia and frailty."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 
 ## In This Section

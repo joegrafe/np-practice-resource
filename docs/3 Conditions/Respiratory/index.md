@@ -7,7 +7,7 @@ status: published
 description: "Respiratory conditions for nurse practitioners: asthma and COPD."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 
 ## In This Section

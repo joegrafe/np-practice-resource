@@ -257,14 +257,6 @@ sources:
     url: https://www.cdc.gov/contraception/hcp/usmec/index.html
     supersedes: cdc-us-mec-2016
     checked: 2026-10-15
-  - id: cdc-us-mec-2016
-    title: "U.S. Medical Eligibility Criteria for Contraceptive Use, 2016"
-    publisher: Centers for Disease Control and Prevention (US)
-    jurisdiction: INTL
-    kind: guideline
-    version: "2016"
-    url:
-    checked:
   - id: cdc-us-spr-2024
     title: "U.S. Selected Practice Recommendations for Contraceptive Use, 2024"
     publisher: Centers for Disease Control and Prevention (US)
@@ -274,14 +266,6 @@ sources:
     url: https://www.cdc.gov/contraception/hcp/usspr/index.html
     supersedes: cdc-us-spr-2016
     checked: 2026-10-15
-  - id: cdc-us-spr-2016
-    title: "U.S. Selected Practice Recommendations for Contraceptive Use, 2016"
-    publisher: Centers for Disease Control and Prevention (US)
-    jurisdiction: INTL
-    kind: guideline
-    version: "2016"
-    url:
-    checked:
   - id: cdc-us-mec-chart-2024
     title: "U.S. MEC 2024 Summary Chart"
     publisher: Centers for Disease Control and Prevention (US)

@@ -433,7 +433,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 
 **Next waves from wave 12** (from the [master plan update](https://claude.ai/artifact/8pVpBPZ5hLjistCczBVaow) of 2026-11-02, order agreed by Joe on 2026-11-02). Build each wave when Joe says start, as one draft PR pair:
 
-12. Clean-up and gate check: clear the page-check warnings and move each clean rule out of `WARN_ONLY` in scripts/check_pages.py; fix the Alberta menopause pathway years on the Approaches sheet; run the Phase 2 gate check and step 2.5; read the missed-search log's top searches.
+12. Clean-up and gate check: clear the page-check warnings and move each clean rule out of `WARN_ONLY` in scripts/check_pages.py; fix the Alberta menopause pathway years on the Approaches sheet; run the Phase 2 gate check and step 2.5; read the missed-search log's top searches (built 2026-11-02; every page passes the page checks, and frontmatter, sources and source-order are errors now; the missed-search log still needs the Cloudflare connector).
 13. Population and symptom tags (step 2.3) and a Tags page. Waits on Joe's OK on the tag list in the master plan.
 14. Urgent care batch: lacerations and minor wounds, burns (Dermatology); croup and bronchiolitis, fever in young children, gastroenteritis and dehydration (Populations > Pediatrics).
 15. Conditions wave 2, batch B: alcohol use disorder, tobacco use disorder, venous thromboembolism, anemia and iron. The Opioids page then drops its interim Alcohol and Tobacco sections.

@@ -178,6 +178,14 @@ sources:
     version:
     url: "https://foundrybc.ca/topic-page/attention-deficit-hyperactivity-disorder-adhd/"
     checked: 2026-10-09
+  - id: pathways-adhd-adult
+    title: "Pathways BC: ADHD Care Pathway - Adult"
+    publisher: Pathways BC
+    jurisdiction: BC
+    kind: pathway
+    version: "2026-05-25"
+    url: "https://pathwaysbc.ca/ci/9446"
+    checked: 2026-10-29
   - id: caddra-guidelines-4-1
     title: Canadian ADHD Practice Guidelines
     publisher: CADDRA (Canadian ADHD Resource Alliance)
@@ -407,14 +415,6 @@ sources:
     version:
     url: "https://caddac.ca/about-adhd/ages-7-17-yrs/"
     checked: 2026-10-09
-  - id: pathways-adhd-adult
-    title: "Pathways BC: ADHD Care Pathway - Adult"
-    publisher: Pathways BC
-    jurisdiction: BC
-    kind: pathway
-    version: "2026-05-25"
-    url: "https://pathwaysbc.ca/ci/9446"
-    checked: 2026-10-29
 ---
 <!-- No BC Guidelines (GPAC) guideline and no Alberta Pathway Hub pathway exists for ADHD; CADDRA and CPS are the main Canadian sources.
      MDCalc has no pediatric ADHD tool (only the adult ASRS). International guidance (AAP, NICE) is left out because Canadian guidance exists.

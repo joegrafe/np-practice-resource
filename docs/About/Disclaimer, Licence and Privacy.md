@@ -2,7 +2,7 @@
 title: Disclaimer, Licence and Privacy
 slug: disclaimer
 description: "Terms of use for NPPR.ca: a reference for licensed clinicians, the CC BY 4.0 licence for NPPR's own text, and what the site collects."
-type: practice
+type: about
 tags: [about]
 jurisdiction: [BC, CA]
 status: published

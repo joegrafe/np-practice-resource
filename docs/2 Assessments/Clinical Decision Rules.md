@@ -8,6 +8,7 @@ status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
 reviewers: [joegrafe]
+redirect_from: [resources/clinical-tools]  # Resources: Clinical Tools retired 2026-11-02
 description: "Clinical decision rules and risk scores used at the bedside, by body system: Canadian-origin rules first, with the condition pages that use each one."
 sources:
   - id: cdr-bc-gpac-af-appendix-d-2023

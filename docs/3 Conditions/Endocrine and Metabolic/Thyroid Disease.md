@@ -55,22 +55,6 @@ sources:
     url: "https://www.bccancer.bc.ca/health-professionals/networks/family-practice-oncology-network/continuing-medical-education"
     pdf: https://www.bccancer.bc.ca/family-oncology-network-site/Documents/Thyroid%20Cancer.pdf
     checked: 2026-10-15
-  - id: ucalgary-blackbook-hypothyroidism
-    title: "Black Book: Hypothyroidism"
-    publisher: University of Calgary Cumming School of Medicine
-    jurisdiction: CA
-    kind: algorithm
-    version: "2021"
-    url: https://blackbook.ucalgary.ca/schemes/endocrinology/hypothyroidism/
-    checked: 2026-10-15
-  - id: ucalgary-blackbook-hyperthyroidism
-    title: "Black Book: Hyperthyroidism"
-    publisher: University of Calgary Cumming School of Medicine
-    jurisdiction: CA
-    kind: algorithm
-    version: "2021"
-    url: https://blackbook.ucalgary.ca/schemes/endocrinology/hyperthyroidism/
-    checked: 2026-10-15
   - id: race-connect
     title: "RACE: Rapid Access to Consultative Expertise"
     publisher: RACE
@@ -103,6 +87,22 @@ sources:
     version:
     url: https://www.healthlinkbc.ca/healthwise/thyroid-nodules
     checked: 2026-10-14
+  - id: ucalgary-blackbook-hypothyroidism
+    title: "Black Book: Hypothyroidism"
+    publisher: University of Calgary Cumming School of Medicine
+    jurisdiction: CA
+    kind: algorithm
+    version: "2021"
+    url: https://blackbook.ucalgary.ca/schemes/endocrinology/hypothyroidism/
+    checked: 2026-10-15
+  - id: ucalgary-blackbook-hyperthyroidism
+    title: "Black Book: Hyperthyroidism"
+    publisher: University of Calgary Cumming School of Medicine
+    jurisdiction: CA
+    kind: algorithm
+    version: "2021"
+    url: https://blackbook.ucalgary.ca/schemes/endocrinology/hyperthyroidism/
+    checked: 2026-10-15
   - id: ctfphc-thyroid-2019
     title: Asymptomatic Thyroid Dysfunction
     publisher: Canadian Task Force on Preventive Health Care
@@ -158,7 +158,7 @@ sources:
     kind: patient
     version:
     url: https://thyroid.ca/
-    checked:
+    checked: 2026-11-02
   - id: aafp-hypothyroidism-2021
     title: "Hypothyroidism: Diagnosis and Treatment"
     publisher: American Academy of Family Physicians (American Family Physician)

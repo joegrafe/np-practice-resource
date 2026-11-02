@@ -55,6 +55,111 @@ sources:
     url: "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pad-service/medications-for-weight-loss"
     pdf: "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_semaglutide_tirzepatide_chronic_weight_management_reference_list_summer_2026_update.pdf"
     checked: 2026-10-28
+  - id: bc-pharmacare-formulary-search
+    title: BC PharmaCare Formulary Search
+    publisher: BC PharmaCare
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://pharmacareformularysearch.gov.bc.ca/"
+    checked: 2026-10-28
+  - id: race-connect
+    title: "RACE: Rapid Access to Consultative Expertise"
+    publisher: RACE
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: https://www.raceconnect.ca/
+    checked: 2026-10-28
+  - id: island-health-bariatric-program
+    title: "Island Health Bariatric Surgery Program (Royal Jubilee Hospital)"
+    publisher: Island Health
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://www.islandhealth.ca/services/surgery/bariatric-surgery"
+    pdf: "https://www.islandhealth.ca/sites/default/files/surgery/documents/referral-for-bariatric-surgery-program.pdf"
+    checked: 2026-10-28
+  - id: vch-richmond-bariatric-program
+    title: "Metabolic and Bariatric Surgery at Richmond Hospital"
+    publisher: Vancouver Coastal Health
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://vch.ca/en/location-service/metabolic-bariatric-surgery-richmond-hospital"
+    checked: 2026-10-28
+  - id: healthlinkbc-generation-health-clinic
+    title: "Generation Health Clinic (formerly Shapedown BC)"
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://www.healthlinkbc.ca/find-care/find-health-services/program/generation-health-clinic"
+    checked: 2026-10-28
+  - id: healthlinkbc-811-dietitian
+    title: HealthLink BC 8-1-1 services (registered dietitians and exercise professionals)
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://www.healthlinkbc.ca/find-care/healthlink-bc-8-1-1-services"
+    checked: 2026-10-28
+  - id: healthlinkbc-obesity
+    title: Obesity
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.healthlinkbc.ca/healthwise/obesity"
+    checked: 2026-10-28
+  - id: healthlinkbc-weight-management
+    title: Weight Management
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.healthlinkbc.ca/healthwise/weight-management"
+    checked: 2026-10-28
+  - id: healthlinkbc-weight-loss-medicines
+    title: Weight-Loss Medicines
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.healthlinkbc.ca/healthwise/weight-loss-medicines"
+    checked: 2026-10-28
+  - id: healthlinkbc-bariatric-surgery
+    title: Bariatric Surgery
+    publisher: HealthLink BC
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.healthlinkbc.ca/healthwise/bariatric-surgery"
+    checked: 2026-10-28
+  - id: heretohelp-body-image
+    title: "Body Image, Self-Esteem, and Mental Health"
+    publisher: HeretoHelp (BC Partners for Mental Health and Substance Use Information)
+    jurisdiction: BC
+    kind: patient
+    version: "2015"
+    url: "https://www.heretohelp.bc.ca/infosheet/body-image-self-esteem-and-mental-health"
+    checked: 2026-10-28
+  - id: heretohelp-body-image-screen
+    title: "Online Screening: Body Image and Eating Attitudes"
+    publisher: HeretoHelp (BC Partners for Mental Health and Substance Use Information)
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://www.heretohelp.bc.ca/screening/online/?screen=eatingdisorders"
+    checked: 2026-10-28
+  - id: kelty-body-image
+    title: "Body Image and Eating Disorders"
+    publisher: BC Children's Hospital Kelty Mental Health Resource Centre
+    jurisdiction: BC
+    kind: patient
+    version:
+    url: "https://keltymentalhealth.ca/body-image-eating-disorders"
+    checked: 2026-10-28
   - id: obesity-canada-adult-cpg
     title: Canadian Adult Obesity Clinical Practice Guideline
     publisher: Obesity Canada and Canadian Association of Bariatric Physicians and Surgeons
@@ -97,14 +202,6 @@ sources:
     version: "2026"
     url: "https://obesitycanada.ca/5as-adult/"
     pdf: "https://obesitycanada.ca/wp-content/uploads/2026/03/5As-Framework-for-Obesity-Management-in-Adults.pdf"
-    checked: 2026-10-28
-  - id: aafp-obesity-office-2024
-    title: "Management of Obesity: Office-Based Strategies"
-    publisher: American Academy of Family Physicians (American Family Physician)
-    jurisdiction: INTL
-    kind: summary
-    version: "2024"
-    url: "https://www.aafp.org/pubs/afp/issues/2024/0800/obesity-management.html"
     checked: 2026-10-28
   - id: obesity-canada-pediatric-cpg-2025
     title: "Managing obesity in children: a clinical practice guideline"
@@ -187,6 +284,79 @@ sources:
     version: "2018"
     url: "https://cfpclearn.ca/tfp220/"
     checked: 2026-10-28
+  - id: ucalgary-blackbook-weight-gain-obesity
+    title: "Black Book: Weight Gain/Obesity"
+    publisher: University of Calgary Cumming School of Medicine
+    jurisdiction: CA
+    kind: algorithm
+    version: "15th edition, 2022-2023"
+    url: "https://blackbook.ucalgary.ca/schemes/endocrinology/weight-gain-obesity/"
+    checked: 2026-10-28
+  - id: pedscases-childhood-and-adolescent-obesity
+    title: "PedsCases Note: Childhood and Adolescent Obesity"
+    publisher: PedsCases (University of Alberta)
+    jurisdiction: CA
+    kind: summary
+    version: "2022"
+    url: "https://www.pedscases.com/childhood-and-adolescent-obesity"
+    pdf: "https://www.pedscases.com/sites/default/files/4.%20PedsCases%20Note%20Obesity%20%20%281%29.pdf"
+    checked: 2026-10-28
+  - id: obesity-canada-patients
+    title: "Obesity Canada: Patient Tools and Resources"
+    publisher: Obesity Canada
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://obesitycanada.ca/for-patients/"
+    checked: 2026-10-28
+  - id: obesity-canada-patients-management
+    title: "Obesity Canada: Managing Your Obesity"
+    publisher: Obesity Canada
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://obesitycanada.ca/for-patients/management/"
+    checked: 2026-10-28
+  - id: obesity-canada-weight-bias-patients
+    title: "Obesity Canada: Understand Weight Bias"
+    publisher: Obesity Canada
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://obesitycanada.ca/for-patients/weight-bias/"
+    checked: 2026-10-28
+  - id: nedic
+    title: "National Eating Disorder Information Centre (NEDIC)"
+    publisher: NEDIC
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://nedic.ca/"
+    checked: 2026-10-28
+  - id: canada-food-guide
+    title: "Canada's Food Guide"
+    publisher: Health Canada
+    jurisdiction: CA
+    kind: patient
+    version: "Last modified 2026-08-07"
+    url: "https://www.canada.ca/en/health-canada/services/food-guide.html"
+    checked: 2026-10-28
+  - id: csep-24-hour-movement
+    title: "Canadian 24-Hour Movement Guidelines"
+    publisher: Canadian Society for Exercise Physiology
+    jurisdiction: CA
+    kind: patient
+    version:
+    url: "https://csepguidelines.ca/"
+    checked: 2026-10-28
+  - id: aafp-obesity-office-2024
+    title: "Management of Obesity: Office-Based Strategies"
+    publisher: American Academy of Family Physicians (American Family Physician)
+    jurisdiction: INTL
+    kind: summary
+    version: "2024"
+    url: "https://www.aafp.org/pubs/afp/issues/2024/0800/obesity-management.html"
+    checked: 2026-10-28
   - id: nice-ng246
     title: "Overweight and obesity management (NG246)"
     publisher: National Institute for Health and Care Excellence (UK)
@@ -228,23 +398,6 @@ sources:
     version: "2026"
     url: "https://www.aafp.org/afp/2026/0300/editorials-obesity-pregnancy"
     checked: 2026-10-28
-  - id: ucalgary-blackbook-weight-gain-obesity
-    title: "Black Book: Weight Gain/Obesity"
-    publisher: University of Calgary Cumming School of Medicine
-    jurisdiction: CA
-    kind: algorithm
-    version: "15th edition, 2022-2023"
-    url: "https://blackbook.ucalgary.ca/schemes/endocrinology/weight-gain-obesity/"
-    checked: 2026-10-28
-  - id: pedscases-childhood-and-adolescent-obesity
-    title: "PedsCases Note: Childhood and Adolescent Obesity"
-    publisher: PedsCases (University of Alberta)
-    jurisdiction: CA
-    kind: summary
-    version: "2022"
-    url: "https://www.pedscases.com/childhood-and-adolescent-obesity"
-    pdf: "https://www.pedscases.com/sites/default/files/4.%20PedsCases%20Note%20Obesity%20%20%281%29.pdf"
-    checked: 2026-10-28
   - id: mdcalc-bmi
     title: "BMI Calculator (Body Mass Index and BSA)"
     publisher: MDCalc
@@ -253,143 +406,6 @@ sources:
     version:
     url: "https://www.mdcalc.com/calc/29/body-mass-index-bmi-body-surface-area-bsa"
     checked: 2026-10-28
-  - id: bc-pharmacare-formulary-search
-    title: BC PharmaCare Formulary Search
-    publisher: BC PharmaCare
-    jurisdiction: BC
-    kind: tool
-    version:
-    url: "https://pharmacareformularysearch.gov.bc.ca/"
-    checked: 2026-10-28
-  - id: race-connect
-    title: "RACE: Rapid Access to Consultative Expertise"
-    publisher: RACE
-    jurisdiction: BC
-    kind: tool
-    version:
-    url: https://www.raceconnect.ca/
-    checked: 2026-10-28
-  - id: island-health-bariatric-program
-    title: "Island Health Bariatric Surgery Program (Royal Jubilee Hospital)"
-    publisher: Island Health
-    jurisdiction: BC
-    kind: tool
-    version:
-    url: "https://www.islandhealth.ca/services/surgery/bariatric-surgery"
-    pdf: "https://www.islandhealth.ca/sites/default/files/surgery/documents/referral-for-bariatric-surgery-program.pdf"
-    checked: 2026-10-28
-  - id: vch-richmond-bariatric-program
-    title: "Metabolic and Bariatric Surgery at Richmond Hospital"
-    publisher: Vancouver Coastal Health
-    jurisdiction: BC
-    kind: tool
-    version:
-    url: "https://vch.ca/en/location-service/metabolic-bariatric-surgery-richmond-hospital"
-    checked: 2026-10-28
-  - id: healthlinkbc-generation-health-clinic
-    title: "Generation Health Clinic (formerly Shapedown BC)"
-    publisher: HealthLink BC
-    jurisdiction: BC
-    kind: tool
-    version:
-    url: "https://www.healthlinkbc.ca/find-care/find-health-services/program/generation-health-clinic"
-    checked: 2026-10-28
-  - id: healthlinkbc-811-dietitian
-    title: HealthLink BC 8-1-1 services (registered dietitians and exercise professionals)
-    publisher: HealthLink BC
-    jurisdiction: BC
-    kind: tool
-    version:
-    url: "https://www.healthlinkbc.ca/find-care/healthlink-bc-8-1-1-services"
-    checked: 2026-10-28
-  - id: healthlinkbc-obesity
-    title: Obesity
-    publisher: HealthLink BC
-    jurisdiction: BC
-    kind: patient
-    version:
-    url: "https://www.healthlinkbc.ca/healthwise/obesity"
-    checked: 2026-10-28
-  - id: healthlinkbc-weight-management
-    title: Weight Management
-    publisher: HealthLink BC
-    jurisdiction: BC
-    kind: patient
-    version:
-    url: "https://www.healthlinkbc.ca/healthwise/weight-management"
-    checked: 2026-10-28
-  - id: healthlinkbc-weight-loss-medicines
-    title: Weight-Loss Medicines
-    publisher: HealthLink BC
-    jurisdiction: BC
-    kind: patient
-    version:
-    url: "https://www.healthlinkbc.ca/healthwise/weight-loss-medicines"
-    checked: 2026-10-28
-  - id: healthlinkbc-bariatric-surgery
-    title: Bariatric Surgery
-    publisher: HealthLink BC
-    jurisdiction: BC
-    kind: patient
-    version:
-    url: "https://www.healthlinkbc.ca/healthwise/bariatric-surgery"
-    checked: 2026-10-28
-  - id: obesity-canada-patients
-    title: "Obesity Canada: Patient Tools and Resources"
-    publisher: Obesity Canada
-    jurisdiction: CA
-    kind: patient
-    version:
-    url: "https://obesitycanada.ca/for-patients/"
-    checked: 2026-10-28
-  - id: obesity-canada-patients-management
-    title: "Obesity Canada: Managing Your Obesity"
-    publisher: Obesity Canada
-    jurisdiction: CA
-    kind: patient
-    version:
-    url: "https://obesitycanada.ca/for-patients/management/"
-    checked: 2026-10-28
-  - id: obesity-canada-weight-bias-patients
-    title: "Obesity Canada: Understand Weight Bias"
-    publisher: Obesity Canada
-    jurisdiction: CA
-    kind: patient
-    version:
-    url: "https://obesitycanada.ca/for-patients/weight-bias/"
-    checked: 2026-10-28
-  - id: heretohelp-body-image
-    title: "Body Image, Self-Esteem, and Mental Health"
-    publisher: HeretoHelp (BC Partners for Mental Health and Substance Use Information)
-    jurisdiction: BC
-    kind: patient
-    version: "2015"
-    url: "https://www.heretohelp.bc.ca/infosheet/body-image-self-esteem-and-mental-health"
-    checked: 2026-10-28
-  - id: heretohelp-body-image-screen
-    title: "Online Screening: Body Image and Eating Attitudes"
-    publisher: HeretoHelp (BC Partners for Mental Health and Substance Use Information)
-    jurisdiction: BC
-    kind: patient
-    version:
-    url: "https://www.heretohelp.bc.ca/screening/online/?screen=eatingdisorders"
-    checked: 2026-10-28
-  - id: kelty-body-image
-    title: "Body Image and Eating Disorders"
-    publisher: BC Children's Hospital Kelty Mental Health Resource Centre
-    jurisdiction: BC
-    kind: patient
-    version:
-    url: "https://keltymentalhealth.ca/body-image-eating-disorders"
-    checked: 2026-10-28
-  - id: nedic
-    title: "National Eating Disorder Information Centre (NEDIC)"
-    publisher: NEDIC
-    jurisdiction: CA
-    kind: patient
-    version:
-    url: "https://nedic.ca/"
-    checked: 2026-10-28
   - id: asdah
     title: "Health at Every Size (HAES) Principles"
     publisher: ASDAH
@@ -397,22 +413,6 @@ sources:
     kind: patient
     version:
     url: "https://asdah.org/haes/"
-    checked: 2026-10-28
-  - id: canada-food-guide
-    title: "Canada's Food Guide"
-    publisher: Health Canada
-    jurisdiction: CA
-    kind: patient
-    version: "Last modified 2026-08-07"
-    url: "https://www.canada.ca/en/health-canada/services/food-guide.html"
-    checked: 2026-10-28
-  - id: csep-24-hour-movement
-    title: "Canadian 24-Hour Movement Guidelines"
-    publisher: Canadian Society for Exercise Physiology
-    jurisdiction: CA
-    kind: patient
-    version:
-    url: "https://csepguidelines.ca/"
     checked: 2026-10-28
 ---
 <!-- New page, built 2026-10-28.

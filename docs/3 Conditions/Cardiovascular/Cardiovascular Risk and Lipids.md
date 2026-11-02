@@ -15,7 +15,7 @@ jurisdiction:
 status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-cvd-prevention
     title: "BC Guidelines: Cardiovascular Disease - Primary Prevention"

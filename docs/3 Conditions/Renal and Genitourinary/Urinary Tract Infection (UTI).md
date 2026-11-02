@@ -69,7 +69,7 @@ sources:
     kind: guideline
     version: "2019, amended 2025"
     url: https://www.auanet.org/guidelines-and-quality/guidelines/recurrent-uti
-    checked:
+    checked: 2026-11-02
   - id: ammi-asb-2018
     title: AMMI Canada position statement on asymptomatic bacteriuria
     publisher: AMMI Canada (JAMMI)
@@ -77,7 +77,7 @@ sources:
     kind: guideline
     version: "2018"
     url: https://doi.org/10.3138/jammi.3.1.02
-    checked:
+    checked: 2026-11-02
   - id: ctfphc-asb-pregnancy-2018
     title: Asymptomatic Bacteriuria in Pregnancy
     publisher: Canadian Task Force on Preventive Health Care
@@ -142,7 +142,7 @@ sources:
     kind: patient
     version:
     url: https://choosingwiselycanada.org/pamphlet/antibiotics-urinary-tract-infections/
-    checked:
+    checked: 2026-11-02
   - id: aafp-uncomplicated-uti-2024
     title: "Acute Uncomplicated UTIs in Adults: Rapid Evidence Review"
     publisher: American Academy of Family Physicians (American Family Physician)

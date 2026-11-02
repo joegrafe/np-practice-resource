@@ -26,22 +26,6 @@ sources:
     version: "updated May 2026"
     url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/preventative-health
     checked: 2026-10-29
-  - id: cfpc-preventive-care-checklist-2019
-    title: "CFPC Preventive Care Checklist Form, Female"
-    publisher: College of Family Physicians of Canada
-    jurisdiction: CA
-    kind: tool
-    version: "2019"
-    url: https://www.cfpc.ca/CFPC/media/Resources/Periodic-Health-Examination/PreventiveCareChecklistFemaleEnglish2019.pdf
-    checked: 2026-10-29
-  - id: cps-greig-health-record-2016
-    title: "Canadian Paediatric Society: Greig Health Record"
-    publisher: Canadian Paediatric Society
-    jurisdiction: CA
-    kind: tool
-    version: "2016"
-    url: https://cps.ca/en/tools-outils/greig-health-record
-    checked: 2026-10-29
   - id: bccancer-screening-guidelines-2026
     title: "BC Cancer Screening: Health Professionals"
     publisher: BC Cancer
@@ -132,6 +116,93 @@ sources:
     url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/prostate-cancer-part-1
     pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/prostatecancer-part1_fullguideline.pdf
     checked: 2026-10-29
+  - id: bc-gpac-cvd-primary-prevention-2021
+    title: "BC Guidelines: Cardiovascular Disease - Primary Prevention"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: guideline
+    version: "2021"
+    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_full_guideline_dec2021_updated_aug2023.pdf
+    checked: 2026-10-29
+  - id: bc-gpac-hypertension-2020
+    title: "BC Guidelines: Hypertension - Diagnosis and Management"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: guideline
+    version: "2020"
+    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-full-guideline.pdf
+    checked: 2026-10-29
+  - id: bc-gpac-diabetes-care-2021
+    title: "BC Guidelines: Diabetes Care"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: guideline
+    version: "2021, revised 2026"
+    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/diabetescare-guideline-may-2026.pdf
+    checked: 2026-10-29
+  - id: bc-gpac-osteoporosis-2012
+    title: "BC Guidelines: Osteoporosis: Diagnosis, Treatment and Fracture Prevention"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: guideline
+    version: "2012"
+    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/osteoporosis
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/osteoporosis.pdf
+    checked: 2026-10-29
+  - id: bc-gpac-fall-prevention-2021
+    title: "BC Guidelines: Fall Prevention: Risk Assessment and Management for Community-Dwelling Older Adults"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: guideline
+    version: "2021"
+    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/fall-prevention
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/fall_prevention_guideline_final.pdf
+    checked: 2026-10-29
+  - id: bc-gpac-frailty-2017
+    title: "BC Guidelines: Frailty in Older Adults - Early Identification and Management"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: guideline
+    version: "2017"
+    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/frailty
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/frailty-full_guideline.pdf
+    checked: 2026-10-29
+  - id: bc-gpac-cognitive-impairment-2014
+    title: "BC Guidelines: Cognitive Impairment - Recognition, Diagnosis and Management in Primary Care"
+    publisher: BC GPAC
+    jurisdiction: BC
+    kind: guideline
+    version: "2014"
+    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cognitive-impairment
+    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/cogimp-full-guideline.pdf
+    checked: 2026-10-29
+  - id: bccancer-screening-public
+    title: "BC Cancer Screening"
+    publisher: BC Cancer
+    jurisdiction: BC
+    kind: patient
+    version: "current"
+    url: https://www.bccancer.bc.ca/screening
+    checked: 2026-10-29
+  - id: cfpc-preventive-care-checklist-2019
+    title: "CFPC Preventive Care Checklist Form, Female"
+    publisher: College of Family Physicians of Canada
+    jurisdiction: CA
+    kind: tool
+    version: "2019"
+    url: https://www.cfpc.ca/CFPC/media/Resources/Periodic-Health-Examination/PreventiveCareChecklistFemaleEnglish2019.pdf
+    checked: 2026-10-29
+  - id: cps-greig-health-record-2016
+    title: "Canadian Paediatric Society: Greig Health Record"
+    publisher: Canadian Paediatric Society
+    jurisdiction: CA
+    kind: tool
+    version: "2016"
+    url: https://cps.ca/en/tools-outils/greig-health-record
+    checked: 2026-10-29
   - id: ctfphc-breast-cancer-draft-2024
     title: "Canadian Task Force: Breast Cancer (Update), Draft Recommendations"
     publisher: Canadian Task Force on Preventive Health Care
@@ -187,33 +258,6 @@ sources:
     kind: guideline
     version: "2016"
     url: https://canadiantaskforce.ca/guidelines/published-guidelines/pelvic-exam/
-    checked: 2026-10-29
-  - id: bc-gpac-cvd-primary-prevention-2021
-    title: "BC Guidelines: Cardiovascular Disease - Primary Prevention"
-    publisher: BC GPAC
-    jurisdiction: BC
-    kind: guideline
-    version: "2021"
-    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease
-    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_full_guideline_dec2021_updated_aug2023.pdf
-    checked: 2026-10-29
-  - id: bc-gpac-hypertension-2020
-    title: "BC Guidelines: Hypertension - Diagnosis and Management"
-    publisher: BC GPAC
-    jurisdiction: BC
-    kind: guideline
-    version: "2020"
-    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension
-    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-full-guideline.pdf
-    checked: 2026-10-29
-  - id: bc-gpac-diabetes-care-2021
-    title: "BC Guidelines: Diabetes Care"
-    publisher: BC GPAC
-    jurisdiction: BC
-    kind: guideline
-    version: "2021, revised 2026"
-    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes
-    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/diabetescare-guideline-may-2026.pdf
     checked: 2026-10-29
   - id: ctfphc-hypertension-2012
     title: "Canadian Task Force: Hypertension"
@@ -271,15 +315,6 @@ sources:
     version: "2018"
     url: https://canadiantaskforce.ca/guidelines/published-guidelines/asymptomatic-bacteriuria/
     checked: 2026-10-29
-  - id: bc-gpac-osteoporosis-2012
-    title: "BC Guidelines: Osteoporosis: Diagnosis, Treatment and Fracture Prevention"
-    publisher: BC GPAC
-    jurisdiction: BC
-    kind: guideline
-    version: "2012"
-    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/osteoporosis
-    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/osteoporosis.pdf
-    checked: 2026-10-29
   - id: ctfphc-fragility-fractures-2023
     title: "Canadian Task Force: Fragility Fractures"
     publisher: Canadian Task Force on Preventive Health Care
@@ -287,33 +322,6 @@ sources:
     kind: guideline
     version: "2023"
     url: https://canadiantaskforce.ca/guidelines/published-guidelines/fragility-fractures/
-    checked: 2026-10-29
-  - id: bc-gpac-fall-prevention-2021
-    title: "BC Guidelines: Fall Prevention: Risk Assessment and Management for Community-Dwelling Older Adults"
-    publisher: BC GPAC
-    jurisdiction: BC
-    kind: guideline
-    version: "2021"
-    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/fall-prevention
-    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/fall_prevention_guideline_final.pdf
-    checked: 2026-10-29
-  - id: bc-gpac-frailty-2017
-    title: "BC Guidelines: Frailty in Older Adults - Early Identification and Management"
-    publisher: BC GPAC
-    jurisdiction: BC
-    kind: guideline
-    version: "2017"
-    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/frailty
-    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/frailty-full_guideline.pdf
-    checked: 2026-10-29
-  - id: bc-gpac-cognitive-impairment-2014
-    title: "BC Guidelines: Cognitive Impairment - Recognition, Diagnosis and Management in Primary Care"
-    publisher: BC GPAC
-    jurisdiction: BC
-    kind: guideline
-    version: "2014"
-    url: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cognitive-impairment
-    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/cogimp-full-guideline.pdf
     checked: 2026-10-29
   - id: ctfphc-cognitive-impairment-2016
     title: "Canadian Task Force: Cognitive Impairment"
@@ -371,22 +379,6 @@ sources:
     version: "2016"
     url: https://canadiantaskforce.ca/guidelines/published-guidelines/developmental-delay/
     checked: 2026-10-29
-  - id: uspstf-recommendations
-    title: "US Preventive Services Task Force: Recommendation Topics (international, US)"
-    publisher: US Preventive Services Task Force
-    jurisdiction: INTL
-    kind: guideline
-    version: "current"
-    url: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics
-    checked: 2026-10-29
-  - id: bccancer-screening-public
-    title: "BC Cancer Screening"
-    publisher: BC Cancer
-    jurisdiction: BC
-    kind: patient
-    version: "current"
-    url: https://www.bccancer.bc.ca/screening
-    checked: 2026-10-29
   - id: ctfphc-tools
     title: "Canadian Task Force: Tools and Resources"
     publisher: Canadian Task Force on Preventive Health Care
@@ -394,6 +386,14 @@ sources:
     kind: patient
     version: "current"
     url: https://canadiantaskforce.ca/tools-resources/
+    checked: 2026-10-29
+  - id: uspstf-recommendations
+    title: "US Preventive Services Task Force: Recommendation Topics (international, US)"
+    publisher: US Preventive Services Task Force
+    jurisdiction: INTL
+    kind: guideline
+    version: "current"
+    url: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics
     checked: 2026-10-29
 ---
 <!-- Assessments wave 2 (plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE, approved by Joe 2026-10-27; order changed 2026-10-29).

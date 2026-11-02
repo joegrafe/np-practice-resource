@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: "Send a question, correction or idea to NPPR.ca."
-type: practice
+type: about
 tags: [about]
 jurisdiction: [BC, CA]
 status: published

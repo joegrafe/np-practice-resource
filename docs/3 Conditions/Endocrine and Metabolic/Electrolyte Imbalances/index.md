@@ -7,7 +7,7 @@ status: published
 description: "Electrolyte disorders for nurse practitioners: calcium, potassium and sodium."
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
-reviewers: []
+reviewers: [joegrafe]
 ---
 
 ## In This Section

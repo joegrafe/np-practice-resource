@@ -172,6 +172,22 @@ sources:
     version:
     url: "https://bclung.ca/lung-health/childhood-asthma/bc-pediatric-asthma-clinics/"
     checked: 2026-10-09
+  - id: ubccpd-pediatric-asthma-course
+    title: "Pediatric Asthma Management (eLearning)"
+    publisher: UBC CPD with Child Health BC and BC Children's Hospital
+    jurisdiction: BC
+    kind: tool
+    version:
+    url: "https://ubccpd.ca/course/pediatric-asthma-management"
+    checked: 2026-11-02
+  - id: rccbc-rtvs-charlie
+    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
+    publisher: Rural Coordination Centre of BC (RCCbc)
+    jurisdiction: BC
+    kind: pathway
+    version:
+    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
+    checked: 2026-10-16
   - id: cps-mild-asthma-2023
     title: The management of very mild and mild asthma in preschoolers, children, and adolescents
     publisher: Canadian Paediatric Society
@@ -187,22 +203,6 @@ sources:
     kind: pathway
     version: 2024-02-13
     url: "https://www.primarycarealberta.ca/pathways/435/clinical"
-    checked: 2026-10-09
-  - id: mdcalc-pram
-    title: Pediatric Respiratory Assessment Measure (PRAM) for Asthma Exacerbation Severity
-    publisher: MDCalc
-    jurisdiction: INTL
-    kind: tool
-    version:
-    url: "https://www.mdcalc.com/calc/3384/pediatric-respiratory-assessment-measure-pram-asthma-exacerbation-severity"
-    checked: 2026-10-09
-  - id: mdcalc-mapi
-    title: Modified Asthma Predictive Index (mAPI)
-    publisher: MDCalc
-    jurisdiction: INTL
-    kind: tool
-    version:
-    url: "https://www.mdcalc.com/calc/3382/modified-asthma-predictive-index-mapi"
     checked: 2026-10-09
   - id: cps-acute-asthma-2021
     title: "Managing an acute asthma exacerbation in children"
@@ -246,22 +246,22 @@ sources:
     version:
     url: "https://trekk.ca/resources/video-for-parents-families-understanding-and-managing-your-childs-asthma/"
     checked: 2026-10-16
-  - id: ubccpd-pediatric-asthma-course
-    title: "Pediatric Asthma Management (eLearning)"
-    publisher: UBC CPD with Child Health BC and BC Children's Hospital
-    jurisdiction: BC
+  - id: mdcalc-pram
+    title: Pediatric Respiratory Assessment Measure (PRAM) for Asthma Exacerbation Severity
+    publisher: MDCalc
+    jurisdiction: INTL
     kind: tool
     version:
-    url: "https://ubccpd.ca/course/pediatric-asthma-management"
-    checked:
-  - id: rccbc-rtvs-charlie
-    title: "RTVS CHARLiE: Child Health Advice in Real-Time Electronically"
-    publisher: Rural Coordination Centre of BC (RCCbc)
-    jurisdiction: BC
-    kind: pathway
+    url: "https://www.mdcalc.com/calc/3384/pediatric-respiratory-assessment-measure-pram-asthma-exacerbation-severity"
+    checked: 2026-10-09
+  - id: mdcalc-mapi
+    title: Modified Asthma Predictive Index (mAPI)
+    publisher: MDCalc
+    jurisdiction: INTL
+    kind: tool
     version:
-    url: "https://rccbc.ca/initiatives/rtvs/charlie/"
-    checked: 2026-10-16
+    url: "https://www.mdcalc.com/calc/3382/modified-asthma-predictive-index-mapi"
+    checked: 2026-10-09
 ---
 <!-- Pediatric asthma sources live here only; all-ages sources live on the Asthma condition page.
      The two BC pediatric patient care flow sheets state no version; the 2023 guideline still links them.

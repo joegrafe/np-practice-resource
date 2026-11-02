@@ -14,7 +14,7 @@ jurisdiction:
 status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-hf
     title: "BC Guidelines: Heart Failure - Diagnosis and Management"
@@ -86,6 +86,14 @@ sources:
     version:
     url: https://www.raceconnect.ca/
     checked: 2026-10-09
+  - id: pathways-advanced-hf
+    title: "Pathways BC: Advanced and End Stage Heart Failure - Clinician's Enhanced Supportive Tool"
+    publisher: Pathways BC
+    jurisdiction: BC
+    kind: pathway
+    version: "2024-10-18"
+    url: "https://pathwaysbc.ca/ci/5231"
+    checked: 2026-10-29
   - id: ccs-chfs-hfnref-2025
     title: CCS/CHFS 2025 Guideline Update for Pharmacologic Management of Heart Failure With Nonreduced Ejection Fraction (LVEF > 40%)
     publisher: Canadian Cardiovascular Society / Canadian Heart Failure Society
@@ -93,7 +101,7 @@ sources:
     kind: guideline
     version: "2025"
     url: https://onlinecjc.ca/article/S0828-282X(25)00640-3/fulltext
-    checked:
+    checked: 2026-11-02
   - id: ccs-chfs-phenotypes-2023
     title: CCS/CHFS Focused Clinical Practice Update of Patients With Differing Heart Failure Phenotypes
     publisher: Canadian Cardiovascular Society / Canadian Heart Failure Society
@@ -108,17 +116,17 @@ sources:
     publisher: Canadian Cardiovascular Society / Canadian Heart Failure Society
     jurisdiction: CA
     kind: guideline
-    version:
+    version: "2021"
     url: https://doi.org/10.1016/j.cjca.2021.01.017
-    checked:
+    checked: 2026-11-02
   - id: ccs-hf-2017
     title: 2017 Comprehensive Update of the Canadian Cardiovascular Society Guidelines for the Management of Heart Failure
     publisher: Canadian Cardiovascular Society
     jurisdiction: CA
     kind: guideline
-    version:
+    version: "2017"
     url: https://doi.org/10.1016/j.cjca.2017.08.022
-    checked:
+    checked: 2026-11-02
   - id: ab-pathway-hub-hf
     title: "Alberta's Pathway Hub: Heart Failure (CHF)"
     publisher: Primary Care Alberta
@@ -159,17 +167,9 @@ sources:
     version:
     url: https://www.heartandstroke.ca/heart-disease/conditions/heart-failure
     checked: 2026-10-09
-  - id: pathways-advanced-hf
-    title: "Pathways BC: Advanced and End Stage Heart Failure - Clinician's Enhanced Supportive Tool"
-    publisher: Pathways BC
-    jurisdiction: BC
-    kind: pathway
-    version: "2024-10-18"
-    url: "https://pathwaysbc.ca/ci/5231"
-    checked: 2026-10-29
 ---
 <!-- status: review. Set status to published after opening every link.
-     Unconfirmed on 2026-10-09 (Canadian Journal of Cardiology blocks automated checks; all three are listed on the CHFS guidelines page): ccs-chfs-hfnref-2025, ccs-chfs-hfref-2021, ccs-hf-2017.
+     ccs-chfs-hfnref-2025, ccs-chfs-hfref-2021 and ccs-hf-2017 confirmed 2026-11-02 through their DOI records (the Canadian Journal of Cardiology blocks automated checks).
      Link to the source guidance; don't restate its recommendations. -->
 
 <!-- The page's sections live in Heart Failure.csv beside this page, one row per line; the site build writes them in here.

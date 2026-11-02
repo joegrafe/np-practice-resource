@@ -7,7 +7,7 @@ status: published
 description: "Mental Health and Substance Use conditions for nurse practitioners: ADHD, depression and anxiety, and opioid use disorder."
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 
 ## In This Section
