@@ -7,7 +7,7 @@ status: published
 last-reviewed: 2026-11-01
 review-due: 2027-05-01
 reviewers: [joegrafe]
-aliases: [opioid prescribing, opioid tapering, MME, morphine equivalents, opioid conversion, controlled substances, narcotics, benzodiazepines, benzos, lorazepam, clonazepam, zopiclone, z-drugs, sedatives, stimulants, methamphetamine, prescribed alternatives, safer supply, naloxone, take home naloxone, harm reduction, BCCSU]
+aliases: [opioid prescribing, opioid tapering, MME, morphine equivalents, opioid conversion, controlled substances, narcotics, benzodiazepines, benzos, lorazepam, clonazepam, zopiclone, z-drugs, sedatives, stimulants, methamphetamine, prescribed alternatives, safer supply, naloxone, take home naloxone, harm reduction, smoking cessation, BCCSU]
 description: "Prescribing references for opioids, benzodiazepines and other controlled drugs, and for alcohol, tobacco and other substance use treatment in BC: guidance, coverage, dose calculators, advice lines and naloxone."
 sources:
   # BC
