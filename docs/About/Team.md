@@ -38,6 +38,6 @@ Each reviewed page names its reviewers under its title, linked to their card her
 
 ## Join the team
 
-NPPR welcomes registered clinicians (nurse practitioners, physicians, pharmacists and other regulated health professionals) as **reviewers** for pages in their area of practice, and anyone who wants to help as a **contributor**: suggesting links, testing the site, or writing a template. [Contact NPPR](Contact.md) to ask about joining.
+NPPR welcomes registered clinicians (nurse practitioners, physicians, pharmacists and other regulated health professionals) as **reviewers** for pages in their area of practice, and anyone who wants to help as a **contributor**: suggesting links, testing the site, or writing a template. To join, fill in the [Join the NPPR team form](https://tally.so/r/Qo1kBG); it asks for the details shown on a card and your consent. Questions first? [Contact NPPR](Contact.md).
 
 Nobody is listed here without their written consent, a photo is optional, and you can ask to be removed at any time. [Privacy](Disclaimer%2C%20Licence%20and%20Privacy.md#team-members) says what NPPR publishes about the team.
