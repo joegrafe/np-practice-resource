@@ -17,8 +17,6 @@ search:
      It lists the items already linked on the other Approaches pages under each presenting complaint; it adds no links of its own.
      Complaints and their match terms are in scripts/presentations.yml: edit that file, not this page, to add a complaint
      or to fix an item listed under the wrong one. Keep the marker comment below. -->
-*Start from what the patient walks in with. Each presenting complaint lists the items from the other Approaches pages that cover it, with their source and year: BC pathways first, then Canadian, then international. The list is rebuilt from those pages every time the site is published, so it is never out of step with them.*
-
 ## Presentations
 
 *Complaints are listed A to Z. An item can appear under more than one complaint.*
