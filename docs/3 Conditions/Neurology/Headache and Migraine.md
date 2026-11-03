@@ -187,6 +187,16 @@ sources:
     version: 2022
     url: "https://www.aafp.org/afp/2022/0100/p24"
     checked: 2026-11-03
+  - id: vadod-headache-2023
+    title: VA/DoD Clinical Practice Guideline for the Management of Headache (version 2.0)
+    publisher: US Department of Veterans Affairs and Department of Defense
+    jurisdiction: INTL
+    kind: guideline
+    version: 2023
+    url: "https://www.healthquality.va.gov/guidelines/pain/headache/"
+    pdf: "https://www.healthquality.va.gov/HEALTHQUALITY/guidelines/pain/headache/VA-DOD-CPG-Headache-Full-CPG.pdf"
+    supersedes: VA/DoD Management of Headache CPG (2020)
+    checked: 2026-11-03
   - id: mdcalc-ottawa-sah
     title: Ottawa Subarachnoid Hemorrhage (SAH) Rule for Headache Evaluation
     publisher: MDCalc
@@ -200,7 +210,7 @@ sources:
      The page covers the approach to headache (red flags, imaging, primary headache types) as well as migraine, so its title leads with headache.
      No BC Guideline for headache or migraine (alphabetical list checked 2026-11-03). Key Sources: the headache section of the BC Guideline on appropriate imaging (2019), for red flags and when to image; then the Canadian guideline for primary care management of headache in adults (Canadian Family Physician, 2015), which covers migraine, tension-type, medication overuse and cluster headache; then AAFP's free diagnostic approach to acute headache (2022, international). The newer Canadian Headache Society migraine prevention guideline (2024) leads Further Resources.
      Unconfirmed because the site refuses automated checks: Canadian Family Physician (cfp.ca) articles and PDFs (confirmed in PubMed), MDCalc Ottawa SAH Rule and the Centre for Effective Practice headache navigator (confirmed by search).
-     Left out: AAFP "Acute Migraine Headache: Treatment Strategies" and "Migraine Headache Prophylaxis" (both 2025), members-only; the Canadian Headache Society 2012 prophylaxis guideline, replaced by the 2024 update; Tools for Practice #51 and #95, older than the current CHS guidelines; Pathways BC copies of the CHS tip sheet, the VCH and UBC Headache Clinic migraine handout and the BC Children's migraine discharge guide (third-party copies); onabotulinumtoxinA, which PharmaCare does not cover for migraine (its criteria page says so).
+     Left out: AAFP "Outpatient Primary Care Management of Headaches: Guidelines from the VA/DoD" (2021), which summarizes the 2020 VA/DoD guideline that the linked 2023 version replaces; AAFP "Acute Migraine Headache: Treatment Strategies" and "Migraine Headache Prophylaxis" (both 2025), members-only; the Canadian Headache Society 2012 prophylaxis guideline, replaced by the 2024 update; Tools for Practice #51 and #95, older than the current CHS guidelines; Pathways BC copies of the CHS tip sheet, the VCH and UBC Headache Clinic migraine handout and the BC Children's migraine discharge guide (third-party copies); onabotulinumtoxinA, which PharmaCare does not cover for migraine (its criteria page says so).
      Link to the source guidance; don't restate its recommendations. -->
 
 <!-- The page's sections live in Headache and Migraine.csv beside this page, one row per line; the site build writes them in here.

@@ -116,6 +116,15 @@ sources:
     version: 2020
     url: "https://canadiantaskforce.ca/guidelines/published-guidelines/esophageal-adenocarcinoma/"
     checked: 2026-11-03
+  - id: cag-dysphagia-2018
+    title: Clinical Practice Guidelines for the Assessment of Uninvestigated Esophageal Dysphagia
+    publisher: Journal of the Canadian Association of Gastroenterology
+    jurisdiction: CA
+    kind: guideline
+    version: 2018
+    url: "https://academic.oup.com/jcag/article/1/1/5/4846478"
+    pdf: "https://academic.oup.com/jcag/article-pdf/1/1/5/28509623/gwx008.pdf"
+    checked: 2026-11-03
   - id: cwc-ask-why-ppis-2025
     title: "Ask Why for PPIs: a toolkit for reducing unnecessary use of proton pump inhibitors"
     publisher: Choosing Wisely Canada
@@ -159,6 +168,14 @@ sources:
     version: 2021
     url: "https://cfpclearn.ca/tfp289/"
     pdf: "https://cfpclearn.ca/wp-content/uploads/2021/05/TFP-289.pdf"
+    checked: 2026-11-03
+  - id: cps-infant-ger-2022
+    title: Medical management of gastro-esophageal reflux in healthy infants
+    publisher: Canadian Paediatric Society
+    jurisdiction: CA
+    kind: guideline
+    version: 2022
+    url: "https://cps.ca/en/documents/position/gastro-esophageal-reflux-in-healthy-infants"
     checked: 2026-11-03
   - id: cfp-infant-ppi-2025
     title: Reducing the use of proton pump inhibitors in infants with gastroesophageal reflux symptoms
@@ -211,6 +228,14 @@ sources:
     version: Checked 2026-11-03
     url: "https://www.rxfiles.ca/rxfiles/uploads/documents/books/charts.html#:~:text=GERD%20%26%20Peptic%20Ulcer%20Disease"
     checked: 2026-11-03
+  - id: bugsanddrugs-hpylori
+    title: Helicobacter pylori associated dyspepsia/duodenal/gastric ulcer
+    publisher: "Bugs & Drugs (Alberta Health Services)"
+    jurisdiction: CA
+    kind: tool
+    version: Checked 2026-11-03
+    url: "https://www.bugsanddrugs.org/e5d9b99e-3808-4c56-8573-7c3d6953a844"
+    checked: 2026-11-03
   - id: aafp-pud-hpylori-2023
     title: "Peptic Ulcer Disease and H. pylori Infection: Common Questions and Answers"
     publisher: American Academy of Family Physicians
@@ -250,7 +275,7 @@ sources:
 <!-- Conditions wave 2, batch C (build wave 16), built 2026-11-03. First page in Gastrointestinal and Liver.
      Title widened from the checklist's "GERD and H. pylori" so the page covers the presenting complaint (dyspepsia) as well as its causes.
      No BC Guideline for dyspepsia, GERD or H. pylori (alphabetical list checked 2026-11-03). Key Sources: the Pathways BC Shared Care dyspepsia pathway (2019, revised 2021) as the BC source; then the ACG and CAG dyspepsia guideline (2017); then AAFP's free review of peptic ulcer disease and H. pylori (2023, international).
-     Unconfirmed because the site refuses automated checks: Canadian Family Physician (cfp.ca) articles and PDFs, the CMAJ Task Force guideline, the Journal of the Canadian Association of Gastroenterology DOI page, MDCalc Glasgow-Blatchford. Each was confirmed in PubMed or by search.
+     Unconfirmed because the site refuses automated checks: Canadian Family Physician (cfp.ca) articles and PDFs, the CMAJ Task Force guideline, the Journal of the Canadian Association of Gastroenterology DOI page, MDCalc Glasgow-Blatchford, and the CAG dysphagia guideline page and PDF on academic.oup.com. Each was confirmed in PubMed, Crossref or by search.
      Left out: the GI Society (badgut.org) patient pages, which refuse automated checks; AAFP "Gastroesophageal Reflux in Infants and Children" (2025), members-only; AAFP H. pylori 2002 and peptic ulcer 2015 articles, replaced by the 2023 review; Tools for Practice #56 (H. pylori), older than the 2016 Toronto Consensus; the 2005 Canadian pediatric H. pylori consensus; third-party copies of the dyspepsia guideline and Pathways BC copies of H. pylori regimen handouts.
      No Firstline (AMMI Canada) guidance for H. pylori yet (checked 2026-11-03).
      Link to the source guidance; don't restate its recommendations. -->
