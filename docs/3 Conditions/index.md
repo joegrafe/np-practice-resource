@@ -31,17 +31,21 @@ status: published
 
     Acute kidney injury, chronic kidney disease and urinary tract infection.
 
+-   :material-stomach:{ .nppr-icon } [**Gastrointestinal and Liver**](Gastrointestinal%20and%20Liver/index.md)
+
+    Dyspepsia, GERD and H. pylori.
+
 -   :material-bone:{ .nppr-icon } [**Musculoskeletal**](Musculoskeletal/index.md)
 
-    Chronic pain, low back pain, rheumatoid arthritis, and sprains and minor fractures.
+    Chronic pain, low back pain, osteoarthritis, rheumatoid arthritis, and sprains and minor fractures.
 
 -   :material-brain:{ .nppr-icon } [**Neurology**](Neurology/index.md)
 
-    Concussion and mild traumatic brain injury, and dementia and frailty.
+    Concussion and mild traumatic brain injury, dementia and frailty, and headache and migraine.
 
 -   :material-head-heart-outline:{ .nppr-icon } [**Mental Health and Substance Use**](Mental%20Health%20and%20Substance%20Use/index.md)
 
-    ADHD, alcohol use disorder, depression and anxiety, opioid use disorder and tobacco use disorder.
+    ADHD, alcohol use disorder, depression and anxiety, insomnia, opioid use disorder and tobacco use disorder.
 
 -   :material-virus-outline:{ .nppr-icon } [**Infectious Disease**](Infectious%20Disease/index.md)
 
