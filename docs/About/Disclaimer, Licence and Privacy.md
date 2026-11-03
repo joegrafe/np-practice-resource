@@ -28,6 +28,8 @@ NPPR's own text is licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)]
 
 Linked guidelines, PDFs, logos and tools belong to their publishers and are not covered by this licence. NPPR links to the publisher's own copy and doesn't host third-party documents.
 
+Photos on the [Team](Team.md) page belong to the people in them and are not covered by this licence either.
+
 ## Access labels
 
 Some sources need an account. NPPR marks them so you know before you click:
@@ -43,3 +45,9 @@ Some sources need an account. NPPR marks them so you know before you click:
 - **Searches that find nothing.** When a search on NPPR finds nothing, or finds only some of its words, the words you typed are sent to NPPR with the date, which search box you used and any filters you chose, so the missing topic can be added. Nothing about you is kept: no IP address, account, cookie or device details. Long numbers and email addresses are removed before the search is saved. Other searches aren't sent anywhere.
 - **Saved in your browser.** Your last few searches are kept in your browser's storage, on your device only. The optional AI search downloads its language model from Hugging Face the first time you use it, and keeps its search index in your browser's storage too; AI searches aren't sent to NPPR.
 - **Never share patient information** in a search, a form or a GitHub issue.
+
+### Team members
+
+The [Team](Team.md) page shows only what each person agreed to in writing: their name and level, and, if they chose, their credentials, areas, setting, affiliation, a short bio, links, a photo and a conflict of interest statement. Reviewers are also named on the pages they reviewed. Email addresses, phone numbers and registration numbers are never published, and consent records are kept outside the public GitHub repository.
+
+To change or remove your listing, use the [Contact](Contact.md) form. Your card, photo and name come off the live site within 7 days. Earlier versions can stay in the public GitHub history and in web archives; a photo can be removed from the GitHub history on request.
