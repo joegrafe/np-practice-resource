@@ -4,10 +4,10 @@ description: "The editors, reviewers and contributors who build and check NPPR.c
 type: about
 tags: [about]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
-reviewers: []
+reviewers: [joegrafe]
 aliases:
   - team
   - NPPR team
