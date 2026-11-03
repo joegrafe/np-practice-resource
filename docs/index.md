@@ -42,6 +42,8 @@ section_nav: false
 
 </div>
 
+Browse condition and population pages [by population or presenting symptom](Browse%20by%20Tag.md), or start from the patient's complaint with [Presentations A to Z](Presentations%20A%20to%20Z.md).
+
 Know a source other NPs should have? [Submit a link](About/Submissions.md).
 
 !!! warning "Disclaimer"

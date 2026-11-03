@@ -9,6 +9,7 @@ review-due: 2027-11-02
 reviewers: [joegrafe]
 description: "Condition and population pages grouped by who the patient is and what they present with."
 section_cards: false
+redirect_from: [conditions/browse-by-tag]  # was Conditions > Browse by Tag until 2026-11-03
 search:
   exclude: true
 ---
@@ -23,7 +24,7 @@ search:
 
 ## Presenting Symptoms
 
-*Named as on [Presentations A to Z](../1%20Approaches/Presentations%20A%20to%20Z.md), which lists the approach articles for each one.*
+*Named as on [Presentations A to Z](Presentations%20A%20to%20Z.md), which lists the approach articles for each one.*
 
 <!-- material/tags { include: [abnormal-uterine-bleeding, anxiety, back-pain, chest-pain, confusion-and-delirium, cough, dementia-and-memory-loss, depressed-mood, diarrhea, dizziness-and-vertigo, dyspepsia-and-heartburn, dyspnea, dysuria-and-urinary-symptoms, edema, falls, fatigue, fever, foot-and-ankle-pain, hand-and-wrist-pain, headache, hip-pain, hypertension, insomnia-and-sleep-problems, joint-pain, knee-pain, nausea-and-vomiting, palpitations, pelvic-pain, rash, sexual-dysfunction, sore-throat, substance-use, suicidal-thoughts, vaginal-discharge, weight-gain-and-obesity, wheeze-and-stridor] } -->
 
