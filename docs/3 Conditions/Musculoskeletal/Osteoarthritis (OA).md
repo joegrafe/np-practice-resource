@@ -5,10 +5,10 @@ system: musculoskeletal
 tags: [condition, musculoskeletal, osteoarthritis, arthritis, pain, joint-pain, knee-pain, hip-pain, hand-and-wrist-pain, older-adults]
 jurisdiction: [BC, CA, INTL]
 aliases: [OA, osteoarthritis, osteoarthrosis, degenerative joint disease, DJD, arthritis, wear and tear arthritis, knee osteoarthritis, knee OA, hip osteoarthritis, hip OA, hand osteoarthritis, hand OA, thumb arthritis, joint pain, knee pain, hip pain, NSAID, NSAIDs, naproxen, ibuprofen, diclofenac, Voltaren, Arthrotec, celecoxib, Celebrex, meloxicam, acetaminophen, Tylenol, topical NSAID, duloxetine, Cymbalta, glucosamine, chondroitin, steroid injection, corticosteroid injection, hyaluronic acid, viscosupplementation, knee replacement, hip replacement, joint replacement, "GLA:D", OASIS, PEER pain calculator, C-TOP]
-status: review
+status: published
 last-reviewed: 2026-11-03
 review-due: 2027-11-03
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-gpac-pain-2022
     title: Managing Patients with Pain in Primary Care

@@ -5,10 +5,10 @@ system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, insomnia, sleep, sedatives, deprescribing, insomnia-and-sleep-problems, older-adults]
 jurisdiction: [BC, CA, INTL]
 aliases: [insomnia, chronic insomnia, sleep problems, "can't sleep", trouble sleeping, sleeplessness, poor sleep, sleep hygiene, CBT-I, CBTi, cognitive behavioural therapy for insomnia, sleep restriction, stimulus control, sleep diary, sleeping pills, hypnotics, sedative-hypnotics, z-drug, z-drugs, zopiclone, Imovane, eszopiclone, Lunesta, zolpidem, Sublinox, lemborexant, Dayvigo, daridorexant, Quviviq, orexin antagonist, DORA, trazodone, Desyrel, doxepin, Silenor, quetiapine, Seroquel, mirtazapine, melatonin, benzodiazepine, benzodiazepines, BZRA, lorazepam, temazepam, Restoril, deprescribing, PAD, mysleepwell]
-status: review
+status: published
 last-reviewed: 2026-11-03
 review-due: 2027-11-03
-reviewers: []
+reviewers: [joegrafe]
 sources:
   - id: bc-pad-insomnia-2020
     title: Medications for Insomnia
