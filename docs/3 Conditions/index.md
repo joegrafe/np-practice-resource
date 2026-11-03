@@ -63,8 +63,4 @@ status: published
 
     Contraception, menopause and sexually transmitted infections.
 
--   :material-tag-multiple-outline:{ .nppr-icon } [**Browse by Tag**](Browse%20by%20Tag.md)
-
-    Condition and population pages by population and presenting symptom.
-
 </div>

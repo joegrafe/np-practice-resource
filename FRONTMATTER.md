@@ -58,7 +58,7 @@ sources:
 
 ## Tags
 
-Population, presenting-symptom and `urgent-care` tags link to the [Browse by Tag](docs/3%20Conditions/Browse%20by%20Tag.md) page, which lists the pages under each one (step 2.3, build wave 13, approved by Joe 2026-11-02). Tag a page only when its own sources cover that population or symptom. Other tags (page type, system, keywords) stay plain words and aren't listed.
+Population, presenting-symptom and `urgent-care` tags link to the [Browse by Tag](docs/Browse%20by%20Tag.md) page (under Home since 2026-11-03), which lists the pages under each one (step 2.3, build wave 13, approved by Joe 2026-11-02). Tag a page only when its own sources cover that population or symptom. Other tags (page type, system, keywords) stay plain words and aren't listed.
 
 - **Populations:** `pediatrics`, `adolescents`, `older-adults`, `pregnancy`, `lactation`, `womens-health`, `trans-care`, `indigenous-health`, `newcomers`, `rural-remote`, `idd`. Use `pediatrics`, not `children`, and no `adults` tag: adults are the default.
 - **Presenting symptoms:** the complaint headings of Presentations A to Z (`scripts/presentations.yml` in nppr-website-config), lowercase and hyphenated: for example `chest-pain`, `dyspnea`, `dysuria-and-urinary-symptoms`.
