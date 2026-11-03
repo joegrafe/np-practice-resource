@@ -9,7 +9,7 @@ review-due: 2027-10-29
 reviewers: [joegrafe]
 description: "Every item on the other Approaches pages, listed under the presenting complaint it covers, A to Z. BC sources first, then Canadian, then international."
 sources: []  # generated from the other Approaches pages' sheets
-redirect_from: [approaches/presentations-a-to-z]  # was Approaches > Presentations A to Z until 2026-11-03
+redirect_from: [approaches/presentations-a-to-z, "1 Approaches/Presentations A to Z"]  # was Approaches > Presentations A to Z until 2026-11-03
 search:
   exclude: true  # left out of search (Joe, 2026-11-02): its items are already found on their own pages
 ---

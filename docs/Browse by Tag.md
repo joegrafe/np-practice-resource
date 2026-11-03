@@ -9,7 +9,7 @@ review-due: 2027-11-02
 reviewers: [joegrafe]
 description: "Condition and population pages grouped by who the patient is and what they present with."
 section_cards: false
-redirect_from: [conditions/browse-by-tag]  # was Conditions > Browse by Tag until 2026-11-03
+redirect_from: [conditions/browse-by-tag, "3 Conditions/Browse by Tag"]  # was Conditions > Browse by Tag until 2026-11-03
 search:
   exclude: true
 ---
