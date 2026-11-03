@@ -28,11 +28,13 @@ hide:
   - suggest
 ---
 
+<!-- nppr-list: Team.csv style=team -->
+
+## How reviews work
+
 NPPR is built by its editor and checked by clinicians who review pages in their own area of practice. A reviewer checks that a page links to the right, current sources: each source opened, versions and years correct, BC sources first, nothing missing that an NP in that area would expect, and no clinical advice in NPPR's own words. Reviewers don't endorse what the linked guidelines say, and the [disclaimer](Disclaimer%2C%20Licence%20and%20Privacy.md) applies to every page.
 
 Each reviewed page names its reviewers under its title, linked to their card here.
-
-<!-- nppr-list: Team.csv style=team -->
 
 ## Join the team
 
