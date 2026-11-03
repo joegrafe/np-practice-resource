@@ -40,10 +40,6 @@ Each tab matches a step of the appointment.
 - **Free and open.** No login, no ads and no analytics. Every change is public on [GitHub](https://github.com/joegrafe/np-practice-resource).
 - **For clinicians, not patients.** Read the [disclaimer](Disclaimer%2C%20Licence%20and%20Privacy.md).
 
-## Who runs it
-
-NPPR is edited by Joe Grafe, a Nurse Practitioner Student attending the University of Northern British Columbia (UNBC), and checked by clinicians who review pages in their own area of practice. The [Team](Team.md) page lists everyone who works on it. NPPR has no funding, sponsors or advertisers, and no conflicts of interest to declare.
-
 ## Get involved
 
 - [Submit a link](Submissions.md) to a guideline or tool other NPs should have. No account needed.
