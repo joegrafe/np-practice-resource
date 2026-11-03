@@ -31,17 +31,21 @@ status: published
 
     Acute kidney injury, chronic kidney disease and urinary tract infection.
 
+-   :material-stomach:{ .nppr-icon } [**Gastrointestinal and Liver**](Gastrointestinal%20and%20Liver/index.md)
+
+    Dyspepsia, GERD and H. pylori.
+
 -   :material-bone:{ .nppr-icon } [**Musculoskeletal**](Musculoskeletal/index.md)
 
-    Chronic pain, low back pain, rheumatoid arthritis, and sprains and minor fractures.
+    Chronic pain, low back pain, osteoarthritis, rheumatoid arthritis, and sprains and minor fractures.
 
 -   :material-brain:{ .nppr-icon } [**Neurology**](Neurology/index.md)
 
-    Concussion and mild traumatic brain injury, and dementia and frailty.
+    Concussion and mild traumatic brain injury, dementia and frailty, and headache and migraine.
 
 -   :material-head-heart-outline:{ .nppr-icon } [**Mental Health and Substance Use**](Mental%20Health%20and%20Substance%20Use/index.md)
 
-    ADHD, depression and anxiety, and opioid use disorder.
+    ADHD, alcohol use disorder, depression and anxiety, insomnia, opioid use disorder and tobacco use disorder.
 
 -   :material-virus-outline:{ .nppr-icon } [**Infectious Disease**](Infectious%20Disease/index.md)
 
@@ -51,12 +55,12 @@ status: published
 
     Burns, lacerations and minor wounds, and psoriasis.
 
+-   :material-blood-bag:{ .nppr-icon } [**Hematology and Oncology**](Hematology%20and%20Oncology/index.md)
+
+    Venous thromboembolism (DVT and PE).
+
 -   :material-account-heart-outline:{ .nppr-icon } [**Sexual and Reproductive Health**](Sexual%20and%20Reproductive%20Health/index.md)
 
     Contraception, menopause and sexually transmitted infections.
-
--   :material-tag-multiple-outline:{ .nppr-icon } [**Browse by Tag**](Browse%20by%20Tag.md)
-
-    Condition and population pages by population and presenting symptom.
 
 </div>
