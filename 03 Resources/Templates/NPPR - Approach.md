@@ -12,6 +12,7 @@ logo: ""                   # publisher's own logo image URL (hotlinked)
 logo-alt: ""
 sources:
   # One entry for the publisher's index. The items go in the CSV list sheet beside the page, not here. Field list: FRONTMATTER.md
+  # jurisdiction: the region the publisher's items are written for, a code from docs/regions.csv (CA, AB, ON, INTL ...).
   - id:
     title:
     publisher:
@@ -34,7 +35,9 @@ sources:
 <div class="nppr-filter" data-placeholder="Filter <items>, e.g. pain"></div>
 
 <!-- The list lives in <Page name>.csv beside this page, one row per item; the site build writes it in here.
-     Edit the sheet, not this page, to change the list. Start the sheet from "NPPR - Approach.csv" in Templates. -->
+     Edit the sheet, not this page, to change the list. Start the sheet from "NPPR - Approach.csv" in Templates.
+     Every row carries a region code from docs/regions.csv (the jurisdiction the item is written for, usually the publisher's own).
+     Approaches pages are the one exception to "frontmatter plus one sheet": the intro line and More Approaches stay in the page. -->
 <!-- nppr-list: <Page name>.csv counts -->
 
 ## More Approaches

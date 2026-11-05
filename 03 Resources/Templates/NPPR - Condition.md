@@ -9,7 +9,7 @@ last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
 review-due: <% tp.date.now("YYYY-MM-DD", 365) %>
 reviewers: []
 sources:
-  # BC sources first, then national, then international (INTL). Field list: FRONTMATTER.md
+  # Codes from docs/regions.csv: provinces and territories first (BC first), then CA, then US, then INTL. Field list: FRONTMATTER.md
   - id:
     title:
     publisher:
@@ -33,6 +33,7 @@ sources:
      Algorithms and Pathways: BC first, then Alberta's Pathway Hub.
      Assessment Tools and Calculators: MDCalc first, then other sites as required.
      Prescribing: always the RxFiles page when RxFiles has an appropriate resource (note when it needs a subscription). Special Authority criteria and forms go last, in one box.
+     Every linked top-level row carries a region code from docs/regions.csv (BC, AB, ON, CA, US, INTL): the jurisdiction the content is written for, not the publisher's address.
      Keep frontmatter sources in step with the sheet: one entry per guideline, algorithm, pathway and tool it links.
      Review notes as footnotes go below the marker, e.g.  [^1]: *On YYYY-MM-DD references the 20XX guideline.* -->
 <!-- nppr-list: <% tp.file.title %>.csv style=condition -->
