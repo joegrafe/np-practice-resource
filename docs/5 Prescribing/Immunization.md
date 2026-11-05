@@ -8,7 +8,7 @@ last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
 aliases: [Ontario immunization schedule, Publicly Funded Immunization Schedules for Ontario, Public Health Ontario, PHO, AEFI form Ontario]
-description: "The BC Immunization Manual, Canadian Immunization Guide and NACI, with BC's program updates, adverse event reporting, vaccine handling, courses and patient resources."
+description: "Provincial immunization manuals and schedules, the Canadian Immunization Guide and NACI, with program updates, adverse event reporting, vaccine handling, courses and patient resources."
 redirect_from: [prescribing/bc-immunization-manual]  # replaced the BC Immunization Manual page 2026-10-29
 sources:
   # BC
@@ -164,7 +164,7 @@ sources:
      with a PDF for each section, dated by section.
      ImmunizeBC (immunizebc.ca) now redirects to HealthLink BC's Immunizations pages.
      canada.ca pages were read with a web fetch (curl blocked from the build container). -->
-*The BC Immunization Manual and national guidance for checking a vaccine, its schedule and its contraindications, with BC's adverse event reporting, vaccine handling and courses.*
+*Your province's immunization manual and national guidance for checking a vaccine, its schedule and its contraindications, with adverse event reporting, vaccine handling and courses.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. contraindications"></div>
 

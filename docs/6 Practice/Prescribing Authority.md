@@ -8,7 +8,7 @@ last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
 aliases: [CNO medication standard, controlled substances education, Narcotics Monitoring System, NMS, Digital Health Drug Repository, DHDR, ConnectingOntario]
-description: "The rules on what BC nurse practitioners may prescribe: BCCNM prescribing standards and limits, controlled drugs and the Controlled Prescription Program, PharmaNet and PRIME, medical cannabis and programs with their own education requirements."
+description: "The rules on what nurse practitioners may prescribe: the regulator's prescribing standards and limits, controlled drugs and prescription monitoring, provincial drug information systems, medical cannabis and programs with their own education requirements."
 sources:
   # BC
   - id: bccnm-np-prescribing-drugs
@@ -145,7 +145,7 @@ sources:
      Not linked yet: College of Pharmacists of BC CPP page (bcpharmacists.org could not be opened from the build
      environment on 2026-10-29) and the federal Controlled Drugs and Substances Act and New Classes of
      Practitioners Regulations (laws-lois.justice.gc.ca could not be opened either). -->
-*The rules on what BC nurse practitioners may prescribe and how: BCCNM's prescribing standards and their limits and conditions, controlled drugs, PharmaNet and PRIME, and medical cannabis. Choosing a drug and getting it covered are in [Prescribing](../5%20Prescribing/index.md).*
+*The rules on what nurse practitioners may prescribe and how: the regulator's prescribing standards and their limits and conditions, controlled drugs, provincial drug information systems, and medical cannabis. Choosing a drug and getting it covered are in [Prescribing](../5%20Prescribing/index.md).*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. PRIME"></div>
 

@@ -8,7 +8,7 @@ last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
 aliases: [CNO standards, CNO practice standard, Nursing Act, RHPA, Code of Conduct, Ontario NP standard]
-description: "What BC nurse practitioners are authorized to do: the BCCNM practice and ethics standards that set NP scope since April 1, 2026, the legislation behind them and the national NP competencies."
+description: "What nurse practitioners are authorized to do: the regulator's practice and ethics standards that set NP scope, the legislation behind them and the national NP competencies."
 sources:
   # BC
   - id: bccnm-np-standards
@@ -251,7 +251,7 @@ sources:
      every standard here was approved by the board in early 2026 and is a bylaw under HPOA from April 1, 2026.
      Topic ownership (NPPR-FRAMEWORK.md): the two prescribing standards live on Prescribing Authority;
      documentation and privacy have their own page, Documentation, Privacy and Records (wave 2). -->
-*What BC nurse practitioners are authorized to do. Since April 1, 2026, NP scope is set by BCCNM practice and ethics standards, which are bylaws under the Health Professions and Occupations Act; BCCNM's earlier Scope of Practice for NPs document was converted into these standards.*
+*What nurse practitioners are authorized to do: the regulator's practice and ethics standards that set NP scope, the legislation behind them and the national NP competencies.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. capacity"></div>
 

@@ -7,7 +7,7 @@ status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
-description: "General antimicrobial references for NP prescribing in BC: Bugs & Drugs, the Canadian Antibiotic Treatment Guidance, BC stewardship advice, penicillin allergy de-labelling and local resistance data."
+description: "General antimicrobial references for NP prescribing: Bugs & Drugs, the Canadian Antibiotic Treatment Guidance, provincial stewardship advice, penicillin allergy de-labelling and local resistance data."
 redirect_from: [prescribing/bugs-and-drugs]  # replaced the Bugs & Drugs page 2026-10-29
 sources:
   # BC

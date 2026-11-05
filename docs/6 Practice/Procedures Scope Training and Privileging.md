@@ -8,7 +8,7 @@ last-reviewed: 2026-11-05
 review-due: 2027-11-05
 reviewers: [joegrafe]
 aliases: [procedures, minor procedures, office procedures, procedural skills, advanced procedures, restricted activities, privileges, privileging, credentialing, hospital privileges, core privileges, non-core privileges, BC MQI, MQI dictionary, privileging dictionary, AppCentral, Cactus, additional education, suturing, skin biopsy, IUD insertion, LARC training, casting, splinting, joint injection, dislocation reduction, POCUS training, point of care ultrasound course, HOUSE ultrasound course, CPoCUS, Transfusion Camp, blood transfusion orders, X-ray application, medical aesthetics, Botox, procedure course, CPD, continuing competence, Personal Practice Review]
-description: "Which procedures BC nurse practitioners can do and on what terms: the BCCNM advanced procedures standard and its limits, the BC MQI nurse practitioner privileging dictionary, health authority credentialing, procedure training in BC and BCCNM continuing competence."
+description: "Which procedures nurse practitioners can do and on what terms: the regulator's advanced procedures standard and its limits, privileging dictionaries, health authority credentialing, procedure training and continuing competence."
 sources:
   # BC
   - id: bccnm-np-advanced-procedures
@@ -234,7 +234,7 @@ sources:
      RCCbc/REAP funding (physician-only wording), NNPBC NP Portal courses (site blocks the cloud session),
      Northern Health, Island Health and Fraser Health credentialing pages (no NP content found or not opened).
      The BC MQI review hub lists NP dictionary drafts; recheck the dictionary version at each review. -->
-*Which procedures BC nurse practitioners can do, and on what terms: the BCCNM standard and its limits, the provincial privileging dictionary that health authorities use, where to train, and how competence is kept up. BCCNM does not approve or recommend procedure courses.*
+*Which procedures nurse practitioners can do, and on what terms: the regulator's standard and its limits, the privileging dictionaries that health authorities use, where to train, and how competence is kept up. Regulators do not approve or recommend procedure courses.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. privileging"></div>
 

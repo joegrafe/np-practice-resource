@@ -169,6 +169,6 @@ sources:
      The ISC Clinical Practice Guidelines for Nurses in Primary Care moved behind the OneHealth portal (access by request); linked with that label.
      Left out: HEiDi (2020 to 2021 sources only, current status unconfirmed); CFPC/SRPC Rural Road Map (workforce policy, not point of care).
      Link to the source guidance; don't restate its recommendations. -->
-*Sources and services for NPs in rural, remote and First Nations communities in BC: real-time physician support, patient transfer, travel assistance and rural practice networks.*
+*Sources and services for NPs in rural, remote and First Nations communities: real-time physician support, patient transfer, travel assistance and rural practice networks.*
 
 <!-- nppr-list: Rural and Remote.csv style=condition -->

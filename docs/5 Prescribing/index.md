@@ -12,7 +12,7 @@ reviewers: [joegrafe]
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*Working through a prescribing decision, checking the drug against an independent reference, and getting it covered, plus antimicrobial, immunization, controlled drug and substance use, and deprescribing references: BC and Canadian sources for NP prescribing.*
+*Working through a prescribing decision, checking the drug against an independent reference, and getting it covered, plus antimicrobial, immunization, controlled drug and substance use, and deprescribing references: provincial and Canadian sources for NP prescribing.*
 
 ## In This Section
 - [Rational Prescribing](Rational%20Prescribing.md)

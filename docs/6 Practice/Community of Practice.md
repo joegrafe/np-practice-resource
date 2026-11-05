@@ -8,7 +8,7 @@ last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
 aliases: [NPAO, ECHO Ontario]
-description: "Peer support and case-based learning for BC nurse practitioners: NP Circle, NNPBC's NP-PIP community of practice and mentorship, and the Project ECHO programs open to BC primary care NPs."
+description: "Peer support and case-based learning for nurse practitioners: NP Circle, provincial NP associations' communities of practice and mentorship, and the Project ECHO programs open to primary care NPs."
 sources:
   # BC
   - id: nnpbc-np-pip

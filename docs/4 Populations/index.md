@@ -12,7 +12,7 @@ reviewers: [joegrafe]
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*Sources and services for specific patient groups. Each page lists what changes for that group, with BC sources first: key guidance, preventive care, urgent red flags, conditions with population notes, services and referral, and patient resources.*
+*Sources and services for specific patient groups. Each page lists what changes for that group, with your province's sources first: key guidance, preventive care, urgent red flags, conditions with population notes, services and referral, and patient resources.*
 
 ## In This Section
 - [Pediatrics](Pediatrics/Pediatrics.md) — *Child Health BC, CPS and TREKK; well-child care (Rourke Baby Record), urgent care and red flags, adolescents, CHARLiE and BC Children's Hospital referral*

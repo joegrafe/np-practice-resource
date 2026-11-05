@@ -8,7 +8,7 @@ last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
 aliases: [starting in Ontario, new NP Ontario]
-description: "A checklist for starting nurse practitioner practice in BC, from BCCNM licensure, liability protection and MSP enrolment to PharmaNet, controlled drug pads, a primary care contract, records and peer support, with links to each step's source."
+description: "A checklist for starting nurse practitioner practice, from licensure, liability protection and billing enrolment to drug information systems, controlled drug prescribing, a primary care contract, records and peer support, with links to each step's source."
 sources:
   # BC
   - id: bccnm-np-applications-registration
@@ -39,7 +39,7 @@ sources:
 <!-- Practice wave 2 (plan: https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc, approved by Joe 2026-10-27).
      A checklist only: each step points to its source or to the Practice page that holds the sources.
      Requisition forms are left out on purpose (Joe, 2026-10-27): clinics have their own. -->
-*A checklist for starting nurse practitioner practice in BC. Each step links to its source or to the page that covers it.*
+*A checklist for starting nurse practitioner practice. Each step links to its source or to the page that covers it.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. PRIME"></div>
 

@@ -9,7 +9,7 @@ status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
 reviewers: [joegrafe]
-description: "Where to find the current guideline for a topic NPPR hasn't covered yet: BC Guidelines, BCCDC, the Canadian Task Force, CFPC, Canadian specialty-society guideline libraries, then NICE and USPSTF."
+description: "Where to find the current guideline for a topic NPPR hasn't covered yet: provincial guideline series, the Canadian Task Force, CFPC, Canadian specialty-society guideline libraries, then NICE and USPSTF."
 sources:
   - id: bc-guidelines-gpac-guidelines-by-alphabetical-listing
     title: "Guidelines by Alphabetical Listing"

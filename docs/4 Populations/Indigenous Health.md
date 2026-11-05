@@ -338,6 +338,6 @@ sources:
      Left out: Perinatal Services BC's Honouring Indigenous Women's and Families' Pregnancy Journeys (its PDF did not open from the build container; candidate for the Pregnancy and Perinatal page).
      No BC Guideline, BCCDC, RACE or Canadian Task Force source specific to Indigenous health was found.
      Link to the source guidance; don't restate its recommendations. -->
-*Sources and services for First Nations, Métis and Inuit patients in BC: cultural safety standards, coverage and benefits, and Indigenous health programs by region.*
+*Sources and services for First Nations, Métis and Inuit patients: cultural safety standards, coverage and benefits, and Indigenous health programs by region.*
 
 <!-- nppr-list: Indigenous Health.csv style=condition -->
