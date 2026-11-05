@@ -1,7 +1,7 @@
-heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only
-,,md,,*One or two sentences on what this page collects and why it's useful at the point of care.*,,,,,,,,
-BC Sources,,,,Organization - Resource name,https://,,,,what it covers; free,,BC,
-Canadian Sources,,,,Organization - Resource name,https://,,,,what it covers; login,,CA,
-Specialty Society Libraries,,,,Society - Guideline library,https://,,,,what it covers,,CA,
-International Sources,,,,Organization - Resource name,https://,,,,International source: US; what it covers,,INTL,
-International Sources,,md,,- Pathway collections — *on [Approaches](../1%20Approaches/index.md)*,,,,,,,,
+heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,,md,,*One or two sentences on what this page collects and why it's useful at the point of care.*,,,,,,,,,
+BC Sources,,,,Organization - Resource name,https://,,,,what it covers; free,,BC,,
+Canadian Sources,,,,Organization - Resource name,https://,,,,what it covers; login,,CA,,
+Specialty Society Libraries,,,,Society - Guideline library,https://,,,,what it covers,,CA,,
+International Sources,,,,Organization - Resource name,https://,,,,International source: US; what it covers,,INTL,,
+International Sources,,md,,- Pathway collections — *on [Approaches](../1%20Approaches/index.md)*,,,,,,,,,

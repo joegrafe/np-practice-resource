@@ -8,17 +8,6 @@ last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
 review-due: <% tp.date.now("YYYY-MM-DD", 365) %>
 reviewers: []
 description: ""
-sources:
-  # Codes from docs/regions.csv: provinces and territories first (BC first), then CA, then US, then INTL. Field list: FRONTMATTER.md
-  - id:
-    title:
-    publisher:
-    jurisdiction: BC
-    kind: tool             # guideline | algorithm | pathway | summary | tool | patient
-    version:
-    url:
-    pdf:                   # publisher's own PDF link only
-    checked: <% tp.date.now("YYYY-MM-DD") %>
 ---
 <!-- Link to each reference; don't give dosing or recommendations in our own words.
      Label access after the note: *subscription*, *login* or *members only*. Free sources need no label.

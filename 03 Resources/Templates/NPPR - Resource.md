@@ -7,17 +7,6 @@ status: draft
 last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
 review-due: <% tp.date.now("YYYY-MM-DD", 365) %>
 reviewers: []
-sources:
-  # Codes from docs/regions.csv: provinces and territories first (BC first), then CA, then US, then INTL. Field list: FRONTMATTER.md
-  - id:
-    title:
-    publisher:
-    jurisdiction: BC
-    kind: guideline        # guideline | algorithm | pathway | summary | tool | patient
-    version:
-    url:
-    pdf:                   # publisher's own PDF link only
-    checked: <% tp.date.now("YYYY-MM-DD") %>
 ---
 <!-- What this resource page collects (a kind of source: libraries, guideline directories, journals) and which Resources pages hold neighbouring kinds.
      Sources unconfirmed because their sites block checks, and what was left out and why. -->

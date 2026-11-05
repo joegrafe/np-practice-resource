@@ -10,14 +10,6 @@ reviewers: [joegrafe]
 description: "The Centre for Effective Practice's primary care clinical tools: 36, listed by body system with their year. Written for Ontario."
 logo: "https://cep.health/wp-content/uploads/2025/07/cep.svg"
 logo-alt: "Centre for Effective Practice"
-sources:
-  - id: cep-clinical-tools
-    title: "Centre for Effective Practice: Clinical Tools"
-    publisher: Centre for Effective Practice
-    jurisdiction: CA
-    kind: tool
-    url: "https://cep.health/clinical-tools-supports/clinical-tools/"
-    checked: 2026-10-29
 ---
 <!-- List taken from cep.health/clinical-tools-supports/clinical-tools/ on 2026-10-29: 41 tools.
      Left out (Joe, 2026-10-27): Secure Messaging, Social Prescribing and Medical Assistance in Dying (practice topics) and the AI Learning Centre (Tools: AI Tools).

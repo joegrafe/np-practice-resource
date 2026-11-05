@@ -9,13 +9,18 @@ Usage: python3 scripts/check_pages.py [docs_dir] [--report report.md] [--files f
 Checks:
   frontmatter    required page fields, allowed values, dates as YYYY-MM-DD
   review-due     review-due is after last-reviewed and has not passed
-  sources        required source fields; a url or a pdf; an id names one source only
-                 (the same id on several pages must point to the same address)
-  source-order   sources listed provinces and territories, then CA, then US, then INTL
+  sources        docs/sources.csv, the sources registry: one row per document with a
+                 unique slug id, a title, a region from docs/regions.csv, a url or a
+                 pdf, a kind and dates in YYYY-MM-DD; supersedes names another id.
+                 A page carries no frontmatter sources list (retired 2026-11-05).
+  source         a sheet row's source names a registry id; a row that repeats the
+                 registry's url, pdf or year is told to leave the cell blank, and a
+                 linked row whose address is in the registry is told its id
   list-sheet     each <!-- nppr-list: --> marker names a CSV beside the page, the CSV
                  uses only the list-sheet columns, every row has a title (a note row
                  has a note), kind and level hold allowed values, links are http(s),
-                 every top-level row with a link has a region from docs/regions.csv,
+                 every top-level row with a link has a region from docs/regions.csv
+                 (or a source whose registry row has one),
                  an only mark sits on a top-level row that has a region,
                  and every CSV in docs/ is used by a page
   page-body      a page with a list sheet holds no heading or link line of its own
@@ -84,10 +89,12 @@ SYSTEMS = {
 }
 PAGE_REQUIRED = ["title", "type", "tags", "jurisdiction", "status", "last-reviewed",
                  "review-due", "reviewers"]
-SOURCE_REQUIRED = ["id", "title", "publisher", "jurisdiction", "kind", "checked"]
-NO_SOURCES = {"index", "about"}
+REGISTRY_SHEET = "sources.csv"  # docs/sources.csv: the sources registry
+REGISTRY_COLUMNS = {"id", "title", "publisher", "url", "pdf", "year", "version", "region", "kind",
+                    "checked", "supersedes", "keywords"}
+REGISTRY_REQUIRED = ["id", "title", "region"]
 LIST_COLUMNS = {"heading", "subheading", "title", "url", "year", "pdf", "links", "note",
-                "keywords", "sub", "kind", "level", "region", "only"}
+                "keywords", "sub", "kind", "level", "region", "only", "source"}
 LIST_KINDS = {"", "box", "note", "md"}  # condition sheets; blank is a link line
 LIST_LEVELS = {"", "0", "1", "2"}
 TEAM_SHEET = "About/Team.csv"
@@ -100,7 +107,7 @@ TEAM_ID = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # review-due stays a warning: it goes stale with the calendar, not with an edit.
 # page-body (a sheet-backed page with a heading or link line of its own) stays a
 # warning until Tools: Checking AI Output moves into its sheet (switch wave).
-WARN_ONLY = {"review-due", "page-body"}
+WARN_ONLY = {"review-due", "page-body", "source"}
 HOME = "index.md"  # the home page (docs/index.md) carries only a title, by design
 
 FRONT = re.compile(r"^---\s*\n(.*?)\n---\s*(\n|$)", re.S)
@@ -221,58 +228,11 @@ def check_page(path, rel, text, f, source_ids):
     if reviewed and reviewed > TODAY:
         f.add("review-due", rel, ln("last-reviewed"), f"last-reviewed {reviewed} is in the future.")
 
-    # Sources
-    sources = meta.get("sources")
-    if sources is None:
-        if ptype not in NO_SOURCES and path.name != "index.md":
-            f.add("sources", rel, 1, "No sources list (required except on index and about pages).")
-        return
-    if not isinstance(sources, list):
-        f.add("sources", rel, ln("sources"), "sources must be a list.")
-        return
-    line, order, last, last_code = ln("sources"), [], -1, ""
-    for i, src in enumerate(sources):
-        if not isinstance(src, dict):
-            f.add("sources", rel, line, f"Source {i + 1} is not a set of fields.")
-            continue
-        sid = src.get("id", f"#{i + 1}")
-        line = key_line(text, "id", line + 1) if "id" in src else line
-        miss = [k for k in SOURCE_REQUIRED if k not in src]
-        if miss:
-            f.add("sources", rel, line, f"Source {sid}: missing {', '.join(miss)}.")
-        if not src.get("url") and not src.get("pdf"):
-            f.add("sources", rel, line, f"Source {sid}: needs a url or a pdf.")
-        for k in ("url", "pdf"):
-            if src.get(k) and not URL.match(str(src[k])):
-                f.add("sources", rel, line, f"Source {sid}: {k} is not an http(s) address.")
-        if "kind" in src and src["kind"] not in KINDS:
-            f.add("sources", rel, line, f"Source {sid}: kind '{src['kind']}' is not one of {', '.join(sorted(KINDS))}.")
-        if src.get("checked") is not None and as_date(src["checked"]) is None:
-            f.add("sources", rel, line, f"Source {sid}: checked '{src['checked']}' is not a YYYY-MM-DD date.")
-        elif "checked" in src and src["checked"] is None:
-            f.add("sources", rel, line, f"Source {sid}: checked is empty.")
-        if "id" in src:
-            if not SLUG.match(str(src["id"])):
-                f.add("sources", rel, line, f"Source id '{src['id']}' should be a lowercase slug.")
-            ident = (src.get("url") or "").rstrip("/") or (src.get("pdf") or "")
-            source_ids.setdefault(str(src["id"]), []).append((rel, line, ident))
-        j = src.get("jurisdiction")
-        if j is not None and j not in JURIS:
-            hint = ' Write it as "ON" in quotes: YAML reads a bare ON as true.' if j is True else ""
-            f.add("sources", rel, line, f"Source {sid}: jurisdiction '{j}' is not a code from docs/regions.csv." + hint)
-        elif j in JURIS:
-            rank = JURIS_RANK[j]
-            if rank < last:
-                f.add("source-order", rel, line,
-                      f"Source {sid} ({j}) is listed after a {last_code} source; list provinces, then CA, then US, then INTL.")
-            if rank >= last:
-                last, last_code = rank, j
-            order.append(j)
-    if isinstance(juris, list) and order:
-        extra = sorted(set(order) - set(juris), key=lambda j: JURIS_RANK[j])
-        if extra:
-            f.add("frontmatter", rel, ln("jurisdiction"),
-                  f"jurisdiction leaves out {', '.join(extra)}, which its sources cover.")
+    # Sources live in docs/sources.csv and the page's sheet (since 2026-11-05)
+    if "sources" in meta:
+        f.add("sources", rel, ln("sources"),
+              "Frontmatter sources are retired: a document's facts go in docs/sources.csv and its "
+              "placement in the page's sheet (source column). Remove the list.")
 
 
 def check_body(rel, text, start, meta, f):
@@ -295,7 +255,8 @@ def split_marker(spec):
     return " ".join(words)
 
 
-def check_sheet(path, rel, f):
+def check_sheet(path, rel, f, registry=None, by_address=None):
+    registry, by_address = registry or {}, by_address or {}
     try:
         with open(path, encoding="utf-8-sig", newline="") as fh:
             reader = csv.reader(fh)
@@ -323,13 +284,17 @@ def check_sheet(path, rel, f):
             f.add("list-sheet", rel, n, f"kind '{cells['kind']}' is not blank, box, note or md.")
         if cells.get("level", "") not in LIST_LEVELS:
             f.add("list-sheet", rel, n, f"level '{cells['level']}' is not blank, 0, 1 or 2.")
+        source = cells.get("source", "")
+        doc = registry.get(source)
         if kind == "note":
             if not cells.get("note"):
                 f.add("list-sheet", rel, n, "Note row has nothing in its note column.")
-        elif not cells.get("title"):
+        elif not cells.get("title") and not registry.get(cells.get("source", ""), {}).get("title"):
             f.add("list-sheet", rel, n, "Row has no title.")
         for k in ("url", "pdf"):
-            if cells.get(k) and not URL.match(cells[k]):
+            if cells.get(k) == "-" and not doc:
+                f.add("list-sheet", rel, n, f"{k} is '-' (keep blank) but the row names no source.")
+            elif cells.get(k) and cells[k] != "-" and not URL.match(cells[k]):
                 f.add("list-sheet", rel, n, f"{k} is not an http(s) address: {cells[k][:60]}")
         for u in MD_URL.findall(cells.get("links", "")):
             if not URL.match(u):
@@ -340,7 +305,18 @@ def check_sheet(path, rel, f):
         if is_sub and first:
             f.add("list-sheet", rel, n, "First row is marked sub, but there's no row above it.")
         first = False
-        region = cells.get("region", "")
+        if source and not doc:
+            f.add("list-sheet", rel, n, f"source '{source}' is not an id in docs/{REGISTRY_SHEET}.")
+        elif doc:
+            same = [k for k in ("url", "pdf", "year") if cells.get(k) and cells[k].rstrip("/") == doc.get(k, "").rstrip("/")]
+            if same:
+                f.add("source", rel, n, f"Row repeats the registry's {', '.join(same)} for {source}: leave the cell blank, the registry fills it.")
+        else:
+            address = (cells.get("pdf") or cells.get("url") or "").rstrip("/")
+            hit = by_address.get(address)
+            if hit and cells.get("url", "").rstrip("/") == registry[hit].get("url", "").rstrip("/"):
+                f.add("source", rel, n, f"This document is in the registry as '{hit}': put the id in the source column and blank its url, pdf and year.")
+        region = cells.get("region", "") or (doc or {}).get("region", "")
         if region and region not in JURIS:
             f.add("list-sheet", rel, n, f"region '{region}' is not a code from docs/regions.csv.")
         elif not region and "region" in cols and (cells.get("url") or cells.get("pdf")) \
@@ -354,6 +330,62 @@ def check_sheet(path, rel, f):
                 f.add("list-sheet", rel, n, "A row marked only needs a region: it shows for that region alone (or, with other, for every region but its own).")
             elif cells.get("level", "") not in ("", "0") or is_sub:
                 f.add("list-sheet", rel, n, "Mark only on the top-level row: its sub-rows hide with it.")
+
+
+def check_registry(path, rel, f):
+    """docs/sources.csv: one row per document. Returns ({id: row}, {address: id})."""
+    registry, by_address = {}, {}
+    try:
+        with open(path, encoding="utf-8-sig", newline="") as fh:
+            reader = csv.reader(fh)
+            header = next(reader, [])
+            rows = list(enumerate(reader, 2))
+    except (UnicodeDecodeError, csv.Error) as e:
+        f.add("sources", rel, 1, f"Can't read the registry: {e}")
+        return registry, by_address
+    cols = [h.strip().lower() for h in header]
+    unknown = [c for c in cols if c and c not in REGISTRY_COLUMNS]
+    if unknown:
+        f.add("sources", rel, 1, f"Unknown column(s): {', '.join(unknown)} (format: Sources registry in NPPR-FRAMEWORK.md).")
+    missing = [c for c in REGISTRY_REQUIRED + ["url", "pdf"] if c not in cols]
+    if missing:
+        f.add("sources", rel, 1, f"Missing column(s): {', '.join(missing)}.")
+        return registry, by_address
+    for n, row in rows:
+        cells = {c: (row[i].strip() if i < len(row) else "") for i, c in enumerate(cols)}
+        if not any(cells.values()):
+            continue
+        sid = cells["id"]
+        if not SLUG.match(sid):
+            f.add("sources", rel, n, f"id '{sid}' should be a lowercase slug (publisher-topic-year).")
+        if sid in registry:
+            f.add("sources", rel, n, f"id '{sid}' is used twice.")
+        miss = [k for k in REGISTRY_REQUIRED if not cells.get(k)]
+        if miss:
+            f.add("sources", rel, n, f"{sid or 'Row'}: missing {', '.join(miss)}.")
+        if not cells.get("url") and not cells.get("pdf"):
+            f.add("sources", rel, n, f"{sid}: needs a url or a pdf.")
+        for k in ("url", "pdf"):
+            if cells.get(k) and not URL.match(cells[k]):
+                f.add("sources", rel, n, f"{sid}: {k} is not an http(s) address.")
+        if cells.get("region") and cells["region"] not in JURIS:
+            f.add("sources", rel, n, f"{sid}: region '{cells['region']}' is not a code from docs/regions.csv.")
+        if cells.get("kind") and cells["kind"] not in KINDS:
+            f.add("sources", rel, n, f"{sid}: kind '{cells['kind']}' is not one of {', '.join(sorted(KINDS))}.")
+        if cells.get("checked") and as_date(cells["checked"]) is None:
+            f.add("sources", rel, n, f"{sid}: checked '{cells['checked']}' is not a YYYY-MM-DD date.")
+        if cells.get("year") and not re.match(r"^\d{4}(\D.*)?$", cells["year"]):
+            f.add("sources", rel, n, f"{sid}: year should start with a 4-digit year: {cells['year']}")
+        registry[sid] = cells
+        address = (cells.get("pdf") or cells.get("url") or "").rstrip("/")
+        if address:
+            if address in by_address:
+                f.add("sources", rel, n, f"{sid} has the same address as {by_address[address]}: one row per document.")
+            by_address.setdefault(address, sid)
+    for sid, cells in registry.items():
+        if cells.get("supersedes") and cells["supersedes"] not in registry:
+            f.add("sources", rel, 1, f"{sid}: supersedes '{cells['supersedes']}', which is not a registry id.")
+    return registry, by_address
 
 
 def check_team(path, rel, docs, f):
@@ -434,6 +466,9 @@ def main():
     docs = pathlib.Path(args.docs)
     load_regions(docs)
     f, source_ids, used = Findings(), {}, set()
+    registry_sheet = docs / REGISTRY_SHEET
+    registry, by_address = (check_registry(registry_sheet, registry_sheet.as_posix(), f)
+                            if registry_sheet.exists() else ({}, {}))
 
     for path in sorted(docs.rglob("*.md")):
         rel = path.as_posix()
@@ -447,15 +482,6 @@ def main():
                 f.add("list-sheet", rel, line, f"List sheet not found beside the page: {name}", level="error")
             else:
                 used.add(sheet.resolve())
-    for sid, where in source_ids.items():
-        same_page = len({p for p, _, _ in where}) < len(where)
-        if same_page or len({i for _, _, i in where}) > 1:
-            places = ", ".join(f"{p}:{n}" for p, n, _ in where[:3])
-            if len(where) > 3:
-                places += f" and {len(where) - 3} more"
-            why = "twice on one page" if same_page else "for different links"
-            for p, n, _ in where:
-                f.add("sources", p, n, f"Source id '{sid}' is used {why}: {places}.")
     team_sheet = docs / TEAM_SHEET
     team = check_team(team_sheet, team_sheet.as_posix(), docs, f) if team_sheet.exists() else {}
     if team:
@@ -463,10 +489,10 @@ def main():
     regions_sheet = docs / REGIONS_SHEET
     for path in sorted(docs.rglob("*.csv")):
         rel = path.as_posix()
-        if path.resolve() == regions_sheet.resolve():
-            continue  # the region list, not a page sheet
+        if path.resolve() in (regions_sheet.resolve(), registry_sheet.resolve()):
+            continue  # the region list and the sources registry, not page sheets
         if path.resolve() != team_sheet.resolve():
-            check_sheet(path, rel, f)
+            check_sheet(path, rel, f, registry, by_address)
         if path.resolve() not in used:
             f.add("list-sheet", rel, 1, "No page has an nppr-list marker for this sheet.")
 

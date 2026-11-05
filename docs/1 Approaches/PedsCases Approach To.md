@@ -10,14 +10,6 @@ reviewers: [joegrafe]
 description: "An index of PedsCases Notes: short peer-reviewed summaries of pediatric presentations and conditions, grouped by body system."
 logo: "https://www.pedscases.com/sites/default/files/pedscases.png"
 logo-alt: "PedsCases"
-sources:
-  - id: pedscases-notes
-    title: "PedsCases Notes"
-    publisher: PedsCases (University of Alberta Department of Pediatrics)
-    jurisdiction: CA
-    kind: summary
-    url: "https://www.pedscases.com/"
-    checked: 2026-10-29
 ---
 
 [PedsCases](https://www.pedscases.com/) is a peer-reviewed pediatric education site from the University of Alberta Department of Pediatrics. This page lists all 232 of its PedsCases Notes, short summaries of pediatric presentations and conditions, grouped by body system, with the year each was published and a link to its PDF.

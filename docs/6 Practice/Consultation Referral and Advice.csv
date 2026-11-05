@@ -1,42 +1,42 @@
-heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only
-Key Sources,,,,BCCNM - Nurse Practitioners: Consultation and Referral,https://www.bccnm.ca/NP/PracticeStandards/Pages/ConsultationReferral.aspx,2026,https://www.bccnm.ca/Documents/standards_practice/np/NP_ConsultationReferral.pdf,,"when NPs consult or refer, what to include and document, and what NPs do when they receive a consultation or referral","consultation standard, referral standard",BC,yes
-Key Sources,,,,CNO - Practice Standard: Nurse Practitioner (PDF),https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41038_strdrnec.pdf,2026,,,"Ontario: consultation and referral expectations for NPs; updated July 1, 2026 for the single NP class",Ontario NP standard consultation referral,ON,yes
-Key Sources,,,,RACE - Rapid Access to Consultative Expertise,https://www.raceconnect.ca/,,,,"phone advice from a specialist, usually within two hours, for BC and Yukon family physicians, nurse practitioners and midwives; some specialties by phone, the rest through RACEapp+","specialist advice, telephone advice, RACE line, RACEapp",BC,yes
-Key Sources,,,1,How to use RACE (phone codes and specialty list),https://www.raceconnect.ca/use-race,,,,,,,
-Key Sources,,,1,RACEapp+ (web version),https://www.raceapp.ca/,,,,,,,
-Key Sources,,,1,RACE billing information for nurse practitioners,https://www.raceconnect.ca/family-physicians-nurse-practitioners-and-midwives,,,,,,,
-Key Sources,,,,Ontario eConsult (OTNhub),https://otn.ca/providers/primary-care/econsult/,,,,"specialist advice for physicians and nurse practitioners, usually without a patient referral",eConsult Ontario OTN,ON,yes
-Key Sources,,,1,Sign up for OTNhub,http://otnhub.ca/signup-info,,,,,,,
-Key Sources,,,,BC Centre on Substance Use - 24/7 Addiction Medicine Clinician Support Line,https://www.bccsu.ca/24-7/,,,,"phone advice from an addiction medicine specialist for physicians, nurse practitioners, nurses, midwives and pharmacists, at any hour","addiction medicine line, substance use advice",BC,yes
-Rural and Remote Support,,,,RCCbc - Real-Time Virtual Support (RTVS),https://rccbc.ca/initiatives/rtvs/,,,,"Zoom or phone support for health care providers in rural, remote and Indigenous communities in BC; rural NPs can ask RCCbc for a Zoom account","rural virtual support, Zoom, rural emergency",BC,yes
-Rural and Remote Support,,,1,Getting started with RTVS,https://rccbc.ca/initiatives/rtvs/getting-started/,,,,,,,
-Rural and Remote Support,,,1,RUDi (emergency),https://rccbc.ca/initiatives/rtvs/rudi/,,,,,,,
-Rural and Remote Support,,,1,CHARLiE (pediatrics),https://rccbc.ca/initiatives/rtvs/charlie/,,,,,,,
-Rural and Remote Support,,,1,MaBAL (maternity and newborn),https://rccbc.ca/initiatives/rtvs/mabal/,,,,,,,
-Rural and Remote Support,,,1,ROCCi (critical care and internal medicine),https://rccbc.ca/initiatives/rtvs/rocci/,,,,,,,
-Rural and Remote Support,,,1,Quick Reply (weekday specialist pathways),https://rccbc.ca/initiatives/rtvs/rtvs-quick-reply/,,,,,,,
-Rural and Remote Support,,md,,"- [Rural and Remote](../4%20Populations/Rural%20and%20Remote.md) — *patient transfer, travel assistance and rural practice networks*",,,,,,,,
-Other Advice Lines,,,,Compass - Child and Youth Mental Health and Substance Use Consultation,https://www.compassbc.ca/,,,,"phone consultation for providers caring for children and youth with mental health or substance use concerns, in BC and the Yukon: diagnosis, medication and treatment planning","child psychiatry advice, youth mental health consult",BC,yes
-Other Advice Lines,,,,BC Drug and Poison Information Centre,https://www.dpic.org/,,,,"24-hour Poison Control line, and a weekday Drug Information Line for BC health professionals","poison control, drug information line, overdose, toxicology",BC,yes
-Other Advice Lines,,,,Ontario Poison Centre,https://www.ontariopoisoncentre.ca/,,,,24 hours; 1-800-268-9017,poison control Ontario,ON,yes
-Other Advice Lines,,,,First Nations Health Authority - Virtual Substance Use and Psychiatry Service,https://fnha.ca/services-and-support/access-and-support/health-and-virtual-services/virtual-substance-use-and-psychiatry-service,,,,"referral service for First Nations people and their families in BC; NPs can refer, and can call for advice on complex clients","FNHA, First Nations psychiatry, virtual addiction",BC,yes
-eConsults,,,,RACE - eCASE,https://www.raceconnect.ca/ecase,,,,"non-urgent written questions to a specialist through a secure web platform, with a reply within seven days; for medication questions, test and image interpretation, and interim plans while waiting for a referral","eConsult, electronic consultation, dr2dr",BC,yes
-Finding a Specialist or Service,,,,Pathways BC,https://pathwaysbc.ca/,,,,"login; referral information for specialists and clinics across BC, with wait times and areas of expertise","referral directory, specialist wait times",BC,yes
-Finding a Specialist or Service,,,1,Pathways Medical Care Directory (public),https://pathwaysmedicalcare.ca/,,,,,,CA,
-Finding a Specialist or Service,,,,Ontario Health - Mental Health and Addictions,https://www.ontariohealth.ca/clinical/mental-health-addictions,2026,,,"Ontario Structured Psychotherapy Program, clinical resources and services",,ON,yes
-Finding a Specialist or Service,,md,,- Pathways BC Enhanced Care Pathways (condition pathways that open without a login) — *see [Pathways BC Enhanced Care Pathways](../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md)*,,,,,,,BC,yes
-Finding a Specialist or Service,,md,,- Condition-specific advice lines and clinics — *see each condition page's Advice and Referral section in [Conditions](../3%20Conditions/index.md)*,,,,,,,,
+heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,,,,BCCNM - Nurse Practitioners: Consultation and Referral,,,,,"when NPs consult or refer, what to include and document, and what NPs do when they receive a consultation or referral","consultation standard, referral standard",BC,yes,bccnm-np-consultation-referral
+Key Sources,,,,CNO - Practice Standard: Nurse Practitioner (PDF),,,,,"Ontario: consultation and referral expectations for NPs; updated July 1, 2026 for the single NP class",Ontario NP standard consultation referral,ON,yes,cno-np-standard
+Key Sources,,,,RACE - Rapid Access to Consultative Expertise,,,,,"phone advice from a specialist, usually within two hours, for BC and Yukon family physicians, nurse practitioners and midwives; some specialties by phone, the rest through RACEapp+","specialist advice, telephone advice, RACE line, RACEapp",BC,yes,race-connect
+Key Sources,,,1,How to use RACE (phone codes and specialty list),,,,,,,,,race-connect-sti
+Key Sources,,,1,RACEapp+ (web version),https://www.raceapp.ca/,,,,,,,,
+Key Sources,,,1,RACE billing information for nurse practitioners,https://www.raceconnect.ca/family-physicians-nurse-practitioners-and-midwives,,,,,,,,
+Key Sources,,,,Ontario eConsult (OTNhub),,,,,"specialist advice for physicians and nurse practitioners, usually without a patient referral",eConsult Ontario OTN,ON,yes,ontario-econsult
+Key Sources,,,1,Sign up for OTNhub,http://otnhub.ca/signup-info,,,,,,,,
+Key Sources,,,,BC Centre on Substance Use - 24/7 Addiction Medicine Clinician Support Line,,,,,"phone advice from an addiction medicine specialist for physicians, nurse practitioners, nurses, midwives and pharmacists, at any hour","addiction medicine line, substance use advice",BC,yes,bccsu-24-7-line
+Rural and Remote Support,,,,RCCbc - Real-Time Virtual Support (RTVS),,,,,"Zoom or phone support for health care providers in rural, remote and Indigenous communities in BC; rural NPs can ask RCCbc for a Zoom account","rural virtual support, Zoom, rural emergency",BC,yes,rccbc-real-time-virtual-support-rtvs
+Rural and Remote Support,,,1,Getting started with RTVS,,,,,,,,,rccbc-rtvs-getting-started
+Rural and Remote Support,,,1,RUDi (emergency),,,,,,,,,rccbc-rtvs-rudi
+Rural and Remote Support,,,1,CHARLiE (pediatrics),,,,,,,,,rccbc-rtvs-charlie
+Rural and Remote Support,,,1,MaBAL (maternity and newborn),,,,,,,,,rccbc-rtvs-mabal
+Rural and Remote Support,,,1,,,,,,,,,,rocci-critical-care-and-internal-medicine
+Rural and Remote Support,,,1,Quick Reply (weekday specialist pathways),,,,,,,,,quick-reply-specialist-pathways-by-appointment
+Rural and Remote Support,,md,,"- [Rural and Remote](../4%20Populations/Rural%20and%20Remote.md) — *patient transfer, travel assistance and rural practice networks*",,,,,,,,,
+Other Advice Lines,,,,Compass - Child and Youth Mental Health and Substance Use Consultation,,,,,"phone consultation for providers caring for children and youth with mental health or substance use concerns, in BC and the Yukon: diagnosis, medication and treatment planning","child psychiatry advice, youth mental health consult",BC,yes,compass-bc
+Other Advice Lines,,,,,,,,,"24-hour Poison Control line, and a weekday Drug Information Line for BC health professionals","poison control, drug information line, overdose, toxicology",BC,yes,bc-drug-and-poison-information-centre
+Other Advice Lines,,,,,,,,,24 hours; 1-800-268-9017,poison control Ontario,ON,yes,ontario-poison-centre
+Other Advice Lines,,,,First Nations Health Authority - Virtual Substance Use and Psychiatry Service,,,,,"referral service for First Nations people and their families in BC; NPs can refer, and can call for advice on complex clients","FNHA, First Nations psychiatry, virtual addiction",BC,yes,first-nations-health-authority-first-nations-virtual-substan
+eConsults,,,,RACE - eCASE,https://www.raceconnect.ca/ecase,,,,"non-urgent written questions to a specialist through a secure web platform, with a reply within seven days; for medication questions, test and image interpretation, and interim plans while waiting for a referral","eConsult, electronic consultation, dr2dr",BC,yes,
+Finding a Specialist or Service,,,,Pathways BC,,,,,"login; referral information for specialists and clinics across BC, with wait times and areas of expertise","referral directory, specialist wait times",BC,yes,pathways-bc
+Finding a Specialist or Service,,,1,Pathways Medical Care Directory (public),https://pathwaysmedicalcare.ca/,,,,,,CA,,
+Finding a Specialist or Service,,,,Ontario Health - Mental Health and Addictions,https://www.ontariohealth.ca/clinical/mental-health-addictions,2026,,,"Ontario Structured Psychotherapy Program, clinical resources and services",,ON,yes,
+Finding a Specialist or Service,,md,,- Pathways BC Enhanced Care Pathways (condition pathways that open without a login) — *see [Pathways BC Enhanced Care Pathways](../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md)*,,,,,,,BC,yes,
+Finding a Specialist or Service,,md,,- Condition-specific advice lines and clinics — *see each condition page's Advice and Referral section in [Conditions](../3%20Conditions/index.md)*,,,,,,,,,
 How to Do It in BC,,md,,"1. Check the [BCCNM consultation and referral standard](https://www.bccnm.ca/NP/PracticeStandards/Pages/ConsultationReferral.aspx) for what a request should include and what to document.
 2. For advice you need today, call [RACE](https://www.raceconnect.ca/use-race); in a rural or remote community, call the matching [RTVS pathway](https://rccbc.ca/initiatives/rtvs/). For substance use, call the [BCCSU 24/7 line](https://www.bccsu.ca/24-7/).
 3. For a non-urgent question, send an [eCASE](https://www.raceconnect.ca/ecase) through RACE.
-4. To refer, find the specialist or clinic, and its wait time, in [Pathways BC](https://pathwaysbc.ca/).",,,,,,,BC,yes
+4. To refer, find the specialist or clinic, and its wait time, in [Pathways BC](https://pathwaysbc.ca/).",,,,,,,BC,yes,
 How to Do It in Ontario,,md,,"1. Check the [CNO Nurse Practitioner practice standard](https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41038_strdrnec.pdf) for what a consultation or referral should include.
 2. For non-urgent specialist questions, send an [eConsult through OTNhub](https://otn.ca/providers/primary-care/econsult/).
-3. For poisonings, call the Ontario Poison Centre at 1-800-268-9017.",,,,,,,ON,yes
-Contacts,,md,,"- **RACE:** 604-696-2131 · toll-free 1-877-696-2131, then the specialty code ([phone codes](https://www.raceconnect.ca/use-race)) · RACE@phc.ca",,,,,,,BC,yes
-Contacts,,md,,- **BCCSU 24/7 Addiction Medicine Clinician Support Line:** 778-945-7619,,,,,,,,
-Contacts,,md,,- **Compass:** 1-855-702-7272,,,,,,,,
-Contacts,,md,,"- **Poison Control (24 hours):** 604-682-5050 · toll-free 1-800-567-8911 · **Drug Information Line for BC health professionals** (weekdays, 9 to 4): 604-707-2787 · toll-free 1-866-298-5909",,,,,,,BC,yes
-Contacts,,md,,"- **BC Provincial Palliative Care Consultation Line (24/7):** 1-877-711-5757, for providers without a local palliative care service (listed on [RACE](https://www.raceconnect.ca/use-race))",,,,,,,BC,yes
-Contacts,,md,,- **RTVS Zoom accounts for rural NPs:** virtual@rtvs-bc.ca,,,,,,,,
-Contacts,,md,,- **Ontario Poison Centre (24 hours):** 1-800-268-9017 · 416-813-5900,,,,,,,ON,yes
+3. For poisonings, call the Ontario Poison Centre at 1-800-268-9017.",,,,,,,ON,yes,
+Contacts,,md,,"- **RACE:** 604-696-2131 · toll-free 1-877-696-2131, then the specialty code ([phone codes](https://www.raceconnect.ca/use-race)) · RACE@phc.ca",,,,,,,BC,yes,
+Contacts,,md,,- **BCCSU 24/7 Addiction Medicine Clinician Support Line:** 778-945-7619,,,,,,,,,
+Contacts,,md,,- **Compass:** 1-855-702-7272,,,,,,,,,
+Contacts,,md,,"- **Poison Control (24 hours):** 604-682-5050 · toll-free 1-800-567-8911 · **Drug Information Line for BC health professionals** (weekdays, 9 to 4): 604-707-2787 · toll-free 1-866-298-5909",,,,,,,BC,yes,
+Contacts,,md,,"- **BC Provincial Palliative Care Consultation Line (24/7):** 1-877-711-5757, for providers without a local palliative care service (listed on [RACE](https://www.raceconnect.ca/use-race))",,,,,,,BC,yes,
+Contacts,,md,,- **RTVS Zoom accounts for rural NPs:** virtual@rtvs-bc.ca,,,,,,,,,
+Contacts,,md,,- **Ontario Poison Centre (24 hours):** 1-800-268-9017 · 416-813-5900,,,,,,,ON,yes,

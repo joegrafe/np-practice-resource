@@ -1,6 +1,6 @@
 # NPPR frontmatter schema
 
-The frontmatter every page in `docs/` carries, taken from the Page standard in NPPR-FRAMEWORK.md. The templates in `03 Resources/Templates` follow it. The `sources` list is the one place each guideline's details are recorded: later build steps read it to draw source blocks, Evidence Packs and the AI text files, so update a source here, not in the page body.
+The frontmatter every page in `docs/` carries, taken from the Page standard in NPPR-FRAMEWORK.md. The templates in `03 Resources/Templates` follow it. A page carries no list of its sources (retired 2026-11-05): each document's details live once in `docs/sources.csv`, the sources registry, and the page's sheet names the document by its id in the `source` column (Sources registry in NPPR-FRAMEWORK.md).
 
 ## Example
 
@@ -49,7 +49,6 @@ sources:
 | `last-reviewed` | Yes | `YYYY-MM-DD` | The date every source on the page was last checked. |
 | `review-due` | Yes | `YYYY-MM-DD` | Usually `last-reviewed` plus one year. Sooner when a guideline update is expected. |
 | `reviewers` | Yes | List of team ids | Who checked the page: each id is a row of the Team sheet, `docs/About/Team.csv` (Joe is `joegrafe`). The page shows their names under its title, linked to their cards on About > Team, and reviewers' cards list the pages that name them. Empty `[]` while in draft. A GitHub account is optional. |
-| `sources` | Yes, except `index` and `about` | List of source entries (below) | List BC sources first, then national, then international. On an Approaches page, one entry for the publisher's index: its items are recorded in the page's CSV list sheet (List sheets in NPPR-FRAMEWORK.md), not here. On a condition page, one entry per guideline, algorithm, pathway and tool the page's list sheet links, kept in step with the sheet: the Evidence Pack is built from these entries. |
 | `aliases` | No | List of text | Other names a reader might search for: abbreviations, drug and brand names, plain words. Added to search only, not shown. Use this or the page's line in `hooks/search_aliases.yml` in nppr-website-config (Search in NPPR-FRAMEWORK.md). |
 | `hide` | No | `[toc]`, `[navigation]`, `[suggest]`, `[report]` | `toc` and `navigation` are Material for MkDocs options; `suggest` hides the Suggest a link card and `report` hides only its GitHub issue button. |
 | `section_nav` | No | `true` · `false` | Shows or hides the section buttons. |
@@ -67,20 +66,24 @@ Population, presenting-symptom and `urgent-care` tags link to the [Browse by Tag
 
 A tag only shows on Browse by Tag once it's in one of that page's `include` lists: add a new population or symptom tag there too.
 
-## Source fields
+## Sources registry (`docs/sources.csv`)
 
-| Field | Required | Values | Notes |
+One row per document, shared by every page (since 2026-11-05). A page sheet row names the document in its `source` column and leaves the cells the registry fills blank; `scripts/check_pages.py` checks both.
+
+| Column | Required | Values | Notes |
 | --- | --- | --- | --- |
-| `id` | Yes | Lowercase slug, unique across the site | Publisher, topic and year, e.g. `htn-canada-2025`. Evidence Packs and the manifest key on it. |
-| `title` | Yes | Text | The source's own title. Quote it if it contains a colon. |
-| `publisher` | Yes | Text | The organization that publishes it, e.g. `BC GPAC`, `Hypertension Canada`. |
-| `jurisdiction` | Yes | A code from `docs/regions.csv` (`BC` · `CA` · `INTL` · `ON` · `AB` ...) | Label international guidance as `INTL`. List provinces and territories first, then `CA`, then `US`, then `INTL`. Write `"ON"` in quotes (YAML reads a bare `ON` as true). |
-| `kind` | Yes | `guideline` · `algorithm` · `pathway` · `summary` · `tool` · `patient` | |
-| `version` | When the publisher gives one | Text, quoted | Year or edition as the publisher states it, e.g. `"2025"`, `"v3.1"`. |
+| `id` | Yes | Lowercase slug, unique | Publisher, topic and year, e.g. `bc-gpac-asthma`, `htn-canada-2025`. |
+| `title` | Yes | Text | The document's own title. A page row may give its own title instead. |
+| `publisher` | No | Text | The organization that publishes it, e.g. `BC GPAC`, `Hypertension Canada`. |
 | `url` | `url` or `pdf` | Publisher's web page | |
 | `pdf` | `url` or `pdf` | Publisher's own PDF link | Link only. Never upload or host a copy. |
-| `checked` | Yes | `YYYY-MM-DD` | The date the link and version were last confirmed. |
-| `supersedes` | No | The `id` of an older source, or `null` | Keeps superseded versions visible in the Evidence Pack. |
+| `year` | No | Text starting with a 4-digit year | The year shown beside the document on every page: `2023`, `2016, reaffirmed 2024`. |
+| `version` | No | Text | Edition as the publisher states it (`v3.1`), when the year is not enough. |
+| `region` | Yes | A code from `docs/regions.csv` (`BC` · `CA` · `INTL` · `ON` · `AB` ...) | The jurisdiction its content is written for, not the publisher's address. |
+| `kind` | No | `guideline` · `algorithm` · `pathway` · `summary` · `tool` · `patient` | |
+| `checked` | No | `YYYY-MM-DD` | The date the link and version were last confirmed. |
+| `supersedes` | No | The `id` of the older version | Superseded versions never appear on a page. |
+| `keywords` | No | Text | Extra search words. |
 
 ## Body systems
 

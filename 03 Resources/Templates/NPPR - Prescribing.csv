@@ -1,8 +1,8 @@
-heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only
-,,md,,*One or two sentences on what this page helps an NP check when prescribing.*,,,,,,,,
-Key Sources,,,,Publisher - Reference,https://,Year,,,what it covers; subscription,,CA,
-Key Sources,,,1,"Sub-link, e.g. PDF or table of contents",https://,,,,,,,
-Topic Heading,,,,Publisher - Reference,https://,Year,PDF URL,,what it covers,,BC,
-Topic Heading,,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,
-Topic Heading,,,1,"Drug name (last updated Month D, YYYY)",https://,,,,,,,
-NP Prescribing Notes,,md,,"- NP prescribing limits, controlled drugs, PharmaNet and PRIME — *on [Prescribing Authority](../6%20Practice/Prescribing%20Authority.md)*",,,,,,,,
+heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,,md,,*One or two sentences on what this page helps an NP check when prescribing.*,,,,,,,,,
+Key Sources,,,,Publisher - Reference,https://,Year,,,what it covers; subscription,,CA,,
+Key Sources,,,1,"Sub-link, e.g. PDF or table of contents",https://,,,,,,,,
+Topic Heading,,,,Publisher - Reference,https://,Year,PDF URL,,what it covers,,BC,,
+Topic Heading,,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,,
+Topic Heading,,,1,"Drug name (last updated Month D, YYYY)",https://,,,,,,,,
+NP Prescribing Notes,,md,,"- NP prescribing limits, controlled drugs, PharmaNet and PRIME — *on [Prescribing Authority](../6%20Practice/Prescribing%20Authority.md)*",,,,,,,,,
