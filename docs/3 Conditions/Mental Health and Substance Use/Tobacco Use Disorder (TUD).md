@@ -3,7 +3,7 @@ title: Tobacco Use Disorder (TUD)
 type: condition
 system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, tobacco-use-disorder, smoking-cessation, vaping, substance-use, addiction, adolescents, pregnancy, indigenous-health]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [TUD, smoking, smoking cessation, quit smoking, stop smoking, tobacco, cigarettes, nicotine, nicotine dependence, nicotine addiction, vaping, vape, e-cigarettes, e-cigs, vaping cessation, chewing tobacco, smokeless tobacco, NRT, nicotine replacement therapy, nicotine patch, nicotine gum, nicotine lozenge, nicotine inhaler, nicotine mouth spray, varenicline, Champix, bupropion, Zyban, cytisine, 5 As, 5As, brief intervention, QuitNow, Smoking Cessation Program, free NRT]
 status: published
 last-reviewed: 2026-11-02

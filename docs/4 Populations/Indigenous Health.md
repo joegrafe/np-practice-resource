@@ -2,7 +2,7 @@
 title: Indigenous Health
 type: population
 tags: [population, indigenous-health, cultural-safety]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02

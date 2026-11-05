@@ -2,7 +2,7 @@
 title: Rural and Remote
 type: population
 tags: [population, rural-remote, rural, remote]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02

@@ -3,7 +3,7 @@ title: Sodium Disorders
 type: condition
 system: endocrine-metabolic
 tags: [condition, endocrine-metabolic, electrolytes, sodium]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [hyponatremia, hyponatraemia, low sodium, hypernatremia, hypernatraemia, high sodium, sodium, Na, SIADH, syndrome of inappropriate antidiuretic hormone, osmotic demyelination, free water deficit, corrected sodium, thiazide hyponatremia, beer potomania, electrolyte disorders]
 status: published
 last-reviewed: 2026-10-30

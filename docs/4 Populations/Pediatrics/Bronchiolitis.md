@@ -2,7 +2,7 @@
 title: Bronchiolitis
 type: population
 tags: [population, pediatrics, bronchiolitis, respiratory, urgent-care, rural-remote, wheeze-and-stridor, cough, dyspnea]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [bronchiolitis, RSV, respiratory syncytial virus, RSV bronchiolitis, wheezy infant, infant wheeze, happy wheezer, nirsevimab, Beyfortus, RSV prevention, RSV immunization, palivizumab, Synagis, Less is Best]
 status: published
 last-reviewed: 2026-11-02

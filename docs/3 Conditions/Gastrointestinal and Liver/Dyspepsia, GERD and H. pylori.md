@@ -3,7 +3,7 @@ title: "Dyspepsia, GERD and H. pylori"
 type: condition
 system: gastrointestinal-liver
 tags: [condition, gastrointestinal-liver, dyspepsia, gerd, helicobacter-pylori, peptic-ulcer, proton-pump-inhibitors, dyspepsia-and-heartburn, pediatrics]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [GERD, GORD, gastroesophageal reflux disease, gastro-oesophageal reflux, acid reflux, reflux, heartburn, indigestion, dyspepsia, functional dyspepsia, upset stomach, epigastric pain, H. pylori, H pylori, Helicobacter pylori, Helicobacter, peptic ulcer, PUD, stomach ulcer, duodenal ulcer, gastritis, esophagitis, "Barrett's esophagus", urea breath test, UBT, stool antigen test, PPI, proton pump inhibitor, pantoprazole, Tecta, Pantoloc, omeprazole, Losec, esomeprazole, Nexium, lansoprazole, rabeprazole, dexlansoprazole, famotidine, H2 blocker, PPI deprescribing, bismuth quadruple therapy, Toronto Consensus, gastroscopy, endoscopy, alarm features]
 status: published
 last-reviewed: 2026-11-03

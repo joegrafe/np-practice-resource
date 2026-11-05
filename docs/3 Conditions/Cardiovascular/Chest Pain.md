@@ -3,7 +3,7 @@ title: Chest Pain
 type: condition
 system: cardiovascular
 tags: [condition, cardiovascular, chest-pain, urgent-care, rural-remote]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [chest pain, chest discomfort, chest tightness, angina, stable angina, unstable angina, acute coronary syndrome, ACS, heart attack, myocardial infarction, MI, NSTEMI, STEMI, troponin, pleuritic chest pain, pulmonary embolism, PE, costochondritis, chest wall pain, HEART score, Marburg Heart Score, Wells score, PERC, stable ischemic heart disease, chronic coronary syndrome]
 status: published
 last-reviewed: 2026-10-30

@@ -2,7 +2,7 @@
 title: Older Adults
 type: population
 tags: [population, older-adults, geriatrics]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 status: published
 last-reviewed: 2026-11-01
 review-due: 2027-11-01

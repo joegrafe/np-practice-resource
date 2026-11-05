@@ -186,7 +186,7 @@ The templates in 03 Resources/Templates map onto these types, one Markdown templ
 
 ## Source map
 
-Before writing or reviewing any page, check every site in the "All topics" row and in the row for that page's system or population. Search in the order the columns run: BC, then Canadian, then calculators, then patient resources. Use American or international sources only where no BC or Canadian source covers the question, and label them as such. For approaches and condition pages, AAFP (aafp.org) is the first international source to check, using only articles that are free to read; then USPSTF, NICE, Cochrane and TRIP. Where Alberta's Pathway Hub (primarycarealberta.ca) has a pathway for a condition, link it and leave out Specialist Link's Calgary pathway for the same condition, which repeats it. Add a site to this table whenever a new one proves useful. The BC column is the default region's; when a page is swept for another region (Ontario first, per the province switch plan), that region's sources go on the same sheet with their own `region` code, and the region's sites get their own column in this table or the wave plan that opens it. From build wave 17 on, a new page is swept for Ontario sources too, from the [Ontario source map](https://claude.ai/artifact/BTnDWXvMS8aEHuDWR2JzQb) (Joe, 2026-11-05).
+Before writing or reviewing any page, check every site in the "All topics" row and in the row for that page's system or population. A site on the map, or any other promising source, that will not open from the build environment goes on `UNOPENED-SOURCES.csv` (Before every pull request, item 3) rather than being skipped. Search in the order the columns run: BC, then Canadian, then calculators, then patient resources. Use American or international sources only where no BC or Canadian source covers the question, and label them as such. For approaches and condition pages, AAFP (aafp.org) is the first international source to check, using only articles that are free to read; then USPSTF, NICE, Cochrane and TRIP. Where Alberta's Pathway Hub (primarycarealberta.ca) has a pathway for a condition, link it and leave out Specialist Link's Calgary pathway for the same condition, which repeats it. Add a site to this table whenever a new one proves useful. The BC column is the default region's; when a page is swept for another region (Ontario first, per the province switch plan), that region's sources go on the same sheet with their own `region` code, and the region's sites get their own column in this table or the wave plan that opens it. From build wave 17 on, a new page is swept for Ontario sources too, from the [Ontario source map](https://claude.ai/artifact/BTnDWXvMS8aEHuDWR2JzQb) (Joe, 2026-11-05).
 
 | System or topic | BC | Canadian | Calculators and tools | Patient resources |
 | --- | --- | --- | --- | --- |
@@ -494,7 +494,7 @@ What the checks run for you (they must be green, and a failing check is fixed in
 
 1. **Page checks:** `python3 scripts/check_pages.py docs` in np-practice-resource, 0 errors (frontmatter, review dates, sheet columns, region codes, the sources registry and `source` ids).
 2. **Test build and search check:** `scripts/test-build.sh` then `node scripts/search-check.js` in nppr-website-config, every line passing. Show the result in the PR.
-3. **New links:** `scripts/check_links.py --added` in the PR checks; a site that blocks automated checks is opened by hand and said so in the PR.
+3. **New links:** `scripts/check_links.py --added` in the PR checks; a site that blocks automated checks is opened by hand and said so in the PR. A promising source the build environment could not open at all (proxy denial, site-side block, 403 or 503, empty page, unreadable PDF, page not found) gets a row in `UNOPENED-SOURCES.csv` at the vault root (date, site, url, the page it was wanted for, what happened, the action to take) and is named in the PR, never dropped silently (Joe, 2026-11-05). The list is the queue for Joe's hand checks and for domains to add to the cloud environment's allowed list, which holds about 400 entries; a row is marked `done` once the source is linked or ruled out.
 
 What only the builder can check:
 
@@ -507,6 +507,16 @@ What only the builder can check:
 10. **PR.** A draft PR with a screenshot or preview of each changed page (saved under /mnt/project-files/ when the thread's attachment limit is reached), the Before/After/How summary, and the paired PR in the other repository named, with the merge order (content first, then re-run the config build, then config). Joe's "merge" or "publish" comes before anything is merged or a page's status changes.
 
 A PR that adds or changes a rule in NPPR-FRAMEWORK.md or CLAUDE.md adds its check to scripts/check_pages.py in the same PR, as a warning until every page passes it, or, where a script can't judge it, a line in the builder checks above, so pages never need a full audit again to catch up with a rule (Joe, 2026-11-05).
+
+## Cloud environments
+
+The cloud environment's Allowed domains setting holds about 400 entries, so the sites NPPR links are kept as three lists in `environments/` (`environment-core.txt`, `environment-1.txt`, `environment-2.txt`, `domains.csv` with every domain's environment, regenerated by `scripts/environment_lists.py`). Before a wave or thread starts, name the environment it needs so Joe can switch to it:
+
+- **Core (the default):** every linked domain in order of link count, whatever its region, plus the journal sites and the unopened-source candidates, filled to the cap. Stay on Core unless a wave needs a site it lacks.
+- **Environment 1 (BC, Alberta, Canada):** BC and national waves on existing pages, link checks and audits, site and config work.
+- **Environment 2 (Ontario, international, pediatric):** new condition pages from wave 17 on (Ontario and AAFP sweep), Ontario waves, international and pediatric sweeps, re-checks of `UNOPENED-SOURCES.csv` rows. It carries the 40 most-linked Canadian sites and the journal sites too.
+
+A site missing from the active environment goes in `UNOPENED-SOURCES.csv` with action `allowlist: environment N`; the build does not switch mid-wave. Rerun the script after a wave that adds sources and say in the PR when a list changed.
 
 ## Where to run each step
 

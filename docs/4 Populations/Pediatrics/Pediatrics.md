@@ -3,7 +3,7 @@ title: Pediatrics
 type: population
 tags: [population, pediatrics, adolescents, urgent-care]
 redirect_from: [populations/canadian-paediatric-society, populations/rourke-baby-record]  # stubs folded in 2026-10-29
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29

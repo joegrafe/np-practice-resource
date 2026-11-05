@@ -3,7 +3,7 @@ title: Atrial Fibrillation and Anticoagulation
 type: condition
 system: cardiovascular
 tags: [condition, cardiovascular, atrial-fibrillation, afib, anticoagulation, doac, warfarin, palpitations]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09

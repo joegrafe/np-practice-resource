@@ -3,7 +3,7 @@ title: Calcium Disorders
 type: condition
 system: endocrine-metabolic
 tags: [condition, endocrine-metabolic, electrolytes, calcium, parathyroid]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [hypercalcemia, hypercalcaemia, high calcium, hypocalcemia, hypocalcaemia, low calcium, calcium, hyperparathyroidism, primary hyperparathyroidism, PHPT, hypoparathyroidism, parathyroid, PTH, parathyroid hormone, corrected calcium, ionized calcium, vitamin D, electrolyte disorders]
 status: published
 last-reviewed: 2026-10-30

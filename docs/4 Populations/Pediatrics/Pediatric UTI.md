@@ -2,7 +2,7 @@
 title: Pediatric UTI
 type: population
 tags: [population, pediatrics, uti, renal-genitourinary, fever, rural-remote, dysuria-and-urinary-symptoms]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-10-16
 review-due: 2027-10-16

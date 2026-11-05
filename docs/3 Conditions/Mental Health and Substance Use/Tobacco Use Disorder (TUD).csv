@@ -16,6 +16,7 @@ Further Resources,,1,Frequently Asked Questions: Quitting Commercial Tobacco,htt
 Further Resources,box,,CAMH (INTREPID Lab) - Vaping Cessation Guidance Resource,,,,,Centre for Addiction and Mental Health; linked from the BC Guideline,vaping cessation e-cigarette quit vaping,CA,,camh-vaping-cessation
 Further Resources,box,,CFPCLearn - Tools for Practice #401: Vape Expectations: Are electronic cigarettes the real deal for smoking cessation? (Update),,,,,evidence summary on e-cigarettes for quitting smoking,e-cigarettes vaping,CA,,tfp-401-2025
 Further Resources,box,,AAFP - Medications for Smoking Cessation: Guidelines from the American Thoracic Society,,,,,"International source: US guidance, not Canadian.",varenicline ATS,INTL,,aafp-ats-smoking-2021
+Further Resources,,,CAMH - Smoking Cessation (Primary Care Addiction Toolkit),,,,,"Ontario primary care guide: screening, assessment, nicotine replacement and other medications, and specific populations",CAMH smoking cessation,ON,,camh-smoking-cessation-guide
 Algorithms and Pathways,,,Pathways BC - Tobacco Use Disorder: Cessation Algorithm and Medication Table,,,,,BC Guidelines enhanced care pathway,smoking cessation algorithm,BC,yes,pathwaysbc-tud-algorithm-2025
 Algorithms and Pathways,,,Alberta's Pathway Hub - Tobacco and Nicotine Dependence,,,,,Primary Care Alberta pathway,Alberta smoking pathway,AB,,primarycarealberta-tobacco-2026
 Assessment Tools and Calculators,,,Canadian Task Force on Preventive Health Care - Tobacco Smoking in Adults: Patient-Clinician Discussion Tool,,,,,shared decision-making on quitting options,decision aid smoking,CA,,ctfphc-tobacco-discussion-tool-2025
@@ -27,7 +28,9 @@ Prescribing,,,First Nations Health Authority - Coverage for Products to Quit the
 Prescribing,,,RxFiles - Drug Comparison Charts: Smoking Cessation,,,,,smoking cessation medicines compared; the chart needs an RxFiles subscription,RxFiles smoking chart,CA,,rxfiles-smoking-cessation-chart
 Prescribing,box,,PharmaCare Special Authority: criteria,,,,,varenicline needs no Special Authority when given through the Smoking Cessation Program,,BC,yes,
 Prescribing,,1,"Varenicline (last updated March 24, 2025)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-varenicline,,,,,Champix,,,
+Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Quitting Smoking,,,,,,,BC,,healthlinkbc-quitting-smoking
 Patient Resources,,,,,,,,"free phone, live chat, text and email quit coaching for BC residents, from the BC Lung Foundation",quit smoking quit vaping coaching,BC,,quitnow-bc
 Patient Resources,,,BC Government - Get help quitting tobacco (BC Smoking Cessation Program),,,,,how to get free nicotine replacement products and prescription coverage,free NRT patients,BC,yes,bc-smoking-cessation-program-public

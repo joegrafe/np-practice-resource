@@ -2,7 +2,7 @@
 title: Croup
 type: population
 tags: [population, pediatrics, croup, respiratory, urgent-care, rural-remote, wheeze-and-stridor, cough]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [croup, laryngotracheobronchitis, barky cough, barking cough, seal cough, stridor, croup children, dexamethasone croup, racemic epinephrine, nebulized epinephrine, Westley croup score]
 status: published
 last-reviewed: 2026-11-02
