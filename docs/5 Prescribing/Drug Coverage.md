@@ -8,7 +8,7 @@ last-reviewed: 2026-10-27
 review-due: 2027-10-27
 reviewers: [joegrafe]
 aliases: [ODB, Ontario Drug Benefit, e-Formulary, Exceptional Access Program, EAP, SADIE, Limited Use, LU code, Trillium Drug Program, OHIP+, Seniors Co-Payment]
-description: "BC PharmaCare for prescribers: Special Authority, Formulary Search, coverage plans and the programs that decide what a prescription costs the patient."
+description: "Provincial drug coverage for prescribers: formularies, special authority and exceptional access requests, coverage plans and the programs that decide what a prescription costs the patient."
 sources:
   # BC
   - id: bc-pharmacare-health-professionals
@@ -150,7 +150,7 @@ sources:
      Practice: Forms and Population pages link here. Drug-specific coverage criteria stay on each condition page.
      The old Limited Coverage Drug Program page now redirects to Special Authority (checked 2026-10-27).
      PharmaNet and PRIME enrolment are Practice: Prescribing authority topics. -->
-*How BC PharmaCare covers what you prescribe: Formulary Search, Special Authority, coverage plans and the programs that set what a prescription costs the patient. Coverage criteria for a specific drug are on its condition page.*
+*How your provincial drug plan covers what you prescribe: formulary search, special authority and exceptional access requests, coverage plans and the programs that set what a prescription costs the patient. Coverage criteria for a specific drug are on its condition page.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. Special Authority"></div>
 

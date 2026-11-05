@@ -8,7 +8,7 @@ status: published
 last-reviewed: 2026-10-30
 review-due: 2027-04-30  # 6 months: AI tools and scribe programs change fast (Tools plan)
 reviewers: [joegrafe]
-description: "AI scribes in BC NP practice: OIPC BC privacy guidance, patient consent, BC health authority scribe programs and the Infoway AI Scribe Program, with patient handouts."
+description: "AI scribes in NP practice: privacy commissioner guidance, patient consent, health authority scribe programs and the Infoway AI Scribe Program, with patient handouts."
 sources:
   - id: oipc-bc-pipa-ai-scribes-best-practices-2026
     title: "PIPA and AI Scribes: Best Practices for Healthcare Organizations in BC"
@@ -129,6 +129,6 @@ sources:
      Not found: OIPC guidance for public bodies under FIPPA (in preparation); Fraser Health, Vancouver Coastal Health and PHSA scribe pages; a HealthLink BC patient page.
      Left out: RCCbc's rural AI scribe funding (physicians only, closed); vendor blogs.
      Link to the source guidance; don't restate its recommendations. -->
-*Using an ambient AI scribe in BC: the privacy law that applies (PIPA in private clinics, FIPPA in health authority settings), patient consent, the provincial and national scribe programs open to NPs, and patient handouts.*
+*Using an ambient AI scribe: the privacy law that applies in private clinics and in health authority settings, patient consent, the provincial and national scribe programs open to NPs, and patient handouts.*
 
 <!-- nppr-list: AI Scribes, Consent and Privacy.csv style=condition -->

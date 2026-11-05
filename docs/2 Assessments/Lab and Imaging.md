@@ -8,7 +8,7 @@ status: published
 last-reviewed: 2026-10-27
 review-due: 2027-10-27
 reviewers: [joegrafe]
-description: "BC Guidelines and Canadian sources on when to order and how to interpret common lab tests and diagnostic imaging in primary care, with ECG and spirometry interpretation guides."
+description: "Provincial guidelines and Canadian sources on when to order and how to interpret common lab tests and diagnostic imaging in primary care, with ECG and spirometry interpretation guides."
 sources:
   - id: bc-gpac-iron-deficiency-2019
     title: "BC Guidelines: Iron Deficiency - Diagnosis and Management"

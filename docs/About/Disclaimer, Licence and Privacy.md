@@ -20,7 +20,7 @@ NPPR is a reference index for licensed clinicians and students working under sup
 - NPPR links to guidance written by other organizations. It doesn't give clinical recommendations of its own, and it doesn't replace your clinical judgement or the source document.
 - Always read the linked source. A source can change after the page's last review, and the publisher's current version is the one that counts.
 - If you use an AI tool, check its answer against the cited source before acting on it.
-- Practise within your scope and your regulator's standards: in BC, the [BCCNM standards for nurse practitioners](https://www.bccnm.ca/NP/PracticeStandards/Pages/Default.aspx).
+- Practise within your scope and your regulator's standards, such as the [BCCNM standards for nurse practitioners](https://www.bccnm.ca/NP/PracticeStandards/Pages/Default.aspx).
 
 ## Licence
 

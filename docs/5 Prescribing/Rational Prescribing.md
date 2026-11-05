@@ -7,7 +7,7 @@ status: published
 last-reviewed: 2026-10-27
 review-due: 2027-10-27
 reviewers: [joegrafe]
-description: "Published frameworks for working through a prescribing decision, and where to check each step in BC."
+description: "Published frameworks for working through a prescribing decision, and where to check each step in your province."
 sources:
   # BC
   - id: ti-therapeutics-letter
@@ -99,7 +99,7 @@ sources:
      Not opened from the build container (host not reachable there): decisionaid.ohri.ca (URL from search results).
      The WHO guide's PDF download would not load; the IRIS record page links it.
      NP prescribing rules live on Practice: Prescribing Authority, linked below. -->
-*NPPR links published prescribing frameworks rather than writing its own algorithm. The table maps each step of a prescribing decision to the BC or Canadian source that checks it and the NPPR page that holds it.*
+*NPPR links published prescribing frameworks rather than writing its own algorithm. The table maps each step of a prescribing decision to the provincial or Canadian source that checks it and the NPPR page that holds it.*
 
 <!-- Every section below the intro lives in Rational Prescribing.csv beside this page, one row per line; the site build writes it in here.
      Edit the sheet, not this page. -->

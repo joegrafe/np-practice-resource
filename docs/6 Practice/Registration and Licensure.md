@@ -8,7 +8,7 @@ last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
 aliases: [CNO, College of Nurses of Ontario, Extended Class, jurisprudence exam, QA Every Day]
-description: "Getting and keeping a BC nurse practitioner licence: BCCNM applications, exams, annual renewal and Quality Assurance, liability protection through CNPS, and the MSP practitioner number."
+description: "Getting and keeping a nurse practitioner licence: the regulator's applications, exams, annual renewal and quality assurance, liability protection through CNPS, and the provincial billing or practitioner number."
 sources:
   # BC
   - id: bccnm-np-applications-registration
@@ -99,7 +99,7 @@ sources:
      PharmaNet and PRIME enrolment live on Prescribing Authority; scope and the 2026 general NP class on
      Scope of Practice and Standards. NNPBC's NP-PIP licence fee reimbursement policy PDFs returned 404 on
      2026-10-29, so it is described on Practice Models and Compensation through the NP-PIP page only. -->
-*Getting and keeping a BC nurse practitioner licence: BCCNM applications and exams, annual renewal and Quality Assurance, liability protection, and the MSP practitioner number.*
+*Getting and keeping a nurse practitioner licence: the regulator's applications and exams, annual renewal and quality assurance, liability protection, and the provincial billing or practitioner number.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. renewal"></div>
 

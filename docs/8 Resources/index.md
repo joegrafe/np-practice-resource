@@ -8,7 +8,7 @@ status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
 reviewers: [joegrafe]
-description: "Where to look when a topic isn't on NPPR yet: BC Guidelines, the Canadian Task Force, specialty-society guideline libraries, PEER and Tools for Practice, then Trip."
+description: "Where to look when a topic isn't on NPPR yet: provincial guidelines, the Canadian Task Force, specialty-society guideline libraries, PEER and Tools for Practice, then Trip."
 ---
 <!-- Section buttons are added automatically by the website build on top-level section pages.
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
@@ -18,7 +18,7 @@ description: "Where to look when a topic isn't on NPPR yet: BC Guidelines, the C
 
 ## Not on NPPR Yet?
 
-Where to look, in this order, for the current source behind an answer when a topic isn't on NPPR yet. It is a list of places to check, BC first, not clinical advice.
+Where to look, in this order, for the current source behind an answer when a topic isn't on NPPR yet. It is a list of places to check, your province first, not clinical advice.
 
 1. [BC Guidelines (A to Z)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/guidelines-by-alphabetical-listing) — *BC's guideline for the topic, with its year*
 2. [Canadian Task Force on Preventive Health Care](https://canadiantaskforce.ca/guidelines/published-guidelines/) — *screening and prevention*
@@ -27,6 +27,6 @@ Where to look, in this order, for the current source behind an answer when a top
 5. [Trip Medical Database](https://www.tripdatabase.com/) — *searches guidelines and systematic reviews at once; international*
 
 ## In This Section
-- [Guideline Directories](Guideline%20Directories.md) — *BC Guidelines, BCCDC and other BC collections, the Canadian Task Force, CFPC and specialty-society guideline libraries, then NICE and USPSTF*
+- [Guideline Directories](Guideline%20Directories.md) — *provincial guideline series, the Canadian Task Force, CFPC and specialty-society guideline libraries, then NICE and USPSTF*
 - [Evidence Summaries and Journals](Evidence%20Summaries%20and%20Journals.md) — *PEER, Tools for Practice, Choosing Wisely Canada and CDA-AMC; the BCMJ, CFP and CMAJ; Trip, Cochrane and PubMed*
 - [BC Library Guides](BC%20Library%20Guides.md) — *university library guides for NPs; rebuilt as Libraries and Databases in the next Resources wave*

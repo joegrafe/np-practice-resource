@@ -1,6 +1,6 @@
 ---
 title: About NPPR
-description: "NPPR.ca links primary and urgent care nurse practitioners in BC and Canada to current, high-yield sources for each step of a visit."
+description: "NPPR.ca links primary and urgent care nurse practitioners across Canada to current, high-yield sources for each step of a visit, with the sources for the province they pick."
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
@@ -11,11 +11,11 @@ reviewers: [joegrafe]
 redirect_from: [about/nppr-forum]
 ---
 
-*NPPR links primary care and urgent care nurse practitioners in BC and Canada to high-yield, current sources for each step of a visit, so you can check what an AI tool tells you against the source itself.*
+*NPPR links primary care and urgent care nurse practitioners across Canada to high-yield, current sources for each step of a visit, so you can check what an AI tool tells you against the source itself.*
 
 ## Who it's for
 
-Primary care and urgent care nurse practitioners and NP students in British Columbia and across Canada. Other clinicians are welcome to use it.
+Primary care and urgent care nurse practitioners and NP students across Canada. Pick your province in the header to see its sources first; British Columbia is the default. Other clinicians are welcome to use it.
 
 ## How to use it
 
@@ -35,7 +35,7 @@ Each tab matches a step of the appointment.
 ## What NPPR is, and isn't
 
 - **An index, not a guideline.** NPPR doesn't write its own clinical recommendations. Every entry links to the publisher's own page or PDF, with its year.
-- **BC first.** BC sources come first, then national Canadian sources, then international guidance, labelled as such.
+- **Your province first.** Your province's sources come first, then national Canadian sources, then international guidance, labelled as such.
 - **Dated.** Every page shows when it was last reviewed and when its next review is due.
 - **Free and open.** No login, no ads and no analytics. Every change is public on [GitHub](https://github.com/joegrafe/np-practice-resource).
 - **For clinicians, not patients.** Read the [disclaimer](Disclaimer%2C%20Licence%20and%20Privacy.md).

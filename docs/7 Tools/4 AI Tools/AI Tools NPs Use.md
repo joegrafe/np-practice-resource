@@ -8,7 +8,7 @@ status: published
 last-reviewed: 2026-10-30
 review-due: 2027-04-30  # 6 months: AI tools and scribe programs change fast (Tools plan)
 reviewers: [joegrafe]
-description: "AI tools approved for use by a BC health authority or funded by Canada Health Infoway, with where each keeps its data, plus NPPR's own files for AI assistants."
+description: "AI tools approved for use by a health authority or funded by Canada Health Infoway, with where each keeps its data, plus NPPR's own files for AI assistants."
 sources:
   - id: nh-setting-up-autochart-ai-use-2026
     title: "Setting up Autochart.ai for use in Northern Health"
@@ -82,6 +82,6 @@ sources:
      Northern Health's approval memo is dated March 4, 2025 in the PDF but listed as March 4, 2026 on its page; 2026 fits its content (the self-pay program began December 2025).
      Not listed: Heidi Evidence and other decision-support tools (no BC health authority approval found; Northern Health's approval excludes decision support); the NNPBC member discount (vendor blog only).
      Link to the source guidance; don't restate its recommendations. -->
-*A factual list, not a ranking: AI tools approved for use by a BC health authority or funded by Canada Health Infoway, in alphabetical order, each linked to the approving health authority's setup guide, which says where the tool keeps its data. An approval covers only the features the health authority assessed (see Northern Health's list below).*
+*A factual list, not a ranking: AI tools approved for use by a health authority or funded by Canada Health Infoway, in alphabetical order, each linked to the approving health authority's setup guide, which says where the tool keeps its data. An approval covers only the features the health authority assessed (see Northern Health's list below).*
 
 <!-- nppr-list: AI Tools NPs Use.csv style=condition -->
