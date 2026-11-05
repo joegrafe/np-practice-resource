@@ -106,6 +106,14 @@ sources:
     kind: tool
     url: "https://otn.ca/providers/primary-care/econsult/"
     checked: 2026-11-05
+  - id: cep-heart-failure-2024
+    title: "Heart Failure"
+    publisher: Centre for Effective Practice
+    jurisdiction: "ON"
+    kind: tool
+    version: "2024"
+    url: "https://cep.health/clinical-products/managing-patients-with-heart-failure/"
+    checked: 2026-10-29
   - id: ccs-chfs-hfnref-2025
     title: CCS/CHFS 2025 Guideline Update for Pharmacologic Management of Heart Failure With Nonreduced Ejection Fraction (LVEF > 40%)
     publisher: Canadian Cardiovascular Society / Canadian Heart Failure Society

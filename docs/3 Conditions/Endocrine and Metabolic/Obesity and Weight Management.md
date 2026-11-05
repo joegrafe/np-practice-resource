@@ -5,6 +5,7 @@ system: endocrine-metabolic
 tags: [condition, endocrine-metabolic, obesity, weight-management, glp-1, bariatric-surgery, pediatrics, adolescents, pregnancy, weight-gain-and-obesity]
 jurisdiction:
   - BC
+  - "ON"
   - CA
   - INTL
 status: published
@@ -152,6 +153,14 @@ sources:
     version:
     url: "https://keltymentalhealth.ca/body-image-eating-disorders"
     checked: 2026-10-28
+  - id: cep-pharmacotherapy-for-obesity-management-2025
+    title: "Pharmacotherapy for Obesity Management"
+    publisher: Centre for Effective Practice
+    jurisdiction: "ON"
+    kind: tool
+    version: "2025"
+    url: "https://cep.health/clinical-products/pharmacotherapy-for-obesity-management/"
+    checked: 2026-10-29
   - id: obesity-canada-adult-cpg
     title: Canadian Adult Obesity Clinical Practice Guideline
     publisher: Obesity Canada and Canadian Association of Bariatric Physicians and Surgeons

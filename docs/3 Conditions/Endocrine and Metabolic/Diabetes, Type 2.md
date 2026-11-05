@@ -281,6 +281,14 @@ sources:
     version: "2026"
     url: "https://www.ontario.ca/page/exceptional-access-program"
     checked: 2026-11-05
+  - id: cep-type-2-diabetes-2023
+    title: "Type 2 Diabetes"
+    publisher: Centre for Effective Practice
+    jurisdiction: "ON"
+    kind: tool
+    version: "2023"
+    url: "https://cep.health/clinical-products/type-2-diabetes/"
+    checked: 2026-10-29
   - id: diabetes-canada-cpg
     title: Diabetes Canada Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada
     publisher: Diabetes Canada

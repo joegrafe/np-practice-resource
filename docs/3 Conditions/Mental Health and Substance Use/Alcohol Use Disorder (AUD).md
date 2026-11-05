@@ -84,6 +84,14 @@ sources:
     kind: tool
     url: "https://otn.ca/providers/primary-care/econsult/"
     checked: 2026-11-05
+  - id: cep-alcohol-use-disorder-2019
+    title: "Alcohol Use Disorder"
+    publisher: Centre for Effective Practice
+    jurisdiction: "ON"
+    kind: tool
+    version: "2019"
+    url: "https://cep.health/clinical-products/alcohol-use-disorder/"
+    checked: 2026-10-29
   - id: crism-aud-2023
     title: Canadian guideline for the clinical management of high-risk drinking and alcohol use disorder
     publisher: Canadian Research Initiative in Substance Matters (CMAJ)

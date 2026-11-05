@@ -5,6 +5,7 @@ system: dermatology
 tags: [condition, dermatology, psoriasis, plaque-psoriasis, psoriatic-arthritis, pediatrics, pregnancy, rash, joint-pain]
 jurisdiction:
   - BC
+  - "ON"
   - CA
   - INTL
 status: published
@@ -181,6 +182,14 @@ sources:
     version:
     url: "https://www.healthlinkbc.ca/healthwise/psoriatic-arthritis-0"
     checked: 2026-10-26
+  - id: cep-psoriasis-2026
+    title: "Psoriasis"
+    publisher: Centre for Effective Practice
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: "https://cep.health/clinical-products/psoriasis/"
+    checked: 2026-10-29
   - id: cdrci-comorbidities-2015
     title: "Evidence-based Recommendations for the Management of Comorbidities in Rheumatoid Arthritis, Psoriasis, and Psoriatic Arthritis: Expert Opinion of the Canadian Dermatology-Rheumatology Comorbidity Initiative"
     publisher: The Journal of Rheumatology

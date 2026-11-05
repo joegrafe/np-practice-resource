@@ -1,8 +1,5 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only
-Key Sources,box,,Ontario Health quality standard - Prediabetes and Type 2 Diabetes: Care for People of All Ages,https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=prediabetes-type-2-diabetes,2021,,,"Ontario quality standard for prediabetes and type 2 diabetes, with a clinician placemat and patient guide",quality standard,ON,yes
-Key Sources,,1,"Quality Standard (PDF, May 2021)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-prediabetes-and-type-2-diabetes-quality-standard-en.pdf,,,,,,,
-Key Sources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-prediabetes-and-type-2-diabetes-placemat-en.pdf,,,,,,,
-Key Sources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-prediabetes-and-type-2-diabetes-patient-guide-en.pdf,,,,,,,
+Key Sources,,,Centre for Effective Practice - Type 2 Diabetes,https://cep.health/clinical-products/type-2-diabetes/,2023,,,"Ontario primary care tool: insulin and non-insulin pharmacotherapy tools, hypoglycemia, insulin pen chart, drug pearls; EMR tool",CEP tool,ON,yes
 Key Sources,note,0,,,,,,Diabetes in pregnancy and in children: see [Pregnancy and Perinatal](../../4%20Populations/Pregnancy%20and%20Perinatal.md) and [Pediatrics](../../4%20Populations/Pediatrics/Pediatrics.md) under Populations.,,,
 Key Sources,box,,"BC Guidelines - Diabetes Care (2021, revised May 2026)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes,,,,,,BC,yes
 Key Sources,,1,Scope,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes#Scope,,,,,,,
@@ -56,6 +53,10 @@ Key Sources,,1,Appendices,https://www.diabetes.ca/for-professionals/appendices,,
 Key Sources,,1,Health-Care Provider Tools,https://www.diabetes.ca/for-professionals/health-care-provider-tools,,,,,,,
 Key Sources,box,,McGill Journal of Medicine - Approach to: Type 2 Diabetes Management,https://mjm.mcgill.ca/article/view/323,2021,,,McGill J Med 19(2).,,CA,
 Further Resources,,,"BC Guidelines - Diabetes Care (2021, revised May 2026)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes,,,,,,BC,other
+Further Resources,box,,Ontario Health quality standard - Prediabetes and Type 2 Diabetes: Care for People of All Ages,https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=prediabetes-type-2-diabetes,2021,,,"Ontario quality standard for prediabetes and type 2 diabetes, with a clinician placemat and patient guide",quality standard,ON,yes
+Further Resources,,1,"Quality Standard (PDF, May 2021)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-prediabetes-and-type-2-diabetes-quality-standard-en.pdf,,,,,,,
+Further Resources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-prediabetes-and-type-2-diabetes-placemat-en.pdf,,,,,,,
+Further Resources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-prediabetes-and-type-2-diabetes-patient-guide-en.pdf,,,,,,,
 Further Resources,box,,Obesity Canada - Canadian Adult Obesity Clinical Practice Guideline (2020; pharmacotherapy chapter updated 2025),https://obesitycanada.ca/healthcare-professionals/adult-clinical-practice-guideline/,,,,With the Canadian Association of Bariatric Physicians and Surgeons.,,CA,
 Further Resources,box,,Canadian Task Force on Preventive Health Care - Type 2 Diabetes,https://canadiantaskforce.ca/guidelines/published-guidelines/type-2-diabetes/,2012,,,Screening for type 2 diabetes in adults. Still listed as a published guideline.,,CA,
 Further Resources,,1,Clinician Summary (PDF),https://canadiantaskforce.ca/wp-content/uploads/2016/06/2012-type-2-diabetes-clinician-summary-en-1.pdf,,,,,,,

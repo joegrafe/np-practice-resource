@@ -249,6 +249,14 @@ sources:
     version: "2026"
     url: "https://www.ontario.ca/page/exceptional-access-program"
     checked: 2026-11-05
+  - id: cep-chronic-obstructive-pulmonary-disease-copd-2024
+    title: "Chronic Obstructive Pulmonary Disease (COPD)"
+    publisher: Centre for Effective Practice
+    jurisdiction: "ON"
+    kind: tool
+    version: "2024"
+    url: "https://cep.health/clinical-products/chronic-obstructive-pulmonary-disease-copd/"
+    checked: 2026-10-29
   - id: cts-copd-pharmacotherapy-2023
     title: 2023 Canadian Thoracic Society Guideline on Pharmacotherapy in Patients with Stable COPD
     publisher: Canadian Thoracic Society

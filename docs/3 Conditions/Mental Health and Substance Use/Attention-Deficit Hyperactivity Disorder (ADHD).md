@@ -3,7 +3,7 @@ title: Attention-Deficit Hyperactivity Disorder (ADHD)
 type: condition
 system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, adhd, pediatrics, adolescents, inattention, hyperactivity]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, CA, "ON"]
 status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
@@ -185,6 +185,14 @@ sources:
     kind: pathway
     version: "2026-05-25"
     url: "https://pathwaysbc.ca/ci/9446"
+    checked: 2026-10-29
+  - id: cep-adhd-in-adults-2025
+    title: "ADHD in Adults"
+    publisher: Centre for Effective Practice
+    jurisdiction: "ON"
+    kind: tool
+    version: "2025"
+    url: "https://cep.health/clinical-products/adhd/"
     checked: 2026-10-29
   - id: caddra-guidelines-4-1
     title: Canadian ADHD Practice Guidelines
