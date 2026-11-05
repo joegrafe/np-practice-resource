@@ -1,0 +1,17 @@
+code,name,country,kind,live
+BC,British Columbia,CA,province,yes
+AB,Alberta,CA,province,no
+SK,Saskatchewan,CA,province,no
+MB,Manitoba,CA,province,no
+ON,Ontario,CA,province,no
+QC,Quebec,CA,province,no
+NB,New Brunswick,CA,province,no
+NS,Nova Scotia,CA,province,no
+PE,Prince Edward Island,CA,province,no
+NL,Newfoundland and Labrador,CA,province,no
+YT,Yukon,CA,territory,no
+NT,Northwest Territories,CA,territory,no
+NU,Nunavut,CA,territory,no
+CA,Canada,CA,national,yes
+US,United States,US,national,no
+INTL,International,,international,yes
