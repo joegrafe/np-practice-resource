@@ -11,22 +11,6 @@ description: "The University of Calgary Blackbook's 353 diagnostic schemes for c
 logo: "https://blackbook.ucalgary.ca/wp-content/uploads/2020/12/blackbook-logo.svg"
 logo-alt: "University of Calgary Blackbook"
 logo-bg: "#111"
-sources:
-  - id: ucalgary-blackbook-web
-    title: "Blackbook: Approaches to Medical Presentations"
-    publisher: University of Calgary, Cumming School of Medicine
-    jurisdiction: CA
-    kind: summary
-    url: "https://blackbook.ucalgary.ca/schemes/"
-    checked: 2026-10-10
-  - id: ucalgary-blackbook-15
-    title: "Blackbook, 15th edition (2022-2023)"
-    publisher: University of Calgary, Cumming School of Medicine
-    jurisdiction: CA
-    kind: summary
-    version: "15th edition, 2022-2023"
-    pdf: "https://blackbook.ucalgary.ca/wp-content/uploads/2022/06/blackbook-15-2022-2023.pdf"
-    checked: 2026-10-10
 ---
 <!-- Scheme list checked against every system page at blackbook.ucalgary.ca/schemes/ on 2026-10-10 (353 schemes, matching the site's counts).
      Link to the schemes; don't copy them. Regenerate the list when the Blackbook adds schemes. -->

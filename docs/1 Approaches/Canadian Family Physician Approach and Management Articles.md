@@ -10,14 +10,6 @@ reviewers: [joegrafe]
 description: "Canadian Family Physician's \"Approach to\" and \"Management of\" clinical reviews from 2010 onward: 114, listed by body system with their year."
 logo: "/assets/logos/cfp.jpg"
 logo-alt: "Canadian Family Physician"
-sources:
-  - id: cfp-approach-to
-    title: "Canadian Family Physician: \"Approach to\" and \"Management of\" clinical reviews"
-    publisher: College of Family Physicians of Canada
-    jurisdiction: CA
-    kind: summary
-    url: "https://www.cfp.ca/"
-    checked: 2026-10-29
 ---
 <!-- List taken from PubMed on 2026-10-29: Canadian Family Physician articles from 2010 onward whose title begins "Approach to",
      leaving out letters and comments and three non-clinical pieces (economic evaluation 2013, publishing 2014, teaching active listening 2025).

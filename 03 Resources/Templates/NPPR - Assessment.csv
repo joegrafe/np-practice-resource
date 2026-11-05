@@ -1,7 +1,7 @@
-heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only
-,,md,,*One sentence on what this page indexes and when an NP opens it.*,,,,,,,,
-Key Sources,,,,Publisher - Source name,https://,,,,what it holds,,BC,
-Key Sources,,,,Publisher - Source name,https://,,,,,,CA,
-System or Topic,Subtopic,,,MDCalc: Rule or Score Name,https://www.mdcalc.com/,,,,what it decides; Used on: [Condition](../3%20Conditions/System/Condition.md),,INTL,
-System or Topic,Subtopic,,,"BC Guidelines - Guideline name, Appendix X",https://www2.gov.bc.ca/,Year,PDF URL,,,,BC,
-Learning Resources,,,,Publisher - Video or page,https://,,,,what it shows,,INTL,
+heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,,md,,*One sentence on what this page indexes and when an NP opens it.*,,,,,,,,,
+Key Sources,,,,Publisher - Source name,https://,,,,what it holds,,BC,,
+Key Sources,,,,Publisher - Source name,https://,,,,,,CA,,
+System or Topic,Subtopic,,,MDCalc: Rule or Score Name,https://www.mdcalc.com/,,,,what it decides; Used on: [Condition](../3%20Conditions/System/Condition.md),,INTL,,
+System or Topic,Subtopic,,,"BC Guidelines - Guideline name, Appendix X",https://www2.gov.bc.ca/,Year,PDF URL,,,,BC,,
+Learning Resources,,,,Publisher - Video or page,https://,,,,what it shows,,INTL,,

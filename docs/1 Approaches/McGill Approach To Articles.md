@@ -10,14 +10,6 @@ reviewers: [joegrafe]
 description: "An index of the McGill Journal of Medicine's peer-reviewed \"Approach to\" articles, grouped by body system."
 logo: "https://mjm.mcgill.ca/public/site/images/mrobinson/mjm-logo-no-text-400-dpi.png"
 logo-alt: "McGill Journal of Medicine"
-sources:
-  - id: mjm-approach-to
-    title: "McGill Journal of Medicine: \"An Approach To\" articles"
-    publisher: McGill Journal of Medicine
-    jurisdiction: CA
-    kind: summary
-    url: "https://mjm.mcgill.ca/issue/archive"
-    checked: 2026-10-29
 ---
 <!-- Index of MJM "An Approach To:" articles, checked against every issue at mjm.mcgill.ca/issue/archive on 2026-10-10.
      Link to the articles; don't summarize or copy their content. Add new ones from each new issue. -->

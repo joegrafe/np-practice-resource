@@ -1,36 +1,36 @@
-heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only
-Key Sources,,,,BCCNM - Applications and registration (Nurse Practitioners),https://www.bccnm.ca/NP/applications_registration/Pages/Default.aspx,,,,"how to apply, fees, criminal record check, English proficiency, practice hours, provisional registration, proof of licensure, leaving or returning to practice",,BC,yes
-Key Sources,,,,CNO - Become a nurse practitioner in Ontario,https://www.cno.org/en/become-a-nurse/new-applicants1/nurse-practitioner/,2026,,,"requirements, exams, fees and controlled substances education; one NP class since July 1, 2026",Ontario NP registration CNO,ON,yes
-Key Sources,,,,BCCNM - How to renew,https://www.bccnm.ca/NP/applications_registration/how_to_renew/Pages/Default.aspx,,,,renewal opens February 1 and registration expires March 31 each year,,BC,yes
-Key Sources,,,1,Fees,https://www.bccnm.ca/NP/applications_registration/fees/Pages/Default.aspx,,,,,,,
-Key Sources,,,,CNO - Annual membership renewal,https://cno.org/maintain-your-membership/annual-membership-renewal,,,,Ontario,,ON,yes
-Key Sources,,,,BCCNM - Quality Assurance (Nurse Practitioners),https://www.bccnm.ca/NP/QA/Pages/Default.aspx,,,,"annual learning requirements, periodic assessments and currency; a condition of practising licensure",,BC,yes
-Key Sources,,,,CNO - Quality Assurance resources for NPs,https://www.cno.org/standards-learning/nurse-practitioners/quality-assurance-resources-for-nps,2026,,,"Ontario: QA Every Day self-assessment and the QA Assessment; changes effective July 1, 2026",,ON,yes
-Applying for an NP Licence,,,,BCCNM - How to apply,https://www.bccnm.ca/NP/applications_registration/how_to_apply/Pages/Default.aspx,,,,,,BC,yes
-Applying for an NP Licence,,,,BCCNM - NP exams,https://www.bccnm.ca/NP/applications_registration/exams/Pages/Default.aspx,,,,"from January 1, 2027 the Canadian Nurse Practitioner Licensing Exam is the only exam accepted for new applicants",,BC,yes
-Applying for an NP Licence,,,1,Canadian Nurse Practitioner Licensing Exam (CNPLE),https://www.bccnm.ca/NP/applications_registration/exams/Pages/CNPLE.aspx,,,,,,,
-Applying for an NP Licence,,,,CNO - Nurse practitioner examinations,https://cno.org/become-a-nurse/examinations/nurse-practitioner-examinations,,,,Ontario,,ON,yes
-Applying for an NP Licence,,,1,Jurisprudence examination,https://cno.org/become-a-nurse/examinations/jurisprudence-examination,,,,,,,
-Applying for an NP Licence,,,,BCCNM - Provisional registration,https://www.bccnm.ca/NP/applications_registration/Provisional/Pages/Default.aspx,,,,,,BC,yes
-Applying for an NP Licence,,,,BCCNM - Leaving or returning to nursing practice,https://www.bccnm.ca/NP/applications_registration/leaving_or_returning/Pages/Default.aspx,,,,,,BC,yes
-Applying for an NP Licence,,,,BCCNM - Proof of licensure,https://www.bccnm.ca/NP/applications_registration/Pages/proof_of_registration.aspx,,,,,,BC,yes
-Quality Assurance and Currency,,,,BCCNM - Personal Practice Review,https://www.bccnm.ca/NP/QA/ppr/Pages/Default.aspx,,,,"done every year by March 31: self-assessment, peer feedback, a learning plan, evaluation of learning and, for NPs, a critical chart review",,BC,yes
-Quality Assurance and Currency,,,1,Critical chart review,https://www.bccnm.ca/NP/QA/ppr/Pages/chart_review.aspx,,,,,,,
-Quality Assurance and Currency,,,,BCCNM - QA assessments,https://www.bccnm.ca/NP/QA/QA_assessments/Pages/Default.aspx,,,,,,BC,yes
-Quality Assurance and Currency,,,,BCCNM - Currency: practice hours,https://www.bccnm.ca/NP/QA/currency/Pages/practice_hours.aspx,,,,what counts as practice hours for licence renewal,,BC,yes
-Liability Protection,,,,BCCNM - Professional liability protection,https://www.bccnm.ca/NP/liability_protection/Pages/Default.aspx,,,,"a licensure requirement for practising NPs, provided by CNPS and paid at licensure or renewal, with or without NNPBC membership",,BC,yes
-Liability Protection,,,,Canadian Nurses Protective Society - Professional liability protection,https://cnps.ca/services/plp-core/,,,,"legal advice, help with legal proceedings and risk management resources",,CA,
-Liability Protection,,,1,Supplementary Protection for regulatory complaints,https://cnps.ca/services/regulatory-complaints/,,,,optional,,,
-MSP Practitioner Number,,,,"BC Ministry of Health - MSP: Nurse Practitioners (updated November 22, 2024)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/msp/nurse-practitioners,,,,,,BC,
-MSP Practitioner Number,,,1,Nurse Practitioner Enrollment in MSP/HIBC (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/medical-services-plan/2_nurse_practitioner_enrollment_in_msp_hibc_nov2024.pdf,,,,apply for an MSP practitioner (billing) number once fully registered with BCCNM,,,
-MSP Practitioner Number,,,1,"Application for MSP Practitioner Number as a Nursing Professional, Form 2998 (PDF)",https://www2.gov.bc.ca/assets/gov/health/forms/2998fil.pdf,,,,,,,
-MSP Practitioner Number,,,,CNO - Nurse Practitioner practice resources: OHIP billing numbers,https://www.cno.org/standards-learning/nurse-practitioners/nurse-practitioners,,,,Ontario: billing numbers for lab and diagnostic requisitions,,ON,yes
-MSP Practitioner Number,,md,,- Encounter records and Teleplan — *on [Practice Models and Compensation](Practice%20Models%20and%20Compensation.md)*,,,,,,,,
+heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,,,,BCCNM - Applications and registration (Nurse Practitioners),,,,,"how to apply, fees, criminal record check, English proficiency, practice hours, provisional registration, proof of licensure, leaving or returning to practice",,BC,yes,bccnm-np-applications-registration
+Key Sources,,,,CNO - Become a nurse practitioner in Ontario,,,,,"requirements, exams, fees and controlled substances education; one NP class since July 1, 2026",Ontario NP registration CNO,ON,yes,cno-become-np
+Key Sources,,,,BCCNM - How to renew,,,,,renewal opens February 1 and registration expires March 31 each year,,BC,yes,bccnm-np-renewal
+Key Sources,,,1,Fees,https://www.bccnm.ca/NP/applications_registration/fees/Pages/Default.aspx,,,,,,,,
+Key Sources,,,,CNO - Annual membership renewal,https://cno.org/maintain-your-membership/annual-membership-renewal,,,,Ontario,,ON,yes,
+Key Sources,,,,BCCNM - Quality Assurance (Nurse Practitioners),,,,,"annual learning requirements, periodic assessments and currency; a condition of practising licensure",,BC,yes,bccnm-np-qa
+Key Sources,,,,CNO - Quality Assurance resources for NPs,,,,,"Ontario: QA Every Day self-assessment and the QA Assessment; changes effective July 1, 2026",,ON,yes,cno-qa-nps
+Applying for an NP Licence,,,,BCCNM - How to apply,https://www.bccnm.ca/NP/applications_registration/how_to_apply/Pages/Default.aspx,,,,,,BC,yes,
+Applying for an NP Licence,,,,BCCNM - NP exams,,,,,"from January 1, 2027 the Canadian Nurse Practitioner Licensing Exam is the only exam accepted for new applicants",,BC,yes,bccnm-np-exams
+Applying for an NP Licence,,,1,Canadian Nurse Practitioner Licensing Exam (CNPLE),https://www.bccnm.ca/NP/applications_registration/exams/Pages/CNPLE.aspx,,,,,,,,
+Applying for an NP Licence,,,,CNO - Nurse practitioner examinations,https://cno.org/become-a-nurse/examinations/nurse-practitioner-examinations,,,,Ontario,,ON,yes,
+Applying for an NP Licence,,,1,Jurisprudence examination,https://cno.org/become-a-nurse/examinations/jurisprudence-examination,,,,,,,,
+Applying for an NP Licence,,,,BCCNM - Provisional registration,https://www.bccnm.ca/NP/applications_registration/Provisional/Pages/Default.aspx,,,,,,BC,yes,
+Applying for an NP Licence,,,,BCCNM - Leaving or returning to nursing practice,https://www.bccnm.ca/NP/applications_registration/leaving_or_returning/Pages/Default.aspx,,,,,,BC,yes,
+Applying for an NP Licence,,,,BCCNM - Proof of licensure,https://www.bccnm.ca/NP/applications_registration/Pages/proof_of_registration.aspx,,,,,,BC,yes,
+Quality Assurance and Currency,,,,BCCNM - Personal Practice Review,,,,,"done every year by March 31: self-assessment, peer feedback, a learning plan, evaluation of learning and, for NPs, a critical chart review",,BC,yes,bccnm-np-ppr
+Quality Assurance and Currency,,,1,Critical chart review,https://www.bccnm.ca/NP/QA/ppr/Pages/chart_review.aspx,,,,,,,,
+Quality Assurance and Currency,,,,BCCNM - QA assessments,https://www.bccnm.ca/NP/QA/QA_assessments/Pages/Default.aspx,,,,,,BC,yes,
+Quality Assurance and Currency,,,,BCCNM - Currency: practice hours,https://www.bccnm.ca/NP/QA/currency/Pages/practice_hours.aspx,,,,what counts as practice hours for licence renewal,,BC,yes,
+Liability Protection,,,,BCCNM - Professional liability protection,,,,,"a licensure requirement for practising NPs, provided by CNPS and paid at licensure or renewal, with or without NNPBC membership",,BC,yes,bccnm-np-liability-protection
+Liability Protection,,,,Canadian Nurses Protective Society - Professional liability protection,,,,,"legal advice, help with legal proceedings and risk management resources",,CA,,cnps-plp-core
+Liability Protection,,,1,Supplementary Protection for regulatory complaints,https://cnps.ca/services/regulatory-complaints/,,,,optional,,,,
+MSP Practitioner Number,,,,,,,,,,,BC,,bc-ministry-of-health-msp-nurse-practitioners
+MSP Practitioner Number,,,1,Nurse Practitioner Enrollment in MSP/HIBC (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/medical-services-plan/2_nurse_practitioner_enrollment_in_msp_hibc_nov2024.pdf,,,,apply for an MSP practitioner (billing) number once fully registered with BCCNM,,,,
+MSP Practitioner Number,,,1,"Application for MSP Practitioner Number as a Nursing Professional, Form 2998 (PDF)",https://www2.gov.bc.ca/assets/gov/health/forms/2998fil.pdf,,,,,,,,
+MSP Practitioner Number,,,,CNO - Nurse Practitioner practice resources: OHIP billing numbers,,,,,Ontario: billing numbers for lab and diagnostic requisitions,,ON,yes,cno-np-practice-resources
+MSP Practitioner Number,,md,,- Encounter records and Teleplan — *on [Practice Models and Compensation](Practice%20Models%20and%20Compensation.md)*,,,,,,,,,
 How to Do It in BC,,md,,"1. Apply to BCCNM and pass an approved exam ([how to apply](https://www.bccnm.ca/NP/applications_registration/how_to_apply/Pages/Default.aspx)).
 2. Once licensed, apply for an MSP practitioner number with [Form 2998](https://www2.gov.bc.ca/assets/gov/health/forms/2998fil.pdf), and enrol in PRIME for PharmaNet ([Prescribing Authority](Prescribing%20Authority.md)).
-3. Each year, finish your [Personal Practice Review](https://www.bccnm.ca/NP/QA/ppr/Pages/Default.aspx) and [renew](https://www.bccnm.ca/NP/applications_registration/how_to_renew/Pages/Default.aspx) by March 31.",,,,,,,BC,yes
+3. Each year, finish your [Personal Practice Review](https://www.bccnm.ca/NP/QA/ppr/Pages/Default.aspx) and [renew](https://www.bccnm.ca/NP/applications_registration/how_to_renew/Pages/Default.aspx) by March 31.",,,,,,,BC,yes,
 How to Do It in Ontario,,md,,"1. Apply to [CNO](https://www.cno.org/en/become-a-nurse/new-applicants1/nurse-practitioner/), pass the NP registration exam and write the [jurisprudence exam](https://cno.org/become-a-nurse/examinations/jurisprudence-examination).
 2. If your program did not cover controlled substances, complete an [approved course](https://www.cno.org/standards-learning/nurse-practitioners/nps-and-prescribing-controlled-substances/approved-controlled-substances-education-for-nurse-practitioners).
-3. [Renew](https://cno.org/maintain-your-membership/annual-membership-renewal) each year and keep up with [Quality Assurance](https://www.cno.org/standards-learning/nurse-practitioners/quality-assurance-resources-for-nps).",,,,,,,ON,yes
-Contacts,,md,,- **BCCNM registration:** register@bccnm.ca · 604.742.6200 · toll-free 1.866.880.7101,,,,,,,BC,yes
-Contacts,,md,,- **CNPS:** 1.800.267.3390 · 8:30 a.m. to 4:30 p.m. Eastern,,,,,,,,
+3. [Renew](https://cno.org/maintain-your-membership/annual-membership-renewal) each year and keep up with [Quality Assurance](https://www.cno.org/standards-learning/nurse-practitioners/quality-assurance-resources-for-nps).",,,,,,,ON,yes,
+Contacts,,md,,- **BCCNM registration:** register@bccnm.ca · 604.742.6200 · toll-free 1.866.880.7101,,,,,,,BC,yes,
+Contacts,,md,,- **CNPS:** 1.800.267.3390 · 8:30 a.m. to 4:30 p.m. Eastern,,,,,,,,,

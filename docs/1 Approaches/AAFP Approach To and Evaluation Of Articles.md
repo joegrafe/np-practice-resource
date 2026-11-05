@@ -10,14 +10,6 @@ reviewers: [joegrafe]
 description: "An index of recent, free American Family Physician (AAFP) review articles on the approach to, evaluation and management of common primary care presentations and conditions, grouped by body system."
 logo: "/assets/logos/aafp.svg"
 logo-alt: "American Academy of Family Physicians"
-sources:
-  - id: aafp-afp-reviews
-    title: "American Family Physician: approach, evaluation and management review articles"
-    publisher: American Academy of Family Physicians
-    jurisdiction: INTL
-    kind: summary
-    url: "https://www.aafp.org/afp/topics"
-    checked: 2026-10-29
 ---
 
 !!! info "International source (AAFP, United States)"

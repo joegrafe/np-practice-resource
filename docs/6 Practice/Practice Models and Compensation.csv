@@ -1,28 +1,28 @@
-heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only
-Key Sources,,,,NNPBC - NP Primary Care Integration Program (NP-PIP),https://www.nnpbc.com/practice-supports/np-pip/,,,,"Ministry of Health–funded support for NPs in longitudinal primary care: mentorship and coaching, PCN contract guides, a community of practice and licence fee reimbursement",,BC,yes
-Key Sources,,,,NPAO - Nurse Practitioner-Led Clinics,https://npao.org/nplcs/,,,,Ontario's provincially funded NP-led clinics,NPLC Ontario,ON,yes
-Key Sources,,,,NNPBC - Patient Medical Home Checklist for NP Integration (July 2026) (PDF),https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/Patient-Medical-Home-Checklist-for-NP-Integration-.pdf,,,,"steps for joining a clinic under a PCN contract, including the practice level agreement",,BC,yes
-Key Sources,,,,"BC Ministry of Health - MSP: Nurse Practitioners (updated November 22, 2024)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/msp/nurse-practitioners,,,,NPs are not paid fee-for-service by MSP but must submit encounter records,,BC,
-Key Sources,,,1,Encounter Record Submission Procedures (November 2024) (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/medical-services-plan/3_encounter_record_submission_procedures_nov2024.pdf,,,,,,,
-Key Sources,,,1,Definition of Terms (November 2024) (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/medical-services-plan/1_definition_of_terms_nov2024.pdf,,,,,,,
-Key Sources,,,,Government of Ontario - Health Care Connect for primary care clinicians,https://www.ontario.ca/page/health-care-connect-primary-care-clinicians,2026,,,nurse practitioners accepting patients register through their Ontario Health Team or Ontario Health atHome,Health Care Connect Ontario,ON,yes
-Contracts and Practice Models,,,,NNPBC - NP Portal: PCN contract resources,https://www.nnpbc.com/np-portal/np-pcn-contract/,,,,contract templates and guides* · *members only,,BC,yes
-Contracts and Practice Models,,,,NNPBC - BC nurse practitioners vote yes to pursuing a Main Agreement (April 2026),https://www.nnpbc.com/bc-nurse-practitioners-vote-yes-to-pursuing-a-main-agreement/,,,,no agreement terms are published yet,,BC,yes
-Contracts and Practice Models,,,,Government of Ontario - Primary Care Action Plan (January 2025),https://www.ontario.ca/page/ontarios-primary-care-action-plan-january-2025,2025,,,"team-based care expansion, including NP-led clinics",,ON,yes
-Contracts and Practice Models,,,,Government of Ontario - Ontario Health Teams,https://www.ontario.ca/page/ontario-health-teams,2026,,,,,ON,yes
-Encounter Records and Teleplan,,,,"BC Ministry of Health - Encounter Record Submission Authorization, Form 2871 (PDF)",https://www2.gov.bc.ca/assets/gov/health/forms/2871fil.pdf,,,,,,BC,
-Encounter Records and Teleplan,,,,BC Ministry of Health - Teleplan,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/msp/claim-submission-payment/teleplan,,,,the system that MSP claims and encounter records are submitted through,,BC,
-Encounter Records and Teleplan,,,,BC Ministry of Health - Forms for medical and health care practitioners,https://www2.gov.bc.ca/gov/content/health/health-forms/msp/forms-for-medical-health-care-practitioners,,,,,,BC,
-Encounter Records and Teleplan,,,,CNO - Nurse Practitioner practice resources: OHIP billing numbers and hospital privileges,https://www.cno.org/standards-learning/nurse-practitioners/nurse-practitioners,,,,"Ontario: OHIP billing numbers for lab and diagnostic requisitions, WSIB billing, privileges and admitting",,ON,yes
-WorkSafeBC,,,,NNPBC - WorkSafeBC infosheet for nurse practitioners (July 2026) (PDF),https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/WorkSafe-BC-Infosheet-JUL-2026.pdf,,,,"when NPs who incorporate or employ staff must register, with the classification unit and 2026 premium",,BC,yes
-WorkSafeBC,,,,WorkSafeBC - Apply for coverage,https://www.worksafebc.com/en/insurance/apply-for-coverage,,,,,,BC,yes
-WorkSafeBC,,,,WSIB - Online services for health care providers,https://www.wsib.ca/en/health-care-providers,,,,"Ontario: invoices, claim documents and provider fees",,ON,yes
+heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,,,,NNPBC - NP Primary Care Integration Program (NP-PIP),,,,,"Ministry of Health–funded support for NPs in longitudinal primary care: mentorship and coaching, PCN contract guides, a community of practice and licence fee reimbursement",,BC,yes,nnpbc-np-pip
+Key Sources,,,,NPAO - Nurse Practitioner-Led Clinics,,,,,Ontario's provincially funded NP-led clinics,NPLC Ontario,ON,yes,npao-nplcs
+Key Sources,,,,NNPBC - Patient Medical Home Checklist for NP Integration (July 2026) (PDF),https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/Patient-Medical-Home-Checklist-for-NP-Integration-.pdf,,,,"steps for joining a clinic under a PCN contract, including the practice level agreement",,BC,yes,
+Key Sources,,,,,,,,,NPs are not paid fee-for-service by MSP but must submit encounter records,,BC,,bc-ministry-of-health-msp-nurse-practitioners
+Key Sources,,,1,Encounter Record Submission Procedures (November 2024) (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/medical-services-plan/3_encounter_record_submission_procedures_nov2024.pdf,,,,,,,,
+Key Sources,,,1,Definition of Terms (November 2024) (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/medical-services-plan/1_definition_of_terms_nov2024.pdf,,,,,,,,
+Key Sources,,,,Government of Ontario - Health Care Connect for primary care clinicians,,,,,nurse practitioners accepting patients register through their Ontario Health Team or Ontario Health atHome,Health Care Connect Ontario,ON,yes,ontario-health-care-connect
+Contracts and Practice Models,,,,NNPBC - NP Portal: PCN contract resources,https://www.nnpbc.com/np-portal/np-pcn-contract/,,,,contract templates and guides* · *members only,,BC,yes,
+Contracts and Practice Models,,,,NNPBC - BC nurse practitioners vote yes to pursuing a Main Agreement (April 2026),https://www.nnpbc.com/bc-nurse-practitioners-vote-yes-to-pursuing-a-main-agreement/,,,,no agreement terms are published yet,,BC,yes,
+Contracts and Practice Models,,,,Government of Ontario - Primary Care Action Plan (January 2025),,,,,"team-based care expansion, including NP-led clinics",,ON,yes,ontario-primary-care-action-plan
+Contracts and Practice Models,,,,Government of Ontario - Ontario Health Teams,,,,,,,ON,yes,ontario-health-teams
+Encounter Records and Teleplan,,,,"BC Ministry of Health - Encounter Record Submission Authorization, Form 2871 (PDF)",https://www2.gov.bc.ca/assets/gov/health/forms/2871fil.pdf,,,,,,BC,,
+Encounter Records and Teleplan,,,,BC Ministry of Health - Teleplan,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/msp/claim-submission-payment/teleplan,,,,the system that MSP claims and encounter records are submitted through,,BC,,
+Encounter Records and Teleplan,,,,BC Ministry of Health - Forms for medical and health care practitioners,https://www2.gov.bc.ca/gov/content/health/health-forms/msp/forms-for-medical-health-care-practitioners,,,,,,BC,,
+Encounter Records and Teleplan,,,,CNO - Nurse Practitioner practice resources: OHIP billing numbers and hospital privileges,,,,,"Ontario: OHIP billing numbers for lab and diagnostic requisitions, WSIB billing, privileges and admitting",,ON,yes,cno-np-practice-resources
+WorkSafeBC,,,,NNPBC - WorkSafeBC infosheet for nurse practitioners (July 2026) (PDF),https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/WorkSafe-BC-Infosheet-JUL-2026.pdf,,,,"when NPs who incorporate or employ staff must register, with the classification unit and 2026 premium",,BC,yes,
+WorkSafeBC,,,,WorkSafeBC - Apply for coverage,,,,,,,BC,yes,worksafebc-apply-for-coverage
+WorkSafeBC,,,,WSIB - Online services for health care providers,,,,,"Ontario: invoices, claim documents and provider fees",,ON,yes,wsib-health-care-providers
 How to Do It in BC,,md,,"1. For a longitudinal primary care role, start with [NNPBC NP-PIP](https://www.nnpbc.com/practice-supports/np-pip/) and work through the [Patient Medical Home checklist](https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/Patient-Medical-Home-Checklist-for-NP-Integration-.pdf).
 2. Before you see patients, set up encounter record submission ([Form 2871](https://www2.gov.bc.ca/assets/gov/health/forms/2871fil.pdf) and [Teleplan](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/msp/claim-submission-payment/teleplan)).
-3. If you incorporate or hire staff, check whether you must [register with WorkSafeBC](https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/WorkSafe-BC-Infosheet-JUL-2026.pdf).",,,,,,,BC,yes
+3. If you incorporate or hire staff, check whether you must [register with WorkSafeBC](https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/WorkSafe-BC-Infosheet-JUL-2026.pdf).",,,,,,,BC,yes,
 How to Do It in Ontario,,md,,"1. Look for roles through [NPAO](https://npao.org/), the [NP-led clinics](https://npao.org/nplcs/), family health teams and community health centres.
 2. When you accept patients, register with [Health Care Connect](https://www.ontario.ca/page/health-care-connect-primary-care-clinicians) through your Ontario Health Team or Ontario Health atHome.
-3. Bill WSIB through its [online services for health care providers](https://www.wsib.ca/en/health-care-providers).",,,,,,,ON,yes
-Contacts,,md,,- **NNPBC:** [NP Portal](https://www.nnpbc.com/np-portal/) — *practice supports for BC NPs* · *some content members only*,,,,,,,BC,yes
-Contacts,,md,,- **Ontario Health atHome (Health Care Connect):** 1-888-579-6707,,,,,,,ON,yes
-Contacts,,md,,- **NPAO:** [npao.org](https://npao.org/) · 437-980-4566,,,,,,,ON,yes
+3. Bill WSIB through its [online services for health care providers](https://www.wsib.ca/en/health-care-providers).",,,,,,,ON,yes,
+Contacts,,md,,- **NNPBC:** [NP Portal](https://www.nnpbc.com/np-portal/) — *practice supports for BC NPs* · *some content members only*,,,,,,,BC,yes,
+Contacts,,md,,- **Ontario Health atHome (Health Care Connect):** 1-888-579-6707,,,,,,,ON,yes,
+Contacts,,md,,- **NPAO:** [npao.org](https://npao.org/) · 437-980-4566,,,,,,,ON,yes,

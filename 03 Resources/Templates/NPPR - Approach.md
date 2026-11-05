@@ -10,18 +10,6 @@ reviewers: []
 description: "An index of <publisher>'s <article type>, grouped by body system."
 logo: ""                   # publisher's own logo image URL (hotlinked)
 logo-alt: ""
-sources:
-  # One entry for the publisher's index. The items go in the CSV list sheet beside the page, not here. Field list: FRONTMATTER.md
-  # jurisdiction: the region the publisher's items are written for, a code from docs/regions.csv (CA, AB, ON, INTL ...).
-  - id:
-    title:
-    publisher:
-    jurisdiction: CA
-    kind: summary          # guideline | algorithm | pathway | summary | tool | patient
-    version:               # year or edition
-    url:                   # publisher's web page for the item
-    pdf:                   # publisher's own PDF link only
-    checked: <% tp.date.now("YYYY-MM-DD") %>
 ---
 <!-- List taken from <publisher index URL> on <date> (<n> items). Link to the items; don't copy them.
      An approach page is an index of a publisher's own "approach to" articles, schemes or pathways.

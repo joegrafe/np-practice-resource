@@ -10,14 +10,6 @@ reviewers: [joegrafe]
 description: "Pathways BC Enhanced Care Pathways for primary care: all 53, listed by body system with their year."
 logo: "/assets/logos/pathways.svg"
 logo-alt: "Pathways BC"
-sources:
-  - id: pathways-bc-ecp
-    title: "Pathways BC: Enhanced Care Pathways"
-    publisher: Pathways BC (Divisions of Family Practice)
-    jurisdiction: BC
-    kind: pathway
-    url: "https://pathwaysbc.ca/"
-    checked: 2026-10-29
 ---
 <!-- List taken from Pathways content category 1 (Enhanced Care Pathways) on 2026-10-29, from Joe's Pathways index export: 53 items.
      Every pathwaysbc.ca/ci/<id> link was opened without signing in on 2026-10-29 and went straight to the pathway document.

@@ -10,14 +10,6 @@ reviewers: [joegrafe]
 description: "Alberta's Pathway Hub clinical pathways for primary care: all 82, listed by body system with their year."
 logo: "https://www.primarycarealberta.ca/images/pca-logo.svg"
 logo-alt: "Primary Care Alberta"
-sources:
-  - id: pca-pathway-hub
-    title: "Alberta's Pathway Hub"
-    publisher: Primary Care Alberta
-    jurisdiction: CA
-    kind: pathway
-    url: "https://www.primarycarealberta.ca/pathways/"
-    checked: 2026-10-10
 ---
 <!-- Clinical pathway list taken from every pathway page on the Hub (ids 1-800) on 2026-10-10: 82 distinct clinical pathways.
      Referral-only pathways are left out; several Hub entries that share one clinical pathway are listed once.
