@@ -91,24 +91,15 @@ status: published          # draft | review | published
 last-reviewed: 2026-04-16
 review-due: 2027-04-16
 reviewers: [joegrafe]
-sources:
-  - id: htn-canada-2025
-    title: Hypertension Canada 2025 Primary Care Guidelines
-    publisher: Hypertension Canada
-    jurisdiction: CA
-    kind: guideline        # guideline | algorithm | pathway | summary | tool | patient
-    version: "2025"
-    url: https://hypertension.ca/guidelines/
-    checked: 2026-04-16
-  - id: bc-htn-algorithm
-    title: "BC Guidelines: Hypertension, Appendix A algorithm"
-    publisher: BC GPAC
-    jurisdiction: BC
-    kind: algorithm
-    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-a.pdf
-    checked: 2026-04-16
-    supersedes: null
 ---
+```
+
+The page's documents are rows of `docs/sources.csv`, the sources registry, named by id in its sheet's `source` column (Sources registry, below), for example:
+
+```csv
+id,title,publisher,url,pdf,year,version,region,kind,checked,supersedes,keywords
+htn-canada-2025,Hypertension Canada 2025 Primary Care Guidelines,Hypertension Canada,https://hypertension.ca/guidelines/,,2025,,CA,guideline,2026-04-16,,
+bc-htn-algorithm,"BC Guidelines: Hypertension, Appendix A algorithm",BC GPAC,,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-a.pdf,,,BC,algorithm,2026-04-16,,
 ```
 
 **List sheets.** Approaches and condition pages keep their links in a CSV list sheet beside the page; the site build writes them in (scripts/lists.py in nppr-website-config). Add, change or remove a link in the sheet, never in the page. Every other page type moves to list sheets too (Joe, 2026-10-29), so each source it lists is a search result with its year, region and PDF: new pages in every tab are built from a sheet, and the published Assessments, Prescribing and Practice pages are converted in their own wave, with the list style added to scripts/lists.py and scripts/search_data.py in the same change.
@@ -640,7 +631,7 @@ Check: approve the URL list before anything moves, then click through every top 
 **1.4 Migrate the condition pages** · Run in: Claude Code · Opus 5.5, high
 
 ```text
-Migrate the 8 condition pages to the new frontmatter. Move every guideline and algorithm link into the sources list with publisher, jurisdiction, kind and URL. Fill version and checked dates only where you confirm them by opening the source page, and list the ones you couldn't confirm. Leave the page text as it is.
+Migrate the 8 condition pages to the new frontmatter. Move every guideline and algorithm link into the sources list with publisher, jurisdiction, kind and URL. (Done; since 2026-11-05 those lists live in docs/sources.csv, the sources registry.) Fill version and checked dates only where you confirm them by opening the source page, and list the ones you couldn't confirm. Leave the page text as it is.
 ```
 
 Check: the list of unconfirmed versions. Fill them in yourself or ask Claude Code to look each one up.
@@ -676,7 +667,7 @@ All steps run in Claude Code. Step 2.1 repeats once per condition on the Roadmap
 1. Replace the bracketed parts and paste:
 
 ```text
-Create a condition page for [Heart failure] under 3 Conditions/[Cardiovascular] using the NPPR Condition template, its NPPR - Condition.csv list sheet (copied beside the page with the page's name) and the Page standard in NPPR-FRAMEWORK.md. Put every link in the sheet (List sheets in the Page standard), not the page, and give every linked top-level row its region code from docs/regions.csv (the jurisdiction the content is written for). Check every site in the Source map rows for this page's system and the All topics row. Find the current BC Guidelines page first, then national Canadian guidance ([Canadian Cardiovascular Society]), PEER or Tools for Practice summaries, RxFiles or Firstline where prescribing applies, relevant clinical calculators, scores and decision aids (from MDCalc where it has them, for example CHA2DS2-VASc or BMI; a BC or Canadian tool where that is the standard here), and patient resources. Record each calculator in sources with kind: tool. Open every source you cite, record publisher, version and date checked in the sources frontmatter, and set status to review. List anything where you found no BC or Canadian source. Add the page's search aliases and its lines in scripts/search-checks.txt (Search in the Page standard).
+Create a condition page for [Heart failure] under 3 Conditions/[Cardiovascular] using the NPPR Condition template, its NPPR - Condition.csv list sheet (copied beside the page with the page's name) and the Page standard in NPPR-FRAMEWORK.md. Put every link in the sheet (List sheets in the Page standard), not the page, and give every linked top-level row its region code from docs/regions.csv (the jurisdiction the content is written for). Record each document once in docs/sources.csv (the sources registry) and name it in the sheet row's source column. Check every site in the Source map rows for this page's system and the All topics row. Find the current BC Guidelines page first, then national Canadian guidance ([Canadian Cardiovascular Society]), PEER or Tools for Practice summaries, RxFiles or Firstline where prescribing applies, relevant clinical calculators, scores and decision aids (from MDCalc where it has them, for example CHA2DS2-VASc or BMI; a BC or Canadian tool where that is the standard here), and patient resources. Record each calculator in sources with kind: tool. Open every source you cite, record publisher, version and date checked in the sources frontmatter, and set status to review. List anything where you found no BC or Canadian source. Add the page's search aliases and its lines in scripts/search-checks.txt (Search in the Page standard).
 ```
 
 2. Test-build the site, open every link on the new page in the local preview and confirm the versions. Run `node scripts/search-check.js` in nppr-website-config and confirm every search passes.
@@ -744,7 +735,7 @@ Steps 3.1 to 3.4 run in Claude Code. The gate is yours: test a pack in your own 
 **3.1 Evidence Pack generator** · Run in: Claude Code · Opus 5.5, high (Fable if stuck)
 
 ```text
-In nppr-website-config, write a stand-alone build script (run before the site build, not an MkDocs hook; see Site platform) that creates an Evidence Pack page for every condition page from its sources frontmatter, as described in the Loading guidelines into AI tools section of NPPR-FRAMEWORK.md: a manifest table, direct links to each publisher's PDF (link only, no hosted copies), a Superseded list, and a changelog from git history. Put the packs under the Evidence Packs section and link each condition page to its pack. Show me the Hypertension pack in the local preview.
+In nppr-website-config, write a stand-alone build script (run before the site build, not an MkDocs hook; see Site platform) that creates an Evidence Pack page for every condition page from its sheet and the sources registry (docs/sources.csv), as described in the Loading guidelines into AI tools section of NPPR-FRAMEWORK.md: a manifest table, direct links to each publisher's PDF (link only, no hosted copies), a Superseded list, and a changelog from git history. Put the packs under the Evidence Packs section and link each condition page to its pack. Show me the Hypertension pack in the local preview.
 ```
 
 Check: every PDF link in the Hypertension pack opens the publisher's current file.
