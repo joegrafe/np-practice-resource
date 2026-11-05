@@ -10,6 +10,10 @@ Key Sources,box,,TREKK - Bottom Line Recommendations: Asthma,,,-,,"Translating E
 Key Sources,,1,"Bottom Line Recommendations (PDF, 2025)",https://cms.trekk.ca/wp-content/uploads/2023/11/2025_03_12_Asthma-BLR-v2.3_FINAL.pdf,,,,,,,,
 Key Sources,,1,"Algorithm: Severe Asthma Exacerbation (PDF, 2025)",https://cms.trekk.ca/wp-content/uploads/2023/11/2025-03-11_Asthma-Algorithm_2.1_final.pdf,,,,,,,,
 Further Resources,box,,Canadian Paediatric Society - Managing an Acute Asthma Exacerbation in Children,,,,,"CPS position statement, posted November 5, 2021.",,CA,,cps-acute-asthma-2021
+Further Resources,box,,Ontario Health quality standard - Asthma: Care in the Community for People Under 16 Years of Age,,,-,,"Ontario quality standard for asthma in children and adolescents, with a clinician placemat and patient guide",quality standard,ON,yes,ontario-health-asthma-in-children-and-adolescents-qs-2025
+Further Resources,,1,"Quality Standard (PDF, June 2025)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-asthma-in-children-and-adolescents-quality-standard-2025-en.pdf,,,,,,,,
+Further Resources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-asthma-in-children-and-adolescents-placemat-2025-en.pdf,,,,,,,,
+Further Resources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-asthma-in-children-and-adolescents-patient-guide-2025-en.pdf,,,,,,,,
 Algorithms and Pathways,,,"Alberta's Pathway Hub: Pediatric Lung Testing for Ages 6 and Above (Primary Care Alberta, 2024)",,,,,"Alberta pathway; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-peds-lung-testing
 Assessment Tools and Calculators,,,MDCalc - Pediatric Respiratory Assessment Measure (PRAM),,,,,severity of an asthma exacerbation in children,,INTL,,cdr-pram
 Assessment Tools and Calculators,,,MDCalc - Modified Asthma Predictive Index (mAPI),,,,,likelihood of later asthma in young children who wheeze,,INTL,,mdcalc-mapi
@@ -21,6 +25,7 @@ Advice and Referral,,,BC Children's Hospital: Respiratory Medicine Referral,,,,,
 Advice and Referral,,1,"Asthma Program Referral Form (revised June 2022, PDF)",https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/asthma-clinic-referral-form.pdf,,,,,,,,
 Advice and Referral,,,BC Children's Hospital: Asthma Clinical Resources,,,,,,,BC,yes,bcch-asthma-clinical-resources
 Advice and Referral,,,BC Lung Foundation: BC Pediatric Asthma Clinics,,,,,contact details for pediatric asthma clinics across BC,,BC,,bclung-pediatric-asthma-clinics
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,"BC Asthma Action Plans (BC GPAC, May 2025):",,,,,,,BC,,
 Patient Resources,,1,Children age 1-5 (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthmaactionplanages1-5_english.pdf,,,,,,,,
 Patient Resources,,1,Children age 6-11 (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthmaactionplan_6-11_english.pdf,,,,,,,,

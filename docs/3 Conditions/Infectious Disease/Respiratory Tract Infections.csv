@@ -17,13 +17,21 @@ Further Resources,box,,NICE - Antimicrobial Prescribing Guidelines for Respirato
 Further Resources,,1,,,,,,,,,,nice-ng120-2019
 Further Resources,,1,,,,,,,,,,nice-ng84-2018
 Further Resources,,1,,,,,,,,,,nice-ng79-2017
+Further Resources,,,Centre for Effective Practice - Seasonal Preparedness Resource,,,,,"Ontario primary care tool for respiratory season: chronic condition optimization, infant RSV prevention, immunizations, testing and infection control",CEP tool respiratory season RSV,ON,,cep-seasonal-preparedness-2026
 Algorithms and Pathways,,,Pathways BC: COVID-19 Treatment (BCCDC),,,,,BC enhanced care pathway; more BC pathways in [Pathways BC Enhanced Care Pathways](../../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md),COVID,BC,yes,pathways-bc-covid19-treatment
 Algorithms and Pathways,,,Alberta Primary Care Pathways: Rhinosinusitis,,,,,Calgary Zone primary care pathway,sinusitis,AB,,alberta-rhinosinusitis-pathway
 Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for pharyngitis or community-acquired pneumonia was found on 2026-10-29.,,BC,,
 Assessment Tools and Calculators,,,MDCalc: Centor Score (Modified/McIsaac) for Strep Pharyngitis,,,,,strep pharyngitis likelihood,McIsaac sore throat,INTL,,cdr-mcisaac
 Assessment Tools and Calculators,,,MDCalc: CURB-65 Score for Pneumonia Severity,,,,,pneumonia severity and site of care,CAP,INTL,,cdr-curb-65
 Prescribing,md,,"- [NPPR Antimicrobials](../../5%20Prescribing/Antimicrobials.md) — *general antimicrobial references, penicillin allergy assessment and stewardship tools*",,,,,,,,,
+Prescribing,box,,Public Health Ontario - Antimicrobial Stewardship: Primary Care,,,-,,"Ontario tools for talking about antibiotics, including the Let's Talk infographics and a viral prescribing pad",PHO antibiotic stewardship delayed prescribing,ON,,pho-antimicrobial-stewardship-primary-care
+Prescribing,,1,"Sore Throat: Let's Talk (PDF, 2018)",https://www.publichealthontario.ca/-/media/Documents/I/2018/infographic-lets-talk-sore-throat.pdf,,,,,,,,
+Prescribing,,1,"Sinus Infection: Let's Talk (PDF, 2018)",https://www.publichealthontario.ca/-/media/Documents/I/2018/infographic-lets-talk-sinus-infection.pdf,,,,,,,,
+Prescribing,,1,"Bronchitis: Let's Talk (PDF, 2018)",https://www.publichealthontario.ca/-/media/Documents/I/2018/infographic-lets-talk-bronchitis.pdf,,,,,,,,
+Prescribing,,1,"Ear Infection: Let's Talk (PDF, 2018)",https://www.publichealthontario.ca/-/media/Documents/I/2018/infographic-lets-talk-ear-infection.pdf,,,,,,,,
+Prescribing,,1,"Viral Prescribing Pad (PDF, 2022)",https://www.publichealthontario.ca/-/media/Documents/I/2022/infographic-strategies-antibiotic-primary-care-viral-prescribing-pad.pdf,,,,,,,,
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Colds,https://www.healthlinkbc.ca/healthwise/colds,,,,,common cold,BC,,
 Patient Resources,,,HealthLink BC - Sore Throat and Other Throat Problems,https://www.healthlinkbc.ca/healthwise/sore-throat-and-other-throat-problems,,,,,,BC,,
 Patient Resources,,,HealthLink BC - Strep Throat,https://www.healthlinkbc.ca/healthwise/strep-throat,,,,,,BC,,

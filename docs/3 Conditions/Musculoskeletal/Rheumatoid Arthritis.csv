@@ -55,7 +55,11 @@ Prescribing,,2,"Tocilizumab for rheumatoid arthritis (last updated April 1, 2026
 Prescribing,,2,"Tofacitinib for rheumatoid arthritis (last updated November 7, 2025)",,,,,,,,,bc-pharmacare-lcd-tofacitinib-ra
 Prescribing,,1,"Targeted DMARDs for Rheumatoid Arthritis: Initial/Switch (HLTH 5345, rev. 2025/09/09)",https://www2.gov.bc.ca/assets/gov/health/forms/5345fil.pdf,,,,,,,,
 Prescribing,,1,"Targeted DMARDs for Rheumatoid Arthritis: Renewal/Dosing Adjustment (HLTH 5354, rev. 2025/09/09)",https://www2.gov.bc.ca/assets/gov/health/forms/5354fil.pdf,,,,,,,,
+Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
+Prescribing,,1,Ontario Rheumatology Association - EAP and Limited Use codes for rheumatology drugs,,,,,"the EAP criteria and limited use codes for biologics and other rheumatology drugs, with the biosimilar fact sheet",EAP limited use biologics,,,ora-eap-limited-use
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Advice and Referral,,,Ontario Rheumatology Association - Find a Rheumatologist,,,,,directory of Ontario rheumatologists by region,rheumatologist directory,ON,yes,ora-find-a-rheumatologist
 Advice and Referral,,,RheumInfo - Comprehensive Arthritis Referral Tool (CART),,,,,rheumatology referral triage form,,CA,,rheuminfo-cart
 Advice and Referral,,,Mary Pack Arthritis Program (MPAP) Clinics (Vancouver Coastal Health),,,,,inflammatory arthritis clinics across BC; services need a doctor's or rheumatologist's referral,,BC,yes,vch-mary-pack-arthritis-program
 Patient Resources,,,"BC Guidelines: Rheumatoid Arthritis Patient Guide (BC GPAC, 2012)",,,,,,,BC,,bc-gpac-ra-patient-guide

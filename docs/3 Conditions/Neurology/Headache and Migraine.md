@@ -3,7 +3,7 @@ title: Headache and Migraine
 type: condition
 system: neurology
 tags: [condition, neurology, headache, migraine, tension-type-headache, cluster-headache, medication-overuse-headache, urgent-care, pediatrics, adolescents]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [migraine, migraines, headache, headaches, chronic migraine, episodic migraine, migraine with aura, aura, tension headache, tension-type headache, TTH, cluster headache, medication overuse headache, MOH, rebound headache, thunderclap headache, subarachnoid hemorrhage, SAH, headache red flags, SNOOP, head CT, Ottawa SAH rule, triptan, triptans, sumatriptan, Imitrex, rizatriptan, Maxalt, zolmitriptan, eletriptan, Relpax, almotriptan, naratriptan, frovatriptan, CGRP, anti-CGRP, gepant, atogepant, Qulipta, rimegepant, Nurtec, ubrogepant, Ubrelvy, erenumab, Aimovig, galcanezumab, Emgality, fremanezumab, Ajovy, eptinezumab, Vyepti, onabotulinumtoxinA, Botox, migraine prophylaxis, migraine prevention, propranolol, amitriptyline, topiramate, candesartan, metoclopramide, prochlorperazine, headache diary, Canadian Headache Society, CHS, Migraine Canada]
 status: published
 last-reviewed: 2026-11-03

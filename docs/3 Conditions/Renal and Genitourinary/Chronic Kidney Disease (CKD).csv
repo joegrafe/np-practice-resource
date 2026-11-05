@@ -8,20 +8,26 @@ Key Sources,box,,KDIGO 2024 Clinical Practice Guideline for the Evaluation and M
 Key Sources,,1,Full Guideline (PDF),https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf,,,,,,,,
 Key Sources,box,,AAFP - Chronic Kidney Disease: Detection and Evaluation,,,,,"International source: US guidance, not Canadian.",,INTL,,aafp-ckd-2017
 Key Sources,,1,2023 update: Chronic Kidney Disease: Prevention Diagnosis and Treatment,https://www.aafp.org/afp/2023/1200/chronic-kidney-disease,2023,,,AAFP members only,,,,
+Key Sources,,,Ontario Renal Network - KidneyWise Clinical Toolkit,,,,,"Ontario primary care algorithm: identify, detect and manage CKD, with a nephrology referral form and patient resources",KidneyWise CKD algorithm,ON,yes,kidneywise-toolkit
 Further Resources,,,BC Guidelines - Chronic Kidney Disease: Diagnosis and Management,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/chronic-kidney-disease-diagnosis-maintain,2025,,,"adults 19 and over in primary care: identification, staging, management and referral",CKD eGFR ACR,BC,other,
 Further Resources,box,,BC Renal - Chronic Kidney Disease (Kidney Care Clinics),,,,,"guidelines and tools written for BC Kidney Care Clinic teams, useful for shared care",,BC,yes,bcrenal-kidney-care-ckd
 Further Resources,,1,CKD E-Learning for Primary Care,https://www.bcrenal.ca/learning-events/clinical-education-and-webinars/ckd-e-learning-for-primary-care,,,,,,,,
 Further Resources,,1,BCCDC Immunization Manual: Recommended Vaccines in Chronic Kidney Disease (PDF),https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part2/ChronicKidneyDisease.pdf,,,,,vaccines,,,
 Algorithms and Pathways,,,Alberta Primary Care Pathways: Chronic Kidney Disease,,,,[Interactive CKD Pathway](https://ckdpathway.ca/),Calgary Zone primary care pathway,,AB,,alberta-ckd-pathway
 Algorithms and Pathways,note,,,,,,,No BC enhanced care pathway for CKD was found on 2026-10-29.,,BC,,
+Algorithms and Pathways,box,,Ontario Renal Network - KidneyWise Clinical Toolkit,,,,,"Ontario primary care algorithm: identify, detect and manage CKD, with a nephrology referral form and patient resources",KidneyWise CKD algorithm,ON,other,kidneywise-toolkit
+Algorithms and Pathways,,1,Outpatient Nephrology Referral Form (PDF),https://www.ontariorenalnetwork.ca/sites/renalnetwork/files/assets/kidneywise-outpatientnephrologyreferralform.pdf,,,,,,,,
 Assessment Tools and Calculators,,,MDCalc: CKD-EPI Equations for Glomerular Filtration Rate (GFR),,,,,eGFR from creatinine and/or cystatin C (2021 equation),eGFR,INTL,,mdcalc-ckd-epi
 Assessment Tools and Calculators,,,MDCalc: Kidney Failure Risk Calculator (KFRE),,,,,2- and 5-year risk of kidney failure,KFRE,INTL,,mdcalc-kfre
 Prescribing,,,,,,,,drug dosing in kidney disease and CKD charts; some documents need an RxFiles subscription,renal dosing,CA,,rxfiles-kidney
 Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
 Prescribing,,1,"Finerenone (last updated October 13, 2026)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-finerenone,,,,,Kerendia,,,
 Prescribing,,1,PharmaCare Special Authority Request: Finerenone (HLTH 5856),https://www2.gov.bc.ca/assets/gov/health/forms/5856fil.pdf,,,,,,,,
+Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",nephrology,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Chronic Kidney Disease,https://www.healthlinkbc.ca/healthwise/chronic-kidney-disease,,,,,,BC,,
 Patient Resources,,,BC Renal - Medication,https://www.bcrenal.ca/health-info/managing-my-care/medication,,,,"what to do if you are sick, and medication information sheets",sick day,BC,,
 Patient Resources,,1,Non-Prescription Medications and Your Kidneys (PDF),,,,,also in Simplified Chinese and Punjabi on the BC Renal page,,,,bc-renal-non-prescription-medications-and-your
 Patient Resources,,,BC Renal - Diet,https://www.bcrenal.ca/health-info/managing-my-care/diet,,,,,,BC,,
+Patient Resources,,,KidneyWise - Chronic Kidney Disease: patient resource (PDF),,,,,"Ontario patient fact sheet, with versions for Indigenous and Black patients on the KidneyWise page",KidneyWise patient,ON,yes,kidneywise-patient-resource

@@ -5,6 +5,7 @@ system: cardiovascular
 tags: [condition, cardiovascular, cv-risk, lipids, dyslipidemia]
 jurisdiction:
   - BC
+  - "ON"
   - CA
 status: published
 last-reviewed: 2026-10-09

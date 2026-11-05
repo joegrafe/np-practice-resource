@@ -5,6 +5,7 @@ system: renal-genitourinary
 tags: [condition, renal-genitourinary, uti, cystitis, pyelonephritis, pregnancy, dysuria, adolescents, older-adults, womens-health, dysuria-and-urinary-symptoms]
 jurisdiction:
   - BC
+  - "ON"
   - CA
   - INTL
 status: published

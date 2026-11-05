@@ -14,6 +14,8 @@ Further Resources,box,,Canadian Society of Nephrology - Commentary on the 2012 K
 Further Resources,,1,Full Article (PDF),https://www.ajkd.org/article/S0272-6386(13)00472-1/pdf,,,,,,,,
 Further Resources,,,UCalgary Black Book - Acute Kidney Injury scheme,,,,,diagnostic scheme for causes of AKI,prerenal postrenal causes,CA,,acute-kidney-injury
 Further Resources,box,,AAFP - Acute Kidney Injury: Diagnosis and Management,,,,,"International source: US guidance, not Canadian.",,INTL,,aafp-aki-2019
+Further Resources,box,,Ontario Renal Network - KidneyWise Clinical Toolkit,,,,,"Ontario primary care algorithm for identifying and managing chronic kidney disease after an acute injury, with a nephrology referral form",KidneyWise CKD,ON,,kidneywise-toolkit
+Further Resources,,1,Outpatient Nephrology Referral Form (PDF),https://www.ontariorenalnetwork.ca/sites/renalnetwork/files/assets/kidneywise-outpatientnephrologyreferralform.pdf,,,,,,,,
 Algorithms and Pathways,,,Pathways BC - Acute Kidney Injury Care Pathway,,,,,BC enhanced care pathway; more BC pathways in [Pathways BC Enhanced Care Pathways](../../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md),,BC,yes,pathways-aki
 Algorithms and Pathways,note,,,,,,,No Alberta Pathway Hub pathway for AKI found on 2026-10-30.,,,,
 Assessment Tools and Calculators,,,QxMD: Advanced CKD after AKI Risk Index,,,,,risk of advanced CKD after an AKI admission; the tool BC Renal links,kidney failure risk,INTL,,qxmd-ckd-after-aki
@@ -22,6 +24,7 @@ Assessment Tools and Calculators,,,MDCalc: Creatinine Clearance (Cockcroft-Gault
 Assessment Tools and Calculators,,,MDCalc: Fractional Excretion of Sodium (FENa),,,,,prerenal versus intrinsic causes,FENa,INTL,,mdcalc-fena
 Prescribing,,,,,,,,drug dosing in kidney disease; some documents need an RxFiles subscription,renal dosing,CA,,rxfiles-kidney
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",nephrology,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,BC Renal - Find Kidney Services,https://www.bcrenal.ca/kidney-services/find-kidney-services,,,,kidney care clinics by health authority,,BC,yes,
 Patient Resources,,,HealthLink BC - Acute Kidney Injury,,,,,,,BC,,healthlinkbc-aki
 Patient Resources,,,BC Renal - Acute Kidney Injury (for patients),https://www.bcrenal.ca/health-info/kidney-care/acute-kidney-injury,,,,,,BC,,

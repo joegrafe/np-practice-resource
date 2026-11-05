@@ -3,7 +3,7 @@ title: Burns
 type: condition
 system: dermatology
 tags: [condition, dermatology, injury, urgent-care, pediatrics, rural-remote]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [burn, burns, thermal burn, scald, scalds, minor burn, superficial burn, partial thickness burn, full thickness burn, second-degree burn, first-degree burn, third-degree burn, chemical burn, electrical burn, sunburn, TBSA, total body surface area, Lund-Browder, Parkland formula, burn dressing, blister, burn centre, burn unit, VGH Burn Clinic]
 status: published
 last-reviewed: 2026-11-02

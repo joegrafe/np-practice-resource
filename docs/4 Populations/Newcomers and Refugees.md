@@ -2,7 +2,7 @@
 title: Newcomers and Refugees
 type: population
 tags: [population, newcomers, refugees, immigrants]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02

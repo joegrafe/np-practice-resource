@@ -2,7 +2,7 @@
 title: Gastroenteritis and Dehydration
 type: population
 tags: [population, pediatrics, gastroenteritis, infectious-disease, urgent-care, rural-remote, diarrhea, nausea-and-vomiting]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [gastroenteritis, gastro, stomach flu, stomach bug, vomiting and diarrhea, diarrhea children, vomiting children, dehydration, dehydrated child, oral rehydration, oral rehydration solution, ORS, Pedialyte, Gastrolyte, ondansetron, Zofran, rotavirus, norovirus, Clinical Dehydration Scale, Gorelick, stool test, Infectious Diarrhea Panel, IDP]
 status: published
 last-reviewed: 2026-11-02

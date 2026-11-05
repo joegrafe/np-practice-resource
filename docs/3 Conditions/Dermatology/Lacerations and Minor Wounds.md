@@ -3,7 +3,7 @@ title: Lacerations and Minor Wounds
 type: condition
 system: dermatology
 tags: [condition, dermatology, injury, wounds, urgent-care, pediatrics, rural-remote]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [laceration, lacerations, cut, cuts, wound, minor wound, wound repair, laceration repair, sutures, stitches, staples, skin glue, tissue adhesive, Dermabond, liquid stitches, Steri-Strips, abrasion, scrape, puncture wound, skin tear, dog bite, cat bite, human bite, animal bite, bite wound, tetanus, tetanus shot, Td, Tdap, tetanus immune globulin, rabies, wound infection, LET gel]
 status: published
 last-reviewed: 2026-11-02

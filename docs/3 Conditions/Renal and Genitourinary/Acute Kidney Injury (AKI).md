@@ -3,7 +3,7 @@ title: Acute Kidney Injury (AKI)
 type: condition
 system: renal-genitourinary
 tags: [condition, renal-genitourinary, aki, kidney]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [AKI, acute renal failure, ARF, acute kidney disease, AKD, rising creatinine, creatinine rise, kidney injury, post-AKI, sick day medications, SADMANS, nephrotoxic drugs, triple whammy, KDIGO, BC Renal]
 status: published
 last-reviewed: 2026-10-30

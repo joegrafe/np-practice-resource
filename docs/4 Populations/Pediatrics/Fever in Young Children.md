@@ -2,7 +2,7 @@
 title: Fever in Young Children
 type: population
 tags: [population, pediatrics, fever, infectious-disease, urgent-care, rural-remote]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [fever, febrile infant, febrile child, fever in infants, fever in children, fever without a source, fever without focus, fever under 3 months, neonatal fever, pediatric sepsis, sepsis children, febrile seizure, febrile convulsion, PECARN febrile infant, Step-by-Step, traffic light, temperature taking, antipyretic, acetaminophen, ibuprofen]
 status: published
 last-reviewed: 2026-11-02

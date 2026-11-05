@@ -5,6 +5,7 @@ system: endocrine-metabolic
 tags: [condition, endocrine-metabolic, thyroid, hypothyroidism, hyperthyroidism, thyroid-nodule, pregnancy]
 jurisdiction:
   - BC
+  - "ON"
   - CA
   - INTL
 status: published

@@ -1,10 +1,10 @@
 heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Cardiovascular,,,,,,"assessment, diagnosis and management across ejection fractions, therapy titration, palliative planning and referral; EMR tool",,ON,cep-heart-failure-2024
 ,Respiratory,,,,,"[BC Guideline: COPD: Diagnosis and Management (2024, revised 2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd)","diagnosis, maintenance therapy by symptoms, exacerbations and lung function, self-management; EMR tool",,ON,cep-chronic-obstructive-pulmonary-disease-copd-2024
-,Respiratory,Seasonal Preparedness Resource,https://cep.health/clinical-products/seasonal-preparedness-resource/,2026,,,"respiratory season planning: chronic condition optimization, infant RSV prevention, immunizations, testing and IPAC (Ontario programs)",,ON,
+,Respiratory,Seasonal Preparedness Resource,,,,,"respiratory season planning: chronic condition optimization, infant RSV prevention, immunizations, testing and IPAC (Ontario programs)",,ON,cep-seasonal-preparedness-2026
 ,Endocrine and Metabolic,,,,,"[BC Guideline: Diabetes Care (2021, revised May 2026)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes)","insulin and non-insulin pharmacotherapy tools, hypoglycemia, insulin pen chart, drug pearls; EMR tool",,ON,cep-type-2-diabetes-2023
 ,Endocrine and Metabolic,,,,,,"assessment, eligibility, readiness and cost for anti-obesity medication in adults",,ON,cep-pharmacotherapy-for-obesity-management-2025
-,Renal and Genitourinary,Urinary Incontinence in Women,https://cep.health/clinical-products/urinary-incontinence/,2020,,,"screening, diagnosis and a management plan built on patient preferences and access",,ON,
+,Renal and Genitourinary,Urinary Incontinence in Women,,,,,"screening, diagnosis and a management plan built on patient preferences and access",,ON,cep-urinary-incontinence-2020
 ,Musculoskeletal,,,,,,"exam for mechanical back pain syndromes, red and yellow flags, imaging and referral thresholds",,ON,cep-core-back-tool
 ,Musculoskeletal,Neck Pain and Headache: CORE Neck Tool and Headache Navigator,,,,,"exam for mechanical neck pain with screening for other causes, plus primary headache management",,ON,cep-headache-navigator-2016
 ,Musculoskeletal,Osteoarthritis,,,,,"hip, knee and hand osteoarthritis: non-drug and drug management, triggers for investigation or referral",,ON,cep-osteoarthritis-2017
@@ -19,7 +19,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Mental Health and Substance Use,,,,,,"validated screening tools, stepped care and treatment options in adults; EMR tool",,ON,cep-anxiety-depression-2023
 ,Mental Health and Substance Use,,,,,,"ASRS screening, DSM-5 diagnosis and management with comorbid conditions",,ON,cep-adhd-in-adults-2025
 ,Mental Health and Substance Use,Adult Mental Health,https://cep.health/clinical-products/adult-mental-health/,2017,,,"assessing risk and functional impairment in adults, with discussion aids and samples",,ON,
-,Mental Health and Substance Use,Youth Mental Health,https://cep.health/clinical-products/youth-mental-health/,2017,,,anxiety and depression in people aged 12 to 24 over a series of visits,,ON,
+,Mental Health and Substance Use,Youth Mental Health,,,,,anxiety and depression in people aged 12 to 24 over a series of visits,,ON,cep-youth-mental-health-2017
 ,Mental Health and Substance Use,Chronic Insomnia,https://cep.health/clinical-products/chronic-insomnia/,2017,,,"assessment, underlying causes, and non-drug and drug options in adults",,ON,
 ,Mental Health and Substance Use,,,,,[BC Guideline: High-Risk Drinking and Alcohol Use Disorder (2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/high-risk-drinking-and-alcohol-use-disorder),"screening and pharmacotherapy, with notes for youth, older adults and pregnancy",,ON,cep-alcohol-use-disorder-2019
 ,Mental Health and Substance Use,Non-Medical Cannabis,https://cep.health/clinical-products/non-medical-cannabis-resource/,2018,,,discussing cannabis use and screening for cannabis use disorder,,ON,
@@ -27,11 +27,11 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Mental Health and Substance Use,,,,,,"template for planning and adjusting an opioid taper, with a patient handout",,ON,opioid-tapering-template
 ,Sexual and Reproductive Health,,,,,,"assessment, diagnosis, fertility considerations and long-term management",,ON,centre-for-effective-practice-endometriosis
 ,Sexual and Reproductive Health,Menopause Management,https://cep.health/clinical-products/menopause-management/,2025,,,"perimenopause to postmenopause, menopausal hormone therapy risk assessment and shared decisions",,ON,
-,Sexual and Reproductive Health,Preconception Health Care,https://cep.health/clinical-products/preconception/,2019,,,preconception risk assessment and risk reduction (English and French); EMR form,,ON,
-,Pediatrics,Preventing Childhood Obesity,https://cep.health/clinical-products/childhood-obesity/,2016,,,growth measurement and healthy-living conversations for ages 2 to 17 (English and French),,ON,
+,Sexual and Reproductive Health,Preconception Health Care,,,,,preconception risk assessment and risk reduction (English and French); EMR form,,ON,cep-preconception-2019
+,Pediatrics,Preventing Childhood Obesity,,,,,growth measurement and healthy-living conversations for ages 2 to 17 (English and French),,ON,cep-childhood-obesity-2016
 ,Older Adults,,,,,,screening and counselling checklist for older adults; PDF and EMR reminder tool,,ON,centre-for-effective-practice-preventive-care-for-older-peop
 ,Older Adults,,,,,,"fall prevention and management in primary care, with long-term care guides and a patient handout",,ON,centre-for-effective-practice-falls-prevention
-,Older Adults,Benzodiazepine Use in Older Adults,https://cep.health/clinical-products/benzodiazepine-use-in-older-adults/,2019,,,"starting, continuing or stopping benzodiazepines at 65 and over",,ON,
-,Older Adults,Proton Pump Inhibitor Use in Older Adults,https://cep.health/clinical-products/proton-pump-inhibitor-use/,2020,,,"starting, continuing or stopping PPIs at 65 and over, and alternatives",,ON,
+,Older Adults,Benzodiazepine Use in Older Adults,,,,,"starting, continuing or stopping benzodiazepines at 65 and over",,ON,cep-benzodiazepine-older-adults-2019
+,Older Adults,Proton Pump Inhibitor Use in Older Adults,,,,,"starting, continuing or stopping PPIs at 65 and over, and alternatives",,ON,cep-ppi-older-adults-2020
 ,General and Preventive Care,Poverty: A Clinical Tool for Primary Care,,,,,"screening questions on income and benefits, with links to government and community supports; choose the BC version",,ON,cep-poverty-tool
 ,General and Preventive Care,Anal Cancer Screening for People Living with HIV,https://cep.health/clinical-products/anal-cancer-screening/,2026,,,"screening decisions in primary care, with a patient resource (Ontario program)",,ON,

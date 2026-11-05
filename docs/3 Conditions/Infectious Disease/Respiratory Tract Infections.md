@@ -3,7 +3,7 @@ title: Respiratory Tract Infections
 type: condition
 system: infectious-disease
 tags: [condition, infectious-disease, respiratory-tract-infection, urgent-care, cough, sore-throat, fever]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [RTI, URTI, upper respiratory tract infection, LRTI, common cold, cold, sore throat, pharyngitis, strep throat, tonsillitis, sinusitis, rhinosinusitis, acute bronchitis, chest cold, pneumonia, CAP, community-acquired pneumonia, influenza, flu, COVID-19, cough, antibiotics, amoxicillin, doxycycline, oseltamivir, Tamiflu, McIsaac, Centor, CURB-65, Firstline]
 status: published
 last-reviewed: 2026-10-29

@@ -2,7 +2,7 @@
 title: Pregnancy and Perinatal
 type: population
 tags: [population, pregnancy, lactation, pregnancy-and-perinatal]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
