@@ -18,6 +18,13 @@ UNOPENED-SOURCES.csv, and writes two lists under environments/:
 
 Journal and reference sites (PubMed, BMJ, NEJM, JAMA, CMA ...) go on both.
 
+  environment-core.txt  The default: every linked domain in order of how
+                     many links the site has to it, whatever its region,
+                     filled to the 400-entry cap (journal sites first,
+                     unopened-source candidates after the linked sites).
+                     Switch to 1 or 2 only for a wave that needs a site
+                     the core lacks (domains.csv shows which).
+
 environments/domains.csv lists every domain with its link count, regions,
 hosts and environment(s), so a wave can check which list it needs.
 
@@ -150,16 +157,19 @@ def main():
 
     l1, n1 = fit(env1, "environment-1")
     l2, n2 = fit(env2, "environment-2")
-    for name, lst in (("environment-1", l1), ("environment-2", l2)):
+    core_order = sorted(JOURNALS) + [d for d in ranked if d not in JOURNALS and d not in unopened and d not in previous] + [d for d in ranked if d in unopened] + previous
+    lc, nc = fit(core_order, "environment-core")
+    for name, lst in (("environment-1", l1), ("environment-2", l2), ("environment-core", lc)):
         with open(f"environments/{name}.txt", "w", encoding="utf-8") as fh:
             fh.write("\n".join(sorted(lst, key=lambda s: s.lstrip("*."))) + "\n")
     with open("environments/domains.csv", "w", encoding="utf-8", newline="") as fh:
         w = csv.writer(fh, lineterminator="\n")
         w.writerow(["domain", "environment", "links", "regions", "unopened", "hosts"])
         for d in ranked:
-            env = ("1 " if d in l1 else "") + ("2" if d in l2 else "")
+            env = ("core " if d in lc else "") + ("1 " if d in l1 else "") + ("2" if d in l2 else "")
             w.writerow([d, env.strip() or "-", links.get(d, 0), " ".join(f"{k}:{v}" for k, v in regions[d].most_common() if k != "unopened"), "yes" if d in unopened else "", " ".join(sorted(hosts[d]))])
     both = len(set(env1) & set(env2))
+    print(f"environment-core {len(lc) and sum(1 for d in core_order if d in lc)} domains, {nc} entries")
     print(f"domains {len(ranked)}; environment-1 {len(env1)} domains, {n1} entries; environment-2 {len(env2)} domains, {n2} entries; on both {both}")
 
 
