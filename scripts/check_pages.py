@@ -17,6 +17,9 @@ Checks:
                  has a note), kind and level hold allowed values, links are http(s),
                  every top-level row with a link has a region from docs/regions.csv,
                  and every CSV in docs/ is used by a page
+  page-body      a page with a list sheet holds no heading or link line of its own
+                 (Approaches, About and index pages excepted): the page is its
+                 frontmatter plus its sheet (a warning)
   team           the Team sheet (style=team, docs/About/Team.csv) has its own
                  columns, an id, name and allowed level on every row, and a photo
                  file that exists; every id in a page's reviewers is on the sheet
@@ -94,11 +97,17 @@ TEAM_ID = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # Rules reported as warnings only. Every page passed frontmatter, sources and
 # source-order on 2026-11-02 (build wave 12), so those are errors now, like list-sheet.
 # review-due stays a warning: it goes stale with the calendar, not with an edit.
-WARN_ONLY = {"review-due"}
+# page-body (a sheet-backed page with a heading or link line of its own) stays a
+# warning until Tools: Checking AI Output moves into its sheet (switch wave).
+WARN_ONLY = {"review-due", "page-body"}
 HOME = "index.md"  # the home page (docs/index.md) carries only a title, by design
 
 FRONT = re.compile(r"^---\s*\n(.*?)\n---\s*(\n|$)", re.S)
 MARKER = re.compile(r"<!--\s*nppr-list:\s*(.+?)\s*-->")
+COMMENT = re.compile(r"<!--.*?-->", re.S)
+BODY_LINE = re.compile(r"^(## |\s*(?:[-*]|\d+\.)\s+\[[^\]]*\]\()")
+# Pages allowed a heading or link line of their own beside their sheet
+BODY_TYPES = {"approach", "about", "index"}  # an Approaches page keeps its intro and More Approaches
 OPTION = re.compile(r"^(counts|notes=\S+|style=\S+)$")
 SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 URL = re.compile(r"^https?://\S+$")
@@ -158,6 +167,7 @@ def check_page(path, rel, text, f, source_ids):
     missing = [k for k in PAGE_REQUIRED if k not in meta]
     if missing:
         f.add("frontmatter", rel, 1, "Missing required field(s): " + ", ".join(missing) + ".")
+    check_body(rel, text, m.end(), meta, f)
     ptype = meta.get("type")
     if ptype is not None and ptype not in TYPES:
         f.add("frontmatter", rel, ln("type"), f"type '{ptype}' is not one of: {', '.join(sorted(TYPES))}.")
@@ -260,6 +270,19 @@ def check_page(path, rel, text, f, source_ids):
         if extra:
             f.add("frontmatter", rel, ln("jurisdiction"),
                   f"jurisdiction leaves out {', '.join(extra)}, which its sources cover.")
+
+
+def check_body(rel, text, start, meta, f):
+    """A page with a list sheet is its frontmatter plus that sheet (Page standard,
+    2026-11-05): a heading or a link line in the Markdown belongs in the sheet."""
+    if not MARKER.search(text) or meta.get("type") in BODY_TYPES:
+        return
+    body = COMMENT.sub(lambda c: "\n" * c.group(0).count("\n"), text[start:])
+    offset = text[:start].count("\n")
+    for n, line in enumerate(body.split("\n"), offset + 1):
+        if BODY_LINE.match(line):
+            f.add("page-body", rel, n,
+                  "A heading or link line in the page: move it into the page's list sheet (kind md for prose).")
 
 
 def split_marker(spec):

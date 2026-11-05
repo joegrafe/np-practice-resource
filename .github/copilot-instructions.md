@@ -6,7 +6,7 @@ When reviewing a pull request, check the rules below and comment only where the 
 
 ## Sources
 
-- Order sources BC first, then national Canadian, then others, in the frontmatter `sources` list and in every section of the page body. International guidance is labelled as such (`jurisdiction: INTL`).
+- Order sources BC first, then national Canadian, then others, in the frontmatter `sources` list and in every section of the sheet: that is the region rank, provinces and territories, then `CA`, then `US`, then `INTL`. Every `jurisdiction` value and every sheet row's `region` is a code from `docs/regions.csv`, the jurisdiction the content is written for (Alberta's Pathway Hub is `AB`, the UCalgary Black Book is `CA`, a US guideline is `INTL` until a US region is live). International guidance is labelled as such.
 - For approaches and condition pages, AAFP (aafp.org, free articles only) is the first international source. Don't link Specialist Link's Calgary pathway when Alberta's Pathway Hub (primarycarealberta.ca) has one for the same condition.
 - Link to each publisher's own page or PDF. Flag any third-party document added to the repo, or a link to a copy hosted somewhere other than the publisher.
 - No clinical recommendations in our own words. Flag added text that gives doses, thresholds or management steps without linking the source that says it.
@@ -26,7 +26,8 @@ When reviewing a pull request, check the rules below and comment only where the 
 ## List sheets (Approaches, condition and other content pages)
 
 - Approaches, condition, Assessments, Prescribing, Practice, Populations, Resources and AI Tools pages keep their link lists in the CSV beside the page (same name, `.csv`), written in by the `<!-- nppr-list: ... -->` marker at build time. Items are added, changed or removed in the CSV, never in the page. Flag list items added to the page body.
-- Sheet columns: `heading, subheading, title, url, year, pdf, links, note, keywords, sub`, plus `kind` (blank, `box`, `note`, `md`) and `level` (blank, 0, 1, 2) on condition sheets. The year goes in `year`, not in `title`. Rows stay in the page's order.
+- Sheet columns: `heading, subheading, title, url, year, pdf, links, note, keywords, sub, region`, plus `kind` (blank, `box`, `note`, `md`) and `level` (blank, 0, 1, 2) on condition sheets. The year goes in `year`, not in `title`. Rows stay in the page's order. Flag a linked top-level row with no `region`, or a region code that isn't in `docs/regions.csv`.
+- A new page is its frontmatter plus one sheet (Page standard, since 2026-11-05): its intro line is the sheet's first row (`kind=md`). Flag an intro line, heading or link written into the Markdown of a new page. Approaches pages keep their intro and More Approaches list in the page; pages built before 2026-11-05 keep their intro line until the switch wave.
 - When a condition sheet row changes, its source entry in the page's frontmatter `sources` changes in the same PR.
 - The Approaches section is a complete list of each source's "approach to" articles, whatever their age. When a newer guideline covers the same topic, the approach stays and the guideline is added beside it (in `links`) with its year.
 
@@ -35,7 +36,7 @@ When reviewing a pull request, check the rules below and comment only where the 
 Search is the site's key feature and NPPR's own (assets/search.json, built by nppr-website-config). Flag:
 
 - A new or renamed page with no search aliases (frontmatter `aliases` or a line in nppr-website-config's `hooks/search_aliases.yml`).
-- Frontmatter `type`, `system`, `jurisdiction` or `tags` that don't match the page: the search's filters and region badges come from them.
+- Frontmatter `type`, `system`, `jurisdiction` or `tags` that don't match the page, or a sheet row's `region` that doesn't match its source: the search's filters and region badges come from them.
 - A sheet row with its year or PDF in the title instead of the `year` and `pdf` columns.
 - A new section, sheet column or list style with no matching change to `scripts/search_data.py` and `site_assets/nppr-search.js`.
 - Text repeated on every page without `data-search-exclude`.

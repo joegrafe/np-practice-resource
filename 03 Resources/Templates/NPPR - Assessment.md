@@ -8,7 +8,7 @@ last-reviewed: <% tp.date.now("YYYY-MM-DD") %>
 review-due: <% tp.date.now("YYYY-MM-DD", 365) %>
 reviewers: []
 sources:
-  # BC sources first, then national, then international (INTL). Field list: FRONTMATTER.md
+  # Codes from docs/regions.csv: provinces and territories first (BC first), then CA, then US, then INTL. Field list: FRONTMATTER.md
   - id:
     title:
     publisher:
@@ -19,31 +19,15 @@ sources:
     pdf:                   # publisher's own PDF link only
     checked: <% tp.date.now("YYYY-MM-DD") %>
 ---
-*Scope: which system or exam this covers and when it's used in primary care.*
+<!-- Which exam, test or tool family this page indexes across conditions, and what lives elsewhere (condition pages keep their own tools; drug calculators are on Prescribing).
+     Sources unconfirmed because their sites block checks, and what was left out and why.
+     Link to the source; don't restate its technique, criteria or cut-offs. -->
+<!-- The page is its frontmatter plus <% tp.file.title %>.csv beside it, one row per line; the site build writes it in here.
+     Copy NPPR - Assessment.csv beside the page and rename it to the page's name. Edit the sheet, not this page.
+     Columns: List sheets in NPPR-FRAMEWORK.md. The intro line is the first row (kind md, no heading).
+     Sections: Key Sources (1 to 3), then sections by system or topic in the order of the page's plan, with the subheading column for "###" headings.
+     Every linked top-level row carries a region code from docs/regions.csv (BC, CA, US, INTL ...); a US rule or a UK score is INTL until that region is live.
+     Put the year in the year column, not the title. A link to another NPPR page is a kind md row. -->
+<div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. ankle"></div>
 
-## Focused History
-- Key question
-- Key question
-
-## Exam and Special Tests
-
-| **Test / Manoeuvre** | **Technique** | **Positive Finding** | **Sn / Sp** | **Link** |
-| -------------------- | ------------- | -------------------- | ----------- | -------- |
-|                      |               |                      |             |          |
-
-## Clinical Decision Rules & Calculators
-- [Rule Name (MDCalc)](URL) — *what it rules in or out*
-
-??? danger "Red Flags"
-	- Finding that needs urgent action or referral.
-
-## Learning Resources & Videos
-- [Resource Name](URL) — *what it shows*
-
-??? example "Sample Documentation"
-	Normal exam written as it would appear in a chart note.
-
----
-
-??? cite "References"
-	1. Author, A. (Year). *Title*. Publisher. [Link](URL)  
+<!-- nppr-list: <% tp.file.title %>.csv style=condition -->

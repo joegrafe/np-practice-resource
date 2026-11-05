@@ -104,7 +104,8 @@ Condition pages use one of these `system` slugs, which match the Conditions sub-
 
 ## Rules
 
-- BC sources first, then national Canadian sources, then others. Label international guidance as such.
+- Every source carries a region code from `docs/regions.csv`, in frontmatter `jurisdiction` and in the sheet's `region` column: the jurisdiction its content is written for. Order them provinces and territories first (BC first, as the default region), then `CA`, then `US`, then `INTL`, and label international guidance as such.
+- A page is its frontmatter plus one list sheet beside it (Page standard in NPPR-FRAMEWORK.md): every link, intro line, step and table is a sheet row. Section index pages and About pages are the exception.
 - Link to each publisher's own page or PDF. Don't host or copy third-party documents.
 - Don't write clinical recommendations in our own words. Link to the source guidance instead.
 
@@ -114,7 +115,7 @@ Condition pages use one of these `system` slugs, which match the Conditions sub-
 | --- | --- |
 | NPPR - Approach | `approach` |
 | NPPR - Approach.csv | List sheet to copy beside a new Approaches page (columns: List sheets in NPPR-FRAMEWORK.md) |
-| NPPR - Condition.csv | List sheet to copy beside a new condition page, renamed to the page's name (columns: List sheets in NPPR-FRAMEWORK.md) |
+| NPPR - Condition.csv, Population.csv, Assessment.csv, Practice.csv, Prescribing.csv, Resource.csv | The `style=condition` list sheet to copy beside a new page of that type, renamed to the page's name; its first row is the intro line (`kind=md`), and every linked top-level row has a `region` (columns: List sheets in NPPR-FRAMEWORK.md) |
 | NPPR - Assessment | `assessment` |
 | NPPR - Condition | `condition` |
 | NPPR - Population | `population` |
