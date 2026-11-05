@@ -30,6 +30,8 @@ logo-alt: "Primary Care Alberta"
 
 ## More Approaches
 
+- [Ontario Health Quality Standards](Ontario%20Health%20Quality%20Standards.md) — *Ontario's quality standards by body system, with placemats and patient guides*
+- [CAMH Psychiatry in Primary Care](CAMH%20Psychiatry%20in%20Primary%20Care.md) — *CAMH's primary care guides to mental health and addiction, written for Ontario*
 - [Canadian Family Physician: Approach To and Management Of](Canadian%20Family%20Physician%20Approach%20and%20Management%20Articles.md) — *Canadian primary care "Approach to" and "Management of" reviews by body system, 2010 onward*
 - [Centre for Effective Practice Clinical Tools](Centre%20for%20Effective%20Practice%20Clinical%20Tools.md) — *Canadian primary care tools by body system, written for Ontario*
 - [Pathways BC Enhanced Care Pathways](Pathways%20BC%20Enhanced%20Care%20Pathways.md) — *BC primary care pathways by body system*

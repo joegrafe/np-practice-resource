@@ -24,3 +24,5 @@ date,site,url,wanted_for,reason,action,status,notes
 2026-10-30,caddra.ca,https://www.caddra.ca/,ADHD,blocked from the build network,allowlist or hand check,open,
 2026-10-30,reproductivementalhealth.ca,https://reproductivementalhealth.ca/,Pregnancy and Perinatal,blocked from the build network,allowlist or hand check,open,
 2026-10-29,psbchealthhub.ca,https://www.psbchealthhub.ca/,Pregnancy and Perinatal,CloudFront 403 to the default headless browser,hand check or desktop user agent,done,opens with a desktop Chrome user agent; topic pages carry a Last revision date
+2026-11-05,leddy.uwindsor.ca,https://leddy.uwindsor.ca/nursing,"Resources: BC Library Guides (Ontario rows, ON-4)",403 from the build network,hand check,open,University of Windsor nursing guide; Windsor has a PHCNP program
+2026-11-05,libguides.nipissingu.ca,https://libguides.nipissingu.ca/nursing,"Resources: BC Library Guides (Ontario rows, ON-4)",503 from the build network,re-check later,open,Nipissing nursing guide
