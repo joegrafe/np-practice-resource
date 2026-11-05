@@ -472,7 +472,27 @@ All pages opened 2026-10-09.
 
 # Part 2: Build prompts
 
-Run the framework one step at a time, in roadmap order. Each step says where to run it, what to do, the prompt to paste, and what to check before committing. Step status is tracked in the doc, not here.
+Run the framework one step at a time, in roadmap order. Each step says where to run it, what to do, the prompt to paste, and what to check before committing. Every PR, whatever the step, goes through the Before every pull request list first. Step status is tracked in the doc, not here.
+
+## Before every pull request
+
+One list, in order, for every PR that changes the site, in either repository. The rules it points at stay where they are (the Page standard, Search, CLAUDE.md, the scripts); this is the order to check them in, and the PR template in np-practice-resource (`.github/pull_request_template.md`) repeats it as tick boxes. Since 2026-11-05.
+
+What the checks run for you (they must be green, and a failing check is fixed in the same PR, never skipped or dropped):
+
+1. **Page checks:** `python3 scripts/check_pages.py docs` in np-practice-resource, 0 errors (frontmatter, review dates, sheet columns, region codes, the sources registry and `source` ids).
+2. **Test build and search check:** `scripts/test-build.sh` then `node scripts/search-check.js` in nppr-website-config, every line passing. Show the result in the PR.
+3. **New links:** `scripts/check_links.py --added` in the PR checks; a site that blocks automated checks is opened by hand and said so in the PR.
+
+What only the builder can check:
+
+4. **Sources opened.** Every linked source was opened from the publisher's own page on the day it was added; the year beside it is the one on that page; the document's row in `docs/sources.csv` carries its `checked` date, and the sheet row names it in `source` (the registry fills `url`, `pdf` and `year`). A document already in the registry is pointed at, never added again. A replaced guideline is changed in its registry row, with the old version in `supersedes`, not on a page.
+5. **Region rank and marks.** Rows sit in region order (BC, other provinces, `CA`, `US`, `INTL`) within each section, every linked top-level row has a `region` code from `docs/regions.csv`, rows for one region alone are `only=yes`, and a BC key source has its `only=other` copy under Further Resources. `"ON"` is quoted in frontmatter.
+6. **Page standard.** The page is its frontmatter plus one sheet; links, intro lines and headings went into the sheet, not the Markdown; the sections are in the order for the page type; Key Sources holds 1 to 3 rows; RxFiles is in Prescribing where it has a resource; AAFP is the first international source on approaches and condition pages; no clinical recommendation is written in our own words.
+7. **Search.** A new or renamed page has its aliases (frontmatter `aliases` or `hooks/search_aliases.yml`), its lines in `scripts/search-checks.txt`, and a synonym group for any term the site missed; frontmatter `type`, `system`, `jurisdiction` and `tags` match the page; a change to a section, sheet column or list style changes `scripts/search_data.py` and `site_assets/nppr-search.js` in the same PR.
+8. **Section index.** A page added, moved or removed is reflected in the In This Section list on its section's `index.md`, and a moved page has a redirect in nppr-website-config's `mkdocs.yml`.
+9. **Review state.** New pages are `status: draft` with `reviewers: []`; `last-reviewed` is today and `review-due` a year on (6 months for AI Tools pages). A review issue ("Review: <page>") is opened for a new condition page.
+10. **PR.** A draft PR with a screenshot or preview of each changed page (saved under /mnt/project-files/ when the thread's attachment limit is reached), the Before/After/How summary, and the paired PR in the other repository named, with the merge order (content first, then re-run the config build, then config). Joe's "merge" or "publish" comes before anything is merged or a page's status changes.
 
 ## Where to run each step
 
@@ -667,7 +687,7 @@ All steps run in Claude Code. Step 2.1 repeats once per condition on the Roadmap
 1. Replace the bracketed parts and paste:
 
 ```text
-Create a condition page for [Heart failure] under 3 Conditions/[Cardiovascular] using the NPPR Condition template, its NPPR - Condition.csv list sheet (copied beside the page with the page's name) and the Page standard in NPPR-FRAMEWORK.md. Put every link in the sheet (List sheets in the Page standard), not the page, and give every linked top-level row its region code from docs/regions.csv (the jurisdiction the content is written for). Record each document once in docs/sources.csv (the sources registry) and name it in the sheet row's source column. Check every site in the Source map rows for this page's system and the All topics row. Find the current BC Guidelines page first, then national Canadian guidance ([Canadian Cardiovascular Society]), PEER or Tools for Practice summaries, RxFiles or Firstline where prescribing applies, relevant clinical calculators, scores and decision aids (from MDCalc where it has them, for example CHA2DS2-VASc or BMI; a BC or Canadian tool where that is the standard here), and patient resources. Record each calculator in sources with kind: tool. Open every source you cite, record publisher, version and date checked in the sources frontmatter, and set status to review. List anything where you found no BC or Canadian source. Add the page's search aliases and its lines in scripts/search-checks.txt (Search in the Page standard).
+Create a condition page for [Heart failure] under 3 Conditions/[Cardiovascular] using the NPPR Condition template, its NPPR - Condition.csv list sheet (copied beside the page with the page's name) and the Page standard in NPPR-FRAMEWORK.md. Put every link in the sheet (List sheets in the Page standard), not the page, and give every linked top-level row its region code from docs/regions.csv (the jurisdiction the content is written for). Record each document once in docs/sources.csv (the sources registry) and name it in the sheet row's source column. Check every site in the Source map rows for this page's system and the All topics row. Find the current BC Guidelines page first, then national Canadian guidance ([Canadian Cardiovascular Society]), PEER or Tools for Practice summaries, RxFiles or Firstline where prescribing applies, relevant clinical calculators, scores and decision aids (from MDCalc where it has them, for example CHA2DS2-VASc or BMI; a BC or Canadian tool where that is the standard here), and patient resources. Record each calculator in sources with kind: tool. Open every source you cite, record publisher, version and the date checked in its docs/sources.csv row, run the Before every pull request list in NPPR-FRAMEWORK.md, and set status to review. List anything where you found no BC or Canadian source. Add the page's search aliases and its lines in scripts/search-checks.txt (Search in the Page standard).
 ```
 
 2. Test-build the site, open every link on the new page in the local preview and confirm the versions. Run `node scripts/search-check.js` in nppr-website-config and confirm every search passes.
