@@ -189,11 +189,11 @@ sources:
     kind: tool
     url: https://canpocus.com/courses/canpocus-ip-school/
     checked: 2026-11-05
-  # Other provinces
+  # Other provinces (national jurisdiction code; Alberta and Ontario named in the sheet notes)
   - id: crna-np-scope-of-practice
     title: Scope of Practice for Nurse Practitioners
     publisher: College of Registered Nurses of Alberta
-    jurisdiction: AB
+    jurisdiction: CA
     kind: guideline
     version: "2026-03-31"
     pdf: https://nurses.ab.ca/media/2usaxavx/scope-of-practice-for-nurse-practitioners.pdf
@@ -201,7 +201,7 @@ sources:
   - id: crna-restricted-activities-standards
     title: Restricted Activities Standards
     publisher: College of Registered Nurses of Alberta
-    jurisdiction: AB
+    jurisdiction: CA
     kind: guideline
     version: "2022"
     url: https://nurses.ab.ca/protecting-the-public/standards-code-of-ethics/standards-for-rns-and-nps/restricted-activities-standards/
@@ -210,7 +210,7 @@ sources:
   - id: cno-np-practice-standard
     title: "Practice Standard: Nurse Practitioner"
     publisher: College of Nurses of Ontario
-    jurisdiction: ON
+    jurisdiction: CA
     kind: guideline
     version: "2026"
     pdf: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41038_strdrnec.pdf
