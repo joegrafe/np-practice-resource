@@ -2,11 +2,12 @@
 title: Scope of Practice and Standards
 type: practice
 tags: [practice, scope, bccnm, standards]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
+aliases: [CNO standards, CNO practice standard, Nursing Act, RHPA, Code of Conduct, Ontario NP standard]
 description: "What BC nurse practitioners are authorized to do: the BCCNM practice and ethics standards that set NP scope since April 1, 2026, the legislation behind them and the national NP competencies."
 sources:
   # BC
@@ -133,6 +134,108 @@ sources:
     version: "2026-10-06"
     url: https://www.bccnm.ca/BCCNM/Announcements/Pages/Announcement.aspx?AnnouncementID=670
     checked: 2026-10-29
+  # ON
+  - id: cno-np-standard
+    title: "Practice Standard: Nurse Practitioner"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41038_strdrnec.pdf
+    checked: 2026-11-05
+  - id: cno-scope-of-practice
+    title: "Practice Standard: Scope of Practice"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/49041-scope-of-practice.pdf
+    checked: 2026-11-05
+  - id: cno-standards-guidelines
+    title: Standards and guidelines
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: tool
+    url: https://www.cno.org/en/learn-about-standards-guidelines/standards-and-guidelines/
+    checked: 2026-11-05
+  - id: cno-maid-guidance
+    title: "Guidance on Nurses' Roles in Medical Assistance in Dying"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41056-guidance-on-nurses-roles-in-maid.pdf
+    checked: 2026-11-05
+  - id: cno-code-of-conduct
+    title: Code of Conduct
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/49040_code-of-conduct.pdf
+    checked: 2026-11-05
+  - id: cno-boundaries
+    title: "Practice Standard: Professional Boundaries and Nurse-Client Relationships"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41033_therapeutic.pdf
+    checked: 2026-11-05
+  - id: cno-consent
+    title: "Practice Guideline: Consent"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41020_consent.pdf
+    checked: 2026-11-05
+  - id: cno-working-with-ucp
+    title: "Practice Guideline: Working With Unregulated Care Providers"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41014_workingucp.pdf
+    checked: 2026-11-05
+  - id: cno-documentation
+    title: "Practice Standard: Documentation"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41001_documentation.pdf
+    checked: 2026-11-05
+  - id: cno-medication
+    title: "Practice Standard: Medication"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41007_medication.pdf
+    checked: 2026-11-05
+  - id: cno-privacy
+    title: "Practice Standard: Confidentiality and Privacy: Personal Health Information"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41069_privacy.pdf
+    checked: 2026-11-05
+  - id: ontario-nursing-act
+    title: Nursing Act, 1991
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    url: https://www.ontario.ca/laws/statute/91n32
+    checked: 2026-11-05
+  - id: ontario-rhpa
+    title: Regulated Health Professions Act, 1991
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    url: https://www.ontario.ca/laws/statute/91r18
+    checked: 2026-11-05
   # National
   - id: ccrnr-np-entry-level-competencies
     title: Nurse Practitioner Entry-Level Competencies

@@ -178,7 +178,8 @@ def check_page(path, rel, text, f, source_ids):
         f.add("frontmatter", rel, ln("status"), f"status '{meta['status']}' is not draft, review or published.")
     juris = meta.get("jurisdiction")
     if juris is not None and (not isinstance(juris, list) or any(j not in JURIS for j in juris)):
-        f.add("frontmatter", rel, ln("jurisdiction"), "jurisdiction must be a list of codes from docs/regions.csv (BC, CA, INTL, ON ...).")
+        hint = ' Write ON in quotes ("ON"): YAML reads a bare ON as true.' if isinstance(juris, list) and True in juris else ""
+        f.add("frontmatter", rel, ln("jurisdiction"), "jurisdiction must be a list of codes from docs/regions.csv (BC, CA, INTL, ON ...)." + hint)
     regions = meta.get("regions")
     if regions is not None and (not isinstance(regions, list) or any(r not in JURIS for r in regions)):
         f.add("frontmatter", rel, ln("regions"), "regions must be a list of codes from docs/regions.csv.")
@@ -256,7 +257,8 @@ def check_page(path, rel, text, f, source_ids):
             source_ids.setdefault(str(src["id"]), []).append((rel, line, ident))
         j = src.get("jurisdiction")
         if j is not None and j not in JURIS:
-            f.add("sources", rel, line, f"Source {sid}: jurisdiction '{j}' is not a code from docs/regions.csv.")
+            hint = ' Write it as "ON" in quotes: YAML reads a bare ON as true.' if j is True else ""
+            f.add("sources", rel, line, f"Source {sid}: jurisdiction '{j}' is not a code from docs/regions.csv." + hint)
         elif j in JURIS:
             rank = JURIS_RANK[j]
             if rank < last:

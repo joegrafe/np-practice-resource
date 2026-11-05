@@ -2,11 +2,12 @@
 title: Drug Coverage
 type: prescribing
 tags: [prescribing, pharmacare, special-authority, drug-coverage]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-10-27
 review-due: 2027-10-27
 reviewers: [joegrafe]
+aliases: [ODB, Ontario Drug Benefit, e-Formulary, Exceptional Access Program, EAP, SADIE, Limited Use, LU code, Trillium Drug Program, OHIP+, Seniors Co-Payment]
 description: "BC PharmaCare for prescribers: Special Authority, Formulary Search, coverage plans and the programs that decide what a prescription costs the patient."
 sources:
   # BC
@@ -73,6 +74,61 @@ sources:
     kind: summary
     url: https://www.fnha.ca/benefits/pharmacy
     checked: 2026-10-27
+  # ON
+  - id: odb-eformulary
+    title: Ontario Drug Benefit e-Formulary
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    url: https://www.formulary.health.gov.on.ca/formulary/
+    checked: 2026-11-05
+  - id: odb-formulary-editions
+    title: ODB Formulary, Comparative Drug Index and monthly formulary (edition 43)
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: https://www.ontario.ca/document/ontario-drug-benefit-odb-formulary-comparative-drug-index-cdi-and-monthly-formulary-0
+    checked: 2026-11-05
+  - id: odb-eap
+    title: Exceptional Access Program
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: https://www.ontario.ca/page/exceptional-access-program
+    checked: 2026-11-05
+  - id: ontario-check-medication-coverage
+    title: Check medication coverage
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: https://www.ontario.ca/page/check-medication-coverage
+    checked: 2026-11-05
+  - id: odb-program
+    title: Get coverage for prescription drugs
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: patient
+    url: https://www.ontario.ca/page/get-coverage-prescription-drugs
+    checked: 2026-11-05
+  - id: ontario-trillium
+    title: Trillium Drug Program
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: patient
+    version: "2026"
+    url: https://www.ontario.ca/page/get-help-high-prescription-drug-costs
+    checked: 2026-11-05
+  - id: ohip-plus
+    title: "OHIP+: Children and Youth Pharmacare"
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: patient
+    version: "2026"
+    url: https://www.ontario.ca/page/learn-about-ohip-plus
+    checked: 2026-11-05
   # National
   - id: isc-nihb
     title: Non-Insured Health Benefits for First Nations and Inuit

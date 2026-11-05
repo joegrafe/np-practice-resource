@@ -1,15 +1,25 @@
 heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region
 Key Sources,,,,BC PharmaCare - PharmaCare Formulary Search,https://pharmacareformularysearch.gov.bc.ca/,,,,"whether a drug is covered, under which plans, and whether it needs Special Authority",,BC
+Key Sources,,,,Ontario Drug Benefit - e-Formulary,https://www.formulary.health.gov.on.ca/formulary/,,,,"ODB coverage, Limited Use criteria and codes",ODB formulary Ontario,ON
+Key Sources,,,1,Formulary edition 43 (October 2026) and summaries of changes,https://www.ontario.ca/document/ontario-drug-benefit-odb-formulary-comparative-drug-index-cdi-and-monthly-formulary-0,2026,,,,,
 Key Sources,,,,BC PharmaCare - Special Authority (SA),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/special-authority,,,,"coverage for drugs, devices and supplies that need approval first; replaces the Limited Coverage Drug Program pages",,BC
 Key Sources,,,1,SA drug list and criteria,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/special-authority/sa-drug-list,,,,,,
 Key Sources,,,1,SA request forms by condition,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/special-authority/special-authority-request-forms-drugs-medical-devices-and-supplies,,,,,,
 Key Sources,,,1,SA eForms,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/special-authority/special-authority-eforms,,,,NPs in private community practice can submit online,,
 Key Sources,,,1,"General Special Authority Request, HLTH 5328 (PDF)",https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,,,
+Key Sources,,,,Ontario Drug Benefit - Exceptional Access Program (EAP),https://www.ontario.ca/page/exceptional-access-program,2026,,,drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario exceptional access,ON
+Key Sources,,,1,SADIE (Special Authorization Digital Information Exchange),https://www.ontario.ca/SADIE,,,,,,
+Key Sources,,,1,EAP request forms,https://forms.mgcs.gov.on.ca/en/dataset/014-4406-87,,,,,,
 Key Sources,,,,BC PharmaCare - PharmaCare 101: An introduction for health professionals,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/pharmacare101,,,,"short modules with transcripts on plans, Special Authority, Fair PharmaCare and how coverage decisions are made",,BC
 Key Sources,,,1,Special Authority transcript (PDF),https://www2.gov.bc.ca/assets/gov/health/health-drug-coverage/pharmacare/pharmacare101_-_special_authority_transcript.pdf,,,,,,
 Key Sources,,,1,BC PharmaCare: Essential resources for health professionals (PDF),https://www2.gov.bc.ca/assets/gov/health/health-drug-coverage/pharmacare/bc_pcare_essential_resources_for_health_professionals.pdf,,,,,,
+Key Sources,,,,Government of Ontario - Check medication coverage,https://www.ontario.ca/page/check-medication-coverage,2026,,,is a drug covered by the Ontario Drug Benefit program,,ON
 Coverage Plans,,,,BC PharmaCare plans: Information for health professionals,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/plans,,,,"every plan, who it covers and its Policy Manual section",,BC
 Coverage Plans,,,,Fair PharmaCare,https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/who-we-cover/fair-pharmacare-plan,,,,income-based coverage for BC residents; patients register once,,BC
+Coverage Plans,,,,Ontario Drug Benefit (ODB) program,https://www.ontario.ca/page/get-coverage-prescription-drugs,,,,"who ODB covers, and the Ontario programs below",ODB eligibility,ON
+Coverage Plans,,,,Trillium Drug Program,https://www.ontario.ca/page/get-help-high-prescription-drug-costs,2026,,,high prescription drug costs relative to household income,,ON
+Coverage Plans,,,,OHIP+: Children and Youth Pharmacare,https://www.ontario.ca/page/learn-about-ohip-plus,2026,,,age 24 and under with OHIP and no private drug plan; no enrolment needed,OHIP+,ON
+Coverage Plans,,,,Seniors Co-Payment Program,https://ontario.ca/seniorscopayment,,,,lower ODB co-payment for seniors with low income,,ON
 Coverage Plans,,,,Income Assistance and Family Services (Plan C),https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/who-we-cover/plan-c,,,,,,BC
 Coverage Plans,,,,Psychiatric Medications (Plan G),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/plans/psychiatric-medications-plan-plan-g,,,,,,BC
 Coverage Plans,,,1,"Application for PharmaCare Plan G, HLTH 3497 (PDF)",https://www2.gov.bc.ca/assets/gov/health/forms/3497fil.pdf,,,,,,
@@ -43,3 +53,4 @@ Pharmacist Services,,,,Minor Ailments and Contraception Service (MACS),https://w
 Patient Resources,,,,PharmaCare information sheets for patients,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/pharmacare-publications/patient-information-sheets,,,,"Fair PharmaCare, Special Authority, contraceptives, smoking cessation and more; the Special Authority pamphlet is in 15 languages",,BC
 Patient Resources,,,,Drugs that require Special Authority (for patients),https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/what-we-cover/drugs-requiring-pre-approval,,,,,,BC
 NP Prescribing Notes,,md,,"- NPs can submit Special Authority requests, including by eForm from private community practice. NP prescribing limits and conditions are set by [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx); PharmaNet and PRIME are on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md).",,,,,,,BC
+NP Prescribing Notes,,md,,"- Ontario NPs submit Exceptional Access Program requests through [SADIE](https://www.ontario.ca/SADIE); ODB pays for drugs on the e-Formulary and, with the Limited Use code, for Limited Use drugs — *[EAP](https://www.ontario.ca/page/exceptional-access-program)*",,,,,,,ON

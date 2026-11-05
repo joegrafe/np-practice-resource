@@ -2,12 +2,12 @@
 title: Forms and Duty to Report
 type: practice
 tags: [practice, forms, duty-to-report, driver-fitness, worksafebc, icbc, reportable-diseases, child-protection]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-11-01
 review-due: 2027-11-01
 reviewers: [joegrafe]
-aliases: [mandatory reporting, duty to report, DMER, driver medical, fitness to drive, RoadSafetyBC, unfit to drive, WorkSafeBC form, Form 8NP, Form 11NP, 8NP, 11NP, work injury report, ICBC report, CL489R, reportable diseases, notifiable diseases, child abuse report, child protection, MCFD, elder abuse, adult abuse, coroner, death certificate, medical certificate of death, MAID forms, MAiD reporting, PWD application, persons with disabilities, disability tax credit, DTC, T2201, CPP disability, gunshot wound]
+aliases: [mandatory reporting, duty to report, DMER, driver medical, fitness to drive, RoadSafetyBC, unfit to drive, WorkSafeBC form, Form 8NP, Form 11NP, 8NP, 11NP, work injury report, ICBC report, CL489R, reportable diseases, notifiable diseases, child abuse report, child protection, MCFD, elder abuse, adult abuse, coroner, death certificate, medical certificate of death, MAID forms, MAiD reporting, PWD application, persons with disabilities, disability tax credit, DTC, T2201, CPP disability, gunshot wound, WSIB, Form 8, CMS8, Functional Abilities Form, FAF, OCF-18, HCAI, Medical Condition Report, Driver Medical Review, ODSP, Health Status Report, children's aid society, CYFSA, Form 16, Ontario coroner]
 description: "Reports BC nurse practitioners must or may make, and the forms they complete: driver fitness, WorkSafeBC, ICBC, reportable diseases, child and adult protection, deaths, MAID and disability benefits."
 sources:
   # BC
@@ -114,6 +114,85 @@ sources:
     kind: tool
     url: https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/pwd-designation-and-application/designation-application
     checked: 2026-11-01
+  # ON
+  - id: cno-np-practice-resources
+    title: Nurse Practitioner practice resources
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: tool
+    url: https://www.cno.org/standards-learning/nurse-practitioners/nurse-practitioners
+    checked: 2026-11-05
+  - id: ontario-driver-medical-review
+    title: Reporting to the Driver Medical Review
+    publisher: Ontario Ministry of Transportation
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.ontario.ca/page/reporting-driver-medical-review
+    checked: 2026-11-05
+  - id: wsib-forms
+    title: "Health Professional's Report (Form 8), Form CMS8 and Functional Abilities Form"
+    publisher: WSIB
+    jurisdiction: "ON"
+    kind: tool
+    version: "2025"
+    url: https://wsib.ca/en/commonly-used-forms-form-8-form-cms8-and-faf
+    checked: 2026-11-05
+  - id: hcai-ocf-18
+    title: OCF-18 Treatment and Assessment Plan
+    publisher: HCAI
+    jurisdiction: "ON"
+    kind: tool
+    url: https://www.hcaiinfo.ca/health-care-facilities/provider-support/ocf-18
+    checked: 2026-11-05
+  - id: ontario-reg-135-18
+    title: "O. Reg. 135/18: Designation of Diseases"
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.ontario.ca/laws/regulation/180135
+    checked: 2026-11-05
+  - id: ontario-report-child-abuse
+    title: Report child abuse and neglect
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.ontario.ca/page/report-child-abuse-and-neglect
+    checked: 2026-11-05
+  - id: ontario-death-investigations
+    title: Death investigations
+    publisher: Office of the Chief Coroner for Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.ontario.ca/page/death-investigations
+    checked: 2026-11-05
+  - id: cno-certifying-death
+    title: Certifying death
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://cno.org/standards-learning/certifying-death
+    checked: 2026-11-05
+  - id: ontario-maid-professionals
+    title: "Medical assistance in dying: support for medical professionals"
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.ontario.ca/page/medical-assistance-dying-and-end-life-decisions-support-medical-professionals
+    checked: 2026-11-05
+  - id: odsp-disability-determination
+    title: ODSP Disability Determination Package
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: https://www.ontario.ca/page/ontario-disability-support-program-disability-determination-package
+    checked: 2026-11-05
   # National
   - id: cra-t2201
     title: T2201 Disability Tax Credit Certificate

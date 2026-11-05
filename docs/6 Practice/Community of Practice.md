@@ -2,11 +2,12 @@
 title: Community of Practice
 type: practice
 tags: [practice, community-of-practice, mentorship, peer-support, echo, np-circle]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
+aliases: [NPAO, ECHO Ontario]
 description: "Peer support and case-based learning for BC nurse practitioners: NP Circle, NNPBC's NP-PIP community of practice and mentorship, and the Project ECHO programs open to BC primary care NPs."
 sources:
   # BC
@@ -38,6 +39,21 @@ sources:
     kind: summary
     url: https://www.interiorhealth.ca/information-for/medical-staff/tools-and-resources/project-echo
     checked: 2026-10-29
+  # ON
+  - id: npao
+    title: "Nurse Practitioners' Association of Ontario"
+    publisher: NPAO
+    jurisdiction: "ON"
+    kind: tool
+    url: https://npao.org/
+    checked: 2026-11-05
+  - id: echo-ontario-programs
+    title: ECHO Ontario programs
+    publisher: ECHO Ontario
+    jurisdiction: "ON"
+    kind: tool
+    url: https://www.echoontario.ca/Join-an-ECHO/Programs
+    checked: 2026-11-05
   # National
   - id: np-circle
     title: NP Circle
