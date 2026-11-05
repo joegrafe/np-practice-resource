@@ -44,13 +44,7 @@ sources:
     url: "https://libguides.athabascau.ca/c.php?g=696592&p=4940902"
     checked: 2026-11-02
 ---
-<!-- Older page, waiting to be rebuilt in its section's wave (NPPR-FRAMEWORK.md, Section page lists). Left in search because it is the only page on its topic until then. -->
-UNBC NP: https://libguides.unbc.ca/nursepractitioners  
+<!-- Converted to a list sheet 2026-11-05 (build step 1 of the province switch); still a draft until its Resources wave. -->
+*University library guides for nurse practitioners: BC university libraries first, then Athabasca.*
 
-UBC Nursing: https://guides.library.ubc.ca/nursing  
-
-UBC Family Practice: https://guides.library.ubc.ca/familypractice  
-
-Thompson Rivers: https://libguides.tru.ca/nursing  
-
-Athabasca University: https://libguides.athabascau.ca/c.php?g=696592&p=4940902
+<!-- nppr-list: BC Library Guides.csv style=condition -->

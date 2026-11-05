@@ -11,10 +11,11 @@ Checks:
   review-due     review-due is after last-reviewed and has not passed
   sources        required source fields; a url or a pdf; an id names one source only
                  (the same id on several pages must point to the same address)
-  source-order   sources listed BC, then CA, then INTL
+  source-order   sources listed provinces and territories, then CA, then US, then INTL
   list-sheet     each <!-- nppr-list: --> marker names a CSV beside the page, the CSV
                  uses only the list-sheet columns, every row has a title (a note row
                  has a note), kind and level hold allowed values, links are http(s),
+                 every top-level row with a link has a region from docs/regions.csv,
                  and every CSV in docs/ is used by a page
   team           the Team sheet (style=team, docs/About/Team.csv) has its own
                  columns, an id, name and allowed level on every row, and a photo
@@ -41,7 +42,29 @@ import yaml
 TYPES = {"approach", "assessment", "condition", "population", "prescribing", "practice",
          "evidence-pack", "resource", "index", "about"}
 STATUSES = {"draft", "review", "published"}
-JURIS = ["BC", "CA", "INTL"]
+REGIONS_SHEET = "regions.csv"  # docs/regions.csv: code, name, country, kind, live
+JURIS = ["BC", "CA", "INTL"]  # replaced by the codes in docs/regions.csv when it exists
+JURIS_RANK = {}  # code -> order sources are listed in: provinces, then CA, then US, then INTL
+
+
+def load_regions(docs):
+    """Region codes from docs/regions.csv, in source-order rank."""
+    global JURIS, JURIS_RANK
+    path = docs / REGIONS_SHEET
+    if not path.exists():
+        JURIS_RANK = {j: i for i, j in enumerate(JURIS)}
+        return
+    codes, rank = [], {}
+    with open(path, encoding="utf-8-sig", newline="") as fh:
+        for row in csv.DictReader(fh):
+            code = (row.get("code") or "").strip()
+            if not code:
+                continue
+            kind, country = (row.get("kind") or "").strip(), (row.get("country") or "").strip()
+            codes.append(code)
+            rank[code] = (0 if kind in ("province", "territory", "state") and country == "CA"
+                          else 1 if code == "CA" else 2 if country == "US" else 3 if code == "INTL" else 2)
+    JURIS, JURIS_RANK = codes, rank
 KINDS = {"guideline", "algorithm", "pathway", "summary", "tool", "patient"}
 SYSTEMS = {
     "Cardiovascular": "cardiovascular", "Respiratory": "respiratory",
@@ -60,7 +83,7 @@ PAGE_REQUIRED = ["title", "type", "tags", "jurisdiction", "status", "last-review
 SOURCE_REQUIRED = ["id", "title", "publisher", "jurisdiction", "kind", "checked"]
 NO_SOURCES = {"index", "about"}
 LIST_COLUMNS = {"heading", "subheading", "title", "url", "year", "pdf", "links", "note",
-                "keywords", "sub", "kind", "level"}
+                "keywords", "sub", "kind", "level", "region"}
 LIST_KINDS = {"", "box", "note", "md"}  # condition sheets; blank is a link line
 LIST_LEVELS = {"", "0", "1", "2"}
 TEAM_SHEET = "About/Team.csv"
@@ -145,7 +168,10 @@ def check_page(path, rel, text, f, source_ids):
         f.add("frontmatter", rel, ln("status"), f"status '{meta['status']}' is not draft, review or published.")
     juris = meta.get("jurisdiction")
     if juris is not None and (not isinstance(juris, list) or any(j not in JURIS for j in juris)):
-        f.add("frontmatter", rel, ln("jurisdiction"), "jurisdiction must be a list of BC, CA, INTL.")
+        f.add("frontmatter", rel, ln("jurisdiction"), "jurisdiction must be a list of codes from docs/regions.csv (BC, CA, INTL, ON ...).")
+    regions = meta.get("regions")
+    if regions is not None and (not isinstance(regions, list) or any(r not in JURIS for r in regions)):
+        f.add("frontmatter", rel, ln("regions"), "regions must be a list of codes from docs/regions.csv.")
     tags = meta.get("tags")
     if tags is not None:
         if not isinstance(tags, list) or not tags:
@@ -192,7 +218,7 @@ def check_page(path, rel, text, f, source_ids):
     if not isinstance(sources, list):
         f.add("sources", rel, ln("sources"), "sources must be a list.")
         return
-    line, order, last = ln("sources"), [], -1
+    line, order, last, last_code = ln("sources"), [], -1, ""
     for i, src in enumerate(sources):
         if not isinstance(src, dict):
             f.add("sources", rel, line, f"Source {i + 1} is not a set of fields.")
@@ -220,16 +246,17 @@ def check_page(path, rel, text, f, source_ids):
             source_ids.setdefault(str(src["id"]), []).append((rel, line, ident))
         j = src.get("jurisdiction")
         if j is not None and j not in JURIS:
-            f.add("sources", rel, line, f"Source {sid}: jurisdiction '{j}' is not BC, CA or INTL.")
+            f.add("sources", rel, line, f"Source {sid}: jurisdiction '{j}' is not a code from docs/regions.csv.")
         elif j in JURIS:
-            rank = JURIS.index(j)
+            rank = JURIS_RANK[j]
             if rank < last:
                 f.add("source-order", rel, line,
-                      f"Source {sid} ({j}) is listed after a {JURIS[last]} source; list BC, then CA, then INTL.")
-            last = max(last, rank)
+                      f"Source {sid} ({j}) is listed after a {last_code} source; list provinces, then CA, then US, then INTL.")
+            if rank >= last:
+                last, last_code = rank, j
             order.append(j)
     if isinstance(juris, list) and order:
-        extra = sorted(set(order) - set(juris), key=JURIS.index)
+        extra = sorted(set(order) - set(juris), key=lambda j: JURIS_RANK[j])
         if extra:
             f.add("frontmatter", rel, ln("jurisdiction"),
                   f"jurisdiction leaves out {', '.join(extra)}, which its sources cover.")
@@ -283,9 +310,16 @@ def check_sheet(path, rel, f):
                 f.add("list-sheet", rel, n, f"links cell has a link that isn't http(s): {u[:60]}")
         if cells.get("year") and not re.match(r"^\d{4}(\D.*)?$", cells["year"]):
             f.add("list-sheet", rel, n, f"year should start with a 4-digit year: {cells['year']}")
-        if cells.get("sub", "").lower() in {"yes", "y", "1", "true", "x"} and first:
+        is_sub = cells.get("sub", "").lower() in {"yes", "y", "1", "true", "x"}
+        if is_sub and first:
             f.add("list-sheet", rel, n, "First row is marked sub, but there's no row above it.")
         first = False
+        region = cells.get("region", "")
+        if region and region not in JURIS:
+            f.add("list-sheet", rel, n, f"region '{region}' is not a code from docs/regions.csv.")
+        elif not region and "region" in cols and (cells.get("url") or cells.get("pdf")) \
+                and cells.get("level", "") in ("", "0") and not is_sub:
+            f.add("list-sheet", rel, n, "Linked top-level row has no region (BC, CA, INTL, ON ...).")
 
 
 def check_team(path, rel, docs, f):
@@ -364,6 +398,7 @@ def main():
     ap.add_argument("--files", nargs="*")
     args = ap.parse_args()
     docs = pathlib.Path(args.docs)
+    load_regions(docs)
     f, source_ids, used = Findings(), {}, set()
 
     for path in sorted(docs.rglob("*.md")):
@@ -391,8 +426,11 @@ def main():
     team = check_team(team_sheet, team_sheet.as_posix(), docs, f) if team_sheet.exists() else {}
     if team:
         check_reviewers(docs, team, f)
+    regions_sheet = docs / REGIONS_SHEET
     for path in sorted(docs.rglob("*.csv")):
         rel = path.as_posix()
+        if path.resolve() == regions_sheet.resolve():
+            continue  # the region list, not a page sheet
         if path.resolve() != team_sheet.resolve():
             check_sheet(path, rel, f)
         if path.resolve() not in used:
