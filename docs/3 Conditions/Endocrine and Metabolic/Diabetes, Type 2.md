@@ -3,7 +3,7 @@ title: "Diabetes, Type 2"
 type: condition
 system: endocrine-metabolic
 tags: [condition, endocrine-metabolic, dm, older-adults, indigenous-health]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
@@ -257,6 +257,38 @@ sources:
     version:
     url: "https://iconproject.org/healthinformation/diabetes/"
     checked: 2026-10-10
+  - id: ontario-health-prediabetes-type-2-diabetes-qs-2021
+    title: "Prediabetes and Type 2 Diabetes: Care for People of All Ages (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "May 1, 2021"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=prediabetes-type-2-diabetes"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-prediabetes-and-type-2-diabetes-quality-standard-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
+  - id: odb-eap
+    title: Exceptional Access Program
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: "https://www.ontario.ca/page/exceptional-access-program"
+    checked: 2026-11-05
+  - id: cep-type-2-diabetes-2023
+    title: "Type 2 Diabetes"
+    publisher: Centre for Effective Practice
+    jurisdiction: "ON"
+    kind: tool
+    version: "2023"
+    url: "https://cep.health/clinical-products/type-2-diabetes/"
+    checked: 2026-10-29
   - id: diabetes-canada-cpg
     title: Diabetes Canada Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada
     publisher: Diabetes Canada

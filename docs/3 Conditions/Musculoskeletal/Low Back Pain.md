@@ -3,7 +3,7 @@ title: Low Back Pain
 type: condition
 system: musculoskeletal
 tags: [condition, musculoskeletal, low-back-pain, back-pain, pain, urgent-care]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [LBP, back pain, lower back pain, lumbago, mechanical back pain, acute low back pain, chronic low back pain, sciatica, lumbar radiculopathy, radicular pain, herniated disc, slipped disc, spinal stenosis, neurogenic claudication, back strain, red flags, cauda equina, back imaging, lumbar spine x-ray, lumbar MRI, CORE Back Tool]
 status: published
 last-reviewed: 2026-10-30
@@ -52,6 +52,31 @@ sources:
     version: "Current as of November 9, 2022"
     url: "https://www.healthlinkbc.ca/healthwise/low-back-pain"
     checked: 2026-10-30
+  - id: ontario-health-low-back-pain-qs-2025
+    title: "Low Back Pain: Care for Adults With Acute Low Back Pain (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "August 1, 2025"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=low-back-pain"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-low-back-pain-quality-standard-2025-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-health-opioid-prescribing-acute-pain-qs-2018
+    title: "Opioid Prescribing for Acute Pain: Care for People 15 Years of Age and Older (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "March 1, 2018"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=opioid-prescribing-acute-pain"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-opioid-acute-pain-quality-standard-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
   - id: peer-chronic-pain-2022
     title: "PEER simplified chronic pain guideline: Management of chronic low back, osteoarthritic, and neuropathic pain in primary care"
     publisher: "PEER (Canadian Family Physician)"

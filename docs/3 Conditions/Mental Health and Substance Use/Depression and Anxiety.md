@@ -3,7 +3,7 @@ title: Depression and Anxiety
 type: condition
 system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, depression, anxiety, mood, low-mood, worry, pediatrics, adolescents, pregnancy, depressed-mood, suicidal-thoughts]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [MDD, major depressive disorder, GAD, generalized anxiety disorder, panic disorder, panic attacks, low mood, depressed, sad, worry, nervous, antidepressant, SSRI, SNRI, sertraline, escitalopram, citalopram, fluoxetine, venlafaxine, duloxetine, bupropion, mirtazapine, PHQ-9, GAD-7, suicide risk, CANMAT]
 status: published
 last-reviewed: 2026-10-29
@@ -62,6 +62,31 @@ sources:
     url: "https://www.ti.ubc.ca/2025/07/17/157-how-to-stop-antidepressants/"
     pdf: "https://www.ti.ubc.ca/wordpress/wp-content/uploads/2025/07/TL-157wrapper.pdf"
     checked: 2026-10-29
+  - id: ontario-health-major-depression-qs-2025
+    title: "Major Depression: Care for Adults and Adolescents (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "October 1, 2025"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=major-depression"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-major-depression-quality-standard-2025-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-health-anxiety-disorders-qs-2020
+    title: "Anxiety Disorders: Care in All Settings (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "January 1, 2020"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=anxiety-disorders"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-anxiety-disorders-quality-standard-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
   - id: canmat-mdd-2023
     title: "CANMAT 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults"
     publisher: "Canadian Network for Mood and Anxiety Treatments (Can J Psychiatry)"

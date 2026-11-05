@@ -5,6 +5,7 @@ system: cardiovascular
 tags: [condition, cardiovascular, heart-failure, hf, dyspnea, edema, fatigue]
 jurisdiction:
   - BC
+  - "ON"
   - CA
 status: published
 last-reviewed: 2026-10-09
@@ -88,6 +89,30 @@ sources:
     kind: pathway
     version: "2024-10-18"
     url: "https://pathwaysbc.ca/ci/5231"
+    checked: 2026-10-29
+  - id: ontario-health-heart-failure-qs-2022
+    title: "Heart Failure: Care in the Community for Adults (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "January 1, 2022"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=heart-failure"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-heart-failure-quality-standard-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
+  - id: cep-heart-failure-2024
+    title: "Heart Failure"
+    publisher: Centre for Effective Practice
+    jurisdiction: "ON"
+    kind: tool
+    version: "2024"
+    url: "https://cep.health/clinical-products/managing-patients-with-heart-failure/"
     checked: 2026-10-29
   - id: ccs-chfs-hfnref-2025
     title: CCS/CHFS 2025 Guideline Update for Pharmacologic Management of Heart Failure With Nonreduced Ejection Fraction (LVEF > 40%)

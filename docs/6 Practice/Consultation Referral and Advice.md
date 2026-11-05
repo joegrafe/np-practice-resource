@@ -2,12 +2,12 @@
 title: Consultation, Referral and Advice
 type: practice
 tags: [practice, consultation, referral, advice-lines, race, rtvs, econsult]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-11-01
 review-due: 2027-11-01
 reviewers: [joegrafe]
-aliases: [RACE, RACE line, RACEapp, RTVS, Real-Time Virtual Support, RUDi, CHARLiE, MaBAL, ROCCi, eConsult, eCASE, specialist advice, advice line, consult line, phone a specialist, Pathways BC, Compass, poison control, DPIC, drug information line, addiction medicine line, palliative care line]
+aliases: [RACE, RACE line, RACEapp, RTVS, Real-Time Virtual Support, RUDi, CHARLiE, MaBAL, ROCCi, eConsult, eCASE, specialist advice, advice line, consult line, phone a specialist, Pathways BC, Compass, poison control, DPIC, drug information line, addiction medicine line, palliative care line, OTNhub, Ontario Poison Centre]
 description: "Getting advice and making referrals as a BC nurse practitioner: the BCCNM consultation and referral standard, RACE and other specialist advice lines, rural virtual support, eConsults and referral directories."
 sources:
   # BC
@@ -69,6 +69,29 @@ sources:
     kind: tool
     url: https://pathwaysbc.ca/
     checked: 2026-11-01
+  # ON
+  - id: cno-np-standard
+    title: "Practice Standard: Nurse Practitioner"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41038_strdrnec.pdf
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: https://otn.ca/providers/primary-care/econsult/
+    checked: 2026-11-05
+  - id: ontario-poison-centre
+    title: Ontario Poison Centre
+    publisher: Ontario Poison Centre
+    jurisdiction: "ON"
+    kind: tool
+    url: https://www.ontariopoisoncentre.ca/
+    checked: 2026-11-05
 ---
 <!-- Practice wave 3 (plan: https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc, approved by Joe 2026-10-27).
      Topic ownership (NPPR-FRAMEWORK.md): RACE, Pathways and advice lines live here; condition pages keep their own

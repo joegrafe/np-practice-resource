@@ -2,11 +2,12 @@
 title: Prescribing Authority
 type: practice
 tags: [practice, prescribing, bccnm, controlled-drugs, pharmanet, prime]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
+aliases: [CNO medication standard, controlled substances education, Narcotics Monitoring System, NMS, Digital Health Drug Repository, DHDR, ConnectingOntario]
 description: "The rules on what BC nurse practitioners may prescribe: BCCNM prescribing standards and limits, controlled drugs and the Controlled Prescription Program, PharmaNet and PRIME, medical cannabis and programs with their own education requirements."
 sources:
   # BC
@@ -96,6 +97,38 @@ sources:
     kind: summary
     url: https://education.bccfe.ca/nurse-practitioner-program/
     checked: 2026-10-29
+  # ON
+  - id: cno-medication
+    title: "Practice Standard: Medication"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41007_medication.pdf
+    checked: 2026-11-05
+  - id: cno-controlled-substances
+    title: NPs and prescribing controlled substances
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.cno.org/standards-learning/nurse-practitioners/nps-and-prescribing-controlled-substances
+    checked: 2026-11-05
+  - id: ontario-narcotics-monitoring-system
+    title: Narcotics Monitoring System
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: https://www.ontario.ca/page/narcotics-monitoring-system
+    checked: 2026-11-05
+  - id: ontario-dhdr
+    title: Dispensed medications (Digital Health Drug Repository)
+    publisher: eHealth Ontario
+    jurisdiction: "ON"
+    kind: tool
+    url: https://ehealthontario.on.ca/en/health-care-professionals/dispensed-medications
+    checked: 2026-11-05
   # National
   - id: hc-cannabis-practitioners
     title: "Information for Health Care Practitioners: Medical Use of Cannabis"

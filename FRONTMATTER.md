@@ -43,7 +43,7 @@ sources:
 | `type` | Yes | `approach` · `assessment` · `condition` · `population` · `prescribing` · `practice` · `evidence-pack` · `resource` · `index` · `about` | `index` (section index pages) and `about` (About pages) are additions for pages the framework's list doesn't cover. |
 | `system` | Condition pages only | One slug from the body-system list below | Must match the Conditions sub-folder. |
 | `tags` | Yes | Lowercase, hyphenated list | First tag is the page type. Add the system, then any population and presenting-symptom tags that apply (see Tags below). |
-| `jurisdiction` | Yes | List of codes from `docs/regions.csv` (`BC`, `CA`, `INTL`, `ON`, `AB` ...) | Every jurisdiction the page's sources cover. |
+| `jurisdiction` | Yes | List of codes from `docs/regions.csv` (`BC`, `CA`, `INTL`, `ON`, `AB` ...) | Every jurisdiction the page's sources cover, provinces first: `[BC, "ON", CA]`. Write `"ON"` in quotes, because YAML reads a bare `ON` as true. |
 | `regions` | No | List of codes from `docs/regions.csv` | The regions whose sources were swept for this page, e.g. `[BC, ON]`, for the province switch. Leave out until a page has been swept for a second region. |
 | `status` | Yes | `draft` · `review` · `published` | `draft` while writing, `review` when ready for a reviewer, `published` after review. |
 | `last-reviewed` | Yes | `YYYY-MM-DD` | The date every source on the page was last checked. |
@@ -74,7 +74,7 @@ A tag only shows on Browse by Tag once it's in one of that page's `include` list
 | `id` | Yes | Lowercase slug, unique across the site | Publisher, topic and year, e.g. `htn-canada-2025`. Evidence Packs and the manifest key on it. |
 | `title` | Yes | Text | The source's own title. Quote it if it contains a colon. |
 | `publisher` | Yes | Text | The organization that publishes it, e.g. `BC GPAC`, `Hypertension Canada`. |
-| `jurisdiction` | Yes | A code from `docs/regions.csv` (`BC` · `CA` · `INTL` · `ON` · `AB` ...) | Label international guidance as `INTL`. List provinces and territories first, then `CA`, then `US`, then `INTL`. |
+| `jurisdiction` | Yes | A code from `docs/regions.csv` (`BC` · `CA` · `INTL` · `ON` · `AB` ...) | Label international guidance as `INTL`. List provinces and territories first, then `CA`, then `US`, then `INTL`. Write `"ON"` in quotes (YAML reads a bare `ON` as true). |
 | `kind` | Yes | `guideline` · `algorithm` · `pathway` · `summary` · `tool` · `patient` | |
 | `version` | When the publisher gives one | Text, quoted | Year or edition as the publisher states it, e.g. `"2025"`, `"v3.1"`. |
 | `url` | `url` or `pdf` | Publisher's web page | |
@@ -104,7 +104,7 @@ Condition pages use one of these `system` slugs, which match the Conditions sub-
 
 ## Rules
 
-- Every source carries a region code from `docs/regions.csv`, in frontmatter `jurisdiction` and in the sheet's `region` column: the jurisdiction its content is written for. Order them provinces and territories first (BC first, as the default region), then `CA`, then `US`, then `INTL`, and label international guidance as such.
+- Every source carries a region code from `docs/regions.csv`, in frontmatter `jurisdiction` and in the sheet's `region` column: the jurisdiction its content is written for. Order them provinces and territories first (BC first, as the default region), then `CA`, then `US`, then `INTL`, and label international guidance as such. A sheet row that is for its region alone (a referral line, drug coverage, a regulator's standard, a province's own quality standard) also carries `only=yes`, so it shows only in that region's view (List sheets in NPPR-FRAMEWORK.md).
 - A page is its frontmatter plus one list sheet beside it (Page standard in NPPR-FRAMEWORK.md): every link, intro line, step and table is a sheet row. Section index pages and About pages are the exception.
 - Link to each publisher's own page or PDF. Don't host or copy third-party documents.
 - Don't write clinical recommendations in our own words. Link to the source guidance instead.

@@ -2,11 +2,12 @@
 title: Registration and Licensure
 type: practice
 tags: [practice, registration, licensure, bccnm, quality-assurance, cnps]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
+aliases: [CNO, College of Nurses of Ontario, Extended Class, jurisprudence exam, QA Every Day]
 description: "Getting and keeping a BC nurse practitioner licence: BCCNM applications, exams, annual renewal and Quality Assurance, liability protection through CNPS, and the MSP practitioner number."
 sources:
   # BC
@@ -68,6 +69,23 @@ sources:
     kind: tool
     pdf: https://www2.gov.bc.ca/assets/gov/health/forms/2998fil.pdf
     checked: 2026-10-29
+  # ON
+  - id: cno-become-np
+    title: Become a nurse practitioner in Ontario
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: https://www.cno.org/en/become-a-nurse/new-applicants1/nurse-practitioner/
+    checked: 2026-11-05
+  - id: cno-qa-nps
+    title: Quality Assurance resources for NPs
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.cno.org/standards-learning/nurse-practitioners/quality-assurance-resources-for-nps
+    checked: 2026-11-05
   # National
   - id: cnps-plp-core
     title: Professional liability protection

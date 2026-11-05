@@ -16,6 +16,7 @@ Checks:
                  uses only the list-sheet columns, every row has a title (a note row
                  has a note), kind and level hold allowed values, links are http(s),
                  every top-level row with a link has a region from docs/regions.csv,
+                 an only mark sits on a top-level row that has a region,
                  and every CSV in docs/ is used by a page
   page-body      a page with a list sheet holds no heading or link line of its own
                  (Approaches, About and index pages excepted): the page is its
@@ -86,7 +87,7 @@ PAGE_REQUIRED = ["title", "type", "tags", "jurisdiction", "status", "last-review
 SOURCE_REQUIRED = ["id", "title", "publisher", "jurisdiction", "kind", "checked"]
 NO_SOURCES = {"index", "about"}
 LIST_COLUMNS = {"heading", "subheading", "title", "url", "year", "pdf", "links", "note",
-                "keywords", "sub", "kind", "level", "region"}
+                "keywords", "sub", "kind", "level", "region", "only"}
 LIST_KINDS = {"", "box", "note", "md"}  # condition sheets; blank is a link line
 LIST_LEVELS = {"", "0", "1", "2"}
 TEAM_SHEET = "About/Team.csv"
@@ -178,7 +179,8 @@ def check_page(path, rel, text, f, source_ids):
         f.add("frontmatter", rel, ln("status"), f"status '{meta['status']}' is not draft, review or published.")
     juris = meta.get("jurisdiction")
     if juris is not None and (not isinstance(juris, list) or any(j not in JURIS for j in juris)):
-        f.add("frontmatter", rel, ln("jurisdiction"), "jurisdiction must be a list of codes from docs/regions.csv (BC, CA, INTL, ON ...).")
+        hint = ' Write ON in quotes ("ON"): YAML reads a bare ON as true.' if isinstance(juris, list) and True in juris else ""
+        f.add("frontmatter", rel, ln("jurisdiction"), "jurisdiction must be a list of codes from docs/regions.csv (BC, CA, INTL, ON ...)." + hint)
     regions = meta.get("regions")
     if regions is not None and (not isinstance(regions, list) or any(r not in JURIS for r in regions)):
         f.add("frontmatter", rel, ln("regions"), "regions must be a list of codes from docs/regions.csv.")
@@ -256,7 +258,8 @@ def check_page(path, rel, text, f, source_ids):
             source_ids.setdefault(str(src["id"]), []).append((rel, line, ident))
         j = src.get("jurisdiction")
         if j is not None and j not in JURIS:
-            f.add("sources", rel, line, f"Source {sid}: jurisdiction '{j}' is not a code from docs/regions.csv.")
+            hint = ' Write it as "ON" in quotes: YAML reads a bare ON as true.' if j is True else ""
+            f.add("sources", rel, line, f"Source {sid}: jurisdiction '{j}' is not a code from docs/regions.csv." + hint)
         elif j in JURIS:
             rank = JURIS_RANK[j]
             if rank < last:
@@ -343,6 +346,14 @@ def check_sheet(path, rel, f):
         elif not region and "region" in cols and (cells.get("url") or cells.get("pdf")) \
                 and cells.get("level", "") in ("", "0") and not is_sub:
             f.add("list-sheet", rel, n, "Linked top-level row has no region (BC, CA, INTL, ON ...).")
+        only = cells.get("only", "").lower()
+        if only and only not in {"yes", "y", "1", "true", "x", "other"}:
+            f.add("list-sheet", rel, n, f"only should be yes, other or blank, not '{cells['only']}'.")
+        elif only:
+            if not region:
+                f.add("list-sheet", rel, n, "A row marked only needs a region: it shows for that region alone (or, with other, for every region but its own).")
+            elif cells.get("level", "") not in ("", "0") or is_sub:
+                f.add("list-sheet", rel, n, "Mark only on the top-level row: its sub-rows hide with it.")
 
 
 def check_team(path, rel, docs, f):

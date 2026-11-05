@@ -2,7 +2,7 @@
 title: "Procedures: Scope, Training and Privileging"
 type: practice
 tags: [practice, scope, procedures, privileging, credentialing, training, competence, bccnm]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-11-05
 review-due: 2027-11-05
@@ -165,6 +165,15 @@ sources:
     jurisdiction: BC
     kind: summary
     url: https://www.bccnm.ca/NP/learning/Pages/CPR.aspx
+    checked: 2026-11-05
+  # ON
+  - id: cno-scope-of-practice
+    title: "Practice Standard: Scope of Practice"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/49041-scope-of-practice.pdf
     checked: 2026-11-05
   # National
   - id: cbs-transfusion-camp

@@ -3,7 +3,7 @@ title: Concussion and Mild Traumatic Brain Injury (mTBI)
 type: condition
 system: neurology
 tags: [condition, neurology, concussion, mtbi, head-injury, pediatrics, headache, adolescents, older-adults, dizziness-and-vertigo]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, CA, INTL, "ON"]
 status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
@@ -152,6 +152,14 @@ sources:
     version:
     url: "https://cattonline.com/course/concussion-awareness-training-tool-for-parents-and-caregivers"
     checked: 2026-10-09
+  - id: cep-concussion-2019
+    title: "Concussion"
+    publisher: Centre for Effective Practice
+    jurisdiction: "ON"
+    kind: tool
+    version: "2019"
+    url: "https://cep.health/clinical-products/concussion/"
+    checked: 2026-10-29
   - id: cps-acute-head-trauma-2025
     title: Management of the paediatric patient with acute head trauma
     publisher: Canadian Paediatric Society

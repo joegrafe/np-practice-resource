@@ -2,11 +2,12 @@
 title: Immunization
 type: prescribing
 tags: [prescribing, immunization, vaccines]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
+aliases: [Ontario immunization schedule, Publicly Funded Immunization Schedules for Ontario, Public Health Ontario, PHO, AEFI form Ontario]
 description: "The BC Immunization Manual, Canadian Immunization Guide and NACI, with BC's program updates, adverse event reporting, vaccine handling, courses and patient resources."
 redirect_from: [prescribing/bc-immunization-manual]  # replaced the BC Immunization Manual page 2026-10-29
 sources:
@@ -99,6 +100,38 @@ sources:
     kind: patient
     url: https://www.healthlinkbc.ca/health-library/immunizations
     checked: 2026-10-29
+  # ON
+  - id: ontario-vaccine-resources
+    title: Vaccine resources for health care professionals
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.ontario.ca/page/vaccine-resources-professionals
+    checked: 2026-11-05
+  - id: ontario-immunization-schedule
+    title: Publicly Funded Immunization Schedules for Ontario
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2024"
+    url: https://www.ontario.ca/files/2024-01/moh-publicly-funded-immunization-schedule-en-2024-01-23.pdf
+    checked: 2026-11-05
+  - id: pho-immunization
+    title: Immunization
+    publisher: Public Health Ontario
+    jurisdiction: "ON"
+    kind: tool
+    url: https://www.publichealthontario.ca/en/Health-Topics/Immunization
+    checked: 2026-11-05
+  - id: pho-vaccine-safety
+    title: Vaccine Safety
+    publisher: Public Health Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.publichealthontario.ca/en/Health-Topics/Immunization/Vaccine-Safety
+    checked: 2026-11-05
   # National
   - id: phac-canadian-immunization-guide
     title: Canadian Immunization Guide

@@ -2,11 +2,12 @@
 title: Practice Models and Compensation
 type: practice
 tags: [practice, practice-models, compensation, pcn, np-pip, msp, encounter-records, worksafebc]
-jurisdiction: [BC]
+jurisdiction: [BC, "ON"]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
+aliases: [NPLC, NP-led clinic, Health Care Connect, Ontario Health Team, OHT, WSIB billing]
 description: "How BC nurse practitioners are contracted and paid: NNPBC's NP Primary Care Integration Program and PCN contracts, the Patient Medical Home checklist, MSP encounter records, and WorkSafeBC registration for NPs who incorporate or hire staff."
 sources:
   # BC
@@ -49,6 +50,45 @@ sources:
     kind: tool
     url: https://www.worksafebc.com/en/insurance/apply-for-coverage
     checked: 2026-10-29
+  # ON
+  - id: npao-nplcs
+    title: Nurse Practitioner-Led Clinics
+    publisher: NPAO
+    jurisdiction: "ON"
+    kind: tool
+    url: https://npao.org/nplcs/
+    checked: 2026-11-05
+  - id: ontario-health-care-connect
+    title: Health Care Connect for primary care clinicians
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: https://www.ontario.ca/page/health-care-connect-primary-care-clinicians
+    checked: 2026-11-05
+  - id: ontario-primary-care-action-plan
+    title: "Ontario's Primary Care Action Plan"
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: summary
+    version: "2025"
+    url: https://www.ontario.ca/page/ontarios-primary-care-action-plan-january-2025
+    checked: 2026-11-05
+  - id: ontario-health-teams
+    title: Ontario Health Teams
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: https://www.ontario.ca/page/ontario-health-teams
+    checked: 2026-11-05
+  - id: wsib-health-care-providers
+    title: Online services for health care providers
+    publisher: WSIB
+    jurisdiction: "ON"
+    kind: tool
+    url: https://www.wsib.ca/en/health-care-providers
+    checked: 2026-11-05
 ---
 <!-- Practice wave 2 (plan: https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc, approved by Joe 2026-10-27).
      No public NP contract payment terms exist yet: NNPBC members voted in April 2026 to pursue a Main Agreement,

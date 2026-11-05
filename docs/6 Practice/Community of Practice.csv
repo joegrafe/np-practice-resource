@@ -1,10 +1,20 @@
-heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region
-Key Sources,,,,NP Circle,https://npcircle.ca/,,,[iPhone app](https://apps.apple.com/ca/app/np-circle/id6756588736) · [Android app](https://play.google.com/store/apps/details?id=ca.npcircle.members),"online community for NPs and NP students in Canada and the US: discussion forum, case sharing and mentorship; free to join, with paid accredited courses",,CA
-Key Sources,,,,NNPBC - NP Primary Care Integration Program (NP-PIP),https://www.nnpbc.com/practice-supports/np-pip/,,,,"a community of practice, mentorship and coaching for BC NPs in longitudinal primary care",,BC
-Project ECHO Programs,,,,BC Centre on Substance Use - BC ECHO on Substance Use,https://www.bccsu.ca/BCECHOonSubstanceUse/,,,,monthly case-based video sessions for primary care physicians and NPs; accredited for continuing education,,BC
-Project ECHO Programs,,,,Pain BC - BC ECHO for Chronic Pain,https://painbc.ca/echo,,,,"free, virtual community of practice for BC health care providers: monthly one-hour sessions over four months",,BC
-Project ECHO Programs,,,,Interior Health - Project ECHO,https://www.interiorhealth.ca/information-for/medical-staff/tools-and-resources/project-echo,,,,Interior Health's ECHO programs for clinicians in the region,,BC
+heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only
+Key Sources,,,,NP Circle,https://npcircle.ca/,,,[iPhone app](https://apps.apple.com/ca/app/np-circle/id6756588736) · [Android app](https://play.google.com/store/apps/details?id=ca.npcircle.members),"online community for NPs and NP students in Canada and the US: discussion forum, case sharing and mentorship; free to join, with paid accredited courses",,CA,
+Key Sources,,,,NNPBC - NP Primary Care Integration Program (NP-PIP),https://www.nnpbc.com/practice-supports/np-pip/,,,,"a community of practice, mentorship and coaching for BC NPs in longitudinal primary care",,BC,yes
+Key Sources,,,,NPAO - Nurse Practitioners' Association of Ontario,https://npao.org/,,,,"Ontario's NP association: membership, annual conference, e-newsletter, advocacy and an NP-led clinic directory",Ontario NP association,ON,yes
+Key Sources,,,1,Find an NP clinic,https://www.npao.org/find-np-clinic/,,,,,,,
+Project ECHO Programs,,,,BC Centre on Substance Use - BC ECHO on Substance Use,https://www.bccsu.ca/BCECHOonSubstanceUse/,,,,monthly case-based video sessions for primary care physicians and NPs; accredited for continuing education,,BC,
+Project ECHO Programs,,,,Pain BC - BC ECHO for Chronic Pain,https://painbc.ca/echo,,,,"free, virtual community of practice for BC health care providers: monthly one-hour sessions over four months",,BC,
+Project ECHO Programs,,,,Interior Health - Project ECHO,https://www.interiorhealth.ca/information-for/medical-staff/tools-and-resources/project-echo,,,,Interior Health's ECHO programs for clinicians in the region,,BC,
+Project ECHO Programs,,,,ECHO Ontario - Programs,https://www.echoontario.ca/Join-an-ECHO/Programs,,,,"more than 25 Ontario ECHO programs; chronic pain and opioid stewardship, mental health, addiction medicine, child and youth mental health, liver, rheumatology",,ON,yes
+Project ECHO Programs,,,1,ECHO Ontario Chronic Pain and Opioid Stewardship (UHN),https://uhn.echoontario.ca/Our-Programs/Chronic-Pain,,,,,,,
+Project ECHO Programs,,,1,ECHO Ontario Mental Health (CAMH),https://camh.echoontario.ca/programs-mh/,,,,,,,
+Project ECHO Programs,,,1,ECHO Ontario Addiction Medicine and Psychosocial Interventions (CAMH),https://camh.echoontario.ca/program-ampi/,,,,,,,
+Project ECHO Programs,,,1,ECHO Ontario Child and Youth Mental Health (CHEO),https://www.cheo.on.ca/en/ECHO,,,,,,,
 How to Do It in BC,,md,,"1. Join [NP Circle](https://npcircle.ca/) for a national peer network.
 2. If you work in longitudinal primary care, contact [NNPBC NP-PIP](https://www.nnpbc.com/practice-supports/np-pip/) about its community of practice and mentorship.
-3. Register for an ECHO series that matches your caseload.",,,,,,,BC
-Contacts,,md,,- **NNPBC:** [NP Portal](https://www.nnpbc.com/np-portal/) — *practice supports for BC NPs* · *some content members only*,,,,,,,BC
+3. Register for an ECHO series that matches your caseload.",,,,,,,BC,yes
+How to Do It in Ontario,,md,,"1. Join [NPAO](https://npao.org/) for Ontario NP advocacy, events and its NP-led clinic directory, and [NP Circle](https://npcircle.ca/) for a national peer community.
+2. Pick an [ECHO Ontario program](https://www.echoontario.ca/Join-an-ECHO/Programs) for case-based learning in your area of practice.",,,,,,,ON,yes
+Contacts,,md,,- **NNPBC:** [NP Portal](https://www.nnpbc.com/np-portal/) — *practice supports for BC NPs* · *some content members only*,,,,,,,BC,yes
+Contacts,,md,,- **NPAO:** [npao.org](https://npao.org/) · 437-980-4566,,,,,,,ON,yes

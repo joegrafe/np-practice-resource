@@ -3,7 +3,7 @@ title: Chronic Pain
 type: condition
 system: musculoskeletal
 tags: [condition, musculoskeletal, chronic-pain, pain, neuropathic-pain, opioids]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [chronic non-cancer pain, CNCP, persistent pain, long-term pain, neuropathic pain, nerve pain, fibromyalgia, osteoarthritis pain, chronic low back pain, opioids, opioid tapering, opioid taper, analgesics, painkillers, NSAID, acetaminophen, gabapentin, pregabalin, Lyrica, duloxetine, Cymbalta, amitriptyline, tramadol, celecoxib, Celebrex, fentanyl patch, Pain BC, PEER]
 status: published
 last-reviewed: 2026-10-30
@@ -103,6 +103,39 @@ sources:
     version: "Checked 2026-10-30"
     url: "https://www.healthlinkbc.ca/healthwise/chronic-pain"
     checked: 2026-10-30
+  - id: ontario-health-chronic-pain-qs-2019
+    title: "Chronic Pain: Care for Adults, Adolescents, and Children (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "May 1, 2019"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=chronic-pain"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-chronic-pain-quality-standard-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-health-opioid-prescribing-chronic-pain-qs-2018
+    title: "Opioid Prescribing for Chronic Pain: Care for People 15 Years of Age and Older (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "March 1, 2018"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=opioid-prescribing-chronic-pain"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-opioid-chronic-pain-quality-standard-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
+  - id: odb-eap
+    title: Exceptional Access Program
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: "https://www.ontario.ca/page/exceptional-access-program"
+    checked: 2026-11-05
   - id: peer-chronic-pain-2022
     title: "PEER simplified chronic pain guideline: Management of chronic low back, osteoarthritic, and neuropathic pain in primary care"
     publisher: "PEER (Canadian Family Physician)"

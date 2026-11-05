@@ -3,7 +3,7 @@ title: Venous Thromboembolism (VTE)
 type: condition
 system: hematology-oncology
 tags: [condition, hematology-oncology, venous-thromboembolism, anticoagulation, urgent-care, edema, dyspnea, chest-pain, pregnancy]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [VTE, DVT, deep vein thrombosis, deep venous thrombosis, PE, pulmonary embolism, pulmonary embolus, blood clot, clot in leg, leg clot, swollen leg, calf pain, superficial thrombophlebitis, superficial vein thrombosis, phlebitis, post-thrombotic syndrome, Wells score, Wells criteria, PERC, D-dimer, sPESI, PESI, Khorana, compression ultrasound, CTPA, anticoagulant, anticoagulation, blood thinner, DOAC, apixaban, Eliquis, rivaroxaban, Xarelto, edoxaban, Lixiana, dabigatran, Pradaxa, LMWH, low molecular weight heparin, dalteparin, Fragmin, enoxaparin, Lovenox, tinzaparin, Innohep, warfarin, cancer-associated thrombosis, thrombophilia, factor V Leiden, travel clot, Thrombosis Canada]
 status: published
 last-reviewed: 2026-11-02
@@ -52,6 +52,21 @@ sources:
     version: Checked 2026-11-02
     url: "https://www.healthlinkbc.ca/healthwise/pulmonary-embolism"
     checked: 2026-11-02
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
+  - id: odb-eap
+    title: Exceptional Access Program
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: "https://www.ontario.ca/page/exceptional-access-program"
+    checked: 2026-11-05
   - id: thrombosiscanada-dvt-diagnosis-2025
     title: "Deep Vein Thrombosis (DVT): Diagnosis"
     publisher: Thrombosis Canada

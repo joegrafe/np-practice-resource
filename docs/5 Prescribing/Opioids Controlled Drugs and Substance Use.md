@@ -2,12 +2,12 @@
 title: Opioids, Controlled Drugs and Substance Use
 type: prescribing
 tags: [prescribing, opioids, controlled-drugs, substance-use, benzodiazepines, alcohol, tobacco, naloxone]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 status: published
 last-reviewed: 2026-11-01
 review-due: 2027-05-01
 reviewers: [joegrafe]
-aliases: [opioid prescribing, opioid tapering, MME, morphine equivalents, opioid conversion, controlled substances, narcotics, benzodiazepines, benzos, lorazepam, clonazepam, zopiclone, z-drugs, sedatives, stimulants, methamphetamine, prescribed alternatives, safer supply, naloxone, take home naloxone, harm reduction, smoking cessation, BCCSU]
+aliases: [opioid prescribing, opioid tapering, MME, morphine equivalents, opioid conversion, controlled substances, narcotics, benzodiazepines, benzos, lorazepam, clonazepam, zopiclone, z-drugs, sedatives, stimulants, methamphetamine, prescribed alternatives, safer supply, naloxone, take home naloxone, harm reduction, smoking cessation, BCCSU, META:PHI, METAPHI, RAAM, safer supply Ontario, Ontario Naloxone Program, ECHO Ontario]
 description: "Prescribing references for opioids, benzodiazepines and other controlled drugs, and for alcohol, tobacco and other substance use treatment in BC: guidance, coverage, dose calculators, advice lines and naloxone."
 sources:
   # BC
@@ -100,6 +100,30 @@ sources:
     kind: tool
     url: https://www.bccsu.ca/about-the-addiction-care-and-treatment-online-certificate/
     checked: 2026-11-01
+  # ON
+  - id: metaphi-toolkits
+    title: "META:PHI toolkits"
+    publisher: META:PHI (Women's College Hospital)
+    jurisdiction: "ON"
+    kind: guideline
+    url: https://www.metaphi.ca/toolkits/
+    checked: 2026-11-05
+  - id: ontario-naloxone
+    title: Get naloxone kits for free
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: patient
+    version: "2026"
+    url: https://www.ontario.ca/page/get-naloxone-kits-free
+    checked: 2026-11-05
+  - id: cno-controlled-substances
+    title: NPs and prescribing controlled substances
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.cno.org/standards-learning/nurse-practitioners/nps-and-prescribing-controlled-substances
+    checked: 2026-11-05
   # National
   - id: cmaj-opioid-cncp-guideline-2017
     title: Guideline for opioid therapy and chronic noncancer pain

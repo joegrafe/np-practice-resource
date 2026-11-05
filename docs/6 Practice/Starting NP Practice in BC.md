@@ -2,11 +2,12 @@
 title: Starting NP Practice in BC
 type: practice
 tags: [practice, checklist, new-graduate, registration, msp, pharmanet, pcn]
-jurisdiction: [BC]
+jurisdiction: [BC, "ON"]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
+aliases: [starting in Ontario, new NP Ontario]
 description: "A checklist for starting nurse practitioner practice in BC, from BCCNM licensure, liability protection and MSP enrolment to PharmaNet, controlled drug pads, a primary care contract, records and peer support, with links to each step's source."
 sources:
   # BC
@@ -25,6 +26,15 @@ sources:
     version: "July 2026"
     pdf: https://www.nnpbc.com/np-content/wp-content/uploads/2026/07/Patient-Medical-Home-Checklist-for-NP-Integration-.pdf
     checked: 2026-10-29
+  # ON
+  - id: cno-np-standard
+    title: "Practice Standard: Nurse Practitioner"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41038_strdrnec.pdf
+    checked: 2026-11-05
 ---
 <!-- Practice wave 2 (plan: https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc, approved by Joe 2026-10-27).
      A checklist only: each step points to its source or to the Practice page that holds the sources.

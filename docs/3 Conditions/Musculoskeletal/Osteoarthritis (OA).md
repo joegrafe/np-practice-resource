@@ -3,7 +3,7 @@ title: Osteoarthritis (OA)
 type: condition
 system: musculoskeletal
 tags: [condition, musculoskeletal, osteoarthritis, arthritis, pain, joint-pain, knee-pain, hip-pain, hand-and-wrist-pain, older-adults]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [OA, osteoarthritis, osteoarthrosis, degenerative joint disease, DJD, arthritis, wear and tear arthritis, knee osteoarthritis, knee OA, hip osteoarthritis, hip OA, hand osteoarthritis, hand OA, thumb arthritis, joint pain, knee pain, hip pain, NSAID, NSAIDs, naproxen, ibuprofen, diclofenac, Voltaren, Arthrotec, celecoxib, Celebrex, meloxicam, acetaminophen, Tylenol, topical NSAID, duloxetine, Cymbalta, glucosamine, chondroitin, steroid injection, corticosteroid injection, hyaluronic acid, viscosupplementation, knee replacement, hip replacement, joint replacement, "GLA:D", OASIS, PEER pain calculator, C-TOP]
 status: published
 last-reviewed: 2026-11-03
@@ -85,6 +85,30 @@ sources:
     version: Checked 2026-11-03
     url: "https://www.healthlinkbc.ca/healthwise/osteoarthritis"
     checked: 2026-11-03
+  - id: ontario-health-osteoarthritis-qs-2024
+    title: "Osteoarthritis: Care for Adults With Osteoarthritis of the Knee, Hip, Hand, or Shoulder (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "November 1, 2024"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=osteoarthritis"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-osteoarthritis-quality-standard-2024-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
+  - id: odb-eap
+    title: Exceptional Access Program
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: "https://www.ontario.ca/page/exceptional-access-program"
+    checked: 2026-11-05
   - id: peer-chronic-pain-2022
     title: "PEER simplified chronic pain guideline: Management of chronic low back, osteoarthritic, and neuropathic pain in primary care"
     publisher: Canadian Family Physician (PEER)

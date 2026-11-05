@@ -2,11 +2,12 @@
 title: Documentation, Privacy and Records
 type: practice
 tags: [practice, documentation, privacy, confidentiality, records, emr, virtual-care, pipa, fippa]
-jurisdiction: [BC, CA]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
+aliases: [PHIPA, CNO documentation, custodian]
 description: "Charting and records for BC nurse practitioners: BCCNM documentation and privacy standards, records custody in PCN clinics, BC privacy law, MSP clinical record requirements, virtual care, and CNPS medico-legal guidance."
 sources:
   # BC
@@ -72,6 +73,38 @@ sources:
     kind: guideline
     url: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00
     checked: 2026-10-29
+  # ON
+  - id: cno-documentation
+    title: "Practice Standard: Documentation"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41001_documentation.pdf
+    checked: 2026-11-05
+  - id: cno-privacy
+    title: "Practice Standard: Confidentiality and Privacy: Personal Health Information"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2025"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41069_privacy.pdf
+    checked: 2026-11-05
+  - id: cno-virtual-care
+    title: "Practice Guideline: Virtual Care"
+    publisher: College of Nurses of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    version: "2026"
+    url: https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/practice-guideline-virtual-care-en.pdf
+    checked: 2026-11-05
+  - id: phipa
+    title: Personal Health Information Protection Act, 2004
+    publisher: Government of Ontario
+    jurisdiction: "ON"
+    kind: guideline
+    url: https://www.ontario.ca/laws/statute/04p03
+    checked: 2026-11-05
   # National
   - id: cnps-quality-documentation
     title: "InfoLAW: Quality Documentation: Your Best Defence"
