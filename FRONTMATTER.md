@@ -15,25 +15,10 @@ status: published
 last-reviewed: 2026-04-16
 review-due: 2027-04-16
 reviewers: [joegrafe]
-sources:
-  - id: htn-canada-2025
-    title: Hypertension Canada 2025 Primary Care Guidelines
-    publisher: Hypertension Canada
-    jurisdiction: CA
-    kind: guideline
-    version: "2025"
-    url: https://hypertension.ca/guidelines/
-    checked: 2026-04-16
-  - id: bc-htn-algorithm
-    title: "BC Guidelines: Hypertension, Appendix A algorithm"
-    publisher: BC GPAC
-    jurisdiction: BC
-    kind: algorithm
-    pdf: https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-a.pdf
-    checked: 2026-04-16
-    supersedes: null
 ---
 ```
+
+The page's documents are rows of `docs/sources.csv` (Sources registry, below), named by id in its sheet's `source` column.
 
 ## Page fields
 
