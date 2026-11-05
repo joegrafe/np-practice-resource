@@ -104,7 +104,7 @@ Condition pages use one of these `system` slugs, which match the Conditions sub-
 
 ## Rules
 
-- Every source carries a region code from `docs/regions.csv`, in frontmatter `jurisdiction` and in the sheet's `region` column: the jurisdiction its content is written for. Order them provinces and territories first (BC first, as the default region), then `CA`, then `US`, then `INTL`, and label international guidance as such.
+- Every source carries a region code from `docs/regions.csv`, in frontmatter `jurisdiction` and in the sheet's `region` column: the jurisdiction its content is written for. Order them provinces and territories first (BC first, as the default region), then `CA`, then `US`, then `INTL`, and label international guidance as such. A sheet row that is for its region alone (a referral line, drug coverage, a regulator's standard, a province's own quality standard) also carries `only=yes`, so it shows only in that region's view (List sheets in NPPR-FRAMEWORK.md).
 - A page is its frontmatter plus one list sheet beside it (Page standard in NPPR-FRAMEWORK.md): every link, intro line, step and table is a sheet row. Section index pages and About pages are the exception.
 - Link to each publisher's own page or PDF. Don't host or copy third-party documents.
 - Don't write clinical recommendations in our own words. Link to the source guidance instead.

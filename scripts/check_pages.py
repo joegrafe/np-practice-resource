@@ -16,6 +16,7 @@ Checks:
                  uses only the list-sheet columns, every row has a title (a note row
                  has a note), kind and level hold allowed values, links are http(s),
                  every top-level row with a link has a region from docs/regions.csv,
+                 an only mark sits on a top-level row that has a region,
                  and every CSV in docs/ is used by a page
   page-body      a page with a list sheet holds no heading or link line of its own
                  (Approaches, About and index pages excepted): the page is its
@@ -86,7 +87,7 @@ PAGE_REQUIRED = ["title", "type", "tags", "jurisdiction", "status", "last-review
 SOURCE_REQUIRED = ["id", "title", "publisher", "jurisdiction", "kind", "checked"]
 NO_SOURCES = {"index", "about"}
 LIST_COLUMNS = {"heading", "subheading", "title", "url", "year", "pdf", "links", "note",
-                "keywords", "sub", "kind", "level", "region"}
+                "keywords", "sub", "kind", "level", "region", "only"}
 LIST_KINDS = {"", "box", "note", "md"}  # condition sheets; blank is a link line
 LIST_LEVELS = {"", "0", "1", "2"}
 TEAM_SHEET = "About/Team.csv"
@@ -345,6 +346,14 @@ def check_sheet(path, rel, f):
         elif not region and "region" in cols and (cells.get("url") or cells.get("pdf")) \
                 and cells.get("level", "") in ("", "0") and not is_sub:
             f.add("list-sheet", rel, n, "Linked top-level row has no region (BC, CA, INTL, ON ...).")
+        only = cells.get("only", "").lower()
+        if only and only not in {"yes", "y", "1", "true", "x"}:
+            f.add("list-sheet", rel, n, f"only should be yes or blank, not '{cells['only']}'.")
+        elif only:
+            if not region:
+                f.add("list-sheet", rel, n, "A row marked only needs a region: it shows for that region alone.")
+            elif cells.get("level", "") not in ("", "0") or is_sub:
+                f.add("list-sheet", rel, n, "Mark only on the top-level row: its sub-rows hide with it.")
 
 
 def check_team(path, rel, docs, f):

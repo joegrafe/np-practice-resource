@@ -1,2 +1,2 @@
-heading,subheading,title,url,year,pdf,links,note,keywords,region
-,Cardiovascular,Item title,https://publisher.example/item,2025,https://publisher.example/item.pdf,,Short note,,
+heading,subheading,title,url,year,pdf,links,note,keywords,region,only
+,Cardiovascular,Item title,https://publisher.example/item,2025,https://publisher.example/item.pdf,,Short note,,,
