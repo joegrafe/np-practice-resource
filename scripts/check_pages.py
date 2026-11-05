@@ -347,11 +347,11 @@ def check_sheet(path, rel, f):
                 and cells.get("level", "") in ("", "0") and not is_sub:
             f.add("list-sheet", rel, n, "Linked top-level row has no region (BC, CA, INTL, ON ...).")
         only = cells.get("only", "").lower()
-        if only and only not in {"yes", "y", "1", "true", "x"}:
-            f.add("list-sheet", rel, n, f"only should be yes or blank, not '{cells['only']}'.")
+        if only and only not in {"yes", "y", "1", "true", "x", "other"}:
+            f.add("list-sheet", rel, n, f"only should be yes, other or blank, not '{cells['only']}'.")
         elif only:
             if not region:
-                f.add("list-sheet", rel, n, "A row marked only needs a region: it shows for that region alone.")
+                f.add("list-sheet", rel, n, "A row marked only needs a region: it shows for that region alone (or, with other, for every region but its own).")
             elif cells.get("level", "") not in ("", "0") or is_sub:
                 f.add("list-sheet", rel, n, "Mark only on the top-level row: its sub-rows hide with it.")
 

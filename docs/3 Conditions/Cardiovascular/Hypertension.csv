@@ -1,6 +1,10 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only
+Key Sources,box,,Ontario Health quality standard - Hypertension: Care in the Community for Adults,https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=hypertension,2024,,,"Ontario quality standard for hypertension care in the community, with a clinician placemat and patient guide",quality standard,ON,yes
+Key Sources,,1,"Quality Standard (PDF, February 2024)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-hypertension-en.pdf,,,,,,,
+Key Sources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-hypertension-placemat-en.pdf,,,,,,,
+Key Sources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-hypertension-patient-guide-en.pdf,,,,,,,
 Key Sources,note,0,,,,,,Hypertension in pregnancy and in children: see [Pregnancy and Perinatal](../../4%20Populations/Pregnancy%20and%20Perinatal.md) and [Pediatrics](../../4%20Populations/Pediatrics/Pediatrics.md) under Populations.,,,
-Key Sources,box,,BC Guidelines - Hypertension - Diagnosis and Management (2020; web page published 2024),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension,,,,,,BC,
+Key Sources,box,,BC Guidelines - Hypertension - Diagnosis and Management (2020; web page published 2024),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension,,,,,,BC,yes
 Key Sources,,1,Key Recommendations,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#recommendations,,,,,,,
 Key Sources,,1,Definition,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#definition,,,,,,,
 Key Sources,,1,Classification,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#classification,,,,,,,
@@ -21,10 +25,7 @@ Key Sources,,1,Implementation,https://hypertension.ca/guidelines/implementation/
 Key Sources,,1,"Full Guideline (PDF, CMAJ)",https://www.cmaj.ca/content/cmaj/197/20/E549.full.pdf,,,,,,,
 Key Sources,,1,"Appendix 2: Responses to Frequent Questions (PDF, CMAJ)",https://www.cmaj.ca/content/cmaj/suppl/2025/05/23/197.20.E549.DC1/241770-guide-at-2.pdf,,,,,,,
 Key Sources,,1,Primary Care Guideline Slide Decks,https://hypertension.ca/primary-care-guideline-slide-decks,,,,,,,
-Further Resources,box,,Ontario Health quality standard - Hypertension: Care in the Community for Adults,https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=hypertension,2024,,,"Ontario quality standard for hypertension care in the community, with a clinician placemat and patient guide",quality standard,ON,yes
-Further Resources,,1,"Quality Standard (PDF, February 2024)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-hypertension-en.pdf,,,,,,,
-Further Resources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-hypertension-placemat-en.pdf,,,,,,,
-Further Resources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-hypertension-patient-guide-en.pdf,,,,,,,
+Further Resources,,,BC Guidelines - Hypertension - Diagnosis and Management (2020; web page published 2024),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension,,,,,,BC,other
 Further Resources,box,,Canadian Task Force on Preventive Health Care - Hypertension,https://canadiantaskforce.ca/guidelines/published-guidelines/hypertension/,2012,,,Screening for high blood pressure in adults. Still listed as a published guideline.,,CA,
 Further Resources,,1,Clinician Summary (PDF),https://canadiantaskforce.ca/wp-content/uploads/2016/06/2012-hypertension-clinician-summary-en-1.pdf,,,,,,,
 Further Resources,,1,"Full Guideline (CMAJ 2013, PubMed Central)",https://pmc.ncbi.nlm.nih.gov/articles/PMC3771717/,,,,,,INTL,
