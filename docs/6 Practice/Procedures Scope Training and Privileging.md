@@ -3,7 +3,7 @@ title: "Procedures: Scope, Training and Privileging"
 type: practice
 tags: [practice, scope, procedures, privileging, credentialing, training, competence, bccnm]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-11-05
 review-due: 2027-11-05
 reviewers: [joegrafe]
