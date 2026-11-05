@@ -186,7 +186,7 @@ The templates in 03 Resources/Templates map onto these types, one Markdown templ
 
 ## Source map
 
-Before writing or reviewing any page, check every site in the "All topics" row and in the row for that page's system or population. A site on the map, or any other promising source, that will not open from the build environment goes on `UNOPENED-SOURCES.csv` (Before every pull request, item 3) rather than being skipped. Search in the order the columns run: BC, then Canadian, then calculators, then patient resources. Use American or international sources only where no BC or Canadian source covers the question, and label them as such. For approaches and condition pages, AAFP (aafp.org) is the first international source to check, using only articles that are free to read; then USPSTF, NICE, Cochrane and TRIP. Where Alberta's Pathway Hub (primarycarealberta.ca) has a pathway for a condition, link it and leave out Specialist Link's Calgary pathway for the same condition, which repeats it. Add a site to this table whenever a new one proves useful. The BC column is the default region's; when a page is swept for another region (Ontario first, per the province switch plan), that region's sources go on the same sheet with their own `region` code, and the region's sites get their own column in this table or the wave plan that opens it.
+Before writing or reviewing any page, check every site in the "All topics" row and in the row for that page's system or population. A site on the map, or any other promising source, that will not open from the build environment goes on `UNOPENED-SOURCES.csv` (Before every pull request, item 3) rather than being skipped. Search in the order the columns run: BC, then Canadian, then calculators, then patient resources. Use American or international sources only where no BC or Canadian source covers the question, and label them as such. For approaches and condition pages, AAFP (aafp.org) is the first international source to check, using only articles that are free to read; then USPSTF, NICE, Cochrane and TRIP. Where Alberta's Pathway Hub (primarycarealberta.ca) has a pathway for a condition, link it and leave out Specialist Link's Calgary pathway for the same condition, which repeats it. Add a site to this table whenever a new one proves useful. The BC column is the default region's; when a page is swept for another region (Ontario first, per the province switch plan), that region's sources go on the same sheet with their own `region` code, and the region's sites get their own column in this table or the wave plan that opens it. From build wave 17 on, a new page is swept for Ontario sources too, from the [Ontario source map](https://claude.ai/artifact/BTnDWXvMS8aEHuDWR2JzQb) (Joe, 2026-11-05).
 
 | System or topic | BC | Canadian | Calculators and tools | Patient resources |
 | --- | --- | --- | --- | --- |
@@ -444,6 +444,18 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 18. Approaches wave 3: TREKK and CMAJ "Five things to know about", only when Joe asks.
 19 to 21. Conditions wave 3 in three batches, ordered by the missed-search log.
 
+**Next waves after ON-3 and ON-4** (from the [master plan update](https://claude.ai/artifact/8pVpBPZ5hLjistCczBVaow) of 2026-11-05, agreed by Joe on 2026-11-05). Waves 12 to 16 are built; the province switch and Ontario waves ON-1 and ON-2 shipped on 2026-11-05. From here, in this order, each when Joe says start:
+
+1. ON-3: Ontario rows on the remaining condition and population pages (being built in the province switcher thread).
+2. ON-4: the Ontario quality standards and CAMH Psychiatry in Primary Care as Approaches pages, and the Ontario library guides.
+3. Province switch wrap-up: the steps of the [switcher audit](https://claude.ai/artifact/LDzWau8pDLQ9C4YJujgzNV) not done in ON-3 or ON-4 (page-level region for Pathways BC, BC Library Guides and Starting NP Practice in BC; Ontario synonym groups; filter-box counts; llms.txt region labels; a province field on the Tally forms; template sample rows; the nppr-conditions skill).
+4. Page-by-page compliance audit ([plan](https://claude.ai/artifact/UGWGSG2zwAHtXarfPGpkrh), every decision agreed by Joe on 2026-11-05), nine PRs: batch 0 adds the missing rules to scripts/check_pages.py as warnings, with a per-page scorecard; then fixes by section (Practice and Prescribing; Assessments, AI Tools and Resources; Conditions in three batches; Populations; Approaches; section indexes, About and Home with step 2.5). It covers all 126 pages, opens every Key Sources link, and opens every link on the 25 pages last reviewed before 2026-10-29; a full Source map sweep stays step 2.4, when Joe asks. It moves the intro line into the sheet on the 48 older pages that still have it in the Markdown. A format-only fix leaves `status` and `last-reviewed` alone; a page whose sources were opened gets `last-reviewed` set to today and stays published. Each new rule moves out of `WARN_ONLY` once every page passes it.
+5. Wave 17, the stage D wrap-up above, after the audit's Resources batch.
+6. Wave 18, Approaches wave 3, only when Joe asks.
+7. Waves 19 to 21, Conditions wave 3, ordered by the missed-search log.
+
+From wave 17 on, every new page is swept for Ontario sources as it is built, from the [Ontario source map](https://claude.ai/artifact/BTnDWXvMS8aEHuDWR2JzQb), so no page needs its own Ontario wave later (Joe, 2026-11-05).
+
 After that, each when Joe asks: Assessments per-system exam pages (once Joe answers that plan) and POCUS; Evidence Packs (steps 3.1, 3.2 and 3.4); the calculators index with "Used on:" links, an offline service worker and monthly review-due issues; steps 4.1 and 4.2; the clinical updates feed, which waits on Joe's decision.
 
 ## Sources
@@ -493,6 +505,8 @@ What only the builder can check:
 8. **Section index.** A page added, moved or removed is reflected in the In This Section list on its section's `index.md`, and a moved page has a redirect in nppr-website-config's `mkdocs.yml`.
 9. **Review state.** New pages are `status: draft` with `reviewers: []`; `last-reviewed` is today and `review-due` a year on (6 months for AI Tools pages). A review issue ("Review: <page>") is opened for a new condition page.
 10. **PR.** A draft PR with a screenshot or preview of each changed page (saved under /mnt/project-files/ when the thread's attachment limit is reached), the Before/After/How summary, and the paired PR in the other repository named, with the merge order (content first, then re-run the config build, then config). Joe's "merge" or "publish" comes before anything is merged or a page's status changes.
+
+A PR that adds or changes a rule in NPPR-FRAMEWORK.md or CLAUDE.md adds its check to scripts/check_pages.py in the same PR, as a warning until every page passes it, or, where a script can't judge it, a line in the builder checks above, so pages never need a full audit again to catch up with a rule (Joe, 2026-11-05).
 
 ## Cloud environments
 
