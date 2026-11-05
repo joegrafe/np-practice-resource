@@ -3,7 +3,7 @@ title: Dementia and Frailty
 type: condition
 system: neurology
 tags: [condition, neurology, dementia, cognitive-impairment, frailty, older-adults, dementia-and-memory-loss, falls, confusion-and-delirium]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [dementia, frailty, frail elderly, cognitive impairment, mild cognitive impairment, MCI, major neurocognitive disorder, neurocognitive disorder, Alzheimer's disease, Alzheimer disease, vascular dementia, Lewy body dementia, frontotemporal dementia, memory loss, memory problems, forgetfulness, confusion, BPSD, behavioural and psychological symptoms of dementia, MoCA, MMSE, SMMSE, Mini-Cog, Clinical Frailty Scale, CFS, PRISMA-7, Timed Up and Go, TUG, donepezil, Aricept, galantamine, rivastigmine, Exelon, memantine, cholinesterase inhibitor, driving and dementia, fitness to drive, CCCDTD5, geriatrics, older adults, seniors]
 status: published
 last-reviewed: 2026-10-30
@@ -156,6 +156,39 @@ sources:
     version: "Current as of October 20, 2022"
     url: "https://www.healthlinkbc.ca/healthwise/dementia"
     checked: 2026-10-30
+  - id: ontario-health-dementia-qs-2024
+    title: "Dementia: Care for People Living in the Community (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "September 1, 2024"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=dementia"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-dementia-community-quality-standard-2024-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-health-frailty-in-adults-qs-2026
+    title: "Frailty in Adults: Care in All Settings (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "September 1, 2026"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=frailty-in-adults"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-frailty-in-adults-quality-standard-2026-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
+  - id: odb-eap
+    title: Exceptional Access Program
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: "https://www.ontario.ca/page/exceptional-access-program"
+    checked: 2026-11-05
   - id: cccdtd5-2020
     title: "Recommendations of the 5th Canadian Consensus Conference on the diagnosis and treatment of dementia"
     publisher: "Canadian Consensus Conference on the Diagnosis and Treatment of Dementia (Alzheimer's & Dementia)"

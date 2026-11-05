@@ -3,7 +3,7 @@ title: Opioid Use Disorder (OUD)
 type: condition
 system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, opioid-use-disorder, substance-use, addiction, harm-reduction, adolescents, pregnancy, older-adults]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [OUD, opioid addiction, opioid dependence, OAT, opioid agonist treatment, opioid agonist therapy, buprenorphine, buprenorphine/naloxone, Suboxone, Sublocade, extended-release buprenorphine, methadone, Methadose, slow-release oral morphine, SROM, Kadian, iOAT, injectable OAT, fentanyl, opioid withdrawal, COWS, naloxone, overdose, toxic drug, prescribed alternatives, safer supply, BCCSU, CRISM, Plan Z, micro-dosing, low-dose initiation]
 status: published
 last-reviewed: 2026-10-30
@@ -151,6 +151,22 @@ sources:
     version: "Checked 2026-10-30"
     url: "https://www.healthlinkbc.ca/healthwise/opioid-use-disorder"
     checked: 2026-10-30
+  - id: ontario-health-opioid-use-disorder-qs-2018
+    title: "Opioid Use Disorder (Opioid Addiction): Care for People 16 Years of Age and Older (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "March 1, 2018"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=opioid-use-disorder"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-opioid-use-disorder-quality-standard-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
   - id: crism-oud-2024
     title: "Management of opioid use disorder: 2024 update to the national clinical practice guideline"
     publisher: "Canadian Research Initiative in Substance Matters (CMAJ)"

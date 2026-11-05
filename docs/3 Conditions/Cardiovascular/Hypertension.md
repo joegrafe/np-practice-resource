@@ -3,7 +3,7 @@ title: Hypertension
 type: condition
 system: cardiovascular
 tags: [condition, cardiovascular, htn, older-adults, hypertension]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
@@ -249,6 +249,30 @@ sources:
     version: Last updated 2026-06-03
     url: "https://www.healthlinkbc.ca/healthlinkbc-files/healthy-eating-lower-high-blood-pressure"
     checked: 2026-10-09
+  - id: ontario-health-hypertension-qs-2024
+    title: "Hypertension: Care in the Community for Adults (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "February 1, 2024"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=hypertension"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-hypertension-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
+  - id: odb-eap
+    title: Exceptional Access Program
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: "https://www.ontario.ca/page/exceptional-access-program"
+    checked: 2026-11-05
   - id: htn-canada-primary-care
     title: Hypertension Canada guideline for the diagnosis and treatment of hypertension in adults in primary care
     publisher: Hypertension Canada (CMAJ)

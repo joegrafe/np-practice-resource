@@ -3,7 +3,7 @@ title: Chronic Obstructive Pulmonary Disease (COPD)
 type: condition
 system: respiratory
 tags: [condition, respiratory, copd, older-adults, dyspnea, cough]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
@@ -225,6 +225,30 @@ sources:
     version:
     url: "https://www.healthlinkbc.ca/health-library/illnesses-and-conditions/copd"
     checked: 2026-10-09
+  - id: ontario-health-chronic-obstructive-pulmonary-disease-qs-2023
+    title: "Chronic Obstructive Pulmonary Disease (COPD): Care in the Community for Adults (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "October 1, 2023"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=chronic-obstructive-pulmonary-disease"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-chronic-obstructive-pulmonary-disease-quality-standard-2023-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
+  - id: odb-eap
+    title: Exceptional Access Program
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: "https://www.ontario.ca/page/exceptional-access-program"
+    checked: 2026-11-05
   - id: cts-copd-pharmacotherapy-2023
     title: 2023 Canadian Thoracic Society Guideline on Pharmacotherapy in Patients with Stable COPD
     publisher: Canadian Thoracic Society

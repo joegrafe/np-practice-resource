@@ -3,7 +3,7 @@ title: Insomnia
 type: condition
 system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, insomnia, sleep, sedatives, deprescribing, insomnia-and-sleep-problems, older-adults]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [insomnia, chronic insomnia, sleep problems, "can't sleep", trouble sleeping, sleeplessness, poor sleep, sleep hygiene, CBT-I, CBTi, cognitive behavioural therapy for insomnia, sleep restriction, stimulus control, sleep diary, sleeping pills, hypnotics, sedative-hypnotics, z-drug, z-drugs, zopiclone, Imovane, eszopiclone, Lunesta, zolpidem, Sublinox, lemborexant, Dayvigo, daridorexant, Quviviq, orexin antagonist, DORA, trazodone, Desyrel, doxepin, Silenor, quetiapine, Seroquel, mirtazapine, melatonin, benzodiazepine, benzodiazepines, BZRA, lorazepam, temazepam, Restoril, deprescribing, PAD, mysleepwell]
 status: published
 last-reviewed: 2026-11-03
@@ -44,6 +44,30 @@ sources:
     version: Checked 2026-11-03
     url: "https://www.healthlinkbc.ca/healthwise/insomnia"
     checked: 2026-11-03
+  - id: ontario-health-insomnia-disorder-qs-2025
+    title: "Insomnia Disorder: Care for Adults (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "January 1, 2025"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=insomnia-disorder"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-insomnia-disorder-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
+  - id: odb-eap
+    title: Exceptional Access Program
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: "https://www.ontario.ca/page/exceptional-access-program"
+    checked: 2026-11-05
   - id: cep-chronic-insomnia-2017
     title: Management of Chronic Insomnia
     publisher: Centre for Effective Practice

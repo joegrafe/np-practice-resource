@@ -3,7 +3,7 @@ title: Alcohol Use Disorder (AUD)
 type: condition
 system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, alcohol-use-disorder, substance-use, addiction, adolescents, pregnancy, older-adults]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [AUD, alcohol, alcoholism, alcohol dependence, alcohol abuse, high-risk drinking, heavy drinking, binge drinking, drinking problem, alcohol withdrawal, withdrawal management, detox, delirium tremens, CIWA, CIWA-Ar, PAWSS, AUDIT, AUDIT-C, SASQ, naltrexone, Revia, acamprosate, Campral, gabapentin, topiramate, disulfiram, Antabuse, thiamine, Wernicke, Canada's Guidance on Alcohol and Health, low-risk drinking guidelines, standard drink, BCCSU, CRISM]
 status: published
 last-reviewed: 2026-11-02
@@ -68,6 +68,22 @@ sources:
     version: Checked 2026-11-02
     url: "https://www.healthlinkbc.ca/healthwise/alcohol-withdrawal"
     checked: 2026-11-02
+  - id: ontario-health-alcohol-use-disorder-qs-2020
+    title: "Problematic Alcohol Use and Alcohol Use Disorder: Care for People 15 Years of Age and Older (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "August 1, 2020"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=alcohol-use-disorder"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-alcohol-use-disorder-quality-standard-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
   - id: crism-aud-2023
     title: Canadian guideline for the clinical management of high-risk drinking and alcohol use disorder
     publisher: Canadian Research Initiative in Substance Matters (CMAJ)

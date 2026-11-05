@@ -3,7 +3,7 @@ title: Asthma
 type: condition
 system: respiratory
 tags: [condition, respiratory, asthma, pediatrics, wheeze, adolescents, wheeze-and-stridor, cough, dyspnea]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
@@ -168,6 +168,39 @@ sources:
     version:
     url: "https://www.raceconnect.ca/"
     checked: 2026-10-09
+  - id: ontario-health-asthma-in-adults-qs-2025
+    title: "Asthma: Care in the Community for People 16 Years of Age and Older (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "June 1, 2025"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=asthma-in-adults"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-asthma-in-adults-quality-standard-2025-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-health-asthma-in-children-and-adolescents-qs-2025
+    title: "Asthma: Care in the Community for People Under 16 Years of Age (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "June 1, 2025"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=asthma-in-children-and-adolescents"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-asthma-in-children-and-adolescents-quality-standard-2025-en.pdf"
+    checked: 2026-11-05
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
+  - id: odb-eap
+    title: Exceptional Access Program
+    publisher: Ontario Ministry of Health
+    jurisdiction: "ON"
+    kind: tool
+    version: "2026"
+    url: "https://www.ontario.ca/page/exceptional-access-program"
+    checked: 2026-11-05
   - id: cts-asthma-2021
     title: "Canadian Thoracic Society 2021 Guideline update: Diagnosis and management of asthma in preschoolers, children and adults"
     publisher: Canadian Thoracic Society

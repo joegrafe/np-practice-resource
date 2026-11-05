@@ -5,6 +5,7 @@ system: sexual-reproductive-health
 tags: [condition, sexual-reproductive-health, menopause, perimenopause, hormone-therapy, womens-health, indigenous-health, rural-remote, abnormal-uterine-bleeding, sexual-dysfunction]
 jurisdiction:
   - BC
+  - "ON"
   - CA
   - INTL
 aliases:
@@ -147,6 +148,22 @@ sources:
     kind: patient
     url: "https://www.healthlinkbc.ca/healthwise/menopause-should-i-use-hormone-therapy-ht"
     checked: 2026-11-01
+  - id: ontario-econsult
+    title: Ontario eConsult
+    publisher: Ontario Health (OTN)
+    jurisdiction: "ON"
+    kind: tool
+    url: "https://otn.ca/providers/primary-care/econsult/"
+    checked: 2026-11-05
+  - id: ontario-health-menopause-qs-2025
+    title: "Menopause: Care for Women and Gender-Diverse People (quality standard)"
+    publisher: Ontario Health
+    jurisdiction: "ON"
+    kind: guideline
+    version: "October 1, 2025"
+    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=menopause"
+    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-menopause-en.pdf"
+    checked: 2026-11-01
   - id: sogc-menopause-care-continuum-tool
     title: Menopause Care Continuum Interactive Tool
     publisher: SOGC
@@ -270,15 +287,6 @@ sources:
     version: "Last updated October 14, 2025"
     url: "https://tools.cep.health/tool/menopause-management/"
     pdf: "https://tools.cep.health/wp-content/uploads/2026/01/Pharmacotherapy-for-Menopause_Jan-2-2026.pdf"
-    checked: 2026-11-01
-  - id: ontario-health-menopause-qs-2025
-    title: "Menopause: Care for Women and Gender-Diverse People (quality standard)"
-    publisher: Ontario Health
-    jurisdiction: CA
-    kind: guideline
-    version: "October 1, 2025"
-    url: "https://ontariohealth.ca/clinical/quality-standards/qs-details.html?cf=menopause"
-    pdf: "https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-menopause-en.pdf"
     checked: 2026-11-01
   - id: mq6-assessment-tool
     title: MQ6 Menopause Assessment Tool
