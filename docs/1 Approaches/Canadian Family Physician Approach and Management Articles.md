@@ -3,6 +3,7 @@ title: "Canadian Family Physician: Approach To and Management Of"
 type: approach
 tags: [approach]
 jurisdiction: [CA]
+aliases: [CFP, Canadian Family Physician, CFPC, College of Family Physicians of Canada, approach to, management of, CFP approach articles]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29

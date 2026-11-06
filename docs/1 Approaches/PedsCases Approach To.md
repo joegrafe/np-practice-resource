@@ -3,6 +3,7 @@ title: "PedsCases Notes"
 type: approach
 tags: [approach, pediatrics]
 jurisdiction: [CA]
+aliases: [PedsCases, Peds Cases, pediatric podcasts, pediatric approach to, University of Alberta pediatrics, PedsCases notes]
 status: published
 last-reviewed: 2026-10-16
 review-due: 2027-10-16

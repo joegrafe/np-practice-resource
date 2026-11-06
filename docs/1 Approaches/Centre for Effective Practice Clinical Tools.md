@@ -2,7 +2,8 @@
 title: Centre for Effective Practice Clinical Tools
 type: approach
 tags: [approach]
-jurisdiction: [CA]
+jurisdiction: ["ON"]
+aliases: [CEP, Centre for Effective Practice, cep.health, CEP tools, Ontario clinical tools, Ontario primary care tools]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29

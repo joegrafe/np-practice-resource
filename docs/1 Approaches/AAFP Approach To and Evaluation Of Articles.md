@@ -3,6 +3,7 @@ title: "American Family Physician: Approach, Evaluation and Management"
 type: approach
 tags: [approach]
 jurisdiction: [INTL]
+aliases: [AAFP, AFP, American Family Physician, American Academy of Family Physicians, approach to, evaluation of, AAFP approach articles]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
