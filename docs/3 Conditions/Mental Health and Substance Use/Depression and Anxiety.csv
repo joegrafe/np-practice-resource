@@ -8,7 +8,7 @@ Key Sources,,1,Appendix D: Switching Antidepressants,https://www2.gov.bc.ca/asse
 Key Sources,,1,Appendix E: Discontinuation Syndrome of Antidepressant Medications,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/depress_appe.pdf,,,,,,,,
 Key Sources,,1,Example of a Safety Plan,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/depression_safety_plan.pdf,,,,,suicide,,,
 Key Sources,,1,Resource Guide: Information Sources for Physicians,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/depression_resource_guide_physicians.pdf,,,,,,,,
-Key Sources,box,,CANMAT 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults (Canadian Journal of Psychiatry),,,-,,"Canadian Network for Mood and Anxiety Treatments; assessment, psychological, pharmacological and other treatments; open access",MDD antidepressant,INTL,,canmat-mdd-2023
+Key Sources,box,,CANMAT 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults (Canadian Journal of Psychiatry),,,-,,"Canadian Network for Mood and Anxiety Treatments; assessment, psychological, pharmacological and other treatments; open access",MDD antidepressant,CA,,canmat-mdd-2023
 Key Sources,,1,Full Guideline (PDF),https://journals.sagepub.com/doi/pdf/10.1177/07067437241245384,,,,,,,,
 Key Sources,,1,CANMAT: Major Depressive Disorder guidelines and related resources,https://www.canmat.org/2025/04/29/major-depressive-disorder-guidelines-related-resources/,,,,slide sets and resources; some need a free CANMAT account,,CA,,
 Key Sources,box,,Centre for Effective Practice - Anxiety and Depression,,,,,"Ontario primary care tool: validated screening tools, stepped care and treatment options in adults",GAD,ON,,cep-anxiety-depression-2023
@@ -29,12 +29,12 @@ Further Resources,,1,Appendix B: Treatment of Anxiety Disorders and Depression i
 Further Resources,,1,Appendix C: SSRI Monitoring Form,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendix_c_-_selective_serotonin_reuptake_inhibitor_ssri_monitoring_form.pdf,,,,,,,,
 Further Resources,,1,Appendix D: Measurement of Functional Change in Depressed and/or Anxious Patients,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendix_d_-_measurement_of_functional_change_in_depressed_andor_anxious_patients.pdf,,,,,,,,
 Further Resources,,1,Information Sources for Physicians,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/information_sources_for_physicians.pdf,,,,,,,,
-Further Resources,box,,"Canadian Clinical Practice Guidelines for the Management of Anxiety, Posttraumatic Stress and Obsessive-Compulsive Disorders (BMC Psychiatry)",,,,,"Anxiety Disorders Association of Canada; panic disorder, social anxiety, generalized anxiety, PTSD and OCD in adults, children and adolescents; open access",GAD panic social anxiety PTSD OCD,INTL,,adac-anxiety-ptsd-ocd-2014
-Further Resources,box,,"CANMAT 2024 Clinical Practice Guideline for the Management of Perinatal Mood, Anxiety, and Related Disorders (Canadian Journal of Psychiatry)",,,-,,pregnancy and postpartum; more on [Pregnancy and Perinatal](../../4%20Populations/Pregnancy%20and%20Perinatal.md),postpartum perinatal,INTL,,canmat-perinatal-2024
-Further Resources,,1,Full Guideline (PDF),https://journals.sagepub.com/doi/pdf/10.1177/07067437241303031,,,,,,,,
-Further Resources,box,,Therapeutics Initiative - Therapeutics Letters on antidepressants,,,,,independent drug evaluation from UBC,,BC,,ti-therapeutics-letter
+Further Resources,box,,Therapeutics Initiative - Therapeutics Letters on antidepressants,,-,,,independent drug evaluation from UBC,,BC,,ti-therapeutics-letter
 Further Resources,,1,[156] Antidepressant withdrawal syndrome: Update,,,,,,,,,ti-letter-156-2025
 Further Resources,,1,[157] How to stop antidepressants,,,,[Patient handout](https://www.ti.ubc.ca/wordpress/wp-content/uploads/2025/07/stopping-antidepressants-patient-handout.pdf),,tapering deprescribing,,,ti-letter-157-2025
+Further Resources,box,,"Canadian Clinical Practice Guidelines for the Management of Anxiety, Posttraumatic Stress and Obsessive-Compulsive Disorders (BMC Psychiatry)",,,,,"Anxiety Disorders Association of Canada; panic disorder, social anxiety, generalized anxiety, PTSD and OCD in adults, children and adolescents; open access",GAD panic social anxiety PTSD OCD,CA,,adac-anxiety-ptsd-ocd-2014
+Further Resources,box,,"CANMAT 2024 Clinical Practice Guideline for the Management of Perinatal Mood, Anxiety, and Related Disorders (Canadian Journal of Psychiatry)",,,-,,pregnancy and postpartum; more on [Pregnancy and Perinatal](../../4%20Populations/Pregnancy%20and%20Perinatal.md),postpartum perinatal,CA,,canmat-perinatal-2024
+Further Resources,,1,Full Guideline (PDF),https://journals.sagepub.com/doi/pdf/10.1177/07067437241303031,,,,,,,,
 Further Resources,box,,AAFP - Generalized Anxiety Disorder and Panic Disorder in Adults,,,,,"International source: US guidance, not Canadian.",GAD panic,INTL,,aafp-gad-panic-2022
 Further Resources,box,,AAFP - Pharmacologic Treatment of Depression,,,,,"International source: US guidance, not Canadian.",antidepressant,INTL,,aafp-pharm-depression-2023
 Further Resources,box,,NICE - Depression in Adults: Treatment and Management (NG222),,,,,"International source: UK guidance, not Canadian.",,INTL,,nice-ng222-2022
@@ -60,9 +60,9 @@ Patient Resources,,1,Generalized Anxiety Disorder,https://www.healthlinkbc.ca/he
 Patient Resources,,1,Panic Attacks and Panic Disorder,https://www.healthlinkbc.ca/healthwise/panic-attacks-and-panic-disorder,,,,,,,,
 Patient Resources,,,HeretoHelp - Depression and Depressive Disorders,https://www.heretohelp.bc.ca/infosheet/depression,,,,BC Partners for Mental Health and Substance Use Information,,BC,yes,
 Patient Resources,,,HeretoHelp - Anxiety Disorders,https://www.heretohelp.bc.ca/infosheet/anxiety-disorders,,,,,,BC,yes,
-Patient Resources,,,Anxiety Canada,https://www.anxietycanada.com/,,,,self-help programs and the MindShift CBT app,,CA,,
 Patient Resources,,,Kelty Mental Health - Depression,https://keltymentalhealth.ca/depression,,,,for children and youth and their families,,BC,yes,
 Patient Resources,,,Kelty Mental Health - Anxiety,https://keltymentalhealth.ca/anxiety,,,,for children and youth and their families,,BC,yes,
-Patient Resources,,,BC Guidelines - Anxiety in Children and Youth: A Guide for Parents,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/anxiety_in_children_and_youth_-_a_guide_for_parents.pdf,,,,,,BC,,
-Patient Resources,,,BC Guidelines - Depression in Children and Youth: A Guide for Parents,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/depression_in_children_and_youth_-_a_guide_for_parents.pdf,,,,,,BC,,
-Patient Resources,,,BC Guidelines - Resource Guide: Information Sources for Patients (depression in adults),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/depression_resource_guide_patients.pdf,,,,,,BC,,
+Patient Resources,,,BC Guidelines - Anxiety in Children and Youth: A Guide for Parents,,,,,,,BC,,bc-gpac-anxiety-youth-parent-guide-2010
+Patient Resources,,,BC Guidelines - Depression in Children and Youth: A Guide for Parents,,,,,,,BC,,bc-gpac-depression-youth-parent-guide-2010
+Patient Resources,,,BC Guidelines - Resource Guide: Information Sources for Patients (depression in adults),,,,,,,BC,,bc-gpac-depression-patient-resource-guide-2013
+Patient Resources,,,Anxiety Canada,https://www.anxietycanada.com/,,,,self-help programs and the MindShift CBT app,,CA,,

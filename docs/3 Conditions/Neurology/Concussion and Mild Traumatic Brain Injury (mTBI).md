@@ -5,8 +5,8 @@ system: neurology
 tags: [condition, neurology, concussion, mtbi, head-injury, pediatrics, headache, adolescents, older-adults, dizziness-and-vertigo]
 jurisdiction: [BC, CA, INTL, "ON"]
 status: published
-last-reviewed: 2026-10-09
-review-due: 2027-10-09
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Not reachable from the build environment on 2026-10-09: CATT resource letters (resources.cattonline.com) and SCAT6/Child SCAT6 (bjsm.bmj.com shows a bot check; the Concussion Recognition Tool 6 is linked instead).

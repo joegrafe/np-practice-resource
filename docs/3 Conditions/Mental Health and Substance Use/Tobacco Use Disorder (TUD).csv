@@ -8,12 +8,12 @@ Key Sources,box,,Canadian Task Force on Preventive Health Care - Tobacco Smoking
 Key Sources,,1,Recommendations on interventions for tobacco smoking cessation in adults in Canada (CMAJ),,,,,,,,,ctfphc-tobacco-adults-cmaj-2025
 Key Sources,,1,Infographic,https://canadiantaskforce.ca/tools-resources/tobacco-smoking-in-adults-infographic/,,,,,,,,
 Further Resources,,,BC Guidelines - Tobacco Use Disorder,,,,,"adults, with some recommendations for youth 12 to 18: screening, brief intervention, counselling and medicines for commercial tobacco use, and vaping",smoking cessation guideline GPAC,BC,other,bc-gpac-tud-2024
-Further Resources,box,,Canadian Task Force on Preventive Health Care - Tobacco Smoking in Children and Adolescents,,,,,prevention and cessation interventions for children and adolescents,youth smoking teens,CA,,ctfphc-tobacco-children-2017
 Further Resources,box,,Perinatal Services BC - Tobacco and Nicotine Use During the Perinatal Period,,,,,Perinatal and Newborn Health Hub; more on [Pregnancy and Perinatal](../../4%20Populations/Pregnancy%20and%20Perinatal.md),pregnancy smoking NRT pregnancy,BC,,psbc-hub-1066
 Further Resources,box,,First Nations Health Authority - Commercial tobacco resources,,,,,linked from the BC Guideline; traditional tobacco and quitting commercial tobacco,FNHA traditional tobacco Indigenous,BC,,
 Further Resources,,1,,,,,,,,,,fnha-tobacco-sacred-medicine
-Further Resources,,1,Frequently Asked Questions: Quitting Commercial Tobacco,https://www.fnha.ca/wp-content/uploads/migrated/Documents/FNHA-Quitting-Commercial-Tobacco-FAQs.pdf,,,,,,,,
-Further Resources,box,,CAMH (INTREPID Lab) - Vaping Cessation Guidance Resource,,,,,Centre for Addiction and Mental Health; linked from the BC Guideline,vaping cessation e-cigarette quit vaping,CA,,camh-vaping-cessation
+Further Resources,,1,Frequently Asked Questions: Quitting Commercial Tobacco,https://fnha.ca/wp-content/uploads/migrated/Documents/FNHA-Quitting-Commercial-Tobacco-FAQs.pdf,,,,,,,,
+Further Resources,box,,Canadian Task Force on Preventive Health Care - Tobacco Smoking in Children and Adolescents,,,,,prevention and cessation interventions for children and adolescents,youth smoking teens,CA,,ctfphc-tobacco-children-2017
+Further Resources,box,,CAMH (INTREPID Lab) - Vaping Cessation Guidance Resource,-,,,,Centre for Addiction and Mental Health; linked from the BC Guideline,vaping cessation e-cigarette quit vaping,CA,,camh-vaping-cessation
 Further Resources,box,,CFPCLearn - Tools for Practice #401: Vape Expectations: Are electronic cigarettes the real deal for smoking cessation? (Update),,,,,evidence summary on e-cigarettes for quitting smoking,e-cigarettes vaping,CA,,tfp-401-2025
 Further Resources,box,,AAFP - Medications for Smoking Cessation: Guidelines from the American Thoracic Society,,,,,"International source: US guidance, not Canadian.",varenicline ATS,INTL,,aafp-ats-smoking-2021
 Further Resources,,,CAMH - Smoking Cessation (Primary Care Addiction Toolkit),,,,,"Ontario primary care guide: screening, assessment, nicotine replacement and other medications, and specific populations",CAMH smoking cessation,ON,,camh-smoking-cessation-guide
@@ -23,7 +23,7 @@ Assessment Tools and Calculators,,,Canadian Task Force on Preventive Health Care
 Assessment Tools and Calculators,md,,- More screening tools — *see [Screening Questionnaires and Scales](../../2%20Assessments/Screening%20Questionnaires%20and%20Scales.md) and [Preventive Care and Cancer Screening](../../2%20Assessments/Preventive%20Care%20and%20Cancer%20Screening.md)*,,,,,,,,,
 Prescribing,,,BC PharmaCare - Smoking Cessation Program: Information for Health Professionals,,,,,"BC program coverage of nicotine replacement and prescription quit-smoking medicines, switching and eligible products (last updated September 9, 2026)",free NRT program coverage,BC,yes,bc-pharmacare-smoking-cessation
 Prescribing,,,BC PharmaCare - Nicotine dependence,,,,,"substance use disorder hub page (last updated April 28, 2026)",,BC,yes,pharmacare-nicotine-2026
-Prescribing,,,BC PharmaCare - Drug Interactions with Tobacco Smoke,,,,,medicines whose levels change when someone starts or stops smoking,clozapine smoking interaction,BC,yes,pharmacare-tobacco-interactions-2021
+Prescribing,,,BC PharmaCare - Drug Interactions with Tobacco Smoke,-,,,,medicines whose levels change when someone starts or stops smoking,clozapine smoking interaction,BC,yes,pharmacare-tobacco-interactions-2021
 Prescribing,,,First Nations Health Authority - Coverage for Products to Quit the Use of Commercial Tobacco,,,,,coverage for First Nations clients,FNHA Plan W NRT,BC,yes,fnha-quit-tobacco-coverage
 Prescribing,,,RxFiles - Drug Comparison Charts: Smoking Cessation,,,,,smoking cessation medicines compared; the chart needs an RxFiles subscription,RxFiles smoking chart,CA,,rxfiles-smoking-cessation-chart
 Prescribing,box,,PharmaCare Special Authority: criteria,,,,,varenicline needs no Special Authority when given through the Smoking Cessation Program,,BC,yes,
@@ -32,6 +32,6 @@ Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ont
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Quitting Smoking,,,,,,,BC,,healthlinkbc-quitting-smoking
-Patient Resources,,,,,,,,"free phone, live chat, text and email quit coaching for BC residents, from the BC Lung Foundation",quit smoking quit vaping coaching,BC,,quitnow-bc
+Patient Resources,,,,,,,,"free phone, live chat, text and email quit coaching for BC residents, from the BC Lung Foundation",quit smoking quit vaping coaching,BC,yes,quitnow-bc
 Patient Resources,,,BC Government - Get help quitting tobacco (BC Smoking Cessation Program),,,,,how to get free nicotine replacement products and prescription coverage,free NRT patients,BC,yes,bc-smoking-cessation-program-public
 Patient Resources,,,BC Guidelines - Tobacco Use Disorder: Patient Handout,,,,,,,BC,,bc-gpac-tud-patient-2024

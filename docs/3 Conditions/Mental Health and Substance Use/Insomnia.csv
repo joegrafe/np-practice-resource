@@ -17,18 +17,18 @@ Further Resources,,1,,,,,,,taper,,,how-to-design-a-taper-guide-pdf
 Further Resources,box,,deprescribing.org - Deprescribing Benzodiazepine Receptor Agonists (Canadian Family Physician),,,,,evidence-based clinical practice guideline; Can Fam Physician 64(5):339-351,BZRA deprescribing guideline,CA,,cfp-bzra-deprescribing-2018
 Further Resources,,1,,,,,,,algorithm,,,bzra-deprescribing-algorithm-2019-pdf
 Further Resources,box,,Insomnia in older adults: Approaching a clinical challenge systematically (Canadian Family Physician),,,,,older adults; Can Fam Physician 67(1):25-26,older adults seniors,CA,,cfp-insomnia-older-adults-2021
-Further Resources,box,,Choosing Wisely Canada - Drowsy Without Feeling Lousy,,,,,toolkit for reducing benzodiazepine and sedative-hypnotic use in primary care,sedative hypnotics toolkit,CA,,cwc-drowsy-without-feeling-lousy
-Further Resources,box,,CFPCLearn - Tools for Practice on insomnia,,,,,evidence summaries for family practice,,CA,,cfpclearn-tools-for-practice-library
+Further Resources,box,,Choosing Wisely Canada - Drowsy Without Feeling Lousy,,-,,,toolkit for reducing benzodiazepine and sedative-hypnotic use in primary care,sedative hypnotics toolkit,CA,,cwc-drowsy-without-feeling-lousy
+Further Resources,box,,CFPCLearn - Tools for Practice on insomnia,,-,,,evidence summaries for family practice,,CA,,cfpclearn-tools-for-practice-library
 Further Resources,,1,#418 Enough Evidence to Put One to Sleep: Cognitive behavioural therapy for insomnia,,,,,,CBT-I,,,tfp-418-2026
 Further Resources,,1,#328 RXs for Orexins? The efficacy and safety of orexin antagonists for insomnia,,,,[Canadian Family Physician version (2024)](https://www.cfp.ca/content/70/3/183),,lemborexant daridorexant orexin,,,tfp-328-2022
 Further Resources,,1,#302 Trazodone for insomnia,,,,,,trazodone,,,tfp-302-2021
 Further Resources,,1,#120 Melatonin for insomnia,,,,,,melatonin,,,tfp-120-2014
-Further Resources,box,,Sleep Well (Dalhousie University) - For clinicians,,,,,CBT-I resources and training for primary care clinicians,CBT-I clinicians mysleepwell,CA,,mysleepwell-clinicians
+Further Resources,box,,Sleep Well (Dalhousie University) - For clinicians,,-,,,CBT-I resources and training for primary care clinicians,CBT-I clinicians mysleepwell,CA,,mysleepwell-clinicians
 Further Resources,box,,AAFP - Common Sleep Disorders in Adults: Diagnosis and Management,,,,,"International source: US guidance, not Canadian.",sleep disorders,INTL,,aafp-sleep-disorders-2022
 Further Resources,box,,American Academy of Sleep Medicine - Behavioral and psychological treatments for chronic insomnia disorder in adults (J Clin Sleep Med),,,,,"International source: US guidance, not Canadian.",AASM CBT-I guideline,INTL,,aasm-insomnia-behavioral-2021
 Further Resources,box,,American Academy of Sleep Medicine - Pharmacologic treatment of chronic insomnia in adults (J Clin Sleep Med),,,,,"International source: US guidance, not Canadian.",AASM insomnia medication guideline,INTL,,aasm-insomnia-pharmacologic-2017
 Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for insomnia found; the BZRA deprescribing algorithm is under Further Resources.,,BC,,
-Assessment Tools and Calculators,,,Alberta (TOP) - Sleep Disorders Questionnaire (PDF),,,,,"screening questionnaire for insomnia and other sleep disorders, from Alberta's Toward Optimized Practice",sleep questionnaire,AB,,top-sleep-disorders-questionnaire
+Assessment Tools and Calculators,,,Alberta Medical Association (TOP) - Sleep Disorders Questionnaire,,,,,"screening questionnaire for insomnia and other sleep disorders, from Alberta's Toward Optimized Practice",sleep questionnaire,AB,,top-sleep-disorders-questionnaire
 Assessment Tools and Calculators,md,,- Sleep apnea screening (STOP-Bang) — *see [Screening Questionnaires and Scales](../../2%20Assessments/Screening%20Questionnaires%20and%20Scales.md)*,,,,,,,,,
 Prescribing,box,,RxFiles - Drug Comparison Charts: Sleep Disorders,,,-,,sedatives and hypnotics compared; the chart needs an RxFiles subscription,RxFiles sedatives chart,CA,,rxfiles-sleep-chart
 Prescribing,,1,Sedatives and hypnotics chart (PDF),https://www.rxfiles.ca/rxfiles/uploads/documents/members/Cht-psyc-sedatives.pdf,,,,needs an RxFiles subscription,,,,
@@ -49,7 +49,7 @@ Patient Resources,,,Fraser Health - Insomnia,https://www.fraserhealth.ca/health-
 Patient Resources,,,HeretoHelp - Wellness Module 6: Getting a Good Night's Sleep,https://www.heretohelp.bc.ca/wellness-module/wellness-module-6-getting-a-good-nights-sleep,,,,BC mental health and substance use information,,BC,yes,
 Patient Resources,,,Sleep Well (Dalhousie University),https://mysleepwell.ca/,,,,free CBT-I information and self-help for patients,CBT-I self-help,CA,,
 Patient Resources,,,,,,,,,insomnia without medication,CA,,canadian-deprescribing-network-sleep-well-without
-Patient Resources,,,RxFiles - Insomnia patient booklet (PDF),https://www.rxfiles.ca/rxfiles/uploads/documents/insomnia-patient-booklet.pdf,,,,for people who may benefit from reducing or stopping sleeping pills; free to download,stopping sleeping pills,CA,,
-Patient Resources,,,,,,,,,,CA,,deprescribing-org-benzodiazepine-deprescribing
+Patient Resources,,,RxFiles - Sleeping Pills (Insomnia) Q&A patient booklet,,,,,for people who may benefit from reducing or stopping sleeping pills; free to download,stopping sleeping pills,CA,,rxfiles-insomnia-patient-booklet
+Patient Resources,,,deprescribing.org - Benzodiazepine and Z-Drug Deprescribing Information Pamphlet,,,,,,,CA,,deprescribing-org-benzodiazepine-deprescribing
 Patient Resources,,,Choosing Wisely Canada - Insomnia and Anxiety in Older People,https://choosingwiselycanada.org/pamphlet/sleeping-pills-and-older-adults/,,,,,older adults sleeping pills,CA,,
 Patient Resources,,,Choosing Wisely Canada - Sleeping Pills,https://choosingwiselycanada.org/pamphlet/sleeping-pills/,,,,,,CA,,

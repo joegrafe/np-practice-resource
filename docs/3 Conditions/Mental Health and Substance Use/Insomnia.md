@@ -6,8 +6,8 @@ tags: [condition, mental-health-substance-use, insomnia, sleep, sedatives, depre
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [insomnia, chronic insomnia, sleep problems, "can't sleep", trouble sleeping, sleeplessness, poor sleep, sleep hygiene, CBT-I, CBTi, cognitive behavioural therapy for insomnia, sleep restriction, stimulus control, sleep diary, sleeping pills, hypnotics, sedative-hypnotics, z-drug, z-drugs, zopiclone, Imovane, eszopiclone, Lunesta, zolpidem, Sublinox, lemborexant, Dayvigo, daridorexant, Quviviq, orexin antagonist, DORA, trazodone, Desyrel, doxepin, Silenor, quetiapine, Seroquel, mirtazapine, melatonin, benzodiazepine, benzodiazepines, BZRA, lorazepam, temazepam, Restoril, deprescribing, PAD, mysleepwell]
 status: published
-last-reviewed: 2026-11-03
-review-due: 2027-11-03
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Conditions wave 2, batch C (build wave 16), built 2026-11-03.

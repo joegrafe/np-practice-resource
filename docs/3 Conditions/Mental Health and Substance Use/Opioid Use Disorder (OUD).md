@@ -6,8 +6,8 @@ tags: [condition, mental-health-substance-use, opioid-use-disorder, substance-us
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [OUD, opioid addiction, opioid dependence, OAT, opioid agonist treatment, opioid agonist therapy, buprenorphine, buprenorphine/naloxone, Suboxone, Sublocade, extended-release buprenorphine, methadone, Methadose, slow-release oral morphine, SROM, Kadian, iOAT, injectable OAT, fentanyl, opioid withdrawal, COWS, naloxone, overdose, toxic drug, prescribed alternatives, safer supply, BCCSU, CRISM, Plan Z, micro-dosing, low-dose initiation]
 status: published
-last-reviewed: 2026-10-30
-review-due: 2027-10-30
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Conditions wave 1, built 2026-10-30.

@@ -1,6 +1,6 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
 Key Sources,,,Centre for Effective Practice - ADHD in Adults,,,,,"Ontario primary care tool: ASRS screening, DSM-5 diagnosis and management with comorbid conditions",CEP tool,ON,yes,cep-adhd-in-adults-2025
-Key Sources,box,,"CADDRA - Canadian ADHD Practice Guidelines (4.1 edition, January 2020)",,,,,"Covers screening, assessment and treatment across the lifespan. The access page links a free PDF download through CADDRA's portal store.",,CA,,caddra-guidelines-4-1
+Key Sources,box,,CADDRA - Canadian ADHD Practice Guidelines (4.1 edition),,,,,"Covers screening, assessment and treatment across the lifespan. The access page links a free PDF download through CADDRA's portal store.",,CA,,caddra-guidelines-4-1
 Key Sources,,1,Guideline overview,https://www.caddra.ca/guideline-overview/,,,,,,,,
 Key Sources,,1,ADHD questionnaires and forms,,,,,,,,,caddra-etoolkit-forms
 Further Resources,box,,"Canadian Paediatric Society - ADHD in Children and Youth, Parts 1 to 3 (2018, reaffirmed 2024)",,,,,,,CA,,cps-adhd-tools
@@ -39,10 +39,10 @@ Advice and Referral,,1,,,,,,"toolkits, webinars and resources; filter by the ADH
 Advice and Referral,,,BC Children's Hospital: Mental Health and Substance Use Outpatient Services Referral,,,,,"consultative outpatient psychiatry for ages 0 to 18, including ADHD; the page strongly encourages consulting Compass before referring",,BC,yes,bcch-outpatient-psychiatry-referral
 Advice and Referral,,1,"Outpatient Psychiatry Programs Referral Form (revised April 2025, PDF)",https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2025-07/outpatient-psychiatry-programs-referral-form.pdf,,,,,,,,
 Advice and Referral,,,BC Children's Hospital: Mental Health and Substance Use Outpatient Services,,,,,,,BC,yes,bcch-mhsu-outpatient
-Advice and Referral,,,Child and Youth Mental Health Intake Clinics (Government of BC),,,,,community child and youth mental health intake across BC,,BC,,bc-cymh-intake-clinics
-Advice and Referral,,,,,,,,"for transfer of care, e.g. youth to adult services",,CA,,caddra-transition-form
+Advice and Referral,,,Child and Youth Mental Health Intake Clinics (Government of BC),,,,,community child and youth mental health intake across BC,,BC,yes,bc-cymh-intake-clinics
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Advice and Referral,,,,,,,,"for transfer of care, e.g. youth to adult services",,CA,,caddra-transition-form
 Patient Resources,,,Kelty Mental Health - ADHD,,,,,for parents and caregivers,,BC,yes,kelty-adhd
 Patient Resources,,1,,,,,,,,,,kelty-child-might-have-adhd
 Patient Resources,,1,,,,,,information sheets for each ADHD medication,,,,kelty-adhd-medications

@@ -2,7 +2,7 @@ heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
 Key Sources,box,,,,,,,"adults with acute, subacute and chronic pain, including osteoarthritis; Part 1 covers assessment and non-drug care, Part 2 medicines",BC pain guideline GPAC,BC,yes,bc-guidelines-managing-patients-with-pain-in
 Key Sources,,1,Part 1 Full Guideline (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/managing_pain_part1_2022.pdf,,,,,,,,
 Key Sources,,2,,,,,,,exercise physiotherapy,,,appendix-b-non-pharmacological-treatment
-Key Sources,,1,,,,,,,NSAIDs acetaminophen,,,part-2-pharmacological-management
+Key Sources,,1,,,,,,,NSAIDs acetaminophen,,,bcguidelines-managing-pain-part-2-2022
 Key Sources,,2,,,,,,,,,,appendix-a-medication-table
 Key Sources,,,Centre for Effective Practice - Osteoarthritis Tool,,,,,Ontario primary care tool for diagnosing and managing hip and knee osteoarthritis,CEP OA tool,ON,yes,cep-osteoarthritis-2017
 Key Sources,box,,"PEER Simplified Chronic Pain Guideline: Management of Chronic Low Back, Osteoarthritic, and Neuropathic Pain in Primary Care (Canadian Family Physician)",,,,,Canadian guideline from the PEER group (CFPC); Can Fam Physician 68(3):179-190,PEER osteoarthritis guideline,CA,,peer-chronic-pain-2022
@@ -17,7 +17,7 @@ Further Resources,box,,BC Guidelines - Appropriate Imaging: Hip and Knee Pain,ht
 Further Resources,,1,MRI Knee and Hip Appropriateness Criteria,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#mrikneehip,,,,,MRI knee,,,
 Further Resources,box,,Therapeutics Initiative - Finding the lowest effective dose for non-opioid analgesics (Therapeutics Letter 134),,,,,independent drug evaluation from UBC; acetaminophen and NSAID doses,acetaminophen NSAID dose,BC,,ti-letter-134-2022
 Further Resources,box,,PEER simplified decision aid: osteoarthritis treatment options in primary care (Canadian Family Physician),,,,,"benefits, harms and costs of OA treatments compared; Can Fam Physician 66(3):191-193",decision aid treatment options,CA,,peer-oa-decision-aid-2020
-Further Resources,box,,CFPCLearn - Tools for Practice on osteoarthritis,,,,,evidence summaries for family practice,,CA,,cfpclearn-tools-for-practice-library
+Further Resources,box,,CFPCLearn - Tools for Practice on osteoarthritis,,-,,,evidence summaries for family practice,,CA,,cfpclearn-tools-for-practice-library
 Further Resources,,1,#404 From Nerve Pain to Knee Pain: Gabapentinoids for osteoarthritis,,,,,,gabapentin pregabalin,,,tfp-404-2026
 Further Resources,,1,"#300 No Gain, No Pain? What is the effect of diet-induced weight loss on osteoarthritis-related knee pain?",,,,,,weight loss,,,tfp-300-2021
 Further Resources,,1,#276 Glucosamine & Chondroitin: Natural remedies for osteoarthritis?,,,,,,glucosamine chondroitin supplements,,,tfp-276-2020
@@ -29,8 +29,6 @@ Algorithms and Pathways,,,Alberta's Pathway Hub - Arthritis of Hand (including t
 Algorithms and Pathways,note,,,,,,,"No BC pathway for osteoarthritis, or Alberta pathway for hip osteoarthritis, found.",,BC,,
 Assessment Tools and Calculators,,,PEER Pain Calculator: Osteoarthritis Pain (C-TOP),,,,,"compares the chance of benefit and harm of each treatment, for shared decisions; from the PEER group",C-TOP calculator shared decision,CA,,peer-pain-calculator-oa
 Assessment Tools and Calculators,md,,- Knee and hip examination — *see [Physical Exam by System](../../2%20Assessments/Physical%20Exam%20by%20System.md)*,,,,,,,,,
-Prescribing,box,,RxFiles - Pain Book,,,,,osteoarthritis and chronic pain therapy; some charts need an RxFiles subscription,RxFiles pain,CA,,rxfiles-pain-book
-Prescribing,,1,NSAIDs and COX-2 Inhibitors comparison chart (PDF),https://www.rxfiles.ca/rxfiles/uploads/documents/members/CHT-NSAID-Cox2.pdf,,,,needs an RxFiles subscription,NSAID chart,,,
 Prescribing,,,BC PharmaCare - Reference Drug Program: NSAIDs,,,,,which NSAIDs PharmaCare covers in full and which are partly covered,RDP NSAIDs coverage,BC,yes,pharmacare-rdp-nsaids
 Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
 Prescribing,,1,Criteria any prescriber can request:,,,,,,,,,
@@ -45,6 +43,8 @@ Prescribing,,2,"Naproxen enteric-coated (last updated July 27, 2026)",https://ww
 Prescribing,,2,"Naproxen SR (last updated July 27, 2026)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/programs/limited-coverage-drug-program/limited-coverage-drugs-naproxen-sr,,,,,,,,
 Prescribing,,2,"Duloxetine (last updated April 21, 2026)",,,,,,Cymbalta,,,pharmacare-sa-duloxetine
 Prescribing,,1,PharmaCare Special Authority Request: General (HLTH 5328),https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,,,,,
+Prescribing,box,,RxFiles - Pain Book,,,,,osteoarthritis and chronic pain therapy; some charts need an RxFiles subscription,RxFiles pain,CA,,rxfiles-pain-book
+Prescribing,,1,NSAIDs and COX-2 Inhibitors comparison chart (PDF),https://www.rxfiles.ca/rxfiles/uploads/documents/members/CHT-NSAID-Cox2.pdf,,,,needs an RxFiles subscription,NSAID chart,,,
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect

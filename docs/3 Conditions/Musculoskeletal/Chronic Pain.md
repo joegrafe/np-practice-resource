@@ -6,8 +6,8 @@ tags: [condition, musculoskeletal, chronic-pain, pain, neuropathic-pain, opioids
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [chronic non-cancer pain, CNCP, persistent pain, long-term pain, neuropathic pain, nerve pain, fibromyalgia, osteoarthritis pain, chronic low back pain, opioids, opioid tapering, opioid taper, analgesics, painkillers, NSAID, acetaminophen, gabapentin, pregabalin, Lyrica, duloxetine, Cymbalta, amitriptyline, tramadol, celecoxib, Celebrex, fentanyl patch, Pain BC, PEER]
 status: published
-last-reviewed: 2026-10-30
-review-due: 2027-10-30
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Conditions wave 1, built 2026-10-30.

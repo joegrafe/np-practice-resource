@@ -4,7 +4,7 @@ Key Sources,,1,Part 1 Full Guideline (PDF),https://www2.gov.bc.ca/assets/gov/hea
 Key Sources,,2,Appendix A: Overarching Considerations of Pain Management,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/managing_pain_part1_2022_appendixaonly.pdf,,,,,,,,
 Key Sources,,2,,,,,,,exercise physiotherapy,,,appendix-b-non-pharmacological-treatment
 Key Sources,,2,Appendix C: Allied Health Professionals to Support Pain Management,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/managing_pain_part1_2022_appendixc_only.pdf,,,,,,,,
-Key Sources,,1,,,,,,,opioids analgesics,,,part-2-pharmacological-management
+Key Sources,,1,,,,,,,opioids analgesics,,,bcguidelines-managing-pain-part-2-2022
 Key Sources,,2,,,,,,,,,,appendix-a-medication-table
 Key Sources,box,,"PEER Simplified Chronic Pain Guideline: Management of Chronic Low Back, Osteoarthritic, and Neuropathic Pain in Primary Care (Canadian Family Physician)",,,,,"Canadian primary care guideline from PEER (Patients, Experience, Evidence, Research); Can Fam Physician 68(3)",PEER osteoarthritis neuropathic,CA,,peer-chronic-pain-2022
 Key Sources,,1,Full Guideline (PDF),https://www.cfp.ca/content/cfp/68/3/179.full.pdf,,,,,,,,
@@ -20,24 +20,23 @@ Further Resources,box,,Ontario Health quality standard - Opioid Prescribing for 
 Further Resources,,1,"Quality Standard (PDF, March 2018)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-opioid-chronic-pain-quality-standard-en.pdf,,,,,,,,
 Further Resources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-opioid-prescribing-for-chronic-pain-placemat-en.pdf,,,,,,,,
 Further Resources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-opioid-chronic-pain-patient-guide-en.pdf,,,,,,,,
-Further Resources,box,,Therapeutics Initiative - Therapeutics Letters on pain medicines,,,,,independent drug evaluation from UBC,,BC,,ti-therapeutics-letter
+Further Resources,box,,Therapeutics Initiative - Therapeutics Letters on pain medicines,,-,,,independent drug evaluation from UBC,,BC,,ti-therapeutics-letter
 Further Resources,,1,[134] Finding the lowest effective dose for non-opioid analgesics,,,,,,acetaminophen NSAID,,,ti-letter-134-2022
 Further Resources,,1,[131] Tramadol: Where do we go from here?,,,,,,tramadol,,,ti-letter-131-2021
 Further Resources,,1,[125] Can prescribers avoid contributing to opioid use disorder?,,,,,,opioids,,,ti-letter-125-2020
 Further Resources,,1,[117] Gabapentin and pregabalin: Are high doses justified?,,,,,,gabapentinoids,,,ti-letter-117-2019
-Further Resources,box,,Pain BC - Resource Centre,https://resources.painbc.ca/search/,,,,BC clinician and patient pain resources,,BC,,
+Further Resources,box,,Pain BC - Resource Centre,https://resources.painbc.ca/search/,-,,,BC clinician and patient pain resources,,BC,,
 Further Resources,box,,Guideline for Opioid Therapy and Chronic Noncancer Pain (CMAJ),,,,,2017 Canadian guideline for opioids for chronic non-cancer pain (McMaster National Pain Centre),opioids McMaster,CA,,canadian-opioid-cncp-2017
 Further Resources,,1,Full Guideline (PDF),https://www.cmaj.ca/content/cmaj/189/18/E659.full.pdf,,,,,,,,
-Further Resources,box,,Canadian Pain Society - Pharmacological Management of Chronic Neuropathic Pain: Revised Consensus Statement (Pain Research and Management),,,,,open access,neuropathic,INTL,,cps-neuropathic-pain-2014
-Further Resources,box,,CDC - Clinical Practice Guideline for Prescribing Opioids for Pain (MMWR),,,,,"International source: US guidance, not Canadian.",opioids,INTL,,cdc-opioids-pain-2022
+Further Resources,box,,Canadian Pain Society - Pharmacological Management of Chronic Neuropathic Pain: Revised Consensus Statement (Pain Research and Management),,,,,open access,neuropathic,CA,,cps-neuropathic-pain-2014
 Further Resources,box,,AAFP - Nonopioid Pharmacologic Treatments for Chronic Pain,,,,,"International source: US guidance, not Canadian.",,INTL,,aafp-nonopioid-chronic-pain-2021
+Further Resources,box,,CDC - Clinical Practice Guideline for Prescribing Opioids for Pain (MMWR),,,,,"International source: US guidance, not Canadian.",opioids,INTL,,cdc-opioids-pain-2022
 Algorithms and Pathways,,,Pathways BC: Chronic Pain,,,,,BC enhanced care pathway (Shared Care and Pain BC); more BC pathways in [Pathways BC Enhanced Care Pathways](../../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md),,BC,yes,pathways-bc-chronic-pain
 Algorithms and Pathways,note,,,,,,,No Alberta Pathway Hub pathway for chronic pain found.,,,,
 Assessment Tools and Calculators,,,MDCalc: Revised Opioid Risk Tool (ORT-OUD),,,,,risk of opioid use disorder before or during opioid therapy,ORT,INTL,,mdcalc-ort-oud
 Assessment Tools and Calculators,,,Centre for Effective Practice - Opioid Manager,,,,,"starting, monitoring, switching and tapering opioids in chronic non-cancer pain",opioid tapering,ON,,cep-opioid-manager
 Assessment Tools and Calculators,,1,,,,,,with a patient handout,taper,,,opioid-tapering-template
-Prescribing,,,RxFiles: Pain Book,,,,,"chronic pain therapy, colour chart, NSAID and opioid comparisons, opioid tapering; some charts need an RxFiles subscription",,CA,,rxfiles-pain-book
-Prescribing,box,,BC Provincial Academic Detailing - Medications for Neuropathic Pain (December 2018),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/medications-neuropathic-pain-newsletter.pdf,2018,,,"BC Ministry of Health; newsletter, appendix and references",neuropathic gabapentin pregabalin,BC,,
+Prescribing,box,,BC Provincial Academic Detailing - Medications for Neuropathic Pain,,,,,"BC Ministry of Health; newsletter, appendix and references",neuropathic gabapentin pregabalin,BC,,bc-pad-neuropathic-pain-2018
 Prescribing,,1,Appendix (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/medications-neuropathic-pain-appendix.pdf,,,,,,,,
 Prescribing,,1,References (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/medications-neuropathic-pain-references.pdf,,,,,,,,
 Prescribing,,,BCCNM - Nurse Practitioners: Prescribing Drugs,,,,,"NP standard, limits and conditions, including controlled drugs; more on [Prescribing Authority](../../6%20Practice/Prescribing%20Authority.md)",controlled drugs,BC,yes,bccnm-np-prescribing-drugs
@@ -47,6 +46,7 @@ Prescribing,,2,"Celecoxib (last updated April 21, 2026)",,,,,,Celebrex,,,pharmac
 Prescribing,,2,"Duloxetine for neuropathic pain (last updated April 21, 2026)",,,,,,Cymbalta,,,pharmacare-sa-duloxetine
 Prescribing,,2,"Fentanyl patch (last updated March 17, 2025)",,,,,,,,,pharmacare-sa-fentanyl-patch
 Prescribing,,1,PharmaCare Special Authority Request: General (HLTH 5328),https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,,,,,
+Prescribing,,,RxFiles: Pain Book,,,,,"chronic pain therapy, colour chart, NSAID and opioid comparisons, opioid tapering; some charts need an RxFiles subscription",,CA,,rxfiles-pain-book
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
@@ -54,7 +54,7 @@ Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontar
 Advice and Referral,,,Pain BC - BC ECHO for Chronic Pain,https://learn.painbc.ca/program/bc-echo-for-chronic-pain,,,,free monthly virtual case-based sessions with an interdisciplinary pain team,ECHO,BC,,
 Advice and Referral,,,"Pain BC - BC Adaptive Mentorship Network for Pain, Mental Health and Substance Use",https://learn.painbc.ca/program/bc-adaptive-mentorship-network,,,,mentorship for primary care providers,BCAMN mentorship,BC,,
 Patient Resources,,,HealthLink BC - Chronic Pain,,,,,,,BC,,healthlinkbc-chronic-pain
-Patient Resources,,,BC Guidelines - Chronic Pain and Opioids: Information for Patients,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac-chronicpain-opioids-patienthandout-v11.pdf,,,,,opioids,BC,,
+Patient Resources,,,BC Guidelines - Chronic Pain and Opioids: Information for Patients,,,,,,opioids,BC,,bc-gpac-chronic-pain-opioids-patient-2022
 Patient Resources,,,,,,,,free phone support for people living with pain,,BC,yes,pain-bc-pain-support-line
 Patient Resources,,,Pain BC - The Guide Line,https://painbc.ca/find-help/the-guide-line,,,,"free coaching on movement, nutrition and mental wellness",,BC,yes,
 Patient Resources,,,Pain BC - Live Plan Be,https://liveplanbe.ca/,,,,self-management program,,CA,,
