@@ -11,8 +11,6 @@ reviewers: [joegrafe]
 redirect_from: [about/nppr-forum]
 ---
 
-*NPPR links primary care and urgent care nurse practitioners across Canada to high-yield, current sources for each step of a visit, so you can check what an AI tool tells you against the source itself.*
-
 ## Who it's for
 
 Primary care and urgent care nurse practitioners and NP students across Canada. Pick your province in the header to see its sources first; British Columbia is the default. Other clinicians are welcome to use it.
