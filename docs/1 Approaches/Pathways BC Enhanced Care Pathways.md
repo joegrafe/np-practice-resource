@@ -3,6 +3,7 @@ title: Pathways BC Enhanced Care Pathways
 type: approach
 tags: [approach]
 jurisdiction: [BC]
+region: BC
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29

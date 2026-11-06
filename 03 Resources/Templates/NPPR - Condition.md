@@ -23,6 +23,7 @@ reviewers: []
      Assessment Tools and Calculators: MDCalc first, then other sites as required.
      Prescribing: always the RxFiles page when RxFiles has an appropriate resource (note when it needs a subscription). Special Authority criteria and forms go last, in one box.
      Every linked top-level row carries a region code from docs/regions.csv (BC, AB, ON, CA, US, INTL): the jurisdiction the content is written for, not the publisher's address.
+     A row for its region alone (the BC Guideline in Key Sources, Special Authority, RACE, a CEP tool, Ontario eConsult, a quality standard) is only=yes; the BC key source gets a one-line copy at the top of Further Resources marked only=other. check_pages.py fails a condition sheet without them.
      A document's facts (title, publisher, url, pdf, year, region, checked) go in docs/sources.csv once; the row names it in the source column and leaves url, pdf and year blank.
      Review notes as footnotes go below the marker, e.g.  [^1]: *On YYYY-MM-DD references the 20XX guideline.* -->
 <!-- nppr-list: <% tp.file.title %>.csv style=condition -->

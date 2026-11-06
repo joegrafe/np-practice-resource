@@ -1,17 +1,24 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
-Key Sources,box,,BC Guidelines - Condition Name,URL,Year,,,Who the guideline covers,,,,
-Key Sources,,1,Key Recommendations,URL,,,,,,,,
+Key Sources,box,,BC Guidelines - Condition Name,,,-,,Who the guideline covers,,BC,yes,bc-gpac-condition
+Key Sources,,1,Key Recommendations,URL#KeyRecommendations,,,,,,,,
 Key Sources,,1,Full Guideline (PDF),PDF URL,,,,,,,,
-Key Sources,box,,National Guideline Name,URL,Year,,,Only chapters relevant to primary care are listed here,,,,
+Key Sources,,,Centre for Effective Practice - Condition Name,,,,,Ontario primary care tool: what it holds,CEP tool,ON,yes,cep-condition
+Key Sources,box,,National Guideline Name,,,,,Only chapters relevant to primary care are listed here,,CA,,publisher-condition-guideline-year
 Key Sources,,1,Chapter,URL,,,,,,,,
-Key Sources,box,,Publisher - Approach to / Management of Condition,URL,Year,,,,,,,
-Further Resources,box,,Other source,URL,Year,,,,,,,
-Algorithms and Pathways,,,Publisher - Algorithm Name,URL,Year,PDF URL,,,,,,
-Assessment Tools and Calculators,,,Tool Name,URL,,,,what it's for,,,,
-Prescribing,,,"Drug reference, RxFiles or medication chart",URL,,,,,,,,
-Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,,,
+Key Sources,box,,Publisher - Approach to / Management of Condition,URL,Year,,,,,INTL,,
+Further Resources,,,BC Guidelines - Condition Name,,,,,Who the guideline covers,,BC,other,bc-gpac-condition
+Further Resources,box,,Other source,URL,Year,,,,,CA,,
+Further Resources,box,,Ontario Health quality standard - Condition Name,,,,,"Ontario quality standard, with a clinician placemat and patient guide",quality standard,ON,yes,ontario-health-condition-qs-year
+Algorithms and Pathways,,,Publisher - Algorithm Name,URL,Year,PDF URL,,,,CA,,
+Assessment Tools and Calculators,,,Tool Name,URL,,,,what it's for,,INTL,,
+Prescribing,,,"Drug reference, RxFiles or medication chart",URL,,,,,,CA,,
+Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
 Prescribing,,1,Criteria for [drug class]:,,,,,,,,,
 Prescribing,,2,"Drug name (last updated Month D, YYYY)",URL,,,,,,,,
 Prescribing,,1,"PharmaCare Special Authority Request: Name (HLTH ####, rev. YYYY/MM/DD)",URL,,,,,,,,
-Advice and Referral,,,RACE / Pathways / service,URL,,,,,,,,
-Patient Resources,,,Resource Name (Publisher),URL,,,,,,,,
+Prescribing,,,Ontario Drug Benefit - Exceptional Access Program: Drug name,,,,,criteria and request form,,ON,yes,odb-eap
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult,,,,,specialist advice for Ontario clinicians,,ON,yes,ontario-econsult
+Advice and Referral,,,Pathways BC / referral tool,URL,,,,,,BC,yes,
+Patient Resources,,,HealthLink BC - Condition Name,URL,,,,,,BC,,
+Patient Resources,,,Resource Name (Publisher),URL,,,,,,CA,,
