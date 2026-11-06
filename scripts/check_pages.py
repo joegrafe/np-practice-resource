@@ -59,8 +59,9 @@ Checks:
   jurisdiction   frontmatter jurisdiction that doesn't match the regions on the rows (a live
                  province with rows but not listed, or a listed code with no row)
   bc-wording     "in BC" (or "in Ontario") on a row not marked only=yes
-  md-links       an md row with an external link: a document belongs in a linked row
-                 with a registry id, a contact or NPPR page can stay
+  md-links       a prose md row with an external link: a document belongs in a linked row
+                 with a registry id (how-to steps, contacts, prescribing notes, tables
+                 and list lines stay md, as the Page standard says)
   search         a content page with no aliases (frontmatter or hooks/search_aliases.yml)
                  or no line in scripts/search-checks.txt (needs nppr-website-config)
   index-list     a page missing from its folder's In This Section list, or a listed
@@ -176,6 +177,8 @@ AAFP_HOST, RXFILES_HOST = "aafp.org", "rxfiles.ca"
 REGION_WORDING = re.compile(r"\b(?:in|for|across) (?:BC|B\.C\.|British Columbia|Ontario)\b")
 YEAR_IN_TITLE = re.compile(r"\([^()]*\b(?:19|20)\d{2}\)")  # "(2021)" or "(BC GPAC, 2021)" in a title
 DATED_TITLE = re.compile(r"\b(guidelines?|algorithm|pathway|standards?|recommendations?|consensus|statement)\b", re.I)
+MD_KEEP_HEADING = re.compile(r"^(how to do it|contacts|np prescribing notes|where to check)")  # md rows the Page standard keeps
+MD_KEEP_CELL = re.compile(r"^\s*(\d+\.|[-*]\s|\|)")  # a numbered step, a list line or a table
 INTRO_LINE = re.compile(r"^\s*(?:\*|_)[^*_].*(?:\*|_)\s*$")  # *an italic intro line*
 PAGE_TEXT = re.compile(r"^\s*(?:<div\b[^>]*>\s*</div>|<p\b[^>]*>.*?</p>|<!--.*)?\s*$")  # lines that aren't page text
 CHECKED_MAX_AGE = 365  # days a registry row's checked date may be old
@@ -516,6 +519,8 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
         if only != "other" and region:
             used_regions.add(region)
         if kind == "md":
+            if MD_KEEP_HEADING.match(hl) or MD_KEEP_CELL.match(cells.get("title", "")):
+                continue  # how-to steps, contacts, prescribing notes, tables and list lines stay md (Page standard)
             ext = [u for u in MD_URL.findall(cells.get("title", "")) if URL.match(u) and "nppr.ca" not in u]
             if ext:
                 hit = next((by_address.get(u.rstrip("/")) for u in ext if by_address.get(u.rstrip("/"))), "")
