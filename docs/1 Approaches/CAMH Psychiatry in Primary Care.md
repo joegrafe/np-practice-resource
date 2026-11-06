@@ -3,10 +3,10 @@ title: CAMH Psychiatry in Primary Care
 type: approach
 tags: [approach]
 jurisdiction: ["ON"]
-status: draft
+status: published
 last-reviewed: 2026-11-05
 review-due: 2027-11-05
-reviewers: []
+reviewers: [joegrafe]
 description: "The Centre for Addiction and Mental Health's primary care guides: 16 Psychiatry in Primary Care chapters, the four Primary Care Addiction Toolkit guides and the concurrent disorders pocket guide, with their year. Written for Ontario."
 aliases: [CAMH, Centre for Addiction and Mental Health, Psychiatry in Primary Care, Primary Care Addiction Toolkit, mental health guide, addiction toolkit, concurrent disorders]
 logo: ""
