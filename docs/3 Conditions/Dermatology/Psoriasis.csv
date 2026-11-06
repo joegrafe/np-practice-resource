@@ -1,7 +1,6 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
 Key Sources,,,Centre for Effective Practice - Psoriasis,,,,,"Ontario primary care tool: assessment and diagnosis, including in skin of colour, and topical and systemic treatment options",CEP tool,ON,yes,cep-psoriasis-2026
-Key Sources,box,,Canadian Family Physician,,,,,,,,,
-Key Sources,,1,Diagnosis and Management of Psoriasis,,,,,,,CA,,cfp-psoriasis-2017
+Key Sources,,,Canadian Family Physician - Diagnosis and Management of Psoriasis,,,,,,,CA,,cfp-psoriasis-2017
 Key Sources,box,,International: [DermNet - Psoriasis (2023)](https://dermnetnz.org/topics/psoriasis),,,,,"International source: New Zealand clinical reference, not Canadian. Years are DermNet's last review dates.",,INTL,,
 Key Sources,,1,Psoriasis Treatment,,,,,,,,,dermnet-psoriasis-treatment
 Key Sources,,1,Types of psoriasis:,,,,,,,,,
@@ -26,9 +25,10 @@ Key Sources,,2,,,,,,,,,,dermnet-psychological-effects
 Key Sources,,2,,,,,,,,,,dermnet-liver
 Key Sources,,2,,,,,,,,,,dermnet-pregnancy-treatment
 Key Sources,,2,,,,,,,,,,dermnet-biologics-reproduction
+Further Resources,,,Centre for Effective Practice - Psoriasis,,,,,"Ontario primary care tool: assessment and diagnosis, including in skin of colour, and topical and systemic treatment options",CEP tool,ON,other,cep-psoriasis-2026
 Further Resources,box,,Canadian consensus recommendations,,,,,,,,,
-Further Resources,,1,"Canadian Dermatology-Rheumatology Comorbidity Initiative: Management of Comorbidities in Rheumatoid Arthritis, Psoriasis and Psoriatic Arthritis (Journal of Rheumatology, 2015)",,,,,,,INTL,,cdrci-comorbidities-2015
-Further Resources,,1,"Optimizing the Management of Psoriasis in Patients with Skin of Color: A Canadian Delphi Consensus (JAAD International, 2024)",,,,,,,INTL,,cdn-psoriasis-skin-of-color-delphi-2024
+Further Resources,,1,"Canadian Dermatology-Rheumatology Comorbidity Initiative: Management of Comorbidities in Rheumatoid Arthritis, Psoriasis and Psoriatic Arthritis",,,,,,,INTL,,cdrci-comorbidities-2015
+Further Resources,,1,Optimizing the Management of Psoriasis in Patients with Skin of Color: A Canadian Delphi Consensus,,,,,,,INTL,,cdn-psoriasis-skin-of-color-delphi-2024
 Further Resources,box,,"International: [NICE - Psoriasis: Assessment and Management, CG153 (2012, updated 2017)](https://www.nice.org.uk/guidance/cg153)",,,,,"International source: UK guidance, not Canadian. NICE last reviewed it in March 2025.",,INTL,,
 Further Resources,,1,"Full Guideline (PDF, 2017)",https://www.nice.org.uk/guidance/cg153/resources/psoriasis-assessment-and-management-pdf-35109629621701,,,,,,,,
 Further Resources,box,,International: AAD-NPF Joint Guidelines of Care for Psoriasis (2019 to 2021),,,,,"International source: American guidance, not Canadian. American Academy of Dermatology and National Psoriasis Foundation, published in six parts in the Journal of the American Academy of Dermatology.",,INTL,,
@@ -41,27 +41,28 @@ Further Resources,,1,"Topical Therapy, Alternative Medicine and Severity Measure
 Further Resources,box,,"American Family Physician (AAFP, United States)",,,,,"International source: American guidance, not Canadian.",,INTL,,
 Further Resources,,1,,,,,,summary of the 2021 AAD-NPF topical guideline,,,,afp-psoriasis-topical-therapy-2022
 Algorithms and Pathways,note,0,,,,,,No BC or Alberta pathway for psoriasis found.,,BC,,
+Assessment Tools and Calculators,,,PharmaCare - Psoriasis Area and Severity Index (PASI) Worksheet (HLTH 5379),,,,,the PASI worksheet used with PharmaCare Special Authority requests for targeted therapies,,BC,,bc-pharmacare-pasi-5379
+Assessment Tools and Calculators,,,PedsCases - Pediatric Psoriasis,,,,,one-page clinician infographic,,CA,,pedscases-pediatric-psoriasis
 Assessment Tools and Calculators,,,MDCalc - Psoriasis Area and Severity Index (PASI),,,,,,,INTL,,mdcalc-pasi
-Assessment Tools and Calculators,,,"PharmaCare: Psoriasis Area and Severity Index (PASI) Worksheet (HLTH 5379, 2012, PDF)",https://www2.gov.bc.ca/assets/gov/health/forms/5379fil.pdf,,,,the PASI worksheet used with PharmaCare Special Authority requests for targeted therapies,,BC,,
 Assessment Tools and Calculators,,,DermNet - PASI (Psoriasis Area and Severity Index),,,,[PO-PASI Scoring Tool](https://dermnetnz.org/resources/psoriasis-po-pasi),international (New Zealand),,INTL,,dermnet-pasi-score
 Assessment Tools and Calculators,,,DermNet - Dermatology Life Quality Index (DLQI),,,,,international (New Zealand),,INTL,,dermnet-dlqi
-Assessment Tools and Calculators,,,PedsCases - Pediatric Psoriasis,,,,,one-page clinician infographic,,CA,,pedscases-pediatric-psoriasis
-Prescribing,,,"BC Immunization Manual, Part 2: Immunosuppressive Therapy (BCCDC, September 2026)",,,,,,,BC,yes,bccdc-immunosuppressive-therapy
+Prescribing,,,"BC Immunization Manual, Part 2: Immunosuppressive Therapy",,,,,,,BC,yes,bccdc-immunosuppressive-therapy
 Prescribing,,,Therapeutics Initiative - Calcipotriol/Betamethasone (Dovobet) Ointment for Psoriasis Vulgaris: Drug Assessment,,,,[Summary (2009)](https://www.ti.ubc.ca/2009/02/17/calcipotriolbetamethasone-dipropionate-dovobet-ointment-treatment-adult-patients-psoriasis-vulgaris/),BC systematic review,,BC,,ti-dovobet-drug-assessment
 Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
 Prescribing,,1,"Criteria for targeted therapies, requested by a dermatologist:",,,,,,,,,
-Prescribing,,2,"Adalimumab (last updated April 21, 2026)",,,,,,,,,bc-pharmacare-lcd-adalimumab
-Prescribing,,2,"Bimekizumab for plaque psoriasis (last updated April 21, 2026)",,,,,,,,,bc-pharmacare-lcd-bimekizumab
-Prescribing,,2,"Etanercept (last updated April 1, 2025)",,,,,,,,,bc-pharmacare-lcd-etanercept
-Prescribing,,2,"Infliximab for PsA, AS and PsO (last updated February 24, 2026)",,,,,,,,,bc-pharmacare-lcd-infliximab-psa-as-pso
-Prescribing,,2,"Ixekizumab (last updated April 1, 2025)",,,,,,,,,bc-pharmacare-lcd-ixekizumab
-Prescribing,,2,"Risankizumab for plaque psoriasis (last updated April 1, 2025)",,,,,,,,,bc-pharmacare-lcd-risankizumab
-Prescribing,,2,"Secukinumab for Ps, AS and PsA (last updated June 10, 2026)",,,,,,,,,bc-pharmacare-lcd-secukinumab
-Prescribing,,2,"Ustekinumab for plaque psoriasis (last updated August 5, 2026)",,,,,,,,,bc-pharmacare-lcd-ustekinumab-pso
+Prescribing,,2,Adalimumab,,,,,,,,,bc-pharmacare-lcd-adalimumab
+Prescribing,,2,Bimekizumab for plaque psoriasis,,,,,,,,,bc-pharmacare-lcd-bimekizumab
+Prescribing,,2,Etanercept,,,,,,,,,bc-pharmacare-lcd-etanercept
+Prescribing,,2,"Infliximab for PsA, AS and PsO",,,,,,,,,bc-pharmacare-lcd-infliximab-psa-as-pso
+Prescribing,,2,Ixekizumab,,,,,,,,,bc-pharmacare-lcd-ixekizumab
+Prescribing,,2,Risankizumab for plaque psoriasis,,,,,,,,,bc-pharmacare-lcd-risankizumab
+Prescribing,,2,"Secukinumab for Ps, AS and PsA",,,,,,,,,bc-pharmacare-lcd-secukinumab
+Prescribing,,2,Ustekinumab for plaque psoriasis,,,,,,,,,bc-pharmacare-lcd-ustekinumab-pso
 Prescribing,,1,"Targeted Therapies for Plaque Psoriasis (HLTH 5380, rev. 2026/07/06)",https://www2.gov.bc.ca/assets/gov/health/forms/5380fil.pdf,,,,the request form these criteria pages link to,,,,
 Prescribing,,1,Criteria requested by a dermatologist or rheumatologist:,,,,,,,,,
-Prescribing,,2,"Cyclosporine (last updated April 21, 2026)",,,,,palm and sole psoriasis criteria are for dermatologists only,,,,bc-pharmacare-lcd-cyclosporine
+Prescribing,,2,Cyclosporine,,,,,palm and sole psoriasis criteria are for dermatologists only,,,,bc-pharmacare-lcd-cyclosporine
 Prescribing,,1,"PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)",https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,the form the cyclosporine criteria page links to,,,,
+Prescribing,,,RxFiles - Drug Comparison Charts: Topical Corticosteroids,,,,,potency classes compared; RxFiles has no psoriasis chart; the chart needs an RxFiles subscription,,CA,,rxfiles-topical-corticosteroids-chart
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Prescribing,box,,International: DermNet drug and treatment information for psoriasis,,,,,"International source: New Zealand clinical reference, not Canadian. Check Canadian product availability and PharmaCare coverage. Years are DermNet's last review dates.",,INTL,,
 Prescribing,,1,Topical treatments:,,,,,,,,,

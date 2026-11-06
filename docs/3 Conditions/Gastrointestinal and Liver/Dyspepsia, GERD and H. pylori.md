@@ -6,8 +6,8 @@ tags: [condition, gastrointestinal-liver, dyspepsia, gerd, helicobacter-pylori, 
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [GERD, GORD, gastroesophageal reflux disease, gastro-oesophageal reflux, acid reflux, reflux, heartburn, indigestion, dyspepsia, functional dyspepsia, upset stomach, epigastric pain, H. pylori, H pylori, Helicobacter pylori, Helicobacter, peptic ulcer, PUD, stomach ulcer, duodenal ulcer, gastritis, esophagitis, "Barrett's esophagus", urea breath test, UBT, stool antigen test, PPI, proton pump inhibitor, pantoprazole, Tecta, Pantoloc, omeprazole, Losec, esomeprazole, Nexium, lansoprazole, rabeprazole, dexlansoprazole, famotidine, H2 blocker, PPI deprescribing, bismuth quadruple therapy, Toronto Consensus, gastroscopy, endoscopy, alarm features]
 status: published
-last-reviewed: 2026-11-03
-review-due: 2027-11-03
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Conditions wave 2, batch C (build wave 16), built 2026-11-03. First page in Gastrointestinal and Liver.

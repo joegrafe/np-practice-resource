@@ -9,7 +9,7 @@ Key Sources,,1,Most Commonly Used Anticoagulants,https://www2.gov.bc.ca/gov/cont
 Key Sources,,1,Appendix A: Proximal and Distal DVT,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendix_a_-_proximal_and_distal_dvt.pdf,,,,,distal DVT calf,,,
 Key Sources,,1,Appendix B: D-dimer Cut-off Values,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendix_b_-_d-dimer_cut-off_values.pdf,,,,,D-dimer age-adjusted,,,
 Key Sources,,1,Appendix C: Medications for the Treatment and Prevention of Venous Thromboembolism,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendix_c_-_parenteral_medications_for_the_treatment_and_prevention_of_venous_thromboembolism.pdf,,,,,LMWH dosing,,,
-Key Sources,box,,Thrombosis Canada - Clinical Guides: DVT and PE,https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca,,,,"national point-of-care guides by Thrombosis Canada members, reviewed for primary care by College of Family Physicians of Canada members; version dates as stated by Thrombosis Canada",Thrombosis Canada clinical guides,CA,,
+Key Sources,box,,Thrombosis Canada - Clinical Guides: DVT and PE,https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca,-,,,"national point-of-care guides by Thrombosis Canada members, reviewed for primary care by College of Family Physicians of Canada members; version dates as stated by Thrombosis Canada",Thrombosis Canada clinical guides,CA,,
 Key Sources,,1,,,,,,version 7 May 2025,DVT diagnosis,,,thrombosiscanada-dvt-diagnosis-2025
 Key Sources,,1,,,,,,version 2 November 2025,DVT treatment,,,thrombosiscanada-dvt-treatment-2025
 Key Sources,,1,,,,,,version 11 July 2026,PE diagnosis,,,thrombosiscanada-pe-diagnosis-2026
@@ -19,7 +19,7 @@ Key Sources,box,,McGill Journal of Medicine - Approach to: Venous Thromboembolis
 Further Resources,,,BC Guidelines - Venous Thromboembolism,,,,,adults 19 and over with hemodynamically stable DVT or PE: outpatient diagnosis and management of acute VTE,VTE guideline GPAC DVT PE,BC,other,bc-gpac-vte-2024
 Further Resources,box,,BC Guidelines - Appropriate Use of CT for Suspected Pulmonary Embolism in the Non-Pregnant Adult,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#pulmonaryCT,2019,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appropriate_imaging_full_guideline.pdf,,part of Appropriate Imaging for Common Situations in Primary and Emergency Care,pulmonary embolism D-dimer,BC,,
 Further Resources,box,,Perinatal Services BC - Thrombotic Disorders,,,,,Perinatal and Newborn Health Hub; more on [Pregnancy and Perinatal](../../4%20Populations/Pregnancy%20and%20Perinatal.md),VTE pregnancy anticoagulation pregnancy,BC,,psbc-hub-50
-Further Resources,box,,Thrombosis Canada - Clinical Guides: other VTE topics,https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca,,,,version dates as stated by Thrombosis Canada,,CA,,
+Further Resources,box,,Thrombosis Canada - Clinical Guides: other VTE topics,https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca#:~:text=Superficial%20Vein%20Thrombosis,-,,,version dates as stated by Thrombosis Canada,,CA,,
 Further Resources,,1,,,,,,version 12 July 2026,superficial thrombophlebitis SVT phlebitis,,,thrombosiscanada-svt-2026
 Further Resources,,1,,,,,,version 10 September 2024,cancer-associated thrombosis CAT,,,thrombosiscanada-cancer-2024
 Further Resources,,1,,,,,,version 11 July 2026,massive PE submassive,,,thrombosiscanada-pe-high-risk-2026
@@ -31,18 +31,18 @@ Further Resources,,1,,,,,,version 30 April 2025,thrombophilia factor V Leiden,,,
 Further Resources,,1,,,,,,version 30 March 2026,children thrombosis,,,thrombosiscanada-pediatric-2026
 Further Resources,box,,Choosing Wisely Canada - Internal Medicine Recommendations,,,,,includes testing for clotting disorders after a first DVT with a known precipitant,thrombophilia testing,CA,,cwc-internal-medicine
 Further Resources,box,,"NICE - Venous thromboembolic diseases: diagnosis, management and thrombophilia testing (NG158)",,,,,"International source: UK guidance, not Canadian.",NICE VTE,INTL,,nice-ng158
-Algorithms and Pathways,,,Thrombosis Canada - Acute Management Algorithm: Deep Vein Thrombosis,,,,,interactive algorithm (tool version 22),DVT management algorithm,CA,,thrombosiscanada-dvt-algorithm
-Algorithms and Pathways,,,Thrombosis Canada - Acute Management Algorithm: Pulmonary Embolism,,,,,interactive algorithm (tool version 22),PE management algorithm,CA,,thrombosiscanada-pe-algorithm
-Algorithms and Pathways,,,Thrombosis Canada - Thrombophilia Testing Algorithm,,,,,interactive algorithm (tool version 22),thrombophilia workup,CA,,thrombosiscanada-thrombophilia-algorithm
+Algorithms and Pathways,,,Thrombosis Canada - Acute Management Algorithm: Deep Vein Thrombosis,,-,,,interactive algorithm (tool version 22),DVT management algorithm,CA,,thrombosiscanada-dvt-algorithm
+Algorithms and Pathways,,,Thrombosis Canada - Acute Management Algorithm: Pulmonary Embolism,,-,,,interactive algorithm (tool version 22),PE management algorithm,CA,,thrombosiscanada-pe-algorithm
+Algorithms and Pathways,,,Thrombosis Canada - Thrombophilia Testing Algorithm,,-,,,interactive algorithm (tool version 22),thrombophilia workup,CA,,thrombosiscanada-thrombophilia-algorithm
 Algorithms and Pathways,note,,,,,,,No Pathways BC or Alberta pathway for venous thromboembolism found.,,BC,,
+Assessment Tools and Calculators,,,Thrombosis Canada - Simplified PESI (Pulmonary Embolism Severity Index),,,,,PE severity and outpatient treatment,sPESI PESI,CA,,thrombosiscanada-spesi
+Assessment Tools and Calculators,,,Thrombosis Canada - Khorana Risk Score for VTE in Cancer Patients,,,,,VTE risk in people with cancer,Khorana,CA,,thrombosiscanada-khorana
 Assessment Tools and Calculators,,,MDCalc: Wells' Criteria for DVT,,,,,"Canadian rule (Wells, Ottawa)",Wells DVT,INTL,,cdr-wells-dvt
 Assessment Tools and Calculators,,,MDCalc: Wells' Criteria for Pulmonary Embolism,,,,,"Canadian rule (Wells, Ottawa)",Wells PE,INTL,,mdcalc-wells-pe
 Assessment Tools and Calculators,,,MDCalc: PERC Rule for Pulmonary Embolism,,,,,US rule,PERC,INTL,,mdcalc-perc
-Assessment Tools and Calculators,,,Thrombosis Canada - Simplified PESI (Pulmonary Embolism Severity Index),,,,,PE severity and outpatient treatment,sPESI PESI,CA,,thrombosiscanada-spesi
-Assessment Tools and Calculators,,,Thrombosis Canada - Khorana Risk Score for VTE in Cancer Patients,,,,,VTE risk in people with cancer,Khorana,CA,,thrombosiscanada-khorana
 Assessment Tools and Calculators,md,,- More decision rules for chest pain and dyspnea — *see [Clinical Decision Rules](../../2%20Assessments/Clinical%20Decision%20Rules.md)*,,,,,,,,,
 Prescribing,md,,"- DOAC and warfarin guidelines, switching anticoagulants and perioperative management — *see [Atrial Fibrillation and Anticoagulation](../Cardiovascular/Atrial%20Fibrillation%20and%20Anticoagulation.md)*",,,,,,,BC,,
-Prescribing,box,,Thrombosis Canada - Clinical Guides: anticoagulants,https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca,,,,drug guides with dosing by indication; version dates as stated by Thrombosis Canada,anticoagulant dosing,CA,,
+Prescribing,box,,Thrombosis Canada - Clinical Guides: anticoagulants,https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca#:~:text=Apixaban,-,,,drug guides with dosing by indication; version dates as stated by Thrombosis Canada,anticoagulant dosing,CA,,
 Prescribing,,1,,,,,,version 2 June 2025,apixaban,,,thrombosiscanada-apixaban-2025
 Prescribing,,1,,,,,,version 2 November 2025,rivaroxaban,,,thrombosiscanada-rivaroxaban-2025
 Prescribing,,1,,,,,,version 11 July 2026,edoxaban Lixiana,,,thrombosiscanada-edoxaban-2026

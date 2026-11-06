@@ -4,13 +4,13 @@ Key Sources,,1,Full Guideline (PDF),https://www2.gov.bc.ca/assets/gov/health/pra
 Key Sources,,1,Appendix A: Interpretation of Urine ACR Values to Assess Albuminuria and Proteinuria,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/bcguidelines_ckd-appendixa.pdf,,,,,albuminuria proteinuria,,,
 Key Sources,,1,Appendix B: Recommended Drug Modifications in Presence of Acute Kidney Injury (AKI),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/bcguidelines_ckd-appendixb.pdf,,,,,sick day AKI,,,
 Key Sources,,1,Appendix C: Medications for Chronic Kidney Disease,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/bcguidelines_ckd-appendixc.pdf,,,,,SGLT2 ACE inhibitor ARB,,,
-Key Sources,box,,KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease,,,-,,"International source: global guidance, not Canadian; the BC guideline refers to it",KDIGO,INTL,,kdigo-ckd-2024
-Key Sources,,1,Full Guideline (PDF),https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf,,,,,,,,
 Key Sources,box,,AAFP - Chronic Kidney Disease: Detection and Evaluation,,,,,"International source: US guidance, not Canadian.",,INTL,,aafp-ckd-2017
 Key Sources,,1,2023 update: Chronic Kidney Disease: Prevention Diagnosis and Treatment,https://www.aafp.org/afp/2023/1200/chronic-kidney-disease,2023,,,AAFP members only,,,,
+Key Sources,box,,KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease,,,-,,"International source: global guidance, not Canadian; the BC guideline refers to it",KDIGO,INTL,,kdigo-ckd-2024
+Key Sources,,1,Full Guideline (PDF),https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf,,,,,,,,
 Key Sources,,,Ontario Renal Network - KidneyWise Clinical Toolkit,,,,,"Ontario primary care algorithm: identify, detect and manage CKD, with a nephrology referral form and patient resources",KidneyWise CKD algorithm,ON,yes,kidneywise-toolkit
 Further Resources,,,BC Guidelines - Chronic Kidney Disease: Diagnosis and Management,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/chronic-kidney-disease-diagnosis-maintain,2025,,,"adults 19 and over in primary care: identification, staging, management and referral",CKD eGFR ACR,BC,other,
-Further Resources,box,,BC Renal - Chronic Kidney Disease (Kidney Care Clinics),,,,,"guidelines and tools written for BC Kidney Care Clinic teams, useful for shared care",,BC,yes,bcrenal-kidney-care-ckd
+Further Resources,box,,BC Renal - Chronic Kidney Disease (Kidney Care Clinics),,-,,,"guidelines and tools written for BC Kidney Care Clinic teams, useful for shared care",,BC,yes,bcrenal-kidney-care-ckd
 Further Resources,,1,CKD E-Learning for Primary Care,https://www.bcrenal.ca/learning-events/clinical-education-and-webinars/ckd-e-learning-for-primary-care,,,,,,,,
 Further Resources,,1,BCCDC Immunization Manual: Recommended Vaccines in Chronic Kidney Disease (PDF),https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part2/ChronicKidneyDisease.pdf,,,,,vaccines,,,
 Algorithms and Pathways,,,Alberta Primary Care Pathways: Chronic Kidney Disease,,,,[Interactive CKD Pathway](https://ckdpathway.ca/),Calgary Zone primary care pathway,,AB,,alberta-ckd-pathway
@@ -30,4 +30,4 @@ Patient Resources,,,HealthLink BC - Chronic Kidney Disease,https://www.healthlin
 Patient Resources,,,BC Renal - Medication,https://www.bcrenal.ca/health-info/managing-my-care/medication,,,,"what to do if you are sick, and medication information sheets",sick day,BC,,
 Patient Resources,,1,Non-Prescription Medications and Your Kidneys (PDF),,,,,also in Simplified Chinese and Punjabi on the BC Renal page,,,,bc-renal-non-prescription-medications-and-your
 Patient Resources,,,BC Renal - Diet,https://www.bcrenal.ca/health-info/managing-my-care/diet,,,,,,BC,,
-Patient Resources,,,KidneyWise - Chronic Kidney Disease: patient resource (PDF),,,,,"Ontario patient fact sheet, with versions for Indigenous and Black patients on the KidneyWise page",KidneyWise patient,ON,yes,kidneywise-patient-resource
+Patient Resources,,,KidneyWise - Chronic Kidney Disease: patient resource,,,,,"Ontario patient fact sheet, with versions for Indigenous and Black patients on the KidneyWise page",KidneyWise patient,ON,yes,kidneywise-patient-resource

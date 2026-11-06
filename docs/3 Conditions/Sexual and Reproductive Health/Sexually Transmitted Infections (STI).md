@@ -8,9 +8,10 @@ jurisdiction:
   - "ON"
   - CA
   - INTL
+aliases: [STI, STD, STBBI, sexually transmitted infection, chlamydia, gonorrhea, syphilis, trichomoniasis, trich, herpes, HSV, genital herpes, HPV, genital warts, mycoplasma genitalium, PID, pelvic inflammatory disease, urethritis, cervicitis, epididymitis, proctitis, LGV, HIV, PrEP, PEP, doxy-PEP, doxyPEP, mpox, ceftriaxone, doxycycline, azithromycin, Bicillin, GetCheckedOnline, partner notification, contact tracing]
 status: published
-last-reviewed: 2026-10-15
-review-due: 2027-10-15
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- status: review. Set status to published after opening every link.

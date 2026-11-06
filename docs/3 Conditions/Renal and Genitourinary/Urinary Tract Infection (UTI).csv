@@ -1,11 +1,11 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,md,,"*For infants and children, including the Canadian Paediatric Society statement, TREKK, CHARLiE and BC Children's Hospital referral, see [Pediatric UTI](../../4%20Populations/Pediatrics/Pediatric%20UTI.md).*",,,,,,,,,
 Key Sources,box,,BCCDC Certified Decision Support Tool: Uncomplicated Lower UTI,,,-,,,,BC,yes,bccdc-dst-uti
 Key Sources,note,1,,,,https://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/STI/Med%20Handouts/Care%20and%20Treatment%20Plan%20-%20UTI.pdf,,"BC Centre for Disease Control, June 2026. Written for certified-practice RNs managing uncomplicated lower UTI in sexually active people with vulvar/vaginal anatomy.",,,,
-Key Sources,box,,"American Family Physician rapid evidence reviews (AAFP, United States)",,,,,"International source: American guidance, not Canadian.",,INTL,,
-Key Sources,,1,,,,,,,,,,aafp-uncomplicated-uti-2024
-Key Sources,,1,,,,,,,,,,aafp-pyelonephritis-2020
+Key Sources,,,AAFP - Acute Uncomplicated UTIs in Adults: Rapid Evidence Review,,,,,"International source: American guidance, not Canadian.",,INTL,,aafp-uncomplicated-uti-2024
+Key Sources,,,AAFP - Acute Pyelonephritis in Adults: Rapid Evidence Review,,,,,"International source: American guidance, not Canadian.",,INTL,,aafp-pyelonephritis-2020
 Further Resources,,,BCCDC Certified Decision Support Tool: Uncomplicated Lower UTI,https://www.bccdc.ca/health-professionals/clinical-resources/sti-certified-practice#:~:text=Uncomplicated%20Lower%20UTI,2026,,,,,BC,other,
-Further Resources,box,,"Recurrent Uncomplicated UTIs in Women: AUA/CUA/SUFU Guideline (2019, amended 2025)",,,,,"Joint guideline of the American Urological Association, the Canadian Urological Association and SUFU.",,INTL,,aua-cua-sufu-ruti
+Further Resources,box,,Recurrent Uncomplicated UTIs in Women: AUA/CUA/SUFU Guideline,,,,,"Joint guideline of the American Urological Association, the Canadian Urological Association and SUFU.",,,,aua-cua-sufu-ruti
 Further Resources,box,,Asymptomatic bacteriuria,,,,,,,,,
 Further Resources,,1,,,,,,JAMMI 2018;3(1),,INTL,,ammi-asb-2018
 Further Resources,,1,Canadian Task Force on Preventive Health Care: Asymptomatic Bacteriuria in Pregnancy,,,,,,,CA,,ctfphc-asb-pregnancy-2018
@@ -13,10 +13,10 @@ Further Resources,box,,Tools for Practice (CFPCLearn) evidence summaries,,,,,,,,
 Further Resources,,1,"#337 Clear, not cloudy: Antibiotic options for uncomplicated UTIs",,,,,,,CA,,tfp-337-uti-antibiotics
 Further Resources,,1,#335 Asymptomatic bacteriuria in the elderly: Don't drug the bugs?,,,,,,,CA,,tfp-335-asb-elderly
 Further Resources,,1,#270 Burning Evidence for Fosfomycin in Cystitis,,,,,,,CA,,tfp-270-fosfomycin
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Urinary Tract Infections (UTI Recurrent) (Primary Care Alberta, 2026)",,,,,"Alberta referral guideline; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-ruti
+Algorithms and Pathways,,,Alberta's Pathway Hub: Urinary Tract Infections (UTI Recurrent),,,,,"Alberta referral guideline; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-ruti
 Assessment Tools and Calculators,note,0,,,,,,No UTI-specific calculator found on MDCalc or a BC or Canadian site.,,BC,,
-Prescribing,,,Bugs & Drugs (Alberta Health Services),https://www.bugsanddrugs.org/,,,,"antimicrobial treatment reference that the BC Guidelines point to for antimicrobial use; see Treatment Recommendations, Urinary Tract; free website and app",,CA,,
-Prescribing,,,"PACE: Avoid Fluoroquinolones as First-Line Treatment (BC PACE, 2020)",https://www.bccdc.ca/health-professionals/clinical-resources/antimicrobial-stewardship#:~:text=Avoid%20Fluoroquinolones%20as%20First%20Line%20Therapy,,https://www.bccdc.ca/Documents/Fluoroquinolones%20-%20Avoid%20as%20first-line%20treatment.pdf,,BC antimicrobial stewardship message,,BC,,
+Prescribing,,,PACE: Avoid Fluoroquinolones as First-Line Treatment,,,,,BC antimicrobial stewardship message,,BC,,pace-fluoroquinolones
+Prescribing,,,Bugs & Drugs (Alberta Health Services),,,,,"antimicrobial treatment reference that the BC Guidelines point to for antimicrobial use; see Treatment Recommendations, Urinary Tract; free website and app",,CA,,bugs-and-drugs
 Prescribing,,,,,,,,newsletter,,CA,,rxfiles-abx2-cystitis
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
