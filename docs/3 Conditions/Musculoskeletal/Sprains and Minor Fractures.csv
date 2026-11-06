@@ -1,9 +1,7 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
-Key Sources,box,,BC Guidelines - Ankle Injury: X-Ray for Acute Injury of the Ankle or Mid-Foot,,,,,when to X-ray an acute ankle or mid-foot injury (Ottawa ankle rules),Ottawa ankle rules x-ray,BC,yes,bc-gpac-ankle-injury-2014
 Key Sources,,,TREKK - Bottom Line Recommendations: Fractures,,,,,"children: upper and lower limb fractures, pain control, immobilization and follow-up (version 4.0)",pediatric buckle fracture,CA,,trekk-fractures-blr-2025
 Key Sources,box,,AAFP - Update on Acute Ankle Sprains,,,,,"International source: US guidance, not Canadian; Tiemstra JD; assessment, imaging and rehabilitation",ankle sprain,INTL,,aafp-ankle-sprains-2012
 Key Sources,,1,Update: Management of Acute Ankle Sprains: Common Questions and Answers,https://www.aafp.org/afp/2025/1200/acute-ankle-sprains,2025,,,members only,,,,
-Further Resources,,,BC Guidelines - Ankle Injury: X-Ray for Acute Injury of the Ankle or Mid-Foot,,,,,when to X-ray an acute ankle or mid-foot injury (Ottawa ankle rules),Ottawa ankle rules x-ray,BC,other,bc-gpac-ankle-injury-2014
 Further Resources,,,Canadian Family Physician - Management of Toddler's Fractures,,,,,Child Health Update,toddler's fracture tibia,CA,,cfp-toddlers-fractures-2018
 Further Resources,box,,PedsCases Notes,,,,,pediatric approach notes,,,,
 Further Resources,,1,,,,,,,,CA,,pedscases-ankle-sprains-2025
@@ -18,6 +16,7 @@ Further Resources,,1,,,,,,,fifth metatarsal,,,aafp-foot-fractures-2016
 Further Resources,,1,,,,,,,wrist distal radius,,,aafp-forearm-fractures-2009
 Further Resources,,1,,,,,,,finger boxer's mallet,,,aafp-finger-fractures-2012
 Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for sprains or minor fractures found on 2026-10-30.,,BC,,
+Assessment Tools and Calculators,box,,BC Guidelines - Ankle Injury: X-Ray for Acute Injury of the Ankle or Mid-Foot,,,,,when to X-ray an acute ankle or mid-foot injury (Ottawa ankle rules),Ottawa ankle rules x-ray,BC,,bc-gpac-ankle-injury-2014
 Assessment Tools and Calculators,,,MDCalc: Ottawa Ankle Rule,,,,,ankle and mid-foot X-ray decision,Ottawa ankle foot,INTL,,cdr-ottawa-ankle
 Assessment Tools and Calculators,,,MDCalc: Ottawa Knee Rule,,,,,knee X-ray decision,Ottawa knee,INTL,,cdr-ottawa-knee
 Prescribing,note,,,,,,,No BC or Canadian prescribing guidance specific to sprains or minor fractures was found; RxFiles' acute pain chart below covers short-course analgesia.,,BC,,

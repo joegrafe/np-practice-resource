@@ -36,8 +36,8 @@ Checks:
   page-body      a page with a list sheet holds no heading or link line of its own
                  (Approaches, About and index pages excepted): the page is its
                  frontmatter plus its sheet (a warning)
-  Audit rules (warnings; the compliance audit of 2026-11-05 clears them by section,
-  and each moves out of WARN_ONLY once every page passes it):
+  Audit rules (added 2026-11-05 as warnings; errors since 2026-11-06, when the
+  compliance audit left every page clean, except registry-checked):
   region-order   within a section (or its subheading), a top-level row ranked below the
                  row before it (provinces and territories, then CA, then US, then INTL); only=other
                  copies and the Ontario rows that follow their BC mirrors are skipped
@@ -69,6 +69,10 @@ Checks:
   index-list     a page missing from its folder's In This Section list, or a listed
                  page that no longer exists
   registry-checked  a registry row with no checked date, or one older than 12 months
+                 (a warning: a few sites block the build network, see UNOPENED-SOURCES.csv)
+  imaging-section  on a condition page, imaging guidance (appropriate imaging, CT or MRI
+                 criteria, referral guidelines) outside Assessment Tools and Calculators;
+                 Choosing Wisely patient leaflets stay in Patient Resources (Joe, 2026-11-06)
   team           the Team sheet (style=team, docs/About/Team.csv) has its own
                  columns, an id, name and allowed level on every row, and a photo
                  file that exists; every id in a page's reviewers is on the sheet
@@ -159,13 +163,14 @@ TEAM_ID = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # Rules reported as warnings only. Every page passed frontmatter, sources and
 # source-order on 2026-11-02 (build wave 12), so those are errors now, like list-sheet.
 # review-due stays a warning: it goes stale with the calendar, not with an edit.
-# page-body (a sheet-backed page with a heading or link line of its own) stays a
-# warning until Tools: Checking AI Output moves into its sheet (switch wave).
-# Audit rules (compliance audit, 2026-11-05 plan): warnings until every page passes each.
+# The audit rules (compliance audit, 2026-11-05 plan) were warnings until every page
+# passed each; since 2026-11-06 (audit batch 8) they, page-body and source are errors.
+# registry-checked stays a warning: the rows left are on sites that block the build
+# network (UNOPENED-SOURCES.csv), to be hand-checked.
 AUDIT_RULES = {"region-order", "intro-in-page", "section-order", "key-sources", "superseded",
                "duplicate", "pdf-alone", "year", "rxfiles", "aafp-first", "jurisdiction",
-               "bc-wording", "md-links", "search", "index-list", "registry-checked"}
-WARN_ONLY = {"review-due", "page-body", "source"} | AUDIT_RULES
+               "bc-wording", "md-links", "search", "index-list", "registry-checked", "imaging-section"}
+WARN_ONLY = {"review-due", "registry-checked"}
 # Page standard: section order on a condition page (Review notes and the Evidence Pack
 # link are added by later steps); the sections other sheet-backed pages open and close with.
 CONDITION_ORDER = ["key sources", "further resources", "algorithms and pathways",
@@ -178,6 +183,7 @@ DATED_HEADINGS = {"key sources", "further resources", "algorithms and pathways"}
 AAFP_HOST, RXFILES_HOST = "aafp.org", "rxfiles.ca"
 REGION_WORDING = re.compile(r"\b(?:in|for|across) (?:BC|B\.C\.|British Columbia|Ontario)\b")
 YEAR_IN_TITLE = re.compile(r"\((?:[A-Za-z .&-]+, )?(?:19|20)\d{2}\)")  # "(2021)" or "(BC GPAC, 2021)"; a month-dated version ("July 2026") may stay
+IMAGING_TITLE = re.compile(r"\bimaging\b|\b(?:CT|MRI)\b|\bultrasound\b|\bx-ray\b|\bradiograph", re.I)
 DATED_TITLE = re.compile(r"\b(guidelines?|algorithm|pathway|standards?|recommendations?|consensus|statement)\b", re.I)
 MD_KEEP_HEADING = re.compile(r"^(how to do it|contacts|np prescribing notes|where to check)")  # md rows the Page standard keeps
 MD_KEEP_CELL = re.compile(r"^\s*(\d+\.|[-*]\s|\|)")  # a numbered step, a list line or a table
@@ -574,6 +580,9 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
             f.add("year", rel, n, "Year typed in the title: put it in the year column (the registry's, for a row with a source), the build shows it.")
         elif dated and not year and cells.get("year") != "-":  # "-": no year, on purpose (a living index)
             f.add("year", rel, n, "No year: show the year beside every guideline, algorithm and pathway (the registry's year column, or the sheet's for a row with no source).")
+        # imaging-section (Joe, 2026-11-06): imaging guidance sits with the assessment tools
+        if ptype == "condition" and top and kind != "md" and hl not in ("assessment tools and calculators", "patient resources") and IMAGING_TITLE.search(title):
+            f.add("imaging-section", rel, n, "Imaging guidance (appropriate imaging, CT or MRI criteria, referral guidelines) goes under Assessment Tools and Calculators, even when it is the page's BC guideline; Choosing Wisely patient leaflets stay in Patient Resources.")
         # key-sources (per live view), rxfiles
         if hl == KEY_SOURCES:
             for view in key_counts:
