@@ -8,7 +8,7 @@ Key Sources,,1,Subclinical Thyroid Disease,https://www2.gov.bc.ca/gov/content/he
 Key Sources,,1,Thyroid Disease in Pregnancy,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/thyroid-testing#pregnancy,,,,,,,,
 Key Sources,,1,"Full Guideline (PDF, 2018)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/thyroid-function-testing.pdf,,,,,,,,
 Key Sources,,1,"Appendix 1: BC Laboratory Algorithm for Thyroid Tests (PDF, 2018)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/thyroid-function-testing-appendix1.pdf,,,,,,,,
-Key Sources,box,,"NICE - Thyroid Disease: Assessment and Management, NG145 (2019, updated 2023)",,,-,,"International source: UK guidance, not Canadian. Investigating suspected thyroid disease and managing primary thyroid disease; does not cover thyroid cancer or thyroid disease in pregnancy.",,INTL,,nice-ng145
+Key Sources,box,,"NICE - Thyroid Disease: Assessment and Management, NG145",,,-,,"International source: UK guidance, not Canadian. Investigating suspected thyroid disease and managing primary thyroid disease; does not cover thyroid cancer or thyroid disease in pregnancy.",,INTL,,nice-ng145
 Key Sources,,1,Recommendations,https://www.nice.org.uk/guidance/ng145/chapter/Recommendations,,,,,,,,
 Key Sources,,1,"Full Guideline (PDF, 2023)",https://www.nice.org.uk/guidance/ng145/resources/thyroid-disease-assessment-and-management-pdf-66141781496773,,,,,,,,
 Key Sources,box,,"American Family Physician reviews (AAFP, United States)",,,,,"International source: American guidance, not Canadian.",,INTL,,
@@ -33,12 +33,13 @@ Further Resources,,1,,,,,,,,,,ata-hypothyroidism-2014
 Further Resources,,1,Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis,,,,,,,,,ata-hyperthyroidism-2016
 Further Resources,,1,"Thyroid Disease in Preconception, Pregnancy, and Postpartum",,,,,,,,,ata-pregnancy-2026
 Further Resources,,1,Management of Adult Patients with Differentiated Thyroid Cancer,,,,,,,,,ata-dtc-2025
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Thyroid Nodule (Primary Care Alberta, 2026)",https://www.primarycarealberta.ca/pathways/379/clinical,,,,"Calgary Zone pathway; choose ""All"" when the hub asks for an area",,AB,,
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Thyroid Function, Assessment and Monitoring in Women of Child-Bearing Age (Primary Care Alberta, 2025)",https://www.primarycarealberta.ca/pathways/378/clinical,,,,"Calgary Zone pathway; choose ""All"" when the hub asks for an area",,AB,,
+Algorithms and Pathways,,,Alberta's Pathway Hub: Thyroid Nodule,,,,,"Calgary Zone pathway; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-thyroid-nodule
+Algorithms and Pathways,,,"Alberta's Pathway Hub: Thyroid Function, Assessment and Monitoring in Women of Child-Bearing Age",,,,,"Calgary Zone pathway; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-thyroid-childbearing
 Algorithms and Pathways,,,University of Calgary Black Book: Hypothyroidism,,,,,diagnostic approach scheme,,CA,,ucalgary-blackbook-hypothyroidism
 Algorithms and Pathways,,,University of Calgary Black Book: Hyperthyroidism,,,,,diagnostic approach scheme,,CA,,ucalgary-blackbook-hyperthyroidism
 Assessment Tools and Calculators,note,0,,,,,,No thyroid calculator confirmed on MDCalc or a BC or Canadian site.,,BC,,
-Prescribing,,,"Therapeutics Letter 154: Thyroid Testing in Primary Hypothyroidism (Therapeutics Initiative, 2025)",,,,,BC evidence summary on TSH testing and levothyroxine monitoring,,BC,,ti-letter-154-thyroid
+Prescribing,,,Therapeutics Letter 154: Thyroid Testing in Primary Hypothyroidism,,,,,BC evidence summary on TSH testing and levothyroxine monitoring,,BC,,ti-letter-154-thyroid
+Prescribing,,,,,,,,drug comparison chart; needs an RxFiles subscription,,CA,,rxfiles-thyroid-chart
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Hypothyroidism,,,,,,,BC,,healthlinkbc-hypothyroidism

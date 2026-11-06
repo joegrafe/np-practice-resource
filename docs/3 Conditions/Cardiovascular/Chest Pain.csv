@@ -1,9 +1,9 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
 Key Sources,box,,Canadian Cardiovascular Society - Guidelines for the Diagnosis and Management of Stable Ischemic Heart Disease,,,,,"Mancini GBJ et al. Can J Cardiol 30(8); stable angina: diagnosis, risk stratification and management",stable angina CCS,CA,,ccs-sihd-2014
 Key Sources,,1,Full Guideline (PDF),https://onlinecjc.ca/article/S0828-282X(14)00356-0/pdf,,,,,,,,
+Key Sources,box,,AAFP - Acute Chest Pain in Adults: Outpatient Evaluation,,,,,"International source: US guidance, not Canadian; McConaghy JR et al.; office evaluation and when to send to the emergency department",outpatient,INTL,,aafp-acute-chest-pain-2020
 Key Sources,box,,AHA/ACC - Guideline for the Evaluation and Diagnosis of Chest Pain,,,,,"International source: US guidance, not Canadian; Circulation 144(22), free to read; acute and stable chest pain, risk pathways and testing",AHA ACC,INTL,,aha-acc-chest-pain-2021
 Key Sources,,1,AAFP summary: Chest Pain Evaluation: Updated Guidelines From the AHA/ACC,https://www.aafp.org/afp/2023/0200/practice-guidelines-chest-pain-evaluation,2023,,,,,,,
-Key Sources,box,,AAFP - Acute Chest Pain in Adults: Outpatient Evaluation,,,,,"International source: US guidance, not Canadian; McConaghy JR et al.; office evaluation and when to send to the emergency department",outpatient,INTL,,aafp-acute-chest-pain-2020
 Further Resources,,,BC Guidelines - Appropriate Use of CT for Suspected Pulmonary Embolism in the Non-Pregnant Adult,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#pulmonaryCT,2019,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appropriate_imaging_full_guideline.pdf,,part of Appropriate Imaging for Common Situations in Primary and Emergency Care,pulmonary embolism D-dimer,BC,,
 Further Resources,,,McGill Journal of Medicine - Approach to: Chest Pain,,,,,Haghandish N. McGill J Med 19(2); approach article,approach,CA,,mjm-chest-pain-2021
 Further Resources,box,,UCalgary Black Book - Chest pain schemes,,,,,diagnostic schemes,,,,
@@ -19,7 +19,8 @@ Assessment Tools and Calculators,,,MDCalc: Marburg Heart Score (MHS),,,,,coronar
 Assessment Tools and Calculators,,,MDCalc: HEART Score for Major Cardiac Events,,,,,emergency department chest pain risk; needs troponin,HEART,INTL,,cdr-heart-score
 Assessment Tools and Calculators,,,MDCalc: Wells' Criteria for Pulmonary Embolism,,,,,,Wells PE,INTL,,mdcalc-wells-pe
 Assessment Tools and Calculators,,,MDCalc: PERC Rule for Pulmonary Embolism,,,,,,PERC,INTL,,mdcalc-perc
-Prescribing,,,Canadian Cardiovascular Society - Post-Acute Coronary Syndrome Secondary Prevention Pathway,https://ccs.ca/wp-content/uploads/2025/10/CCS-ACS_Prevention_Pathway_Oct-2025.pdf,2025,,,medications and follow-up after ACS; see also [Cardiovascular Risk and Lipids](Cardiovascular%20Risk%20and%20Lipids.md),secondary prevention post-MI,CA,,
+Prescribing,,,Canadian Cardiovascular Society - Post-Acute Coronary Syndrome Secondary Prevention Pathway,,,,,medications and follow-up after ACS; see also [Cardiovascular Risk and Lipids](Cardiovascular%20Risk%20and%20Lipids.md),secondary prevention post-MI,CA,,ccs-post-acs-pathway-2025
+Prescribing,,,,,,,,drug comparison chart; needs an RxFiles subscription,,CA,,rxfiles-post-mi-chart
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",cardiology,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,RCCbc - Real-Time Virtual Support: RUDi (Emergency),,,,,"24/7 emergency physician support by Zoom and phone for rural and remote providers, including nurse practitioners",RTVS rural,BC,yes,rccbc-rtvs-rudi

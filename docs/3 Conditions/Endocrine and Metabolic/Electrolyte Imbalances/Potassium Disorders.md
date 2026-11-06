@@ -6,8 +6,8 @@ tags: [condition, endocrine-metabolic, electrolytes, potassium, kidney]
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [hyperkalemia, hyperkalaemia, high potassium, hypokalemia, hypokalaemia, low potassium, potassium, K+, dyskalemia, pseudohyperkalemia, hemolyzed sample, potassium binder, patiromer, Veltassa, sodium zirconium cyclosilicate, Lokelma, Kayexalate, sodium polystyrene sulfonate, potassium chloride, RAAS inhibitor, electrolyte disorders]
 status: published
-last-reviewed: 2026-10-30
-review-due: 2027-10-30
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Conditions wave 1, rebuilt 2026-10-30 to replace the older page removed on 2026-10-29.

@@ -1,9 +1,9 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
 Key Sources,box,,BC Guidelines - Hormone Testing: Indications and Appropriate Use (Calcium and Bone Metabolism),,,,,"effective 2016, revised 2022; when to test PTH, 25-hydroxy and 1,25-dihydroxy vitamin D",PTH vitamin D testing,BC,yes,bc-gpac-hormone-testing-calcium
 Key Sources,,1,Full guideline page,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/special-endocrine-testing,,,,"reproduction, adrenal, thyroid, growth and glucose testing as well",,,,
-Key Sources,box,,,,,,,"International source: international guidance, not Canadian; J Bone Miner Res 37(11)",PHPT parathyroidectomy,INTL,,phpt-fifth-workshop-2022
 Key Sources,box,,AAFP - Parathyroid Disorders,,,,,"International source: US guidance, not Canadian; includes the initial approach to calcium abnormalities",,INTL,,aafp-parathyroid-2022
 Key Sources,,1,Initial Approach to Calcium Abnormalities,https://www.aafp.org/afp/2022/0300/p289#initial-approach-to-calcium-abnormalities,,,,,approach,,,
+Key Sources,box,,,,,,,"International source: international guidance, not Canadian; J Bone Miner Res 37(11)",PHPT parathyroidectomy,INTL,,phpt-fifth-workshop-2022
 Further Resources,,,BC Guidelines - Hormone Testing: Indications and Appropriate Use (Calcium and Bone Metabolism),,,,,"effective 2016, revised 2022; when to test PTH, 25-hydroxy and 1,25-dihydroxy vitamin D",PTH vitamin D testing,BC,other,bc-gpac-hormone-testing-calcium
 Further Resources,,,Canadian Family Physician - Hypocalcemia: Updates in Diagnosis and Management for Primary Care,,,,,Can Fam Physician 58(2),hypocalcemia,CA,,cfp-hypocalcemia-2012
 Further Resources,,,McGill Journal of Medicine - Approach to Hypercalcemia,,,,,Mo S. McGill J Med 20(2); approach article,approach,CA,,mjm-hypercalcemia-2022
@@ -15,7 +15,7 @@ Further Resources,,1,,,,,,,,CA,,hypocalcemia-high-phosphate
 Further Resources,,1,,,,,,,,CA,,hypocalcemia-low-phosphate
 Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for calcium disorders found on 2026-10-30.,,BC,,
 Assessment Tools and Calculators,,,MDCalc: Calcium Correction for Hypoalbuminemia,,,,,corrected calcium from albumin,corrected calcium albumin,INTL,,mdcalc-calcium-correction
-Prescribing,note,,,,,,,No PharmaCare Special Authority criteria for cinacalcet found on 2026-10-30.,,BC,,
+Prescribing,note,,,,,,,No PharmaCare Special Authority criteria for cinacalcet found on 2026-10-30. RxFiles has no chart for calcium disorders (rxfiles.ca checked 2026-11-06).,,BC,,
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",endocrinology,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Hyperparathyroidism,,,,,,,BC,,healthlinkbc-hyperparathyroidism

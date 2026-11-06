@@ -18,19 +18,19 @@ Further Resources,note,1,,,,https://heartfailure.ca/sites/default/files/papers/P
 Further Resources,box,,CCS/CHFS Heart Failure Guidelines Update: HFrEF Pharmacologic Standard of Care,,,,,Canadian Journal of Cardiology 2021;37(4):531–546.,,INTL,,ccs-chfs-hfref-2021
 Further Resources,box,,2017 Comprehensive Update of the CCS Guidelines for the Management of Heart Failure,,,,,Canadian Journal of Cardiology 2017;33(11):1342–1433.,,INTL,,ccs-hf-2017
 Further Resources,box,,Tools for Practice (CFPCLearn) evidence summaries,,,,,,,,,
-Algorithms and Pathways,,,"BC Guidelines: Figure 1 - Diagnosis of Heart Failure (BC GPAC, 2023)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#fig1,,,,,,BC,,
-Algorithms and Pathways,,,"Pathways BC: Advanced and End Stage Heart Failure, Clinician's Enhanced Supportive Tool (Shared Care, 2024)",https://pathwaysbc.ca/ci/5231,,,,BC enhanced care pathway for advanced heart failure and palliative care,,BC,yes,
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Heart Failure (CHF) (Primary Care Alberta, 2026)",https://www.primarycarealberta.ca/pathways/195/clinical,,,,"Alberta clinical pathway and referral guideline (referral guideline last updated October 5, 2023); choose ""All"" when the hub asks for an area",,AB,,
-Assessment Tools and Calculators,,,"BC Guidelines: Appendix B - Heart Failure Zones Reference Guide (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-hf-zones
-Assessment Tools and Calculators,,,"BC Guidelines: Appendix A - Health Behaviour Modifications and Self-monitoring (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-hf-self-care
-Prescribing,,,"BC Guidelines: Appendix C - Commonly Used Drugs in Heart Failure Care (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-hf-drugs
+Algorithms and Pathways,,,BC Guidelines: Figure 1 - Diagnosis of Heart Failure,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#fig1,2023,,,,,BC,,
+Algorithms and Pathways,,,"Pathways BC: Advanced and End Stage Heart Failure, Clinician's Enhanced Supportive Tool",,,,,BC enhanced care pathway for advanced heart failure and palliative care,,BC,yes,pathways-advanced-hf
+Algorithms and Pathways,,,Alberta's Pathway Hub: Heart Failure (CHF),,,,,"Alberta clinical pathway and referral guideline (referral guideline last updated October 5, 2023); choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-hf
+Assessment Tools and Calculators,,,BC Guidelines: Appendix B - Heart Failure Zones Reference Guide,,,,,,,BC,,bc-gpac-hf-zones
+Assessment Tools and Calculators,,,BC Guidelines: Appendix A - Health Behaviour Modifications and Self-monitoring,,,,,,,BC,,bc-gpac-hf-self-care
+Prescribing,,,BC Guidelines: Appendix C - Commonly Used Drugs in Heart Failure Care,,,,,,,BC,,bc-gpac-hf-drugs
 Prescribing,,,,,,,,drug comparison chart and newsletters; most documents need an RxFiles subscription,,CA,,rxfiles-heart-failure
 Advice and Referral,,,,,,,,,,BC,,bc-hf-clinic-referral
-Advice and Referral,,,BC Guidelines: Indications for Referral,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#indications,,,,,,BC,,
+Advice and Referral,,,BC Guidelines: Indications for Referral,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/heart-failure-chronic#indications,2023,,,,,BC,,
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
-Patient Resources,,,What to Do with Heart Failure Medications When I am Sick? (via BC Guidelines),,,,,,,BC,,bc-hf-sick-days
+Patient Resources,,,What to Do with Heart Failure Medications When I am Sick? (via BC Guidelines),,-,,,,,BC,,bc-hf-sick-days
 Patient Resources,,,HealthLink BC - Heart Failure,,,,,,,BC,,healthlinkbc-heart-failure
 Patient Resources,,,Canadian Heart Failure Society - Patient Resources (Living Well with Heart Failure),,,,,,,CA,,chfs-patient-resources
-Patient Resources,,,Canadian Heart Failure Society - How to manage your heart failure medication on sick days (PDF),https://heartfailure.ca/sites/default/files/sick_days_hf_tool_021221.pdf,,,,,,CA,,
+Patient Resources,,,Canadian Heart Failure Society - How to manage your heart failure medication on sick days (PDF),-,,,,,,CA,,chfs-sick-days
 Patient Resources,,,Heart & Stroke - Heart failure,,,,,,,CA,,heart-stroke-heart-failure

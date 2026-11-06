@@ -1,7 +1,7 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
 Key Sources,,,Centre for Effective Practice - Type 2 Diabetes,,,,,"Ontario primary care tool: insulin and non-insulin pharmacotherapy tools, hypoglycemia, insulin pen chart, drug pearls; EMR tool",CEP tool,ON,yes,cep-type-2-diabetes-2023
 Key Sources,note,0,,,,,,Diabetes in pregnancy and in children: see [Pregnancy and Perinatal](../../4%20Populations/Pregnancy%20and%20Perinatal.md) and [Pediatrics](../../4%20Populations/Pediatrics/Pediatrics.md) under Populations.,,,,
-Key Sources,box,,"BC Guidelines - Diabetes Care (2021, revised May 2026)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes,,,,,,BC,yes,
+Key Sources,box,,BC Guidelines - Diabetes Care,,,,,,,BC,yes,bc-gpac-diabetes
 Key Sources,,1,Scope,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes#Scope,,,,,,,,
 Key Sources,,1,Key Recommendations,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes#KeyRecommendations,,,,,,,,
 Key Sources,,1,Classification and Risk Factors,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes#RiskFactors,,,,,,,,
@@ -10,8 +10,8 @@ Key Sources,,1,Screening and Diagnosis,https://www2.gov.bc.ca/gov/content/health
 Key Sources,,1,Management,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes#Management,,,,,,,,
 Key Sources,,1,Resources,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes#Resources,,,,,,,,
 Key Sources,,1,Appendices,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes#Appendices,,,,,,,,
-Key Sources,,1,"Full Guideline (PDF, May 2026)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/diabetescare-guideline-may-2026.pdf,,,,,,,,
-Key Sources,box,,"Diabetes Canada Clinical Practice Guidelines (2018, with chapter updates to 2025)",,,,,"Adult type 2 chapters, plus the adult type 1 chapters. The children and pregnancy chapters are on the Populations pages.",,CA,,diabetes-canada-clinical-practice-guidelines
+Key Sources,,1,"Full Guideline (PDF, May 2026)",,,,,,,,,bc-gpac-diabetes
+Key Sources,box,,Diabetes Canada Clinical Practice Guidelines,,,,,"Adult type 2 chapters, plus the adult type 1 chapters. The children and pregnancy chapters are on the Populations pages.",,CA,,diabetes-canada-clinical-practice-guidelines
 Key Sources,,1,"Quick Reference Guide (PDF, updated for 2025)",https://www.diabetes.ca/getContentAsset/b33f197c-9409-4a3f-a294-b79278eda4d6/0f6cf596-933c-4f74-b36a-77091c512445/Quick_Reference_Guide_WEB_10_24.pdf?language=en,,,,,,,,
 Key Sources,,1,"Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome",https://www.diabetes.ca/for-professionals/full-guidelines/chapter-3,,,,,,,,
 Key Sources,,1,Screening for Diabetes in Adults,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-4,,,,,,,,
@@ -27,7 +27,7 @@ Key Sources,,1,Pharmacologic Glycemic Management of Type 2 Diabetes in Adults: 2
 Key Sources,,1,"Pharmacologic Glycemic Management of Type 2 Diabetes in Adults: 2024 Update, The User's Guide",https://www.diabetes.ca/for-professionals/full-guidelines/chapter-13-2024-user-guide,,,,,,,,
 Key Sources,,1,Hypoglycemia in Adults: 2023 UPDATE,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-14-2023-update,,,,,,,,
 Key Sources,,1,Hyperglycemic Emergencies in Adults,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-15,,,,,,,,
-Key Sources,,1,Weight Management in Diabetes,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-17,,,,,,,,
+Key Sources,,1,Weight Management in Diabetes,,,,,,,,,diabetes-canada-ch17-weight
 Key Sources,,1,Diabetes and Mental Health: 2023 UPDATE,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-18-2023-update,,,,,,,,
 Key Sources,,1,"Influenza, Pneumococcal, Hepatitis B and Herpes Zoster Vaccinations",https://www.diabetes.ca/for-professionals/full-guidelines/chapter-19,,,,,,,,
 Key Sources,,1,Diabetes and Driving,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-21,,,,,,,,
@@ -42,8 +42,8 @@ Key Sources,,1,Retinopathy,https://www.diabetes.ca/for-professionals/full-guidel
 Key Sources,,1,Neuropathy,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-31,,,,,,,,
 Key Sources,,1,Foot Care,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-32,,,,,,,,
 Key Sources,,1,Sexual Dysfunction and Hypogonadism in Men with Diabetes,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-33,,,,,,,,
-Key Sources,,1,Diabetes in Older People,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-37,,,,,,,,
-Key Sources,,1,Type 2 Diabetes and Indigenous Peoples,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-38,,,,,,,,
+Key Sources,,1,Diabetes in Older People,,,,,,,,,diabetes-canada-diabetes-in-older-people-chapter-37
+Key Sources,,1,Type 2 Diabetes and Indigenous Peoples,,,,,,,,,diabetes-canada-type-2-diabetes-and-indigenous-peoples-chapt
 Key Sources,,1,Remission of Type 2 Diabetes: 2022 ADDITION,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-39,,,,,,,,
 Key Sources,,1,Remission of Type 2 Diabetes: User's Guide: 2022 ADDITION,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-40,,,,,,,,
 Key Sources,,1,Diabetes and Metabolic Dysfunction-associated Steatotic Liver Disease in Adults: 2025 ADDITION,https://www.diabetes.ca/for-professionals/full-guidelines/chapter-42,,,,,,,,
@@ -52,12 +52,12 @@ Key Sources,,1,Glycemic Management Across the Lifespan for People With Type 1 Di
 Key Sources,,1,Appendices,https://www.diabetes.ca/for-professionals/appendices,,,,,,,,
 Key Sources,,1,Health-Care Provider Tools,https://www.diabetes.ca/for-professionals/health-care-provider-tools,,,,,,,,
 Key Sources,box,,McGill Journal of Medicine - Approach to: Type 2 Diabetes Management,,,,,McGill J Med 19(2).,,CA,,mjm-approach-t2d-management
-Further Resources,,,"BC Guidelines - Diabetes Care (2021, revised May 2026)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/diabetes,,,,,,BC,other,
+Further Resources,,,BC Guidelines - Diabetes Care,,,,,,,BC,other,bc-gpac-diabetes
 Further Resources,box,,Ontario Health quality standard - Prediabetes and Type 2 Diabetes: Care for People of All Ages,,,-,,"Ontario quality standard for prediabetes and type 2 diabetes, with a clinician placemat and patient guide",quality standard,ON,yes,ontario-health-prediabetes-type-2-diabetes-qs-2021
 Further Resources,,1,"Quality Standard (PDF, May 2021)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-prediabetes-and-type-2-diabetes-quality-standard-en.pdf,,,,,,,,
 Further Resources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-prediabetes-and-type-2-diabetes-placemat-en.pdf,,,,,,,,
 Further Resources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-prediabetes-and-type-2-diabetes-patient-guide-en.pdf,,,,,,,,
-Further Resources,box,,Obesity Canada - Canadian Adult Obesity Clinical Practice Guideline (2020; pharmacotherapy chapter updated 2025),,,,,With the Canadian Association of Bariatric Physicians and Surgeons.,,CA,,obesity-canada-adult-cpg
+Further Resources,box,,Obesity Canada - Canadian Adult Obesity Clinical Practice Guideline,,,,,With the Canadian Association of Bariatric Physicians and Surgeons.,,CA,,obesity-canada-adult-cpg
 Further Resources,box,,Canadian Task Force on Preventive Health Care - Type 2 Diabetes,,,,,Screening for type 2 diabetes in adults. Still listed as a published guideline.,,CA,,ctfphc-type-2-diabetes-2012
 Further Resources,,1,Clinician Summary (PDF),https://canadiantaskforce.ca/wp-content/uploads/2016/06/2012-type-2-diabetes-clinician-summary-en-1.pdf,,,,,,,,
 Further Resources,box,,Tools for Practice (CFPCLearn) evidence summaries,,,,,,,,,
@@ -66,38 +66,53 @@ Further Resources,,1,#373 Strategies for initiating insulin in type 2 diabetes,,
 Further Resources,,1,#333 Come Spy with Me: Continuous glucose monitoring in diabetes,,,,,,,CA,,tfp-333-diabetes
 Further Resources,box,,"International: [AAFP - From Symptoms to Diagnosis: Type 1 vs. Type 2 Diabetes (PDF, 2025)](https://www.aafp.org/assets/image/upload/v1771246432/Migrated%20-%20PDFs%20%28AEM%29/Patient%20Care/clinical_recommendations/diabetes-clinical-framework-pdf.pdf)",,,,,"AAFP, free to read. Labelled international.",,INTL,,
 Further Resources,,1,AAFP - Diabetes: Clinical Guidance and Practice Resources,https://www.aafp.org/clinical-insights/cardiometabolic-health/diabetes,,,,,,,,
-Algorithms and Pathways,,,"BC Guidelines: Appendix A - Screening Algorithm for Type 2 Diabetes in Adults (BC GPAC, 2021)",,,,,,,BC,,bc-gpac-diabetes-screening-algorithm
+Algorithms and Pathways,,,BC Guidelines: Appendix A - Screening Algorithm for Type 2 Diabetes in Adults,,,,,,,BC,,bc-gpac-diabetes-screening-algorithm
 Algorithms and Pathways,,,Diabetes Canada: Screening and Diagnosis Algorithm for Type 2 Diabetes,,,,,,,CA,,diabetes-canada-screening-algorithm
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Chronic Kidney Disease - Diabetes Mellitus 2 (Primary Care Alberta, 2024)",,,,,"clinical pathway, referral guideline and patient resources; last updated July 19, 2024; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-ckd-dm2
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Diabetic Foot Ulcer (Wound) (Primary Care Alberta, 2026)",,,,,"clinical pathway and referral guideline; referral guideline last updated January 20, 2026",,AB,,ab-pathway-hub-diabetic-foot-ulcer
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Suspected Diabetic Peripheral Neuropathy (Primary Care Alberta, 2024)",https://www.primarycarealberta.ca/pathways/353/clinical,,,,"clinical pathway and referral guideline; referral guideline last updated November 1, 2024",,AB,,
-Assessment Tools and Calculators,,,"CANRISK Questionnaire (Canadian Task Force, 2012)",,,,,diabetes risk screening,,CA,,ctfphc-canrisk
-Assessment Tools and Calculators,,,MDCalc - FINDRISC: Finnish Diabetes Risk Score,,,,,,,INTL,,mdcalc-findrisc
-Assessment Tools and Calculators,,,Diabetes Canada: Screening for and Diagnosing Diabetes (interactive),,,,,,,CA,,diabetes-canada-screening-tool
-Assessment Tools and Calculators,,,Diabetes Canada: Individualizing Your Patient's A1C Target,,,,,,,CA,,diabetes-canada-a1c-target
-Assessment Tools and Calculators,,,Diabetes Canada: Self-Monitoring of Blood Glucose (SMBG) Recommendation Tool,,,,,,,CA,,diabetes-canada-smbg-tool
-Assessment Tools and Calculators,,,MDCalc - Estimated Average Glucose (eAG) From HbA1C,,,,,,,INTL,,mdcalc-eag
-Assessment Tools and Calculators,,,"BC Guidelines: Diabetes Patient Care Flow Sheet (BC GPAC, 2021)",,,,,,,BC,,bc-gpac-diabetes-flow-sheet
-Assessment Tools and Calculators,,,"BC Guidelines: CVD Primary Prevention Appendix B - Framingham 10-year Risk Estimation (BC GPAC, 2021)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease,,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixb_dec2021.pdf,,,,BC,,
-Assessment Tools and Calculators,,,,,,,,,,INTL,,mdcalc-ckd-epi
-Assessment Tools and Calculators,,,MDCalc - Kidney Failure Risk Equation,,,,,,,INTL,,mdcalc-kfre
-Assessment Tools and Calculators,,,MDCalc - Fibrosis-4 (FIB-4) Index for Liver Fibrosis,,,,,see Diabetes Canada chapter 42 on MASLD,,INTL,,mdcalc-fib-4
-Assessment Tools and Calculators,,,MDCalc - Body Mass Index (BMI) and Body Surface Area (BSA),,,,,,,INTL,,mdcalc-bmi
+Algorithms and Pathways,,,Alberta's Pathway Hub: Chronic Kidney Disease - Diabetes Mellitus 2,,,,,"clinical pathway, referral guideline and patient resources; last updated July 19, 2024; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-ckd-dm2
+Algorithms and Pathways,,,Alberta's Pathway Hub: Diabetic Foot Ulcer (Wound),,,,,"clinical pathway and referral guideline; referral guideline last updated January 20, 2026",,AB,,ab-pathway-hub-diabetic-foot-ulcer
+Algorithms and Pathways,,,Alberta's Pathway Hub: Suspected Diabetic Peripheral Neuropathy,,,,,"clinical pathway and referral guideline; referral guideline last updated November 1, 2024",,AB,,ab-pathway-hub-diabetic-neuropathy
+Assessment Tools and Calculators,,,BC Guidelines: Diabetes Patient Care Flow Sheet,,,,,,,BC,,bc-gpac-diabetes-flow-sheet
+Assessment Tools and Calculators,,,BC Guidelines: CVD Primary Prevention Appendix B - Framingham 10-year Risk Estimation,,,,,,,BC,,bc-gpac-cvd-framingham
+Assessment Tools and Calculators,,,CANRISK Questionnaire,,,,,diabetes risk screening,,CA,,ctfphc-canrisk
+Assessment Tools and Calculators,,,Diabetes Canada: Screening for and Diagnosing Diabetes (interactive),,-,,,,,CA,,diabetes-canada-screening-tool
+Assessment Tools and Calculators,,,Diabetes Canada: Individualizing Your Patient's A1C Target,,-,,,,,CA,,diabetes-canada-a1c-target
+Assessment Tools and Calculators,,,Diabetes Canada: Self-Monitoring of Blood Glucose (SMBG) Recommendation Tool,,-,,,,,CA,,diabetes-canada-smbg-tool
+Assessment Tools and Calculators,,,"Diabetes Canada: The Diabetes Distress Scale, with Scoring",,-,,,,,CA,,diabetes-canada-distress-scale
+Assessment Tools and Calculators,,,Diabetes Canada: Immunizations Recommended for Adults Living with Diabetes (version 3),,,,,,,CA,,diabetes-canada-immunization
+Assessment Tools and Calculators,,,Diabetes Canada: Sample Diabetes and Driving Assessment Form (Appendix 10),,,,,,,CA,,diabetes-canada-driving-form
 Assessment Tools and Calculators,,,Foot and neuropathy screening:,,,,,,,,,
 Assessment Tools and Calculators,,1,"Inlow's 60-second Diabetic Foot Screen (Wounds Canada, 2022, PDF)",https://www.diabetes.ca/getContentAsset/22c1fa6b-00c6-47f6-8654-55239d1a26b3/0f6cf596-933c-4f74-b36a-77091c512445/Inlows-60-second-diabetic-foot-screen-Wounds-Canada.pdf?language=en,,,,,,CA,,
 Assessment Tools and Calculators,,1,"Monofilament Testing in the Diabetic Foot (Diabetes Canada Appendix 12, PDF)",https://www.diabetes.ca/getContentAsset/ea92aea7-86c7-40fd-8023-7e7b8006038a/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-12.pdf?language=en,,,,,,CA,,
 Assessment Tools and Calculators,,1,"Rapid Screening for Diabetic Neuropathy: 10 g Monofilament (Diabetes Canada Appendix 11A, PDF)",https://www.diabetes.ca/getContentAsset/74c655db-978a-4b13-b56f-9ab645403eda/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-11A.pdf?language=en,,,,,,CA,,
 Assessment Tools and Calculators,,1,"Rapid Screening for Diabetic Neuropathy: 128 Hz Tuning Fork (Diabetes Canada Appendix 11B, PDF)",https://www.diabetes.ca/getContentAsset/86173d52-3cca-4c7a-8008-c15c620ee8a8/0f6cf596-933c-4f74-b36a-77091c512445/Appendix-11B.pdf?language=en,,,,,,CA,,
+Assessment Tools and Calculators,,,MDCalc - FINDRISC: Finnish Diabetes Risk Score,,,,,,,INTL,,mdcalc-findrisc
+Assessment Tools and Calculators,,,MDCalc - Estimated Average Glucose (eAG) From HbA1C,,,,,,,INTL,,mdcalc-eag
+Assessment Tools and Calculators,,,,,,,,,,INTL,,mdcalc-ckd-epi
+Assessment Tools and Calculators,,,MDCalc - Kidney Failure Risk Equation,,,,,,,INTL,,mdcalc-kfre
+Assessment Tools and Calculators,,,MDCalc - Fibrosis-4 (FIB-4) Index for Liver Fibrosis,,,,,see Diabetes Canada chapter 42 on MASLD,,INTL,,mdcalc-fib-4
+Assessment Tools and Calculators,,,MDCalc - Body Mass Index (BMI) and Body Surface Area (BSA),,,,,,,INTL,,mdcalc-bmi
 Assessment Tools and Calculators,,,Retinopathy (EyeGuru videos):,,,,,,,,,
 Assessment Tools and Calculators,,1,5.01: Anatomy of the Retina,,,,,,,INTL,,eyeguru-anatomy-retina
 Assessment Tools and Calculators,,1,5.02: Non-proliferative Diabetic Retinopathy,,,,,,,INTL,,eyeguru-npdr
 Assessment Tools and Calculators,,1,5.03: Proliferative Diabetic Retinopathy,,,,,,,INTL,,eyeguru-pdr
-Assessment Tools and Calculators,,,"Diabetes Canada: The Diabetes Distress Scale, with Scoring",,,,,,,CA,,diabetes-canada-distress-scale
-Assessment Tools and Calculators,,,Diabetes Canada: Immunizations Recommended for Adults Living with Diabetes (version 3),,,,,,,CA,,diabetes-canada-immunization
-Assessment Tools and Calculators,,,Diabetes Canada: Sample Diabetes and Driving Assessment Form (Appendix 10),,,,,,,CA,,diabetes-canada-driving-form
-Prescribing,,,"BC Guidelines: Appendix D - Antihyperglycemic and Adjunctive Agents for Type 2 Diabetes (BC GPAC, revised 2026)",,,,,,,BC,,bc-gpac-diabetes-agents
-Prescribing,,,"BC Guidelines: Appendix E - Insulin: Therapeutic Considerations and Availability (BC GPAC, revised 2026)",,,,,,,BC,,bc-gpac-diabetes-insulin
-Prescribing,,,"BC Guidelines: Appendix B - Treatment of Hypoglycemia in Diabetes (BC GPAC, 2021)",,,,,,,BC,,bc-gpac-diabetes-hypoglycemia
+Prescribing,,,BC Guidelines: Appendix D - Antihyperglycemic and Adjunctive Agents for Type 2 Diabetes,,,,,,,BC,,bc-gpac-diabetes-agents
+Prescribing,,,BC Guidelines: Appendix E - Insulin: Therapeutic Considerations and Availability,,,,,,,BC,,bc-gpac-diabetes-insulin
+Prescribing,,,BC Guidelines: Appendix B - Treatment of Hypoglycemia in Diabetes,,,,,,,BC,,bc-gpac-diabetes-hypoglycemia
+Prescribing,,,PharmaCare: Diabetes Management,,,,,"medications, devices and supplies",,BC,yes,bc-pharmacare-diabetes-management
+Prescribing,,,BC Guidelines: Appendix C - PharmaCare Quantity Limits for Blood Glucose Test Strips,,,,,,,BC,,bc-gpac-diabetes-test-strips
+Prescribing,,,PharmaCare: Blood Glucose Test Strips,,,,,,,BC,yes,bc-pharmacare-test-strips
+Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
+Prescribing,,1,PharmaCare Special Authority Drug List,,,,,,,,,bc-pharmacare-sa-drug-list
+Prescribing,,1,Criteria for diabetes drugs and glucose monitors:,,,,,,,,,
+Prescribing,,2,Linagliptin and linagliptin-metformin,,,,,,,,,bc-pharmacare-lcd-linagliptin
+Prescribing,,2,Saxagliptin and saxagliptin-metformin,,,,,,,,,bc-pharmacare-lcd-saxagliptin
+Prescribing,,2,Pioglitazone,,,,,,,,,bc-pharmacare-lcd-pioglitazone
+Prescribing,,2,Semaglutide,,,,,,,,,bc-pharmacare-lcd-semaglutide
+Prescribing,,2,Dexcom continuous glucose monitors,,,,,,,,,bc-pharmacare-lcd-dexcom-cgm
+Prescribing,,2,FreeStyle Libre flash glucose monitors,,,,,,,,,bc-pharmacare-lcd-freestyle-libre
+Prescribing,,1,PharmaCare Special Authority Request: Third-Line Anti-Diabetic Medications (HLTH 5481),https://www2.gov.bc.ca/assets/gov/health/forms/5481fil.pdf,2026,,,,,,,
+Prescribing,,1,PharmaCare Special Authority Request: Semaglutide for Diabetes (HLTH 5826),https://www2.gov.bc.ca/assets/gov/health/forms/5826fil.pdf,2026,,,,,,,
+Prescribing,,1,PharmaCare Special Authority Request: Glucose Monitoring Systems (HLTH 5817),https://www2.gov.bc.ca/assets/gov/health/forms/5817fil.pdf,2026,,,,,,,
 Prescribing,,,Diabetes Canada: Prescription for Cardiorenal Protection,,,,,,,CA,,diabetes-canada-cardiorenal-rx
 Prescribing,,,Diabetes Canada: Key Messages for Chronic Kidney Disease in Diabetes,,,,,,,CA,,diabetes-canada-ckd-key-messages
 Prescribing,,,Diabetes Canada: Insulin Prescription Tool,,,,,,,CA,,diabetes-canada-insulin-rx-tool
@@ -107,24 +122,9 @@ Prescribing,,,Diabetes Canada: Therapeutic Considerations for Renal Impairment (
 Prescribing,,,Diabetes Canada: Sick Day Medication List (Appendix 8),,,,,,,CA,,diabetes-canada-sick-day-list
 Prescribing,,,,,,,,"drug comparison charts, insulin and outcome tables; some documents need an RxFiles subscription",,CA,,rxfiles-diabetes
 Prescribing,,,Choosing Wisely Canada recommendations that cover diabetes:,,,,,,,,,
-Prescribing,,1,Endocrinology and Metabolism (last updated April 2026),,,,,includes self-monitoring of blood glucose,,CA,,choosing-wisely-endocrinology-and-metabolism
-Prescribing,,1,Family Medicine (last updated February 2026),,,,,includes self-monitoring of blood glucose,,CA,,choosing-wisely-family-medicine
-Prescribing,,1,Geriatrics (last updated April 2025),,,,,includes A1C targets in older adults,,CA,,choosing-wisely-geriatrics
-Prescribing,,,"PharmaCare: Diabetes Management (last updated August 5, 2026)",,,,,"medications, devices and supplies",,BC,yes,bc-pharmacare-diabetes-management
-Prescribing,,,"BC Guidelines: Appendix C - PharmaCare Quantity Limits for Blood Glucose Test Strips (BC GPAC, 2021)",,,,,,,BC,,bc-gpac-diabetes-test-strips
-Prescribing,,,"PharmaCare: Blood Glucose Test Strips (last updated May 8, 2026)",,,,,,,BC,yes,bc-pharmacare-test-strips
-Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
-Prescribing,,1,"PharmaCare Special Authority Drug List (last updated September 24, 2026)",,,,,,,,,bc-pharmacare-sa-drug-list
-Prescribing,,1,Criteria for diabetes drugs and glucose monitors:,,,,,,,,,
-Prescribing,,2,"Linagliptin and linagliptin-metformin (last updated March 2, 2026)",,,,,,,,,bc-pharmacare-lcd-linagliptin
-Prescribing,,2,"Saxagliptin and saxagliptin-metformin (last updated March 2, 2026)",,,,,,,,,bc-pharmacare-lcd-saxagliptin
-Prescribing,,2,"Pioglitazone (last updated March 2, 2026)",,,,,,,,,bc-pharmacare-lcd-pioglitazone
-Prescribing,,2,"Semaglutide (last updated April 21, 2026)",,,,,,,,,bc-pharmacare-lcd-semaglutide
-Prescribing,,2,"Dexcom continuous glucose monitors (last updated April 21, 2026)",,,,,,,,,bc-pharmacare-lcd-dexcom-cgm
-Prescribing,,2,"FreeStyle Libre flash glucose monitors (last updated April 1, 2026)",,,,,,,,,bc-pharmacare-lcd-freestyle-libre
-Prescribing,,1,"PharmaCare Special Authority Request: Third-Line Anti-Diabetic Medications (HLTH 5481, rev. 2026/02/13)",https://www2.gov.bc.ca/assets/gov/health/forms/5481fil.pdf,,,,,,,,
-Prescribing,,1,"PharmaCare Special Authority Request: Semaglutide for Diabetes (HLTH 5826, rev. 2026/02/13)",https://www2.gov.bc.ca/assets/gov/health/forms/5826fil.pdf,,,,,,,,
-Prescribing,,1,"PharmaCare Special Authority Request: Glucose Monitoring Systems (HLTH 5817, 2026/09/09)",https://www2.gov.bc.ca/assets/gov/health/forms/5817fil.pdf,,,,,,,,
+Prescribing,,1,Endocrinology and Metabolism,,,,,includes self-monitoring of blood glucose,,CA,,choosing-wisely-endocrinology-and-metabolism
+Prescribing,,1,Family Medicine,,,,,includes self-monitoring of blood glucose,,CA,,choosing-wisely-family-medicine
+Prescribing,,1,Geriatrics,,,,,includes A1C targets in older adults,,CA,,choosing-wisely-geriatrics
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
@@ -137,7 +137,7 @@ Patient Resources,,,HealthLink BC - Noninsulin Medicines for Type 2 Diabetes,,,,
 Patient Resources,,,"HealthLink BC - Diabetes, Type 2: Should I Take Insulin?",,,,,,,BC,,healthlinkbc-should-i-take-insulin
 Patient Resources,,,HealthLink BC - Diabetes and Hypoglycemia,,,,,,,BC,,healthlinkbc-diabetes-hypoglycemia
 Patient Resources,,,Self-Management BC - Diabetes Self-Management Program,,,,,lay-led group program for people living with type 2 diabetes,,BC,,selfmanagementbc-diabetes
-Patient Resources,,,iCON - Diabetes,,,,,also available in Chinese and Punjabi,,INTL,,icon-diabetes
-Patient Resources,,,Diabetes Canada - Type 2 Adult Toolkit,,,,,,,CA,,diabetes-canada-t2-adult-toolkit
+Patient Resources,,,Diabetes Canada - Type 2 Adult Toolkit,,-,,,,,CA,,diabetes-canada-t2-adult-toolkit
 Patient Resources,,,Diabetes Canada - Beyond the Basics: Meal Planning Resource,,,,,,,CA,,diabetes-canada-beyond-the-basics
 Patient Resources,,,Diabetes Canada - Foot Care: A Step Toward Good Health,,,,,,,CA,,diabetes-canada-foot-care
+Patient Resources,,,iCON - Diabetes,,,,,also available in Chinese and Punjabi,,INTL,,icon-diabetes

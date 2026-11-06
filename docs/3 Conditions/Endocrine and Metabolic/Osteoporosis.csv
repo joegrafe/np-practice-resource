@@ -29,22 +29,23 @@ Further Resources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontario
 Further Resources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-hip-fracture-patient-guide-2024-en.pdf,,,,,,,,
 Algorithms and Pathways,,,Pathways BC: Osteoporosis,,,,,BC enhanced care pathway (Fraser Health Geriatrics); more BC pathways in [Pathways BC Enhanced Care Pathways](../../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md),,BC,yes,pathways-bc-osteoporosis
 Algorithms and Pathways,note,,,,,,,No Alberta Pathway Hub pathway for osteoporosis found.,,,,
-Assessment Tools and Calculators,,,FRAX Fracture Risk Assessment Tool (Canada),,,,,10-year fracture risk with or without BMD; Canadian version,FRAX,INTL,,frax-canada
-Assessment Tools and Calculators,,,Osteoporosis Canada - CAROC,,,,,Canadian Association of Radiologists and Osteoporosis Canada 10-year fracture risk tool,CAROC,CA,,osteoporosis-canada-caroc
+Assessment Tools and Calculators,,,Osteoporosis Canada - CAROC,,-,,,Canadian Association of Radiologists and Osteoporosis Canada 10-year fracture risk tool,CAROC,CA,,osteoporosis-canada-caroc
 Assessment Tools and Calculators,,,Osteoporosis Canada - Calcium Calculator,https://osteoporosis.ca/calcium-calculator/,,,,dietary calcium intake,calcium,CA,,
 Assessment Tools and Calculators,,,"Osteoporosis Canada - Medications That Can Cause Bone Loss, Falls and/or Fractures",https://osteoporosis.ca/medications-that-can-cause-bone-loss-falls-and-or-fractures/,,,,,,CA,,
+Assessment Tools and Calculators,,,FRAX Fracture Risk Assessment Tool (Canada),,,,,10-year fracture risk with or without BMD; Canadian version,FRAX,INTL,,frax-canada
 Assessment Tools and Calculators,,,Ontario Osteoporosis Strategy - EMR Osteoporosis Toolkit,,,,,"screening and risk assessment forms for OSCAR, PS Suite and Accuro",EMR toolkit osteoporosis,ON,yes,ontario-osteoporosis-strategy-emr-toolkit
-Prescribing,box,,BC Provincial Academic Detailing - Medications for Osteoporosis: An Update (August 2024),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2023_osteoporosis_medications_update_handout_august_2024_update.pdf,2024,,,"BC Ministry of Health; handout, drug table and references",bisphosphonate denosumab,BC,,
+Prescribing,box,,BC Provincial Academic Detailing - Medications for Osteoporosis: An Update,,,,,"BC Ministry of Health; handout, drug table and references",bisphosphonate denosumab,BC,,bc-pad-osteoporosis-2024
 Prescribing,,1,Drug Table (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2024_osteoporosis_medications_update_drug_table_august_2024_update.pdf,,,,,,,,
 Prescribing,,1,References (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2023_osteoporosis_medications_update_reference_list_august_2024_update.pdf,,,,,,,,
 Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
 Prescribing,,1,Criteria any prescriber can request:,,,,,,,,,
-Prescribing,,2,"Denosumab (last updated September 4, 2026)",,,,,,Prolia,,,pharmacare-sa-denosumab
-Prescribing,,2,"Romosozumab (last updated March 26, 2025)",,,,,,Evenity,,,pharmacare-sa-romosozumab
-Prescribing,,2,"Zoledronic acid (last updated March 24, 2025)",,,,,,Aclasta,,,pharmacare-sa-zoledronic-acid
+Prescribing,,2,Denosumab,,,,,,Prolia,,,pharmacare-sa-denosumab
+Prescribing,,2,Romosozumab,,,,,,Evenity,,,pharmacare-sa-romosozumab
+Prescribing,,2,Zoledronic acid,,,,,,Aclasta,,,pharmacare-sa-zoledronic-acid
 Prescribing,,1,PharmaCare Special Authority Request: General (HLTH 5328),https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,denosumab and zoledronic acid,,,,
 Prescribing,,1,PharmaCare Special Authority Request: Romosozumab (HLTH 5853),https://www2.gov.bc.ca/assets/gov/health/forms/5853fil.pdf,,,,,,,,
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
+Prescribing,,,,,,,,drug comparison chart; needs an RxFiles subscription,,CA,,rxfiles-osteoporosis-chart
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,Ontario Osteoporosis Strategy - Find a Fracture Screening and Prevention Program site,,,,,hospital and community sites with fracture prevention coordinators who assess and follow up fragility fractures,FSPP fracture prevention,ON,yes,ontario-osteoporosis-strategy-fspp
@@ -53,6 +54,6 @@ Patient Resources,,,HealthLink BC - Osteoporosis,,,,,,,BC,,healthlinkbc-osteopor
 Patient Resources,,1,Osteoporosis: Should I Have a DXA Test?,https://www.healthlinkbc.ca/healthwise/osteoporosis-should-i-have-dual-energy-x-ray-absorptiometry-dxa-test,,,,decision aid,DEXA bone density test,,,
 Patient Resources,,1,Osteoporosis: Should I Take Bisphosphonate Medicines?,https://www.healthlinkbc.ca/healthwise/osteoporosis-should-i-take-bisphosphonate-medicines,,,,decision aid,,,,
 Patient Resources,,1,Osteoporosis in Men,https://www.healthlinkbc.ca/healthwise/osteoporosis-men,,,,,,,,
-Patient Resources,,,BC Guidelines - Osteoporosis Patient Guide,https://www2.gov.bc.ca/assets/gov/health/managing-your-health/patient-information-guides/osteoporosis_patient_guide.pdf,,,,,,BC,,
+Patient Resources,,,BC Guidelines - Osteoporosis Patient Guide,,,,,,,BC,,bc-gpac-osteoporosis-patient-guide
 Patient Resources,,,Osteoporosis Canada - Too Fit To Fracture,https://osteoporosis.ca/too-fit-to-fracture/,,,,exercise recommendations,exercise,CA,,
 Patient Resources,,,Osteoporosis Canada - After the Fracture,https://osteoporosis.ca/after-the-fracture/,,,,,,CA,,

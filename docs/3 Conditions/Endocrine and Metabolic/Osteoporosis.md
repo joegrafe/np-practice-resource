@@ -6,8 +6,8 @@ tags: [condition, endocrine-metabolic, osteoporosis, bone-health, fracture-preve
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [OP, osteopenia, low bone density, bone density, BMD, DXA, DEXA, bone scan, fragility fracture, fracture risk, FRAX, CAROC, T-score, bisphosphonate, alendronate, Fosamax, risedronate, Actonel, zoledronic acid, Aclasta, denosumab, Prolia, romosozumab, Evenity, teriparatide, Forteo, vertebral fracture, compression fracture, hip fracture, glucocorticoid-induced osteoporosis, calcium, vitamin D, Osteoporosis Canada]
 status: published
-last-reviewed: 2026-10-30
-review-due: 2027-10-30
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Conditions wave 1, built 2026-10-30.

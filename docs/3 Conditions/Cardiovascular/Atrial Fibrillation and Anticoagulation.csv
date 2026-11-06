@@ -6,10 +6,10 @@ Key Sources,,1,Diagnosis and Assessment,https://www2.gov.bc.ca/gov/content/healt
 Key Sources,,1,Stroke Prevention,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#stroke,,,,,,,,
 Key Sources,,1,Management of Rate and Rhythm in the Outpatient Setting,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#management_outpatient,,,,,,,,
 Key Sources,,1,Full Guideline (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/doctorsbc-afib-guideline.pdf,,,,,,,,
-Key Sources,box,,Thrombosis Canada - Stroke Prevention in Atrial Fibrillation (version 2024-01-17),,,,,Clinical guide for health care professionals. Related guides:,,CA,,thrombosis-canada-spaf
-Key Sources,,1,Anticoagulation in Patients Requiring Antiplatelet Therapy (2026-10-06),,,,,,,,,thrombosis-canada-oac-antiplatelet
+Key Sources,box,,Thrombosis Canada - Stroke Prevention in Atrial Fibrillation,,,,,Clinical guide for health care professionals. Related guides:,,CA,,thrombosis-canada-spaf
+Key Sources,,1,Anticoagulation in Patients Requiring Antiplatelet Therapy,,,,,,,,,thrombosis-canada-oac-antiplatelet
 Further Resources,,,BC Guidelines - Atrial Fibrillation - Diagnosis and Management,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation,2023,,,,,BC,other,
-Further Resources,box,,"BC Guidelines - Direct Oral Anticoagulants (DOACs) (2023, revised 2024)",,,-,,,,BC,,bc-gpac-doac
+Further Resources,box,,BC Guidelines - Direct Oral Anticoagulants (DOACs),,,-,,,,BC,,bc-gpac-doac
 Further Resources,,1,Key Recommendations,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/doac#Key%20Recommendations,,,,,,,,
 Further Resources,,1,Initiating a DOAC,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/doac#initiating,,,,,,,,
 Further Resources,,1,Ongoing Management,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/doac#Management,,,,,,,,
@@ -30,27 +30,27 @@ Further Resources,,1,Full Guideline (PDF),https://www2.gov.bc.ca/assets/gov/heal
 Further Resources,box,,2020 CCS/CHRS Comprehensive Guidelines for the Management of Atrial Fibrillation,,,,,Canadian Journal of Cardiology. Cited by the BC guideline. Listed as the current AF guideline on the [CHRS guidelines page](https://chrsonline.ca/resources-publications/guidelines-clinical-updates).,,INTL,,ccs-chrs-af-2020
 Further Resources,box,,Tools for Practice (CFPCLearn) evidence summaries,,,,,,,,,
 Further Resources,,1,#271 Be still my quivering heart: alcohol and atrial fibrillation,,,,,,,CA,,tfp-271-alcohol-af
-Algorithms and Pathways,,,"BC Guidelines: Oral Anticoagulants, Appendix B - Warfarin Reversal Flowchart (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-warfarin-reversal
-Algorithms and Pathways,,,Thrombosis Canada: Perioperative Anticoagulant Management Algorithm (online tool),,,,,,,CA,,thrombosis-canada-periop-algorithm
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Atrial Fibrillation (Primary Care Alberta, 2025)",https://www.primarycarealberta.ca/pathways/44/clinical,,,,"Alberta clinical pathway and referral guideline (referral guideline last updated July 1, 2025); choose ""All"" when the hub asks for an area",,AB,,
-Assessment Tools and Calculators,,,"BC Guidelines: Appendix D - Stroke Risk Assessment in AF, CHADS2 and CHA2DS2-VASc (BC GPAC, 2023)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#Appendices,,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appendixd.pdf,,,,BC,,
-Assessment Tools and Calculators,,,"BC Guidelines: Appendix C - AF Symptom Severity, CCS-SAF Scale (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-afib-ccs-saf
-Assessment Tools and Calculators,,,"BC Guidelines: Oral Anticoagulants, Appendix A - When to Withhold Antiplatelets and Anticoagulants for Medical Imaging (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-oac-imaging
-Prescribing,,,"BC Guidelines: AF Appendix F - Prescription Medication Tables (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-afib-drug-tables
-Prescribing,,,"BC Guidelines: AF Appendix E - Antithrombotic Therapy in AF with CAD/PAD (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-afib-cad-pad
-Prescribing,,,"BC Guidelines: DOACs Appendix B - Switching Between Anticoagulant Therapies (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-doac-switching
-Prescribing,,,"BC Guidelines: Warfarin Appendix A - Important Interactions with Warfarin (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-warfarin-interactions
+Algorithms and Pathways,,,"BC Guidelines: Oral Anticoagulants, Appendix B - Warfarin Reversal Flowchart",,,,,,,BC,,bc-gpac-warfarin-reversal
+Algorithms and Pathways,,,Thrombosis Canada: Perioperative Anticoagulant Management Algorithm (online tool),,-,,,,,CA,,thrombosis-canada-periop-algorithm
+Algorithms and Pathways,,,Alberta's Pathway Hub: Atrial Fibrillation,,,,,"Alberta clinical pathway and referral guideline (referral guideline last updated July 1, 2025); choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-af
+Assessment Tools and Calculators,,,"BC Guidelines: Appendix D - Stroke Risk Assessment in AF, CHADS2 and CHA2DS2-VASc",,,,,,,BC,,bc-gpac-afib-stroke-risk
+Assessment Tools and Calculators,,,"BC Guidelines: Appendix C - AF Symptom Severity, CCS-SAF Scale",,,,,,,BC,,bc-gpac-afib-ccs-saf
+Assessment Tools and Calculators,,,"BC Guidelines: Oral Anticoagulants, Appendix A - When to Withhold Antiplatelets and Anticoagulants for Medical Imaging",,,,,,,BC,,bc-gpac-oac-imaging
+Prescribing,,,BC Guidelines: AF Appendix F - Prescription Medication Tables,,,,,,,BC,,bc-gpac-afib-drug-tables
+Prescribing,,,BC Guidelines: AF Appendix E - Antithrombotic Therapy in AF with CAD/PAD,,,,,,,BC,,bc-gpac-afib-cad-pad
+Prescribing,,,BC Guidelines: DOACs Appendix B - Switching Between Anticoagulant Therapies,,,,,,,BC,,bc-gpac-doac-switching
+Prescribing,,,BC Guidelines: Warfarin Appendix A - Important Interactions with Warfarin,,,,,,,BC,,bc-gpac-warfarin-interactions
+Prescribing,,,PharmaCare Special Authority Request: Dabigatran for Atrial Fibrillation (HLTH 5391),,,,,,,BC,yes,bc-pharmacare-sa-dabigatran
 Prescribing,,,Thrombosis Canada clinical guides (version dates as stated by Thrombosis Canada):,,,,,,,,,
-Prescribing,,1,DOACs: Comparison and Frequently-asked Questions (2025-05-01),,,,,,,CA,,thrombosis-canada-doac-comparison
-Prescribing,,1,DOACs: Perioperative Management (2025-05-29),,,,,,,CA,,thrombosis-canada-doac-periop
-Prescribing,,1,DOACs: Management of Bleeding (2025-10-16),https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=MANAGEMENTOFBLEEDINGINPATIENTS,,,,,,CA,,
-Prescribing,,1,Warfarin (2026-07-05),,,,,,,CA,,thrombosis-canada-warfarin
-Prescribing,,1,Warfarin: Management of Out-of-Range INRs (2025-06-15),,,,,,,CA,,thrombosis-canada-warfarin-inr
-Prescribing,,1,Warfarin: Perioperative Management (2026-06-24),,,,,,,CA,,thrombosis-canada-warfarin-periop
-Prescribing,,,RxFiles: Atrial Fibrillation Anticoagulation Colour Comparison Chart (July 2025),,,,,,,CA,,rxfiles-af-anticoagulation
-Prescribing,,,"PharmaCare Special Authority Request: Dabigatran for Atrial Fibrillation (HLTH 5391, rev. 2023/12/05)",,,,,,,BC,yes,bc-pharmacare-sa-dabigatran
+Prescribing,,1,DOACs: Comparison and Frequently-asked Questions,,,,,,,CA,,thrombosis-canada-doac-comparison
+Prescribing,,1,DOACs: Perioperative Management,,,,,,,CA,,thrombosis-canada-doac-periop
+Prescribing,,1,DOACs: Management of Bleeding,,,,,,,CA,,thrombosis-canada-doac-bleeding
+Prescribing,,1,Warfarin,,,,,,,CA,,thrombosis-canada-warfarin
+Prescribing,,1,Warfarin: Management of Out-of-Range INRs,,,,,,,CA,,thrombosis-canada-warfarin-inr
+Prescribing,,1,Warfarin: Perioperative Management,,,,,,,CA,,thrombosis-canada-warfarin-periop
+Prescribing,,,RxFiles: Atrial Fibrillation Anticoagulation Colour Comparison Chart,,,,,,,CA,,rxfiles-af-anticoagulation
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
-Advice and Referral,,,BC Guidelines: Indications for Potential Specialist Referral,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#indications,,,,,,BC,,
+Advice and Referral,,,BC Guidelines: Indications for Potential Specialist Referral,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#indications,2023,,,,,BC,,
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,Patient Record Sheet: DOACs Before and After Procedures (BC GPAC),,,,,,,BC,,bc-gpac-doac-procedure-record

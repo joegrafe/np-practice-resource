@@ -8,9 +8,10 @@ jurisdiction:
   - "ON"
   - CA
   - INTL
+aliases: [thyroid, hypothyroidism, hyperthyroidism, TSH, free T4, thyroid function tests, TFTs, levothyroxine, Synthroid, Eltroxin, methimazole, Graves disease, Hashimoto, thyroiditis, thyroid nodule, goitre, subclinical hypothyroidism, thyroid in pregnancy]
 status: published
-last-reviewed: 2026-10-14
-review-due: 2027-10-14
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Link to the source guidance; don't restate its recommendations. -->
