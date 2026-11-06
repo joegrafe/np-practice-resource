@@ -8,9 +8,10 @@ jurisdiction:
   - "ON"
   - CA
   - INTL
+aliases: [contraception, birth control, the pill, oral contraceptive, OCP, COC, combined hormonal contraception, progestin-only pill, POP, Slynd, IUD, IUS, Mirena, Kyleena, copper IUD, implant, Nexplanon, Depo-Provera, DMPA, patch, Evra, ring, NuvaRing, emergency contraception, Plan B, levonorgestrel, ulipristal, Ella, vasectomy, tubal ligation, LARC, US MEC, free contraception, Plan NP]
 status: published
-last-reviewed: 2026-10-15
-review-due: 2027-10-15
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- status: review. Set status to published after opening every link.

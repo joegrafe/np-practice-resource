@@ -8,9 +8,10 @@ jurisdiction:
   - "ON"
   - CA
   - INTL
+aliases: [psoriasis, plaque psoriasis, guttate psoriasis, scalp psoriasis, nail psoriasis, inverse psoriasis, flexural psoriasis, pustular psoriasis, erythrodermic psoriasis, psoriatic arthritis, PsA, PASI, DLQI, calcipotriol, Dovobet, Enstilar, betamethasone, topical steroids, phototherapy, methotrexate, biologics, adalimumab, Humira, secukinumab, Cosentyx, ustekinumab, Stelara, apremilast, Otezla, tapinarof, deucravacitinib]
 status: published
-last-reviewed: 2026-10-26
-review-due: 2027-10-26
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- No BC Guidelines (GPAC) guideline, BC pathway or Alberta Pathway Hub pathway for psoriasis (checked 2026-10-26).

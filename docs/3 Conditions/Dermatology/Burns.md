@@ -6,8 +6,8 @@ tags: [condition, dermatology, injury, urgent-care, pediatrics, rural-remote]
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [burn, burns, thermal burn, scald, scalds, minor burn, superficial burn, partial thickness burn, full thickness burn, second-degree burn, first-degree burn, third-degree burn, chemical burn, electrical burn, sunburn, TBSA, total body surface area, Lund-Browder, Parkland formula, burn dressing, blister, burn centre, burn unit, VGH Burn Clinic]
 status: published
-last-reviewed: 2026-11-02
-review-due: 2027-11-02
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Conditions wave 2, urgent care (build wave 14), built 2026-11-02.

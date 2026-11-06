@@ -1,5 +1,5 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
-Key Sources,box,,"BCCDC - British Columbia Treatment Guidelines: Sexually Transmitted Infections (2025, PDF)",https://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/STI/Med%20Handouts/GC_Guidelines.pdf,,,,"BC Centre for Disease Control, May 2025. Covers uncomplicated gonorrhea in adolescents and adults; refers to the PHAC guides for other infections. Replaces the retired 2014 BC STI guideline.",,BC,yes,
+Key Sources,box,,BCCDC - British Columbia Treatment Guidelines: Sexually Transmitted Infections,,,,,"BC Centre for Disease Control, May 2025. Covers uncomplicated gonorrhea in adolescents and adults; refers to the PHAC guides for other infections. Replaces the retired 2014 BC STI guideline.",,BC,yes,bccdc-bc-sti-treatment-guidelines-2025
 Key Sources,box,,Public Health Agency of Canada - STBBI Guides for Health Professionals,,,,,National guides by infection and syndrome; each guide is updated separately.,,CA,,phac-stbbi-guides
 Key Sources,,1,Chlamydia and LGV,https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/chlamydia-lgv.html,2025,,,,,,,
 Key Sources,,1,Gonorrhea,https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/gonorrhea.html,2026,,,,,,,
@@ -9,8 +9,8 @@ Key Sources,,1,Genital Herpes,https://www.canada.ca/en/public-health/services/in
 Key Sources,,1,Mycoplasma genitalium,https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/mycoplasma-genitalium.html,2021,,,,,,,
 Key Sources,,1,"STI-Associated Syndromes: cervicitis, epididymitis, genital ulcers, PID, proctitis, urethritis and vaginitis",https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/sti-associated-syndromes.html,2026,,,,,,,
 Key Sources,,1,STBBI Prevention Guide,https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/stbbi-prevention-guide.html,2026,,,,,,,
-Further Resources,,,"BCCDC - British Columbia Treatment Guidelines: Sexually Transmitted Infections (2025, PDF)",https://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/STI/Med%20Handouts/GC_Guidelines.pdf,,,,"BC Centre for Disease Control, May 2025. Covers uncomplicated gonorrhea in adolescents and adults; refers to the PHAC guides for other infections. Replaces the retired 2014 BC STI guideline.",,BC,other,
-Further Resources,box,,BCCDC Communicable Disease Control Manual - Chapter 5: Sexually Transmitted Infections,,,,,"BC Centre for Disease Control. Hub for BC STI guidance, decision support tools and partner notification.",,BC,,bccdc-cdc-manual-ch5-sti
+Further Resources,,,BCCDC - British Columbia Treatment Guidelines: Sexually Transmitted Infections,,,,,"BC Centre for Disease Control, May 2025. Covers uncomplicated gonorrhea in adolescents and adults; refers to the PHAC guides for other infections. Replaces the retired 2014 BC STI guideline.",,BC,other,bccdc-bc-sti-treatment-guidelines-2025
+Further Resources,box,,BCCDC Communicable Disease Control Manual - Chapter 5: Sexually Transmitted Infections,,,,,"BC Centre for Disease Control hub of STI guidance, decision support tools and partner notification.",,BC,,bccdc-cdc-manual-ch5-sti
 Further Resources,,1,"Quick Reference STI Screening and Testing Guide (PDF, 2026)",https://www.bccdc.ca/resource-gallery/Documents/Communicable-Disease-Manual/Chapter%205%20-%20STI/STI%20screening%20and%20testing%20table.pdf,,,,,,,,
 Further Resources,,1,"Guidelines for Testing, Follow up, and Prevention of HIV (PDF, 2026)",https://www.bccdc.ca/resource-gallery/Documents/Communicable-Disease-Manual/Chapter%205%20-%20STI/HIV_Guidelines_Testing_FollowUp_Prevention.pdf,,,,,,,,
 Further Resources,,1,"Decision Support Tool: Pelvic Inflammatory Disease (PDF, 2026)",https://www.bccdc.ca/resource-gallery/Documents/Communicable-Disease-Manual/Chapter%205%20-%20STI/Non-certified%20PID%20DST.pdf,,,,,,,,
@@ -37,7 +37,7 @@ Further Resources,,1,Prophylactic Doxycycline for Prevention of Bacterial STI,,,
 Further Resources,,1,Screening for Chlamydia and Gonorrhea in Non-Pregnant Adults and Adolescents,,,,,,,CA,,nac-stbbi-ct-ng-screening-2025
 Further Resources,,1,Interim Guidance for Treatment of Uncomplicated Gonococcal Infections,,,,,,,CA,,nac-stbbi-gc-interim-treatment-2025
 Further Resources,,1,Screening for Syphilis in Non-Pregnant Adults and Adolescents,,,,,,,CA,,nac-stbbi-syphilis-screening-2024
-Further Resources,box,,"Canadian Guideline on HIV Pre- and Postexposure Prophylaxis: 2025 Update (CMAJ, 2025)",,,,,"National guideline, CMAJ 2025;197(41):E1374-91. Replaces the 2017 Canadian PrEP and nPEP guideline.",,CA,,cmaj-hiv-prep-pep-2025
+Further Resources,box,,Canadian Guideline on HIV Pre- and Postexposure Prophylaxis: 2025 Update,,,,,"National guideline, CMAJ 2025;197(41):E1374-91. Replaces the 2017 Canadian PrEP and nPEP guideline.",,CA,,cmaj-hiv-prep-pep-2025
 Further Resources,box,,Canadian Task Force on Preventive Health Care - Chlamydia and Gonorrhea,,,,,Screening in primary care for people not known to be at high risk.,,CA,,ctfphc-chlamydia-gonorrhea-2021
 Further Resources,,1,Clinician Summary,https://canadiantaskforce.ca/chlamydia-and-gonorrhea-clinician-summary/,,,,,,,,
 Further Resources,box,,Tools for Practice (CFPCLearn) evidence summaries,,,,,,,,,
@@ -49,10 +49,10 @@ Further Resources,,1,,,,,,,,,,aafp-mpox-2023
 Further Resources,,1,,,,,,,,,,aafp-sti-cdc-2021-updates
 Further Resources,box,,CDC - Sexually Transmitted Infections Treatment Guidelines,,,-,,"International source: American guidance, not Canadian.",,INTL,,cdc-sti-treatment-guidelines-2021
 Further Resources,,1,"Full Guideline (PDF, 2021)",https://www.cdc.gov/std/treatment-guidelines/STI-Guidelines-2021.pdf,,,,,,,,
-Further Resources,box,,Public Health Ontario - Sexually Transmitted Infections,,,,,"Ontario STI surveillance reports and disease pages (chlamydia, gonorrhea, syphilis, HIV), with case definitions and reporting links",PHO STI syphilis reporting,ON,yes,pho-sexually-transmitted-infections
-Further Resources,,1,"Public Health Approaches for Women and Pregnant People with Syphilis (evidence brief, PDF, 2025)",,,,,,,,,pho-syphilis-women-pregnant-2025
+Further Resources,box,,Public Health Ontario - Sexually Transmitted Infections,,-,,,"Ontario STI surveillance reports and disease pages (chlamydia, gonorrhea, syphilis, HIV), with case definitions and reporting links",PHO STI syphilis reporting,ON,yes,pho-sexually-transmitted-infections
+Further Resources,,1,Public Health Approaches for Women and Pregnant People with Syphilis,,,,,,,,,pho-syphilis-women-pregnant-2025
 Algorithms and Pathways,,,,,,,,BC enhanced care pathway for starting and following PrEP in primary care,,BC,yes,pathways-hiv-prep
-Algorithms and Pathways,,,BCCDC Syphilis Toolkit,,,,,"BC syphilis handbook, serology and treatment resources",,BC,,bccdc-syphilis-toolkit
+Algorithms and Pathways,,,BCCDC Syphilis Toolkit,,-,,,"BC syphilis handbook, serology and treatment resources",,BC,,bccdc-syphilis-toolkit
 Algorithms and Pathways,,,University of Calgary Black Book: Genital Lesion,,,,,diagnostic approach scheme,,CA,,ucalgary-blackbook-genital-lesion
 Algorithms and Pathways,,,"University of Calgary Black Book: Skin Ulcer by Location, Genitals",,,,,diagnostic approach scheme,,CA,,ucalgary-blackbook-genital-ulcer
 Algorithms and Pathways,,,University of Calgary Black Book: Vaginal Discharge,,,,,diagnostic approach scheme,,CA,,ucalgary-blackbook-vaginal-discharge
@@ -60,13 +60,14 @@ Algorithms and Pathways,,,University of Calgary Black Book: Acute Pelvic Pain,,,
 Algorithms and Pathways,note,0,,,,,,No Alberta Pathway Hub pathway for STI.,,,,
 Assessment Tools and Calculators,,,MDCalc: Penicillin Allergy Decision Rule (PEN-FAST),,,,,cited by the BC 2025 gonorrhea guideline,,INTL,,mdcalc-pen-fast
 Assessment Tools and Calculators,note,0,,,,,,No STI-specific calculator found on MDCalc or a BC or Canadian site.,,BC,,
-Prescribing,,,Bugs & Drugs (Alberta Health Services),https://www.bugsanddrugs.org/,,,,"antimicrobial treatment reference; see Treatment Recommendations, Adult, Genital; free website and app",,CA,,
-Prescribing,,,BC-CfE: How to Obtain HIV PrEP Medication,,,,,enrolment for BC's free PrEP program,,BC,,bccfe-prep-enrolment
-Prescribing,,,"BC-CfE: Doxycycline for Bacterial STI Prophylaxis, Provider Letter (2023, PDF)",https://bccfe.ca/wp-content/uploads/2024/07/bc-cfe_doxycycline_for_b-sti_prophylaxis.pdf,,,,coverage for HIV Treatment and PrEP program participants,,BC,,
+Prescribing,,,BC-CfE: How to Obtain HIV PrEP Medication,,,,,enrolment for BC's free PrEP program,,BC,yes,bccfe-prep-enrolment
+Prescribing,,,BC-CfE - Doxycycline for Bacterial STI Prophylaxis: Provider Letter,,,,,coverage for HIV Treatment and PrEP program participants,,BC,yes,bccfe-doxy-pep-provider-letter-2023
 Prescribing,,,"BC Immunization Manual, Part 4 (BCCDC):",,,,,,,BC,,
 Prescribing,,1,"HPV9 Vaccine (PDF, 2026)",https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part4/HPV9.pdf,,,,,,,,
 Prescribing,,1,"Hepatitis B Pre-Exposure Indications (PDF, 2026)",https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part4/HepB_Pre-exposure.pdf,,,,,,,,
 Prescribing,,1,"Imvamune (Mpox) Vaccine (PDF, 2025)",https://www.bccdc.ca/resource-gallery/Documents/Guidelines%20and%20Forms/Guidelines%20and%20Manuals/Epid/CD%20Manual/Chapter%202%20-%20Imms/Part4/Monkeypox.pdf,,,,,,,,
+Prescribing,,,Bugs & Drugs (Alberta Health Services),,,,,"antimicrobial treatment reference; see Treatment Recommendations, Adult, Genital; free website and app",,CA,,bugs-and-drugs
+Prescribing,,,RxFiles - Drug Comparison Charts: HIV Pre-Exposure Prophylaxis (PrEP),,,,,RxFiles has no STI treatment chart; its PrEP chart needs an RxFiles subscription,,CA,,rxfiles-hiv-prep-chart
 Prescribing,,,,,,,,,,CA,,naci-hpv-2024
 Prescribing,,,NACI: Updated Guidance on Imvamune for Prevention of Mpox,,,,,,,CA,,naci-imvamune-2025
 Advice and Referral,,,RACE - STI Service,,,,,"BC specialist telephone advice for family physicians, nurse practitioners and midwives",,BC,yes,race-connect-sti

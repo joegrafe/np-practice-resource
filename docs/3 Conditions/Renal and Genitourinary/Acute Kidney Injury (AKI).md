@@ -6,8 +6,8 @@ tags: [condition, renal-genitourinary, aki, kidney]
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [AKI, acute renal failure, ARF, acute kidney disease, AKD, rising creatinine, creatinine rise, kidney injury, post-AKI, sick day medications, SADMANS, nephrotoxic drugs, triple whammy, KDIGO, BC Renal]
 status: published
-last-reviewed: 2026-10-30
-review-due: 2027-10-30
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Conditions wave 1, rebuilt 2026-10-30 to replace the older page removed on 2026-10-29.

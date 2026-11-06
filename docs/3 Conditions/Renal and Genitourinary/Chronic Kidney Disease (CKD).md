@@ -5,8 +5,8 @@ system: renal-genitourinary
 tags: [condition, renal-genitourinary, ckd, kidney]
 jurisdiction: [BC, "ON", CA, INTL]
 status: published
-last-reviewed: 2026-10-29
-review-due: 2027-10-29
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Rebuilt for Joe's review (Conditions wave 1, 2026-10-29); the older page was removed on 2026-10-29 and its redirect is dropped in nppr-website-config. Research notes: wave 0 plan (https://claude.ai/artifact/NEYRhd487FAhC9ZS6kGUcV).

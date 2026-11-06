@@ -45,8 +45,8 @@ aliases:
   - surgical menopause
   - postmenopausal bleeding
 status: published
-last-reviewed: 2026-11-01
-review-due: 2027-11-01
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!--

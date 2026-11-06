@@ -6,8 +6,8 @@ tags: [condition, infectious-disease, respiratory-tract-infection, urgent-care, 
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [RTI, URTI, upper respiratory tract infection, LRTI, common cold, cold, sore throat, pharyngitis, strep throat, tonsillitis, sinusitis, rhinosinusitis, acute bronchitis, chest cold, pneumonia, CAP, community-acquired pneumonia, influenza, flu, COVID-19, cough, antibiotics, amoxicillin, doxycycline, oseltamivir, Tamiflu, McIsaac, Centor, CURB-65, Firstline]
 status: published
-last-reviewed: 2026-10-29
-review-due: 2027-10-29
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Reviewed and published by Joe 2026-10-29 (Conditions wave 1, 2026-10-29). Adults; pediatric croup, bronchiolitis and fever pages belong under Populations > Pediatrics; ear infections go under Eyes, Ears, Nose and Throat.
