@@ -6,8 +6,8 @@ tags: [condition, mental-health-substance-use, depression, anxiety, mood, low-mo
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [MDD, major depressive disorder, GAD, generalized anxiety disorder, panic disorder, panic attacks, low mood, depressed, sad, worry, nervous, antidepressant, SSRI, SNRI, sertraline, escitalopram, citalopram, fluoxetine, venlafaxine, duloxetine, bupropion, mirtazapine, PHQ-9, GAD-7, suicide risk, CANMAT]
 status: published
-last-reviewed: 2026-10-29
-review-due: 2027-10-29
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Reviewed and published by Joe 2026-10-29 (Conditions wave 1, 2026-10-29).

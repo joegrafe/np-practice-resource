@@ -8,15 +8,15 @@ Further Resources,box,,Canadian Headache Society - Migraine Prevention Guideline
 Further Resources,,1,Titration Schedule for Preventive Medication (PDF),https://www.headachesociety.ca/_files/ugd/9f0189_5c7d187a7e88452aada0282cf8dbe3df.pdf,2024,,,,titration preventive dose,,,
 Further Resources,box,,Canadian Headache Society - Acute Drug Therapy for Migraine Headache,,,,,"episodic migraine; acute medication strategies by attack severity, in pregnancy and in lactation; Can J Neurol Sci 40(5 Suppl 3)",acute migraine treatment triptans,CA,,chs-acute-migraine-2013
 Further Resources,box,,Canadian Headache Society - Treatment of Migraine Pain in Emergency Settings,,,,,systematic review and recommendations for migraine in the emergency department; Cephalalgia 35(3):271-284,emergency migraine cocktail ED,CA,,chs-migraine-emergency-2015
-Further Resources,box,,Canadian Headache Society - Primary care tools,https://www.headachesociety.ca/guidance,,,,clinical guidance for primary care from the CHS guidance page,,CA,,
+Further Resources,box,,Canadian Headache Society - Primary care tools,https://www.headachesociety.ca/guidance,-,,,clinical guidance for primary care from the CHS guidance page,,CA,,
 Further Resources,,1,Migraine Simplified Playbook for Primary Care (PDF),,,,,2025 conference edition,migraine playbook,,,chs-migraine-playbook-2025
 Further Resources,,1,Primary Care Tip Sheet: Guide to Migraine Therapies (PDF),,,,,,tip sheet migraine therapies,,,chs-primary-care-tip-sheet
 Further Resources,box,,Canadian Family Physician - Clinical pearls for management of migraines,,,,,RxFiles authors; Can Fam Physician 70(5):325,migraine pearls,CA,,cfp-migraine-pearls-2024
-Further Resources,box,,CFPCLearn - Tools for Practice on migraine,,,,,evidence summaries for family practice,,CA,,cfpclearn-tools-for-practice-library
+Further Resources,box,,CFPCLearn - Tools for Practice on migraine,,-,,,evidence summaries for family practice,,CA,,cfpclearn-tools-for-practice-library
 Further Resources,,1,#367 Oral Calcitonin Gene-related Peptide Antagonists: A painfully long name for the acute treatment of migraines,,,,,,gepants ubrogepant rimegepant,,,tfp-367-2024
 Further Resources,,1,#296 Frequent migraines are a headache: Can biologics help?,,,,,,CGRP antibodies erenumab,,,tfp-296-2021
 Further Resources,box,,Canadian Paediatric Society - Pharmacological management of acute migraine attacks in children and adolescents presenting to the emergency department,,,,,"practice point, Acute Care Committee; reviewed by the Canadian Headache Society",pediatric migraine children adolescents emergency,CA,,cps-pediatric-acute-migraine-2025
-Further Resources,box,,AAFP - free reviews on headache,https://www.aafp.org/pubs/afp/topics/by-topic.headache.html,,,,"International source: US guidance, not Canadian.",,INTL,,
+Further Resources,box,,AAFP - free reviews on headache,https://www.aafp.org/pubs/afp/topics/by-topic.headache.html,-,,,"International source: US guidance, not Canadian.",,INTL,,
 Further Resources,,1,,,,,,,chronic daily headache,,,aafp-frequent-headaches-2020
 Further Resources,,1,,,,,,,cluster headache oxygen,,,aafp-cluster-headache-2022
 Further Resources,box,,VA/DoD Clinical Practice Guideline - Management of Headache,,,,,"International source: US guidance, not Canadian. Primary care treatment and prevention of migraine and tension-type headache; version 2.0, replaces the 2020 guideline",VA DoD headache guideline tension-type migraine,INTL,,vadod-headache-2023
@@ -26,8 +26,8 @@ Further Resources,,1,"Headache Diary, 7 day (PDF)",https://www.healthquality.va.
 Algorithms and Pathways,,,Pathways BC - Migraine: Preventive Management Algorithm,,,,,Fraser Health Headache Toolkit; pathway and preventive drug table,migraine prevention algorithm,BC,yes,pathwaysbc-migraine-prevention-2024
 Algorithms and Pathways,,,Alberta's Pathway Hub - Headache and Migraine,,,,,"Primary Care Alberta pathway, Calgary Zone",Alberta headache pathway,AB,,primarycarealberta-headache-2024
 Algorithms and Pathways,,,Centre for Effective Practice - CORE Neck Tool and Headache Navigator,,,,,Ontario; primary headache management alongside mechanical neck pain,headache navigator,ON,other,cep-headache-navigator-2016
-Assessment Tools and Calculators,,,MDCalc: Ottawa Subarachnoid Hemorrhage (SAH) Rule for Headache Evaluation,,,,,"Canadian rule (Perry, Ottawa); acute non-traumatic headache peaking within an hour",Ottawa SAH thunderclap,INTL,,cdr-ottawa-sah
 Assessment Tools and Calculators,,,Migraine Canada - Headache diary and Canadian Migraine Tracker app,,,,,diary to count headache days and medication days,headache diary tracker,CA,,migrainecanada-diary
+Assessment Tools and Calculators,,,MDCalc: Ottawa Subarachnoid Hemorrhage (SAH) Rule for Headache Evaluation,,,,,"Canadian rule (Perry, Ottawa); acute non-traumatic headache peaking within an hour",Ottawa SAH thunderclap,INTL,,cdr-ottawa-sah
 Assessment Tools and Calculators,md,,"- Head injury rules (Canadian CT Head Rule, PECARN) — *see [Concussion and Mild Traumatic Brain Injury (mTBI)](Concussion%20and%20Mild%20Traumatic%20Brain%20Injury%20%28mTBI%29.md)*",,,,,,,,,
 Prescribing,box,,RxFiles - Migraine,,,,,RxFiles (University of Saskatchewan) migraine resources; the documents need an RxFiles subscription,RxFiles migraine,CA,,rxfiles-migraine
 Prescribing,,1,Migraine newsletter (PDF),https://www.rxfiles.ca/rxfiles/uploads/documents/members/newsletter-migraine.pdf,,,,,,,,
@@ -56,7 +56,7 @@ Patient Resources,,,HealthLink BC - Cluster Headaches,https://www.healthlinkbc.c
 Patient Resources,,,HealthLink BC - Medicines That Can Cause Headache,https://www.healthlinkbc.ca/healthwise/medicines-can-cause-headache,,,,,medication overuse headache,BC,,
 Patient Resources,,,Emergency Care BC - Migraine (patient discharge sheet),https://emergencycarebc.ca/clinical_resource/patient-information-sheet/migraine/,,https://emergencycarebc.ca/wp-content/uploads/2024/10/Migraines.pdf,,for patients going home from the emergency department; reviewed September 2024,,BC,,
 Patient Resources,,,Migraine Canada,https://migrainecanada.org/,,,,national patient organization: understanding and managing migraine,,CA,,
-Patient Resources,,,RxFiles - Migraine patient booklet (PDF),https://www.rxfiles.ca/rxfiles/uploads/documents/migraine-patient-booklet.pdf,,,,free to download,,CA,,
+Patient Resources,,,RxFiles - Medication Overuse Headache Q&A patient booklet,,,,,free to download,,CA,,rxfiles-migraine-patient-booklet
 Patient Resources,,,Choosing Wisely Canada - Imaging Tests for Headaches,https://choosingwiselycanada.org/pamphlet/imaging-tests-for-headaches/,,,,,,CA,,
 Patient Resources,,,Choosing Wisely Canada - Treating Frequent Headaches with Pain Relievers,https://choosingwiselycanada.org/pamphlet/treating-frequent-headaches-with-pain-relievers/,,,,,,CA,,
 Patient Resources,,,Choosing Wisely Canada - Treating Migraine Headaches,https://choosingwiselycanada.org/pamphlet/treating-migraine-headaches/,,,,,,CA,,

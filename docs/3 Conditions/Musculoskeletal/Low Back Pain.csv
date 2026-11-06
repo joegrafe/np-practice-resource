@@ -18,9 +18,9 @@ Further Resources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontario
 Further Resources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-opioid-acute-pain-patient-guide-en.pdf,,,,,,,,
 Further Resources,box,,,,,,,"acute, subacute and chronic pain in adults; Part 2 covers medications; see the [Chronic Pain](Chronic%20Pain.md) page for the appendices",acute pain,BC,,bc-guidelines-managing-patients-with-pain-in
 Further Resources,,1,Part 1 Full Guideline (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/managing_pain_part1_2022.pdf,,,,,,,,
-Further Resources,,1,Part 2: Pharmacological Management,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/managing-patients-with-pain-in-primary-care-part-2,,,,,NSAIDs medications,,,
+Further Resources,,1,Part 2: Pharmacological Management,,,,,,NSAIDs medications,,,bcguidelines-managing-pain-part-2-2022
 Further Resources,,,McGill Journal of Medicine - Low Back Pain,,,,,Moisan P. McGill J Med 19(2); approach article,approach,CA,,mjm-low-back-pain-2021
-Further Resources,,,UCalgary Black Book - Back Pain scheme,,,,,diagnostic scheme,,CA,,back-pain
+Further Resources,,,UCalgary Black Book - Back Pain scheme,,-,,,diagnostic scheme,,CA,,back-pain
 Further Resources,box,,AAFP - Diagnosis and Treatment of Acute Low Back Pain,,,,,"International source: US guidance, not Canadian.",,INTL,,aafp-acute-low-back-pain-2012
 Further Resources,,1,Update: Acute Low Back Pain: Diagnosis and Management,https://www.aafp.org/afp/2025/1100/acute-low-back-pain,2025,,,AAFP members only,,,,
 Algorithms and Pathways,box,,Specialist Services Committee BC - Axial Low Back Pain Algorithms,,2022,,,BC algorithms hosted by Pathways BC,,BC,,
@@ -36,5 +36,5 @@ Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telepho
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,HealthLink BC 8-1-1 - Qualified Exercise Professional,https://www.healthlinkbc.ca/health-services/healthlink-bc-811-services,,,,"free phone advice on physical activity, including for back pain",exercise physiotherapy,BC,yes,
 Patient Resources,,,HealthLink BC - Low Back Pain,,,,[Exercises to Reduce Pain](https://www.healthlinkbc.ca/healthy-eating-physical-activity/conditions/low-back-pain-exercises-reduce-pain),,,BC,,healthlinkbc-low-back-pain
-Patient Resources,,,Choosing Wisely Canada - Imaging Tests for Lower Back Pain: When you need them and when you don't,,,,,,imaging,CA,,cwc-imaging-low-back-pain
 Patient Resources,,,,,,,,free phone support for people living with pain,,BC,yes,pain-bc-pain-support-line
+Patient Resources,,,Choosing Wisely Canada - Imaging Tests for Lower Back Pain: When you need them and when you don't,,,,,,imaging,CA,,cwc-imaging-low-back-pain

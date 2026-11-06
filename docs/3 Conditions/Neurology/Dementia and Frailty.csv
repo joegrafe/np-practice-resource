@@ -34,15 +34,15 @@ Further Resources,box,,Therapeutics Initiative - [138] Reducing prescribing casc
 Further Resources,,1,[113] How well do you know your anticholinergic (antimuscarinic) drugs? (2018),,,,,,anticholinergic burden,,,ti-letter-113-2018
 Further Resources,,,RoadSafetyBC - Chapter 6: Cognitive Impairment Including Dementia,,,,[Reporting a patient who may be unfit to drive](https://www2.gov.bc.ca/gov/content/transportation/driving-and-cycling/roadsafetybc/medical-fitness/medical-prof/reporting-person),"BC driver medical fitness standards (CCMTA standards with BC guidelines); last updated March 25, 2026",driving fitness to drive,BC,,roadsafetybc-cognitive-impairment
 Further Resources,,,Canadian Task Force on Preventive Health Care - Cognitive Impairment,,,,"[Guideline (CMAJ, 2016)](https://www.cmaj.ca/content/188/1/37)","screening asymptomatic adults 65 and over; 2016 guideline, reaffirmed 2024",screening,CA,,ctfphc-cognitive-impairment
-Further Resources,box,,Canadian Coalition for Seniors' Mental Health - Canadian Clinical Practice Guidelines for Assessing and Managing Behavioural and Psychological Symptoms of Dementia (BPSD),,,,,"Can Geriatr J 28(1); guideline summary, open access",BPSD agitation antipsychotics,INTL,,ccsmh-bpsd-2025
-Further Resources,,1,Canadian Family Physician - Management of BPSD: Nonpharmacologic Interventions and Medication Considerations (2026),https://www.cfp.ca/content/72/4/252,,https://www.cfp.ca/content/cfp/72/4/252.full.pdf,,Can Fam Physician 72(4),,CA,,
+Further Resources,box,,Canadian Coalition for Seniors' Mental Health - Canadian Clinical Practice Guidelines for Assessing and Managing Behavioural and Psychological Symptoms of Dementia (BPSD),,,,,"Can Geriatr J 28(1); guideline summary, open access",BPSD agitation antipsychotics,CA,,ccsmh-bpsd-2025
+Further Resources,,1,Canadian Family Physician - Management of BPSD: Nonpharmacologic Interventions and Medication Considerations,,,,,Can Fam Physician 72(4),,CA,,cfp-bpsd-2026
 Further Resources,,1,CMAJ - Nonpharmacologic Management of BPSD (2025),,,,,CMAJ 197(11),,CA,,cmaj-bpsd-2025
-Further Resources,,,Alzheimer Society of Canada - Diagnosis and Screening (for health-care providers),https://alzheimer.ca/en/help-support/im-healthcare-provider/diagnosis-screening,,,,"screening tools, disclosing the diagnosis and the CLEAR communication toolkit",disclosure,CA,,
+Further Resources,,,Alzheimer Society of Canada - Diagnosis and Screening (for health-care providers),https://alzheimer.ca/en/help-support/im-healthcare-provider/diagnosis-screening,-,,,"screening tools, disclosing the diagnosis and the CLEAR communication toolkit",disclosure,CA,,
 Further Resources,,,Centre for Effective Practice - Dementia Care,,,,,"Ontario tool: diagnosis of dementia and its subtypes, BPSD management and an antipsychotic discussion guide for families",,ON,other,cep-dementia-care
-Further Resources,,,UCalgary Black Book - Cognitive Impairment scheme,,,,,diagnostic scheme,,CA,,cognitive-impairment
+Further Resources,,,UCalgary Black Book - Cognitive Impairment scheme,,-,,,diagnostic scheme,,CA,,cognitive-impairment
 Further Resources,box,,AAFP - Evaluation of Suspected Dementia,,,,,"International source: US guidance, not Canadian.",,INTL,,aafp-suspected-dementia-2018
 Further Resources,,1,Update: Suspected Dementia Evaluation,https://www.aafp.org/afp/2025/1200/suspected-dementia-evaluation,2025,,,AAFP members only,,,,
-Further Resources,,1,Frailty: Evaluation and Management (2021),https://www.aafp.org/afp/2021/0215/p219,,,,,,,,
+Further Resources,,1,Frailty: Evaluation and Management,,,,,,,,,aafp-frailty-2021
 Algorithms and Pathways,,,Pathways BC - Dementia Enhanced Care Pathway,,,,,BC enhanced care pathway; more BC pathways in [Pathways BC Enhanced Care Pathways](../../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md),,BC,yes,pathways-dementia
 Algorithms and Pathways,,,Pathways BC - Frailty Care Pathway,,,,,BC enhanced care pathway (Fraser Health Geriatrics),,BC,yes,pathways-frailty
 Algorithms and Pathways,,,Pathways BC - Falls Care Pathway,,,,,BC enhanced care pathway (Fraser Health Geriatrics),falls,BC,yes,pathways-bc-falls-care-pathway
@@ -51,10 +51,6 @@ Algorithms and Pathways,,1,,,,,,diagnosis of typical dementias and when to refer
 Algorithms and Pathways,,1,,,,,,,driving,,,island-health-driving-dementia
 Algorithms and Pathways,,1,Pharmacotherapy for Dementia: Key Points for Primary Care,,,,,,donepezil,,,island-health-dementia-pharmacotherapy
 Algorithms and Pathways,note,,,,,,,No Alberta Pathway Hub pathway for dementia or frailty found on 2026-10-30.,,,,
-Assessment Tools and Calculators,,,MDCalc: CSHA Clinical Frailty Scale (CFS),,,,,frailty grading,Rockwood,INTL,,mdcalc-clinical-frailty-scale
-Assessment Tools and Calculators,,,MDCalc: Clinical Dementia Rating (CDR) Scale,,,,,dementia severity,CDR,INTL,,mdcalc-cdr
-Assessment Tools and Calculators,,,MoCA - Montreal Cognitive Assessment,,,,,official test forms; training and certification required to use it,MoCA,CA,,moca
-Assessment Tools and Calculators,,,,,,,,3-minute cognitive screen; free forms,,INTL,,mini-cog
 Assessment Tools and Calculators,box,,BC Guidelines - Cognitive and frailty assessment tools,,,,,associated documents of the two BC Guidelines (PDFs),,BC,,
 Assessment Tools and Calculators,,1,Standardized Mini-Mental State Examination (SMMSE),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/cogimp-smmse.pdf,,,,,MMSE,,,
 Assessment Tools and Calculators,,1,,,,,,,,,,clock-drawing-test
@@ -64,6 +60,11 @@ Assessment Tools and Calculators,,1,,,,,,,,,,bcg-geriatric-depression-scale
 Assessment Tools and Calculators,,1,PRISMA-7 Questionnaire,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/frailty-prisma7.pdf,,,,frailty case finding,,,,
 Assessment Tools and Calculators,,1,Timed Up and Go (TUG) Test,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/frailty-tug.pdf,,,,,,,,
 Assessment Tools and Calculators,,1,,,,,,,,,,gait-speed-test
+Assessment Tools and Calculators,,,MoCA - Montreal Cognitive Assessment,,,,,official test forms; training and certification required to use it,MoCA,CA,,moca
+Assessment Tools and Calculators,,,,,,,,3-minute cognitive screen; free forms,,INTL,,mini-cog
+Assessment Tools and Calculators,,,MDCalc: CSHA Clinical Frailty Scale (CFS),,,,,frailty grading,Rockwood,INTL,,mdcalc-clinical-frailty-scale
+Assessment Tools and Calculators,,,MDCalc: Clinical Dementia Rating (CDR) Scale,,,,,dementia severity,CDR,INTL,,mdcalc-cdr
+Prescribing,,,RxFiles - Drug Comparison Charts: Dementia,,,,,cholinesterase inhibitors and memantine compared; the chart needs an RxFiles subscription,,CA,,rxfiles-dementia-chart
 Prescribing,,,deprescribing.org - Deprescribing Guidelines and Algorithms,,,,,"Canadian deprescribing algorithms; the PDF is the antipsychotic algorithm (2018); cholinesterase inhibitor and memantine, benzodiazepine and other algorithms on the page",antipsychotic deprescribing,CA,,deprescribing-antipsychotics-2018
 Prescribing,box,,PharmaCare Special Authority: criteria and request form,,,,,any prescriber may request,,BC,yes,
 Prescribing,,1,"Donepezil (last updated April 21, 2026)",,,,,eForms automatic approval when criteria are met,Aricept,,,pharmacare-sa-donepezil
@@ -75,11 +76,11 @@ Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ont
 Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",geriatric medicine,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
-Advice and Referral,,,Alzheimer Society of B.C. - First Link referrals,https://alzheimer.ca/bc/en/help-support/programs-services/first-linkr-referrals,,,[Making a referral with First Link](https://alzheimer.ca/en/help-support/im-healthcare-provider/making-referral-first-link),refer people with dementia and their caregivers to support after diagnosis,First Link,CA,,
+Advice and Referral,,,Alzheimer Society of B.C. - First Link referrals,https://alzheimer.ca/bc/en/help-support/programs-services/first-linkr-referrals,,,[Making a referral with First Link](https://alzheimer.ca/en/help-support/im-healthcare-provider/making-referral-first-link),refer people with dementia and their caregivers to support after diagnosis,First Link,BC,yes,
 Advice and Referral,,,BC Government - Home and Community Care,,,,,"home support, adult day services and assisted living through the health authorities",home care,BC,,bc-government-home-and-community-care
 Patient Resources,,,HealthLink BC - Dementia,,,,[Alzheimer's Disease](https://www.healthlinkbc.ca/healthwise/alzheimers-disease),,,BC,,healthlinkbc-dementia
-Patient Resources,,,BC Guidelines - Cognitive Impairment: Guide for Patients and Caregivers (PDF),https://www2.gov.bc.ca/assets/gov/health/managing-your-health/patient-information-guides/cogimp-patient-guide.pdf,,,,,,BC,,
-Patient Resources,,,BC Guidelines - Frailty: Resource Guide for Older Adults and Caregivers (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/frailty-patientguide.pdf,,,,,,BC,,
-Patient Resources,,,Alzheimer Society of B.C. - First Link Dementia Helpline,https://alzheimer.ca/bc/en/help-support/find-support-bc/first-link-dementia-helpline,,,,"1-800-936-6033, information and support for people with dementia and caregivers",caregiver support,CA,,
+Patient Resources,,,BC Guidelines - Cognitive Impairment: Guide for Patients and Caregivers (PDF),,,,,,,BC,,bc-gpac-cognitive-impairment-patient-guide-2016
+Patient Resources,,,BC Guidelines - Frailty: Resource Guide for Older Adults and Caregivers (PDF),,,,,,,BC,,bc-gpac-frailty-patient-guide-2017
+Patient Resources,,,Alzheimer Society of B.C. - First Link Dementia Helpline,https://alzheimer.ca/bc/en/help-support/find-support-bc/first-link-dementia-helpline,,,,"1-800-936-6033, information and support for people with dementia and caregivers",caregiver support,BC,yes,
 Patient Resources,,,HealthLink BC - Preventing Falls as You Age,,,,,,falls,BC,,healthlink-bc-preventing-falls-as-you-age
 Patient Resources,,,BC Government - Advance Care Planning,https://www2.gov.bc.ca/gov/content/health/managing-your-health/incapacity-planning,,,,My Voice planning guide and representation agreements,advance directive,BC,,

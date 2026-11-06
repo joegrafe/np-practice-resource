@@ -6,8 +6,8 @@ tags: [condition, neurology, dementia, cognitive-impairment, frailty, older-adul
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [dementia, frailty, frail elderly, cognitive impairment, mild cognitive impairment, MCI, major neurocognitive disorder, neurocognitive disorder, Alzheimer's disease, Alzheimer disease, vascular dementia, Lewy body dementia, frontotemporal dementia, memory loss, memory problems, forgetfulness, confusion, BPSD, behavioural and psychological symptoms of dementia, MoCA, MMSE, SMMSE, Mini-Cog, Clinical Frailty Scale, CFS, PRISMA-7, Timed Up and Go, TUG, donepezil, Aricept, galantamine, rivastigmine, Exelon, memantine, cholinesterase inhibitor, driving and dementia, fitness to drive, CCCDTD5, geriatrics, older adults, seniors]
 status: published
-last-reviewed: 2026-10-30
-review-due: 2027-10-30
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Conditions wave 1, built 2026-10-30.

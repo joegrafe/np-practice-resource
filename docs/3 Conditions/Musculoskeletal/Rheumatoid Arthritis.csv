@@ -10,11 +10,11 @@ Key Sources,,1,"Full Guideline (PDF, 2012)",https://www2.gov.bc.ca/assets/gov/he
 Key Sources,,1,"Summary (PDF, 2012)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/ra_guideline_summary.pdf,,,,,,,,
 Key Sources,,1,"Appendix A: Non-Biologic Disease-Modifying Anti-rheumatic Drugs (DMARDs) (PDF, 2012)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/ra_appendix_a.pdf,,,,,,,,
 Key Sources,box,,"Canadian Rheumatology Association - Living Guidelines for the Pharmacological Management of RA with DMARDs (2022, Update #3 April 2026)",,,,,,,CA,,cra-ra-living-guideline
-Key Sources,,1,Latest Version on MAGICapp,,,,,,,INTL,,cra-ra-magicapp
-Key Sources,,1,"Original Guideline (Journal of Rheumatology, 2022)",,,,,,,INTL,,cra-ra-living-jrheum-0
-Key Sources,,1,"Update #1 (Journal of Rheumatology, 2023)",,,,,,,INTL,,cra-ra-living-jrheum-1
-Key Sources,,1,"Update #2 (Journal of Rheumatology, 2024)",,,,,,,INTL,,cra-ra-living-jrheum-2
-Key Sources,,1,"Update #3 (Journal of Rheumatology, April 2026)",,,,,,,INTL,,cra-ra-living-jrheum-3
+Key Sources,,1,Latest Version on MAGICapp,,,,,,,,,cra-ra-magicapp
+Key Sources,,1,Original Guideline (Journal of Rheumatology),,,,,,,,,cra-ra-living-jrheum-0
+Key Sources,,1,Update #1 (Journal of Rheumatology),,,,,,,,,cra-ra-living-jrheum-1
+Key Sources,,1,Update #2 (Journal of Rheumatology),,,,,,,,,cra-ra-living-jrheum-2
+Key Sources,,1,Update #3 (Journal of Rheumatology),,,,,,,,,cra-ra-living-jrheum-3
 Key Sources,,1,"Patient Decision Aid: Should You Take Less Medicine? (PDF, July 2022)",https://rheum.ca/app/uploads/2026/07/RA_decisionaid_July-20-2022.pdf,,,,,,,,
 Further Resources,,,"BC Guidelines - Rheumatoid Arthritis: Diagnosis, Management and Monitoring",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis,2012,,,,,BC,other,
 Further Resources,box,,Canadian Rheumatology Association position statements,,,,,,,,,
@@ -25,18 +25,19 @@ Further Resources,,1,Safety of Hydroxychloroquine in the Treatment of Rheumatic 
 Further Resources,box,,Tools for Practice (CFPCLearn) evidence summaries,,,,,,,,,
 Further Resources,,1,#236 It's all in the details... or is it? Biosimilars versus biologics for inflammatory conditions,,,,,,,CA,,tfp-236-biosimilars
 Further Resources,,1,#146 Anti-CCP: A truly helpful Rheumatoid Arthritis lab test?,,,,,,,CA,,tfp-146-anti-ccp
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Peripheral Arthritis (Primary Care Alberta, 2024)",https://www.primarycarealberta.ca/pathways/438/clinical,,,,"Calgary clinical pathway; referral guideline last updated May 1, 2024; choose ""All"" when the hub asks for an area",,AB,,
+Algorithms and Pathways,,,Alberta's Pathway Hub: Peripheral Arthritis,,,,,"Calgary clinical pathway; referral guideline last updated May 1, 2024; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-peripheral-arthritis
+Assessment Tools and Calculators,,,PharmaCare - Health Assessment Questionnaire (HAQ) (HLTH 5383),-,,,,the HAQ form used with PharmaCare Special Authority requests for targeted DMARDs,,BC,,bc-pharmacare-haq-5383
+Assessment Tools and Calculators,,,RheumGuide - Clinical Skills and Physical Examination,,,,,links to joint examination guides and videos,,CA,,rheumguide-physical-exam
 Assessment Tools and Calculators,,,MDCalc - 2010 ACR/EULAR Classification Criteria for Rheumatoid Arthritis,,,,,international,,INTL,,mdcalc-acr-eular-ra-2010
 Assessment Tools and Calculators,,,MDCalc - Disease Activity Score-28 with ESR (DAS28-ESR),,,,,,,INTL,,mdcalc-das28-esr
 Assessment Tools and Calculators,,,MDCalc - Disease Activity Score-28 with CRP (DAS28-CRP),,,,,,,INTL,,mdcalc-das28-crp
 Assessment Tools and Calculators,,,MDCalc - Clinical Disease Activity Index (CDAI),,,,,,,INTL,,mdcalc-cdai-ra
 Assessment Tools and Calculators,,,MDCalc - Simple Disease Activity Index (SDAI),,,,,,,INTL,,mdcalc-sdai-ra
-Assessment Tools and Calculators,,,"PharmaCare: Health Assessment Questionnaire (HAQ) (HLTH 5383, 2016, PDF)",https://www2.gov.bc.ca/assets/gov/health/forms/5383fil.pdf,,,,the HAQ form used with PharmaCare Special Authority requests for targeted DMARDs,,BC,,
-Assessment Tools and Calculators,,,RheumGuide - Clinical Skills and Physical Examination,,,,,links to joint examination guides and videos,,CA,,rheumguide-physical-exam
 Prescribing,,,"BC Immunization Manual, Part 2: Immunosuppressive Therapy (BCCDC, September 2026)",,,,,,,BC,yes,bccdc-immunosuppressive-therapy
+Prescribing,,,RxFiles - Drug Comparison Charts: Rheumatoid Arthritis (DMARDs),,,,,drug comparison chart; needs an RxFiles subscription,,CA,,rxfiles-ra-chart
 Prescribing,,,RheumInfo - Biologics Safety Screening Tool (BSST),,,,,,,CA,,rheuminfo-bsst
 Prescribing,,,RheumInfo - Prednisone Tapering Calendar,,,,,,,CA,,rheuminfo-prednisone-taper
-Prescribing,,,Choosing Wisely Canada - Rheumatology Recommendations (last updated May 2024),,,,,"includes RF and anti-CCP testing, ANA screening and drug toxicity monitoring labs",,CA,,choosing-wisely-rheumatology
+Prescribing,,,Choosing Wisely Canada - Rheumatology Recommendations,,,,,"includes RF and anti-CCP testing, ANA screening and drug toxicity monitoring labs",,CA,,choosing-wisely-rheumatology
 Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
 Prescribing,,1,Criteria that any prescriber can request:,,,,,,,,,
 Prescribing,,2,"Methotrexate pre-filled syringes (last updated March 19, 2025)",,,,,,,,,bc-pharmacare-lcd-methotrexate-injection
@@ -58,11 +59,11 @@ Prescribing,,1,"Targeted DMARDs for Rheumatoid Arthritis: Renewal/Dosing Adjustm
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Prescribing,,1,Ontario Rheumatology Association - EAP and Limited Use codes for rheumatology drugs,,,,,"the EAP criteria and limited use codes for biologics and other rheumatology drugs, with the biosimilar fact sheet",EAP limited use biologics,,,ora-eap-limited-use
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Mary Pack Arthritis Program (MPAP) Clinics (Vancouver Coastal Health),,,,,inflammatory arthritis clinics across BC; services need a doctor's or rheumatologist's referral,,BC,yes,vch-mary-pack-arthritis-program
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,Ontario Rheumatology Association - Find a Rheumatologist,,,,,directory of Ontario rheumatologists by region,rheumatologist directory,ON,yes,ora-find-a-rheumatologist
 Advice and Referral,,,RheumInfo - Comprehensive Arthritis Referral Tool (CART),,,,,rheumatology referral triage form,,CA,,rheuminfo-cart
-Advice and Referral,,,Mary Pack Arthritis Program (MPAP) Clinics (Vancouver Coastal Health),,,,,inflammatory arthritis clinics across BC; services need a doctor's or rheumatologist's referral,,BC,yes,vch-mary-pack-arthritis-program
-Patient Resources,,,"BC Guidelines: Rheumatoid Arthritis Patient Guide (BC GPAC, 2012)",,,,,,,BC,,bc-gpac-ra-patient-guide
+Patient Resources,,,BC Guidelines: Rheumatoid Arthritis Patient Guide,,,,,,,BC,,bc-gpac-ra-patient-guide
 Patient Resources,,,HealthLink BC - Rheumatoid Arthritis,,,,,,,BC,,healthlinkbc-rheumatoid-arthritis
 Patient Resources,,,HealthLink BC - Arthritis: Managing Rheumatoid Arthritis,,,,,,,BC,,healthlinkbc-managing-ra
 Patient Resources,,,HealthLink BC - Exercise for Rheumatoid Arthritis,,,,,,,BC,,healthlinkbc-exercise-ra
