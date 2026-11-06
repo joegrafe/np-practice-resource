@@ -1,4 +1,5 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,md,,*Children with croup. Wheeze in infants is on [Bronchiolitis](Bronchiolitis.md); Child Health BC's urgent care pages are on [Pediatrics](Pediatrics.md#urgent-care-and-red-flags).*,,,,,,,,,
 Key Sources,,,Child Health BC - Provincial Croup Management Algorithm,,,,,"BC algorithm for children with croup in urgent, emergency, rural and remote settings, by severity (PHSA C-05-01-63111, effective July 2025)",croup algorithm BC dexamethasone epinephrine,BC,,chbc-croup
 Key Sources,,,Canadian Paediatric Society - Acute Management of Croup in the Emergency Department,,,,,"CPS practice point, posted May 2017, updated March 2026",CPS croup,CA,,cps-croup-2026
 Key Sources,box,,TREKK - Bottom Line Recommendations: Croup,,,-,,"assessment and management by severity (version 5.0, March 2026)",trekk croup,CA,,trekk-croup-blr-2026
@@ -7,7 +8,7 @@ Key Sources,,1,,,,,,,,,,trekk-croup-evidence-repository-2026
 Further Resources,box,,AAFP - Croup: Diagnosis and Management,,,,,"International source: US guidance, not Canadian; free article",croup review,INTL,,croup-diagnosis-and-management
 Further Resources,,1,Croup: Diagnosis and Management (PDF),https://www.aafp.org/afp/2018/0501/p575.pdf,,,,,,,,
 Further Resources,,1,,,,,,AAFP members only,,,,aafp-croup-rapid-evidence-review-2026
-Further Resources,,,Don't Forget the Bubbles - Croup,,,,,"International source: UK and Australia, not Canadian; posts show no date",,INTL,,dftb-croup
+Further Resources,,,Don't Forget the Bubbles - Croup,,-,,,"International source: UK and Australia, not Canadian; posts show no date",,INTL,,dftb-croup
 Algorithms and Pathways,note,,,,,,,The Child Health BC Provincial Croup Management Algorithm (2025) is under Key Sources; no Alberta Pathway Hub croup pathway found on 2026-11-02.,,BC,,
 Assessment Tools and Calculators,,,MDCalc: Westley Croup Score,,,,,"croup severity score; TREKK's 2026 recommendations say croup scores are validated for research, not routine care",croup severity score,INTL,,cdr-westley
 Prescribing,box,,,,,,,"RxFiles antibiotic page; its pediatric ""Prescription for a Virus"" pads, made with Choosing Wisely Canada, are free",viral prescription antibiotic stewardship,CA,,rxfiles-antibiotics

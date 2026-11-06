@@ -1,4 +1,5 @@
 heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,,md,,"*Sources and services for care before, during and after pregnancy.*",,,,,,,,,
 Key Sources,,,,Perinatal Services BC - Prenatal Primary Care,,,,"[Prenatal Primary Care Checklist (PDF)](https://cms.psbchealthhub.ca/sites/default/files/2023-12/2023-11-29_Prenatal%20Primary%20Care%20Checklist.pdf) · [Lab Tests by Trimester (PDF, 2024)](https://cms.psbchealthhub.ca/sites/default/files/2024-09/Lab%20Tests%20by%20Trimester%20-%202024Jul03.pdf)","BC's prenatal care guidance on the Perinatal and Newborn Health Hub, by trimester",psbc perinatal services bc prenatal care antenatal visits checklist labs,BC,,psbc-hub-541
 Key Sources,,,1,,,,,[Guide for Completion (PDF)](https://cms.psbchealthhub.ca/sites/default/files/2023-11/Guide%20for%20Completion%20of%20the%20Antenatal%20Record%20Part%201%20and%202.pdf) · [All PSBC forms](https://www.psbchealthhub.ca/clinical-guidance/forms),,antenatal record prenatal record form 1905,,,psbc-antenatal-record
 Key Sources,,,1,,,,,,"every PSBC clinical care topic, by perinatal phase",,,,psbc-health-hub
@@ -6,7 +7,6 @@ Key Sources,,,,"Public Health Agency of Canada - Family-Centred Maternity and Ne
 Key Sources,,,,AAFP - Prenatal Care: An Evidence-Based Approach,,,,,"International source: US review (American Family Physician), not Canadian. Visit-by-visit components of prenatal care",aafp prenatal visit schedule,INTL,,aafp-prenatal-care-2023
 Prenatal Care,,,,Perinatal Services BC - Preconception Health Care,,,,,,preconception planning pregnancy folic acid,BC,,psbc-hub-691
 Prenatal Care,,,,Centre for Effective Practice - Preconception Health Care,,,,,"Ontario primary care tool: preconception risk assessment and risk reduction, with an EMR form",CEP tool preconception,ON,,cep-preconception-2019
-Prenatal Care,,,,"Public Health Agency of Canada - Family-Centred Maternity and Newborn Care: National Guidelines, Chapter 2: Preconception Care",,,,,,,CA,,phac-fcmnc-ch2
 Prenatal Care,,,,Perinatal Services BC - Prenatal Genetic Investigations,,,,[Eligibility for IPS](https://www.perinatalservicesbc.ca/health-professionals/professional-resources/screening/prenatal-genetic/eligibility-for-ips) · [Pregnancy Dating Tool](https://www.perinatalservicesbc.ca/our-services/screening-programs/prenatal-genetic-screening/pregnancy-dating-tool),BC's funded prenatal genetic screening and diagnostic testing,ips sips nipt prenatal screening dating edd due date,BC,,psbc-hub-431
 Prenatal Care,,,,Prenatal Screening Ontario,,,,,"Ontario's prenatal screening program (BORN Ontario): requisitions and ordering guides, eFTS, NIPT and results guidance, with an infoline for providers",prenatal screening eFTS NIPT requisition,ON,yes,prenatal-screening-ontario
 Prenatal Care,,,,Perinatal Services BC - Perinatal Infections: Screening,,,,,,prenatal bloodwork hiv syphilis hepatitis b rubella gbs screening,BC,,psbc-hub-441
@@ -19,13 +19,14 @@ Prenatal Care,,,1,,,,,,,,,,psbc-hub-951
 Prenatal Care,,,1,,,,,,,,,,psbc-hub-1066
 Prenatal Care,,,1,,,,,,,,,,psbc-hub-926
 Prenatal Care,,md,,- [Immunization: Special Populations](../5%20Prescribing/Immunization.md#special-populations) — *immunization in pregnancy lives on the Immunization page*,,,,,,,,,
-Prenatal Care,,,,"Public Health Agency of Canada - Family-Centred Maternity and Newborn Care: National Guidelines, Chapter 5: Postpartum Care",,,,,,postpartum postnatal,CA,,phac-fcmnc-ch5
 Prenatal Care,,,,Perinatal Services BC - Postpartum Contraception and Consent,,,,,,postpartum contraception,BC,,psbc-hub-57
 Prenatal Care,,,,Perinatal Services BC - Lactation and Newborn Feeding Support (Postpartum),,,,,,breastfeeding lactation,BC,,psbc-hub-426
 Prenatal Care,,box,,Ontario Health quality standard - Vaginal Birth After Caesarean (VBAC),,,-,,"Ontario quality standard for people planning a birth after a caesarean, with a clinician placemat and patient guide",quality standard,ON,yes,ontario-health-vbac-qs-2024
 Prenatal Care,,,1,"Quality Standard (PDF, October 2024)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-vaginal-birth-after-caesarean-quality-standard-2024-en.pdf,,,,,,,,
 Prenatal Care,,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-vaginal-birth-after-caesarean-placemat-2024-en.pdf,,,,,,,,
 Prenatal Care,,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-vaginal-birth-after-caesarean-patient-guide-2024-en.pdf,,,,,,,,
+Prenatal Care,,,,"Public Health Agency of Canada - Family-Centred Maternity and Newborn Care: National Guidelines, Chapter 2: Preconception Care",,,,,,,CA,,phac-fcmnc-ch2
+Prenatal Care,,,,"Public Health Agency of Canada - Family-Centred Maternity and Newborn Care: National Guidelines, Chapter 5: Postpartum Care",,,,,,postpartum postnatal,CA,,phac-fcmnc-ch5
 Urgent Care and Red Flags,,,,Perinatal Services BC - First Trimester Bleeding,,,,,,vaginal bleeding early pregnancy miscarriage ectopic,BC,,psbc-hub-606
 Urgent Care and Red Flags,,box,,Ontario Health quality standard - Early Pregnancy Complications and Loss: Care for Adults in All Settings,,,-,,"Ontario quality standard for bleeding, pain and loss in early pregnancy, with a clinician placemat and patient guide",quality standard,ON,yes,ontario-health-early-pregnancy-complications-loss-qs-2019
 Urgent Care and Red Flags,,,1,"Quality Standard (PDF, July 2019)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-early-pregnancy-complications-and-loss-quality-standard-en.pdf,,,,,,,,
@@ -66,9 +67,9 @@ Services and Referral,,,,Healthy Babies Healthy Children (Ontario),,,,,free home
 Patient Resources,,,,HealthLink BC - Pregnancy and Parenting Resources,,,,,"BC's patient guides, including Baby's Best Chance and the Pregnancy Passport",,BC,,healthlinkbc-pregnancy-parenting
 Patient Resources,,,1,,,,,,,,,,babys-best-chance
 Patient Resources,,,1,Perinatal Services BC - Pregnancy Passport,,,,,a record the patient carries through pregnancy,,,,psbc-pregnancy-passport
-Patient Resources,,,,Perinatal Services BC - Pregnancy,https://www.perinatalservicesbc.ca/health-info/pregnancy,,,,patient information on pregnancy in BC,,BC,,
-Patient Resources,,,,BC Women's - Coping with Depression During Pregnancy and Following the Birth,,,https://www.bcwomens.ca/Specialized-Services-Site/Documents/Reproductive%20mental%20health/coping_with_depression.pdf,[Coping with Anxiety (PDF)](https://www.bcwomens.ca/Specialized-Services-Site/Documents/Reproductive%20mental%20health/bcrmh_anxietyguide_final_whole_document.pdf),self-care guides for patients,,BC,,
+Patient Resources,,,,Perinatal Services BC - Pregnancy,https://www.perinatalservicesbc.ca/health-info/pregnancy,,,,patient information on pregnancy in BC,,BC,yes,
+Patient Resources,,,,BC Women's - Coping with Depression During Pregnancy and Following the Birth,https://www.bcwomens.ca/our-services/mental-health-substance-use/reproductive-mental-health#:~:text=Coping%20with%20Depression,,https://www.bcwomens.ca/Specialized-Services-Site/Documents/Reproductive%20mental%20health/coping_with_depression.pdf,[Coping with Anxiety (PDF)](https://www.bcwomens.ca/Specialized-Services-Site/Documents/Reproductive%20mental%20health/bcrmh_anxietyguide_final_whole_document.pdf),self-care guides for patients,,BC,,
 Patient Resources,,,,HealthLink BC - High Blood Pressure During Pregnancy,,,,,,,BC,,healthlinkbc-high-bp-pregnancy
 Patient Resources,,,,HealthLink BC - Pregnancy and Chronic High Blood Pressure,,,,,,,BC,,healthlinkbc-pregnancy-chronic-high-bp
 Patient Resources,,,,HealthLink BC - Gestational Diabetes,,,,,,,BC,,healthlinkbc-gestational-diabetes
-Patient Resources,,,,Diabetes Canada - Gestational Diabetes and Post-partum Screening,,,,,,,CA,,diabetes-canada-gdm-postpartum
+Patient Resources,,,,Diabetes Canada - Gestational Diabetes and Post-partum Screening,,,,,patient leaflet on screening after gestational diabetes (reflects the 2013 guideline),,CA,,diabetes-canada-gdm-postpartum

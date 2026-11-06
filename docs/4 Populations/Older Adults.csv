@@ -1,4 +1,5 @@
 heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,,md,,"*Sources and services for adults 65 and older: frailty, falls, delirium, medications and planning ahead.*",,,,,,,,,
 Key Sources,,,,BC Guidelines - Frailty in Older Adults: Early Identification and Management,,,,,"BC; case finding, assessment, grading and care planning for frailty in primary care. Its appendices and tools are on [Dementia and Frailty](../3%20Conditions/Neurology/Dementia%20and%20Frailty.md)",frailty frail elderly seniors geriatric bc guideline,BC,,bc-gpac-frailty-2017
 Key Sources,,,,Centre for Effective Practice - Preventive Care for Older People,,,,,"Ontario; a screening and counselling checklist for older adults, with an EMR reminder tool",preventive care checklist seniors periodic health exam elderly,ON,,centre-for-effective-practice-preventive-care-for-older-peop
 Key Sources,,,,AAFP - Geriatric Assessment: An Office-Based Approach,,,,[Age-Friendly Geriatric Assessment (2026 update)](https://www.aafp.org/afp/2026/0100/age-friendly-geriatric-assessment) (AAFP members),"International source: US review (American Family Physician), not Canadian. Office geriatric assessment by domain",comprehensive geriatric assessment cga 4ms age-friendly,INTL,,aafp-geriatric-assessment-an-office-based-approach
@@ -44,11 +45,11 @@ Advance Care Planning,,,,BC Government - Advance Care Planning,,,,,"BC's My Voic
 Advance Care Planning,,,,Pathways BC - Adult Palliative Care,,,,,BC enhanced care pathway (Shared Care); provincial,palliative care end of life,BC,yes,pathways-bc-adult-palliative-care
 Advance Care Planning,,md,,- [Forms and Duty to Report: Medical Assistance in Dying](../6%20Practice/Forms%20and%20Duty%20to%20Report.md#medical-assistance-in-dying) — *MAiD forms and the NP role*,,,,,,maid,BC,,
 Services and Referral,,,,BC Government - Home and Community Care,,,,,"home support, adult day services, assisted living and long-term care through the health authorities",home care home support long-term care assisted living,BC,,bc-government-home-and-community-care
-Services and Referral,,,,,,,,,information and referral line 1-877-952-3181 for seniors' services in BC,seniors advocate,BC,,office-of-the-seniors-advocate-bc
+Services and Referral,,,,,,,,,information and referral line 1-877-952-3181 for seniors' services in BC,seniors advocate,BC,yes,office-of-the-seniors-advocate-bc
 Services and Referral,,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists, including geriatric medicine and geriatric psychiatry",geriatrician advice,BC,yes,race-connect
 Services and Referral,,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Services and Referral,,md,,"- [Consultation, Referral and Advice](../6%20Practice/Consultation%20Referral%20and%20Advice.md) — *Pathways BC, rural advice lines and the 24/7 palliative care consultation line*",,,,,,,BC,yes,
-Patient Resources,,,,BC Government - BC Seniors' Guide,,,,,"benefits, health, housing and safety for BC seniors, in several languages",seniors guide,BC,,bc-government-bc-seniors-guide
+Patient Resources,,,,BC Government - BC Seniors' Guide,,,,,"benefits, health, housing and safety for BC seniors, in several languages",seniors guide,BC,yes,bc-government-bc-seniors-guide
 Patient Resources,,,,HealthLink BC - Getting Older,,,,,"healthy aging, seniors' health, activity and nutrition",,BC,,healthlink-bc-getting-older
 Patient Resources,,,,HealthLink BC - Preventing Falls as You Age,,,,,,falls,BC,,healthlink-bc-preventing-falls-as-you-age
 Patient Resources,,,,Canadian Coalition for Seniors' Mental Health - Depression: Resources for Older Adults and Care Partners,,,,,,,CA,,canadian-coalition-for-seniors-mental-health-depression-reso

@@ -15,6 +15,4 @@ reviewers: [joegrafe]
      RxFiles: no RxFiles resource on gender-affirming hormone therapy was found (2026-11-01).
      Unconfirmed: academic.oup.com (Endocrine Society) blocks automated checks.
      Link to the source guidance; don't restate its recommendations. -->
-*Sources and services for gender-affirming care of trans, Two-Spirit and gender diverse patients.*
-
 <!-- nppr-list: Trans Care.csv style=condition -->

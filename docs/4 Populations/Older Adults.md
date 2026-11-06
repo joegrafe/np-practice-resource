@@ -15,6 +15,4 @@ reviewers: [joegrafe]
      Palliative care gets its own Populations page later (framework Conditions checklist); Pathways BC's Adult Palliative Care pathway stands in for now.
      Unconfirmed: cep.health and cfp.ca block automated checks (rows carried over from the Approaches sheets).
      Link to the source guidance; don't restate its recommendations. -->
-*Sources and services for adults 65 and older: frailty, falls, delirium, medications and planning ahead.*
-
 <!-- nppr-list: Older Adults.csv style=condition -->

@@ -15,8 +15,6 @@ reviewers: [joegrafe]
      Left out: PedsCases "Acute Management of Croup" (2020) and Tools for Practice #102 (2013, reviewed 2018), which predate the 2026 CPS and TREKK updates; NICE has no croup guideline; Royal Children's Hospital Melbourne croup guideline (2024), covered by the Canadian sources.
      Link to the source guidance; don't restate its recommendations. -->
 
-*Children with croup. Wheeze in infants is on [Bronchiolitis](Bronchiolitis.md); Child Health BC's urgent care pages are on [Pediatrics](Pediatrics.md#urgent-care-and-red-flags).*
-
 <!-- The page's sections live in Croup.csv beside this page, one row per line; the site build writes them in here.
      Edit the sheet, not this page, to change a link. Column guide: NPPR-FRAMEWORK.md, Page standard, List sheets. -->
 <!-- nppr-list: Croup.csv style=condition -->

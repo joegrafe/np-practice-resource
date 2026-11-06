@@ -1,6 +1,7 @@
 heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
-Key Sources,,,,Child Health BC - Clinician Resources,,,,,"BC's provincial pediatric clinical resources and guidelines, searchable by topic",chbc child health bc pediatric guidelines,BC,,chbc-clinician-resources
-Key Sources,,,,Canadian Paediatric Society - Position Statements and Practice Points,,,,[Clinical Tools and Resources](https://cps.ca/en/tools-outils),"national pediatric guidance by topic, each dated; the tools page holds the Greig Health Record, growth charts and other forms",cps paediatric position statement practice point,CA,,canadian-paediatric-society-position-statements-and-practice
+,,md,,"*Sources and services for infants, children and youth.*",,,,,,,,,
+Key Sources,,,,Child Health BC - Clinician Resources,,-,,,"BC's provincial pediatric clinical resources and guidelines, searchable by topic",chbc child health bc pediatric guidelines,BC,,chbc-clinician-resources
+Key Sources,,,,Canadian Paediatric Society - Position Statements and Practice Points,,-,,[Clinical Tools and Resources](https://cps.ca/en/tools-outils),"national pediatric guidance by topic, each dated; the tools page holds the Greig Health Record, growth charts and other forms",cps paediatric position statement practice point,CA,,canadian-paediatric-society-position-statements-and-practice
 Well-Child Care,,,,,,,,[Fillable PDF](https://www.rourkebabyrecord.ca/pdf/2024/RBR%202024%20NAT-EN-3vpp-May%2018-BLACK-Oct%2017%20FINAL-uae.pdf) · [Interactive guides by visit](https://www.rourkebabyrecord.ca/interactive-guide/),"well-baby and well-child visit record from the first week to 5 years: growth, nutrition, development, exam and immunization by visit; an Ontario version is posted too",rbr rourke well baby well-child visit milestones growth,CA,,rourke-2024
 Well-Child Care,,md,,- [Preventive Care and Cancer Screening: Preventive Care Schedules](../../2%20Assessments/Preventive%20Care%20and%20Cancer%20Screening.md#preventive-care-schedules) — *provincial preventive care schedules and the CPS Greig Health Record for ages 6 to 17*,,,,,,greig health record school age,BC,,
 Well-Child Care,,md,,- [Preventive Care and Cancer Screening: Child Development](../../2%20Assessments/Preventive%20Care%20and%20Cancer%20Screening.md#child-development) — *developmental screening sources*,,,,,,,,,
@@ -10,8 +11,8 @@ Well-Child Care,,md,,- [Immunization](../../5%20Prescribing/Immunization.md) —
 Well-Child Care,,,,Centre for Effective Practice - Preventing Childhood Obesity,,,,,Ontario primary care tool: growth measurement and healthy-living conversations for ages 2 to 17,CEP tool childhood obesity growth,ON,,cep-childhood-obesity-2016
 Urgent Care and Red Flags,,,,Child Health BC - Resources in a Hurry,,,,,"weight-based drug sheets, vital signs and quick guides for acute conditions (anaphylaxis, asthma, croup, DKA, head injury, poisoning, seizures, sepsis)",emergency pediatric dosing vital signs,BC,,chbc-in-a-hurry
 Urgent Care and Red Flags,,,,Child Health BC - Pediatric Early Warning System (PEWS),,,,,BC's pediatric early warning score,pews deterioration,BC,,chbc-pews
-Urgent Care and Red Flags,,,,Child Health BC - Sepsis,https://childhealthbc.ca/clinician-resources/sepsis,,,,provincial pediatric sepsis resources,,BC,,
-Urgent Care and Red Flags,,,,TREKK - Bottom Line Recommendations,,,,,"one-page Canadian pediatric emergency summaries by topic, each with its version date",trekk pediatric emergency,CA,,trekk-blr
+Urgent Care and Red Flags,,,,Child Health BC - Provincial Pediatric Sepsis Recognition and Management Guideline,,,,,provincial pediatric sepsis resources,,BC,,child-health-bc-provincial-pediatric-sepsis
+Urgent Care and Red Flags,,,,TREKK - Bottom Line Recommendations,,-,,,"one-page Canadian pediatric emergency summaries by topic, each with its version date",trekk pediatric emergency,CA,,trekk-blr
 Conditions with Population Notes,Asthma,md,,"- [Pediatric Asthma](Pediatric%20Asthma.md) — *BC, Canadian and TREKK sources for children and youth with asthma*",,,,,,,BC,,
 Conditions with Population Notes,Urinary Tract Infection,md,,"- [Pediatric UTI](Pediatric%20UTI.md) — *CPS and TREKK guidance, CHARLiE advice and BC Children's Hospital referral for children with a UTI*",,,,,,,BC,,
 Conditions with Population Notes,Croup,md,,"- [Croup](Croup.md) — *the Child Health BC croup algorithm, CPS and TREKK guidance, and CHARLiE advice*",,,,,,barky cough stridor,BC,,
@@ -46,8 +47,8 @@ Services and Referral,,,1,"Division of Nephrology Consultation Request (fillable
 Services and Referral,,,,"BC Children's Hospital - Endocrinology, Diabetes and Gender",,,,,diabetes care for children and youth,,BC,yes,bc-children-s-hospital-gender-clinic-endocrinology-diabetes
 Services and Referral,,,1,,,,,,,,,,bcch-endocrinology-referral
 Patient Resources,,,,HealthLink BC - Parenting,,,,,BC parenting pages from babies to teens,,BC,,healthlinkbc-parenting
-Patient Resources,,,,Caring for Kids (Canadian Paediatric Society),,,,[Preteens and teens](https://caringforkids.cps.ca/handouts/preteens-and-teens),the CPS's handouts for parents,,CA,,caring-for-kids
 Patient Resources,,,,,,,,,"BC mental health and substance use information for children, youth and families",,BC,yes,kelty-mental-health
 Patient Resources,,,,HealthLink BC - High Blood Pressure in Children and Teens,,,,,,,BC,,healthlinkbc-bp-children-teens
 Patient Resources,,,,HealthLink BC - Type 2 Diabetes in Children,,,,,,,BC,,healthlinkbc-t2d-children
 Patient Resources,,,,HealthLink BC - Type 2 Diabetes: Screening for Children,,,,,,,BC,,healthlinkbc-t2d-screening-children
+Patient Resources,,,,Caring for Kids (Canadian Paediatric Society),,,,[Preteens and teens](https://caringforkids.cps.ca/handouts/preteens-and-teens),the CPS's handouts for parents,,CA,,caring-for-kids

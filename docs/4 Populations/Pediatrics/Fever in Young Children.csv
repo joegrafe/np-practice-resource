@@ -1,4 +1,5 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,md,,*Infants and young children with fever. Child Health BC's PEWS and urgent care pages are on [Pediatrics](Pediatrics.md#urgent-care-and-red-flags); a febrile UTI is on [Pediatric UTI](Pediatric%20UTI.md).*,,,,,,,,,
 Key Sources,box,,,,,,,"BC guideline for recognizing and treating sepsis in children in emergency departments and urgent care centres (first issued 2023, last revised March 2026)",pediatric sepsis BC septic shock,BC,,child-health-bc-provincial-pediatric-sepsis
 Key Sources,,1,Provincial Pediatric Sepsis Recognition and Management Guideline (PDF),https://shop.healthcarebc.ca/phsa/BCWH_2/CW%20Campus%20Wide/C-0506-07-62987.pdf,,,,,,,,
 Key Sources,,1,,,,,,,sepsis screening,,,chbc-sepsis-screening-tool
@@ -11,10 +12,10 @@ Key Sources,,1,Algorithm: Fever in Infants ≤ 60 Days,,,,,"by age group, with t
 Key Sources,,1,Evidence Repository: Fever in Infants ≤ 60 Days,,,,,,,,,trekk-fever-infants-evidence-repository-2025
 Further Resources,,,Canadian Family Physician - Reducing Unnecessary Investigations in Pediatric Simple Febrile and First-Episode Generalized Unprovoked Seizures,,,,,"Gardner K, Schonfeld D, Willemsen MA, Ostrow O. Can Fam Physician 71(9)",febrile seizure,CA,,cfp-febrile-seizures-2025
 Further Resources,,,PedsCases Notes - Febrile Seizures,,,,,pediatric approach note,febrile seizure,CA,,pedscases-febrile-seizures-2020
-Further Resources,,,UCalgary Black Book - Fever (pediatric),,,,,diagnostic scheme,,CA,,blackbook-pediatric-fever
+Further Resources,,,UCalgary Black Book - Fever (pediatric),,-,,,diagnostic scheme,,CA,,blackbook-pediatric-fever
 Further Resources,,,AAFP - Management of Fever in Infants and Young Children,,,,,"International source: US guidance, not Canadian; children under 36 months, in three age groups",fever children review,INTL,,aafp-fever-infants-children-2020
 Further Resources,,,NICE - Fever in Under 5s: Assessment and Initial Management (NG143),,,,,"International source: UK guidance, not Canadian; the traffic light system for children under 5, published 2019, updated November 2021",traffic light NICE fever under 5,INTL,,nice-ng143-fever-under-5s
-Further Resources,,,Don't Forget the Bubbles - Well Appearing Febrile Infants,,,,,"International source: UK and Australia, not Canadian; posts show no date",,INTL,,dftb-febrile-infants
+Further Resources,,,Don't Forget the Bubbles - Well Appearing Febrile Infants,,-,,,"International source: UK and Australia, not Canadian; posts show no date",,INTL,,dftb-febrile-infants
 Algorithms and Pathways,note,,,,,,,The TREKK fever algorithm and the Child Health BC sepsis algorithm are under Key Sources; no BC or Alberta pathway for fever in young children found on 2026-11-02.,,BC,,
 Assessment Tools and Calculators,,,Child Health BC - Pediatric Early Warning System (PEWS),,,,,BC's pediatric early warning score,PEWS deterioration,BC,,chbc-pews
 Assessment Tools and Calculators,,,MDCalc: PECARN Rule for Low Risk Febrile Infants,,,,,International source: US rule for well-appearing febrile infants up to 60 days,PECARN febrile infant,INTL,,cdr-pecarn-febrile-infant

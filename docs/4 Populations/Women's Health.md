@@ -15,6 +15,4 @@ reviewers: [joegrafe]
      Left out: SOGC intimate partner violence consensus statement (2005, No. 157), replaced here by the VEGA resources; SOGC medical abortion guideline (2016) pending a check for an update; the CAPS-CPCA resources link it.
      Unconfirmed: monash.edu and cep.health block automated checks.
      Link to the source guidance; don't restate its recommendations. -->
-*Sources and services for women's sexual, reproductive and pelvic health, and for intimate partner violence.*
-
 <!-- nppr-list: Women's Health.csv style=condition -->
