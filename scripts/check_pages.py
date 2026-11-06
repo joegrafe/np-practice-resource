@@ -49,7 +49,8 @@ Checks:
                  region's view
   superseded     a row that names (or links) a document another registry row supersedes
   duplicate      the same document (id or address) on two top-level rows of one page
-  pdf-alone      a row whose only link is a PDF (check that no publisher page exists)
+  pdf-alone      a row whose only link is a PDF; once checked that no publisher page
+                 exists, the sheet row's url "-" records that and the rule leaves it
   year           a guideline, algorithm or pathway row with no year, or a year in
                  brackets in its title
   rxfiles        a condition page with no rxfiles.ca row in Prescribing (check that
@@ -559,7 +560,7 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
                 seen_docs[ident] = n
         # pdf-alone
         web = next((x for x in (cells.get("url"), doc.get("url")) if x and x != "-"), "")
-        if not web or web.lower().endswith(".pdf"):
+        if cells.get("url") != "-" and (not web or web.lower().endswith(".pdf")):  # url "-": checked, no publisher page
             f.add("pdf-alone", rel, n, "Only a PDF is linked: link the publisher's web page for the document with its PDF on the same line, unless no page links to it.")
         # year
         year = cells.get("year") or doc.get("year", "")
