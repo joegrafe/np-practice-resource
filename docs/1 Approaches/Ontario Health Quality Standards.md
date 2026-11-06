@@ -4,10 +4,10 @@ type: approach
 tags: [approach]
 jurisdiction: ["ON"]
 region: "ON"
-status: draft
+status: published
 last-reviewed: 2026-11-05
 review-due: 2027-11-05
-reviewers: []
+reviewers: [joegrafe]
 description: "Ontario Health's quality standards for primary and community care: all 44 published standards, listed by body system with their date, each with its clinician placemat and patient guide. Written for Ontario."
 aliases: [OH quality standards, Health Quality Ontario, HQO, quality standard, Ontario quality standards, placemat, patient guide]
 logo: ""
