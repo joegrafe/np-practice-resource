@@ -17,7 +17,6 @@ description: "The rules on what nurse practitioners may prescribe: the regulator
      Not linked yet: College of Pharmacists of BC CPP page (bcpharmacists.org could not be opened from the build
      environment on 2026-10-29) and the federal Controlled Drugs and Substances Act and New Classes of
      Practitioners Regulations (laws-lois.justice.gc.ca could not be opened either). -->
-*The rules on what nurse practitioners may prescribe and how: the regulator's prescribing standards and their limits and conditions, controlled drugs, provincial drug information systems, and medical cannabis. Choosing a drug and getting it covered are in [Prescribing](../5%20Prescribing/index.md).*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. PRIME"></div>
 

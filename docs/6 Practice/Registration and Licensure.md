@@ -14,7 +14,6 @@ description: "Getting and keeping a nurse practitioner licence: the regulator's 
      PharmaNet and PRIME enrolment live on Prescribing Authority; scope and the 2026 general NP class on
      Scope of Practice and Standards. NNPBC's NP-PIP licence fee reimbursement policy PDFs returned 404 on
      2026-10-29, so it is described on Practice Models and Compensation through the NP-PIP page only. -->
-*Getting and keeping a nurse practitioner licence: the regulator's applications and exams, annual renewal and quality assurance, liability protection, and the provincial billing or practitioner number.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. renewal"></div>
 

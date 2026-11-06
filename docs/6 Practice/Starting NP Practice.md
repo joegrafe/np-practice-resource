@@ -14,7 +14,6 @@ description: "A checklist for starting nurse practitioner practice, from licensu
 <!-- Practice wave 2 (plan: https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc, approved by Joe 2026-10-27).
      A checklist only: each step points to its source or to the Practice page that holds the sources.
      Requisition forms are left out on purpose (Joe, 2026-10-27): clinics have their own. -->
-*A checklist for starting nurse practitioner practice. Each step links to its source or to the page that covers it.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. PRIME"></div>
 

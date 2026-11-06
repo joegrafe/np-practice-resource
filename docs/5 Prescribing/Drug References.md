@@ -3,6 +3,7 @@ title: Drug References
 type: prescribing
 tags: [prescribing, drug-information, medication-safety, older-adults]
 jurisdiction: [BC, CA, INTL]
+aliases: [drug monograph, monographs, CPS, Compendium of Pharmaceuticals and Specialties, RxFiles, Geri-RxFiles, Therapeutics Letter, drug product database, DPD, drug shortages, drug interactions, dosing calculator]
 status: published
 last-reviewed: 2026-11-02
 review-due: 2027-10-27
@@ -15,7 +16,6 @@ description: "Independent and Canadian drug references for checking a drug choic
      Access labels: subscription sources are labelled (Joe's decision 3).
      Not opened from the build container (host not reachable there): ismp-canada.org, cda-amc.ca, healthproductshortages.ca
      (URLs from search results and Health Canada's drug shortages page). CPS product page loaded; pharmacists.ca/cps returned 403. -->
-*Independent and Canadian references for checking a drug choice against the AI's suggestion or your own: monographs, comparison charts, safety alerts, shortages and dosing calculators. Coverage is on [Drug Coverage](Drug%20Coverage.md).*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. monograph"></div>
 

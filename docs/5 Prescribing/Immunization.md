@@ -2,7 +2,7 @@
 title: Immunization
 type: prescribing
 tags: [prescribing, immunization, vaccines]
-jurisdiction: [BC, "ON", CA, INTL]
+jurisdiction: [BC, "ON", CA]
 status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
@@ -19,7 +19,6 @@ redirect_from: [prescribing/bc-immunization-manual]  # replaced the BC Immunizat
      with a PDF for each section, dated by section.
      ImmunizeBC (immunizebc.ca) now redirects to HealthLink BC's Immunizations pages.
      canada.ca pages were read with a web fetch (curl blocked from the build container). -->
-*Your province's immunization manual and national guidance for checking a vaccine, its schedule and its contraindications, with adverse event reporting, vaccine handling and courses.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. contraindications"></div>
 

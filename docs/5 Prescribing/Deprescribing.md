@@ -12,7 +12,6 @@ description: "Tools for reducing or stopping medications, mostly in older adults
 ---
 <!-- Prescribing wave 3 (plan: https://claude.ai/artifact/GJeAP8SPPZrsk4G8ihftgU, approved by Joe 2026-10-27).
      Topic ownership (NPPR-FRAMEWORK.md): deprescribing lives here; Older adults (Populations wave 2) and condition pages link here. -->
-*Tools for reducing or stopping medications, mostly in older adults: Canadian deprescribing guidelines and algorithms by drug class, medication review criteria, pharmacist medication reviews and patient handouts. Tapering opioids and benzodiazepines is also on [Opioids, Controlled Drugs and Substance Use](Opioids%20Controlled%20Drugs%20and%20Substance%20Use.md).*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. PPI"></div>
 

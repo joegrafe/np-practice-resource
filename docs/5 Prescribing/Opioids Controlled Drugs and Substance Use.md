@@ -16,7 +16,6 @@ description: "Prescribing references for opioids, benzodiazepines and other cont
      condition pages in build wave 15 (2026-11-02); short pointers stay here. BCCNM prescribing rules, controlled drugs,
      the Controlled Prescription Program, PharmaNet and PRIME live on Practice: Prescribing Authority.
      Drug-dosing calculators (MME) live in Prescribing (topic ownership). -->
-*Prescribing references for opioids, benzodiazepines and other controlled drugs, and for treating alcohol, tobacco and other substance use: guidance, coverage, dose calculators, advice lines and naloxone. Diagnosis and treatment of a condition are on its condition page, such as [Opioid Use Disorder (OUD)](../3%20Conditions/Mental%20Health%20and%20Substance%20Use/Opioid%20Use%20Disorder%20%28OUD%29.md) and [Chronic Pain](../3%20Conditions/Musculoskeletal/Chronic%20Pain.md). What NPs may prescribe is on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md).*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. taper"></div>
 

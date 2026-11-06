@@ -13,7 +13,6 @@ description: "Getting advice and making referrals as a nurse practitioner: the r
 <!-- Practice wave 3 (plan: https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc, approved by Joe 2026-10-27).
      Topic ownership (NPPR-FRAMEWORK.md): RACE, Pathways and advice lines live here; condition pages keep their own
      Advice and Referral sections and Rural and remote links here. -->
-*Getting advice and making referrals: the regulator's standard for consulting and referring, specialist advice lines, rural virtual support, eConsults and referral directories. Each condition page lists the advice and referral services for that condition.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. RACE"></div>
 
