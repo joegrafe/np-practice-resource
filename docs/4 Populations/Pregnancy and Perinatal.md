@@ -4,8 +4,8 @@ type: population
 tags: [population, pregnancy, lactation, pregnancy-and-perinatal]
 jurisdiction: [BC, "ON", CA, INTL]
 status: published
-last-reviewed: 2026-10-29
-review-due: 2027-10-29
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Populations wave 1, reviewed and published by Joe 2026-10-29. Every section lives in Pregnancy and Perinatal.csv beside this page.
@@ -15,6 +15,4 @@ reviewers: [joegrafe]
      Immunization in pregnancy lives on Prescribing > Immunization; perinatal depression guidance (CANMAT 2024) lives on the Depression and Anxiety condition page.
      No BC or Canadian free drug-in-lactation database was found; LactMed is linked as international.
      Link to the source guidance; don't restate its recommendations. -->
-*Sources and services for care before, during and after pregnancy.*
-
 <!-- nppr-list: Pregnancy and Perinatal.csv style=condition -->

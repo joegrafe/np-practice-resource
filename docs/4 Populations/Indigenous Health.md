@@ -4,8 +4,8 @@ type: population
 tags: [population, indigenous-health, cultural-safety]
 jurisdiction: [BC, "ON", CA]
 status: published
-last-reviewed: 2026-11-02
-review-due: 2027-11-02
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- Populations wave 3 (2026-11-02): review of the page published 2026-10-10, moved into Indigenous Health.csv beside this page. Draft again for Joe's review.
@@ -14,6 +14,4 @@ reviewers: [joegrafe]
      Left out: Perinatal Services BC's Honouring Indigenous Women's and Families' Pregnancy Journeys (its PDF did not open from the build container; candidate for the Pregnancy and Perinatal page).
      No BC Guideline, BCCDC, RACE or Canadian Task Force source specific to Indigenous health was found.
      Link to the source guidance; don't restate its recommendations. -->
-*Sources and services for First Nations, Métis and Inuit patients: cultural safety standards, coverage and benefits, and Indigenous health programs by region.*
-
 <!-- nppr-list: Indigenous Health.csv style=condition -->

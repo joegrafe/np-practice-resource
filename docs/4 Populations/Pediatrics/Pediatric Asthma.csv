@@ -1,5 +1,6 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
-Key Sources,box,,Child Health BC - Provincial Pediatric Asthma Management Guideline (effective 2025),,,-,,For children 1 to 17 years presenting to an emergency department or urgent care centre with wheezing or respiratory distress.,,BC,,chbc-pediatric-asthma-guideline
+,md,,"*Children and youth with asthma. The BC Guideline, the Canadian Thoracic Society guidelines, RACE and adult resources are on the [Asthma](../../3%20Conditions/Respiratory/Asthma.md) condition page.*",,,,,,,,,
+Key Sources,box,,Child Health BC - Provincial Pediatric Asthma Management Guideline,,,-,,For children 1 to 17 years presenting to an emergency department or urgent care centre with wheezing or respiratory distress.,,BC,,chbc-pediatric-asthma-guideline
 Key Sources,,1,Full Guideline (PDF),https://shop.healthcarebc.ca/phsa/BCWH_2/CW%20Campus%20Wide/C-0506-07-63037.pdf,,,,,,,,
 Key Sources,,1,"Algorithm: Initial Management of Pediatric Asthma Exacerbations (effective October 14, 2025, revised November 14, 2025, PDF)",https://childhealthbc.ca/asthma/guideline/initial_mgmt_ped_asthma_exacerbation_algo,,,,,,,,
 Key Sources,,1,"Algorithm: Ongoing Management of Pediatric Asthma Exacerbations (effective October 14, 2025, revised November 14, 2025, PDF)",https://childhealthbc.ca/asthma/ongoing_algorithm,,,,,,,,
@@ -14,17 +15,17 @@ Further Resources,box,,Ontario Health quality standard - Asthma: Care in the Com
 Further Resources,,1,"Quality Standard (PDF, June 2025)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-asthma-in-children-and-adolescents-quality-standard-2025-en.pdf,,,,,,,,
 Further Resources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-asthma-in-children-and-adolescents-placemat-2025-en.pdf,,,,,,,,
 Further Resources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-asthma-in-children-and-adolescents-patient-guide-2025-en.pdf,,,,,,,,
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Pediatric Lung Testing for Ages 6 and Above (Primary Care Alberta, 2024)",,,,,"Alberta pathway; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-peds-lung-testing
+Algorithms and Pathways,,,Alberta's Pathway Hub: Pediatric Lung Testing for Ages 6 and Above,,,,,"Alberta pathway; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-peds-lung-testing
+Assessment Tools and Calculators,,,BC Guidelines - Asthma Patient Care Flow Sheet: Ages 6 to 18,,-,,,,,BC,,bc-gpac-asthma-flowsheet-6-18
+Assessment Tools and Calculators,,,BC Guidelines - Asthma Patient Care Flow Sheet: Under 6,,-,,,,,BC,,bc-gpac-asthma-flowsheet-under6
 Assessment Tools and Calculators,,,MDCalc - Pediatric Respiratory Assessment Measure (PRAM),,,,,severity of an asthma exacerbation in children,,INTL,,cdr-pram
 Assessment Tools and Calculators,,,MDCalc - Modified Asthma Predictive Index (mAPI),,,,,likelihood of later asthma in young children who wheeze,,INTL,,mdcalc-mapi
-Assessment Tools and Calculators,,,"Asthma Patient Care Flow Sheet: Ages 6 to 18 (BC GPAC, PDF)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma-children-flowsheet-6-18.pdf,,,,,,BC,,
-Assessment Tools and Calculators,,,"Asthma Patient Care Flow Sheet: Under 6 (BC GPAC, PDF)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthma-children-flowsheet-under6.pdf,,,,,,BC,,
 Prescribing,,,"Child Health BC: Initial Management of Pediatric Asthma Exacerbations Medication References (effective October 18, 2024, PDF)",https://childhealthbc.ca/asthma/initial_and_ongoing_med_table,,,,,,BC,,
 Advice and Referral,,,RTVS CHARLiE: Child Health Advice in Real-Time Electronically (RCCbc),,,,,"24/7 pediatric advice by Zoom (add the contact `charlie1@rccbc.ca`; it takes no email) or phone (236-305-5352) from pediatricians, pediatric emergency physicians and pediatric intensivists, for physicians, NPs, nurses and midwives in rural, remote and First Nations communities in BC",,BC,yes,rccbc-rtvs-charlie
 Advice and Referral,,,BC Children's Hospital: Respiratory Medicine Referral,,,,,"Asthma Clinic, Pulmonary Function Laboratory and Respiratory Consult Clinic",,BC,yes,bcch-respiratory-referral
 Advice and Referral,,1,"Asthma Program Referral Form (revised June 2022, PDF)",https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/asthma-clinic-referral-form.pdf,,,,,,,,
 Advice and Referral,,,BC Children's Hospital: Asthma Clinical Resources,,,,,,,BC,yes,bcch-asthma-clinical-resources
-Advice and Referral,,,BC Lung Foundation: BC Pediatric Asthma Clinics,,,,,contact details for pediatric asthma clinics across BC,,BC,,bclung-pediatric-asthma-clinics
+Advice and Referral,,,BC Lung Foundation: BC Pediatric Asthma Clinics,,,,,contact details for pediatric asthma clinics across BC,,BC,yes,bclung-pediatric-asthma-clinics
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,"BC Asthma Action Plans (BC GPAC, May 2025):",,,,,,,BC,,
 Patient Resources,,1,Children age 1-5 (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/asthmaactionplanages1-5_english.pdf,,,,,,,,
@@ -34,7 +35,7 @@ Patient Resources,,,BC Children's Hospital: Asthma Patient and Family Resources,
 Patient Resources,,1,My Asthma Diary (PDF),https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/my-asthma-diary.pdf,,,,,,,,
 Patient Resources,,1,Inhaler Dose Tracking Sheet (PDF),https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2024-12/inhaler-dose-tracking-sheet.pdf,,,,,,,,
 Patient Resources,,,Child Health BC: Asthma - What You Should Know (PDF),https://childhealthbc.ca/asthma/should_know_handout,,,,,,BC,,
-Patient Resources,,,TREKK - Asthma and Children: What You Should Know (infographic),,,,,,,CA,,trekk-asthma-parent-infographic
-Patient Resources,,,TREKK - Understanding and Managing Your Child's Asthma (video),,,,,,,CA,,trekk-asthma-parent-video
 Patient Resources,,,HealthLink BC - Asthma in Children,,,,,,,BC,,healthlinkbc-asthma-children
 Patient Resources,,,BC Lung Foundation - Childhood Asthma,,,,,,,BC,,bclung-childhood-asthma
+Patient Resources,,,TREKK - Asthma and Children: What You Should Know (infographic),,,,,,,CA,,trekk-asthma-parent-infographic
+Patient Resources,,,TREKK - Understanding and Managing Your Child's Asthma (video),,,,,,,CA,,trekk-asthma-parent-video
