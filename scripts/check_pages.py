@@ -393,7 +393,7 @@ def check_sheet(path, rel, f, registry=None, by_address=None, condition=False):
         for u in MD_URL.findall(cells.get("links", "")):
             if not URL.match(u):
                 f.add("list-sheet", rel, n, f"links cell has a link that isn't http(s): {u[:60]}")
-        if cells.get("year") and not re.match(r"^\d{4}(\D.*)?$", cells["year"]):
+        if cells.get("year") and cells["year"] != "-" and not re.match(r"^\d{4}(\D.*)?$", cells["year"]):  # "-": no year, on purpose
             f.add("list-sheet", rel, n, f"year should start with a 4-digit year: {cells['year']}")
         is_sub = cells.get("sub", "").lower() in {"yes", "y", "1", "true", "x"}
         if is_sub and first:
@@ -817,7 +817,7 @@ def check_registry(path, rel, f):
             f.add("sources", rel, n, f"{sid}: kind '{cells['kind']}' is not one of {', '.join(sorted(KINDS))}.")
         if cells.get("checked") and as_date(cells["checked"]) is None:
             f.add("sources", rel, n, f"{sid}: checked '{cells['checked']}' is not a YYYY-MM-DD date.")
-        if cells.get("year") and not re.match(r"^\d{4}(\D.*)?$", cells["year"]):
+        if cells.get("year") and cells["year"] != "-" and not re.match(r"^\d{4}(\D.*)?$", cells["year"]):  # "-": no year, on purpose
             f.add("sources", rel, n, f"{sid}: year should start with a 4-digit year: {cells['year']}")
         cells["_line"] = n
         registry[sid] = cells

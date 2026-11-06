@@ -15,7 +15,6 @@ description: "Provincial drug coverage for prescribers: formularies, special aut
      Practice: Forms and Population pages link here. Drug-specific coverage criteria stay on each condition page.
      The old Limited Coverage Drug Program page now redirects to Special Authority (checked 2026-10-27).
      PharmaNet and PRIME enrolment are Practice: Prescribing authority topics. -->
-*How your provincial drug plan covers what you prescribe: formulary search, special authority and exceptional access requests, coverage plans and the programs that set what a prescription costs the patient. Coverage criteria for a specific drug are on its condition page.*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. Special Authority"></div>
 

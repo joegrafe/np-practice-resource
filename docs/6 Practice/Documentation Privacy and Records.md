@@ -4,8 +4,8 @@ type: practice
 tags: [practice, documentation, privacy, confidentiality, records, emr, virtual-care, pipa, fippa]
 jurisdiction: [BC, "ON", CA]
 status: published
-last-reviewed: 2026-10-29
-review-due: 2027-10-29
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 aliases: [PHIPA, CNO documentation, custodian]
 description: "Charting and records for nurse practitioners: the regulator's documentation and privacy standards, records custody in team clinics, provincial privacy law, clinical record requirements, virtual care, and CNPS medico-legal guidance."
@@ -16,7 +16,6 @@ description: "Charting and records for nurse practitioners: the regulator's docu
      appear in the full list on Scope of Practice and Standards.
      Not linked yet: OIPC BC guidance (oipc.bc.ca could not be opened from the build environment on 2026-10-29;
      its privacy toolkit for private practices is written for physicians, 2017). -->
-*Charting, privacy and records for nurse practitioners: the regulator's standards, who holds the record in a team clinic, provincial privacy law, what the clinical record must hold, virtual care, and CNPS medico-legal guidance. Using AI scribes and other AI tools is on [AI Tools](../7%20Tools/4%20AI%20Tools/index.md).*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. custodian"></div>
 

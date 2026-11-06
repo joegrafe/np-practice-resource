@@ -1,4 +1,5 @@
 heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,,md,,*NPPR links published prescribing frameworks rather than writing its own algorithm. The table maps each step of a prescribing decision to the provincial or Canadian source that checks it and the NPPR page that holds it.*,,,,,,,,,
 Key Sources,,,,Therapeutics Initiative - Therapeutics Letter (UBC),,,,,"independent, bimonthly reviews of drug therapy questions, published since 1994; free",,BC,,ti-therapeutics-letter
 Key Sources,,,1,,,,,,,,,,ti-drug-assessments
 Key Sources,,,,WHO - Guide to Good Prescribing: A Practical Manual,,,,,"international; the six-step model of rational prescribing, written for teaching; the record page links the PDF",,INTL,,who-guide-good-prescribing-1994
@@ -17,6 +18,6 @@ Further Resources,Independent Drug Education in BC,,,BC Ministry of Health - Pro
 Further Resources,Independent Drug Education in BC,,,Therapeutics Initiative - Prescribing Portraits,,,,,"a snapshot of your own recent prescribing on a topic, compared with other BC clinicians; open to NPs with an active practice; online registration required",,BC,,ti-prescribing-portraits
 Further Resources,Independent Drug Education in BC,,,RxFiles Academic Detailing (Saskatchewan),,,,,drug comparison charts and academic detailing; the app needs a subscription,,CA,,rxfiles-academic-detailing
 Further Resources,Prescribing Less and Prescribing Safely,,,Choosing Wisely Canada - Medications,,,,,"campaigns, prescriber tools and quality improvement toolkits on medication use, including antibiotics, opioids, sedatives and PPIs",,CA,,cwc-medications
-Further Resources,Prescribing Less and Prescribing Safely,,,ThinkCascades,,,,,"international, Canadian-led; nine clinically important prescribing cascades in older people; Drugs Aging 2022;39(10):829-40",,INTL,,thinkcascades-2022
 Further Resources,Shared Decision-Making,,,"Ottawa Hospital Research Institute - Patient Decision Aids, A to Z inventory",,,,,"decision aids by topic, screened against international standards",,CA,,ohri-patient-decision-aids
+Further Resources,Prescribing Less and Prescribing Safely,,,ThinkCascades,,,,,"international, Canadian-led; nine clinically important prescribing cascades in older people; Drugs Aging 2022;39(10):829-40",,INTL,,thinkcascades-2022
 NP Prescribing Notes,,,,BCCNM - Nurse Practitioners: Prescribing Drugs,,,,,"the standard, limits and conditions for NP prescribing in BC; the full set of prescribing rules is on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md)",,BC,yes,bccnm-np-prescribing-standard

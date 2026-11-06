@@ -1,4 +1,5 @@
 heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,,md,,"*How your provincial drug plan covers what you prescribe: formulary search, special authority and exceptional access requests, coverage plans and the programs that set what a prescription costs the patient. Coverage criteria for a specific drug are on its condition page.*",,,,,,,,,
 Key Sources,,,,BC PharmaCare - PharmaCare Formulary Search,,,,,"whether a drug is covered, under which plans, and whether it needs Special Authority",,BC,yes,bc-pharmacare-formulary-search
 Key Sources,,,,Ontario Drug Benefit - e-Formulary,,,,,"ODB coverage, Limited Use criteria and codes",ODB formulary Ontario,ON,yes,odb-eformulary
 Key Sources,,,1,Formulary edition 43 (October 2026) and summaries of changes,,,,,,,,,odb-formulary-editions
@@ -19,7 +20,7 @@ Coverage Plans,,,,Fair PharmaCare,https://www2.gov.bc.ca/gov/content/health/heal
 Coverage Plans,,,,Ontario Drug Benefit (ODB) program,,,,,"who ODB covers, and the Ontario programs below",ODB eligibility,ON,yes,odb-program
 Coverage Plans,,,,,,,,,high prescription drug costs relative to household income,,ON,yes,ontario-trillium
 Coverage Plans,,,,,,,,,age 24 and under with OHIP and no private drug plan; no enrolment needed,OHIP+,ON,yes,ohip-plus
-Coverage Plans,,,,Seniors Co-Payment Program,https://ontario.ca/seniorscopayment,,,,lower ODB co-payment for seniors with low income,,ON,yes,
+Coverage Plans,,,,Seniors Co-Payment Program,https://www.ontario.ca/page/seniors-ontario-drug-benefit-deductible-and-prescription-co-payment,,,,lower ODB co-payment for seniors with low income,,ON,yes,
 Coverage Plans,,,,Income Assistance and Family Services (Plan C),https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/who-we-cover/plan-c,,,,,,BC,yes,
 Coverage Plans,,,,Psychiatric Medications (Plan G),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/plans/psychiatric-medications-plan-plan-g,,,,,,BC,yes,
 Coverage Plans,,,1,"Application for PharmaCare Plan G, HLTH 3497 (PDF)",https://www2.gov.bc.ca/assets/gov/health/forms/3497fil.pdf,,,,,,,,
@@ -28,10 +29,10 @@ Coverage Plans,,,1,Plan P formulary,https://www2.gov.bc.ca/gov/content/health/pr
 Coverage Plans,,,1,"BC Palliative Care Benefits Program Application, HLTH 349 (PDF)",https://www2.gov.bc.ca/assets/gov/health/forms/349fil.pdf,,,,,,,,
 Coverage Plans,,,,First Nations Health Benefits (Plan W): Information for health professionals,,,,,"PharmaCare plan for First Nations in BC, funded by FNHA",,BC,yes,bc-pharmacare-plan-w-information-for-health-professionals
 Coverage Plans,,,1,FNHA - Pharmacy benefits,,,,,,,,,fnha-pharmacy-benefits
-Coverage Plans,,,,National Pharmacare (Plan NP),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/plans/national-pharmacare-plan-np,,,,"100% coverage of select diabetes medications, menopausal hormone therapy and contraceptives for BC residents enrolled in MSP, since March 1, 2026; federally funded",,BC,yes,
+Coverage Plans,,,,National Pharmacare (Plan NP),,,,,"100% coverage of select diabetes medications, menopausal hormone therapy and contraceptives for BC residents enrolled in MSP, since March 1, 2026; federally funded",,BC,yes,bc-pharmacare-plan-np
 Coverage Plans,,,1,Diabetes medications,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/plans/national-pharmacare-plan-np/plan-np-diabetes-medications,,,,,,,,
 Coverage Plans,,,1,Menopausal hormone therapy,,,,,,,,,bc-pharmacare-plan-np-mht-2026
-Coverage Plans,,,1,Contraceptives: information for health professionals,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/contraceptives,,,,,,,,
+Coverage Plans,,,1,Contraceptives: information for health professionals,,,,,,,,,bc-pharmacare-contraceptives-information-for
 Coverage Plans,,,,Plan Z (Assurance),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/plans/plan-z,,,,,,BC,yes,
 Coverage Plans,,,,,,,,,covered prescription smoking cessation drugs and nicotine replacement therapy,,BC,yes,bc-pharmacare-smoking-cessation
 Coverage Plans,,,,,,,,,coverage for opioid agonist treatment and other substance use disorder drugs,,BC,yes,pharmacare-sud-hub
@@ -53,4 +54,4 @@ Pharmacist Services,,,,,,,,,"since June 1, 2023, pharmacists assess and prescrib
 Patient Resources,,,,PharmaCare information sheets for patients,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/pharmacare/pharmacare-publications/patient-information-sheets,,,,"Fair PharmaCare, Special Authority, contraceptives, smoking cessation and more; the Special Authority pamphlet is in 15 languages",,BC,yes,
 Patient Resources,,,,Drugs that require Special Authority (for patients),https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/what-we-cover/drugs-requiring-pre-approval,,,,,,BC,yes,
 NP Prescribing Notes,,md,,"- NPs can submit Special Authority requests, including by eForm from private community practice. NP prescribing limits and conditions are set by [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx); PharmaNet and PRIME are on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md).",,,,,,,BC,yes,
-NP Prescribing Notes,,md,,"- Ontario NPs submit Exceptional Access Program requests through [SADIE](https://www.ontario.ca/SADIE); ODB pays for drugs on the e-Formulary and, with the Limited Use code, for Limited Use drugs — *[EAP](https://www.ontario.ca/page/exceptional-access-program)*",,,,,,,ON,yes,
+NP Prescribing Notes,,md,,"- Ontario NPs submit Exceptional Access Program requests through [SADIE](https://www.ontario.ca/page/sadie-special-authorization-digital-information-exchange); ODB pays for drugs on the e-Formulary and, with the Limited Use code, for Limited Use drugs — *[EAP](https://www.ontario.ca/page/exceptional-access-program)*",,,,,,,ON,yes,

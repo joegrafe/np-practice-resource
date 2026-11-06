@@ -18,7 +18,6 @@ redirect_from: [prescribing/bugs-and-drugs]  # replaced the Bugs & Drugs page 20
      Not opened from the build container (host not reachable there): dobugsneeddrugs.org, antibioticwise.ca, dropthelabel.ca,
      firstline.org and app.firstline.org (403), choosingwiselycanada.org and mdcalc.com (403; read with a web fetch).
      URLs for those come from the BCCDC stewardship page, AMMI Canada and search results. -->
-*References that apply across infections. For the antibiotic choice for a specific infection, use that condition's page, such as [Urinary Tract Infection (UTI)](../3%20Conditions/Renal%20and%20Genitourinary/Urinary%20Tract%20Infection%20%28UTI%29.md) or [Sexually Transmitted Infections (STI)](../3%20Conditions/Sexual%20and%20Reproductive%20Health/Sexually%20Transmitted%20Infections%20%28STI%29.md).*
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. penicillin allergy"></div>
 
