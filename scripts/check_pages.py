@@ -21,7 +21,11 @@ Checks:
                  has a note), kind and level hold allowed values, links are http(s),
                  every top-level row with a link has a region from docs/regions.csv
                  (or a source whose registry row has one),
-                 an only mark sits on a top-level row that has a region,
+                 an only mark sits on a top-level row that has a region, a row
+                 whose link is a one-region service (BCCNM, RACE, Pathways BC,
+                 BC Laws, CNO, Ontario Health) is marked only, and on a
+                 condition sheet each BC key source is only=yes with an
+                 only=other copy under Further Resources,
                  and every CSV in docs/ is used by a page
   page-body      a page with a list sheet holds no heading or link line of its own
                  (Approaches, About and index pages excepted): the page is its
@@ -97,6 +101,12 @@ LIST_COLUMNS = {"heading", "subheading", "title", "url", "year", "pdf", "links",
                 "keywords", "sub", "kind", "level", "region", "only", "source"}
 LIST_KINDS = {"", "box", "note", "md"}  # condition sheets; blank is a link line
 LIST_LEVELS = {"", "0", "1", "2"}
+# Sites whose pages are for one region alone (a regulator, an advice line, a province's
+# own pathways, law or quality standards): a row linking one must carry an only mark.
+ONE_REGION_HOSTS = {"bccnm.ca": "BC", "raceconnect.ca": "BC", "pathwaysbc.ca": "BC", "bclaws.gov.bc.ca": "BC",
+                    "bclaws.ca": "BC", "cno.org": "ON", "ontariohealth.ca": "ON", "econsultontario.ca": "ON"}
+KEY_SOURCES = "key sources"  # condition sheets: BC key sources are only=yes, copied only=other here:
+FURTHER = "further resources"
 TEAM_SHEET = "About/Team.csv"
 TEAM_COLUMNS = {"id", "name", "credentials", "level", "areas", "setting", "affiliation", "bio",
                 "links", "photo", "coi", "github", "since", "until", "consent"}
@@ -191,6 +201,13 @@ def check_page(path, rel, text, f, source_ids):
     regions = meta.get("regions")
     if regions is not None and (not isinstance(regions, list) or any(r not in JURIS for r in regions)):
         f.add("frontmatter", rel, ln("regions"), "regions must be a list of codes from docs/regions.csv.")
+    region = meta.get("region")  # a page that is one region from top to bottom (province switch wrap-up, 2026-11-06)
+    if region is not None:
+        if region is True or not isinstance(region, str) or region not in JURIS:
+            hint = ' Write "ON" in quotes: YAML reads a bare ON as true.' if region is True else ""
+            f.add("frontmatter", rel, ln("region"), "region must be one code from docs/regions.csv: the page is for that region alone and leaves the menus, section lists and search in other regions' views." + hint)
+        elif isinstance(juris, list) and juris != [region]:
+            f.add("frontmatter", rel, ln("region"), f"A page with region {region} is for that region alone, so its jurisdiction should be [{region}] (it is {juris}).")
     tags = meta.get("tags")
     if tags is not None:
         if not isinstance(tags, list) or not tags:
@@ -255,8 +272,19 @@ def split_marker(spec):
     return " ".join(words)
 
 
-def check_sheet(path, rel, f, registry=None, by_address=None):
+def _host(url):
+    m = re.match(r"^https?://([^/?#]+)", url or "")
+    return m.group(1).lower().removeprefix("www.") if m else ""
+
+
+def _one_region_host(url):
+    host = _host(url)
+    return next((code for site, code in ONE_REGION_HOSTS.items() if host == site or host.endswith("." + site)), "")
+
+
+def check_sheet(path, rel, f, registry=None, by_address=None, condition=False):
     registry, by_address = registry or {}, by_address or {}
+    keys, copies = [], []  # condition sheets: BC key sources and the only=other rows under Further Resources
     try:
         with open(path, encoding="utf-8-sig", newline="") as fh:
             reader = csv.reader(fh)
@@ -330,6 +358,22 @@ def check_sheet(path, rel, f, registry=None, by_address=None):
                 f.add("list-sheet", rel, n, "A row marked only needs a region: it shows for that region alone (or, with other, for every region but its own).")
             elif cells.get("level", "") not in ("", "0") or is_sub:
                 f.add("list-sheet", rel, n, "Mark only on the top-level row: its sub-rows hide with it.")
+        top = cells.get("level", "") in ("", "0") and not is_sub
+        link = next((x for x in (cells.get("url"), cells.get("pdf"), (doc or {}).get("url"), (doc or {}).get("pdf")) if x and x != "-"), "")
+        code = _one_region_host(link) if top and link else ""
+        if code and not only:
+            f.add("list-sheet", rel, n, f"{_host(link)} is a {code}-only service: mark the row only=yes (or only=other for a copy) with region {code}.")
+        if condition and top and link and kind != "note":
+            ident = {source, link.rstrip("/"), (doc or {}).get("url", "").rstrip("/"), (doc or {}).get("pdf", "").rstrip("/")} - {""}
+            if cells.get("heading", "").lower() == KEY_SOURCES and region == "BC":
+                keys.append((n, ident, only))
+            elif cells.get("heading", "").lower() == FURTHER and only == "other":
+                copies.append(ident)
+    for n, ident, only in keys:
+        if only != "yes":
+            f.add("list-sheet", rel, n, "A BC key source on a condition page is only=yes, with a one-line copy at the top of Further Resources marked only=other (Regions in NPPR-FRAMEWORK.md).")
+        elif not any(ident & c for c in copies):
+            f.add("list-sheet", rel, n, "This BC key source has no only=other copy under Further Resources: add one line there (same source id) so other regions' views still list it.")
 
 
 def check_registry(path, rel, f):
@@ -465,7 +509,7 @@ def main():
     args = ap.parse_args()
     docs = pathlib.Path(args.docs)
     load_regions(docs)
-    f, source_ids, used = Findings(), {}, set()
+    f, source_ids, used, condition_sheets = Findings(), {}, set(), set()
     registry_sheet = docs / REGISTRY_SHEET
     registry, by_address = (check_registry(registry_sheet, registry_sheet.as_posix(), f)
                             if registry_sheet.exists() else ({}, {}))
@@ -482,6 +526,8 @@ def main():
                 f.add("list-sheet", rel, line, f"List sheet not found beside the page: {name}", level="error")
             else:
                 used.add(sheet.resolve())
+                if re.search(r"^type:\s*condition\s*$", text, re.M):
+                    condition_sheets.add(sheet.resolve())
     team_sheet = docs / TEAM_SHEET
     team = check_team(team_sheet, team_sheet.as_posix(), docs, f) if team_sheet.exists() else {}
     if team:
@@ -492,7 +538,7 @@ def main():
         if path.resolve() in (regions_sheet.resolve(), registry_sheet.resolve()):
             continue  # the region list and the sources registry, not page sheets
         if path.resolve() != team_sheet.resolve():
-            check_sheet(path, rel, f, registry, by_address)
+            check_sheet(path, rel, f, registry, by_address, condition=path.resolve() in condition_sheets)
         if path.resolve() not in used:
             f.add("list-sheet", rel, 1, "No page has an nppr-list marker for this sheet.")
 

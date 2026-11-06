@@ -30,6 +30,8 @@ The page's documents are rows of `docs/sources.csv` (Sources registry, below), n
 | `tags` | Yes | Lowercase, hyphenated list | First tag is the page type. Add the system, then any population and presenting-symptom tags that apply (see Tags below). |
 | `jurisdiction` | Yes | List of codes from `docs/regions.csv` (`BC`, `CA`, `INTL`, `ON`, `AB` ...) | Every jurisdiction the page's sources cover, provinces first: `[BC, "ON", CA]`. Write `"ON"` in quotes, because YAML reads a bare `ON` as true. |
 | `regions` | No | List of codes from `docs/regions.csv` | The regions whose sources were swept for this page, e.g. `[BC, ON]`, for the province switch. Leave out until a page has been swept for a second region. |
+| `region` | No | One code from `docs/regions.csv` | Only on a page that is one region from top to bottom (Pathways BC Enhanced Care Pathways is `BC`, Ontario Health Quality Standards is `"ON"`): the page leaves the menus, section lists and search in every other region's view, and shows a note when opened there. Its `jurisdiction` is that one code. Most pages carry both regions' rows on one sheet instead (Regions in NPPR-FRAMEWORK.md). |
+| `redirect_from` | No | List of old short addresses (`practice/starting-np-practice-in-bc`) | After a rename, the addresses the page had before, so old links keep working. |
 | `status` | Yes | `draft` · `review` · `published` | `draft` while writing, `review` when ready for a reviewer, `published` after review. |
 | `last-reviewed` | Yes | `YYYY-MM-DD` | The date every source on the page was last checked. |
 | `review-due` | Yes | `YYYY-MM-DD` | Usually `last-reviewed` plus one year. Sooner when a guideline update is expected. |

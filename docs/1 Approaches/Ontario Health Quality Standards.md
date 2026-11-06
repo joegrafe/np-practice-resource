@@ -3,6 +3,7 @@ title: Ontario Health Quality Standards
 type: approach
 tags: [approach]
 jurisdiction: ["ON"]
+region: "ON"
 status: draft
 last-reviewed: 2026-11-05
 review-due: 2027-11-05

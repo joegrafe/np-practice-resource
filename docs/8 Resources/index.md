@@ -29,4 +29,4 @@ Where to look, in this order, for the current source behind an answer when a top
 ## In This Section
 - [Guideline Directories](Guideline%20Directories.md) — *provincial guideline series, the Canadian Task Force, CFPC and specialty-society guideline libraries, then NICE and USPSTF*
 - [Evidence Summaries and Journals](Evidence%20Summaries%20and%20Journals.md) — *PEER, Tools for Practice, Choosing Wisely Canada and CDA-AMC; the BCMJ, CFP and CMAJ; Trip, Cochrane and PubMed*
-- [BC Library Guides](BC%20Library%20Guides.md) — *university library guides for NPs; rebuilt as Libraries and Databases in the next Resources wave*
+- [Library Guides](Library%20Guides.md) — *university library guides for NPs in BC and Ontario; rebuilt as Libraries and Databases in the next Resources wave*
