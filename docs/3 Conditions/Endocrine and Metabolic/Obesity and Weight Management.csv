@@ -1,11 +1,11 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
-Key Sources,box,,"BC Provincial Academic Detailing - Medications for Weight Loss (last updated July 23, 2026)",,,,,"BC Ministry of Health pharmacist-led education on tirzepatide, semaglutide, liraglutide, naltrexone-bupropion and orlistat in adults. There is no BC Guideline on obesity.",,BC,yes,bc-pad-weight-loss-2026
+Key Sources,box,,BC Provincial Academic Detailing - Medications for Weight Loss,,,,,"BC Ministry of Health pharmacist-led education on tirzepatide, semaglutide, liraglutide, naltrexone-bupropion and orlistat in adults. There is no BC Guideline on obesity.",,BC,yes,bc-pad-weight-loss-2026
 Key Sources,,1,"Summary: Update on Semaglutide and Tirzepatide (PDF, Summer 2026)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_semaglutide_tirzepatide_chronic_weight_management_summer_2026_update.pdf,,,,"dose response, timing of effect, effect after stopping",,,,
 Key Sources,,1,"Drug Table: Medications for Weight Loss Marketed in Canada (PDF, July 2025)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2024_medications_for_weight_loss_drug_table_july_2025_update.pdf,,,,"dosing, titration, cost and PharmaCare status for each drug",,,,
 Key Sources,,1,"Reference List (PDF, Summer 2026)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_semaglutide_tirzepatide_chronic_weight_management_reference_list_summer_2026_update.pdf,,,,,,,,
 Key Sources,,1,Book a session: e-mail PAD@gov.bc.ca,,,,,,,,,
 Key Sources,,,Centre for Effective Practice - Pharmacotherapy for Obesity Management,,,,,"Ontario primary care tool: assessment, eligibility, readiness and cost for anti-obesity medication in adults",CEP tool,ON,yes,cep-pharmacotherapy-for-obesity-management-2025
-Key Sources,box,,Obesity Canada - Canadian Adult Obesity Clinical Practice Guideline (2020; pharmacotherapy chapter updated 2025),,,,,With the Canadian Association of Bariatric Physicians and Surgeons. 19 chapters; key primary care chapters below.,,CA,,obesity-canada-adult-cpg
+Key Sources,box,,Obesity Canada - Canadian Adult Obesity Clinical Practice Guideline,,,,,With the Canadian Association of Bariatric Physicians and Surgeons. 19 chapters; key primary care chapters below.,,CA,,obesity-canada-adult-cpg
 Key Sources,,1,"Summary of Recommendations (CMAJ, 2020)",,,,,,,,,obesity-canada-adult-cpg-cmaj-2020
 Key Sources,,1,"Pharmacotherapy for Obesity Management in Adults: 2025 Update (CMAJ, 2025)",,,,,,,,,obesity-canada-pharmacotherapy-2025
 Key Sources,,1,"Pharmacotherapy Decision Tool and Table (PDF, 2025)",https://obesitycanada.ca/wp-content/uploads/2025/08/2025-Obesity-Pharmacotherapy-Decision-Tool-Table-portrait.pdf,,,,one-page drug comparison for choosing a medication,,,,
@@ -16,12 +16,12 @@ Key Sources,,1,"Chapter 8: Medical Nutrition Therapy (PDF, updated 2022)",https:
 Key Sources,,1,"Chapter 12: Bariatric Surgery, Selection and Pre-Operative Work-Up (PDF)",https://obesitycanada.ca/wp-content/uploads/2025/03/12-Canadian-Adult-Obesity-CPG-Bariatric-Surgery-Preoperative-Workup.pdf,,,,,,,,
 Key Sources,,1,"Chapter 14: Bariatric Surgery, Postoperative Management (PDF)",https://obesitycanada.ca/wp-content/uploads/2025/03/14-Canadian-Adult-Obesity-CPG-Bariatric-Surgery-PostOperativeMgmt.pdf,,,,nutrient monitoring and follow-up after surgery,,,,
 Key Sources,box,,International: [AAFP - Management of Obesity: Office-Based Strategies (2024)](https://www.aafp.org/pubs/afp/issues/2024/0800/obesity-management.html),,,,,"International source: American review, not Canadian. American Family Physician 2024;110(2):145-156, free to read. Covers nutrition, physical activity, behavioural counselling, pharmacotherapy and bariatric procedures in the office.",,INTL,,
-Further Resources,,,"BC Provincial Academic Detailing - Medications for Weight Loss (last updated July 23, 2026)",,,,,"BC Ministry of Health pharmacist-led education on tirzepatide, semaglutide, liraglutide, naltrexone-bupropion and orlistat in adults. There is no BC Guideline on obesity.",,BC,other,bc-pad-weight-loss-2026
+Further Resources,,,BC Provincial Academic Detailing - Medications for Weight Loss,,,,,"BC Ministry of Health pharmacist-led education on tirzepatide, semaglutide, liraglutide, naltrexone-bupropion and orlistat in adults. There is no BC Guideline on obesity.",,BC,other,bc-pad-weight-loss-2026
 Further Resources,box,,Obesity Canada - Managing Obesity in Children: A Clinical Practice Guideline,,,,,"Canadian pediatric obesity guideline, the first update in over 20 years: behavioural, psychological, drug and surgical interventions for children and adolescents.",,CA,,obesity-canada-pediatric-cpg-2025
 Further Resources,,1,"Full Guideline (CMAJ, 2025)",https://www.cmaj.ca/content/197/14/E372,,,,,,,,
 Further Resources,,1,"Infographic (PDF, 2025)",https://obesitycanada.ca/wp-content/uploads/2025/07/Obesity-Canada-Pediatric-CPG-Infographic_Final.pdf,,,,,,,,
 Further Resources,,1,5As for Pediatric Obesity Management,https://obesitycanada.ca/healthcare-professionals/5as-pedatrics/,,,,,,,,
-Further Resources,box,,"Diabetes Canada - Weight Management in Diabetes, Chapter 17",,,,,,,CA,,weight-management-in-diabetes
+Further Resources,box,,"Diabetes Canada - Weight Management in Diabetes, Chapter 17",,,,,,,CA,,diabetes-canada-ch17-weight
 Further Resources,note,1,,,,https://www.diabetes.ca/getContentAsset/c6be42ca-8eb3-457b-b311-a2f99f138b65/0f6cf596-933c-4f74-b36a-77091c512445/Ch17-Weight-Management-in-Diabetes.pdf?language=en,,Weight management in people living with diabetes.,,,,
 Further Resources,box,,Canadian Family Physician reviews,,,,,,,,,
 Further Resources,,1,New Drugs for Weight Loss: Why Change in Body Composition Matters and Why Nutrition and Exercise Remain Paramount,,,,,"patient selection, lean mass loss and weight cycling; by a UBC family practice author",,CA,,cfp-new-drugs-weight-loss-2025
@@ -38,17 +38,18 @@ Further Resources,,1,,,,,,editorial,,,,aafp-obesity-pregnancy-2026
 Further Resources,,1,,,,,,,,,,aafp-metabolic-surgery-2022
 Further Resources,,1,,,,,,,,,,aafp-weight-regain-2020
 Algorithms and Pathways,note,0,,,,,,No BC or Alberta pathway for obesity found. The Obesity Canada pharmacotherapy decision tool (2025) is under Key Sources.,,BC,,
-Algorithms and Pathways,,,"University of Calgary Black Book: Weight Gain/Obesity (15th edition, 2022-2023)",,,,,"diagnostic scheme for causes of weight gain, including secondary causes",,CA,,ucalgary-blackbook-weight-gain-obesity
+Algorithms and Pathways,,,University of Calgary Black Book: Weight Gain/Obesity (15th edition),,,,,"diagnostic scheme for causes of weight gain, including secondary causes",,CA,,ucalgary-blackbook-weight-gain-obesity
 Algorithms and Pathways,,,,,,,,pediatric approach note,,CA,,pedscases-childhood-and-adolescent-obesity
 Assessment Tools and Calculators,,,MDCalc: BMI Calculator (Body Mass Index and BSA),,,,,,,INTL,,mdcalc-bmi
 Assessment Tools and Calculators,,,"The Edmonton Obesity Staging System is in Chapter 6 (Assessment) of the Obesity Canada adult guideline, under Key Sources.",,,,,,,,,
 Prescribing,,,,,,,,check current PharmaCare coverage for a weight-management drug,,BC,yes,bc-pharmacare-formulary-search
+Prescribing,,,,,,,,drug comparison chart; needs an RxFiles subscription,,CA,,rxfiles-weight-loss-chart
 Prescribing,box,,Tools for Practice (CFPCLearn) evidence summaries: medications,,,,,,,,,
 Prescribing,,1,"#392 Mission Slimpossible, Part 3: Tirzepatide for weight loss",,,,,,,CA,,tfp-392-tirzepatide
 Prescribing,,1,#372 Mission Slimpossible Part 2: Oral GLP-1 agonists for weight loss,,,,,,,CA,,tfp-372-oral-glp1
 Prescribing,,1,#314 Weight to Go: Naltrexone/bupropion for weight loss,,,,,,,CA,,tfp-314-naltrexone-bupropion
 Prescribing,,1,#295 Mission Slimpossible: Semaglutide for weight loss,,,,,,,CA,,tfp-295-semaglutide
-Prescribing,,,"Medication Management and Pharmacokinetic Changes After Bariatric Surgery (Canadian Family Physician, 2020)",,,,,adjusting chronic medications after gastric bypass or sleeve gastrectomy,,CA,,cfp-medications-after-bariatric-surgery-2020
+Prescribing,,,Medication Management and Pharmacokinetic Changes After Bariatric Surgery,,,,,adjusting chronic medications after gastric bypass or sleeve gastrectomy,,CA,,cfp-medications-after-bariatric-surgery-2020
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,HealthLink BC 8-1-1: Registered Dietitians and Exercise Professionals,,,,,free nutrition and physical activity advice by phone,,BC,yes,healthlinkbc-811-dietitian
@@ -66,10 +67,10 @@ Patient Resources,box,,Weight bias and body image,,,,,Weight-inclusive and body 
 Patient Resources,,1,Obesity Canada - Understand Weight Bias,,,,,"recognising weight bias and stigma, including internalised bias",,CA,,obesity-canada-weight-bias-patients
 Patient Resources,,1,"HeretoHelp - Body Image, Self-Esteem, and Mental Health",,,,,BC Partners for Mental Health and Substance Use Information infosheet,,BC,,heretohelp-body-image
 Patient Resources,,1,HeretoHelp - Online Screening: Body Image and Eating Attitudes,,,,,anonymous self-screen; results can be saved to share with a provider,,BC,,heretohelp-body-image-screen
-Patient Resources,,1,Kelty Mental Health - Body Image and Eating Disorders (BC Children's Hospital),,,,[Body Image Struggles](https://keltymentalhealth.ca/body-image-struggles),for youth and families in BC,,BC,,kelty-body-image
+Patient Resources,,1,Kelty Mental Health - Body Image and Eating Disorders (BC Children's Hospital),,,,[Body Image Struggles](https://keltymentalhealth.ca/body-image-struggles),for youth and families,,BC,,kelty-body-image
 Patient Resources,,1,NEDIC - National Eating Disorder Information Centre,,,,[Help for Yourself](https://nedic.ca/help-for-yourself/),"body image, food and weight preoccupation, and a national helpline and live chat",,CA,,nedic
 Patient Resources,,1,International: ASDAH - Health at Every Size (HAES) Principles,,,,,"American source, not Canadian. A weight-neutral approach to health",,INTL,,asdah
 Patient Resources,box,,Eating and moving well at any size,,,,,,,,,
-Patient Resources,,1,Health Canada - Canada's Food Guide (last modified 2026),,,,[Food Guide Snapshot](https://www.canada.ca/en/health-canada/services/food-guide/explore/snapshot.html),,,CA,,canada-food-guide
+Patient Resources,,1,Health Canada - Canada's Food Guide,,,,[Food Guide Snapshot](https://www.canada.ca/en/health-canada/services/food-guide/explore/snapshot.html),,,CA,,canada-food-guide
 Patient Resources,,1,Canadian 24-Hour Movement Guidelines (CSEP),,,,,"physical activity, sedentary time and sleep, by age group",,CA,,csep-24-hour-movement
 Patient Resources,,2,Adults 18-64,https://csepguidelines.ca/guidelines/adults-18-64/,,,[Adults 65+](https://csepguidelines.ca/guidelines/adults-65/) · [Children and Youth 5-17](https://csepguidelines.ca/guidelines/children-youth/),,,CA,,

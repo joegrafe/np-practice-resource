@@ -1,6 +1,6 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
 Key Sources,note,0,,,,,,Hypertension in pregnancy and in children: see [Pregnancy and Perinatal](../../4%20Populations/Pregnancy%20and%20Perinatal.md) and [Pediatrics](../../4%20Populations/Pediatrics/Pediatrics.md) under Populations.,,,,
-Key Sources,box,,BC Guidelines - Hypertension - Diagnosis and Management (2020; web page published 2024),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension,,,,,,BC,yes,
+Key Sources,box,,BC Guidelines - Hypertension - Diagnosis and Management,,,,,,,BC,yes,bc-gpac-htn
 Key Sources,,1,Key Recommendations,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#recommendations,,,,,,,,
 Key Sources,,1,Definition,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#definition,,,,,,,,
 Key Sources,,1,Classification,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#classification,,,,,,,,
@@ -11,7 +11,7 @@ Key Sources,,1,Ongoing Care,https://www2.gov.bc.ca/gov/content/health/practition
 Key Sources,,1,Controversies in Care,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#controversies,,,,,,,,
 Key Sources,,1,Resources,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Resources,,,,,,,,
 Key Sources,,1,Appendices,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices,,,,,,,,
-Key Sources,,1,Full Guideline (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-full-guideline.pdf,,,,,,,,
+Key Sources,,1,Full Guideline (PDF),,,,,,,,,bc-gpac-htn
 Key Sources,,1,Summary of Guideline (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-summary.pdf,,,,,,,,
 Key Sources,box,,Hypertension Canada Guideline for the Diagnosis and Treatment of Hypertension in Adults in Primary Care,,,,,CMAJ 2025;197(20):E549-64. Written for adults in primary care; not for children or pregnancy.,,CA,,hypertension-canada-guidelines
 Key Sources,,1,Recommendations,https://hypertension.ca/guidelines/recommendations,,,,,,,,
@@ -21,7 +21,7 @@ Key Sources,,1,Implementation,https://hypertension.ca/guidelines/implementation/
 Key Sources,,1,"Full Guideline (PDF, CMAJ)",https://www.cmaj.ca/content/cmaj/197/20/E549.full.pdf,,,,,,,,
 Key Sources,,1,"Appendix 2: Responses to Frequent Questions (PDF, CMAJ)",https://www.cmaj.ca/content/cmaj/suppl/2025/05/23/197.20.E549.DC1/241770-guide-at-2.pdf,,,,,,,,
 Key Sources,,1,Primary Care Guideline Slide Decks,https://hypertension.ca/primary-care-guideline-slide-decks,,,,,,,,
-Further Resources,,,BC Guidelines - Hypertension - Diagnosis and Management (2020; web page published 2024),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension,,,,,,BC,other,
+Further Resources,,,BC Guidelines - Hypertension - Diagnosis and Management,,,,,,,BC,other,bc-gpac-htn
 Further Resources,box,,Ontario Health quality standard - Hypertension: Care in the Community for Adults,,,-,,"Ontario quality standard for hypertension care in the community, with a clinician placemat and patient guide",quality standard,ON,yes,ontario-health-hypertension-qs-2024
 Further Resources,,1,"Quality Standard (PDF, February 2024)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-hypertension-en.pdf,,,,,,,,
 Further Resources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-hypertension-placemat-en.pdf,,,,,,,,
@@ -39,49 +39,49 @@ Further Resources,,1,#163 How low can the potassium and sodium go with commonly 
 Further Resources,box,,"International: [AAFP - Blood Pressure Targets in Adults With Hypertension: A Clinical Practice Guideline (2022, PDF)](https://www.aafp.org/assets/image/upload/v1746727631/aafphypertensionguideline_iex5pr.pdf)",,,,,"AAFP, free to read. Labelled international.",,INTL,,
 Further Resources,,1,American Family Physician - Primary Aldosteronism,,,,,,,,,afp-primary-aldosteronism-2023
 Further Resources,,1,AAFP - Hypertension: Clinical Guidance and Practice Resources,https://www.aafp.org/clinical-insights/cardiometabolic-health/hypertension,,,,,,,,
-Algorithms and Pathways,,,"BC Guidelines: Appendix A - Diagnosis and Management of Hypertension Algorithm (BC GPAC, 2020)",,,,,,,BC,,bc-gpac-htn-algorithm
-Algorithms and Pathways,,,"Hypertension Canada Clinician Pocket Card: Diagnostic Algorithm (March 18, 2026)",,,,,,,CA,,htn-canada-clinician-pocket-card
+Algorithms and Pathways,,,BC Guidelines: Appendix A - Diagnosis and Management of Hypertension Algorithm,,,,,,,BC,,bc-gpac-htn-algorithm
+Algorithms and Pathways,,,Hypertension Canada Clinician Pocket Card: Diagnostic Algorithm,,,,,,,CA,,htn-canada-clinician-pocket-card
 Algorithms and Pathways,,,Canadian Task Force: Hypertension Clinician Algorithm,,,,,screening,,CA,,ctfphc-hypertension-algorithm
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Hypertension Refractory to Treatment with 4 or More Antihypertensive Agents (Primary Care Alberta, 2026)",,,,,"Alberta nephrology referral guideline last updated September 11, 2026; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-refractory-htn
-Assessment Tools and Calculators,,,"BC Guidelines: Appendix B - Recommended Methods and Techniques for Measuring Blood Pressure (BC GPAC, 2020)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/hypertension#Appendices,,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/htn-appendix-b.pdf,,,,BC,,
-Assessment Tools and Calculators,,,"Hypertension Canada: Blood Pressure Measurement Poster (Feb 19, 2026)",https://hypertension.ca/download-educational-resources#:~:text=Blood%20Pressure%20Measurement%20Poster,,https://hypertension.ca/wp-content/uploads/2026/06/4.-Poster_Blood-pressure-measurement-poster-Feb-19-2026.pdf,,,,CA,,
+Algorithms and Pathways,,,Alberta's Pathway Hub: Hypertension Refractory to Treatment with 4 or More Antihypertensive Agents,,,,,"Alberta nephrology referral guideline last updated September 11, 2026; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-refractory-htn
+Assessment Tools and Calculators,,,BC Guidelines: Appendix B - Recommended Methods and Techniques for Measuring Blood Pressure,,,,,,,BC,,bc-gpac-htn-measurement
+Assessment Tools and Calculators,,,BC Guidelines: Appendix C - Examples of Secondary Causes of Hypertension,,,,,,,BC,,bc-gpac-htn-secondary-causes
+Assessment Tools and Calculators,,,BC Guidelines: CVD Primary Prevention Appendix B - Framingham 10-year Risk Estimation,,,,,,,BC,,bc-gpac-cvd-framingham
+Assessment Tools and Calculators,,,BC Guidelines: Appendix E - Hypertension Quality Indicators,,,,,,,BC,,bc-gpac-htn-quality-indicators
+Assessment Tools and Calculators,,,Hypertension Canada: Blood Pressure Measurement Poster,,,,,,,CA,,htn-canada-measurement-poster
 Assessment Tools and Calculators,,,Hypertension Canada: Recommended Devices,,,,,validated blood pressure monitors,,CA,,htn-canada-recommended-devices
-Assessment Tools and Calculators,,,"BC Guidelines: Appendix C - Examples of Secondary Causes of Hypertension (BC GPAC, 2020)",,,,,,,BC,,bc-gpac-htn-secondary-causes
-Assessment Tools and Calculators,,,"BC Guidelines: CVD Primary Prevention Appendix B - Framingham 10-year Risk Estimation (BC GPAC, 2021)",https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cardiovascular-disease,,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/gpac_cardiovasculardisease_appendixb_dec2021.pdf,,,,BC,,
 Assessment Tools and Calculators,,,MDCalc - Framingham Risk Score for Hard Coronary Heart Disease,,,,,,,INTL,,mdcalc-framingham-hard-chd
 Assessment Tools and Calculators,,,,,,,,,,INTL,,mdcalc-ckd-epi
 Assessment Tools and Calculators,,,EyeGuru - Hypertensive Retinopathy,,,,,,,INTL,,eyeguru-hypertensive-retinopathy
-Assessment Tools and Calculators,,,"BC Guidelines: Appendix E - Hypertension Quality Indicators (BC GPAC, 2020)",,,,,,,BC,,bc-gpac-htn-quality-indicators
-Prescribing,,,"BC Guidelines: Appendix D - Commonly Used Antihypertensive Drugs (BC GPAC, 2020)",,,,,,,BC,,bc-gpac-htn-drugs
-Prescribing,,,,,,,,"hypertension charts (overview, ACE inhibitors and ARBs, beta-blockers, CCBs, diuretics) need an RxFiles subscription",,CA,,rxfiles-charts
-Prescribing,,,Choosing Wisely Canada - Nephrology Recommendations (last updated November 2025),,,,,includes NSAIDs in hypertension and ACE inhibitor plus ARB combinations,,CA,,choosing-wisely-nephrology
-Prescribing,,,"PharmaCare Reference Drug Program (last updated July 27, 2026)",,,,,"ACE inhibitors, ARBs and dihydropyridine CCBs",,BC,yes,bc-pharmacare-rdp
+Prescribing,,,BC Guidelines: Appendix D - Commonly Used Antihypertensive Drugs,,,,,,,BC,,bc-gpac-htn-drugs
+Prescribing,,,PharmaCare Reference Drug Program,,,,,"ACE inhibitors, ARBs and dihydropyridine CCBs",,BC,yes,bc-pharmacare-rdp
 Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
 Prescribing,,1,"Criteria, ACE inhibitors:",,,,,,,,,
-Prescribing,,2,"Benazepril (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-benazepril
-Prescribing,,2,"Enalapril (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-enalapril
-Prescribing,,2,"Fosinopril (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-fosinopril
-Prescribing,,2,"Lisinopril (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-lisinopril
-Prescribing,,2,"Perindopril (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-perindopril
+Prescribing,,2,Benazepril,,,,,,,,,bc-pharmacare-lcd-benazepril
+Prescribing,,2,Enalapril,,,,,,,,,bc-pharmacare-lcd-enalapril
+Prescribing,,2,Fosinopril,,,,,,,,,bc-pharmacare-lcd-fosinopril
+Prescribing,,2,Lisinopril,,,,,,,,,bc-pharmacare-lcd-lisinopril
+Prescribing,,2,Perindopril,,,,,,,,,bc-pharmacare-lcd-perindopril
 Prescribing,,1,"Criteria, ARBs:",,,,,,,,,
-Prescribing,,2,"Candesartan (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-candesartan
-Prescribing,,2,"Irbesartan (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-irbesartan
-Prescribing,,2,"Losartan (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-losartan
-Prescribing,,2,"Olmesartan (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-olmesartan
-Prescribing,,2,"Telmisartan (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-telmisartan
-Prescribing,,2,"Valsartan (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-valsartan
+Prescribing,,2,Candesartan,,,,,,,,,bc-pharmacare-lcd-candesartan
+Prescribing,,2,Irbesartan,,,,,,,,,bc-pharmacare-lcd-irbesartan
+Prescribing,,2,Losartan,,,,,,,,,bc-pharmacare-lcd-losartan
+Prescribing,,2,Olmesartan,,,,,,,,,bc-pharmacare-lcd-olmesartan
+Prescribing,,2,Telmisartan,,,,,,,,,bc-pharmacare-lcd-telmisartan
+Prescribing,,2,Valsartan,,,,,,,,,bc-pharmacare-lcd-valsartan
 Prescribing,,1,"Criteria, dihydropyridine CCBs:",,,,,,,,,
-Prescribing,,2,"Nifedipine (last updated July 27, 2026)",,,,,,,,,bc-pharmacare-lcd-nifedipine
-Prescribing,,1,"PharmaCare Special Authority Request: ARBs - RDP Program (HLTH 5492, rev. 2025/07/03)",https://www2.gov.bc.ca/assets/gov/health/forms/5492fil.pdf,,,,,,,,
-Prescribing,,1,"PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)",https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,the form the ACE inhibitor and nifedipine criteria pages link to,,,,
+Prescribing,,2,Nifedipine,,,,,,,,,bc-pharmacare-lcd-nifedipine
+Prescribing,,1,PharmaCare Special Authority Request: ARBs - RDP Program (HLTH 5492),https://www2.gov.bc.ca/assets/gov/health/forms/5492fil.pdf,2025,,,,,,,
+Prescribing,,1,PharmaCare Special Authority Request (HLTH 5328),https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,2019,,,the form the ACE inhibitor and nifedipine criteria pages link to,,,,
+Prescribing,,,,,,,,"hypertension charts (overview, ACE inhibitors and ARBs, beta-blockers, CCBs, diuretics) need an RxFiles subscription",,CA,,rxfiles-charts
+Prescribing,,,Choosing Wisely Canada - Nephrology Recommendations,,,,,includes NSAIDs in hypertension and ACE inhibitor plus ARB combinations,,CA,,choosing-wisely-nephrology
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
-Patient Resources,,,"BC Guidelines: A Guide for Patients - Diagnosis and Management of Hypertension (BC GPAC, 2020)",,,,,,,BC,,bc-gpac-htn-patient-guide
+Patient Resources,,,BC Guidelines: A Guide for Patients - Diagnosis and Management of Hypertension,,,,,,,BC,,bc-gpac-htn-patient-guide
 Patient Resources,,,HealthLink BC - High Blood Pressure,,,,,,,BC,,healthlinkbc-high-blood-pressure
 Patient Resources,,,HealthLink BC - High Blood Pressure: Checking Your Blood Pressure at Home,,,,,,,BC,,healthlinkbc-bp-at-home
-Patient Resources,,,"HealthLinkBC File: Healthy Eating to Lower High Blood Pressure (last updated June 3, 2026)",,,,,,,BC,,healthlinkbc-file-healthy-eating-bp
+Patient Resources,,,HealthLinkBC File: Healthy Eating to Lower High Blood Pressure,,,,,,,BC,,healthlinkbc-file-healthy-eating-bp
 Patient Resources,,,HealthLink BC - High Blood Pressure: Using the DASH Diet,,,,,,,BC,,healthlinkbc-dash-diet
 Patient Resources,,,Hypertension Canada - Patient/Public Guideline,,,,,,,CA,,htn-canada-public-guideline
 Patient Resources,,,Hypertension Canada - Checking Your Blood Pressure and Keeping It Healthy (pocket card),,,,,,,CA,,htn-canada-public-pocket-card

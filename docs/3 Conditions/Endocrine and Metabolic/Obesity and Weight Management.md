@@ -8,9 +8,10 @@ jurisdiction:
   - "ON"
   - CA
   - INTL
+aliases: [obesity, overweight, weight management, weight loss, BMI, body mass index, GLP-1, semaglutide, Ozempic, Wegovy, tirzepatide, Mounjaro, Zepbound, liraglutide, Saxenda, naltrexone-bupropion, Contrave, orlistat, bariatric surgery, Edmonton Obesity Staging System, 5As]
 status: published
-last-reviewed: 2026-10-28
-review-due: 2027-10-28
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 ---
 <!-- New page, built 2026-10-28.

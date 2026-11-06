@@ -1,4 +1,5 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,md,,"*For children and youth, including Child Health BC, the Canadian Paediatric Society, TREKK, PRAM, BC Children's Hospital referral and the pediatric action plans, see [Pediatric Asthma](../../4%20Populations/Pediatrics/Pediatric%20Asthma.md).*",,,,,,,,,
 Key Sources,box,,"BC Guidelines - Asthma Diagnosis, Education and Management",,,-,,,,BC,yes,bc-gpac-asthma
 Key Sources,,1,Key Recommendations,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#KeyRecommendations,,,,,,,,
 Key Sources,,1,Diagnosis,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#Diagnosis,,,,,,,,
@@ -20,30 +21,30 @@ Further Resources,box,,Ontario Health quality standard - Asthma: Care in the Com
 Further Resources,,1,"Quality Standard (PDF, June 2025)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-asthma-in-children-and-adolescents-quality-standard-2025-en.pdf,,,,,,,,
 Further Resources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-asthma-in-children-and-adolescents-placemat-2025-en.pdf,,,,,,,,
 Further Resources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-asthma-in-children-and-adolescents-patient-guide-2025-en.pdf,,,,,,,,
-Further Resources,box,,"CTS Guideline for the Management of Severe Asthma in Children, Adolescents and Adults (Sept 2026)",,,,,"Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Listed as current in the CTS Guideline Library.",,INTL,,cts-severe-asthma-2026
+Further Resources,box,,"CTS Guideline for the Management of Severe Asthma in Children, Adolescents and Adults",,,,,"Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Listed as current in the CTS Guideline Library.",,INTL,,cts-severe-asthma-2026
 Further Resources,box,,Tools for Practice (CFPCLearn) evidence summaries,,,,,,,,,
 Further Resources,,1,#411 Bronchodilator with Benefits? Budesonide-formoterol rescue inhaler for asthma,,,,,,,CA,,tfp-411-budesonide-formoterol-rescue
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Lung Testing for Ages 6 and Above (Primary Care Alberta, 2024)",,,,,"Alberta clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024); choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-lung-testing
+Algorithms and Pathways,,,Alberta's Pathway Hub: Lung Testing for Ages 6 and Above,,,,,"Alberta clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024); choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-lung-testing
+Assessment Tools and Calculators,,,BC Inhalers (Fraser Health),,,,,"inhaler guide for asthma and COPD: filter by PharmaCare coverage without Special Authority, carbon footprint and age, with device instructions",,BC,,bcinhalers
+Assessment Tools and Calculators,,,BC Guidelines: Asthma Appendix A - Getting Ready for Spirometry,,,,,,,BC,,bc-gpac-asthma-spirometry
+Assessment Tools and Calculators,,,Asthma Patient Care Flow Sheet: Adults 19 and Over (BC GPAC),,,,,,,BC,,bc-gpac-asthma-flowsheet-adult
 Assessment Tools and Calculators,,,MDCalc - Estimated/Expected Peak Expiratory Flow (Peak Flow),,,,,"predicted peak flow by age, sex and height",,INTL,,mdcalc-peak-flow
 Assessment Tools and Calculators,,,MDCalc - Asthma Impairment and Risk Questionnaire (AIRQ),,,,,asthma control and exacerbation risk,,INTL,,mdcalc-airq
-Assessment Tools and Calculators,,,BC Inhalers (Fraser Health),,,,,"inhaler guide for asthma and COPD: filter by PharmaCare coverage without Special Authority, carbon footprint and age, with device instructions",,BC,,bcinhalers
-Assessment Tools and Calculators,,,"BC Guidelines: Asthma Appendix A - Getting Ready for Spirometry (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-asthma-spirometry
-Assessment Tools and Calculators,,,Asthma Patient Care Flow Sheet: Adults 19 and Over (BC GPAC),,,,,,,BC,,bc-gpac-asthma-flowsheet-adult
-Prescribing,,,"BC Guidelines: Asthma Appendix C - Asthma Medication Table (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-asthma-medications
-Prescribing,,,"BC Guidelines: Asthma Appendix B - Supporting Patients with Poor Medication Adherence (BC GPAC, 2023)",,,,,,,BC,,bc-gpac-asthma-adherence
+Prescribing,,,BC Guidelines: Asthma Appendix C - Asthma Medication Table,,,,,,,BC,,bc-gpac-asthma-medications
+Prescribing,,,BC Guidelines: Asthma Appendix B - Supporting Patients with Poor Medication Adherence,,,,,,,BC,,bc-gpac-asthma-adherence
 Prescribing,,,,,,,,"drug comparison chart, mild asthma comparison, devices and inhaler-specific action plans; some documents need an RxFiles subscription",,CA,,rxfiles-asthma
 Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
 Prescribing,,1,Criteria for ICS-LABA inhalers:,,,,,,,,,
-Prescribing,,2,"Budesonide-formoterol (last updated April 21, 2026)",,,,,,,,,bc-pharmacare-lcd-budesonide-formoterol
-Prescribing,,2,"Fluticasone propionate-salmeterol (last updated March 17, 2025)",,,,,,,,,bc-pharmacare-lcd-fluticasone-salmeterol
-Prescribing,,2,"Fluticasone furoate-vilanterol (last updated March 17, 2025)",,,,,,,,,bc-pharmacare-lcd-fluticasone-vilanterol
-Prescribing,,2,"Mometasone-formoterol (last updated March 19, 2025)",,,,,,,,,bc-pharmacare-lcd-mometasone-formoterol
-Prescribing,,1,"PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)",https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,,,,,
-Prescribing,,1,"PharmaCare Special Authority Drug List, Criteria and Forms (last updated September 24, 2026)",,,,,"includes the asthma biologics, which are requested by specialists",,,,bc-pharmacare-sa-drug-list
+Prescribing,,2,Budesonide-formoterol,,,,,,,,,bc-pharmacare-lcd-budesonide-formoterol
+Prescribing,,2,Fluticasone propionate-salmeterol,,,,,,,,,bc-pharmacare-lcd-fluticasone-salmeterol
+Prescribing,,2,Fluticasone furoate-vilanterol,,,,,,,,,bc-pharmacare-lcd-fluticasone-vilanterol
+Prescribing,,2,Mometasone-formoterol,,,,,,,,,bc-pharmacare-lcd-mometasone-formoterol
+Prescribing,,1,PharmaCare Special Authority Request (HLTH 5328),https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,2019,,,,,,,
+Prescribing,,1,"PharmaCare Special Authority Drug List, Criteria and Forms",,,,,"includes the asthma biologics, which are requested by specialists",,,,bc-pharmacare-sa-drug-list
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
-Advice and Referral,,,BC Guidelines: Indications for Referral,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#referral,,,,,,BC,,
-Advice and Referral,,,BC Guidelines: Practitioner and Patient Resources,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#ppresources,,,,,,BC,,
+Advice and Referral,,,BC Guidelines: Indications for Referral,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#referral,2023,,,,,BC,,
+Advice and Referral,,,BC Guidelines: Practitioner and Patient Resources,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/asthma#ppresources,2023,,,,,BC,,
 Advice and Referral,,,Centre for Lung Health: Asthma (Vancouver General Hospital),,,,,"asthma clinic and airways education, including difficult-to-treat and severe asthma (formerly The Lung Centre)",,BC,,clh-asthma
 Advice and Referral,,1,"Regional Respirology Referral Form (VCH/PHC, version 2021 Dec 1, PDF)",https://centreforlunghealth.ca/wp-content/uploads/2023/02/Regional_Respiratory_Referral.pdf,,,,,,,,
 Advice and Referral,,,WorkSafeBC: Asthma,,,,,work-related asthma,,BC,yes,worksafebc-asthma

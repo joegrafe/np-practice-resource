@@ -1,7 +1,7 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
-Key Sources,box,,"ESE, ESICM and ERBP - Clinical Practice Guideline on Diagnosis and Treatment of Hyponatraemia",,,,,"International source: European guidance, not Canadian; Eur J Endocrinol 170(3), free to read",hyponatremia guideline,INTL,,ese-hyponatraemia-2014
 Key Sources,box,,CMAJ - Management of Hyponatremia,,,,,"Lee JJ, Kilonzo K, Nistico A, Yeates K. CMAJ 186(8); review",review,CA,,cmaj-hyponatremia-2014
 Key Sources,,1,Full Article (PDF),https://www.cmaj.ca/content/cmaj/186/8/E281.full.pdf,,,,,,,,
+Key Sources,box,,"ESE, ESICM and ERBP - Clinical Practice Guideline on Diagnosis and Treatment of Hyponatraemia",,,,,"International source: European guidance, not Canadian; Eur J Endocrinol 170(3), free to read",hyponatremia guideline,INTL,,ese-hyponatraemia-2014
 Further Resources,,,McGill Journal of Medicine - An Approach to Hyponatremia,,,,,Schachter K. McGill J Med 19(2); approach article,approach,CA,,mjm-hyponatremia-2021
 Further Resources,box,,UCalgary Black Book - Sodium schemes,,,,,diagnostic schemes,,,,
 Further Resources,,1,,,,,,,,CA,,hyponatremia
@@ -11,7 +11,7 @@ Further Resources,,1,Update: Diagnosis and Management of Sodium Disorders,https:
 Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for sodium disorders found on 2026-10-30.,,BC,,
 Assessment Tools and Calculators,,,MDCalc: Sodium Correction for Hyperglycemia,,,,,,corrected sodium glucose,INTL,,mdcalc-sodium-correction
 Assessment Tools and Calculators,,,MDCalc: Free Water Deficit,,,,,hypernatremia,,INTL,,mdcalc-free-water-deficit
-Prescribing,,,Canadian Family Physician - Electrolyte Disturbance with Diuretics and ACEIs,,,,,Can Fam Physician 62(7); drug-induced sodium and potassium changes,thiazide diuretics,CA,,cfp-diuretics-acei-electrolytes-2016
+Prescribing,,,Canadian Family Physician - Electrolyte Disturbance with Diuretics and ACEIs,,,,,Can Fam Physician 62(7); drug-induced sodium and potassium changes; RxFiles has no chart for sodium disorders (rxfiles.ca checked 2026-11-06),thiazide diuretics,CA,,cfp-diuretics-acei-electrolytes-2016
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",nephrology,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Hyponatremia,,,,,,,BC,,healthlinkbc-hyponatremia

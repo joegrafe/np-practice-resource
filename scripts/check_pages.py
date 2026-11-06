@@ -53,7 +53,8 @@ Checks:
                  exists, the sheet row's url "-" records that and the rule leaves it
   year           a guideline, algorithm or pathway row with no year, or a year in
                  brackets in its title
-  rxfiles        a condition page with no rxfiles.ca row in Prescribing (check that
+  rxfiles        a condition page with no rxfiles.ca row in Prescribing, and no Prescribing note
+                 recording that RxFiles has nothing for the condition (check that
                  RxFiles has a resource for it)
   aafp-first     on condition and population pages, an international row before an
                  AAFP row in the same section
@@ -181,7 +182,7 @@ DATED_TITLE = re.compile(r"\b(guidelines?|algorithm|pathway|standards?|recommend
 MD_KEEP_HEADING = re.compile(r"^(how to do it|contacts|np prescribing notes|where to check)")  # md rows the Page standard keeps
 MD_KEEP_CELL = re.compile(r"^\s*(\d+\.|[-*]\s|\|)")  # a numbered step, a list line or a table
 INTRO_LINE = re.compile(r"^\s*(?:\*|_)[^*_].*(?:\*|_)\s*$")  # *an italic intro line*
-PAGE_TEXT = re.compile(r"^\s*(?:<div\b[^>]*>\s*</div>|<p\b[^>]*>.*?</p>|<!--.*)?\s*$")  # lines that aren't page text
+PAGE_TEXT = re.compile(r"^\s*(?:<div\b[^>]*>\s*</div>|<p\b[^>]*>.*?</p>|<!--.*|-{3,})?\s*$")  # lines that aren't page text (a --- rule included)
 CHECKED_MAX_AGE = 365  # days a registry row's checked date may be old
 SITE_SUBDIR = "nppr-website-config"  # the config checkout beside this repository
 HOME = "index.md"  # the home page (docs/index.md) carries only a title, by design
@@ -529,6 +530,8 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
                 f.add("md-links", rel, n, ("This md row links a registry document (" + hit + "): make it a linked row with that source id."
                                            if hit else "This md row has an external link: a document belongs in a linked row with a registry id; a contact line or an NPPR page can stay md."))
             continue
+        if hl == "prescribing" and "rxfiles" in note.lower():
+            rx_in_prescribing = True  # a note that records what RxFiles has (or that it has nothing)
         if kind == "note" or not link:
             continue
 

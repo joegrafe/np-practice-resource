@@ -1,5 +1,5 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
-Key Sources,box,,"BC Guidelines - Chronic Obstructive Pulmonary Disease (COPD): Diagnosis and Management (2024, revised 2025)",,,-,,,,BC,yes,bc-gpac-copd
+Key Sources,box,,BC Guidelines - Chronic Obstructive Pulmonary Disease (COPD): Diagnosis and Management,,,-,,,,BC,yes,bc-gpac-copd
 Key Sources,,1,Key Recommendations,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#KeyRecommendations,,,,,,,,
 Key Sources,,1,Diagnosis,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#diagnosis,,,,,,,,
 Key Sources,,1,Management,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#management,,,,,,,,
@@ -10,43 +10,43 @@ Key Sources,,,Centre for Effective Practice - Chronic Obstructive Pulmonary Dise
 Key Sources,box,,,,,-,,"Canadian Journal of Respiratory, Critical Care, and Sleep Medicine.",,INTL,,cts-copd-pharmacotherapy-2023
 Key Sources,,1,"Full Guideline (PDF, CTS)",https://cts-sct.ca/wp-content/uploads/2023/09/2023-CTS-COPD-Pharmacotherapy-Guideline-1.pdf,,,,,,CA,,
 Key Sources,,1,CTS Guideline Library,,,,,,,CA,,canadian-thoracic-society-guideline-library
-Further Resources,,,"BC Guidelines - Chronic Obstructive Pulmonary Disease (COPD): Diagnosis and Management (2024, revised 2025)",,,,,,,BC,other,bc-gpac-copd
+Further Resources,,,BC Guidelines - Chronic Obstructive Pulmonary Disease (COPD): Diagnosis and Management,,,,,,,BC,other,bc-gpac-copd
 Further Resources,box,,Ontario Health quality standard - Chronic Obstructive Pulmonary Disease (COPD): Care in the Community for Adults,,,-,,"Ontario quality standard for COPD care in the community, with a clinician placemat and patient guide",quality standard,ON,yes,ontario-health-chronic-obstructive-pulmonary-disease-qs-2023
 Further Resources,,1,"Quality Standard (PDF, October 2023)",https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-chronic-obstructive-pulmonary-disease-quality-standard-2023-en.pdf,,,,,,,,
 Further Resources,,1,Placemat (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-chronic-obstructive-pulmonary-disease-placemat-en.pdf,,,,,,,,
 Further Resources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-chronic-obstructive-pulmonary-disease-patient-guide-2023-en.pdf,,,,,,,,
 Further Resources,box,,CTS Guideline: Alpha-1-Antitrypsin Deficiency Targeted Testing and Augmentation Therapy,,,,,"Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Listed as current in the CTS Guideline Library.",,INTL,,cts-alpha1-2025
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Chronic Obstructive Pulmonary Disease (COPD) (Primary Care Alberta, 2025)",https://www.primarycarealberta.ca/pathways/424/clinical,,,,"Alberta referral guideline last updated May 1, 2025; choose ""All"" when the hub asks for an area",,AB,,
-Algorithms and Pathways,,,"Alberta's Pathway Hub: Lung Testing for Ages 6 and Above (Primary Care Alberta, 2024)",,,,,"clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024)",,AB,,ab-pathway-hub-lung-testing
+Algorithms and Pathways,,,Alberta's Pathway Hub: Chronic Obstructive Pulmonary Disease (COPD),,,,,"Alberta referral guideline last updated May 1, 2025; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-copd
+Algorithms and Pathways,,,Alberta's Pathway Hub: Lung Testing for Ages 6 and Above,,,,,"clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024)",,AB,,ab-pathway-hub-lung-testing
+Assessment Tools and Calculators,,,BC Guidelines: COPD Appendix A - COPD Severity Assessment Scales,,,,,,,BC,,bc-gpac-copd-severity-scales
+Assessment Tools and Calculators,,,COPD Patient Care Flow Sheet (HLTH 6003),,,,,,,BC,,bc-gpac-copd-flowsheet
+Assessment Tools and Calculators,,,BC Guidelines: COPD Appendix C - BC Home Oxygen Program Medical Eligibility,,,,,,,BC,,bc-gpac-copd-home-oxygen
+Assessment Tools and Calculators,,,BC Inhalers (Fraser Health),,,,,"inhaler guide for asthma and COPD: filter by PharmaCare coverage without Special Authority, carbon footprint and age, with device instructions",,BC,,bcinhalers
 Assessment Tools and Calculators,,,MDCalc - COPD Assessment Test (CAT),,,,,symptom burden,,INTL,,mdcalc-cat
 Assessment Tools and Calculators,,,MDCalc - mMRC Dyspnea Scale,,,,,breathlessness grade,,INTL,,mdcalc-mmrc
 Assessment Tools and Calculators,,,MDCalc - BODE Index for COPD Survival,,,,,prognosis,,INTL,,mdcalc-bode
-Assessment Tools and Calculators,,,"BC Guidelines: COPD Appendix A - COPD Severity Assessment Scales (BC GPAC, 2024)",,,,,,,BC,,bc-gpac-copd-severity-scales
-Assessment Tools and Calculators,,,"COPD Patient Care Flow Sheet (HLTH 6003, rev. 2024/01/15)",,,,,,,BC,,bc-gpac-copd-flowsheet
-Assessment Tools and Calculators,,,"BC Guidelines: COPD Appendix C - BC Home Oxygen Program Medical Eligibility (BC GPAC, 2024)",,,,,,,BC,,bc-gpac-copd-home-oxygen
-Assessment Tools and Calculators,,,BC Inhalers (Fraser Health),,,,,"inhaler guide for asthma and COPD: filter by PharmaCare coverage without Special Authority, carbon footprint and age, with device instructions",,BC,,bcinhalers
-Prescribing,,,"BC Guidelines: COPD Appendix B - COPD Medication Table (BC GPAC, 2024)",,,,,,,BC,,bc-gpac-copd-medications
-Prescribing,,,"PharmaCare Smoking Cessation Program: Information for Health Professionals (last updated September 9, 2026)",,,,,,,BC,yes,bc-pharmacare-smoking-cessation
+Prescribing,,,BC Guidelines: COPD Appendix B - COPD Medication Table,,,,,,,BC,,bc-gpac-copd-medications
+Prescribing,,,PharmaCare Smoking Cessation Program: Information for Health Professionals,,,,,,,BC,yes,bc-pharmacare-smoking-cessation
 Prescribing,,,,,,,,"drug comparison chart, newsletter and inhaler technique tools; some documents need an RxFiles subscription",,CA,,rxfiles-copd
 Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
 Prescribing,,1,Criteria for COPD inhalers:,,,,,,,,,
-Prescribing,,2,"Aclidinium (last updated April 21, 2026)",,,,,,,,,bc-pharmacare-lcd-aclidinium
-Prescribing,,2,"Glycopyrronium (last updated March 18, 2025)",,,,,,,,,bc-pharmacare-lcd-glycopyrronium
-Prescribing,,2,"Aclidinium-formoterol (last updated April 21, 2026)",,,,,,,,,bc-pharmacare-lcd-aclidinium-formoterol
-Prescribing,,2,"Glycopyrronium-indacaterol (last updated March 18, 2025)",,,,,,,,,bc-pharmacare-lcd-glycopyrronium-indacaterol
-Prescribing,,2,"Tiotropium-olodaterol (last updated March 24, 2025)",,,,,,,,,bc-pharmacare-lcd-tiotropium-olodaterol
-Prescribing,,2,"Umeclidinium-vilanterol (last updated March 24, 2025)",,,,,,,,,bc-pharmacare-lcd-umeclidinium-vilanterol
-Prescribing,,2,"Budesonide-glycopyrronium-formoterol (last updated April 21, 2026)",,,,,,,,,bc-pharmacare-lcd-budesonide-glycopyrronium-formoterol
-Prescribing,,2,"Fluticasone furoate-umeclidinium-vilanterol (last updated March 17, 2025)",,,,,,,,,bc-pharmacare-lcd-fluticasone-umeclidinium-vilanterol
-Prescribing,,2,"Fluticasone propionate-salmeterol (last updated March 17, 2025)",,,,,,,,,bc-pharmacare-lcd-fluticasone-salmeterol
-Prescribing,,2,"Fluticasone furoate-vilanterol (last updated March 17, 2025)",,,,,,,,,bc-pharmacare-lcd-fluticasone-vilanterol
-Prescribing,,2,"Salmeterol (last updated March 21, 2025)",,,,,,,,,bc-pharmacare-lcd-salmeterol
-Prescribing,,1,"PharmaCare Special Authority Request: Inhalers for COPD (HLTH 5362, rev. 2025/05/05)",https://www2.gov.bc.ca/assets/gov/health/forms/5362fil.pdf,,,,,,,,
+Prescribing,,2,Aclidinium,,,,,,,,,bc-pharmacare-lcd-aclidinium
+Prescribing,,2,Glycopyrronium,,,,,,,,,bc-pharmacare-lcd-glycopyrronium
+Prescribing,,2,Aclidinium-formoterol,,,,,,,,,bc-pharmacare-lcd-aclidinium-formoterol
+Prescribing,,2,Glycopyrronium-indacaterol,,,,,,,,,bc-pharmacare-lcd-glycopyrronium-indacaterol
+Prescribing,,2,Tiotropium-olodaterol,,,,,,,,,bc-pharmacare-lcd-tiotropium-olodaterol
+Prescribing,,2,Umeclidinium-vilanterol,,,,,,,,,bc-pharmacare-lcd-umeclidinium-vilanterol
+Prescribing,,2,Budesonide-glycopyrronium-formoterol,,,,,,,,,bc-pharmacare-lcd-budesonide-glycopyrronium-formoterol
+Prescribing,,2,Fluticasone furoate-umeclidinium-vilanterol,,,,,,,,,bc-pharmacare-lcd-fluticasone-umeclidinium-vilanterol
+Prescribing,,2,Fluticasone propionate-salmeterol,,,,,,,,,bc-pharmacare-lcd-fluticasone-salmeterol
+Prescribing,,2,Fluticasone furoate-vilanterol,,,,,,,,,bc-pharmacare-lcd-fluticasone-vilanterol
+Prescribing,,2,Salmeterol,,,,,,,,,bc-pharmacare-lcd-salmeterol
+Prescribing,,1,PharmaCare Special Authority Request: Inhalers for COPD (HLTH 5362),https://www2.gov.bc.ca/assets/gov/health/forms/5362fil.pdf,2025,,,,,,,
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
-Advice and Referral,,,BC Guidelines: Indications for Referral,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#indications,,,,,,BC,,
-Advice and Referral,,,"Regional Respirology Referral Form (VCH/PHC, version 2021 Dec 1)",,,,,includes the COPD clinic at the Centre for Lung Health,,BC,,regional-respirology-referral-form
-Advice and Referral,,,BC Lung Foundation: Exercise Support and Pulmonary Rehab Programs in BC,,,,,,,BC,,bclung-copd-exercise-support
+Advice and Referral,,,BC Guidelines: Indications for Referral,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#indications,2025,,,,,BC,,
+Advice and Referral,,,Regional Respirology Referral Form (VCH/PHC),,,,,includes the COPD clinic at the Centre for Lung Health,,BC,,regional-respirology-referral-form
+Advice and Referral,,,BC Lung Foundation: Exercise Support and Pulmonary Rehab Programs in BC,,,,,,,BC,yes,bclung-copd-exercise-support
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,COPD Flare-Up Action Plan (BC GPAC),,,,,,,BC,,bc-gpac-copd-flare-up-action-plan

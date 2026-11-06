@@ -1,8 +1,8 @@
 heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
 Key Sources,box,,BC Medical Journal - Managing Hyperkalemia in the Outpatient Setting,,,,,"Yi TW, Wong MMY, Picard K, Renouf D, Levin A (BC Renal). BCMJ 67(3); review: causes, lab and sampling factors, medications, diet and outpatient management",outpatient hyperkalemia,BC,yes,bcmj-hyperkalemia-2025
+Key Sources,box,,AAFP - Potassium Disorders: Hypokalemia and Hyperkalemia,,,,,"International source: US guidance, not Canadian.",,INTL,,aafp-potassium-2023
 Key Sources,box,,KDIGO - Potassium Homeostasis and Management of Dyskalemia in Kidney Diseases: Controversies Conference Report,,,,,"International source: global guidance, not Canadian; Kidney Int 97(1)",KDIGO dyskalemia,INTL,,kdigo-potassium-2020
 Key Sources,,1,Full Report (PDF),https://kdigo.org/wp-content/uploads/2018/04/KDIGO-Potassium-Management-Final-publication.pdf,,,,,,,,
-Key Sources,box,,AAFP - Potassium Disorders: Hypokalemia and Hyperkalemia,,,,,"International source: US guidance, not Canadian.",,INTL,,aafp-potassium-2023
 Further Resources,,,BC Medical Journal - Managing Hyperkalemia in the Outpatient Setting,,,,,"Yi TW, Wong MMY, Picard K, Renouf D, Levin A (BC Renal). BCMJ 67(3); review: causes, lab and sampling factors, medications, diet and outpatient management",outpatient hyperkalemia,BC,other,bcmj-hyperkalemia-2025
 Further Resources,,,CMAJ - Prevention and Management of Hyperkalemia in Patients Treated with Renin-Angiotensin-Aldosterone System Inhibitors,,,,,"CMAJ 193(48); ACE inhibitors, ARBs and MRAs",RAAS ACE inhibitor ARB spironolactone,CA,,cmaj-hyperkalemia-raasi-2021
 Further Resources,,,McGill Journal of Medicine - Approach to Hyperkalemia,,,,,Najjar C. McGill J Med 20(2); approach article,approach,CA,,mjm-hyperkalemia-2022
@@ -18,4 +18,4 @@ Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telepho
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Hyperkalemia,,,,[Hypokalemia](https://www.healthlinkbc.ca/healthwise/hypokalemia),,,BC,,healthlinkbc-hyperkalemia
 Patient Resources,,,HealthLink BC - High-Potassium Foods,https://www.healthlinkbc.ca/healthwise/high-potassium-foods,,,,,diet,BC,,
-Patient Resources,,,BC Renal - Potassium Management in Kidney Disease (PDF),https://www.bcrenal.ca/resource-gallery/Documents/Potassium_Management_in_Kidney_Disease.pdf,,,,diet handout for people with kidney disease,low potassium diet,BC,,
+Patient Resources,,,BC Renal - Potassium Management in Kidney Disease,,,,,diet handout for people with kidney disease,low potassium diet,BC,,bcrenal-potassium-diet
