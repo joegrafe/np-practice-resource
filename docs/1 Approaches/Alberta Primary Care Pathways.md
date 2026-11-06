@@ -2,7 +2,8 @@
 title: Alberta Primary Care Pathways
 type: approach
 tags: [approach]
-jurisdiction: [CA]
+jurisdiction: [AB]
+aliases: [Alberta Pathway Hub, Pathway Hub, Primary Care Alberta, Alberta pathways, Alberta clinical pathways, Specialist Link, Calgary pathways]
 status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10

@@ -3,6 +3,7 @@ title: "McGill Journal of Medicine: Approach To"
 type: approach
 tags: [approach]
 jurisdiction: [CA]
+aliases: [McGill, McGill Journal of Medicine, MJM, McGill approach to, approach to articles]
 status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10

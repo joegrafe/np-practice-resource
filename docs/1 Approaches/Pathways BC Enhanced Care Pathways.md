@@ -4,9 +4,10 @@ type: approach
 tags: [approach]
 jurisdiction: [BC]
 region: BC
+aliases: [Pathways BC, Pathways, pathwaysbc.ca, enhanced care pathways, care pathways, Shared Care pathways, Divisions of Family Practice pathways]
 status: published
-last-reviewed: 2026-10-29
-review-due: 2027-10-29
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 description: "Pathways BC Enhanced Care Pathways for primary care: all 53, listed by body system with their year."
 logo: "/assets/logos/pathways.svg"

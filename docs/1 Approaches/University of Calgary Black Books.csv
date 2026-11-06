@@ -1,11 +1,11 @@
 heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Cardiovascular,Abnormal rhythm (1),https://blackbook.ucalgary.ca/schemes/cardiovascular/abnormal-rhythm-1/,,,,,,CA,
 ,Cardiovascular,Abnormal rhythm (2),https://blackbook.ucalgary.ca/schemes/cardiovascular/abnormal-rhythm-2/,,,,,,CA,
-,Cardiovascular,,,,,,,,CA,chest-discomfort-cardiovascular
-,Cardiovascular,,,,,,,,CA,chest-discomfort-other
-,Cardiovascular,,,,,,,,CA,chest-discomfort-pulmonary-mediastinal
-,Cardiovascular,,,,,,,,CA,chest-pain-cardiac-non-cardiac
-,Cardiovascular,,,,,,,,CA,chest-pain-life-threatening-non-life-threatening
+,Cardiovascular,,,,,,,,CA,blackbook-chest-discomfort-cardiovascular
+,Cardiovascular,,,,,,,,CA,blackbook-chest-discomfort-other
+,Cardiovascular,,,,,,,,CA,blackbook-chest-discomfort-pulmonary-mediastinal
+,Cardiovascular,,,,,,,,CA,blackbook-chest-pain-cardiac-non-cardiac
+,Cardiovascular,,,,,,,,CA,blackbook-chest-pain-life-threatening-non-life-threatening
 ,Cardiovascular,Diastolic murmur,https://blackbook.ucalgary.ca/schemes/cardiovascular/diastolic-murmur/,,,,,,CA,
 ,Cardiovascular,Hypertension,https://blackbook.ucalgary.ca/schemes/cardiovascular/hypertension/,,,,,,CA,
 ,Cardiovascular,Hypertension in pregnancy,https://blackbook.ucalgary.ca/schemes/cardiovascular/hypertension-in-pregnancy/,,,,,,CA,
@@ -47,18 +47,18 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Endocrine and Metabolic,Hirsutism,https://blackbook.ucalgary.ca/schemes/endocrinology/hirsutism/,,,,,,CA,
 ,Endocrine and Metabolic,Hirsutism & virilization: androgen excess,https://blackbook.ucalgary.ca/schemes/endocrinology/hirsutism-virilization-androgen-excess/,,,,,,CA,
 ,Endocrine and Metabolic,Hirsutism & virilization: hypertrichosis,https://blackbook.ucalgary.ca/schemes/endocrinology/hirsutism-virilization-hypertrichosis/,,,,,,CA,
-,Endocrine and Metabolic,,,,,,,,CA,hypercalcemia-low-pth
-,Endocrine and Metabolic,,,,,,,,CA,hypercalcemia-normal-high-pth
+,Endocrine and Metabolic,,,,,,,,CA,blackbook-hypercalcemia-low-pth
+,Endocrine and Metabolic,,,,,,,,CA,blackbook-hypercalcemia-normal-high-pth
 ,Endocrine and Metabolic,Hyperglycemia,https://blackbook.ucalgary.ca/schemes/endocrinology/hyperglycemia/,,,,,,CA,
 ,Endocrine and Metabolic,Hyperphosphatemia,https://blackbook.ucalgary.ca/schemes/endocrinology/hyperphosphatemia/,,,,,,CA,
-,Endocrine and Metabolic,Hyperthyroidism,https://blackbook.ucalgary.ca/schemes/endocrinology/hyperthyroidism/,,,,,,CA,
+,Endocrine and Metabolic,Hyperthyroidism,,,,,,,CA,ucalgary-blackbook-hyperthyroidism
 ,Endocrine and Metabolic,Hyperuricemia,https://blackbook.ucalgary.ca/schemes/endocrinology/hyperuricemia/,,,,,,CA,
-,Endocrine and Metabolic,,,,,,,,CA,hypocalcemia-high-phosphate
-,Endocrine and Metabolic,,,,,,,,CA,hypocalcemia-high-low-pth
-,Endocrine and Metabolic,,,,,,,,CA,hypocalcemia-low-phosphate
+,Endocrine and Metabolic,,,,,,,,CA,blackbook-hypocalcemia-high-phosphate
+,Endocrine and Metabolic,,,,,,,,CA,blackbook-hypocalcemia-high-low-pth
+,Endocrine and Metabolic,,,,,,,,CA,blackbook-hypocalcemia-low-phosphate
 ,Endocrine and Metabolic,Hypoglycemia,https://blackbook.ucalgary.ca/schemes/endocrinology/hypoglycemia/,,,,,,CA,
 ,Endocrine and Metabolic,Hypophosphatemia,https://blackbook.ucalgary.ca/schemes/endocrinology/hypophosphatemia/,,,,,,CA,
-,Endocrine and Metabolic,Hypothyroidism,https://blackbook.ucalgary.ca/schemes/endocrinology/hypothyroidism/,,,,,,CA,
+,Endocrine and Metabolic,Hypothyroidism,,,,,,,CA,ucalgary-blackbook-hypothyroidism
 ,Endocrine and Metabolic,Male sexual dysfunction,https://blackbook.ucalgary.ca/schemes/endocrinology/male-sexual-dysfunction/,,,,,,CA,
 ,Endocrine and Metabolic,Sellar/pituitary mass,https://blackbook.ucalgary.ca/schemes/endocrinology/sellar-pituitary-mass/,,,,,,CA,
 ,Endocrine and Metabolic,Sellar/pituitary mass: size,https://blackbook.ucalgary.ca/schemes/endocrinology/sellar-pituitary-mass-size/,,,,,,CA,
@@ -70,12 +70,12 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Renal,Dysuria,https://blackbook.ucalgary.ca/schemes/renal/dysuria/,,,,,,CA,
 ,Renal,Generalized edema,https://blackbook.ucalgary.ca/schemes/renal/generalized-edema/,,,,,,CA,
 ,Renal,Hematuria,https://blackbook.ucalgary.ca/schemes/renal/hematuria/,,,,,,CA,
-,Renal,,,,,,,,CA,hyperkalemia-intracellular-shift
-,Renal,,,,,,,,CA,hyperkalemia-reduced-excretion
-,Renal,,,,,,,,CA,hypernatremia
+,Renal,,,,,,,,CA,blackbook-hyperkalemia-intracellular-shift
+,Renal,,,,,,,,CA,blackbook-hyperkalemia-reduced-excretion
+,Renal,,,,,,,,CA,blackbook-hypernatremia
 ,Renal,Hypertension,https://blackbook.ucalgary.ca/schemes/renal/hypertension-2/,,,,,,CA,
-,Renal,,,,,,,,CA,hypokalemia
-,Renal,,,,,,,,CA,hyponatremia
+,Renal,,,,,,,,CA,blackbook-hypokalemia
+,Renal,,,,,,,,CA,blackbook-hyponatremia
 ,Renal,Increased urinary frequency,https://blackbook.ucalgary.ca/schemes/renal/increased-urinary-frequency/,,,,,,CA,
 ,Renal,Metabolic acidosis: elevated anion gap,https://blackbook.ucalgary.ca/schemes/renal/metabolic-acidosis-elevated-anion-gap/,,,,,,CA,
 ,Renal,Metabolic acidosis: normal anion gap,https://blackbook.ucalgary.ca/schemes/renal/metabolic-acidosis-normal-anion-gap/,,,,,,CA,
@@ -122,22 +122,22 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Musculoskeletal,Bone lesion,https://blackbook.ucalgary.ca/schemes/musculoskeletal/bone-lesion/,,,,,,CA,
 ,Musculoskeletal,Chronic joint pain,https://blackbook.ucalgary.ca/schemes/musculoskeletal/chronic-joint-pain/,,,,,,CA,
 ,Musculoskeletal,Deformity/limp,https://blackbook.ucalgary.ca/schemes/musculoskeletal/deformity-limp/,,,,,,CA,
-,Musculoskeletal,,,,,,,,CA,fracture-healing
+,Musculoskeletal,,,,,,,,CA,blackbook-fracture-healing
 ,Musculoskeletal,Guide to spinal cord injury,https://blackbook.ucalgary.ca/schemes/musculoskeletal/guide-to-spinal-cord-injury/,,,,,,CA,
 ,Musculoskeletal,Infectious joint pain,https://blackbook.ucalgary.ca/schemes/musculoskeletal/infectious-joint-pain/,,,,,,CA,
 ,Musculoskeletal,Inflammatory joint pain,https://blackbook.ucalgary.ca/schemes/musculoskeletal/inflammatory-joint-pain/,,,,,,CA,
 ,Musculoskeletal,Myotomes: segmental innervation of muscles,https://blackbook.ucalgary.ca/schemes/musculoskeletal/myotomes-segmental-innervation-of-muscles/,,,,,,CA,
 ,Musculoskeletal,Osteoporosis- BMD testing,https://blackbook.ucalgary.ca/schemes/musculoskeletal/osteoporosis-bmd-testing/,,,,,,CA,
 ,Musculoskeletal,Pathologic fractures,https://blackbook.ucalgary.ca/schemes/musculoskeletal/pathologic-fractures/,,,,,,CA,
-,Musculoskeletal,,,,,,,,CA,soft-tissue
+,Musculoskeletal,,,,,,,,CA,blackbook-soft-tissue
 ,Musculoskeletal,Tumour,https://blackbook.ucalgary.ca/schemes/musculoskeletal/tumour/,,,,,,CA,
 ,Musculoskeletal,Vascular joint pain,https://blackbook.ucalgary.ca/schemes/musculoskeletal/vascular-joint-pain/,,,,,,CA,
 ,Neurologic,Altered level of consciousness: approach,https://blackbook.ucalgary.ca/schemes/neurologic/altered-level-of-consciousness-approach/,,,,,,CA,
 ,Neurologic,Altered level of consciousness: GCS ≤ 7,https://blackbook.ucalgary.ca/schemes/neurologic/altered-level-of-consciousness-gcs-%e2%89%a4-7/,,,,,,CA,
 ,Neurologic,Aphasia: fluent,https://blackbook.ucalgary.ca/schemes/neurologic/aphasia-fluent/,,,,,,CA,
 ,Neurologic,Aphasia: non-fluent,https://blackbook.ucalgary.ca/schemes/neurologic/aphasia-non-fluent/,,,,,,CA,
-,Neurologic,,,,,,,,CA,back-pain
-,Neurologic,,,,,,,,CA,cognitive-impairment
+,Neurologic,,,,,,,,CA,blackbook-back-pain
+,Neurologic,,,,,,,,CA,blackbook-cognitive-impairment
 ,Neurologic,Dizziness: dizziness,https://blackbook.ucalgary.ca/schemes/neurologic/dizziness-dizziness/,,,,,,CA,
 ,Neurologic,Dizziness: vertigo,https://blackbook.ucalgary.ca/schemes/neurologic/dizziness-vertigo/,,,,,,CA,
 ,Neurologic,Dysarthria,https://blackbook.ucalgary.ca/schemes/neurologic/dysarthria/,,,,,,CA,
@@ -200,7 +200,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Dermatologic,Dermatoses in pregnancy: specific skin conditions,https://blackbook.ucalgary.ca/schemes/dermatologic/dermatoses-in-pregnancy-specific-skin-conditions/,,,,,,CA,
 ,Dermatologic,Disorders of pigmentation: hyperpigmentation,https://blackbook.ucalgary.ca/schemes/dermatologic/disorders-of-pigmentation-hyperpigmentation/,,,,,,CA,
 ,Dermatologic,Disorders of pigmentation: hypopigmentation,https://blackbook.ucalgary.ca/schemes/dermatologic/disorders-of-pigmentation-hypopigmentation/,,,,,,CA,
-,Dermatologic,Genital lesion,https://blackbook.ucalgary.ca/schemes/dermatologic/genital-lesion/,,,,,,CA,
+,Dermatologic,Genital lesion,,,,,,,CA,ucalgary-blackbook-genital-lesion
 ,Dermatologic,Hair loss (alopecia): diffuse,https://blackbook.ucalgary.ca/schemes/dermatologic/hair-loss-alopecia-diffuse/,,,,,,CA,
 ,Dermatologic,Hair loss (alopecia): localized,https://blackbook.ucalgary.ca/schemes/dermatologic/hair-loss-alopecia-localized/,,,,,,CA,
 ,Dermatologic,Morphology of skin lesions: primary skin lesions,https://blackbook.ucalgary.ca/schemes/dermatologic/morphology-of-skin-lesions-primary-skin-lesions/,,,,,,CA,
@@ -217,7 +217,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Dermatologic,Skin rash: reactive,https://blackbook.ucalgary.ca/schemes/dermatologic/skin-rash-reactive/,,,,,,CA,
 ,Dermatologic,Skin rash: vesiculobullous,https://blackbook.ucalgary.ca/schemes/dermatologic/skin-rash-vesiculobullous/,,,,,,CA,
 ,Dermatologic,Skin ulcer by etiology,https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-etiology/,,,,,,CA,
-,Dermatologic,Skin ulcer by location: genitals,https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-location-genitals/,,,,,,CA,
+,Dermatologic,Skin ulcer by location: genitals,,,,,,,CA,ucalgary-blackbook-genital-ulcer
 ,Dermatologic,Skin ulcer by location: head and neck,https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-location-head-and-neck/,,,,,,CA,
 ,Dermatologic,Skin ulcer by location: lower legs / feet,https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-location-lower-legs-feet/,,,,,,CA,
 ,Dermatologic,Skin ulcer by location: oral ulcers,https://blackbook.ucalgary.ca/schemes/dermatologic/skin-ulcer-by-location-oral-ulcers/,,,,,,CA,
@@ -246,7 +246,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Otolaryngologic,Tinnitus: objective,https://blackbook.ucalgary.ca/schemes/otolaryngologic/tinnitus-objective/,,,,,,CA,
 ,Otolaryngologic,Tinnitus: subjective,https://blackbook.ucalgary.ca/schemes/otolaryngologic/tinnitus-subjective/,,,,,,CA,
 ,Obstetrical and Gynecological,Abnormal genital bleeding,https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/abnormal-genital-bleeding/,,,,,,CA,
-,Obstetrical and Gynecological,Acute pelvic pain,https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/acute-pelvic-pain/,,,,,,CA,
+,Obstetrical and Gynecological,Acute pelvic pain,,,,,,,CA,ucalgary-blackbook-acute-pelvic-pain
 ,Obstetrical and Gynecological,Amenorrhea: primary,https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/amenorrhea-primary/,,,,,,CA,
 ,Obstetrical and Gynecological,Amenorrhea: secondary,https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/amenorrhea-secondary/,,,,,,CA,
 ,Obstetrical and Gynecological,Antenatal care,https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/antenatal-care/,,,,,,CA,
@@ -267,7 +267,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Obstetrical and Gynecological,Post-partum fever,https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/post-partum-fever/,,,,,,CA,
 ,Obstetrical and Gynecological,Post-partum hemorrhage,https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/post-partum-hemorrhage/,,,,,,CA,
 ,Obstetrical and Gynecological,Recurrent pregnancy loss,https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/recurrent-pregnancy-loss/,,,,,,CA,
-,Obstetrical and Gynecological,Vaginal discharge,https://blackbook.ucalgary.ca/schemes/obstetrical-gynecological/vaginal-discharge/,,,,,,CA,
+,Obstetrical and Gynecological,Vaginal discharge,,,,,,,CA,ucalgary-blackbook-vaginal-discharge
 ,Pediatric,Abdominal mass,https://blackbook.ucalgary.ca/schemes/pediatric/abdominal-mass-2/,,,,,,CA,
 ,Pediatric,Acute abdominal pain,https://blackbook.ucalgary.ca/schemes/pediatric/acute-abdominal-pain/,,,,,,CA,
 ,Pediatric,Acute renal failure,https://blackbook.ucalgary.ca/schemes/pediatric/acute-renal-failure/,,,,,,CA,
@@ -319,7 +319,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Pediatric,,,,,,,,CA,blackbook-pediatric-diarrhea
 ,Pediatric,Pediatric dyspnea,https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-dyspnea/,,,,,,CA,
 ,Pediatric,Pediatric epilepsies,https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-epilepsies/,,,,,,CA,
-,Pediatric,,,,,,,,CA,pediatric-fractures
+,Pediatric,,,,,,,,CA,blackbook-pediatric-fractures
 ,Pediatric,Pediatric infectious skin rash,https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-infectious-skin-rash/,,,,,,CA,
 ,Pediatric,Pediatric mood and anxiety disorders,https://blackbook.ucalgary.ca/schemes/pediatric/mood-or-anxiety-disorder/,,,,,,CA,
 ,Pediatric,Pediatric seizures,https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-seizure-provoked/,,,,,,CA,
@@ -335,7 +335,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Pediatric,Rash (vesiculobullous),https://blackbook.ucalgary.ca/schemes/pediatric/rash-vesiculobullous/,,,,,,CA,
 ,Pediatric,Respiratory distress in the newborn,https://blackbook.ucalgary.ca/schemes/pediatric/respiratory-distress-in-the-newborn/,,,,,,CA,
 ,Pediatric,Respiratory distress in the newborn: tachypnea,https://blackbook.ucalgary.ca/schemes/pediatric/respiratory-distress-in-the-newborn-tachypnea/,,,,,,CA,
-,Pediatric,,,,,,,,CA,salter-harris-physeal-injury-classification-system
+,Pediatric,,,,,,,,CA,blackbook-salter-harris-physeal-injury-classification-system
 ,Pediatric,School difficulties,https://blackbook.ucalgary.ca/schemes/pediatric/school-difficulties/,,,,,,CA,
 ,Pediatric,Scrotal mass,https://blackbook.ucalgary.ca/schemes/pediatric/scrotal-mass-2/,,,,,,CA,
 ,Pediatric,Shock,https://blackbook.ucalgary.ca/schemes/pediatric/shock-2/,,,,,,CA,

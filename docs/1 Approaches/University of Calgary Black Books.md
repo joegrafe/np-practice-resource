@@ -3,6 +3,7 @@ title: University of Calgary Black Books
 type: approach
 tags: [approach]
 jurisdiction: [CA]
+aliases: [Black Book, Blackbook, Black Books, UCalgary Black Book, University of Calgary, diagnostic schemes, clinical presentation schemes, Calgary schemes]
 status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
