@@ -38,8 +38,8 @@ Checks:
                  frontmatter plus its sheet (a warning)
   Audit rules (warnings; the compliance audit of 2026-11-05 clears them by section,
   and each moves out of WARN_ONLY once every page passes it):
-  region-order   within a section, a top-level row ranked below the row before it
-                 (provinces and territories, then CA, then US, then INTL); only=other
+  region-order   within a section (or its subheading), a top-level row ranked below the
+                 row before it (provinces and territories, then CA, then US, then INTL); only=other
                  copies and the Ontario rows that follow their BC mirrors are skipped
   intro-in-page  a sheet-backed page whose intro line (or other text) is still in the
                  Markdown instead of the sheet's first row
@@ -499,8 +499,9 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
         hl = heading.lower()
         if heading and (not headings or headings[-1][1] != hl):
             headings.append((n, hl, heading))
-        if hl != section:
-            section, last_rank, last_row = hl, None, None
+        group = (hl, (cells.get("subheading") or "").strip().lower())
+        if group != section:  # a subheading starts its own list on the page
+            section, last_rank, last_row = group, None, None
         kind = cells.get("kind", "").lower()
         source = cells.get("source", "")
         doc = registry.get(source, {})
@@ -514,7 +515,7 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
         note = cells.get("note", "")
 
         # bc-wording: a row worded for one region that isn't marked only=yes
-        if REGION_WORDING.search(title + " " + note) and top_only not in {"yes", "y", "1", "true", "x"} and kind != "md":
+        if REGION_WORDING.search((title + " " if top else "") + note) and top_only not in {"yes", "y", "1", "true", "x"} and kind != "md":  # a sub-row's title is the document's own
             f.add("bc-wording", rel, n, "Worded for one region (\"in BC\", \"in Ontario\"): mark the row only=yes with its region, or reword it so it reads anywhere.")
         # md-links: prose rows with an external link
         if only != "other" and region:
@@ -568,7 +569,7 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
                  or doc.get("kind") == "algorithm" or DATED_TITLE.search(title)) and ptype != "resource"
         if YEAR_IN_TITLE.search(cells.get("title", "")):
             f.add("year", rel, n, "Year typed in the title: put it in the year column (the registry's, for a row with a source), the build shows it.")
-        elif dated and not year:
+        elif dated and not year and cells.get("year") != "-":  # "-": no year, on purpose (a living index)
             f.add("year", rel, n, "No year: show the year beside every guideline, algorithm and pathway (the registry's year column, or the sheet's for a row with no source).")
         # key-sources (per live view), rxfiles
         if hl == KEY_SOURCES:

@@ -3,7 +3,7 @@ title: "Safe Use and Accountability"
 type: resource
 tags: [resource, ai-tools, ai, accountability, standards, bccnm, cnps]
 aliases: [ai policy, ai standards, ai accountability, responsible ai, ai liability, ai ethics, bccnm ai, cnps ai]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 status: published
 last-reviewed: 2026-10-30
 review-due: 2027-04-30  # 6 months: AI tools and scribe programs change fast (Tools plan)
@@ -15,6 +15,5 @@ description: "Regulator, legal and policy guidance on using AI tools in NP pract
      The CNPS article is open only to CNPS beneficiaries after its introduction. No NNPBC or NPAC guidance on AI was found.
      Left out: Doctors of BC's AI policy statement (advocacy); other provinces' physician colleges (the CMPA FAQ links them all).
      Link to the source guidance; don't restate its recommendations. -->
-*Guidance on who is accountable when an NP uses an AI tool: nursing regulators' resources, provincial responsible AI policy, CNPS, physician-focused guidance (labelled), and national and international principles.*
 
 <!-- nppr-list: Safe Use and Accountability.csv style=condition -->

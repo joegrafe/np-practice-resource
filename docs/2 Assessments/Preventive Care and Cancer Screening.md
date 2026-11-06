@@ -3,9 +3,10 @@ title: Preventive Care and Cancer Screening
 type: assessment
 tags: [assessment, preventive-care, screening, cancer-screening]
 jurisdiction: [BC, CA, INTL]
+aliases: [preventive care, preventive screening, periodic health exam, periodic health examination, annual physical, checkup, check-up, Lifetime Prevention Schedule, LPS, cancer screening, screening guidelines, Canadian Task Force, CTFPHC, USPSTF, breast cancer screening, mammogram, mammography, cervical screening, Pap test, HPV self-screening, colon cancer screening, FIT test, colorectal screening, lung cancer screening, prostate screening, PSA, hepatitis C screening, STI screening, osteoporosis screening, falls screening, frailty screening]
 status: published
-last-reviewed: 2026-10-29
-review-due: 2027-10-29
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 description: "Provincial prevention schedules and cancer screening programs, provincial guidelines and Canadian Task Force guidelines on preventive care and screening in primary care."
 ---

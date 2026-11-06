@@ -2,11 +2,11 @@
 title: Screening Questionnaires and Scales
 type: assessment
 tags: [assessment, screening, questionnaires, mental-health, substance-use, cognition, frailty, pediatrics]
-jurisdiction: [BC, CA, INTL]
+jurisdiction: [BC, "ON", CA, INTL]
 aliases: [screening questionnaires, screening tools, rating scales, questionnaires, scales, screeners, PHQ-9, PHQ-2, patient health questionnaire, GAD-7, anxiety screen, depression screen, Geriatric Depression Scale, EPDS, Edinburgh Postnatal Depression Scale, postpartum depression screen, PC-PTSD-5, PTSD screen, C-SSRS, Columbia suicide scale, ASQ, Ask Suicide-Screening Questions, suicide screening, ASRS, adult ADHD screen, SNAP-IV, CADDRA forms, AUDIT, AUDIT-C, CAGE, alcohol screening, ASSIST, drug screening questionnaire, CRAFFT, adolescent substance use screen, MoCA, Montreal Cognitive Assessment, Mini-Cog, MMSE, SMMSE, clock drawing, cognitive screen, Clinical Frailty Scale, CFS, Rockwood, PRISMA-7, Timed Up and Go, TUG, gait speed, falls screen, Katz ADL, activities of daily living, ADL, Lawton IADL, IADL, STOP-Bang, sleep apnea screen, Looksee Checklist, Nipissing, NDDS, developmental screen, M-CHAT, M-CHAT-R/F, autism screen, HEADSSS, HEEADSSS, SSHADESS, poverty screen, poverty tool, social determinants, SPARK, social needs screen, adult autism screen, AQ-10, Autism Spectrum Quotient, RAADS-R, AIDE Canada, CAMH alcohol screening]
 status: published
-last-reviewed: 2026-10-30
-review-due: 2027-10-30
+last-reviewed: 2026-11-06
+review-due: 2027-11-06
 reviewers: [joegrafe]
 description: "Validated screening questionnaires and rating scales for primary care, by topic: mental health, substance use, cognition, frailty and function, sleep, child development and social needs, with the condition pages that use each one."
 ---

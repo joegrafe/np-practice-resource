@@ -2,8 +2,8 @@ heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only
 Preventive Care Schedules,,,,,,,,,"BC's schedule of recommended preventive services across the lifespan, updated yearly",,BC,,bc-lifetime-prevention-schedule-2026
 Preventive Care Schedules,,,1,2026 LPS Reference Document,https://www2.gov.bc.ca/assets/gov/health/about-bc-s-health-care-system/health-priorites/lifetime-prevention-schedule/2026_lps_reference_document.pdf,,,,,,,,
 Preventive Care Schedules,,,1,2026 LPS Technical Report,https://www2.gov.bc.ca/assets/gov/health/about-bc-s-health-care-system/health-priorites/lifetime-prevention-schedule/2026_lps_technical_report.pdf,,,,,,,,
-Preventive Care Schedules,,,,BC Guidelines: Preventative Health topic list (updated May 2026),,,,,every BC Guideline filed under preventive care,,BC,,bc-gpac-preventative-health
-Preventive Care Schedules,,,,"CFPC Preventive Care Checklist Form, Female (2019) (PDF)",,,,,"periodic health exam checklist for average-risk adults; the CFPC's web page for the forms is offline, so the PDFs are linked directly",,CA,,cfpc-preventive-care-checklist-2019
+Preventive Care Schedules,,,,BC Guidelines - Preventative Health topic list,,,,,every BC Guideline filed under preventive care,,BC,,bc-gpac-preventative-health
+Preventive Care Schedules,,,,"CFPC Preventive Care Checklist Form, Female",-,,,,"periodic health exam checklist for average-risk adults; the CFPC's web page for the forms returns not found, so the PDFs are linked directly",,CA,,cfpc-preventive-care-checklist-2019
 Preventive Care Schedules,,,1,Male form (PDF),https://www.cfpc.ca/CFPC/media/Resources/Periodic-Health-Examination/PreventiveCareChecklistMaleEnglish2019.pdf,,,,,,,,
 Preventive Care Schedules,,,,,,,,,preventive care record for children and teens aged 6 to 17,,CA,,cps-greig-health-record-2016
 Preventive Care Schedules,,,1,Ages 6 to 9 (PDF),https://cps.ca/uploads/tools/2016-GHR-Ages-6-to-9.pdf,,,,,,,,
@@ -59,11 +59,11 @@ Other Preventive Screening,Infections,,,,,,,,,,CA,,ctfphc-hepatitis-c-2017
 Other Preventive Screening,Infections,,,,,,,,Used on: [Sexually Transmitted Infections (STI)](../3%20Conditions/Sexual%20and%20Reproductive%20Health/Sexually%20Transmitted%20Infections%20%28STI%29.md),,CA,,ctfphc-chlamydia-gonorrhea-2021
 Other Preventive Screening,Infections,,,,,,,,"Used on: [Urinary Tract Infection (UTI)](../3%20Conditions/Renal%20and%20Genitourinary/Urinary%20Tract%20Infection%20%28UTI%29.md), [Pregnancy and Perinatal](../4%20Populations/Pregnancy%20and%20Perinatal.md)",,CA,,ctfphc-asb-pregnancy-2018
 Other Preventive Screening,"Bone Health, Falls and Cognition",,,,,,,,,,BC,,bc-gpac-osteoporosis-2012
-Other Preventive Screening,"Bone Health, Falls and Cognition",,,,,,,,,,CA,,ctfphc-fragility-fractures-2023
 Other Preventive Screening,"Bone Health, Falls and Cognition",,,,,,,,,,BC,,bc-gpac-fall-prevention-2021
 Other Preventive Screening,"Bone Health, Falls and Cognition",,,,,,,,,,BC,,bc-gpac-frailty-2017
 Other Preventive Screening,"Bone Health, Falls and Cognition",,1,Appendix A: Frailty Assessment and Management Pathway,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/frailty-pathway.pdf,,,,,,,,
 Other Preventive Screening,"Bone Health, Falls and Cognition",,,"BC Guidelines: Cognitive Impairment - Recognition, Diagnosis and Management in Primary Care",,,,,,,BC,,bc-gpac-cognitive-impairment
+Other Preventive Screening,"Bone Health, Falls and Cognition",,,,,,,,,,CA,,ctfphc-fragility-fractures-2023
 Other Preventive Screening,"Bone Health, Falls and Cognition",,,Canadian Task Force: Cognitive Impairment,,,,,,,CA,,ctfphc-cognitive-impairment
 Other Preventive Screening,"Bone Health, Falls and Cognition",,,,,,,,,,CA,,ctfphc-impaired-vision-2018
 Other Preventive Screening,Mental Health and Substance Use,,,,,,,,,,CA,,ctfphc-depression-adults-2025
@@ -72,7 +72,7 @@ Other Preventive Screening,Mental Health and Substance Use,,,,,,,,,,CA,,ctfphc-t
 Other Preventive Screening,Mental Health and Substance Use,,,Canadian Task Force: Tobacco Smoking in Children and Adolescents,,,,,,,CA,,ctfphc-tobacco-children-2017
 Other Preventive Screening,Child Development,,,,,,,,,,CA,,ctfphc-developmental-delay-2016
 International Guidance,,note,,,,,,,"United States guidance, for topics without a current Canadian recommendation. Check BC and Canadian sources first.",,BC,,
-International Guidance,,,,"US Preventive Services Task Force: Recommendation Topics (international, US) (current)",,,,,,,INTL,,us-preventive-services-task-force-recommendation-topics
+International Guidance,,,,US Preventive Services Task Force - Recommendation Topics,,-,,,"International source: US; the living index of USPSTF recommendations, each with its own date",,INTL,,us-preventive-services-task-force-recommendation-topics
 International Guidance,,,1,USPSTF A and B Recommendations,https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations,,,,,,,,
 Patient Resources,,,,BC Cancer Screening (current),,,,,"who should screen, how to book, and results explained, with translated fact sheets",,BC,yes,bccancer-screening-public
 Patient Resources,,,1,Breast,https://www.bccancer.bc.ca/screening/breast,,,,,,,,
