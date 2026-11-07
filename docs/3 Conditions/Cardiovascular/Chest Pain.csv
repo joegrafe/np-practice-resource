@@ -4,7 +4,6 @@ Key Sources,,1,Full Guideline (PDF),https://onlinecjc.ca/article/S0828-282X(14)0
 Key Sources,box,,AAFP - Acute Chest Pain in Adults: Outpatient Evaluation,,,,,"International source: US guidance, not Canadian; McConaghy JR et al.; office evaluation and when to send to the emergency department",outpatient,INTL,,aafp-acute-chest-pain-2020
 Key Sources,box,,AHA/ACC - Guideline for the Evaluation and Diagnosis of Chest Pain,,,,,"International source: US guidance, not Canadian; Circulation 144(22), free to read; acute and stable chest pain, risk pathways and testing",AHA ACC,INTL,,aha-acc-chest-pain-2021
 Key Sources,,1,AAFP summary: Chest Pain Evaluation: Updated Guidelines From the AHA/ACC,https://www.aafp.org/afp/2023/0200/practice-guidelines-chest-pain-evaluation,2023,,,,,,,
-Further Resources,,,BC Guidelines - Appropriate Use of CT for Suspected Pulmonary Embolism in the Non-Pregnant Adult,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#pulmonaryCT,2019,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appropriate_imaging_full_guideline.pdf,,part of Appropriate Imaging for Common Situations in Primary and Emergency Care,pulmonary embolism D-dimer,BC,,
 Further Resources,,,McGill Journal of Medicine - Approach to: Chest Pain,,,,,Haghandish N. McGill J Med 19(2); approach article,approach,CA,,mjm-chest-pain-2021
 Further Resources,box,,UCalgary Black Book - Chest pain schemes,,,,,diagnostic schemes,,,,
 Further Resources,,1,Chest pain: life-threatening or not,,,,,,,CA,,blackbook-chest-pain-life-threatening-non-life-threatening
@@ -15,6 +14,7 @@ Further Resources,,1,,,,,,,,CA,,blackbook-chest-discomfort-other
 Further Resources,box,,AAFP - Acute Coronary Syndrome: Diagnostic Evaluation,,,,,"International source: US guidance, not Canadian.",ACS,INTL,,aafp-acs-2017
 Further Resources,,1,NICE CG95 - Recent-Onset Chest Pain of Suspected Cardiac Origin: Assessment and Diagnosis,,,,,"UK guidance (2010, updated 2016)",NICE,,,nice-cg95
 Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for chest pain found on 2026-10-30.,,BC,,
+Assessment Tools and Calculators,,,BC Guidelines - Appropriate Use of CT for Suspected Pulmonary Embolism in the Non-Pregnant Adult,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#pulmonaryCT,2019,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appropriate_imaging_full_guideline.pdf,,part of Appropriate Imaging for Common Situations in Primary and Emergency Care,pulmonary embolism D-dimer,BC,,
 Assessment Tools and Calculators,,,MDCalc: Marburg Heart Score (MHS),,,,,coronary artery disease risk for chest pain in primary care,Marburg,INTL,,cdr-marburg
 Assessment Tools and Calculators,,,MDCalc: HEART Score for Major Cardiac Events,,,,,emergency department chest pain risk; needs troponin,HEART,INTL,,cdr-heart-score
 Assessment Tools and Calculators,,,MDCalc: Wells' Criteria for Pulmonary Embolism,,,,,,Wells PE,INTL,,mdcalc-wells-pe
