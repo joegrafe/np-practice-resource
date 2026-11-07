@@ -4,10 +4,10 @@ type: resource
 tags: [resource, ai-tools, ai-scribe, documentation, templates, human-in-the-loop]
 aliases: [scribe template, ai scribe template, note template, heidi template, tali template, scribeberry template, empathia template, template prompt, prompting, prompt engineering, verbalize exam, ai scribe errors, ai scribe accuracy]
 jurisdiction: [BC, "ON", PE, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-07
 review-due: 2027-05-07  # 6 months: AI tools and scribe programs change fast (Tools plan)
-reviewers: []
+reviewers: [joegrafe]
 description: "Writing and checking the note template an AI scribe fills: each approved scribe's template guide, provincial tips on speaking for the scribe, and research on where AI scribe notes go wrong."
 ---
 <!-- Every line lives in the CSV list sheet beside this page (format: List sheets in NPPR-FRAMEWORK.md).
