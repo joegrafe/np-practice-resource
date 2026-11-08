@@ -63,7 +63,7 @@ Each tab matches a step of the appointment, so the source is one click away when
 
 </div>
 
-When a topic isn't on NPPR yet, [Resources](../8%20Resources/index.md) lists the guideline directories, evidence summaries and library guides to check next.
+When a topic isn't on NPPR yet, [Resources](../8%20Resources/index.md) lists the guideline directories, evidence summaries, libraries and databases to check next.
 
 Sharing NPPR with a colleague? Here is the [one-page overview](../assets/about/nppr-at-a-glance.png) as an image.
 
@@ -71,7 +71,7 @@ Sharing NPPR with a colleague? Here is the [one-page overview](../assets/about/n
 
 - **An index, not a guideline.** NPPR doesn't write its own clinical recommendations. Every entry links to the publisher's own page or PDF, with its year.
 - **Your province first.** Your province's sources come first, then national Canadian sources, then international guidance, labelled as such.
-- **Dated.** Every page shows when it was last reviewed and when its next review is due.
+- **Dated.** Every page shows when it was last reviewed and when its next review is due. [How NPPR is kept current](How%20NPPR%20Is%20Kept%20Current.md) explains the checks.
 - **Free and open.** No login, no ads and no analytics. Every change is public on [GitHub](https://github.com/joegrafe/np-practice-resource).
 - **For clinicians, not patients.** Read the [disclaimer](Disclaimer%2C%20Licence%20and%20Privacy.md).
 
@@ -86,6 +86,7 @@ Sharing NPPR with a colleague? Here is the [one-page overview](../assets/about/n
 ## In This Section
 - [Contact](Contact.md)
 - [Disclaimer, Licence and Privacy](Disclaimer%2C%20Licence%20and%20Privacy.md)
+- [How NPPR Is Kept Current](How%20NPPR%20Is%20Kept%20Current.md)
 - [Install as an App](Install%20as%20an%20App.md)
 - [Submit a Link](Submissions.md)
 - [Team](Team.md)
