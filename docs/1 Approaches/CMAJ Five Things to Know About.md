@@ -3,10 +3,10 @@ title: "CMAJ: Five Things to Know About"
 type: approach
 tags: [approach]
 jurisdiction: [CA]
-status: draft
+status: published
 last-reviewed: 2026-11-08
 review-due: 2027-11-08
-reviewers: []
+reviewers: [joegrafe]
 description: "CMAJ's \"Five things to know about\" articles from 2010 onward: 481 short clinical summaries for Canadian practice, listed by body system with their year and PDF."
 aliases: [CMAJ, Canadian Medical Association Journal, five things, five things to know, five things to know about, CMAJ five things, CMA Journal]
 logo: ""

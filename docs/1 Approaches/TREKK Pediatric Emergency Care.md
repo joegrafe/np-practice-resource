@@ -3,10 +3,10 @@ title: "TREKK: Pediatric Emergency Care"
 type: approach
 tags: [approach, pediatrics, urgent-care]
 jurisdiction: [CA]
-status: draft
+status: published
 last-reviewed: 2026-11-08
 review-due: 2027-11-08
-reviewers: []
+reviewers: [joegrafe]
 description: "TREKK's pediatric emergency tools for 40 topics: Bottom Line Recommendations, algorithms, medication tables and evidence repositories, listed by body system with their year and PDF."
 aliases: [TREKK, Translating Emergency Knowledge for Kids, bottom line recommendations, BLR, pediatric emergency, paediatric emergency, peds emergency, pediatric urgent care, kids emergency, TREKK algorithm, evidence repository]
 logo: ""
