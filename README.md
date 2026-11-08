@@ -4,7 +4,7 @@ NPPR.ca is a free, open index of current BC and Canadian clinical guidance for p
 
 It is organized around the steps of an appointment so an NP can find the right high-yield source quickly and confidently during patient care.
 
-[![NPPR at a glance: each tab on NPPR.ca matches a step of the appointment, from Approaches to Tools, so an NP can check an AI suggestion against the current source](docs/assets/about/nppr-at-a-glance.png)](https://nppr.ca/about/)
+[![How NPPR is organized: the tabs follow the steps of a visit, from Approaches to Tools; Populations applies at every step; links go to the publisher's own guideline, your province's sources come first, and search finds any page](docs/assets/about/nppr-how-it-works.png)](https://nppr.ca/about/)
 
 ## Why it exists
 
