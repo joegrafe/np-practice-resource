@@ -8,6 +8,7 @@ status: published
 last-reviewed: 2026-10-09
 review-due: 2027-10-09
 reviewers: [joegrafe]
+aliases: [shortness of breath, dyspnea]
 ---
 <!-- GOLD (international) is left out because Canadian guidance exists.
      Link to the source guidance; don't restate its recommendations. -->
