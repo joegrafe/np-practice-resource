@@ -9,13 +9,21 @@ name: PR checks
 #   Site build   a strict test build with nppr-website-config, then its search
 #                check (scripts/search-check.js: every line of search-checks.txt
 #                must find its page); needs PAT_TOKEN to read that repo, and is
-#                skipped with a note if it can't
+#                skipped with a note if it can't. When nppr-website-config has a
+#                branch with the same name as this PR's branch (a wave's config
+#                PR), the build uses config main with that branch merged in, so
+#                a content PR that needs its config PR passes before that merges.
 on:
   pull_request:
   workflow_dispatch:
 
 permissions:
   contents: read
+
+# A new push to the same PR cancels the run still going for the older push.
+concurrency:
+  group: pr-checks-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 jobs:
   pages:
@@ -92,6 +100,27 @@ jobs:
           repository: joegrafe/nppr-website-config
           token: ${{ secrets.PAT_TOKEN }}
           path: config
+          fetch-depth: 0
+
+      - name: Add the paired config branch if there is one
+        if: steps.config.outcome == 'success'
+        env:
+          BRANCH: ${{ github.head_ref || github.ref_name }}
+        run: |
+          if [ "$BRANCH" != main ] && git -C config fetch -q origin "+refs/heads/$BRANCH:refs/remotes/origin/$BRANCH" 2>/dev/null; then
+            if git -C config -c user.name=ci -c user.email=ci@localhost merge -q --no-edit "origin/$BRANCH"; then
+              msg="Built with nppr-website-config main plus its paired branch $BRANCH."
+            else
+              git -C config merge --abort
+              git -C config checkout -q "origin/$BRANCH"
+              msg="The paired config branch $BRANCH doesn't merge cleanly with config main; built with that branch as it is."
+              echo "::warning title=Paired config branch::$msg"
+            fi
+          else
+            msg="No paired config branch; built with nppr-website-config main."
+          fi
+          echo "$msg"
+          echo "$msg" >> "$GITHUB_STEP_SUMMARY"
 
       - uses: actions/setup-python@v5
         if: steps.config.outcome == 'success'
