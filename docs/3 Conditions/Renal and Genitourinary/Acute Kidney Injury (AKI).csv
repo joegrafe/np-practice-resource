@@ -18,9 +18,9 @@ Further Resources,box,,Ontario Renal Network - KidneyWise Clinical Toolkit,,,,,"
 Further Resources,,1,Outpatient Nephrology Referral Form (PDF),https://www.ontariorenalnetwork.ca/sites/renalnetwork/files/assets/kidneywise-outpatientnephrologyreferralform.pdf,,,,,,,,
 Algorithms and Pathways,,,Pathways BC - Acute Kidney Injury Care Pathway,,,,,BC enhanced care pathway; more BC pathways in [Pathways BC Enhanced Care Pathways](../../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md),,BC,yes,pathways-aki
 Algorithms and Pathways,note,,,,,,,No Alberta Pathway Hub pathway for AKI found on 2026-10-30.,,,,
+Assessment Tools and Calculators,,,Thrombosis Canada: Creatinine Clearance (Cockcroft-Gault Equation),,,,,for drug dosing; serum creatinine in µmol/L,CrCl renal dosing,CA,,thrombosiscanada-cockcroft-gault
 Assessment Tools and Calculators,,,QxMD: Advanced CKD after AKI Risk Index,,,,,risk of advanced CKD after an AKI admission; the tool BC Renal links,kidney failure risk,INTL,,qxmd-ckd-after-aki
 Assessment Tools and Calculators,,,MDCalc: CKD-EPI Equations for Glomerular Filtration Rate (GFR),,,,,"eGFR assumes stable kidney function, so read it with care during AKI",eGFR,INTL,,mdcalc-ckd-epi
-Assessment Tools and Calculators,,,MDCalc: Creatinine Clearance (Cockcroft-Gault Equation),,,,,for drug dosing,CrCl renal dosing,INTL,,mdcalc-cockcroft-gault
 Assessment Tools and Calculators,,,MDCalc: Fractional Excretion of Sodium (FENa),,,,,prerenal versus intrinsic causes,FENa,INTL,,mdcalc-fena
 Prescribing,,,,,,,,drug dosing in kidney disease; some documents need an RxFiles subscription,renal dosing,CA,,rxfiles-kidney
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",nephrology,BC,yes,race-connect

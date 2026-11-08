@@ -2,8 +2,8 @@
 title: Drug References
 type: prescribing
 tags: [prescribing, drug-information, medication-safety, older-adults]
-jurisdiction: [BC, CA, INTL]
-aliases: [drug monograph, monographs, CPS, Compendium of Pharmaceuticals and Specialties, RxFiles, Geri-RxFiles, Therapeutics Letter, drug product database, DPD, drug shortages, drug interactions, dosing calculator]
+jurisdiction: [BC, CA]
+aliases: [drug monograph, monographs, CPS, Compendium of Pharmaceuticals and Specialties, RxFiles, Geri-RxFiles, Therapeutics Letter, drug product database, DPD, drug shortages, drug interactions, dosing calculator, creatinine clearance, CrCl, Cockcroft-Gault]
 status: published
 last-reviewed: 2026-11-02
 review-due: 2027-10-27

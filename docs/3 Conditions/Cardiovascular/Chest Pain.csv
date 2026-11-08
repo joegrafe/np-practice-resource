@@ -15,10 +15,10 @@ Further Resources,box,,AAFP - Acute Coronary Syndrome: Diagnostic Evaluation,,,,
 Further Resources,,1,NICE CG95 - Recent-Onset Chest Pain of Suspected Cardiac Origin: Assessment and Diagnosis,,,,,"UK guidance (2010, updated 2016)",NICE,,,nice-cg95
 Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for chest pain found on 2026-10-30.,,BC,,
 Assessment Tools and Calculators,,,BC Guidelines - Appropriate Use of CT for Suspected Pulmonary Embolism in the Non-Pregnant Adult,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#pulmonaryCT,2019,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appropriate_imaging_full_guideline.pdf,,part of Appropriate Imaging for Common Situations in Primary and Emergency Care,pulmonary embolism D-dimer,BC,,
+Assessment Tools and Calculators,,,Thrombosis Canada: Wells' Criteria for Pulmonary Embolism,,,,,"Canadian rule (Wells, Ottawa)",Wells PE,CA,,thrombosiscanada-wells-pe
+Assessment Tools and Calculators,,,Thrombosis Canada: PERC Rule for Pulmonary Embolism,,,,,US rule,PERC,CA,,thrombosiscanada-perc
 Assessment Tools and Calculators,,,MDCalc: Marburg Heart Score (MHS),,,,,coronary artery disease risk for chest pain in primary care,Marburg,INTL,,cdr-marburg
 Assessment Tools and Calculators,,,MDCalc: HEART Score for Major Cardiac Events,,,,,emergency department chest pain risk; needs troponin,HEART,INTL,,cdr-heart-score
-Assessment Tools and Calculators,,,MDCalc: Wells' Criteria for Pulmonary Embolism,,,,,,Wells PE,INTL,,mdcalc-wells-pe
-Assessment Tools and Calculators,,,MDCalc: PERC Rule for Pulmonary Embolism,,,,,,PERC,INTL,,mdcalc-perc
 Prescribing,,,Canadian Cardiovascular Society - Post-Acute Coronary Syndrome Secondary Prevention Pathway,,,,,medications and follow-up after ACS; see also [Cardiovascular Risk and Lipids](Cardiovascular%20Risk%20and%20Lipids.md),secondary prevention post-MI,CA,,ccs-post-acs-pathway-2025
 Prescribing,,,,,,,,drug comparison chart; needs an RxFiles subscription,,CA,,rxfiles-post-mi-chart
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",cardiology,BC,yes,race-connect
