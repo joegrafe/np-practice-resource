@@ -162,10 +162,12 @@ healthcarebc.ca
 *.healthcarebc.ca
 healthlinkbc.ca
 healthproductshortages.ca
+healthqualitybc.ca
 heartandstroke.ca
 heartfailure.ca
 heidihealth.com
 *.heidihealth.com
+hepatology.ca
 heretohelp.bc.ca
 hign.org
 hopeair.ca
@@ -200,6 +202,7 @@ libguides.com
 *.libguides.com
 litfl.com
 liveplanbe.ca
+liver.ca
 lookseechecklist.com
 lung.ca
 lunghealth.ca
@@ -225,6 +228,7 @@ mja.com.au
 mnbc.ca
 mocacognition.com
 monash.edu
+monashfodmap.com
 mosaicbc.org
 mq6.ca
 mutuohealth.com
@@ -276,16 +280,12 @@ painbc.ca
 parachute.ca
 pathwaysbc.ca
 pathwaysmedicalcare.ca
-patienteduc.ca
-*.patienteduc.ca
 pcds.org.uk
 pedscases.com
 pedsconcussion.com
 peerevidence.ca
 perinatalservicesbc.ca
 pharmacists.ca
-phsa.ca
-*.phsa.ca
 physicaldiagnosispdx.com
 physio-pedia.com
 pmmonline.org
@@ -339,9 +339,9 @@ sydney.edu.au
 tali.ai
 *.tali.ai
 tally.so
-tandfonline.com
 thelancet.com
 thennt.com
+theromefoundation.org
 thinklabs.com
 thrombosiscanada.ca
 thunderbirdpf.org

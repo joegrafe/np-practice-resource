@@ -1,0 +1,19 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,,,Pathways BC - Irritable Bowel Syndrome (IBS): Enhanced Primary Care Pathway,,,,,"Shared Care, BC; diagnosis, red flags, investigations, management and when to refer",IBS pathway BC,BC,yes,pathwaysbc-ibs-2019
+Key Sources,,,Canadian Association of Gastroenterology - Clinical Practice Guideline for the Management of Irritable Bowel Syndrome,,,,,"J Can Assoc Gastroenterol 2(1):6-29; testing, diet, psychological and drug therapies",CAG IBS guideline,CA,,cag-ibs-2019
+Key Sources,,,AAFP - Irritable Bowel Syndrome: Questions and Answers for Effective Care,,,,,"International source: US guidance, not Canadian.",IBS review,INTL,,aafp-ibs-2021
+Further Resources,,,Pathways BC - Irritable Bowel Syndrome (IBS): Enhanced Primary Care Pathway,,,,,"Shared Care, BC; diagnosis, red flags, investigations, management and when to refer",IBS pathway BC,BC,other,pathwaysbc-ibs-2019
+Further Resources,box,,CFPCLearn - Tools for Practice on IBS,,-,,,evidence summaries for family practice,,CA,,cfpclearn-tools-for-practice-library
+Further Resources,,1,#229 Antispasmodics and peppermint oil for irritable bowel syndrome,,,,,,peppermint oil antispasmodic,,,tfp-229-2019
+Further Resources,,1,#251 But I am not Depressed: Antidepressants for IBS,,,,,,antidepressant amitriptyline,,,tfp-251-2020
+Further Resources,,,AAFP - Medications for Irritable Bowel Syndrome: Guidelines From the AGA,,,,,"International source: US guidance, not Canadian.",IBS medications AGA,INTL,,aafp-ibs-aga-medications-2023
+Algorithms and Pathways,,,Alberta's Pathway Hub - Irritable Bowel Syndrome (IBS),,,,,Primary Care Alberta pathway,Alberta IBS pathway,AB,,primarycarealberta-ibs-2023
+Assessment Tools and Calculators,,,Rome Foundation - Rome IV Criteria,,,,,diagnostic criteria for IBS and other disorders of gut-brain interaction,Rome IV criteria,INTL,,rome-iv-criteria
+Prescribing,,,RxFiles - Drug Comparison Charts: Irritable Bowel Syndrome (IBS),,,,,IBS drug comparison chart; needs an RxFiles subscription,RxFiles IBS chart,CA,,rxfiles-ibs-chart
+Prescribing,note,,,,,,,No PharmaCare Special Authority criteria for IBS medicines found (checked 2026-11-08).,,,,
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",gastroenterology advice,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Irritable Bowel Syndrome (IBS),,,,,,IBS,BC,,healthlinkbc-ibs
+Patient Resources,,,HealthLink BC - Irritable Bowel Syndrome: Controlling Symptoms With Diet,,,,,,IBS diet,BC,,healthlinkbc-ibs-diet
+Patient Resources,,,Canadian Digestive Health Foundation - Irritable Bowel Syndrome (IBS),,,,,,,CA,,cdhf-ibs
+Patient Resources,,,Monash University - About FODMAPs and IBS,,,,,low FODMAP diet information from the team that developed it,low FODMAP diet,INTL,,monash-fodmap-ibs

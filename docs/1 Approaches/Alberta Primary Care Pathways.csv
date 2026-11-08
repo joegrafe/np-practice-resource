@@ -4,7 +4,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Cardiovascular,Lower Limb Ischemia,https://www.primarycarealberta.ca/pathways/43/clinical,2024,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-lower-limb-ischemia.pdf,,,,AB,
 ,Respiratory,Chronic Obstructive Pulmonary Disease (COPD),,,,,Calgary Zone,,AB,ab-pathway-hub-copd
 ,Respiratory,Lung Testing (ages 6 and up),https://www.primarycarealberta.ca/pathways/435/clinical,2024,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-lung-testing.pdf,,,,AB,
-,Respiratory,Obstructive Sleep Apnea,https://www.primarycarealberta.ca/pathways/287/clinical,2018,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-obstructive-sleep-apnea.pdf,,,,AB,
+,Respiratory,Obstructive Sleep Apnea,,,,,,,AB,primarycarealberta-osa-2018
 ,Endocrine and Metabolic,Thyroid Function Assessment and Monitoring in Women of Child-Bearing Age,,,,,Calgary Zone,,AB,ab-pathway-hub-thyroid-childbearing
 ,Endocrine and Metabolic,Thyroid Nodules,,,,,Calgary Zone,,AB,ab-pathway-hub-thyroid-nodule
 ,Renal and Genitourinary,Chronic Kidney Disease (CKD),,,,[Interactive pathway](https://ckdpathway.ca/),,,AB,alberta-ckd-pathway
@@ -21,7 +21,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Gastrointestinal and Liver,Chronic Abdominal Pain,https://www.primarycarealberta.ca/pathways/79/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-chronic-abdominal-pain.pdf,,,,AB,
 ,Gastrointestinal and Liver,Chronic Constipation,https://www.primarycarealberta.ca/pathways/82/clinical,2026,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-chronic-constipation.pdf,,,,AB,
 ,Gastrointestinal and Liver,Chronic Diarrhea,https://www.primarycarealberta.ca/pathways/84/clinical,2023,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-chronic-diarrhea.pdf,,,,AB,
-,Gastrointestinal and Liver,Cirrhosis Care (interactive),https://www.primarycarealberta.ca/pathways/428/clinical,2021,,[Interactive pathway](https://cirrhosiscare.ca/practitioner-pathway/),,,AB,
+,Gastrointestinal and Liver,Cirrhosis Care (interactive),,,,[Interactive pathway](https://cirrhosiscare.ca/practitioner-pathway/),,,AB,primarycarealberta-cirrhosis-2021
 ,Gastrointestinal and Liver,Clostridioides difficile Infection (recurrent),https://www.primarycarealberta.ca/pathways/331/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-clostridiodes-difficile.pdf,,,,AB,
 ,Gastrointestinal and Liver,,,,,,,,AB,primarycarealberta-dyspepsia-2025
 ,Gastrointestinal and Liver,"Esophageal Cancer Prevention, Screening and Diagnosis",https://www.primarycarealberta.ca/pathways/162/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-esophageal-cancer-prevention-screening-diagnosis.pdf,,,,AB,
@@ -33,9 +33,9 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Gastrointestinal and Liver,High-Risk Rectal Bleeding,https://www.primarycarealberta.ca/pathways/326/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-high-risk-rectal-bleeding-ccd.pdf,,,,AB,
 ,Gastrointestinal and Liver,Inflammatory Bowel Disease and Mental Health,https://www.primarycarealberta.ca/pathways/434/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-ibd-mental-health.pdf,,,,AB,
 ,Gastrointestinal and Liver,Inflammatory Bowel Disease and Nutrition (for gastroenterologists),https://www.primarycarealberta.ca/pathways/425/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-ibd-nutrition.pdf,,,,AB,
-,Gastrointestinal and Liver,Irritable Bowel Syndrome (IBS),https://www.primarycarealberta.ca/pathways/228/clinical,2023,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-ibs.pdf,,,,AB,
+,Gastrointestinal and Liver,Irritable Bowel Syndrome (IBS),,,,,,,AB,primarycarealberta-ibs-2023
 ,Gastrointestinal and Liver,Liver Mass,https://www.primarycarealberta.ca/pathways/254/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-liver-mass.pdf,,,,AB,
-,Gastrointestinal and Liver,Non-Alcoholic Fatty Liver Disease (NAFLD),https://www.primarycarealberta.ca/pathways/148/clinical,2021,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-nafld.pdf,,,,AB,
+,Gastrointestinal and Liver,Non-Alcoholic Fatty Liver Disease (NAFLD),,,,,,,AB,primarycarealberta-nafld-2021
 ,Gastrointestinal and Liver,Pancreaticobiliary Mass,https://www.primarycarealberta.ca/pathways/257/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-pancreaticobiliary-mass.pdf,,,,AB,
 ,Gastrointestinal and Liver,Perianal Disease,https://www.primarycarealberta.ca/pathways/135/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-perianal-disease.pdf,,,,AB,
 ,Musculoskeletal,Carpal Tunnel Syndrome,https://www.primarycarealberta.ca/pathways/71/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-carpal-tunnel.pdf,,,,AB,

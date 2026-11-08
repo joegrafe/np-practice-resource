@@ -11,6 +11,7 @@ asia-spinalinjury.org
 auditor.on.ca
 b-cdn.net
 *.b-cdn.net
+badgut.org
 bccancer.bc.ca
 bccdc.ca
 bcchildrens.ca
@@ -31,6 +32,7 @@ camh.ca
 canada.ca
 *.canada.ca
 canadiangeriatrics.com
+canadianliverfoundation.ca
 canadiantaskforce.ca
 *.canadiantaskforce.ca
 cancercareontario.ca
@@ -109,10 +111,10 @@ gov.bc.ca
 gov.on.ca
 *.gov.on.ca
 hcaiinfo.ca
-headachesociety.ca
 healthlinkbc.ca
 healthpei.ca
 *.healthpei.ca
+heartandstroke.ca
 heidihealth.com
 *.heidihealth.com
 hign.org
@@ -152,6 +154,7 @@ mini-cog.com
 mja.com.au
 mjm.mcgill.ca
 monash.edu
+monashfodmap.com
 mothertobaby.org
 ncbi.nlm.nih.gov
 nejm.org
@@ -232,9 +235,11 @@ stanford.edu
 stanford25.org
 surreyplace.ca
 *.surreyplace.ca
+tandfonline.com
 thelancet.com
 thelungcentre.ca
 thennt.com
+theromefoundation.org
 thinklabs.com
 thrombosiscanada.ca
 torontomu.ca
@@ -256,6 +261,7 @@ uptodate.com
 uspreventiveservicestaskforce.org
 utah.edu
 *.utah.edu
+utppublishing.com
 uwindsor.ca
 *.uwindsor.ca
 uwo.ca
