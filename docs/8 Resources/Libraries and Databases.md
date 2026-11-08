@@ -5,10 +5,10 @@ aliases: [library, libraries, library guides, BC library guides, university libr
 type: resource
 tags: [resource, libraries, databases]
 jurisdiction: [BC, "ON", CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-08
 review-due: 2027-11-08
-reviewers: []
+reviewers: [joegrafe]
 description: "How nurse practitioners get full text and point-of-care references: library access through an employer, college or association, university library guides, and UpToDate, DynaMed and BMJ Best Practice with their free routes."
 ---
 <!-- Built in build wave 17 (Resources wave 2, 2026-11-08) from the Library Guides page (renamed from BC Library Guides 2026-11-06), which it replaces; its old addresses redirect here.

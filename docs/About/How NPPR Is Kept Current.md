@@ -6,10 +6,10 @@ type: about
 tags: [about]
 aliases: [kept current, editorial policy, editorial process, review cycle, how pages are reviewed, how sources are chosen, update policy, link check, ai drafting, ai assisted, methods, quality]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-11-08
 review-due: 2027-11-08
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- Build wave 17 (2026-11-08), About plan PR 2 (https://claude.ai/artifact/QiZKA6F7GShkVt2VLXRVPA, section 5; Joe approved all six decisions 2026-10-26, including decision 3: say that pages are drafted with AI help).
      Joe is a nurse practitioner student: the page names the editor's role from the Team page and never says pages are approved "by an NP".

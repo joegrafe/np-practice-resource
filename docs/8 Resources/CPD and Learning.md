@@ -4,10 +4,10 @@ aliases: [cpd, continuing professional development, continuing education, ce, cm
 type: resource
 tags: [resource, cpd, learning]
 jurisdiction: [BC, "ON", CA]
-status: draft
+status: published
 last-reviewed: 2026-11-08
 review-due: 2027-11-08
-reviewers: []
+reviewers: [joegrafe]
 description: "Courses, webinars and podcasts for nurse practitioners to learn between visits, how NPs can fund them, and where NPPR keeps quality assurance rules, ECHO series and procedure training."
 ---
 <!-- Built in build wave 17 (Resources wave 2, 2026-11-08). Plan: Resources section plan (https://claude.ai/artifact/ACLq44znFt6SHSx3t176aX), CPD and learning row, decisions approved by Joe 2026-10-27 (a short page).
