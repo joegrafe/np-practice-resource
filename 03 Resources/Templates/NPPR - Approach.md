@@ -25,9 +25,6 @@ logo-alt: ""
 <!-- The list lives in <Page name>.csv beside this page, one row per item; the site build writes it in here.
      Edit the sheet, not this page, to change the list. Start the sheet from "NPPR - Approach.csv" in Templates.
      Every row carries a region code from docs/regions.csv (the jurisdiction the item is written for, usually the publisher's own).
-     Approaches pages are the one exception to "frontmatter plus one sheet": the intro line and More Approaches stay in the page. -->
+     Approaches pages are the one exception to "frontmatter plus one sheet": the intro line stays in the page.
+     No More Approaches list: the sidebar links the other Approaches pages (Joe, 2026-11-08). -->
 <!-- nppr-list: <Page name>.csv counts -->
-
-## More Approaches
-
-- [Other approach page](Other%20Approach%20Page.md) — *what it holds*
