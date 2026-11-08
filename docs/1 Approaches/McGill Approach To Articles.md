@@ -14,7 +14,7 @@ logo-alt: "McGill Journal of Medicine"
 ---
 <!-- Index of MJM "An Approach To:" articles, checked against every issue at mjm.mcgill.ca/issue/archive on 2026-10-10.
      Link to the articles; don't summarize or copy their content. Add new ones from each new issue. -->
-*Short, peer-reviewed "Approach to" reviews from the [McGill Journal of Medicine](https://mjm.mcgill.ca/) (MJM), grouped by body system. Each opens with a case and works through a diagnostic or management flowchart.*
+*Short, peer-reviewed "Approach to" reviews from the [McGill Journal of Medicine](https://mjm.mcgill.ca/) (MJM), grouped by body system. Each opens with a case and works through a diagnostic or management flowchart. New articles appear in each issue ([MJM issue archive](https://mjm.mcgill.ca/issue/archive)).*
 
 !!! info "About these articles"
 	MJM is an open-access, peer-reviewed journal run by medical and science students at McGill University. Its "An Approach To" articles are written for medical students and are externally peer-reviewed ([MJM author guidelines](https://mjm.mcgill.ca/about/submissions)). They were current when published: check the year, and use current BC and Canadian guidance for practice decisions. Articles are © their authors and licensed by MJM under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
@@ -24,15 +24,3 @@ logo-alt: "McGill Journal of Medicine"
 <!-- The list lives in McGill Approach To Articles.csv beside this page, one row per item; the site build writes it in here.
      Edit the sheet, not this page, to change the list. -->
 <!-- nppr-list: McGill Approach To Articles.csv notes=dash -->
-
-## More Approaches
-
-- [Ontario Health Quality Standards](Ontario%20Health%20Quality%20Standards.md) — *Ontario's quality standards by body system, with placemats and patient guides*
-- [CAMH Psychiatry in Primary Care](CAMH%20Psychiatry%20in%20Primary%20Care.md) — *CAMH's primary care guides to mental health and addiction, written for Ontario*
-- [Canadian Family Physician: Approach To and Management Of](Canadian%20Family%20Physician%20Approach%20and%20Management%20Articles.md) — *Canadian primary care "Approach to" and "Management of" reviews by body system, 2010 onward*
-- [Centre for Effective Practice Clinical Tools](Centre%20for%20Effective%20Practice%20Clinical%20Tools.md) — *Canadian primary care tools by body system, written for Ontario*
-- [Pathways BC Enhanced Care Pathways](Pathways%20BC%20Enhanced%20Care%20Pathways.md) — *BC primary care pathways by body system*
-- [University of Calgary Black Books](University%20of%20Calgary%20Black%20Books.md) — *schemes for common presentations*
-- [PedsCases Notes](PedsCases%20Approach%20To.md) — *short peer-reviewed summaries of pediatric presentations and conditions*
-- [American Family Physician: Approach, Evaluation and Management](AAFP%20Approach%20To%20and%20Evaluation%20Of%20Articles.md) — *recent free AAFP review articles (international)*
-- [MJM issue archive](https://mjm.mcgill.ca/issue/archive) — *new "An Approach To" articles appear in each issue*

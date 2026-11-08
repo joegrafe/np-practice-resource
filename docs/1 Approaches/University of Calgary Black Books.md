@@ -15,7 +15,7 @@ logo-bg: "#111"
 ---
 <!-- Scheme list checked against every system page at blackbook.ucalgary.ca/schemes/ on 2026-10-10 (353 schemes, matching the site's counts).
      Link to the schemes; don't copy them. Regenerate the list when the Blackbook adds schemes. -->
-*Diagnostic schemes for common presentations from the University of Calgary's Blackbook, written by its medical students and faculty. Find a scheme by system below.*
+*Diagnostic schemes for common presentations from the University of Calgary's Blackbook, written by its medical students and faculty. Find a scheme by system below. For pathophysiology flowcharts, see the University of Calgary's [Calgary Guide](https://calgaryguide.ucalgary.ca/).*
 
 [Open the Blackbook](https://blackbook.ucalgary.ca/schemes/){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
@@ -35,15 +35,3 @@ logo-bg: "#111"
 <!-- The list lives in University of Calgary Black Books.csv beside this page, one row per item; the site build writes it in here.
      Edit the sheet, not this page, to change the list. -->
 <!-- nppr-list: University of Calgary Black Books.csv counts -->
-
-## More Approaches
-
-- [Ontario Health Quality Standards](Ontario%20Health%20Quality%20Standards.md) — *Ontario's quality standards by body system, with placemats and patient guides*
-- [CAMH Psychiatry in Primary Care](CAMH%20Psychiatry%20in%20Primary%20Care.md) — *CAMH's primary care guides to mental health and addiction, written for Ontario*
-- [Canadian Family Physician: Approach To and Management Of](Canadian%20Family%20Physician%20Approach%20and%20Management%20Articles.md) — *Canadian primary care "Approach to" and "Management of" reviews by body system, 2010 onward*
-- [Centre for Effective Practice Clinical Tools](Centre%20for%20Effective%20Practice%20Clinical%20Tools.md) — *Canadian primary care tools by body system, written for Ontario*
-- [Pathways BC Enhanced Care Pathways](Pathways%20BC%20Enhanced%20Care%20Pathways.md) — *BC primary care pathways by body system*
-- [McGill Journal of Medicine: Approach To](McGill%20Approach%20To%20Articles.md) — *peer-reviewed "Approach to" articles by body system*
-- [PedsCases Notes](PedsCases%20Approach%20To.md) — *short peer-reviewed summaries of pediatric presentations and conditions*
-- [American Family Physician: Approach, Evaluation and Management](AAFP%20Approach%20To%20and%20Evaluation%20Of%20Articles.md) — *recent free AAFP review articles (international)*
-- [Calgary Guide](https://calgaryguide.ucalgary.ca/) — *the University of Calgary's pathophysiology flowcharts*

@@ -23,22 +23,10 @@ logo-alt: "American Academy of Family Physicians"
      "Diagnosis and Management" / "Diagnosis and Treatment" articles added 2026-10-29 at Joe's request, same rules (PubMed title search,
      2016-2026); where AFP has free and members-only versions of one topic, the newest free one is listed with the newer one beside it.
      Left out: Acute Respiratory Distress Syndrome (intensive care). -->
-This page lists 182 "approach to", "evaluation", "diagnosis and management" and "management of" review articles relevant to primary care, published 2016 or later and free to read on aafp.org. Where AFP has more than one free article on a topic, only the newest is listed. Most articles from 2024 onward are for AAFP members only; they are listed only where they update a free article, marked *(AAFP members)*.
+This page lists 182 "approach to", "evaluation", "diagnosis and management" and "management of" review articles relevant to primary care, published 2016 or later and free to read on aafp.org. Where AFP has more than one free article on a topic, only the newest is listed. Most articles from 2024 onward are for AAFP members only; they are listed only where they update a free article, marked *(AAFP members)*. Every AFP article is listed by topic at [AFP by topic](https://www.aafp.org/afp/topics).
 
 <div class="nppr-filter" data-placeholder="Filter articles, e.g. pain"></div>
 
 <!-- The list lives in AAFP Approach To and Evaluation Of Articles.csv beside this page, one row per item; the site build writes it in here.
      Edit the sheet, not this page, to change the list. -->
 <!-- nppr-list: AAFP Approach To and Evaluation Of Articles.csv counts -->
-
-## More Approaches
-
-- [Ontario Health Quality Standards](Ontario%20Health%20Quality%20Standards.md) — *Ontario's quality standards by body system, with placemats and patient guides*
-- [CAMH Psychiatry in Primary Care](CAMH%20Psychiatry%20in%20Primary%20Care.md) — *CAMH's primary care guides to mental health and addiction, written for Ontario*
-- [Canadian Family Physician: Approach To and Management Of](Canadian%20Family%20Physician%20Approach%20and%20Management%20Articles.md) — *Canadian primary care "Approach to" and "Management of" reviews by body system, 2010 onward*
-- [Centre for Effective Practice Clinical Tools](Centre%20for%20Effective%20Practice%20Clinical%20Tools.md) — *Canadian primary care tools by body system, written for Ontario*
-- [Pathways BC Enhanced Care Pathways](Pathways%20BC%20Enhanced%20Care%20Pathways.md) — *BC primary care pathways by body system*
-- [McGill Journal of Medicine: Approach To](McGill%20Approach%20To%20Articles.md) — *peer-reviewed "Approach to" articles by body system*
-- [PedsCases Notes](PedsCases%20Approach%20To.md) — *short peer-reviewed summaries of pediatric presentations and conditions*
-- [University of Calgary Black Books](University%20of%20Calgary%20Black%20Books.md) — *schemes for common presentations*
-- [AFP by topic](https://www.aafp.org/afp/topics) — *all AFP articles by topic; newer articles may need an AAFP membership*

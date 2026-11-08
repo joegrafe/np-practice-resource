@@ -198,7 +198,8 @@ MARKER = re.compile(r"<!--\s*nppr-list:\s*(.+?)\s*-->")
 COMMENT = re.compile(r"<!--.*?-->", re.S)
 BODY_LINE = re.compile(r"^(## |\s*(?:[-*]|\d+\.)\s+\[[^\]]*\]\()")
 # Pages allowed a heading or link line of their own beside their sheet
-BODY_TYPES = {"approach", "about", "index"}  # an Approaches page keeps its intro and More Approaches
+BODY_TYPES = {"approach", "about", "index"}  # an Approaches page keeps its intro in the page
+MORE_APPROACHES = re.compile(r"^##\s+More Approaches\s*$", re.M | re.I)  # retired (Joe, 2026-11-08)
 OPTION = re.compile(r"^(counts|notes=\S+|style=\S+)$")
 SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 URL = re.compile(r"^https?://\S+$")
@@ -328,6 +329,12 @@ def check_page(path, rel, text, f, source_ids):
 def check_body(rel, text, start, meta, f):
     """A page with a list sheet is its frontmatter plus that sheet (Page standard,
     2026-11-05): a heading or a link line in the Markdown belongs in the sheet."""
+    if meta.get("type") == "approach":
+        m = MORE_APPROACHES.search(text, start)
+        if m:
+            f.add("page-body", rel, text[:m.start()].count("\n") + 1,
+                  "Approaches pages carry no More Approaches list: the sidebar links the other "
+                  "Approaches pages (Joe, 2026-11-08). Remove the heading and its list.")
     if not MARKER.search(text) or meta.get("type") in BODY_TYPES:
         return
     body = COMMENT.sub(lambda c: "\n" * c.group(0).count("\n"), text[start:])
