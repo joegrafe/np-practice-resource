@@ -121,8 +121,10 @@ healthcarebc.ca
 *.healthcarebc.ca
 healthlinkbc.ca
 healthproductshortages.ca
+healthqualitybc.ca
 heartandstroke.ca
 heartfailure.ca
+hepatology.ca
 heretohelp.bc.ca
 hopeair.ca
 hopeforwellness.ca
@@ -145,6 +147,7 @@ jrheum.org
 keltymentalhealth.ca
 kidsnewtocanada.ca
 liveplanbe.ca
+liver.ca
 lookseechecklist.com
 lung.ca
 lunghealth.ca
@@ -241,7 +244,6 @@ sydney.edu.au
 tali.ai
 *.tali.ai
 tally.so
-tandfonline.com
 thelancet.com
 thunderbirdpf.org
 thyroid.ca

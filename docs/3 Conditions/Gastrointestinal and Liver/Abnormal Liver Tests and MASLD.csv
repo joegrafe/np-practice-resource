@@ -1,0 +1,30 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,,,BC Guidelines - Abnormal Liver Chemistry: Evaluation and Interpretation,,,,,BC GPAC; working up abnormal liver enzymes and liver function tests in adults,abnormal liver enzymes ALT AST guideline BC,BC,yes,bc-gpac-abnormal-liver-chemistry-2011
+Key Sources,box,,Canadian Association for the Study of the Liver - MASLD Clinical Practice Guidance,,,,,"assessment and management of metabolic dysfunction-associated steatotic liver disease, including fibrosis risk testing; Can Liver J 9(3):345-388",CASL MASLD NAFLD guidance fatty liver,CA,,casl-masld-2026
+Key Sources,,1,Full text (PubMed Central),https://pmc.ncbi.nlm.nih.gov/articles/PMC13661159/,,,,,CASL MASLD full text,,,
+Key Sources,,1,MASLD screening and management poster (PDF),https://hepatology.ca/wp-content/uploads/2026/09/CASL-MASLD-Screening-Management-Poster_DIGITAL.pdf,,,,,MASLD algorithm poster,,,
+Key Sources,,,"Approach to steatotic liver disease in the office: Diagnosis, management, and proposed nomenclature (Canadian Family Physician)",,,,,Can Fam Physician 71(4):249-254; includes a management algorithm and the new names,steatotic liver disease approach,CA,,cfp-steatotic-liver-2025
+Further Resources,,,BC Guidelines - Abnormal Liver Chemistry: Evaluation and Interpretation,,,,,BC GPAC; working up abnormal liver enzymes and liver function tests in adults,abnormal liver enzymes guideline BC,BC,other,bc-gpac-abnormal-liver-chemistry-2011
+Further Resources,,,BC Guidelines - Viral Hepatitis Testing,,,,,"BC GPAC; testing for hepatitis A, B and C",hepatitis B hepatitis C testing,BC,,bc-gpac-viral-hepatitis-testing-2021
+Further Resources,,,BC Guidelines - High Ferritin and Iron Overload: Investigation and Management,,,,,"BC GPAC; high ferritin, hemochromatosis",ferritin hemochromatosis,BC,,bc-gpac-high-ferritin-2021
+Further Resources,,,Five things to know about ... Drug-induced liver injury (CMAJ),,,,,CMAJ 193(9):E310,DILI drug-induced liver injury,CA,,cmaj-5t-drug-induced-liver-injury-2021
+Further Resources,,,Five things to know about ... Alcohol-associated hepatitis (CMAJ),,,,,CMAJ 195(16):E588,alcoholic hepatitis,CA,,cmaj-5t-alcohol-associated-hepatitis-2023
+Further Resources,,,AAFP - Mildly Elevated Liver Transaminase Levels: Causes and Evaluation,,,,[2024 update](https://www.aafp.org/afp/2024/1200/elevated-liver-transaminase-levels) (AAFP members),"International source: US guidance, not Canadian.",elevated ALT AST transaminases,INTL,,aafp-elevated-transaminases-2017
+Algorithms and Pathways,,,Alberta's Pathway Hub - Non-Alcoholic Fatty Liver Disease (NAFLD),,,,,Primary Care Alberta pathway; uses the older NAFLD name,Alberta NAFLD MASLD pathway,AB,,primarycarealberta-nafld-2021
+Algorithms and Pathways,,,Alberta's Pathway Hub - Cirrhosis Care,,,,[Interactive practitioner pathway](https://cirrhosiscare.ca/practitioner-pathway/),Primary Care Alberta pathway,Alberta cirrhosis pathway,AB,,primarycarealberta-cirrhosis-2021
+Algorithms and Pathways,,,Alberta's Pathway Hub - Liver Mass,,,,,Primary Care Alberta pathway for a liver lesion found on imaging,liver lesion incidental liver mass,AB,,primarycarealberta-liver-mass-2025
+Assessment Tools and Calculators,,,MDCalc: Fibrosis-4 (FIB-4) Index for Liver Fibrosis,,,,,"fibrosis risk from age, AST, ALT and platelets",FIB-4 fibrosis,INTL,,mdcalc-fib-4
+Assessment Tools and Calculators,,,MDCalc: NAFLD Fibrosis Score,,,,,fibrosis risk in fatty liver disease,NFS fibrosis,INTL,,mdcalc-nafld-fibrosis-score
+Assessment Tools and Calculators,,,MDCalc: MELD Score (12 and older),,,,,severity score for end-stage liver disease,MELD cirrhosis,INTL,,mdcalc-meld
+Assessment Tools and Calculators,,,MDCalc: Child-Pugh Score for Cirrhosis Mortality,,,,,cirrhosis severity,Child-Pugh cirrhosis,INTL,,mdcalc-child-pugh
+Assessment Tools and Calculators,,,Stanford Medicine 25 - Liver Exam,,,,,"examining the liver: percussion, palpation and signs of liver disease",liver exam hepatomegaly,INTL,,stanford-25-liver-exam
+Prescribing,,,RxFiles - Drug Comparison Charts: Hepatitis B and C,,,,,antiviral comparison chart; needs an RxFiles subscription,RxFiles hepatitis antivirals,CA,,rxfiles-hepatitis-chart
+Prescribing,,,RxFiles - Drug Comparison Charts: Weight Loss Approach,,,,,weight-management medicines chart; needs an RxFiles subscription,RxFiles weight loss semaglutide,CA,,rxfiles-weight-loss-chart
+Prescribing,,,LiverTox: Clinical and Research Information on Drug-Induced Liver Injury,,,,,"NIH database of medicines, herbals and supplements that can injure the liver. International source: US, not Canadian.",drug-induced liver injury hepatotoxicity herbal,INTL,,livertox-nih
+Prescribing,note,,,,,,,No PharmaCare Special Authority criteria for MASLD found (checked 2026-11-08).,,,,
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",hepatology gastroenterology advice,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Non-Alcoholic Fatty Liver Disease (NAFLD),,,,,,fatty liver,BC,,healthlinkbc-nafld
+Patient Resources,,,HealthLink BC - Liver Function Tests,,,,,,liver blood tests,BC,,healthlinkbc-liver-function-tests
+Patient Resources,,,HealthLink BC - Cirrhosis,,,,,,,BC,,healthlinkbc-cirrhosis
+Patient Resources,,,Canadian Liver Foundation - Fatty liver disease,,,,,,fatty liver MASLD,CA,,liver-ca-fatty-liver
