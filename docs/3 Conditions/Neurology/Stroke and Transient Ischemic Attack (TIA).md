@@ -5,10 +5,10 @@ system: neurology
 tags: [condition, neurology, stroke, transient-ischemic-attack, secondary-prevention, urgent-care, driving]
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [stroke, TIA, transient ischemic attack, mini stroke, mini-stroke, ministroke, ischemic stroke, ischaemic stroke, minor stroke, cerebrovascular accident, CVA, cerebrovascular disease, brain attack, FAST, BE FAST, FAST VAN, facial droop, face drooping, arm weakness, slurred speech, trouble speaking, sudden weakness, sudden numbness, one-sided weakness, amaurosis fugax, transient vision loss, Canadian TIA Score, ABCD2, NIHSS, NIH stroke scale, stroke prevention clinic, TIA clinic, secondary stroke prevention, antiplatelet, ASA, aspirin, clopidogrel, Plavix, ticagrelor, Brilinta, DAPT, dual antiplatelet therapy, carotid stenosis, carotid endarterectomy, thrombolysis, tPA, tenecteplase, endovascular thrombectomy, EVT, Canadian Stroke Best Practice Recommendations, CSBPR, driving after stroke, post-stroke fatigue]
-status: review
+status: published
 last-reviewed: 2026-11-08
 review-due: 2027-11-08
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- Conditions wave 3, build wave 19, built 2026-11-08.
      BC Guideline: Ischemic Stroke and Transient Ischemic Attack (TIA) - Diagnosis and Acute Management, published January 14, 2026 (alphabetical list checked 2026-11-08). Key Sources: that guideline; the Canadian Stroke Best Practice Recommendations on secondary prevention (broader national guideline, with its TIA triage section); then the CMAJ review of TIA and minor stroke (2022).

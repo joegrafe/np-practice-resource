@@ -5,10 +5,10 @@ system: respiratory
 tags: [condition, respiratory, sleep-apnea, sleep, snoring, daytime-sleepiness, driving, pediatrics]
 jurisdiction: [BC, AB, "ON", CA, INTL]
 aliases: [OSA, sleep apnea, sleep apnoea, obstructive sleep apnoea, sleep disordered breathing, sleep-disordered breathing, snoring, loud snoring, stops breathing at night, trouble breathing at night, gasping at night, choking at night, witnessed apneas, daytime sleepiness, excessive daytime sleepiness, sleepy during the day, tired all the time, unrefreshing sleep, morning headache, CPAP, APAP, PAP therapy, positive airway pressure, BiPAP, sleep study, home sleep apnea test, HSAT, level 3 sleep study, polysomnography, PSG, overnight oximetry, STOP-Bang, STOP Bang, Epworth Sleepiness Scale, ESS, Mallampati, mandibular advancement device, oral appliance, dental appliance, sleep clinic, sleep physician, pediatric sleep apnea, driving and sleep apnea, HLTH 1944, HLTH 1945]
-status: review
+status: published
 last-reviewed: 2026-11-08
 review-due: 2027-11-08
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- Conditions wave 3, build wave 19, built 2026-11-08.
      BC Guideline: Obstructive Sleep Apnea - Assessment and Management in Adults; the BC Guidelines list shows 2021, and the guideline page gives the publication and effective date as September 19, 2023 (checked 2026-11-08). Its seven appendices are under it, and its HSAT requisition (HLTH 1944) and sleep consultation referral (HLTH 1945) are in Advice and Referral.

@@ -5,10 +5,10 @@ system: gastrointestinal-liver
 tags: [condition, gastrointestinal-liver, irritable-bowel-syndrome, abdominal-pain, diarrhea, constipation, bloating]
 jurisdiction: [BC, AB, "ON", CA, INTL]
 aliases: [IBS, irritable bowel, irritable bowel syndrome, spastic colon, IBS-D, IBS-C, IBS-M, diarrhea-predominant IBS, constipation-predominant IBS, functional bowel disorder, disorder of gut-brain interaction, DGBI, chronic abdominal pain, recurrent abdominal pain, cramping, bloating, gas, change in bowel habits, alternating diarrhea and constipation, Rome IV, Rome criteria, low FODMAP diet, FODMAP, peppermint oil, psyllium, Metamucil, antispasmodic, hyoscine, Buscopan, dicyclomine, Bentylol, pinaverium, Dicetel, trimebutine, Modulon, amitriptyline, linaclotide, Constella, lubiprostone, eluxadoline, rifaximin, loperamide, Imodium]
-status: review
+status: published
 last-reviewed: 2026-11-08
 review-due: 2027-11-08
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- Conditions wave 3, build wave 19, built 2026-11-08.
      No BC Guideline for irritable bowel syndrome (alphabetical list checked 2026-11-08). Key Sources: the Pathways BC Shared Care IBS pathway (2019) as the BC source; then the Canadian Association of Gastroenterology management guideline (2019); then AAFP's free review (2021, international).

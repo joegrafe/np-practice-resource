@@ -5,10 +5,10 @@ system: gastrointestinal-liver
 tags: [condition, gastrointestinal-liver, abnormal-liver-tests, masld, fatty-liver, cirrhosis, hepatitis, obesity]
 jurisdiction: [BC, AB, "ON", CA, INTL]
 aliases: [abnormal liver tests, abnormal liver enzymes, elevated liver enzymes, high liver enzymes, raised liver enzymes, abnormal liver function tests, abnormal LFTs, LFTs, liver function tests, liver blood tests, elevated ALT, high ALT, elevated AST, transaminases, transaminitis, elevated ALP, alkaline phosphatase, GGT, bilirubin, jaundice, cholestasis, MASLD, metabolic dysfunction-associated steatotic liver disease, steatotic liver disease, SLD, NAFLD, non-alcoholic fatty liver disease, nonalcoholic fatty liver, fatty liver, fatty liver disease, hepatic steatosis, MASH, NASH, steatohepatitis, MetALD, alcohol-related liver disease, fibrosis, liver fibrosis, FIB-4, NAFLD fibrosis score, transient elastography, FibroScan, cirrhosis, MELD, Child-Pugh, drug-induced liver injury, DILI, hepatotoxicity, LiverTox, hepatitis B, hepatitis C, hemochromatosis, high ferritin, liver mass, liver lesion, CASL]
-status: review
+status: published
 last-reviewed: 2026-11-08
 review-due: 2027-11-08
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- Conditions wave 3, build wave 19, built 2026-11-08.
      BC Guideline: Abnormal Liver Chemistry - Evaluation and Interpretation (2011), the current version (alphabetical list checked 2026-11-08). Key Sources: that guideline; the Canadian Association for the Study of the Liver MASLD clinical practice guidance (2026, more recent national guidance); then the Canadian Family Physician approach to steatotic liver disease (2025).
