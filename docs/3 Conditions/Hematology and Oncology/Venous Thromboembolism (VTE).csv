@@ -35,11 +35,11 @@ Algorithms and Pathways,,,Thrombosis Canada - Acute Management Algorithm: Pulmon
 Algorithms and Pathways,,,Thrombosis Canada - Thrombophilia Testing Algorithm,,-,,,interactive algorithm (tool version 22),thrombophilia workup,CA,,thrombosiscanada-thrombophilia-algorithm
 Algorithms and Pathways,note,,,,,,,No Pathways BC or Alberta pathway for venous thromboembolism found.,,BC,,
 Assessment Tools and Calculators,box,,BC Guidelines - Appropriate Use of CT for Suspected Pulmonary Embolism in the Non-Pregnant Adult,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/appropriate-imaging#pulmonaryCT,2019,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/appropriate_imaging_full_guideline.pdf,,part of Appropriate Imaging for Common Situations in Primary and Emergency Care,pulmonary embolism D-dimer,BC,,
+Assessment Tools and Calculators,,,Thrombosis Canada - Wells' Criteria for DVT,,,,,"Canadian rule (Wells, Ottawa)",Wells DVT,CA,,thrombosiscanada-wells-dvt
+Assessment Tools and Calculators,,,Thrombosis Canada - Wells' Criteria for Pulmonary Embolism,,,,,"Canadian rule (Wells, Ottawa)",Wells PE,CA,,thrombosiscanada-wells-pe
+Assessment Tools and Calculators,,,Thrombosis Canada - PERC Rule for Pulmonary Embolism,,,,,US rule,PERC,CA,,thrombosiscanada-perc
 Assessment Tools and Calculators,,,Thrombosis Canada - Simplified PESI (Pulmonary Embolism Severity Index),,,,,PE severity and outpatient treatment,sPESI PESI,CA,,thrombosiscanada-spesi
 Assessment Tools and Calculators,,,Thrombosis Canada - Khorana Risk Score for VTE in Cancer Patients,,,,,VTE risk in people with cancer,Khorana,CA,,thrombosiscanada-khorana
-Assessment Tools and Calculators,,,MDCalc: Wells' Criteria for DVT,,,,,"Canadian rule (Wells, Ottawa)",Wells DVT,INTL,,cdr-wells-dvt
-Assessment Tools and Calculators,,,MDCalc: Wells' Criteria for Pulmonary Embolism,,,,,"Canadian rule (Wells, Ottawa)",Wells PE,INTL,,mdcalc-wells-pe
-Assessment Tools and Calculators,,,MDCalc: PERC Rule for Pulmonary Embolism,,,,,US rule,PERC,INTL,,mdcalc-perc
 Assessment Tools and Calculators,md,,- More decision rules for chest pain and dyspnea — *see [Clinical Decision Rules](../../2%20Assessments/Clinical%20Decision%20Rules.md)*,,,,,,,,,
 Prescribing,md,,"- DOAC and warfarin guidelines, switching anticoagulants and perioperative management — *see [Atrial Fibrillation and Anticoagulation](../Cardiovascular/Atrial%20Fibrillation%20and%20Anticoagulation.md)*",,,,,,,BC,,
 Prescribing,box,,Thrombosis Canada - Clinical Guides: anticoagulants,https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca#:~:text=Apixaban,-,,,drug guides with dosing by indication; version dates as stated by Thrombosis Canada,anticoagulant dosing,CA,,

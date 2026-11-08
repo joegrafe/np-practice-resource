@@ -20,7 +20,7 @@ reviewers: []
      Key Sources: 1 to 3 only. BC Guideline first, then a more recent or broader national guideline, then one high-yield "approach to" or "management of" review.
      Further Resources: every other source, BC first, then national, then international (label it). One box or line per guideline, its PDF, algorithm and chapters on level 1 rows under it.
      Algorithms and Pathways: BC first, then Alberta's Pathway Hub.
-     Assessment Tools and Calculators: MDCalc first, then other sites as required.
+     Assessment Tools and Calculators: a BC or Canadian calculator first (BC Guidelines appendices, Thrombosis Canada clinical tools), then MDCalc and other sites as required. Not MDCalc's Framingham (hard coronary model): use BC Guidelines CVD Appendix B.
      Prescribing: always the RxFiles page when RxFiles has an appropriate resource (note when it needs a subscription). Special Authority criteria and forms go last, in one box.
      Every linked top-level row carries a region code from docs/regions.csv (BC, AB, ON, CA, US, INTL): the jurisdiction the content is written for, not the publisher's address.
      A row for its region alone (the BC Guideline in Key Sources, Special Authority, RACE, a CEP tool, Ontario eConsult, a quality standard) is only=yes; the BC key source gets a one-line copy at the top of Further Resources marked only=other. check_pages.py fails a condition sheet without them.
