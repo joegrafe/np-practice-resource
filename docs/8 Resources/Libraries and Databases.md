@@ -1,6 +1,6 @@
 ---
 title: Libraries and Databases
-redirect_from: [resources/library-guides, resources/bc-library-guides]
+redirect_from: [resources/library-guides, resources/bc-library-guides, "4 Resources/BC Library Guides"]
 aliases: [library, libraries, library guides, BC library guides, university library guides, libguides, nursing library, health authority library, ehlbc, electronic health library of bc, cinahl, medline, full text, uptodate, dynamed, bmj best practice, point of care reference, uptodate reimbursement, npac resources]
 type: resource
 tags: [resource, libraries, databases]
