@@ -109,6 +109,7 @@ gov.bc.ca
 gov.on.ca
 *.gov.on.ca
 hcaiinfo.ca
+headachesociety.ca
 healthlinkbc.ca
 healthpei.ca
 *.healthpei.ca
