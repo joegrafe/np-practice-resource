@@ -11,12 +11,14 @@ UNOPENED-SOURCES.csv, and writes two lists under environments/:
                      condition, assessment, prescribing and practice waves.
   environment-2.txt  Ontario, international and pediatric sources, the
                      unopened-sources candidates, the research sites of the
-                     2026-10-29 list that no page links yet, plus the core
-                     shared with environment 1: the list for new condition
+                     2026-10-29 list that no page links yet, plus the top
+                     sites: the list for new condition
                      pages (BC + Ontario + AAFP sweep), Ontario waves,
                      international sweeps and pediatric pages.
 
-Journal and reference sites (PubMed, BMJ, NEJM, JAMA, CMA ...) go on both.
+Every list starts with the top sites: journal and reference sites (PubMed, BMJ,
+NEJM, JAMA, CMA ...), the allowlist requests and the SHARED_TOP most-linked
+sites (Joe, 2026-11-09).
 
   environment-core.txt  The default: every linked domain in order of how
                      many links the site has to it, whatever its region,
@@ -39,7 +41,7 @@ from collections import Counter, defaultdict
 from urllib.parse import urlsplit
 
 LIMIT = 400
-SHARED_TOP = 40  # most-linked environment-1 domains that environment 2 carries too
+SHARED_TOP = 150  # most-linked sites (after the journal sites and allowlist requests) that every list carries
 PREVIOUS = "environments/previous-list-2026-11-05.txt"  # Joe's saved 400-entry list
 JOURNALS = {"ncbi.nlm.nih.gov", "bmj.com", "nejm.org", "jamanetwork.com", "sciencedirect.com", "springer.com", "cambridge.org", "lww.com", "cma.ca", "radiopaedia.org", "mcc.ca", "cochranelibrary.com", "thelancet.com", "wiley.com", "oup.com", "uptodate.com", "nice.org.uk", "cdc.gov", "who.int"}
 INTL = {"INTL", "US"}
@@ -135,18 +137,22 @@ def main():
         return prov and prov >= sum(v for k, v in reg.items() if k not in ("?", "md", "unopened")) / 2
 
     ranked = sorted(links, key=lambda d: (-links[d], d))
-    env1, env2 = [], []
+    wanted = [d for d in wanted if d not in JOURNALS]
+    # a linked site keeps its place by link count even when an unopened row names it too
+    linked = [d for d in ranked if links.get(d, 0) > 0 and d not in JOURNALS and d not in wanted]
+    core_order = sorted(JOURNALS) + wanted + linked + [d for d in ranked if d in unopened and d not in wanted and d not in linked] + previous
+    # the top sites go on every list: journal sites, allowlist requests, then the most-linked sites
+    top = core_order[:len(JOURNALS) + len(wanted) + SHARED_TOP]
+    env1, env2 = list(top), list(top)
     for d in ranked:
-        if d in JOURNALS:
-            env1.append(d)
-            env2.append(d)
-        elif d in unopened or ontario_or_intl(d):
+        if d in top:
+            continue
+        if d in unopened or ontario_or_intl(d):
             env2.append(d)
         else:
             env1.append(d)
-    # environment 2 also carries the shared core, then the old list's research sites
-    core = [d for d in env1[:SHARED_TOP]]
-    env2 = core + [d for d in env2 if d not in core] + previous
+    # environment 2 also carries the old list's research sites
+    env2 += previous
     ranked += previous
 
     def fit(ds, name):
@@ -162,10 +168,6 @@ def main():
 
     l1, n1 = fit(env1, "environment-1")
     l2, n2 = fit(env2, "environment-2")
-    wanted = [d for d in wanted if d not in JOURNALS]
-    # a linked site keeps its place by link count even when an unopened row names it too
-    linked = [d for d in ranked if links.get(d, 0) > 0 and d not in JOURNALS and d not in previous and d not in wanted]
-    core_order = sorted(JOURNALS) + wanted + linked + [d for d in ranked if d in unopened and d not in wanted and d not in linked] + previous
     lc, nc = fit(core_order, "environment-core")
     for name, lst in (("environment-1", l1), ("environment-2", l2), ("environment-core", lc)):
         with open(f"environments/{name}.txt", "w", encoding="utf-8") as fh:
