@@ -9,10 +9,10 @@ jurisdiction:
   - CA
   - INTL
 aliases: [allergic rhinitis, AR, hay fever, hayfever, seasonal allergies, allergies, pollen allergy, perennial rhinitis, rhinoconjunctivitis, runny nose, sneezing, nasal congestion, postnasal drip, allergy testing, skin prick test, intranasal corticosteroid, INCS, nasal steroid spray, fluticasone, Flonase, mometasone, Nasonex, budesonide, Rhinocort, triamcinolone, Nasacort, antihistamine, cetirizine, Reactine, loratadine, Claritin, desloratadine, Aerius, fexofenadine, Allegra, bilastine, Blexten, rupatadine, Rupall, azelastine, olopatadine, montelukast, allergen immunotherapy, allergy shots, sublingual immunotherapy]
-status: review
+status: published
 last-reviewed: 2026-11-09
 review-due: 2027-11-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- No BC Guidelines (GPAC) guideline, Pathways BC enhanced care pathway, Alberta Pathway Hub pathway, Centre for Effective Practice tool or Ontario Health quality standard for allergic rhinitis (checked 2026-11-09). The CSACI Canadian practice parameter (2024) leads.
      Ontario: the Ontario Drug Benefit does not cover antihistamines (ontario.ca, Get coverage for prescription drugs), so no ODB row.

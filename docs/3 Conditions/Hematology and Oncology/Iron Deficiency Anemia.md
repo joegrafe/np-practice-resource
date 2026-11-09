@@ -10,10 +10,10 @@ jurisdiction:
   - CA
   - INTL
 aliases: [iron deficiency anemia, iron deficiency anaemia, IDA, iron deficiency, low iron, low ferritin, ferritin, iron studies, microcytic anemia, anemia in pregnancy, heavy menstrual bleeding, oral iron, ferrous sulfate, ferrous gluconate, ferrous fumarate, Palafer, polysaccharide iron, FeraMAX, heme iron polypeptide, Proferrin, alternate day iron, IV iron, intravenous iron, iron infusion, iron sucrose, Venofer, ferric carboxymaltose, Ferinject, iron isomaltoside, ferric derisomaltose, Monoferric, iron rich foods]
-status: review
+status: published
 last-reviewed: 2026-11-09
 review-due: 2027-11-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- Scope: iron deficiency and iron deficiency anemia only, as Joe asked on 2026-11-09. Other anemias (B12 and folate deficiency, hemolysis) and high ferritin are not on this page; the approach to anemia schemes are on Presentations A to Z.
      BC lead: the BC Guideline Iron Deficiency - Diagnosis and Management (2019, current version). No Pathways BC pathway, Centre for Effective Practice tool or Ontario Health quality standard for iron deficiency (checked 2026-11-09). Ontario: no ODB criteria page found for IV iron; the row points to the ODB e-Formulary.

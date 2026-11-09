@@ -9,10 +9,10 @@ jurisdiction:
   - CA
   - INTL
 aliases: [anaphylaxis, anaphylactic reaction, anaphylactic shock, severe allergic reaction, allergic reaction, food allergy, peanut allergy, bee sting allergy, venom allergy, insect sting, vaccine reaction, alpha-gal, red meat allergy, epinephrine, adrenaline, EpiPen, EpiPen Jr, Allerject, Emerade, epinephrine auto-injector, auto-injector, IM epinephrine, biphasic anaphylaxis, refractory anaphylaxis, hives, urticaria, angioedema, anaphylaxis emergency plan]
-status: review
+status: published
 last-reviewed: 2026-11-09
 review-due: 2027-11-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- BC lead: the BC Immunization Manual Part 3, Management of Anaphylaxis in a Non-Hospital Setting (BCCDC, February 2025). No BC Guidelines (GPAC) guideline, Pathways BC enhanced care pathway, Alberta Pathway Hub pathway, Centre for Effective Practice tool or Ontario Health quality standard for anaphylaxis (checked 2026-11-09).
      Ontario: the Ontario Drug Benefit covers epinephrine auto-injectors with a prescription alone (ontario.ca, Get coverage for prescription drugs, updated August 18, 2026). BC PharmaCare coverage of auto-injectors was not confirmed: the row points to the PharmaCare formulary search.

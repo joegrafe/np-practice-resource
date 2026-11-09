@@ -9,10 +9,10 @@ jurisdiction:
   - CA
   - INTL
 aliases: [post COVID-19 condition, post-COVID-19 condition, PCC, long COVID, long-haul COVID, long haulers, post-acute sequelae of SARS-CoV-2, PASC, post-COVID syndrome, post-COVID fatigue, brain fog, post-exertional malaise, PEM, pacing, POTS, postural orthostatic tachycardia, dysautonomia, 10-minute stand test, myalgic encephalomyelitis, ME/CFS, chronic fatigue, shortness of breath after COVID, Post-COVID Recovery Clinic, PCRC, PC-ICCN, CAN-PCC]
-status: review
+status: published
 last-reviewed: 2026-11-09
 review-due: 2027-11-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- BC lead: the PHSA Long COVID Recovery Care Primary Care Toolkit (Post-COVID-19 Interdisciplinary Clinical Care Network, 2026) and the Pathways BC Post COVID-19 Recovery enhanced care pathway (November 2023). No BC Guidelines (GPAC) guideline, Alberta Pathway Hub pathway, Centre for Effective Practice tool or Ontario Health quality standard for post COVID-19 condition (checked 2026-11-09); Ontario Health's 2021 post-COVID guidance PDF is gone (404).
      Unconfirmed on 2026-11-09: the CMAJ Five things rows (cmaj.ca blocks automated checks).
