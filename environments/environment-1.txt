@@ -22,6 +22,8 @@ athabascau.ca
 auanet.org
 autochart.ai
 *.autochart.ai
+azureedge.net
+*.azureedge.net
 bc-cpc.ca
 bcaafc.com
 bccampus.ca
@@ -63,10 +65,12 @@ canadianmenopausesociety.org
 canadiantaskforce.ca
 *.canadiantaskforce.ca
 canadiem.org
+cancer.ca
 canfasd.ca
 canjhealthtechnol.ca
 canmat.org
 canpocus.com
+canuckplace.org
 car.ca
 cattonline.com
 ccirhken.ca
@@ -130,6 +134,7 @@ echoontario.ca
 eczemahelp.ca
 eczemasociety.ca
 ehlbc.ca
+ementalhealth.ca
 emergencycarebc.ca
 empathia.ai
 *.empathia.ai
@@ -183,6 +188,7 @@ libguides.com
 *.libguides.com
 liveplanbe.ca
 liver.ca
+lookingglassbc.com
 lookseechecklist.com
 lung.ca
 lunghealth.ca
@@ -237,6 +243,7 @@ obesitycanada.ca
 ohri.ca
 *.ohri.ca
 oipc.bc.ca
+oma.org
 omdpracticehub.com
 onlinecjc.ca
 ontario.ca
@@ -253,6 +260,7 @@ oup.com
 pain-calculator.com
 painbc.ca
 *.painbc.ca
+pallium.ca
 parachute.ca
 pathwaysbc.ca
 pathwaysmedicalcare.ca
@@ -347,6 +355,8 @@ va.gov
 vch.ca
 *.vch.ca
 victimlinkbc.ca
+victoriahospice.org
+virtualhospice.ca
 welcomebc.ca
 who.int
 *.who.int

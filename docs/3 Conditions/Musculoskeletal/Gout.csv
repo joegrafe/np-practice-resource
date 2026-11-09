@@ -1,0 +1,26 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,,,CMAJ - Five things to know about gout,,,,,"Canadian; diagnosis, flare treatment and urate-lowering therapy in five points; CMAJ 193(5):E171",CMAJ gout,CA,,cmaj-5t-gout-2021
+Key Sources,,,AAFP - Gout: Rapid Evidence Review,,,,,"International source: US guidance, not Canadian. Diagnosis, flare management, urate-lowering therapy and prophylaxis, with an evidence table",gout diagnosis treatment,INTL,,aafp-gout-2020
+Further Resources,,,Tools for Practice #262: Who let the Gout Out? Targeting Uric Acid Levels in Treating Gout,,,,,evidence summary for family practice on treating to a uric acid target,uric acid target,CA,,tfp-262-2020
+Further Resources,,,CMAJ - Five things to know about allopurinol hypersensitivity syndrome,,,,,"Canadian; recognising the syndrome and who is at higher risk, including HLA-B\*58:01 testing; CMAJ 195(13):E483",allopurinol hypersensitivity HLA-B*58:01 rash,CA,,cmaj-5t-allopurinol-hypersensitivity-syndrome-2023
+Further Resources,box,,American College of Rheumatology - 2020 Guideline for the Management of Gout,,,,,"International source: US guidance, not Canadian.",ACR gout guideline,INTL,,acr-gout-2020
+Further Resources,box,,NICE - Gout: diagnosis and management (NG219),,,,,"International source: UK guidance, not Canadian.",NICE gout,INTL,,nice-ng219-2022
+Algorithms and Pathways,,,Alberta's Pathway Hub - Gout,,,,,Primary Care Alberta pathway (Calgary Zone gout primary care pathway),Alberta gout pathway,AB,,primarycarealberta-gout-2024
+Algorithms and Pathways,note,,,,,,,No BC pathway for gout found.,,BC,,
+Assessment Tools and Calculators,,,MDCalc - Acute Gout Diagnosis Rule,,,,,"International tool: likelihood of gout in a monoarthritis without joint fluid, from the Netherlands diagnostic rule",gout diagnosis rule calculator,INTL,,mdcalc-acute-gout-diagnosis-rule
+Assessment Tools and Calculators,md,,- Joint examination — *see [Physical Exam by System](../../2%20Assessments/Physical%20Exam%20by%20System.md)*,,,,,,,,,
+Prescribing,,,RxFiles - Drug Comparison Charts: Gout,,,,,"flare treatment, prophylaxis and urate-lowering drugs compared; the chart needs an RxFiles subscription",gout chart allopurinol colchicine febuxostat,CA,,rxfiles-gout-chart
+Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
+Prescribing,,1,Criteria any prescriber can request:,,,,,,,,,
+Prescribing,,2,"Febuxostat (last updated March 17, 2025)",,,,,,Uloric,,,pharmacare-sa-febuxostat
+Prescribing,,1,PharmaCare Special Authority Request: General (HLTH 5328),https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,,,,,
+Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary (febuxostat is not a listed benefit); nurse practitioners submit requests through SADIE,EAP SADIE Ontario febuxostat,ON,yes,odb-eap
+Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",rheumatology advice,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Gout,,,,,,,BC,,healthlinkbc-gout
+Patient Resources,,,HealthLink BC - Gout: Changing Your Diet,,,,,,diet purines,BC,,healthlinkbc-gout-diet
+Patient Resources,,,HealthLink BC - Eating Guidelines for Gout,-,-,,,"handout, with translations on HealthLink BC",diet handout,BC,,healthlinkbc-eating-guidelines-gout
+Patient Resources,,,BC Renal - Diet to Manage High Uric Acid Levels and Gout in Kidney Disease,-,,,,for people with chronic kidney disease,kidney disease diet,BC,,bc-renal-gout-diet
+Patient Resources,,,RheumInfo - Gout,,,,,Canadian rheumatologist-written patient information,,CA,,rheuminfo-gout
+Patient Resources,,,Arthritis Society Canada - Gout,,,,,,,CA,,arthritis-society-gout

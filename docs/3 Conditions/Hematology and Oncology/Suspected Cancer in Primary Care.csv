@@ -1,0 +1,48 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,box,,BC Guidelines - Suspected cancer in primary care,,,,,"five BC Guidelines for recognising, investigating and referring suspected lung, breast, prostate, endometrial and ovarian cancer",BC cancer guidelines GPAC,BC,yes,
+Key Sources,,1,Suspected Lung Cancer in Primary Care,,,,,,lung cancer hemoptysis chest x-ray,,,bc-gpac-suspected-lung-cancer-2021
+Key Sources,,1,Breast Disease and Cancer: Diagnosis,,,,,,breast lump mammogram,,,bc-gpac-breast-disease-diagnosis-2013
+Key Sources,,2,Appendix A: Algorithms (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/brdisease_appendix_a.pdf,,,,,breast algorithm,,,
+Key Sources,,1,Prostate Cancer Part 1: Diagnosis and Referral in Primary Care,,,,,,PSA prostate,,,bc-gpac-prostate-cancer-part1-2020
+Key Sources,,2,Appendix B: Care Pathway (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/prostatecancer-part1_appendixb.pdf,,,,,prostate pathway,,,
+Key Sources,,2,Appendix C: Care Pathway (PDF),https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/prostatecancer-part1_appendixc.pdf,,,,,prostate pathway,,,
+Key Sources,,1,Endometrial Cancer,,,,,,postmenopausal bleeding endometrial,,,bc-gpac-endometrial-cancer-2014
+Key Sources,,1,"Ovarian, Fallopian Tube and Primary Peritoneal Cancers",,,,,,ovarian CA-125 adnexal mass,,,bc-gpac-ovarian-cancer-2014
+Key Sources,,,Ontario Health - BEACON Suspicion of Cancer Service,,,,,"Ontario; a rapid diagnostic service for patients with a suspicion of cancer, at pilot sites, referred through Ocean eReferral",BEACON suspicion of cancer Ontario,ON,yes,ontario-health-beacon-suspicion-of-cancer
+Key Sources,,,NICE - Suspected cancer: recognition and referral (NG12),,,,,"International source: UK guidance, not Canadian. Referral criteria for suspected cancer, organised by cancer site and by symptom",NICE suspected cancer referral two week wait,INTL,,nice-ng12-2026
+Further Resources,box,,BC Guidelines - Suspected cancer in primary care,,,,,"five BC Guidelines for recognising, investigating and referring suspected lung, breast, prostate, endometrial and ovarian cancer",BC cancer guidelines GPAC,BC,other,
+Further Resources,,1,Suspected Lung Cancer in Primary Care,,,,,,,,,bc-gpac-suspected-lung-cancer-2021
+Further Resources,,1,Breast Disease and Cancer: Diagnosis,,,,,,,,,bc-gpac-breast-disease-diagnosis-2013
+Further Resources,,1,Prostate Cancer Part 1: Diagnosis and Referral in Primary Care,,,,,,,,,bc-gpac-prostate-cancer-part1-2020
+Further Resources,,1,Endometrial Cancer,,,,,,,,,bc-gpac-endometrial-cancer-2014
+Further Resources,,1,"Ovarian, Fallopian Tube and Primary Peritoneal Cancers",,,,,,,,,bc-gpac-ovarian-cancer-2014
+Further Resources,box,,BC Cancer Family Practice Oncology Network - Upper Gastrointestinal Cancer guidelines,https://www.bccancer.bc.ca/health-professionals/networks/family-practice-oncology-network/guidelines-protocols#6098,2026,,,"BC Cancer guidance for family practice in three parts, covering diagnosis and referral",upper GI cancer FPON,BC,,
+Further Resources,,1,"Part 1: Esophagus and Stomach (PDF)",https://www.bccancer.bc.ca/family-oncology-network-site/Documents/UpperGICancer-Part1-Final-2025Sept1.pdf,2025,,,,esophageal gastric stomach cancer dysphagia,,,
+Further Resources,,1,"Part 2: Pancreatic Cancer and Neuroendocrine Tumours of the Pancreas and Duodenum (PDF)",https://www.bccancer.bc.ca/family-oncology-network-site/Documents/UpperGICancer-Part2-Final-Revised-2026October.pdf,2026,,,,pancreatic cancer NET,,,
+Further Resources,,1,"Part 3: Hepatocellular Carcinoma, Gallbladder and Biliary Tract Cancers (PDF)",https://www.bccancer.bc.ca/family-oncology-network-site/Documents/UpperGICancer-Part3-HepatobiliaryTract-Final-October2026.pdf,2026,,,,liver cancer HCC gallbladder biliary,,,
+Further Resources,,,CMAJ - Five things to know about diagnosing ovarian cancer,,,,,"Canadian; CMAJ 190(42):E1259",ovarian cancer,CA,,cmaj-5t-diagnosing-ovarian-cancer-2018
+Further Resources,,,CMAJ - Five things to know about endometrial cancer,,,,,"Canadian; CMAJ 193(36):E1423",endometrial cancer,CA,,cmaj-5t-endometrial-cancer-2021
+Further Resources,,,CMAJ - Five things to know about pulmonary nodules as incidental findings,,,,,"Canadian; CMAJ 190(6):E167",lung nodule incidental,CA,,cmaj-5t-pulmonary-nodules-as-incidental-findings-2018
+Algorithms and Pathways,,,Pathways BC - Post-Menopausal Bleeding Primary Care Pathway,,,,,BC enhanced care pathway,postmenopausal bleeding PMB,BC,yes,bc-pathway-postmenopausal-bleeding-2026
+Algorithms and Pathways,box,,Alberta's Pathway Hub - cancer diagnosis and referral pathways,,,,,"Primary Care Alberta pathways, each with an algorithm (PDF)",Alberta cancer pathways,AB,,
+Algorithms and Pathways,,1,Lymphadenopathy / Lymph Node Assessment,https://www.primarycarealberta.ca/pathways/437/clinical,2024,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-lymph-node-assessment.pdf,,,lymphadenopathy swollen lymph nodes,,,
+Algorithms and Pathways,,1,Head and Neck Cancer Diagnosis and Referral,https://www.primarycarealberta.ca/pathways/354/clinical,2024,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-head-neck-cancer-diagnosis.pdf,,,head and neck cancer,,,
+Algorithms and Pathways,,1,"Esophageal Cancer Prevention, Screening and Diagnosis",https://www.primarycarealberta.ca/pathways/162/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-esophageal-cancer-prevention-screening-diagnosis.pdf,,,esophageal cancer dysphagia,,,
+Algorithms and Pathways,,1,"Gastric Cancer Prevention, Screening and Diagnosis",https://www.primarycarealberta.ca/pathways/185/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-gastric-cancer-prevention-screening-diagnosis.pdf,,,gastric cancer,,,
+Algorithms and Pathways,,1,Iron Deficiency Anemia (high risk for colorectal cancer),https://www.primarycarealberta.ca/pathways/227/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-iron-deficency-anemia-ccd.pdf,,,iron deficiency anemia colorectal cancer,,,
+Algorithms and Pathways,,1,High-Risk Rectal Bleeding,https://www.primarycarealberta.ca/pathways/326/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-high-risk-rectal-bleeding-ccd.pdf,,,rectal bleeding colorectal cancer,,,
+Algorithms and Pathways,,1,Liver Mass,,,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-liver-mass.pdf,,,liver mass,,,primarycarealberta-liver-mass-2025
+Algorithms and Pathways,,1,Pancreaticobiliary Mass,https://www.primarycarealberta.ca/pathways/257/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-pancreaticobiliary-mass.pdf,,,pancreatic mass,,,
+Algorithms and Pathways,,1,Renal Mass,https://www.primarycarealberta.ca/pathways/113/clinical,2024,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-renal-mass.pdf,,,renal mass kidney cancer,,,
+Algorithms and Pathways,,1,Hematuria Evaluation (bladder cancer),https://www.primarycarealberta.ca/pathways/198/clinical,2024,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-hematuria-bladder-cancer.pdf,,,hematuria bladder cancer,,,
+Algorithms and Pathways,,1,Prostate-Specific Antigen (PSA) Testing,https://www.primarycarealberta.ca/pathways/149/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-prostate-specific-antigen.pdf,,,PSA,,,
+Assessment Tools and Calculators,box,,Canadian Association of Radiologists - Diagnostic Imaging Referral Guidelines,,,,,national guidance on which imaging test to order,CAR imaging referral,CA,,car-referral-guidelines-2025
+Assessment Tools and Calculators,,1,Cancer (PDF),https://car.ca/wp-content/uploads/2025/05/Cancer_Referral_Guideline_Final-1.pdf,,,,,cancer imaging,,,
+Assessment Tools and Calculators,md,,"- [Preventive Care and Cancer Screening](../../2%20Assessments/Preventive%20Care%20and%20Cancer%20Screening.md) — *BC Cancer and Canadian Task Force screening for breast, cervical, colorectal and lung cancer*",,,,,,cancer screening,,,
+Assessment Tools and Calculators,md,,- [Lab and Imaging](../../2%20Assessments/Lab%20and%20Imaging.md) — *ordering and interpreting labs and imaging*,,,,,,,,,
+Prescribing,note,,,,,,,"RxFiles has no chart for cancer diagnosis; symptom treatment is on each condition page, and palliative care on [Palliative Care](../../4%20Populations/Palliative%20Care.md).",,,,
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",oncology advice,BC,yes,race-connect
+Advice and Referral,,,BC Cancer - Hereditary Cancer Program Referral Form,-,,,,for patients with a personal or family history that may point to a hereditary cancer syndrome,hereditary cancer genetic testing BRCA referral,BC,yes,bccancer-hereditary-cancer-referral-form
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,BC Cancer - Health Info,,,,,"cancer types, coping and support for patients and families",,BC,,bccancer-health-info
+Patient Resources,,,Canadian Cancer Society - Cancer types,,,,,,,CA,,canadian-cancer-society-cancer-types
