@@ -9,10 +9,10 @@ jurisdiction:
   - CA
   - INTL
 aliases: [shingles, herpes zoster, zoster, HZ, postherpetic neuralgia, post-herpetic neuralgia, PHN, herpes zoster ophthalmicus, HZO, zoster ophthalmicus, Ramsay Hunt syndrome, shingles vaccine, zoster vaccine, Shingrix, recombinant zoster vaccine, RZV, Zostavax, valacyclovir, valaciclovir, Valtrex, acyclovir, aciclovir, famciclovir, gabapentin, pregabalin, amitriptyline, nortriptyline, capsaicin, varicella, chickenpox, dermatome]
-status: draft
+status: published
 last-reviewed: 2026-11-09
 review-due: 2027-11-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- No BC Guidelines (GPAC) guideline, BC pathway, Alberta Pathway Hub pathway, Centre for Effective Practice tool or Ontario Health quality standard for herpes zoster (checked 2026-11-09). Bugs & Drugs leads for treatment and the Canadian Immunization Guide for the vaccine.
      RxFiles has no herpes zoster chart; DermNet has no zoster vaccine, famciclovir or herpes zoster ophthalmicus page.

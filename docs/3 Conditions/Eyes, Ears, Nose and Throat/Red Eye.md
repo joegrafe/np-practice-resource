@@ -9,10 +9,10 @@ jurisdiction:
   - CA
   - INTL
 aliases: [red eye, pink eye, pinkeye, conjunctivitis, bacterial conjunctivitis, viral conjunctivitis, allergic conjunctivitis, ophthalmia neonatorum, neonatal conjunctivitis, keratitis, corneal abrasion, corneal ulcer, corneal foreign body, uveitis, iritis, acute angle-closure glaucoma, scleritis, episcleritis, subconjunctival hemorrhage, blepharitis, stye, hordeolum, chalazion, periorbital cellulitis, preseptal cellulitis, orbital cellulitis, chemical eye injury, eye pain, painful eye, fluorescein, contact lens, eye drops, ciprofloxacin eye drops, ofloxacin, moxifloxacin, erythromycin eye ointment, Polysporin, tobramycin]
-status: draft
+status: published
 last-reviewed: 2026-11-09
 review-due: 2027-11-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- No BC Guidelines (GPAC) guideline, BC pathway, Alberta Pathway Hub pathway, Centre for Effective Practice tool or Ontario Health quality standard for red eye or conjunctivitis (checked 2026-11-09). Bugs & Drugs leads.
      Unconfirmed on 2026-11-09: the CMAJ Five things rows (cmaj.ca blocks automated checks). Bugs & Drugs pages are drawn by script: their titles come from its menu.

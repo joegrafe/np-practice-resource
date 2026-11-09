@@ -9,10 +9,10 @@ jurisdiction:
   - CA
   - INTL
 aliases: [eczema, atopic dermatitis, atopic eczema, AD, infant eczema, childhood eczema, itchy rash, flexural eczema, hand eczema, discoid eczema, nummular eczema, dyshidrotic eczema, pompholyx, eczema herpeticum, emollient, moisturizer, bleach bath, wet wraps, topical steroid, topical corticosteroid, hydrocortisone, betamethasone, fingertip unit, FTU, tacrolimus, Protopic, pimecrolimus, Elidel, calcineurin inhibitor, crisaborole, Eucrisa, dupilumab, Dupixent, tralokinumab, Adtralza, lebrikizumab, Ebglyss, upadacitinib, Rinvoq, abrocitinib, Cibinqo, JAK inhibitor, EASI, SCORAD]
-status: draft
+status: published
 last-reviewed: 2026-11-09
 review-due: 2027-11-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- No BC Guidelines (GPAC) guideline, Alberta Pathway Hub pathway, Centre for Effective Practice tool or Ontario Health quality standard for atopic dermatitis (checked 2026-11-09). The BC Children's Eczema in a Nutshell pathway (Pathways BC, 2026) is the BC key source.
      Unconfirmed on 2026-11-09 (sites block automated checks; confirmed through PubMed instead): cdn-ad-systemic-consensus-2025 (jaadinternational.org), aad-ad-topical-2023 and aad-ad-systemic-2024 (jaad.org), aaaai-acaai-ad-2023 (annallergy.org).

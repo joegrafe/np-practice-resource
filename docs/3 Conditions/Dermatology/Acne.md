@@ -9,10 +9,10 @@ jurisdiction:
   - CA
   - INTL
 aliases: [acne, acne vulgaris, pimples, zits, comedones, blackheads, whiteheads, cystic acne, nodulocystic acne, acne scarring, hormonal acne, benzoyl peroxide, BPO, adapalene, Differin, Tactupump, tretinoin, Retin-A, Stieva-A, tazarotene, Arazlo, topical clindamycin, Clindoxyl, clascoterone, Winlevi, azelaic acid, doxycycline, minocycline, isotretinoin, Accutane, Epuris, Clarus, spironolactone, combined oral contraceptive, cyproterone, Diane-35]
-status: draft
+status: published
 last-reviewed: 2026-11-09
 review-due: 2027-11-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- No BC Guidelines (GPAC) guideline, Alberta Pathway Hub pathway, Centre for Effective Practice tool or Ontario Health quality standard for acne (checked 2026-11-09). The BC Provincial Academic Detailing acne topic (2026) is the BC key source.
      Unconfirmed on 2026-11-09 (sites block automated checks; confirmed through PubMed instead): cmaj-acne-guideline-2016 (cmaj.ca), cfp-acne-update-2025 (cfp.ca), aad-acne-2024 (jaad.org).
