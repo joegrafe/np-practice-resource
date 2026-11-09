@@ -64,8 +64,8 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Mental Health and Substance Use,,,,,,,,AB,primarycarealberta-tobacco-2026
 ,Infectious Disease,Measles,https://www.primarycarealberta.ca/pathways/272/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-measles.pdf,,,,AB,
 ,Hematology and Oncology,Head and Neck Cancer Diagnosis and Referral,https://www.primarycarealberta.ca/pathways/354/clinical,2024,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-head-neck-cancer-diagnosis.pdf,,,,AB,
-,Hematology and Oncology,Iron Deficiency Anemia (adult),https://www.primarycarealberta.ca/pathways/426/clinical,2026,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-iron-deficency-anemia.pdf,,,,AB,
-,Hematology and Oncology,Iron Deficiency Anemia (high risk for colorectal cancer),https://www.primarycarealberta.ca/pathways/227/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-iron-deficency-anemia-ccd.pdf,,,,AB,
+,Hematology and Oncology,Iron Deficiency Anemia (adult),,,,,,,AB,ab-pathway-hub-iron-deficiency-anemia
+,Hematology and Oncology,Iron Deficiency Anemia (high risk for colorectal cancer),,,,,,,AB,ab-pathway-hub-iron-deficiency-anemia-crc
 ,Hematology and Oncology,Lymphadenopathy / Lymph Node Assessment,https://www.primarycarealberta.ca/pathways/437/clinical,2024,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-lymph-node-assessment.pdf,,,,AB,
 ,Hematology and Oncology,One-carepath: Integrating Supportive Care,https://www.primarycarealberta.ca/pathways/429/clinical,2026,,[Interactive pathway](https://onecarepath.albertahealthservices.ca/),,,AB,
 ,"Eyes, Ears, Nose and Throat",Rhinosinusitis,,,,,,,AB,alberta-rhinosinusitis-pathway

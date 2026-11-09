@@ -9,6 +9,7 @@ ajkd.org
 albertadoctors.org
 albertahealthservices.ca
 *.albertahealthservices.ca
+allergyasthma.ca
 alzheimer.ca
 ammi.ca
 annallergy.org
@@ -233,6 +234,7 @@ libguides.com
 litfl.com
 liveplanbe.ca
 liver.ca
+longcovidweb.ca
 lookingglassbc.com
 lookseechecklist.com
 lung.ca
@@ -292,21 +294,16 @@ obesitycanada.ca
 ohri.ca
 *.ohri.ca
 oipc.bc.ca
-oma.org
 omdpracticehub.com
 onlinecjc.ca
 ontario.ca
 *.ontario.ca
-ontariocaregiver.ca
 ontariohealth.ca
 ontariomidwives.ca
-ontariopoisoncentre.ca
 ontariorenalnetwork.ca
 ontariorheum.ca
 ophthalmology.ca
-optionsforsexualhealth.org
 optometrists.ca
-orthobullets.com
 osteoporosis.ca
 osteostrategy.on.ca
 otn.ca
@@ -336,6 +333,9 @@ raceconnect.ca
 radiopaedia.org
 rainbowhealthontario.ca
 rccbc.ca
+recmap.org
+*.recmap.org
+resus.org.uk
 rheum.ca
 rheuminfo.com
 rourkebabyrecord.ca

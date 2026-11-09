@@ -1,0 +1,29 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,box,,PHSA - Long COVID Recovery Care: Primary Care Toolkit,,,,,"BC primary care toolkit from the Post-COVID-19 Interdisciplinary Clinical Care Network, with its care pathway and FAQ",long COVID toolkit PC-ICCN,BC,yes,phsa-long-covid-primary-care-toolkit
+Key Sources,,1,Care Pathways,,,https://www.phsa.ca/health-professionals-site/Documents/PC-ICCN%20Care%20Pathways.pdf,,a long COVID patient's care pathway,,,,
+Key Sources,,1,Common Questions about Long COVID: FAQ for primary care providers,,,https://www.phsa.ca/health-professionals-site/Documents/PC-ICCN-Primary_Care_Provider_FAQ-Common_Questions_about_Long_COVID.pdf,,,,,,
+Key Sources,,1,Common Long COVID Work Accommodations,,,https://www.phsa.ca/health-professionals-site/Documents/PC-ICCN-Common_Long_COVID-Work_Accommodations.pdf,,,return to work,,,
+Key Sources,,1,10-Minute Stand Test Instructions for Patients (POTS symptoms),,,https://www.phsa.ca/health-professionals-site/Documents/PC-ICCN%2010%20Minute%20Stand%20Test%20Instructions%20for%20patients-POTS%20symptoms.pdf,,instructions to give a patient with orthostatic symptoms,POTS orthostatic stand test,,,
+Key Sources,,,Canadian Guidelines for Post COVID-19 Condition (CAN-PCC),,,,"[Recommendations list](https://can-pcc.recmap.org/recommendations) · [Plain language recommendations](https://can-pcc.recmap.org/plrs)",Canadian living guideline from McMaster University; recommendations map with filters,long COVID guideline,CA,,can-pcc-2025
+Key Sources,,,American Family Physician - Long COVID: Rapid Evidence Review,,,,,"International source: American review, not Canadian",,INTL,,afp-long-covid-2022
+Further Resources,,,PHSA - Long COVID Recovery Care: Primary Care Toolkit,,,,,BC primary care toolkit for long COVID,,BC,other,phsa-long-covid-primary-care-toolkit
+Further Resources,,,Public Health Agency of Canada - Post COVID-19 Condition: For Health Professionals,,-,,,"national definition, symptoms and evidence summary",,CA,,phac-post-covid-19-condition-hcp
+Further Resources,box,,CMAJ - Five Things to Know About,,,,,short Canadian practice reviews,,CA,,
+Further Resources,,1,Diagnosing post-COVID-19 condition (long COVID) in adults,,,,,,,,,cmaj-5t-diagnosing-post-covid-19-condition-long-2023
+Further Resources,,1,Assessing common and potentially modifiable symptoms of post-COVID-19 condition in adults,,,,,,,,,cmaj-5t-assessing-common-and-potentially-modifiable-symptoms-2023
+Further Resources,,1,Treating common and potentially modifiable symptoms of post-COVID-19 condition in adults,,,,,,,,,cmaj-5t-treating-common-and-potentially-modifiable-symptoms-2023
+Further Resources,box,,"American Family Physician (AAFP, United States)",,,,,"International source: American articles, not Canadian.",,INTL,,
+Further Resources,,1,,,,,,,,,,afp-long-covid-children-2022
+Further Resources,,1,,,,,,,,,,afp-long-covid-anxiety-depression-2026
+Further Resources,,,NICE - COVID-19 Rapid Guideline: Managing the Long-Term Effects of COVID-19 (NG188),,,,,"International source: UK guidance, not Canadian",,INTL,,nice-ng188-2024
+Further Resources,,,World Health Organization - Clinical Management of COVID-19: Living Guideline,,,,,"International source: WHO guidance, with a chapter on post COVID-19 condition",,INTL,,who-covid-clinical-management-2023
+Algorithms and Pathways,,,Pathways BC - Post COVID-19 Recovery,,,,,BC enhanced care pathway; more BC pathways in [Pathways BC Enhanced Care Pathways](../../1%20Approaches/Pathways%20BC%20Enhanced%20Care%20Pathways.md),long COVID pathway,BC,yes,pathways-bc-post-covid-recovery-2023
+Algorithms and Pathways,note,0,,,,,,No Alberta pathway for post COVID-19 condition found.,,AB,,
+Assessment Tools and Calculators,note,,,,,,,"The 10-Minute Stand Test instructions for patients with POTS symptoms are under the PHSA toolkit in Key Sources.",,,,
+Prescribing,note,,,,,,,"RxFiles has no post COVID-19 condition chart (its COVID-19 chart covers acute infection, checked 2026-11-09); symptom treatment is in the toolkit and CMAJ reviews above.",,,,
+Advice and Referral,,,PHSA - Post-COVID-19 Care Network: Referral Information and PCRC Referral Form,,,,,"BC referral information, with the printable Post-COVID Recovery Clinic referral form",long COVID clinic referral,BC,yes,phsa-post-covid-recovery-clinic-referral
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Long-Term Effects of COVID-19,,,,,,long COVID,BC,,healthlinkbc-long-term-effects-covid-19
+Patient Resources,,,Public Health Agency of Canada - Post COVID-19 Condition (Long COVID): Symptoms and Treatment,,,,,,,CA,,phac-post-covid-19-condition-public
+Patient Resources,,,MyGuide: Long COVID (Long COVID Web),,,,,Canadian self-management guide for people living with long COVID,,CA,,longcovidweb-myguide

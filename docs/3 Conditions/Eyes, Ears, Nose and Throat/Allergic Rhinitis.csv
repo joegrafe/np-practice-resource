@@ -1,0 +1,15 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,,,Focused Allergic Rhinitis Practice Parameter for Canada (CSACI),,,,,"Canadian guideline: diagnosis, intranasal and oral treatments, combination therapy and immunotherapy; open access",hay fever guideline,CA,,aaci-allergic-rhinitis-canada-2024
+Key Sources,,,American Family Physician - Allergic Rhinitis: Rapid Evidence Review,,,,,"International source: American review, not Canadian",hay fever review,INTL,,afp-allergic-rhinitis-2023
+Further Resources,,,CMAJ - Five Things to Know About: How to Use Antihistamines,,,,,short Canadian practice review,antihistamine,CA,,cmaj-5t-how-to-use-antihistamines-2021
+Further Resources,,,Tools for Practice #317: Antihistamines for Allergic Rhinosinusitis,,,,,PEER evidence summary comparing antihistamines and intranasal corticosteroids,antihistamine nasal steroid,CA,,tfp-317-2022
+Further Resources,,,Choosing Wisely Canada - Allergy and Clinical Immunology Recommendations,,,,,"Canadian Society of Allergy and Clinical Immunology list, including allergy testing",allergy testing,CA,,choosing-wisely-allergy-clinical-immunology
+Further Resources,,,Canadian Clinical Practice Guidelines for Acute and Chronic Rhinosinusitis,,,,,"when nasal symptoms may be sinusitis; also on [Respiratory Tract Infections](../Infectious%20Disease/Respiratory%20Tract%20Infections.md)",sinusitis,CA,,canadian-rhinosinusitis-2011
+Algorithms and Pathways,note,0,,,,,,No BC or Alberta pathway for allergic rhinitis found.,,BC,,
+Assessment Tools and Calculators,,,American Family Physician - Allergy Testing: Common Questions and Answers,,,,,"International source: American review of skin prick and specific IgE testing, not Canadian",allergy test skin prick IgE,INTL,,afp-allergy-testing-2018
+Prescribing,,,RxFiles - Drug Comparison Charts: Intranasal Corticosteroid,,,,,intranasal corticosteroids compared; the chart needs an RxFiles subscription,nasal steroid spray,CA,,rxfiles-intranasal-corticosteroid-chart
+Prescribing,,,"RxFiles - Drug Comparison Charts: OTC: Cough & Cold, Allergy, Dermatitis, & Vitamins",,,,,non-prescription antihistamines and decongestants compared; the chart needs an RxFiles subscription,antihistamine OTC,CA,,rxfiles-otc-cough-cold-allergy-chart
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Allergic Rhinitis,,,,,,hay fever,BC,,healthlinkbc-allergic-rhinitis
+Patient Resources,,,American Family Physician - Allergies: Controlling Your Symptoms,,,,,"International source: American patient handout, not Canadian",,INTL,,afp-patient-allergies-2023

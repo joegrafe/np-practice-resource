@@ -26,7 +26,7 @@ search:
 
 *Named as on [Presentations A to Z](Presentations%20A%20to%20Z.md), which lists the approach articles for each one.*
 
-<!-- material/tags { include: [abnormal-uterine-bleeding, anxiety, back-pain, chest-pain, confusion-and-delirium, cough, dementia-and-memory-loss, depressed-mood, diarrhea, dizziness-and-vertigo, dyspepsia-and-heartburn, dyspnea, dysuria-and-urinary-symptoms, ear-pain, edema, falls, fatigue, fever, foot-and-ankle-pain, hand-and-wrist-pain, headache, hip-pain, hypertension, insomnia-and-sleep-problems, joint-pain, knee-pain, nausea-and-vomiting, palpitations, pelvic-pain, pruritus, rash, red-eye, sexual-dysfunction, sore-throat, substance-use, suicidal-thoughts, vaginal-discharge, weight-gain-and-obesity, wheeze-and-stridor] } -->
+<!-- material/tags { include: [abnormal-uterine-bleeding, anemia, anxiety, back-pain, chest-pain, confusion-and-delirium, cough, dementia-and-memory-loss, depressed-mood, diarrhea, dizziness-and-vertigo, dyspepsia-and-heartburn, dyspnea, dysuria-and-urinary-symptoms, ear-pain, edema, falls, fatigue, fever, foot-and-ankle-pain, hand-and-wrist-pain, headache, hip-pain, hypertension, insomnia-and-sleep-problems, joint-pain, knee-pain, nausea-and-vomiting, palpitations, pelvic-pain, pruritus, rash, red-eye, sexual-dysfunction, sore-throat, substance-use, suicidal-thoughts, vaginal-discharge, weight-gain-and-obesity, wheeze-and-stridor] } -->
 
 ## Urgent Care
 

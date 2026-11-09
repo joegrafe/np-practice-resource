@@ -4,15 +4,16 @@ type: index
 tags: [index]
 jurisdiction: [BC, CA]
 status: published
-description: "Hematology and Oncology conditions for nurse practitioners: suspected cancer in primary care and venous thromboembolism."
-last-reviewed: 2026-11-02
-review-due: 2027-11-02
+description: "Hematology and Oncology conditions for nurse practitioners: iron deficiency anemia, suspected cancer in primary care and venous thromboembolism."
+last-reviewed: 2026-11-09
+review-due: 2027-11-09
 reviewers: [joegrafe]
 hide: [comments]
 ---
 
 ## In This Section
 
+- [Iron Deficiency Anemia](Iron%20Deficiency%20Anemia.md)
 - [Suspected Cancer in Primary Care](Suspected%20Cancer%20in%20Primary%20Care.md)
 - [Venous Thromboembolism (VTE)](Venous%20Thromboembolism%20%28VTE%29.md)
 
