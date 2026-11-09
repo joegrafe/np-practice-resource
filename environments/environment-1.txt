@@ -28,7 +28,6 @@ bccancer.bc.ca
 bccdc.ca
 bccfe.ca
 *.bccfe.ca
-bcchildrens.ca
 bccnm.ca
 *.bccnm.ca
 bccsu.ca
@@ -75,7 +74,6 @@ centreforlunghealth.ca
 cfpclearn.ca
 cheo.on.ca
 childhealthbc.ca
-choosingwiselycanada.org
 cirrhosiscare.ca
 ckdpathway.ca
 cma.ca
@@ -95,6 +93,7 @@ csepguidelines.ca
 cts-sct.ca
 cua.org
 cuaj.ca
+cvdcalculator.com
 dal.ca
 *.dal.ca
 deprescribing.org
@@ -105,6 +104,7 @@ doctorsofbc.ca
 dpic.org
 dropthelabel.ca
 ecgmadesimple.ca
+eczemahelp.ca
 ehlbc.ca
 emergencycarebc.ca
 empathia.ai
@@ -140,7 +140,6 @@ islandhealth.ca
 *.islandhealth.ca
 ismp-canada.org
 issbc.org
-jaadinternational.org
 jamanetwork.com
 jogc.com
 jrheum.org
@@ -177,6 +176,7 @@ nedic.ca
 nejm.org
 nhconnections.ca
 nice.org.uk
+*.nice.org.uk
 nidus.ca
 northernhealth.ca
 *.northernhealth.ca
@@ -207,6 +207,7 @@ pharmacists.ca
 primarycarealberta.ca
 psbchealthhub.ca
 *.psbchealthhub.ca
+publications.gc.ca
 quitnow.ca
 qxmd.com
 raceapp.ca
@@ -232,6 +233,7 @@ smartsexresource.com
 sogc.org
 *.sogc.org
 springer.com
+*.springer.com
 srpc.ca
 *.srpc.ca
 stethopedia.ca

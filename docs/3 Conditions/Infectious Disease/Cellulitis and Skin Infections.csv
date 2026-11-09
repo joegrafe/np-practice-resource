@@ -1,0 +1,70 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,box,,Bugs & Drugs - Antimicrobial Therapy Guide (BC and Alberta),,,,,"BC and Alberta empiric treatment guidance informed by regional antibiograms; website and app, free to BC prescribers; updated continuously",antibiotic,CA,,bugs-and-drugs
+Key Sources,,1,"Adults, skin and soft tissue:",,,,,,,,,
+Key Sources,,2,Cellulitis,https://www.bugsanddrugs.org/7f845aa3-c8da-49c4-9aeb-436757253249,,,,,,,,
+Key Sources,,2,Erysipelas,https://www.bugsanddrugs.org/0be8210b-fd9c-4d81-8230-bc6bf8d9a08d,,,,,,,,
+Key Sources,,2,"Cellulitis, recurrent",https://www.bugsanddrugs.org/31aaf15c-24e1-46d9-bfbd-a48dc15b99ee,,,,,,,,
+Key Sources,,2,Cellulitis or abscess not responding to treatment,https://www.bugsanddrugs.org/1bfc946b-997f-4b6b-8982-7cf511bd5d02,,,,,,,,
+Key Sources,,2,"Skin abscess, with or without cellulitis",https://www.bugsanddrugs.org/fee5187d-252d-449d-b0d4-1ea2de677489,,,,,,,,
+Key Sources,,2,Impetigo,https://www.bugsanddrugs.org/618552c9-fffc-4a00-833b-89c66ea37f30,,,,,,,,
+Key Sources,,2,Folliculitis and furunculosis,https://www.bugsanddrugs.org/1a449a81-2155-4b00-9b45-bb05cca2604e,,,,,,,,
+Key Sources,,2,"Furunculosis, recurrent",https://www.bugsanddrugs.org/caaeedb4-441e-4118-95a7-18f7f51f874b,,,,,,,,
+Key Sources,,2,MRSA,https://www.bugsanddrugs.org/501cc73e-a872-416c-9718-3dc3104edc73,,,,,,,,
+Key Sources,,2,Rapidly progressive skin and soft tissue infection,https://www.bugsanddrugs.org/ce8d9f67-50cd-439d-a192-48047761a514,,,,,,,,
+Key Sources,,1,"Children, skin and soft tissue:",,,,,,,,,
+Key Sources,,2,Cellulitis,https://www.bugsanddrugs.org/74e5f39f-eeb1-40c9-89e7-14db713d686d,,,,,,,,
+Key Sources,,2,Erysipelas,https://www.bugsanddrugs.org/b83b7dfd-d888-4818-b733-ff7fceae29de,,,,,,,,
+Key Sources,,2,Skin abscess,https://www.bugsanddrugs.org/15f72273-2c10-4140-b442-a1fcfeea566c,,,,,,,,
+Key Sources,,2,Impetigo,https://www.bugsanddrugs.org/91c12edd-0c23-4eb8-b480-dacc5c1d3318,,,,,,,,
+Key Sources,,2,Rapidly progressive skin and soft tissue infection,https://www.bugsanddrugs.org/e2e98f26-82cf-4f4d-9189-0d2442aa1181,,,,,,,,
+Key Sources,,,Canadian Family Physician - Management of Impetigo and Cellulitis,,,,,"Kosar L, Laubscher T. Can Fam Physician 63(8); antibiotic choice for common skin infections",impetigo cellulitis antibiotic,CA,,cfp-impetigo-cellulitis-2017
+Key Sources,,,American Family Physician - Skin and Soft Tissue Infections,,,,,"International source: American review, not Canadian; the 2026 update is for AAFP members only",,INTL,,afp-skin-soft-tissue-infections-2015
+Further Resources,,,CMAJ - Five Things to Know About: Necrotizing Soft-Tissue Infections Caused by Invasive Group A Streptococcus,,,,,"Deb S, Leis JA, Mason SA. CMAJ 196(38)",necrotizing fasciitis flesh-eating iGAS,CA,,cmaj-5t-necrotizing-soft-tissue-infections-caused-by-2024
+Further Resources,,,Tools for Practice #301: Compression Stockings for Recurrent Cellulitis?,,,,,PEER evidence summary,recurrent cellulitis compression,CA,,tfp-301-2021
+Further Resources,box,,PedsCases - pediatric notes,,,,,"Canadian notes written for learners, with podcasts",,CA,,
+Further Resources,,1,,,,,,,,,,pedscases-skin-and-soft-tissue-infections-2020
+Further Resources,,1,,,,,,,,,,pedscases-nsti-2025
+Further Resources,,,American Family Physician - Impetigo: Diagnosis and Treatment,,,,,"International source: American review, not Canadian; the 2026 update is for AAFP members only",,INTL,,afp-impetigo-2014
+Further Resources,,,IDSA - Diagnosis and Management of Skin and Soft Tissue Infections: 2014 Update,,,,,"International source: American guidance, not Canadian",IDSA,INTL,,idsa-ssti-2014
+Further Resources,box,,International: NICE antimicrobial prescribing guidelines,,,,,"International source: UK guidance, not Canadian.",,INTL,,
+Further Resources,,1,Cellulitis and Erysipelas: Antimicrobial Prescribing (NG141),,,,,,,,,nice-ng141-cellulitis-2019
+Further Resources,,1,Impetigo: Antimicrobial Prescribing (NG153),,,,,,,,,nice-ng153-impetigo-2020
+Further Resources,box,,International: DermNet - Bacterial Skin Infections,,,,,"International source: New Zealand clinical reference, not Canadian. Years are DermNet's last review dates.",,INTL,,
+Further Resources,,1,,,,,[Images](https://dermnetnz.org/images/cellulitis-images),,,,,dermnet-cellulitis
+Further Resources,,1,,,,,,,,,,dermnet-erysipelas
+Further Resources,,1,,,,,[Images](https://dermnetnz.org/images/impetigo-images),,,,,dermnet-impetigo
+Further Resources,,1,,,,,,,,,,dermnet-ecthyma
+Further Resources,,1,,,,,,,,,,dermnet-boils
+Further Resources,,1,,,,,,,,,,dermnet-folliculitis
+Further Resources,,1,,,,,,,,,,dermnet-paronychia
+Further Resources,,1,,,,,,,,,,dermnet-necrotising-fasciitis
+Further Resources,,1,,,,,,,,,,dermnet-mrsa
+Further Resources,,1,,,,,,,,,,dermnet-staphylococcal-skin-infections
+Further Resources,,1,,,,,,,,,,dermnet-streptococcal-skin-infections
+Further Resources,,1,,,,,,,,,,dermnet-bacterial-skin-infections
+Further Resources,,1,,,,,,,,,,dermnet-wound-infections
+Further Resources,,1,,,,,,,,,,dermnet-skin-infections-pwid
+Further Resources,,1,Conditions that look like cellulitis:,,,,,,,,,
+Further Resources,,2,,,,,,,,,,dermnet-venous-eczema
+Further Resources,,2,,,,,,,,,,dermnet-lipodermatosclerosis
+Further Resources,,2,,,,,,,,,,dermnet-lymphoedema
+Algorithms and Pathways,note,0,,,,,,No BC or Alberta pathway for cellulitis or skin infections found.,,BC,,
+Assessment Tools and Calculators,md,,"- Describing skin lesions, skin of colour and pediatric rashes — *see [Physical Exam by System: Skin](../../2%20Assessments/Physical%20Exam%20by%20System.md#skin)*",,,,,,,,,
+Prescribing,md,,"- [NPPR Antimicrobials](../../5%20Prescribing/Antimicrobials.md) — *general antimicrobial references, penicillin allergy assessment and stewardship tools*",,,,,,,,,
+Prescribing,box,,RxFiles - Antibiotics: Skin & Soft Tissue Infections,https://www.rxfiles.ca/rxfiles/uploads/documents/books/antibiotics.html#:~:text=Skin%20%26%20Soft%20Tissue%20Infections,,,,RxFiles antibiotic chart and newsletter; the chart needs an RxFiles subscription,antibiotic skin infection cellulitis,CA,,
+Prescribing,,1,Skin & Soft Tissue Infections chart (subscription),https://www.rxfiles.ca/RxFiles/uploads/documents/members/ABX-Skin-Infections.pdf,,,,,,,,
+Prescribing,,1,ABX-2 newsletter: Uncomplicated Cystitis and Skin and Soft Tissue Infections,,,,,,,,,rxfiles-abx2-cystitis
+Prescribing,box,,International: DermNet drug information,,,,,"International source: New Zealand clinical reference, not Canadian. Check Canadian product availability and PharmaCare coverage. Years are DermNet's last review dates.",,INTL,,
+Prescribing,,1,,,,,,,,,,dermnet-penicillin
+Prescribing,,1,,,,,,,,,,dermnet-clindamycin
+Prescribing,,1,,,,,,,,,,dermnet-mupirocin
+Prescribing,,1,,,,,,,,,,dermnet-fusidic-acid
+Prescribing,,1,,,,,,,,,,dermnet-antibiotics
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Advice and Referral,,,RCCbc - Real-Time Virtual Support: RUDi (Emergency),,,,,"24/7 emergency physician support by Zoom and phone for rural and remote providers, including nurse practitioners",RTVS rural,BC,yes,rccbc-rtvs-rudi
+Patient Resources,,,HealthLink BC - Cellulitis,,,,,,,BC,,healthlinkbc-cellulitis
+Patient Resources,,,HealthLink BC - Impetigo,,,,,,,BC,,healthlinkbc-impetigo
+Patient Resources,,,HealthLink BC - Boils,,,,,,,BC,,healthlinkbc-boils
+Patient Resources,,,HealthLink BC - Abscess,,,,,,,BC,,healthlinkbc-abscess
+Patient Resources,,,Caring for Kids - Impetigo,,,,,Canadian Paediatric Society handout for parents,,CA,,caring-for-kids-impetigo

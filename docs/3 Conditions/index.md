@@ -49,15 +49,19 @@ status: published
 
 -   :material-virus-outline:{ .nppr-icon } [**Infectious Disease**](Infectious%20Disease/index.md)
 
-    Respiratory tract infections; for children, fever and gastroenteritis.
+    Cellulitis and skin infections, herpes zoster (shingles) and respiratory tract infections; for children, fever and gastroenteritis.
 
 -   :material-hand-back-left-outline:{ .nppr-icon } [**Dermatology**](Dermatology/index.md)
 
-    Burns, lacerations and minor wounds, and psoriasis.
+    Acne, atopic dermatitis (eczema), burns, lacerations and minor wounds, and psoriasis.
 
 -   :material-blood-bag:{ .nppr-icon } [**Hematology and Oncology**](Hematology%20and%20Oncology/index.md)
 
     Venous thromboembolism (DVT and PE).
+
+-   :material-ear-hearing:{ .nppr-icon } [**Eyes, Ears, Nose and Throat**](Eyes%2C%20Ears%2C%20Nose%20and%20Throat/index.md)
+
+    Acute otitis media and otitis externa, and red eye.
 
 -   :material-account-heart-outline:{ .nppr-icon } [**Sexual and Reproductive Health**](Sexual%20and%20Reproductive%20Health/index.md)
 

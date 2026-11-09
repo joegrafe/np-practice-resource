@@ -1,0 +1,33 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,box,,Bugs & Drugs - Antimicrobial Therapy Guide (BC and Alberta),,,,,"BC and Alberta empiric treatment guidance informed by regional antibiograms; website and app, free to BC prescribers; updated continuously",antiviral,CA,,bugs-and-drugs
+Key Sources,,1,"Zoster (shingles), adults",https://www.bugsanddrugs.org/555afdcb-5f91-4750-81f9-06c913132b32,,,,,,,,
+Key Sources,,1,"Zoster (shingles), children",https://www.bugsanddrugs.org/36bf392a-c4f0-4dca-a026-9d690dcedc2e,,,,,,,,
+Key Sources,box,,Canadian Immunization Guide - Herpes Zoster (Shingles) Vaccine,,,,,"national vaccine guidance: who to offer it to, schedules, immunocompromised people and contraindications",Shingrix NACI,CA,,phac-cig-herpes-zoster-vaccine
+Key Sources,,1,"NACI statement: Recombinant zoster vaccine in immunocompromised adults (PDF, 2025)",https://publications.gc.ca/collections/collection_2025/aspc-phac/HP40-388-2025-eng.pdf,,,,,,,,
+Key Sources,,,American Family Physician - Herpes Zoster and Postherpetic Neuralgia: Prevention and Management,,,,,"International source: American review, not Canadian; the 2026 update is for AAFP members only",,INTL,,afp-herpes-zoster-phn-2017
+Further Resources,box,,CMAJ - Five Things to Know About,,,,,short Canadian practice reviews,,CA,,
+Further Resources,,1,Herpes zoster ophthalmicus,,,,,,,,,cmaj-5t-herpes-zoster-ophthalmicus-2018
+Further Resources,,1,Neuro- and cardioprotective benefits of recombinant herpes zoster vaccination,,,,,,,,,cmaj-5t-neuro-and-cardioprotective-benefits-of-recombinant-2026
+Further Resources,box,,International: DermNet - Herpes Zoster,,,,,"International source: New Zealand clinical reference, not Canadian. Years are DermNet's last review dates.",,INTL,,
+Further Resources,,1,,,,,[Images](https://dermnetnz.org/topics/herpes-zoster-images),,,,,dermnet-herpes-zoster
+Further Resources,,1,,,,,,,,,,dermnet-post-herpetic-neuralgia
+Further Resources,,1,,,,,,,,,,dermnet-ramsay-hunt-syndrome
+Further Resources,,1,,,,,,,,,,dermnet-chickenpox
+Algorithms and Pathways,note,0,,,,,,No BC or Alberta pathway for herpes zoster found.,,BC,,
+Assessment Tools and Calculators,md,,- Describing skin lesions and rashes — *see [Physical Exam by System: Skin](../../2%20Assessments/Physical%20Exam%20by%20System.md#skin)*,,,,,,,,,
+Assessment Tools and Calculators,,,DermNet - Dermatomes,,,,,international (New Zealand); dermatome maps,,INTL,,dermnet-dermatomes
+Prescribing,box,,"BC Immunization Manual, Part 4: Zoster Vaccine Recombinant (Shingrix)",,,,,"BC product page: indications, schedule, contraindications and BC funding",Shingrix,BC,yes,bccdc-zoster-recombinant-vaccine-2025
+Prescribing,,,BC Provincial Academic Detailing - Medications for Neuropathic Pain,,,,,"BC drug summary for neuropathic pain, including postherpetic neuralgia",postherpetic neuralgia gabapentin pregabalin amitriptyline,BC,,bc-pad-neuropathic-pain-2018
+Prescribing,,,Ontario - Shingles Vaccine,,,,,Ontario's publicly funded shingles vaccine program: who is eligible and where to get it,Shingrix Ontario,ON,yes,ontario-shingles-vaccine
+Prescribing,,,RxFiles: Pain Book,,,,,RxFiles has no herpes zoster chart (rxfiles.ca checked 2026-11-09); its Pain Book covers chronic pain treatment; some charts need an RxFiles subscription,,CA,,rxfiles-pain-book
+Prescribing,box,,International: DermNet drug information,,,,,"International source: New Zealand clinical reference, not Canadian. Check Canadian product availability and PharmaCare coverage. Years are DermNet's last review dates.",,INTL,,
+Prescribing,,1,,,,,,,,,,dermnet-valaciclovir
+Prescribing,,1,,,,,,,,,,dermnet-aciclovir
+Prescribing,,1,,,,,,,,,,dermnet-gabapentin
+Prescribing,,1,,,,,,,,,,dermnet-tricyclic-antidepressants
+Prescribing,,1,,,,,,,,,,dermnet-capsaicin
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Shingles,,,,,,,BC,,healthlinkbc-shingles
+Patient Resources,,,HealthLinkBC File - Shingles Vaccine,,,,,,,BC,,healthlinkbc-file-shingles-vaccine
+Patient Resources,,,BCCDC - Shingles,,,,,,,BC,,bccdc-shingles

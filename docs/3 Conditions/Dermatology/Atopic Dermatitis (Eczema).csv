@@ -1,0 +1,84 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,,,Pathways BC - Atopic Dermatitis: Eczema in a Nutshell,,,,,BC Children's Hospital care pathway and tips for clinicians (PDF); opens without a Pathways login,eczema care pathway,BC,yes,pathwaysbc-eczema-in-a-nutshell-2026
+Key Sources,,,Canadian Consensus Guidelines for the Management of Atopic Dermatitis with Topical Therapies,,,,,Gooderham MJ et al. Dermatol Ther 15(6); open access,topical steroid calcineurin,CA,,cdn-ad-topical-consensus-2025
+Key Sources,,,American Family Physician - Atopic Dermatitis: Diagnosis and Treatment,,,,,"International source: American review, not Canadian; AAFP's 2024 guideline summary is for members only",,INTL,,afp-atopic-dermatitis-2020
+Further Resources,,,Pathways BC - Atopic Dermatitis: Eczema in a Nutshell,,,,,BC Children's Hospital care pathway and tips for clinicians (PDF); opens without a Pathways login,,BC,other,pathwaysbc-eczema-in-a-nutshell-2026
+Further Resources,,,Canadian Consensus: Systemic-Eligible Atopic Dermatitis,,,,,Purdy KS et al. JAAD Int 24; when to consider systemic or targeted therapy; open access,dupilumab JAK biologic,CA,,cdn-ad-systemic-consensus-2025
+Further Resources,,,CMAJ - Five Things to Know About: Managing Atopic Dermatitis in Infants,,,,,"Whalen-Browne A, Williams HC, Chu DK. CMAJ 194(43)",infant eczema,CA,,cmaj-5t-managing-atopic-dermatitis-in-infants-2022
+Further Resources,box,,Tools for Practice (PEER evidence summaries),,,,,College of Family Physicians of Canada,,CA,,
+Further Resources,,1,,,,,,,,,,tfp-413-2026
+Further Resources,,1,,,,,,,,,,tfp-359-2024
+Further Resources,,1,,,,,,,,,,tfp-345-2023
+Further Resources,box,,PedsCases - pediatric notes,,,,,"Canadian notes written for learners, with podcasts",,CA,,
+Further Resources,,1,,,,,,,,,,pedscases-atopic-dermatitis-2021
+Further Resources,,1,,,,,,,,,,pedscases-eczema-herpeticum-2024
+Further Resources,box,,International: AAD Guidelines of Care for Atopic Dermatitis in Adults,,,,,"International source: American guidance, not Canadian. American Academy of Dermatology, in the Journal of the American Academy of Dermatology.",,INTL,,
+Further Resources,,1,Topical therapies,,,,,,,,,aad-ad-topical-2023
+Further Resources,,1,Phototherapy and systemic therapies,,,,,,,,,aad-ad-systemic-2024
+Further Resources,,,AAAAI/ACAAI Joint Task Force - Atopic Dermatitis (Eczema) Guidelines,,,,,"International source: American allergy guidance, not Canadian",,INTL,,aaaai-acaai-ad-2023
+Further Resources,,,NICE - Atopic Eczema in Under 12s: Diagnosis and Management (CG57),,,,,"International source: UK guidance, not Canadian",,INTL,,nice-cg57-atopic-eczema-2007
+Further Resources,box,,International: DermNet - Atopic Dermatitis,,,,,"International source: New Zealand clinical reference, not Canadian. Years are DermNet's last review dates.",,INTL,,
+Further Resources,,1,,,,,[Images](https://dermnetnz.org/images/atopic-dermatitis-images) · [Flexural eczema images](https://dermnetnz.org/images/atopic-flexural-eczema-images),,,,,dermnet-atopic-dermatitis
+Further Resources,,1,,,,,,,,,,dermnet-atopic-dermatitis-treatment
+Further Resources,,1,,,,,,,,,,dermnet-atopic-dermatitis-pregnancy
+Further Resources,,1,,,,,,,,,,dermnet-eczema-diagnosis-guidelines
+Further Resources,,1,,,,,,,,,,dermnet-atopic-dermatitis-causes
+Further Resources,,1,,,,,,,,,,dermnet-atopic-dermatitis-barrier
+Further Resources,,1,Complications:,,,,,,,,,
+Further Resources,,2,,,,,,,,,,dermnet-atopic-dermatitis-complications
+Further Resources,,2,,,,,,,,,,dermnet-eczema-herpeticum
+Further Resources,,2,,,,,,,,,,dermnet-eczema-coxsackium
+Further Resources,,2,,,,,,,,,,dermnet-atopic-dermatitis-psychological
+Further Resources,,1,Related types of eczema:,,,,,,,,,
+Further Resources,,2,,,,,,,,,,dermnet-atopic-hand-dermatitis
+Further Resources,,2,,,,,,,,,,dermnet-discoid-eczema
+Further Resources,,2,,,,,,,,,,dermnet-dyshidrotic-eczema
+Further Resources,box,,International: Don't Forget the Bubbles,,,,,"International source: UK and Australian pediatric education, not Canadian.",,INTL,,
+Further Resources,,1,,,,,,,,,,dftb-eczema
+Further Resources,,1,,,,,,,,,,dftb-eczema-herpeticum
+Algorithms and Pathways,,,Pathways BC - Pediatric Dermatology Care Pathway and Referral Guidelines,,,,,"BC Children's Hospital: care pathways and referral criteria for common pediatric skin conditions, including eczema (PDF)",pediatric dermatology referral,BC,yes,pathwaysbc-peds-derm-care-pathway-2026
+Assessment Tools and Calculators,md,,"- Describing skin lesions, skin of colour and pediatric rashes — *see [Physical Exam by System: Skin](../../2%20Assessments/Physical%20Exam%20by%20System.md#skin)*",,,,,,,,,
+Assessment Tools and Calculators,,,DermNet - EASI Score (Eczema Area and Severity Index),,,,,international (New Zealand),,INTL,,dermnet-easi-score
+Assessment Tools and Calculators,,,DermNet - SCORAD (Scoring Atopic Dermatitis),,,,,international (New Zealand),,INTL,,dermnet-scorad
+Assessment Tools and Calculators,,,DermNet - Dermatology Life Quality Index (DLQI),,,,,international (New Zealand),,INTL,,dermnet-dlqi
+Prescribing,,,Pathways BC - Topical Steroid Amounts to Prescribe,,,,,how many grams to prescribe by body area,fingertip unit grams,BC,yes,pathwaysbc-topical-steroid-amounts-2022
+Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
+Prescribing,,1,"Criteria for targeted systemic therapies, requested by a dermatologist, allergist or clinical immunologist:",,,,,,,,,
+Prescribing,,2,"Abrocitinib (last updated August 6, 2026)",,,,,,,,,bc-pharmacare-lcd-abrocitinib
+Prescribing,,2,"Lebrikizumab (last updated August 6, 2026)",,,,,,,,,bc-pharmacare-lcd-lebrikizumab
+Prescribing,,2,"Upadacitinib for atopic dermatitis (last updated August 6, 2026)",,,,,,,,,bc-pharmacare-lcd-upadacitinib-ad
+Prescribing,,1,Targeted Systemic Therapies for Atopic Dermatitis (HLTH 5852),https://www2.gov.bc.ca/assets/gov/health/forms/5852fil.pdf,,,,the request form these criteria pages link to,,,,
+Prescribing,,1,"Criteria for topical calcineurin inhibitors, requested by a dermatologist:",,,,,,,,,
+Prescribing,,2,"Pimecrolimus cream (last updated March 20, 2025)",,,,,,,,,bc-pharmacare-lcd-pimecrolimus-cream
+Prescribing,,2,"Tacrolimus ointment (last updated March 24, 2025)",,,,,,,,,bc-pharmacare-lcd-tacrolimus-ointment
+Prescribing,,1,"PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)",https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,the form these criteria pages link to,,,,
+Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
+Prescribing,,,RxFiles - Drug Comparison Charts: Topical Corticosteroids,,,,,potency classes compared; RxFiles has no atopic dermatitis chart; the chart needs an RxFiles subscription,,CA,,rxfiles-topical-corticosteroids-chart
+Prescribing,box,,International: DermNet drug and treatment information,,,,,"International source: New Zealand clinical reference, not Canadian. Check Canadian product availability and PharmaCare coverage. Years are DermNet's last review dates.",,INTL,,
+Prescribing,,1,Skin care and topical treatments:,,,,,,,,,
+Prescribing,,2,,,,,,,,,,dermnet-emollients
+Prescribing,,2,,,,,,,,,,dermnet-wet-wraps
+Prescribing,,2,,,,,,,,,,dermnet-fingertip-unit
+Prescribing,,2,,,,,,,,,,dermnet-topical-steroids
+Prescribing,,2,,,,,,,,,,dermnet-calcineurin-inhibitors
+Prescribing,,2,,,,,,,,,,dermnet-crisaborole
+Prescribing,,2,,,,,,,,,,dermnet-antihistamines
+Prescribing,,1,Phototherapy and oral systemic treatments:,,,,,,,,,
+Prescribing,,2,,,,,,,,,,dermnet-phototherapy
+Prescribing,,2,,,,,,,,,,dermnet-methotrexate
+Prescribing,,2,,,,,,,,,,dermnet-ciclosporin
+Prescribing,,1,Biologics and JAK inhibitors:,,,,,,,,,
+Prescribing,,2,,,,,,,,,,dermnet-dupilumab
+Prescribing,,2,,,,,,,,,,dermnet-tralokinumab
+Prescribing,,2,,,,,,,,,,dermnet-lebrikizumab
+Prescribing,,2,,,,,,,,,,dermnet-jak-inhibitors
+Prescribing,,2,,,,,,,,,,dermnet-abrocitinib
+Prescribing,,2,,,,,,,,,,dermnet-baricitinib
+Prescribing,,2,,,,,,,,,,dermnet-upadacitinib
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Eczema,,,,,,,BC,,healthlinkbc-eczema
+Patient Resources,,,HealthLink BC - Bleach Baths for Eczema,,,,,,,BC,,healthlinkbc-bleach-baths-eczema
+Patient Resources,,,Pathways BC - Atopic Dermatitis Care Action Plan,,,,,UBC CPD action plan to fill in with patients and families,,BC,yes,pathwaysbc-ad-care-action-plan-2024
+Patient Resources,,,Canadian Dermatology Association - Eczema,,,,,,,CA,,cda-eczema-patient
+Patient Resources,,,Eczema Society of Canada - About Eczema,,,,,,,CA,,eczema-society-canada-about-eczema

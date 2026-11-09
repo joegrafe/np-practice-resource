@@ -13,7 +13,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Newborn,Erythema Toxic Neonatorum (ETN),https://www.pedscases.com/erythema-toxic-neonatorum-etn,2025,https://www.pedscases.com/sites/default/files/2.%20PedsCases%20Note%20-%20Erythema%20Toxicum%20Neonatorum.pdf,,,,CA,
 ,Newborn,Meconium Aspiration Syndrome,https://www.pedscases.com/meconium-aspiration-syndrome,2025,https://www.pedscases.com/sites/default/files/1.%20PedsCases%20MAS%20.pptx.pdf,,,,CA,
 ,Newborn,Necrotizing Enterocolitis,https://www.pedscases.com/necrotizing-enterocolitis-0,2023,https://www.pedscases.com/sites/default/files/2.%20PedsCases%20Notes%20NEC.pdf,,,,CA,
-,Newborn,Neonatal Conjunctivitis,https://www.pedscases.com/neonatal-conjunctivitis,2026,https://pedscases.com/sites/default/files/PedsCases%20Note%20-%20Neonatal%20conjunctivitis.pdf,,,,CA,
+,Newborn,Neonatal Conjunctivitis,,,,,,,CA,pedscases-neonatal-conjunctivitis-2026
 ,Newborn,Neonatal Discharge Counselling,https://www.pedscases.com/neonatal-discharge-counselling,2021,https://pedscases.com/sites/default/files/Neonatal%20Discharge%20Counselling%20%5BSP%20EDIT%5D.pdf,,,,CA,
 ,Newborn,Neonatal Group-B Streptococcus Infection,https://www.pedscases.com/neonatal-group-b-streptococcus-infection,2026,https://www.pedscases.com/sites/default/files/8.%20PedsCases%20Notes%20-%20GBS%20Strep%20Neonates.pdf,,,,CA,
 ,Newborn,Neonatal Hypoglycemia,https://www.pedscases.com/neonatal-hypoglycemia-0,2020,https://www.pedscases.com/sites/default/files/Neonatal%20Hypoglycemia.pdf,,,,CA,
@@ -102,12 +102,12 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Musculoskeletal and Rheumatology,Systemic Lupus Erythematosus,https://www.pedscases.com/systemic-lupus-erythematosus-0,2023,https://www.pedscases.com/sites/default/files/2.SLE_PedsCases_Note_FINAL_0.pdf,,,,CA,
 ,Musculoskeletal and Rheumatology,Torticollis,https://www.pedscases.com/torticollis,2026,https://www.pedscases.com/sites/default/files/4.%20PedsCases%20Note%20-%20Torticollis%20.pdf,,,,CA,
 ,Dermatology,Acanthosis Nigricans,https://www.pedscases.com/acanthosis-nigricans,2025,https://www.pedscases.com/sites/default/files/1.%20Acanthosis%20Nigricans.pdf,,,,CA,
-,Dermatology,Adolescent Acne Vulgaris,https://www.pedscases.com/adolescent-acne-vulgaris,2022,https://www.pedscases.com/sites/default/files/1.%20PedsCases%20Notes%20Adolescent%20Acne.pdf,,,,CA,
+,Dermatology,Adolescent Acne Vulgaris,,,,,,,CA,pedscases-adolescent-acne-2022
 ,Dermatology,Alopecia Areata,https://www.pedscases.com/alopecia-areata,2026,https://www.pedscases.com/sites/default/files/5.%20PedsCases%20Notes%20-%20Alopecia.pdf,,,,CA,
-,Dermatology,Atopic Dermatitis,https://www.pedscases.com/atopic-dermatitis,2021,https://www.pedscases.com/sites/default/files/Atopic%20Dermatitis_PedsCases%20Note.pdf,,,,CA,
+,Dermatology,Atopic Dermatitis,,,,,,,CA,pedscases-atopic-dermatitis-2021
 ,Dermatology,Cutaneous Arteriovenous Malformations,https://www.pedscases.com/cutaneous-arteriovenous-malformations,2025,https://www.pedscases.com/sites/default/files/6.%20Arteriovenous%20Malformations.pptx.pdf,,,,CA,
 ,Dermatology,Drug-Induced Epidermal Necrolysis,https://www.pedscases.com/drug-induced-epidermal-necrolysis,2025,https://www.pedscases.com/sites/default/files/3.%20Drug-Induced%20Epidermal%20Necrolysis%20%28DEN%29_1.pdf,,,,CA,
-,Dermatology,Eczema Herpeticum,https://www.pedscases.com/eczema-herpeticum,2024,https://www.pedscases.com/sites/default/files/Eczema%20Herpeticum.pdf,,,,CA,
+,Dermatology,Eczema Herpeticum,,,,,,,CA,pedscases-eczema-herpeticum-2024
 ,Dermatology,Infantile Hemangiomas,https://www.pedscases.com/infantile-hemangiomas,2025,https://www.pedscases.com/sites/default/files/2.%20PedsCases_Infantile%20Hemangiomas.pptx.pdf,,,,CA,
 ,Dermatology,Molluscum,https://www.pedscases.com/molluscum,2021,https://www.pedscases.com/sites/default/files/Molluscum%20%5BSP%20edit%5D.pdf,,,,CA,
 ,Dermatology,Pediatric Psoriasis,https://www.pedscases.com/pediatric-psoriasis,2026,https://www.pedscases.com/sites/default/files/5.%20PedsCases%20-%20Pediatric%20Psoriasis.pptx.pdf,,,,CA,
@@ -121,12 +121,12 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Dermatology,Viral Rashes,https://www.pedscases.com/viral-rashes,2021,https://pedscases.com/sites/default/files/Viral%20Rashes%20%5BSP%20edit%5D.pdf,,,,CA,
 ,Dermatology,Vitiligo,https://www.pedscases.com/vitiligo,2025,https://www.pedscases.com/sites/default/files/5.%20PedsCases%20Vitiligo.pptx%20%281%29.pdf,,,,CA,
 ,Dermatology,Approach to Warts (Verruca),https://www.pedscases.com/approach-warts-verruca,2021,https://www.pedscases.com/sites/default/files/Warts_PedsCases%20Note.pdf,[note](https://www.pedscases.com/warts) · [note PDF](https://pedscases.com/sites/default/files/Warts%20%5BSP%20edit%5D.pdf),,,CA,
-,"Eyes, Ears, Nose and Throat",Acute Otitis Media,https://www.pedscases.com/acute-otitis-media,2020,https://pedscases.com/sites/default/files/Acute%20Otitis%20Media%20-%20Joanna%20Yuen.pdf,,,,CA,
+,"Eyes, Ears, Nose and Throat",Acute Otitis Media,,,,,,,CA,pedscases-acute-otitis-media-2020
 ,"Eyes, Ears, Nose and Throat",Acute Rhinosinusitis (ARS),https://www.pedscases.com/acute-rhinosinusitis-ars,2024,https://www.pedscases.com/sites/default/files/Acute%20Rhinosinusitis.pdf,,,,CA,
 ,"Eyes, Ears, Nose and Throat",Childhood Strabismus,https://www.pedscases.com/childhood-strabismus,2023,https://www.pedscases.com/sites/default/files/Strabismus.pdf,,,,CA,
-,"Eyes, Ears, Nose and Throat",Conjunctivitis,https://www.pedscases.com/conjunctivitis,2023,https://www.pedscases.com/sites/default/files/PedsCases%20Note%20Conjunctivitis.pdf,,,,CA,
+,"Eyes, Ears, Nose and Throat",Conjunctivitis,,,,,,,CA,pedscases-conjunctivitis-2023
 ,"Eyes, Ears, Nose and Throat",Pediatric Cataracts,https://www.pedscases.com/pediatric-cataracts,2026,https://www.pedscases.com/sites/default/files/2.%20PedsCases%20Notes%20Cataracts.pdf,,,,CA,
-,"Eyes, Ears, Nose and Throat",Periorbital vs. Orbital Cellulitis,https://www.pedscases.com/periorbital-vs-orbital-cellulitis,2022,https://www.pedscases.com/sites/default/files/PedsCases%20Notes%20-%20Peri-orbital%20vs.%20orbital%20cellulitis.pdf,,,,CA,
+,"Eyes, Ears, Nose and Throat",Periorbital vs. Orbital Cellulitis,,,,,,,CA,pedscases-periorbital-orbital-cellulitis-2022
 ,"Eyes, Ears, Nose and Throat",Stomatitis,https://www.pedscases.com/stomatitis,2024,https://www.pedscases.com/sites/default/files/PedsCases%20Stomatitis.pdf,,,,CA,
 ,"Eyes, Ears, Nose and Throat",Streptococcal Pharyngitis,https://www.pedscases.com/streptococcal-pharyngitis,2020,https://www.pedscases.com/sites/default/files/GAS%20Pharyngitis_PedsCases%20Notes.pdf,,,,CA,
 ,Hematology and Oncology,Acute Lymphoblastic Leukemia,https://www.pedscases.com/acute-lymphoblastic-leukemia,2025,https://www.pedscases.com/sites/default/files/Acute%20Lymphoblastic%20Leukemia.pdf,,,,CA,
@@ -153,10 +153,10 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Infectious Disease and Immunology,Measles,https://www.pedscases.com/measles,2024,https://www.pedscases.com/sites/default/files/Measles.pdf,,,,CA,
 ,Infectious Disease and Immunology,Meningitis,https://www.pedscases.com/meningitis-0,2020,https://pedscases.com/sites/default/files/Meningitis%20Note.pdf,,,,CA,
 ,Infectious Disease and Immunology,Mononucleosis,https://www.pedscases.com/mononucleosis,2026,https://www.pedscases.com/sites/default/files/4.%20PedsCases%20Note%20-%20Mononucleosis.pptx.pdf,,,,CA,
-,Infectious Disease and Immunology,Necrotizing Soft Tissue Infections (NSTI),https://www.pedscases.com/necrotizing-soft-tissue-infections-nsti,2025,https://www.pedscases.com/sites/default/files/4.%20PedsCases-NSTI%20Final.pdf,,,,CA,
+,Infectious Disease and Immunology,Necrotizing Soft Tissue Infections (NSTI),,,,,,,CA,pedscases-nsti-2025
 ,Infectious Disease and Immunology,Oral Thrush,https://www.pedscases.com/oral-thrush,2024,https://www.pedscases.com/sites/default/files/PedsCases%20Oral%20Thrush%20.pptx.pdf,,,,CA,
 ,Infectious Disease and Immunology,Scarlet Fever,https://www.pedscases.com/scarlet-fever,2024,https://www.pedscases.com/sites/default/files/Scarlet%20fever.pdf,,,,CA,
-,Infectious Disease and Immunology,Skin and Soft Tissue Infections,https://www.pedscases.com/skin-and-soft-tissue-infections,2020,https://pedscases.com/sites/default/files/Skin%20and%20Soft%20Tissue%20Infections%20SP%20edit.pdf,,,,CA,
+,Infectious Disease and Immunology,Skin and Soft Tissue Infections,,,,,,,CA,pedscases-skin-and-soft-tissue-infections-2020
 ,Infectious Disease and Immunology,Varicella,https://www.pedscases.com/varicella-0,2020,https://pedscases.com/sites/default/files/Varicella.pdf,,,,CA,
 ,Infectious Disease and Immunology,Wiskott-Aldrich Syndrome,https://www.pedscases.com/wiskott-aldrich-syndrome,2025,https://www.pedscases.com/sites/default/files/1.13%20PedsCases%20Note%20-%20Wiskott%20Aldrich%20Syndrome.pdf,,,,CA,
 ,Mental Health,Adverse Childhood Experiences,https://www.pedscases.com/adverse-childhood-experiences,2025,https://www.pedscases.com/sites/default/files/5.%20PedsCases%20-%20ACEs.pdf,,,,CA,

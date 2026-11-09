@@ -340,13 +340,13 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
     - [x] Stroke and TIA (Neurology)
     - [x] Menopause (Sexual and Reproductive Health)
     - [x] Obstructive sleep apnea (Respiratory)
-    - [ ] Cellulitis and skin infections (Infectious Disease; sweep DermNet too)
-    - [ ] Herpes zoster (Infectious Disease)
-    - [ ] Acute otitis media and otitis externa (Eyes, Ears, Nose and Throat)
-    - [ ] Red eye (Eyes, Ears, Nose and Throat)
+    - [x] Cellulitis and skin infections (Infectious Disease; sweep DermNet too)
+    - [x] Herpes zoster (Infectious Disease): built as "Herpes Zoster (Shingles)"
+    - [x] Acute otitis media and otitis externa (Eyes, Ears, Nose and Throat): short address /conditions/otitis/
+    - [x] Red eye (Eyes, Ears, Nose and Throat)
     - [ ] Palliative care (build as a Populations page, listed in the Conditions index, not a condition page)
     - [ ] Gout (Musculoskeletal)
-    - [ ] Atopic dermatitis and acne (Dermatology; sweep DermNet too)
+    - [x] Atopic dermatitis and acne (Dermatology; sweep DermNet too): built as two pages, "Atopic Dermatitis (Eczema)" and "Acne"
     - [ ] Suspected cancer in primary care (breast, lung, prostate, endometrial and ovarian BC Guidelines) (Hematology and Oncology)
     - [ ] Eating disorders (Mental Health and Substance Use)
 - Later:

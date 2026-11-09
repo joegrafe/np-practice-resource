@@ -1,0 +1,60 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,box,,BC Provincial Academic Detailing - Medications for Acne,,,-,,"BC drug summary: topical treatments, oral antibiotics, isotretinoin, spironolactone and combined hormonal contraceptives",PAD acne,BC,yes,bc-pad-acne-2026
+Key Sources,,1,"Clinician handout (PDF, March 2026)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_acne_medications_handout_march_2026.pdf,,,,,,,,
+Key Sources,,1,"Topical medications drug table (PDF, June 2026)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_acne_topical_medications_drug_table_june_2026.pdf,,,,,,,,
+Key Sources,,1,"Reference list (PDF, March 2026)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_acne_medications_reference_list_march_2026.pdf,,,,,,,,
+Key Sources,,1,"Patient handout: non-prescription acne medications (PDF, March 2026)",https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_acne_non-prescription_medications_patient_handout_march_2026.pdf,,,,,,,,
+Key Sources,,,CMAJ - Management of Acne: Canadian Clinical Practice Guideline,,,,,Asai Y et al. CMAJ 188(2),acne guideline,CA,,cmaj-acne-guideline-2016
+Key Sources,,,Canadian Family Physician - Update to Acne Vulgaris Treatment for Canadian Practice,,,,,Can Fam Physician 71(7-8),,CA,,cfp-acne-update-2025
+Further Resources,,,BC Provincial Academic Detailing - Medications for Acne,,,,,"BC drug summary: topical treatments, oral antibiotics, isotretinoin, spironolactone and combined hormonal contraceptives",,BC,other,bc-pad-acne-2026
+Further Resources,,,PedsCases - Adolescent Acne Vulgaris,,,,,Canadian note written for learners,,CA,,pedscases-adolescent-acne-2022
+Further Resources,,,American Family Physician - Acne Vulgaris: Diagnosis and Treatment,,,,,"International source: American review, not Canadian; AAFP's 2025 guideline summary is for members only",,INTL,,afp-acne-vulgaris-2019
+Further Resources,,,AAD - Guidelines of Care for the Management of Acne Vulgaris,,,,,"International source: American guidance, not Canadian",,INTL,,aad-acne-2024
+Further Resources,,,NICE - Acne Vulgaris: Management (NG198),,,,,"International source: UK guidance, not Canadian",,INTL,,nice-ng198-acne-2021
+Further Resources,box,,International: DermNet - Acne,,,,,"International source: New Zealand clinical reference, not Canadian. Years are DermNet's last review dates.",,INTL,,
+Further Resources,,1,,,,,[Images](https://dermnetnz.org/images/acne-vulgaris-images) · [Back acne images](https://dermnetnz.org/images/acne-affecting-the-back-images),,,,,dermnet-acne-vulgaris
+Further Resources,,1,,,,,,,,,,dermnet-acne
+Further Resources,,1,,,,,,,,,,dermnet-acne-management
+Further Resources,,1,,,,,,,,,,dermnet-acne-investigations
+Further Resources,,1,,,,,,,,,,dermnet-what-causes-acne
+Further Resources,,1,,,,,,,,,,dermnet-acne-inflammatory-lesions
+Further Resources,,1,Types of acne:,,,,,,,,,
+Further Resources,,2,,,,,,,,,,dermnet-comedonal-acne
+Further Resources,,2,,,,,,,,,,dermnet-nodulocystic-acne
+Further Resources,,2,,,,,,,,,,dermnet-adult-acne
+Further Resources,,2,,,,,,,,,,dermnet-acne-in-children
+Further Resources,,2,,,,,,,,,,dermnet-infantile-acne
+Further Resources,,2,,,,,,,,,,dermnet-steroid-acne
+Further Resources,,2,,,,,,,,,,dermnet-acne-fulminans
+Further Resources,,1,"Pregnancy, scarring and wellbeing:",,,,,,,,,
+Further Resources,,2,,,,,,,,,,dermnet-acne-in-pregnancy
+Further Resources,,2,,,,,,,,,,dermnet-acne-scarring
+Further Resources,,2,,,,,,,,,,dermnet-postinflammatory-hyperpigmentation
+Further Resources,,2,,,,,,,,,,dermnet-acne-psychological
+Algorithms and Pathways,,,Pathways BC - Pediatric Dermatology Care Pathway and Referral Guidelines,,,,,"BC Children's Hospital: care pathways and referral criteria for common pediatric skin conditions, including acne (PDF)",pediatric dermatology referral,BC,yes,pathwaysbc-peds-derm-care-pathway-2026
+Assessment Tools and Calculators,md,,- Describing skin lesions and skin of colour — *see [Physical Exam by System: Skin](../../2%20Assessments/Physical%20Exam%20by%20System.md#skin)*,,,,,,,,,
+Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
+Prescribing,,1,"Criteria for topical retinoids, any prescriber:",,,,,,,,,
+Prescribing,,2,"Tazarotene topical (last updated April 2, 2025)",,,,,,,,,bc-pharmacare-lcd-tazarotene-topical
+Prescribing,,2,"Tretinoin topical (last updated March 24, 2025)",,,,,,,,,bc-pharmacare-lcd-tretinoin-topical
+Prescribing,,1,"PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)",https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,the form these criteria pages link to,,,,
+Prescribing,,,RxFiles - Drug Comparison Charts: Acne,,,,,acne treatments compared; the chart needs an RxFiles subscription,acne chart,CA,,rxfiles-acne-chart
+Prescribing,box,,International: DermNet drug and treatment information,,,,,"International source: New Zealand clinical reference, not Canadian. Check Canadian product availability and PharmaCare coverage. Years are DermNet's last review dates.",,INTL,,
+Prescribing,,1,Topical treatments:,,,,,,,,,
+Prescribing,,2,,,,,,,,,,dermnet-acne-topical-treatment
+Prescribing,,2,,,,,,,,,,dermnet-benzoyl-peroxide
+Prescribing,,2,,,,,,,,,,dermnet-topical-retinoids
+Prescribing,,2,,,,,,,,,,dermnet-azelaic-acid
+Prescribing,,2,,,,,,,,,,dermnet-clascoterone
+Prescribing,,1,Oral treatments:,,,,,,,,,
+Prescribing,,2,,,,,,,,,,dermnet-acne-antibiotics
+Prescribing,,2,,,,,,,,,,dermnet-tetracyclines
+Prescribing,,2,,,,,,,,,,dermnet-anti-androgen-therapy
+Prescribing,,2,,,,,,,,,,dermnet-isotretinoin
+Prescribing,,1,Light and laser treatments:,,,,,,,,,
+Prescribing,,2,,,,,,,,,,dermnet-blue-light-acne
+Prescribing,,2,,,,,,,,,,dermnet-lasers-lights-acne
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Acne,,,,,,,BC,,healthlinkbc-acne
+Patient Resources,,,Canadian Dermatology Association - Acne,,,,,,,CA,,cda-acne-patient

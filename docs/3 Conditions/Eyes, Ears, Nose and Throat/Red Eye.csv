@@ -1,0 +1,56 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,box,,Bugs & Drugs - Antimicrobial Therapy Guide (BC and Alberta),,,,,"BC and Alberta empiric treatment guidance informed by regional antibiograms; website and app, free to BC prescribers; updated continuously",antibiotic eye drops,CA,,bugs-and-drugs
+Key Sources,,1,Ophthalmic infections:,,,,,,,,,
+Key Sources,,2,Conjunctivitis,https://www.bugsanddrugs.org/95a10824-c6ae-4d9f-95a0-084b7b314fea,,,,,,,,
+Key Sources,,2,Viral conjunctivitis (pink eye),https://www.bugsanddrugs.org/4d80c84e-94a5-4911-b85d-c81df1fb7dba,,,,,,,,
+Key Sources,,2,"Bacterial conjunctivitis, acute",https://www.bugsanddrugs.org/3fb4e3bd-6a4a-40cf-a4d2-e4d4a3172de7,,,,,,,,
+Key Sources,,2,Hyperacute conjunctivitis,https://www.bugsanddrugs.org/408756b6-0f38-410a-b49e-4ee82e27f175,,,,,,,,
+Key Sources,,2,Newborn conjunctivitis,https://www.bugsanddrugs.org/10ea2c05-35db-4e43-b486-7addc7d8ea19,,,,,,,,
+Key Sources,,2,Keratitis,https://www.bugsanddrugs.org/26400d98-0622-4b24-b2c4-e424f1ec1050,,,,,,,,
+Key Sources,,2,Blepharitis,https://www.bugsanddrugs.org/dfddfe34-2e85-41ff-ba51-0b9e7ef04dde,,,,,,,,
+Key Sources,,2,"Hordeolum (stye), external",https://www.bugsanddrugs.org/f0b91763-32af-4380-9828-baf7b775fbf0,,,,,,,,
+Key Sources,,2,Periorbital (preseptal) cellulitis,https://www.bugsanddrugs.org/4b1b5f6f-653a-42a0-bc27-0e06af9a02f7,,,,,,,,
+Key Sources,,2,Orbital cellulitis,https://www.bugsanddrugs.org/f4ee86f2-dffc-4974-8539-325df248954f,,,,,,,,
+Key Sources,,,McGill Journal of Medicine - Red Eye,,,,,Santhakumaran S. McGill J Med 19(2); Canadian approach-to article,red eye approach,CA,,mcgill-red-eye-2021
+Key Sources,,,American Family Physician - Diagnosis and Management of Red Eye in Primary Care,,,,,"International source: American review, not Canadian",,INTL,,afp-red-eye-2010
+Further Resources,box,,CMAJ - Five Things to Know About,,,,,short Canadian practice reviews,,CA,,
+Further Resources,,1,The red eye,,,,,,,,,cmaj-5t-the-red-eye-2011
+Further Resources,,1,Herpes zoster ophthalmicus,,,,,,,,,cmaj-5t-herpes-zoster-ophthalmicus-2018
+Further Resources,,1,Corneal foreign bodies,,,,,,,,,cmaj-5t-corneal-foreign-bodies-2022
+Further Resources,,1,Chemical injuries of the eye,,,,,,,,,cmaj-5t-chemical-injuries-of-the-eye-2019
+Further Resources,,,Tools for Practice #167: Keeping Our Eye on the Ball for Infectious Conjunctivitis Management,,,,,PEER evidence summary on antibiotic drops for conjunctivitis,conjunctivitis antibiotic,CA,,tfp-167-2016
+Further Resources,box,,PedsCases - pediatric notes,,,,,"Canadian notes written for learners, with podcasts",,CA,,
+Further Resources,,1,,,,,,,,,,pedscases-conjunctivitis-2023
+Further Resources,,1,,,,,,,,,,pedscases-neonatal-conjunctivitis-2026
+Further Resources,,1,,,,,,,,,,pedscases-periorbital-orbital-cellulitis-2022
+Further Resources,box,,"American Family Physician (AAFP, United States)",,,,,"International source: American reviews, not Canadian. The 2024 conjunctivitis review and the 2026 painful eye update are for AAFP members only.",,INTL,,
+Further Resources,,1,,,,,,,,,,afp-eye-emergencies-2020
+Further Resources,,1,,,,,,,,,,afp-painful-eye-2016
+Further Resources,,,American Academy of Ophthalmology - Conjunctivitis Preferred Practice Pattern,,,,,"International source: American guidance, not Canadian",,INTL,,aao-conjunctivitis-ppp-2023
+Further Resources,box,,International: EyeGuru,,,,,"International source: American ophthalmology teaching site, not Canadian.",,INTL,,
+Further Resources,,1,,,,,,,,,,eyeguru-top-10-emergencies
+Further Resources,,1,,,,,,,,,,eyeguru-corneal-abrasions-ulcers
+Further Resources,,1,,,,,,,,,,eyeguru-uveitis
+Further Resources,box,,International: Don't Forget the Bubbles,,,,,"International source: UK and Australian pediatric emergency education, not Canadian.",,INTL,,
+Further Resources,,1,,,,,,,,,,dftb-conjunctivitis
+Further Resources,,1,,,,,,,,,,dftb-periorbital-orbital-cellulitis
+Further Resources,box,,International: DermNet - Eye and Eyelid,,,,,"International source: New Zealand clinical reference, not Canadian. Years are DermNet's last review dates.",,INTL,,
+Further Resources,,1,,,,,,,,,,dermnet-conjunctivitis
+Further Resources,,1,,,,,,,,,,dermnet-allergic-conjunctivitis
+Further Resources,,1,,,,,,,,,,dermnet-blepharitis
+Algorithms and Pathways,note,0,,,,,,No BC or Alberta pathway for red eye found.,,BC,,
+Assessment Tools and Calculators,md,,"- Eye exam, visual acuity and fluorescein — *see [Physical Exam by System: Eyes](../../2%20Assessments/Physical%20Exam%20by%20System.md#eyes)*",,,,,,,,,
+Assessment Tools and Calculators,,,PedsCases - The Pediatric Eye Exam in Primary Care,,,,,how to examine a child's eyes,,CA,,pedscases-the-pediatric-eye-exam-in-primary-care-2018
+Prescribing,md,,"- [NPPR Antimicrobials](../../5%20Prescribing/Antimicrobials.md) — *general antimicrobial references, penicillin allergy assessment and stewardship tools*",,,,,,,,,
+Prescribing,,,RxFiles - Drug Comparison Charts: Dry Eye Disease and Ocular Allergy,,,,,eye drops for dry eye and allergic conjunctivitis compared; the chart needs an RxFiles subscription,eye drops antihistamine allergic conjunctivitis,CA,,rxfiles-dry-eye-ocular-allergy-chart
+Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
+Prescribing,,1,"Criteria for antibiotic eye drops, any prescriber (ophthalmologists exempt):",,,,,,,,,
+Prescribing,,2,"Ciprofloxacin ophthalmic (last updated July 6, 2026)",,,,,,,,,bc-pharmacare-lcd-ciprofloxacin-ophthalmic
+Prescribing,,2,"Ofloxacin ophthalmic drops (last updated April 15, 2025)",,,,,,,,,bc-pharmacare-lcd-ofloxacin-ophthalmic
+Prescribing,,1,"PharmaCare Special Authority Request (HLTH 5328, rev. 2019/09/30)",https://www2.gov.bc.ca/assets/gov/health/forms/5328fil.pdf,,,,the form these criteria pages link to,,,,
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Pink Eye,,,,,,,BC,,healthlinkbc-pink-eye
+Patient Resources,,,HealthLinkBC File - Pinkeye (Conjunctivitis),,,,,,,BC,,healthlinkbc-file-pinkeye
+Patient Resources,,,HealthLink BC - Uveitis,,,,,,,BC,,healthlinkbc-uveitis
+Patient Resources,,,Caring for Kids - Pinkeye (Conjunctivitis),,,,,Canadian Paediatric Society handout for parents,,CA,,caring-for-kids-pinkeye

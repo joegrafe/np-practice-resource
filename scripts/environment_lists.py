@@ -20,8 +20,10 @@ Journal and reference sites (PubMed, BMJ, NEJM, JAMA, CMA ...) go on both.
 
   environment-core.txt  The default: every linked domain in order of how
                      many links the site has to it, whatever its region,
-                     filled to the 400-entry cap (journal sites first,
-                     unopened-source candidates after the linked sites).
+                     filled to the 400-entry cap (journal sites first, then
+                     the UNOPENED-SOURCES.csv rows whose action is
+                     "allowlist" or "allowlist: core", then the linked
+                     sites, then the other unopened-source candidates).
                      Switch to 1 or 2 only for a wave that needs a site
                      the core lacks (domains.csv shows which).
 
@@ -96,6 +98,7 @@ def main():
         for u in re.findall(r"https?://[^\s)\]>\"']+", open(p, encoding="utf-8").read()):
             add(u, "md")
     unopened = set()
+    wanted = []  # open rows whose action is "allowlist" or "allowlist: core": Core carries them
     with open("UNOPENED-SOURCES.csv", encoding="utf-8", newline="") as fh:
         for r in csv.DictReader(fh):
             if r["status"].strip().lower() == "done":
@@ -103,6 +106,8 @@ def main():
             b = base(host(r["url"]))
             if b:
                 unopened.add(b)
+                if r["action"].strip().lower() in ("allowlist", "allowlist: core") and b not in wanted:
+                    wanted.append(b)
                 add(r["url"], "unopened", 0)
 
     previous = []
@@ -157,7 +162,10 @@ def main():
 
     l1, n1 = fit(env1, "environment-1")
     l2, n2 = fit(env2, "environment-2")
-    core_order = sorted(JOURNALS) + [d for d in ranked if d not in JOURNALS and d not in unopened and d not in previous] + [d for d in ranked if d in unopened] + previous
+    wanted = [d for d in wanted if d not in JOURNALS]
+    # a linked site keeps its place by link count even when an unopened row names it too
+    linked = [d for d in ranked if links.get(d, 0) > 0 and d not in JOURNALS and d not in previous and d not in wanted]
+    core_order = sorted(JOURNALS) + wanted + linked + [d for d in ranked if d in unopened and d not in wanted and d not in linked] + previous
     lc, nc = fit(core_order, "environment-core")
     for name, lst in (("environment-1", l1), ("environment-2", l2), ("environment-core", lc)):
         with open(f"environments/{name}.txt", "w", encoding="utf-8") as fh:
