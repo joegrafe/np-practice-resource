@@ -344,11 +344,11 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
     - [x] Herpes zoster (Infectious Disease): built as "Herpes Zoster (Shingles)"
     - [x] Acute otitis media and otitis externa (Eyes, Ears, Nose and Throat): short address /conditions/otitis/
     - [x] Red eye (Eyes, Ears, Nose and Throat)
-    - [ ] Palliative care (build as a Populations page, listed in the Conditions index, not a condition page)
-    - [ ] Gout (Musculoskeletal)
+    - [x] Palliative care (build as a Populations page, listed in the Conditions index, not a condition page)
+    - [x] Gout (Musculoskeletal)
     - [x] Atopic dermatitis and acne (Dermatology; sweep DermNet too): built as two pages, "Atopic Dermatitis (Eczema)" and "Acne"
-    - [ ] Suspected cancer in primary care (breast, lung, prostate, endometrial and ovarian BC Guidelines) (Hematology and Oncology)
-    - [ ] Eating disorders (Mental Health and Substance Use)
+    - [x] Suspected cancer in primary care (breast, lung, prostate, endometrial and ovarian BC Guidelines) (Hematology and Oncology): built as "Suspected Cancer in Primary Care"
+    - [x] Eating disorders (Mental Health and Substance Use)
 - Later:
     - [ ] Allergic rhinitis and anaphylaxis (Eyes, Ears, Nose and Throat; urgent care)
     - [ ] Post COVID-19 condition (Infectious Disease)

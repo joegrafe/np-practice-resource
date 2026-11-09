@@ -37,7 +37,7 @@ status: published
 
 -   :material-bone:{ .nppr-icon } [**Musculoskeletal**](Musculoskeletal/index.md)
 
-    Chronic pain, low back pain, osteoarthritis, rheumatoid arthritis, and sprains and minor fractures.
+    Chronic pain, gout, low back pain, osteoarthritis, rheumatoid arthritis, and sprains and minor fractures.
 
 -   :material-brain:{ .nppr-icon } [**Neurology**](Neurology/index.md)
 
@@ -45,7 +45,7 @@ status: published
 
 -   :material-head-heart-outline:{ .nppr-icon } [**Mental Health and Substance Use**](Mental%20Health%20and%20Substance%20Use/index.md)
 
-    ADHD, alcohol use disorder, depression and anxiety, insomnia, opioid use disorder and tobacco use disorder.
+    ADHD, alcohol use disorder, depression and anxiety, eating disorders, insomnia, opioid use disorder and tobacco use disorder.
 
 -   :material-virus-outline:{ .nppr-icon } [**Infectious Disease**](Infectious%20Disease/index.md)
 
@@ -57,7 +57,7 @@ status: published
 
 -   :material-blood-bag:{ .nppr-icon } [**Hematology and Oncology**](Hematology%20and%20Oncology/index.md)
 
-    Venous thromboembolism (DVT and PE).
+    Suspected cancer in primary care, and venous thromboembolism (DVT and PE). Palliative care has its own page under Populations: [Palliative Care](../4%20Populations/Palliative%20Care.md).
 
 -   :material-ear-hearing:{ .nppr-icon } [**Eyes, Ears, Nose and Throat**](Eyes%2C%20Ears%2C%20Nose%20and%20Throat/index.md)
 

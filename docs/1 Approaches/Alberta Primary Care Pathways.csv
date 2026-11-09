@@ -42,7 +42,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,source
 ,Musculoskeletal,Dupuytren's Disease,https://www.primarycarealberta.ca/pathways/140/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-dupuytrens-disease.pdf,,,,AB,
 ,Musculoskeletal,Fibromyalgia,https://www.primarycarealberta.ca/pathways/174/clinical,2024,,,Calgary Zone,,AB,
 ,Musculoskeletal,Giant Cell Arteritis,https://www.primarycarealberta.ca/pathways/189/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-giant-cell-arteritis.pdf,,,,AB,
-,Musculoskeletal,Gout,https://www.primarycarealberta.ca/pathways/191/clinical,2024,,,Calgary Zone,,AB,
+,Musculoskeletal,Gout,,,,,Calgary Zone,,AB,primarycarealberta-gout-2024
 ,Musculoskeletal,Hand and Wrist Osteoarthritis,https://www.primarycarealberta.ca/pathways/33/clinical,2026,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-hand-wrist-osteoarthritis.pdf,,,,AB,
 ,Musculoskeletal,Hand and Wrist Soft Tissue Mass,https://www.primarycarealberta.ca/pathways/111/clinical,2025,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-hand-wrist-soft-tissue-mass.pdf,,,,AB,
 ,Musculoskeletal,Knee,https://www.primarycarealberta.ca/pathways/35/clinical,2026,https://www.albertahealthservices.ca/assets/info/ppu/algorithm-knee.pdf,,,,AB,
