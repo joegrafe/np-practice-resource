@@ -1,9 +1,12 @@
 aafp.org
+aao.org
 aap.org
 accessalliance.ca
+acneandrosacea.ca
 ahajournals.org
 albertahealthservices.ca
 *.albertahealthservices.ca
+annallergy.org
 app.magicapp.org
 articulateusercontent.com
 asdah.org
@@ -25,6 +28,7 @@ bmj.com
 *.bmj.com
 box.com
 *.box.com
+bugsanddrugs.org
 caddra.ca
 caep.ca
 cambridge.org
@@ -88,6 +92,7 @@ dynamed.com
 easyauscultation.com
 echoontario.ca
 *.echoontario.ca
+eczemasociety.ca
 ehealthontario.on.ca
 emergencymedicinecases.com
 endocrine.org
@@ -111,6 +116,7 @@ gov.bc.ca
 gov.on.ca
 *.gov.on.ca
 hcaiinfo.ca
+headachesociety.ca
 healthlinkbc.ca
 healthpei.ca
 *.healthpei.ca
@@ -119,6 +125,7 @@ heidihealth.com
 *.heidihealth.com
 hign.org
 hypertension.ca
+idsociety.org
 immunizebc.ca
 imsociety.org
 injuryresearch.bc.ca
@@ -130,6 +137,7 @@ iphcc.ca
 islandhealth.ca
 *.islandhealth.ca
 jaad.org
+jaadinternational.org
 jamanetwork.com
 jogc.com
 kdigo.org
@@ -143,6 +151,8 @@ libguides.com
 litfl.com
 lowbackrac.ca
 lww.com
+mayoclinic.org
+*.mayoclinic.org
 mcc.ca
 mcgill.ca
 *.mcgill.ca
@@ -159,6 +169,7 @@ mothertobaby.org
 ncbi.nlm.nih.gov
 nejm.org
 nice.org.uk
+*.nice.org.uk
 nicotinedependenceclinic.com
 nimh.nih.gov
 nipissingu.ca
@@ -185,13 +196,17 @@ ontariopalliativecarenetwork.ca
 ontariopoisoncentre.ca
 ontariorenalnetwork.ca
 ontariorheum.ca
+ophthalmology.ca
 optionsforsexualhealth.org
+optometrists.ca
 orthobullets.com
 osteoporosis.ca
 osteostrategy.on.ca
 otn.ca
 oup.com
 *.oup.com
+ox.ac.uk
+*.ox.ac.uk
 paincanada.ca
 pathwaysbc.ca
 patienteduc.ca
@@ -230,6 +245,7 @@ sexualhealthontario.ca
 shop.healthcarebc.ca
 specialistlink.ca
 springer.com
+*.springer.com
 stanford.edu
 *.stanford.edu
 stanford25.org

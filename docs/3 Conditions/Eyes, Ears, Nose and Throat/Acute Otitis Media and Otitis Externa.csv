@@ -1,0 +1,49 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,,,Canadian Paediatric Society - Management of Acute Otitis Media in Children Six Months of Age and Older,,,,,"Le Saux N, Robinson JL. Paediatr Child Health 21(1); CPS position statement",AOM CPS,CA,,cps-acute-otitis-media-2016
+Key Sources,box,,Bugs & Drugs - Antimicrobial Therapy Guide (BC and Alberta),,,,,"BC and Alberta empiric treatment guidance informed by regional antibiograms; website and app, free to BC prescribers; updated continuously",antibiotic,CA,,bugs-and-drugs
+Key Sources,,1,Adults:,,,,,,,,,
+Key Sources,,2,Otitis media,https://www.bugsanddrugs.org/e000dd76-dcb8-4cee-9929-af193082a22a,,,,,,,,
+Key Sources,,2,Otitis externa,https://www.bugsanddrugs.org/0fe336aa-b479-4f0f-b40a-7d3818fb730b,,,,,,,,
+Key Sources,,2,Swimmer's ear,https://www.bugsanddrugs.org/817a262d-7b46-4186-b15f-b5d49a47010a,,,,,,,,
+Key Sources,,2,Invasive (malignant) otitis externa,https://www.bugsanddrugs.org/3980993b-555b-44e7-a9d7-29d21e526b4e,,,,,,,,
+Key Sources,,1,Children:,,,,,,,,,
+Key Sources,,2,Otitis media,https://www.bugsanddrugs.org/c3fc31a5-e2d3-49b6-94f4-74641bf6a5f6,,,,,,,,
+Key Sources,,2,"Acute otitis media, healthy child 6 months and older",https://www.bugsanddrugs.org/06ae59ae-13f3-40ca-a6f3-e987054dfeea,,,,,,,,
+Key Sources,,2,"Acute otitis media, failure of first-line treatment",https://www.bugsanddrugs.org/f72db62b-93aa-44d9-9d92-12c0b97b1eea,,,,,,,,
+Key Sources,,2,"Acute otitis media, high risk",https://www.bugsanddrugs.org/2dc9d36a-9e1f-4542-b7c0-32852aeb59f3,,,,,,,,
+Key Sources,,2,"Acute otitis media, recurrent",https://www.bugsanddrugs.org/001044b8-cbcc-4598-9604-2d4dd7e2b814,,,,,,,,
+Key Sources,,2,Otitis media with effusion,https://www.bugsanddrugs.org/8f93bb47-7881-4171-90d3-847b4c0bcc0b,,,,,,,,
+Key Sources,,2,Otitis externa,https://www.bugsanddrugs.org/88b56fea-7f07-4258-b7f6-c1af18124083,,,,,,,,
+Key Sources,,2,Swimmer's ear,https://www.bugsanddrugs.org/825c1f5e-1c86-4b48-9cbb-c64711b844d2,,,,,,,,
+Key Sources,,,Canadian Family Physician - Approach to Otitis Externa,,,,,"Ellis J, De La Lis A, Rosen E et al. Can Fam Physician 70(10)",swimmer's ear,CA,,cfp-otitis-externa-approach-2024
+Further Resources,,,TREKK - Bottom Line Recommendations: Acute Otitis Media,,,,,"Canadian pediatric emergency summary, v3.0",TREKK pediatric emergency,CA,,trekk-acute-otitis-media-blr-2022
+Further Resources,,,CMAJ - Five Things to Know About: Otitis Externa,,,,,"Kirubalingam K, You P, Bajin D. CMAJ 198(25)",,CA,,cmaj-5t-otitis-externa-2026
+Further Resources,,,PedsCases - Acute Otitis Media,,,,,Canadian note written for learners,,CA,,pedscases-acute-otitis-media-2020
+Further Resources,box,,"American Family Physician (AAFP, United States)",,,,,"International source: American reviews, not Canadian.",,INTL,,
+Further Resources,,1,,,,,,,,,,afp-otitis-media-2019
+Further Resources,,1,,,,,,,,,,afp-acute-otitis-externa-2023
+Further Resources,box,,International: NICE guidelines,,,,,"International source: UK guidance, not Canadian.",,INTL,,
+Further Resources,,1,Otitis Media (Acute): Antimicrobial Prescribing (NG91),,,,,,,,,nice-ng91-otitis-media-2018
+Further Resources,,1,Otitis Media with Effusion in Under 12s (NG233),,,,,,,,,nice-ng233-ome-2023
+Further Resources,box,,International: Don't Forget the Bubbles,,,,,"International source: UK and Australian pediatric emergency education, not Canadian.",,INTL,,
+Further Resources,,1,,,,,,,,,,dftb-otitis-media
+Further Resources,,1,,,,,,,,,,dftb-otitis-externa
+Further Resources,,,DermNet - Otitis Externa,,,,,"international (New Zealand), with images",,INTL,,dermnet-otitis-externa
+Algorithms and Pathways,note,0,,,,,,No BC or Alberta pathway for otitis media or otitis externa found.,,BC,,
+Assessment Tools and Calculators,md,,"- Otoscopy and the ear exam — *see [Physical Exam by System: Ears, Nose and Throat](../../2%20Assessments/Physical%20Exam%20by%20System.md#ears-nose-and-throat)*",,,,,,,,,
+Assessment Tools and Calculators,,,PedsCases - Classic Video: Approach to Otoscopy,,,,,video on examining a child's ear,,CA,,pedscases-classic-video-approach-to-otoscopy-2014
+Prescribing,md,,"- [NPPR Antimicrobials](../../5%20Prescribing/Antimicrobials.md) — *general antimicrobial references, penicillin allergy assessment and stewardship tools*",,,,,,,,,
+Prescribing,box,,Public Health Ontario - Antimicrobial Stewardship: Primary Care,,,-,,"Ontario tools for talking about antibiotics, including a Let's Talk infographic on ear infections",PHO antibiotic stewardship delayed prescribing,ON,,pho-antimicrobial-stewardship-primary-care
+Prescribing,,1,"Ear Infection: Let's Talk (PDF, 2018)",https://www.publichealthontario.ca/-/media/Documents/I/2018/infographic-lets-talk-ear-infection.pdf,,,,,,,,
+Prescribing,box,,RxFiles - Antibiotics: Acute Otitis Media,,,,,the office poster is free; the chart needs an RxFiles subscription,AOM antibiotic chart,CA,,rxfiles-abx-acute-otitis-media
+Prescribing,,1,Acute otitis media office poster (free),https://www.rxfiles.ca/RxFiles/uploads/documents/AOM-ABX.pdf,,,,,,,,
+Prescribing,,1,Acute otitis media chart (subscription),https://www.rxfiles.ca/RxFiles/uploads/documents/members/Cht-Acute-Otitis-Media.pdf,,,,,,,,
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Ear Infections,,,,,,,BC,,healthlinkbc-ear-infections
+Patient Resources,,,HealthLink BC - Swimmer's Ear (Otitis Externa),,,,,,,BC,,healthlinkbc-swimmers-ear
+Patient Resources,,,"HealthLink BC - Ear Problems and Injuries, Age 11 and Younger",,,,,symptom checker: when to seek care,,BC,,healthlinkbc-ear-problems-11-and-younger
+Patient Resources,,,"HealthLink BC - Ear Problems and Injuries, Age 12 and Older",,,,,symptom checker: when to seek care,,BC,,healthlinkbc-ear-problems-12-and-older
+Patient Resources,,,Do Bugs Need Drugs? - Guide to Wise Use of Antibiotics,,,,,"BC public guide to antibiotics, with a section on ear ache; in more than 25 languages",,BC,,dbnd-guide-wise-use-antibiotics
+Patient Resources,,,Caring for Kids - Ear Infections,,,,,Canadian Paediatric Society handout for parents,,CA,,caring-for-kids-ear-infections
+Patient Resources,,,American Family Physician - Acute Otitis Externa (Swimmer's Ear) Patient Handout,,,,,international (American),,INTL,,afp-patient-acute-otitis-externa-2023

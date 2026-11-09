@@ -1,4 +1,5 @@
 aafp.org
+aao.org
 aboutkidshealth.ca
 accessalliance.ca
 ahajournals.org
@@ -78,7 +79,6 @@ canpocus.com
 car.ca
 cattonline.com
 ccirhken.ca
-ccs.ca
 ccsa.ca
 ccsmh.ca
 cdc.gov
@@ -116,6 +116,7 @@ csepguidelines.ca
 cts-sct.ca
 cua.org
 cuaj.ca
+cvdcalculator.com
 dal.ca
 *.dal.ca
 deprescribing.org
@@ -136,6 +137,7 @@ easyauscultation.com
 ecgmadesimple.ca
 echoontario.ca
 *.echoontario.ca
+eczemahelp.ca
 ehlbc.ca
 emergencycarebc.ca
 empathia.ai
@@ -177,18 +179,17 @@ hypertension.ca
 icbc.com
 *.icbc.com
 iconproject.org
+idsociety.org
 imsociety.org
 inclusionbc.org
 indigenoushealthnh.ca
 infoway-inforoute.ca
 intercom.help
-interiorhealth.ca
 islandhealth.ca
 *.islandhealth.ca
 ismp-canada.org
 issbc.org
 jaad.org
-jaadinternational.org
 jamanetwork.com
 jogc.com
 jrheum.org
@@ -240,12 +241,11 @@ nedic.ca
 nejm.org
 nhconnections.ca
 nice.org.uk
+*.nice.org.uk
+nice.org.uk
+*.nice.org.uk
 nidus.ca
 nimh.nih.gov
-nlm.nih.gov
-*.nlm.nih.gov
-nnpbc.com
-*.nnpbc.com
 northernhealth.ca
 *.northernhealth.ca
 nosm.ca
@@ -295,6 +295,7 @@ primarycarealberta.ca
 primaryhealthtas.com.au
 psbchealthhub.ca
 *.psbchealthhub.ca
+publications.gc.ca
 publichealthontario.ca
 queensu.ca
 *.queensu.ca
@@ -325,6 +326,7 @@ smartsexresource.com
 sogc.org
 *.sogc.org
 springer.com
+*.springer.com
 srpc.ca
 *.srpc.ca
 stanford.edu
@@ -381,8 +383,6 @@ uwo.ca
 *.uwo.ca
 va.gov
 *.va.gov
-vch.ca
-*.vch.ca
 victimlinkbc.ca
 washington.edu
 *.washington.edu
