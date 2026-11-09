@@ -1,160 +1,160 @@
 domain,environment,links,regions,unopened,hosts
-cmaj.ca,core 2,1012,CA:997 ?:13 md:2,yes,www.cmaj.ca
-gov.bc.ca,core 2,903,BC:512 ?:343 CA:41 ON:4 INTL:2 md:1,yes,engage.gov.bc.ca pharmacareformularysearch.gov.bc.ca pharmanetenrolment.gov.bc.ca www.bclaws.gov.bc.ca www2.gov.bc.ca
+cmaj.ca,core 1 2,1012,CA:997 ?:13 md:2,yes,www.cmaj.ca
+gov.bc.ca,core 1 2,903,BC:512 ?:343 CA:41 ON:4 INTL:2 md:1,yes,engage.gov.bc.ca pharmacareformularysearch.gov.bc.ca pharmanetenrolment.gov.bc.ca www.bclaws.gov.bc.ca www2.gov.bc.ca
 pedscases.com,core 1 2,485,CA:482 md:3,,pedscases.com www.pedscases.com
-ucalgary.ca,core 2,360,CA:355 md:5,yes,blackbook.ucalgary.ca calgaryguide.ucalgary.ca
-aafp.org,core 2,327,INTL:312 ?:14 md:1,,www.aafp.org
-cfp.ca,core 2,279,CA:269 ?:8 md:2,yes,www.cfp.ca
-ontariohealth.ca,core 2,263,ON:177 ?:84 md:2,yes,ontariohealth.ca www.ontariohealth.ca
-trekk.ca,core 2,210,CA:199 ?:9 md:2,yes,cms.trekk.ca trekk.ca
-dermnetnz.org,core 2,195,INTL:181 ?:14,,dermnetnz.org
+ucalgary.ca,core 1 2,360,CA:355 md:5,yes,blackbook.ucalgary.ca calgaryguide.ucalgary.ca
+aafp.org,core 1 2,327,INTL:312 ?:14 md:1,,www.aafp.org
+cfp.ca,core 1 2,279,CA:269 ?:8 md:2,yes,www.cfp.ca
+ontariohealth.ca,core 1 2,263,ON:177 ?:84 md:2,yes,ontariohealth.ca www.ontariohealth.ca
+trekk.ca,core 1 2,210,CA:199 ?:9 md:2,yes,cms.trekk.ca trekk.ca
+dermnetnz.org,core 1 2,195,INTL:181 ?:14,,dermnetnz.org
 healthlinkbc.ca,core 1 2,190,BC:176 ?:14,,www.healthlinkbc.ca
 bccdc.ca,core 1 2,118,BC:84 ?:34,,www.bccdc.ca
-rxfiles.ca,core 2,106,CA:72 ?:34,yes,www.rxfiles.ca
+rxfiles.ca,core 1 2,106,CA:72 ?:34,yes,www.rxfiles.ca
 primarycarealberta.ca,core 1 2,96,AB:67 CA:26 md:3,,www.primarycarealberta.ca
 bccnm.ca,core 1 2,95,BC:84 ?:9 CA:1 md:1,,bccnm.ca public.bccnm.ca www.bccnm.ca
-diabetes.ca,core 2,85,CA:49 ?:36,yes,diabetes.ca www.diabetes.ca
+diabetes.ca,core 1 2,85,CA:49 ?:36,yes,diabetes.ca www.diabetes.ca
 cfpclearn.ca,core 1 2,79,CA:78 md:1,,cfpclearn.ca
 mcgill.ca,core 1 2,79,CA:74 md:4 ?:1,,mjm.mcgill.ca
 bccsu.ca,core 1 2,66,BC:42 ?:24,,www.bccsu.ca
 pathwaysbc.ca,core 1 2,63,BC:61 md:2,,pathwaysbc.ca
 albertahealthservices.ca,core 1 2,61,AB:50 CA:8 ?:3,,onecarepath.albertahealthservices.ca www.albertahealthservices.ca
-mdcalc.com,core 2,61,INTL:61,yes,www.mdcalc.com
+mdcalc.com,core 1 2,61,INTL:61,yes,www.mdcalc.com
 canada.ca,core 1 2,50,CA:35 ?:15,,health-products.canada.ca recalls-rappels.canada.ca www.canada.ca
 cps.ca,core 1 2,50,CA:43 ?:7,,caringforkids.cps.ca cps.ca
 transcarebc.ca,core 1 2,50,BC:40 ?:10,,www.transcarebc.ca
 bugsanddrugs.org,core 1 2,47,?:45 CA:2,,www.bugsanddrugs.org
-cep.health,core 2,47,ON:28 CA:14 md:3 ?:2,yes,cep.health tools.cep.health
-thrombosiscanada.ca,core 2,47,CA:47,yes,thrombosiscanada.ca
+cep.health,core 1 2,47,ON:28 CA:14 md:3 ?:2,yes,cep.health tools.cep.health
+thrombosiscanada.ca,core 1 2,47,CA:47,yes,thrombosiscanada.ca
 ubc.ca,core 1 2,47,BC:39 ?:6 CA:2,,caps-cpca.ubc.ca guides.library.ubc.ca www.ti.ubc.ca
 canadiantaskforce.ca,core 1 2,42,CA:31 ?:10 md:1,,canadiantaskforce.ca frax.canadiantaskforce.ca
-stanford.edu,core 2,37,INTL:37,,stanfordmedicine25.stanford.edu
+stanford.edu,core 1 2,37,INTL:37,,stanfordmedicine25.stanford.edu
 nice.org.uk,core 1 2,36,INTL:24 ?:12,yes,cks.nice.org.uk www.nice.org.uk
-ontario.ca,core 2,36,ON:30 ?:6,yes,health811.ontario.ca www.ontario.ca
+ontario.ca,core 1 2,36,ON:30 ?:6,yes,health811.ontario.ca www.ontario.ca
 fnha.ca,core 1 2,35,BC:31 ?:4,,fnha.ca www.fnha.ca
 jogc.com,core 1 2,35,CA:29 ?:6,,www.jogc.com
 bcwomens.ca,core 1 2,34,BC:24 ?:10,,www.bcwomens.ca
-choosingwiselycanada.org,core 2,33,CA:33,yes,choosingwiselycanada.org
+choosingwiselycanada.org,core 1 2,33,CA:33,yes,choosingwiselycanada.org
 bccancer.bc.ca,core 1 2,32,BC:17 ?:15,,www.bccancer.bc.ca
-doi.org,core 2,32,CA:17 INTL:15,yes,doi.org
+doi.org,core 1 2,32,CA:17 INTL:15,yes,doi.org
 pedsconcussion.com,core 1 2,30,?:25 CA:5,,pedsconcussion.com
 psbchealthhub.ca,core 1 2,28,BC:26 ?:2,,cms.psbchealthhub.ca www.psbchealthhub.ca
-bcchildrens.ca,core 2,26,BC:20 ?:6,yes,bcchildrens.ca www.bcchildrens.ca
-caddra.ca,core 2,25,CA:24 ?:1,yes,caddra.ca www.caddra.ca
+bcchildrens.ca,core 1 2,26,BC:20 ?:6,yes,bcchildrens.ca www.bcchildrens.ca
+caddra.ca,core 1 2,25,CA:24 ?:1,yes,caddra.ca www.caddra.ca
 childhealthbc.ca,core 1 2,25,BC:22 ?:3,,childhealthbc.ca
-camh.ca,core 2,24,ON:21 md:2 CA:1,,www.camh.ca
+camh.ca,core 1 2,24,ON:21 md:2 CA:1,,www.camh.ca
 bcrenal.ca,core 1 2,23,BC:17 ?:6,,www.bcrenal.ca
-cno.org,core 2,23,ON:20 ?:2 CA:1,,cno.org www.cno.org
+cno.org,core 1 2,23,ON:20 ?:2 CA:1,,cno.org www.cno.org
 hypertension.ca,core 1 2,23,CA:18 ?:5,,hypertension.ca
 obesitycanada.ca,core 1 2,20,CA:10 ?:10,,obesitycanada.ca
 deprescribing.org,core 1 2,17,CA:10 ?:7,,deprescribing.org
 surreyplace.ca,core 1 2,17,CA:11 ?:6,,ddprimarycare.surreyplace.ca
 northernhealth.ca,core 1 2,16,BC:16,,physicians.northernhealth.ca
-dontforgetthebubbles.com,core 2,15,INTL:15,yes,dontforgetthebubbles.com
+dontforgetthebubbles.com,core 1 2,15,INTL:15,yes,dontforgetthebubbles.com
 ccsmh.ca,core 1 2,14,CA:14,,ccsmh.ca
 rheuminfo.com,core 1 2,14,CA:14,,rheuminfo.com
-menopause.org,core 2,13,INTL:7 ?:6,,menopause.org
+menopause.org,core 1 2,13,INTL:7 ?:6,,menopause.org
 osteoporosis.ca,core 1 2,13,CA:10 ?:3,,osteoporosis.ca
 rccbc.ca,core 1 2,13,BC:9 ?:4,,rccbc.ca
 islandhealth.ca,core 1 2,12,BC:10 ?:2,,medicalstaff.islandhealth.ca www.islandhealth.ca
-publichealthontario.ca,core 2,12,?:7 ON:5,,www.publichealthontario.ca
+publichealthontario.ca,core 1 2,12,?:7 ON:5,,www.publichealthontario.ca
 rheum.ca,core 1 2,12,CA:11 ?:1,,rheum.ca
-vch.ca,core 2,12,BC:12,yes,concussion.vch.ca medicalstaff.vch.ca teenconcussion.vch.ca vch.ca www.vch.ca
+vch.ca,core 1 2,12,BC:12,yes,concussion.vch.ca medicalstaff.vch.ca teenconcussion.vch.ca vch.ca www.vch.ca
 car.ca,core 1 2,11,?:10 CA:1,,car.ca
 heartandstroke.ca,core 1 2,11,CA:11,,www.heartandstroke.ca
 keltymentalhealth.ca,core 1 2,11,BC:10 ?:1,,keltymentalhealth.ca
-nlm.nih.gov,core 2,11,INTL:7 CA:3 ?:1,yes,ncbi.nlm.nih.gov pmc.ncbi.nlm.nih.gov pubmed.ncbi.nlm.nih.gov www.ncbi.nlm.nih.gov
+nlm.nih.gov,core 1 2,11,INTL:7 CA:3 ?:1,yes,ncbi.nlm.nih.gov pmc.ncbi.nlm.nih.gov pubmed.ncbi.nlm.nih.gov www.ncbi.nlm.nih.gov
 headachesociety.ca,core 1 2,10,CA:9 ?:1,,www.headachesociety.ca
-kdigo.org,core 2,10,INTL:6 ?:4,,kdigo.org
-bccfe.ca,core 1,9,BC:9,,bccfe.ca education.bccfe.ca
+kdigo.org,core 1 2,10,INTL:6 ?:4,,kdigo.org
+bccfe.ca,core 1 2,9,BC:9,,bccfe.ca education.bccfe.ca
 cdc.gov,core 1 2,9,INTL:8 ?:1,,stacks.cdc.gov www.cdc.gov
-concussionsontario.org,core 1,9,?:5 CA:4,,concussionsontario.org
-cts-sct.ca,core 1,9,CA:9,,cts-sct.ca
-healthcarebc.ca,core 1,9,?:5 BC:4,,shop.healthcarebc.ca
-jaad.org,core 2,9,INTL:9,yes,www.jaad.org
-ubccpd.ca,core 1,9,BC:8 ?:1,,ubccpd.ca
-ucsd.edu,core 2,9,INTL:9,,sites.ucsd.edu
-canadianmenopausesociety.org,core 1,8,CA:6 ?:2,,www.canadianmenopausesociety.org
-eyeguru.org,core 2,8,INTL:8,,eyeguru.org
-interiorhealth.ca,core 2,8,BC:8,yes,www.interiorhealth.ca
-nnpbc.com,core 2,8,BC:8,yes,portal.nnpbc.com www.nnpbc.com
-utoronto.ca,core 1,8,CA:6 ON:2,,bloomberg.nursing.utoronto.ca guides.library.utoronto.ca thehub.utoronto.ca
-fraserhealth.ca,core 1,7,BC:6 ?:1,,www.fraserhealth.ca
-nurses.ab.ca,core 1,7,CA:5 AB:2,,cms.nurses.ab.ca nurses.ab.ca
-tally.so,core 1,7,md:7,,tally.so
+concussionsontario.org,core 1 2,9,?:5 CA:4,,concussionsontario.org
+cts-sct.ca,core 1 2,9,CA:9,,cts-sct.ca
+healthcarebc.ca,core 1 2,9,?:5 BC:4,,shop.healthcarebc.ca
+jaad.org,core 1 2,9,INTL:9,yes,www.jaad.org
+ubccpd.ca,core 1 2,9,BC:8 ?:1,,ubccpd.ca
+ucsd.edu,core 1 2,9,INTL:9,,sites.ucsd.edu
+canadianmenopausesociety.org,core 1 2,8,CA:6 ?:2,,www.canadianmenopausesociety.org
+eyeguru.org,core 1 2,8,INTL:8,,eyeguru.org
+interiorhealth.ca,core 1 2,8,BC:8,yes,www.interiorhealth.ca
+nnpbc.com,core 1 2,8,BC:8,yes,portal.nnpbc.com www.nnpbc.com
+utoronto.ca,core 1 2,8,CA:6 ON:2,,bloomberg.nursing.utoronto.ca guides.library.utoronto.ca thehub.utoronto.ca
+fraserhealth.ca,core 1 2,7,BC:6 ?:1,,www.fraserhealth.ca
+nurses.ab.ca,core 1 2,7,CA:5 AB:2,,cms.nurses.ab.ca nurses.ab.ca
+tally.so,core 1 2,7,md:7,,tally.so
 who.int,core 1 2,7,INTL:7,,apps.who.int iris.who.int www.who.int
-bcmj.org,core 1,6,BC:6,,bcmj.org
-heretohelp.bc.ca,core 1,6,BC:6,,www.heretohelp.bc.ca
-ontariorenalnetwork.ca,core 2,6,ON:4 ?:2,,www.ontariorenalnetwork.ca
-painbc.ca,core 1,6,BC:6,,learn.painbc.ca painbc.ca resources.painbc.ca
-phsa.ca,core 2,6,BC:6,yes,learninghub.phsa.ca libraries.phsa.ca www.phsa.ca
-sagepub.com,core 1,6,CA:4 ?:2,,journals.sagepub.com
-strokebestpractices.ca,core 1,6,CA:5 ?:1,,www.strokebestpractices.ca
-utah.edu,core 2,6,INTL:6,,morancore.utah.edu neurologicexam.med.utah.edu
-va.gov,core 2,6,INTL:3 ?:3,,www.healthquality.va.gov www.ptsd.va.gov
+bcmj.org,core 1 2,6,BC:6,,bcmj.org
+heretohelp.bc.ca,core 1 2,6,BC:6,,www.heretohelp.bc.ca
+ontariorenalnetwork.ca,core 1 2,6,ON:4 ?:2,,www.ontariorenalnetwork.ca
+painbc.ca,core 1 2,6,BC:6,,learn.painbc.ca painbc.ca resources.painbc.ca
+phsa.ca,core 1 2,6,BC:6,yes,learninghub.phsa.ca libraries.phsa.ca www.phsa.ca
+sagepub.com,core 1 2,6,CA:4 ?:2,,journals.sagepub.com
+strokebestpractices.ca,core 1 2,6,CA:5 ?:1,,www.strokebestpractices.ca
+utah.edu,core 1 2,6,INTL:6,,morancore.utah.edu neurologicexam.med.utah.edu
+va.gov,core 1 2,6,INTL:3 ?:3,,www.healthquality.va.gov www.ptsd.va.gov
 wiley.com,core 1 2,6,?:3 CA:2 INTL:1,,agsjournals.onlinelibrary.wiley.com alz-journals.onlinelibrary.wiley.com www.wiley.com
-ammi.ca,core 1,5,CA:3 ?:2,,ammi.ca
-bclung.ca,core 1,5,BC:5,,bclung.ca
-cnps.ca,core 1,5,CA:4 ?:1,,cnps.ca
-csepguidelines.ca,core 1,5,CA:5,,csepguidelines.ca
-heartfailure.ca,core 1,5,CA:4 ?:1,,heartfailure.ca
-infoway-inforoute.ca,core 1,5,CA:5,,www.infoway-inforoute.ca
-jrheum.org,core 1,5,CA:5,,www.jrheum.org
-onlinecjc.ca,core 1,5,CA:4 ?:1,,onlinecjc.ca www.onlinecjc.ca
-perinatalservicesbc.ca,core 1,5,BC:5,,www.perinatalservicesbc.ca
-wsib.ca,core 2,5,?:3 ON:2,,wsib.ca www.wsib.ca
-alzheimer.ca,core 1,4,BC:3 CA:1,,alzheimer.ca
-bcmqi.ca,core 1,4,BC:4,,bcmqi.ca
-centreforlunghealth.ca,core 1,4,BC:3 ?:1,,centreforlunghealth.ca
-deprescribingnetwork.ca,core 1,4,CA:4,,www.deprescribingnetwork.ca
-doctorsofbc.ca,core 1,4,BC:4,,www.doctorsofbc.ca
-echoontario.ca,core 2,4,ON:3 ?:1,,camh.echoontario.ca uhn.echoontario.ca www.echoontario.ca
-foundrybc.ca,core 1,4,BC:4,,foundrybc.ca
-healthqualitybc.ca,core 1,4,BC:4,,healthqualitybc.ca
-heidihealth.com,core 2,4,INTL:2 BC:2,,support.heidihealth.com www.heidihealth.com
-kidsnewtocanada.ca,core 1,4,CA:2 ?:2,,kidsnewtocanada.ca
-lunghealth.ca,core 1,4,CA:4,,lunghealth.ca toolkit.lunghealth.ca
-menopauseandu.ca,core 1,4,?:3 CA:1,,www.menopauseandu.ca
-mini-cog.com,core 2,4,INTL:4,,mini-cog.com
-mq6.ca,core 1,4,CA:4,,mq6.ca
-patienteduc.ca,core 2,4,BC:4,yes,fraserhealth.patienteduc.ca
-raceconnect.ca,core 1,4,BC:3 ?:1,,www.raceconnect.ca
-rourkebabyrecord.ca,core 1,4,CA:4,,www.rourkebabyrecord.ca
-sexandu.ca,core 1,4,CA:4,,www.sexandu.ca
-sogc.org,core 1,4,CA:4,,caps.sogc.org sogc.org
-tali.ai,core 1,4,CA:2 BC:2,,help.tali.ai tali.ai
-towardtheheart.com,core 1,4,BC:2 ?:2,,towardtheheart.com
-worksafebc.com,core 1,4,BC:3 ?:1,,www.worksafebc.com
-ajkd.org,core 1,3,CA:2 ?:1,,www.ajkd.org
-arthritis.ca,core 1,3,CA:3,,arthritis.ca
-cattonline.com,core 1,3,BC:3,,cattonline.com
-ccs.ca,core 2,3,CA:3,yes,ccs.ca
-cfpc.ca,core 2,3,CA:2 ?:1,yes,selflearning.cfpc.ca www.cfpc.ca
-compassbc.ca,core 1,3,BC:3,,compassbc.ca www.compassbc.ca
-crafft.org,core 2,3,INTL:3,,crafft.org
-dal.ca,core 1,3,CA:3,,cdn.dal.ca www.dal.ca
-dermatology.ca,core 1,3,CA:3,,dermatology.ca
-easyauscultation.com,core 2,3,INTL:3,,easyauscultation.com www.easyauscultation.com
-ehlbc.ca,core 1,3,BC:2 INTL:1,,ehlbc.ca
-gov.on.ca,core 2,3,?:2 ON:1,yes,forms.mgcs.gov.on.ca www.formulary.health.gov.on.ca www.health.gov.on.ca
-icbc.com,core 1,3,?:2 BC:1,,partners.icbc.com
-libguides.com,core 2,3,ON:2 BC:1,,hslmcmaster.libguides.com nhalibrary.libguides.com uottawa.libguides.com
-lung.ca,core 1,3,CA:3,,www.lung.ca
-mchatscreen.com,core 2,3,INTL:3,,www.mchatscreen.com
-metaphi.ca,core 2,3,?:2 ON:1,,www.metaphi.ca
-nimh.nih.gov,core 2,3,INTL:3,,www.nimh.nih.gov
-npao.org,core 2,3,ON:2 ?:1,yes,npao.org www.npao.org
-omdpracticehub.com,core 2,3,ON:3,,omdpracticehub.com
-ontariomidwives.ca,core 2,3,ON:3,,www.ontariomidwives.ca
+ammi.ca,core 1 2,5,CA:3 ?:2,,ammi.ca
+bclung.ca,core 1 2,5,BC:5,,bclung.ca
+cnps.ca,core 1 2,5,CA:4 ?:1,,cnps.ca
+csepguidelines.ca,core 1 2,5,CA:5,,csepguidelines.ca
+heartfailure.ca,core 1 2,5,CA:4 ?:1,,heartfailure.ca
+infoway-inforoute.ca,core 1 2,5,CA:5,,www.infoway-inforoute.ca
+jrheum.org,core 1 2,5,CA:5,,www.jrheum.org
+onlinecjc.ca,core 1 2,5,CA:4 ?:1,,onlinecjc.ca www.onlinecjc.ca
+perinatalservicesbc.ca,core 1 2,5,BC:5,,www.perinatalservicesbc.ca
+wsib.ca,core 1 2,5,?:3 ON:2,,wsib.ca www.wsib.ca
+alzheimer.ca,core 1 2,4,BC:3 CA:1,,alzheimer.ca
+bcmqi.ca,core 1 2,4,BC:4,,bcmqi.ca
+centreforlunghealth.ca,core 1 2,4,BC:3 ?:1,,centreforlunghealth.ca
+deprescribingnetwork.ca,core 1 2,4,CA:4,,www.deprescribingnetwork.ca
+doctorsofbc.ca,core 1 2,4,BC:4,,www.doctorsofbc.ca
+echoontario.ca,core 1 2,4,ON:3 ?:1,,camh.echoontario.ca uhn.echoontario.ca www.echoontario.ca
+foundrybc.ca,core 1 2,4,BC:4,,foundrybc.ca
+healthqualitybc.ca,core 1 2,4,BC:4,,healthqualitybc.ca
+heidihealth.com,core 1 2,4,INTL:2 BC:2,,support.heidihealth.com www.heidihealth.com
+kidsnewtocanada.ca,core 1 2,4,CA:2 ?:2,,kidsnewtocanada.ca
+lunghealth.ca,core 1 2,4,CA:4,,lunghealth.ca toolkit.lunghealth.ca
+menopauseandu.ca,core 1 2,4,?:3 CA:1,,www.menopauseandu.ca
+mini-cog.com,core 1 2,4,INTL:4,,mini-cog.com
+mq6.ca,core 1 2,4,CA:4,,mq6.ca
+patienteduc.ca,core 1 2,4,BC:4,yes,fraserhealth.patienteduc.ca
+raceconnect.ca,core 1 2,4,BC:3 ?:1,,www.raceconnect.ca
+rourkebabyrecord.ca,core 1 2,4,CA:4,,www.rourkebabyrecord.ca
+sexandu.ca,core 1 2,4,CA:4,,www.sexandu.ca
+sogc.org,core 1 2,4,CA:4,,caps.sogc.org sogc.org
+tali.ai,core 1 2,4,CA:2 BC:2,,help.tali.ai tali.ai
+towardtheheart.com,core 1 2,4,BC:2 ?:2,,towardtheheart.com
+worksafebc.com,core 1 2,4,BC:3 ?:1,,www.worksafebc.com
+ajkd.org,core 1 2,3,CA:2 ?:1,,www.ajkd.org
+arthritis.ca,core 1 2,3,CA:3,,arthritis.ca
+cattonline.com,core 1 2,3,BC:3,,cattonline.com
+ccs.ca,core 1 2,3,CA:3,yes,ccs.ca
+cfpc.ca,core 1 2,3,CA:2 ?:1,yes,selflearning.cfpc.ca www.cfpc.ca
+compassbc.ca,core 1 2,3,BC:3,,compassbc.ca www.compassbc.ca
+crafft.org,core 1 2,3,INTL:3,,crafft.org
+dal.ca,core 1 2,3,CA:3,,cdn.dal.ca www.dal.ca
+dermatology.ca,core 1 2,3,CA:3,,dermatology.ca
+easyauscultation.com,core 1 2,3,INTL:3,,easyauscultation.com www.easyauscultation.com
+ehlbc.ca,core 1 2,3,BC:2 INTL:1,,ehlbc.ca
+gov.on.ca,core 1 2,3,?:2 ON:1,yes,forms.mgcs.gov.on.ca www.formulary.health.gov.on.ca www.health.gov.on.ca
+icbc.com,core 1 2,3,?:2 BC:1,,partners.icbc.com
+libguides.com,core 1 2,3,ON:2 BC:1,,hslmcmaster.libguides.com nhalibrary.libguides.com uottawa.libguides.com
+lung.ca,core 1 2,3,CA:3,,www.lung.ca
+mchatscreen.com,core 1 2,3,INTL:3,,www.mchatscreen.com
+metaphi.ca,core 1 2,3,?:2 ON:1,,www.metaphi.ca
+nimh.nih.gov,core 1 2,3,INTL:3,,www.nimh.nih.gov
+npao.org,core 1 2,3,ON:2 ?:1,yes,npao.org www.npao.org
+omdpracticehub.com,core 1 2,3,ON:3,,omdpracticehub.com
+ontariomidwives.ca,core 1 2,3,ON:3,,www.ontariomidwives.ca
 oup.com,core 1 2,3,CA:2 INTL:1,,academic.oup.com www.oup.com
-parachute.ca,core 1,3,CA:2 ?:1,,parachute.ca
-peerevidence.ca,core 1,3,CA:2 md:1,,peerevidence.ca
-pmmonline.org,core 2,3,INTL:3,,www.pmmonline.org
-practicalclinicalskills.com,core 2,3,INTL:3,,www.practicalclinicalskills.com
-scribeberry.com,core 1,3,BC:2 CA:1,,help.scribeberry.com www.scribeberry.com
-ubcplastics.ca,core 1,3,BC:3,,www.ubcplastics.ca
-albertadoctors.org,core 1,2,AB:2,,www.albertadoctors.org
-antibioticwise.ca,core 1,2,BC:1 ?:1,,antibioticwise.ca
+parachute.ca,core 1 2,3,CA:2 ?:1,,parachute.ca
+peerevidence.ca,core 1 2,3,CA:2 md:1,,peerevidence.ca
+pmmonline.org,core 1 2,3,INTL:3,,www.pmmonline.org
+practicalclinicalskills.com,core 1 2,3,INTL:3,,www.practicalclinicalskills.com
+scribeberry.com,core 1 2,3,BC:2 CA:1,,help.scribeberry.com www.scribeberry.com
+ubcplastics.ca,core 1 2,3,BC:3,,www.ubcplastics.ca
+albertadoctors.org,core 1 2,2,AB:2,,www.albertadoctors.org
+antibioticwise.ca,core 1 2,2,BC:1 ?:1,,antibioticwise.ca
 asia-spinalinjury.org,core 2,2,INTL:2,,asia-spinalinjury.org
 asthma.ca,core 1,2,CA:2,,asthma.ca
 auditor.on.ca,core 2,2,ON:2,,auditor.on.ca www.auditor.on.ca
@@ -339,7 +339,7 @@ victimlinkbc.ca,1,1,BC:1,,www.victimlinkbc.ca
 welcomebc.ca,1,1,BC:1,,www.welcomebc.ca
 wpath.org,2,1,INTL:1,,www.wpath.org
 yorku.ca,2,1,ON:1,,researchguides.library.yorku.ca
-acneandrosacea.ca,core 2,0,,yes,www.acneandrosacea.ca
+acneandrosacea.ca,core 1 2,0,,yes,www.acneandrosacea.ca
 badgut.org,2,0,,yes,badgut.org
 cambridge.org,core 1 2,0,previous:1,,www.cambridge.org
 canadianliverfoundation.ca,2,0,,yes,www.canadianliverfoundation.ca
@@ -347,11 +347,11 @@ cancercareontario.ca,2,0,,yes,www.cancercareontario.ca
 cma.ca,core 1 2,0,previous:1,,www.cma.ca
 cna-aiic.ca,2,0,,yes,www.cna-aiic.ca
 connexontario.ca,2,0,,yes,www.connexontario.ca
-decisionaid.ca,core 2,0,,yes,decisionaid.ca
-eczemasociety.ca,core 2,0,,yes,eczemasociety.ca
+decisionaid.ca,core 1 2,0,,yes,decisionaid.ca
+eczemasociety.ca,core 1 2,0,,yes,eczemasociety.ca
 jamanetwork.com,core 1 2,0,previous:1,,www.jamanetwork.com
 lww.com,core 1 2,0,previous:1,,www.lww.com
-mayoclinic.org,core 2,0,,yes,statindecisionaid.mayoclinic.org
+mayoclinic.org,core 1 2,0,,yes,statindecisionaid.mayoclinic.org
 mcc.ca,core 1 2,0,previous:1,,www.mcc.ca
 mothertobaby.org,2,0,,yes,mothertobaby.org
 ncbi.nlm.nih.gov,core 1 2,0,previous:1,,www.ncbi.nlm.nih.gov
@@ -360,8 +360,8 @@ nicotinedependenceclinic.com,2,0,,yes,www.nicotinedependenceclinic.com
 nipissingu.ca,2,0,,yes,libguides.nipissingu.ca
 ocpinfo.com,2,0,,yes,www.ocpinfo.com
 ontariopalliativecarenetwork.ca,2,0,,yes,www.ontariopalliativecarenetwork.ca
-ophthalmology.ca,core 2,0,,yes,www.ophthalmology.ca
-optometrists.ca,core 2,0,,yes,www.optometrists.ca
+ophthalmology.ca,core 1 2,0,,yes,www.ophthalmology.ca
+optometrists.ca,core 1 2,0,,yes,www.optometrists.ca
 ox.ac.uk,2,0,,yes,www.dtu.ox.ac.uk
 pcmch.on.ca,2,0,,yes,www.pcmch.on.ca
 pemcincinnati.com,2,0,,yes,pemcincinnati.com
