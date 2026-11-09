@@ -6,6 +6,7 @@ ajkd.org
 albertadoctors.org
 albertahealthservices.ca
 *.albertahealthservices.ca
+allergyasthma.ca
 alzheimer.ca
 ammi.ca
 antibioticwise.ca
@@ -188,6 +189,7 @@ libguides.com
 *.libguides.com
 liveplanbe.ca
 liver.ca
+longcovidweb.ca
 lookingglassbc.com
 lookseechecklist.com
 lung.ca
@@ -274,7 +276,6 @@ pharmacists.ca
 phsa.ca
 *.phsa.ca
 pmmonline.org
-practicalclinicalskills.com
 primarycarealberta.ca
 psbchealthhub.ca
 *.psbchealthhub.ca
@@ -287,6 +288,9 @@ raceconnect.ca
 radiopaedia.org
 rainbowhealthontario.ca
 rccbc.ca
+recmap.org
+*.recmap.org
+resus.org.uk
 rheum.ca
 rheumguide.ca
 rheuminfo.com

@@ -1,0 +1,34 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,,,"BC Immunization Manual, Part 3: Management of Anaphylaxis in a Non-Hospital Setting (BCCDC)",,,,,"BC protocol for recognizing and managing anaphylaxis outside hospital, written for immunization settings",epinephrine anaphylaxis protocol BCCDC,BC,yes,bccdc-imm-part3-anaphylaxis
+Key Sources,,,CMAJ - Five Things to Know About: Management of Anaphylaxis,,,,,short Canadian practice review,epinephrine,CA,,cmaj-5t-management-of-anaphylaxis-2025
+Key Sources,,,American Family Physician - Anaphylaxis: Recognition and Management,,,,,"International source: American review, not Canadian",,INTL,,afp-anaphylaxis-2020
+Further Resources,,,"BC Immunization Manual, Part 3: Management of Anaphylaxis in a Non-Hospital Setting (BCCDC)",,,,,BC protocol for anaphylaxis outside hospital,,BC,other,bccdc-imm-part3-anaphylaxis
+Further Resources,box,,"Canadian Immunization Guide, Part 2: Anaphylaxis and Other Acute Reactions Following Vaccination (PHAC)",,-,,,national guidance on anaphylaxis after vaccination,vaccine reaction,CA,,phac-cig-anaphylaxis
+Further Resources,,1,Management of anaphylaxis,https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-2-vaccine-safety/page-4-early-vaccine-reactions-including-anaphylaxis.html#a16,,,,,,,,
+Further Resources,,1,Epinephrine dosage table,https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-2-vaccine-safety/page-4-early-vaccine-reactions-including-anaphylaxis.html#t4,,,,,epinephrine dose by age weight,,,
+Further Resources,box,,TREKK - Bottom Line Recommendations: Anaphylaxis,,,,,"Canadian pediatric emergency summary, with its algorithm and evidence repository",pediatric emergency,CA,,trekk-anaphylaxis-blr-2026
+Further Resources,,1,Anaphylaxis algorithm,https://trekk.ca/resources/algorithm-anaphylaxis/,2025,,,,,,,
+Further Resources,,1,Evidence repository: Anaphylaxis,https://trekk.ca/resources/evidence-repository-anaphylaxis/,2025,,,,,,,
+Further Resources,box,,CMAJ - Five Things to Know About,,,,,short Canadian practice reviews,,CA,,
+Further Resources,,1,Epinephrine in anaphylaxis,,,,,,,,,cmaj-5t-epinephrine-in-anaphylaxis-2023
+Further Resources,,1,Anaphylaxis in the acute care setting,,,,,,,,,cmaj-5t-anaphylaxis-in-the-acute-care-setting-2014
+Further Resources,,1,Venom anaphylaxis,,,,,,,,,cmaj-5t-venom-anaphylaxis-2015
+Further Resources,,1,Tick-borne red meat allergy (alpha-gal syndrome),,,,,,,,,cmaj-5t-tick-borne-red-meat-allergy-gal-2023
+Further Resources,,1,Vaccine allergy,,,,,,,,,cmaj-5t-vaccine-allergy-2019
+Further Resources,,,CSACI Position Statement: Epinephrine Auto-injectors and Children Under 15 kg,,,,,Canadian Society of Allergy and Clinical Immunology statement; open access,EpiPen Jr infant auto-injector,CA,,csaci-epinephrine-autoinjector-under-15kg-2015
+Further Resources,,,PedsCases - Anaphylaxis,,,,,"Canadian notes written for learners, with podcasts",pediatric,CA,,pedscases-anaphylaxis-2025
+Further Resources,,,Choosing Wisely Canada - Allergy and Clinical Immunology Recommendations,,,,,"Canadian Society of Allergy and Clinical Immunology list, including antihistamines in anaphylaxis",antihistamine,CA,,choosing-wisely-allergy-clinical-immunology
+Further Resources,box,,"American Family Physician (AAFP, United States)",,,,,"International source: American reviews, not Canadian. The 2024 anaphylaxis guideline summary is for AAFP members only.",,INTL,,
+Further Resources,,1,,,,,,,,,,afp-food-allergies-2023
+Further Resources,box,,Resuscitation Council UK - Emergency Treatment of Anaphylaxis,,,,,"International source: UK guidance, not Canadian",refractory anaphylaxis,INTL,,resus-uk-anaphylaxis-2021
+Further Resources,,1,Anaphylaxis algorithm,,2021,https://www.resus.org.uk/sites/default/files/2021-04/Anaphylaxis%20algorithm%202021.pdf,,,,,,
+Further Resources,,1,Refractory anaphylaxis algorithm,,2021,https://www.resus.org.uk/sites/default/files/2021-04/Refractory%20anaphylaxis%20algorithm%202021.pdf,,,,,,
+Algorithms and Pathways,note,0,,,,,,"No BC or Alberta pathway for anaphylaxis found. The TREKK and Resuscitation Council UK algorithms are under their guidance in Further Resources.",,BC,,
+Prescribing,note,,,,,,,"RxFiles has no anaphylaxis chart (checked 2026-11-09); epinephrine dosing is in the BCCDC protocol and the Canadian Immunization Guide table above.",,,,
+Prescribing,,,BC PharmaCare Formulary Search,,,,,look up PharmaCare coverage of epinephrine auto-injectors,EpiPen Allerject coverage,BC,yes,bc-pharmacare-formulary-search
+Prescribing,,,Ontario Drug Benefit: Allergy Shots and Epinephrine Injectable Products,,,,,ODB coverage of epinephrine auto-injectors,EpiPen Allerject ODB,ON,yes,odb-epinephrine-auto-injectors
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Severe Allergic Reaction: Anaphylaxis,,,,,,,BC,,healthlinkbc-anaphylaxis
+Patient Resources,,,HealthLinkBC File - Severe Allergic Reactions to Food: Children and Teens,,,,,,food allergy school,BC,,healthlinkbc-file-severe-food-allergy-children
+Patient Resources,,,HealthLink BC - Allergic Reaction,,,,,,hives,BC,,healthlinkbc-allergic-reaction

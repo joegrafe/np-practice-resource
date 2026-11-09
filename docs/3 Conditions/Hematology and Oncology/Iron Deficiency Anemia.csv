@@ -1,0 +1,43 @@
+heading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+Key Sources,box,,BC Guidelines - Iron Deficiency: Diagnosis and Management,,,,,"patients of all ages: diagnosis, investigation and management of iron deficiency, with sections on children, pregnancy and older adults",iron deficiency guideline GPAC ferritin,BC,yes,bc-gpac-iron-deficiency-2019
+Key Sources,,1,Key Recommendations,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/iron-deficiency#recommendations,,,,,,,,
+Key Sources,,1,Investigation of Etiology,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/iron-deficiency#investigation-etiology,,,,,cause GI investigation,,,
+Key Sources,,1,Specialist Referral,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/iron-deficiency#specialist-referral,,,,,referral hematology GI,,,
+Key Sources,,1,Appendix A: Oral Iron Formulations and Adult Doses,,,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/iron-deficiency-appendix-a.pdf,,,ferrous sulfate ferrous gluconate dosing,,,
+Key Sources,,1,Appendix B: Parenteral Iron Formulations and Adult Doses,,,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/iron-deficiency-appendix-b.pdf,,,IV iron dosing,,,
+Key Sources,,1,Appendix C: Algorithm for Investigation of Iron Deficiency in Non-Anemic Adults,,,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/iron-deficiency-appendix-c.pdf,,,algorithm low ferritin,,,
+Key Sources,,1,Appendix D: Pediatric Iron Doses and Liquid Formulations,,,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/iron-deficiency-appendix-d.pdf,,,children iron dose,,,
+Key Sources,,,CMAJ - Diagnosis and Management of Iron Deficiency in Females,,,,,Canadian review of diagnosis and management of iron deficiency in females,ferritin heavy menstrual bleeding women,CA,,cmaj-iron-deficiency-females-2025
+Further Resources,,,BC Guidelines - Iron Deficiency: Diagnosis and Management,,,,,"BC guideline for patients of all ages, with dosing appendices",,BC,other,bc-gpac-iron-deficiency-2019
+Further Resources,box,,CFPCLearn - Tools for Practice on iron,,,,,PEER evidence summaries for family practice,,CA,,
+Further Resources,,1,#284 Iron dosing frequency: Is less more or just less?,,,,,,alternate day iron,,,tfp-284-2021
+Further Resources,,1,#30 Iron Deficiency Anemia in the Elderly: How much iron is enough? (updated),,,,,,older adults iron dose,,,tfp-30-2021
+Further Resources,,1,#234 Iron-ing Out the Wrinkles in Anemia Management,,,,,,iron formulations,,,tfp-234-2019
+Further Resources,box,,CMAJ - Five Things to Know About,,,,,short Canadian practice reviews,,CA,,
+Further Resources,,1,Treating iron deficiency,,,,,,,,,cmaj-5t-treating-iron-deficiency-2017
+Further Resources,,1,Iron deficiency and iron deficiency anemia in pregnancy,,,,,,pregnancy,,,cmaj-5t-iron-deficiency-and-iron-deficiency-anemia-2021
+Further Resources,box,,TREKK - Bottom Line Recommendations: Iron Deficiency Anemia,,,,,"Canadian pediatric emergency summary, with its algorithm and medication table",pediatric children,CA,,trekk-iron-deficiency-anemia-blr-2024
+Further Resources,,1,Iron deficiency anemia algorithm,https://trekk.ca/resources/algorithm-iron-deficiency-anemia/,2024,,,,,,,
+Further Resources,,1,Medication table: Iron deficiency anemia,https://trekk.ca/resources/medication-table-iron-deficiency-anemia/,2024,,,,pediatric iron dose,,,
+Further Resources,,,Choosing Wisely Canada - Clinical Biochemistry Recommendations,,,,,includes iron studies testing,iron studies ferritin,CA,,choosing-wisely-clinical-biochemistry
+Further Resources,box,,"American Family Physician (AAFP, United States)",,,,,"International source: American articles, not Canadian. The 2025 iron deficiency anemia review is for AAFP members only.",,INTL,,
+Further Resources,,1,,,,,,,GI evaluation endoscopy,,,afp-ida-aga-2021
+Further Resources,,1,,,,,,,IV iron,,,afp-iv-vs-oral-iron-2022
+Algorithms and Pathways,,,Alberta's Pathway Hub - Iron Deficiency Anemia (adult),,,,,Primary Care Alberta pathway,IDA pathway,AB,,ab-pathway-hub-iron-deficiency-anemia
+Algorithms and Pathways,,,Alberta's Pathway Hub - Iron Deficiency Anemia (High Risk for Colorectal Cancer Diagnosis),,,,,Primary Care Alberta pathway,colorectal cancer anemia,AB,,ab-pathway-hub-iron-deficiency-anemia-crc
+Algorithms and Pathways,note,0,,,,,,"No BC pathway for iron deficiency anemia found; the BC Guideline's Appendix C is its algorithm for non-anemic adults.",,BC,,
+Assessment Tools and Calculators,md,,"- Iron studies and ferritin — *see [Lab and Imaging](../../2%20Assessments/Lab%20and%20Imaging.md)*",,,,,,,,,
+Assessment Tools and Calculators,md,,"- Approach to anemia schemes (UCalgary Black Book, PedsCases) — *see [Presentations A to Z](../../Presentations%20A%20to%20Z.md)*",,,,,,,,,
+Prescribing,,,RxFiles - Drug Comparison Charts: Iron Management,,,,,oral and IV iron products compared; the chart needs an RxFiles subscription,RxFiles iron chart,CA,,rxfiles-iron-management-chart
+Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,intravenous iron,,BC,yes,
+Prescribing,,1,Criteria for intravenous iron in iron deficiency anemia:,,,,,,,,,
+Prescribing,,2,"Ferric carboxymaltose for iron deficiency anemia (last updated April 8, 2026)",,,,,,Ferinject,,,bc-pharmacare-lcd-ferric-carboxymaltose
+Prescribing,,2,"Iron isomaltoside (last updated March 18, 2025)",,,,,,Monoferric,,,bc-pharmacare-lcd-iron-isomaltoside
+Prescribing,,2,Iron sucrose,,,,,,Venofer,,,bc-pharmacare-lcd-iron-sucrose
+Prescribing,,1,PharmaCare Special Authority Request: Intravenous Iron for Iron Deficiency Anemia (HLTH 5818),,,https://www2.gov.bc.ca/assets/gov/health/forms/5818fil.pdf,,the form these criteria pages link to,,,,
+Prescribing,,,Ontario Drug Benefit e-Formulary,,,,,look up oral and intravenous iron listings and any Limited Use codes,ODB iron,ON,yes,odb-eformulary
+Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
+Patient Resources,,,HealthLink BC - Iron Deficiency Anemia,,,,,,,BC,,healthlinkbc-iron-deficiency-anemia
+Patient Resources,,,HealthLinkBC File - Iron in Foods,,,,,,iron rich foods diet,BC,,healthlinkbc-file-iron-foods
+Patient Resources,,,Caring for Kids - Iron Needs of Babies and Children,,,,,Canadian Paediatric Society handout for parents,infant iron babies,CA,,caring-for-kids-iron-needs

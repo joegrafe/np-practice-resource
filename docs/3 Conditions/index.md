@@ -49,7 +49,7 @@ status: published
 
 -   :material-virus-outline:{ .nppr-icon } [**Infectious Disease**](Infectious%20Disease/index.md)
 
-    Cellulitis and skin infections, herpes zoster (shingles) and respiratory tract infections; for children, fever and gastroenteritis.
+    Cellulitis and skin infections, herpes zoster (shingles), post COVID-19 condition (long COVID) and respiratory tract infections; for children, fever and gastroenteritis.
 
 -   :material-hand-back-left-outline:{ .nppr-icon } [**Dermatology**](Dermatology/index.md)
 
@@ -57,11 +57,11 @@ status: published
 
 -   :material-blood-bag:{ .nppr-icon } [**Hematology and Oncology**](Hematology%20and%20Oncology/index.md)
 
-    Suspected cancer in primary care, and venous thromboembolism (DVT and PE). Palliative care has its own page under Populations: [Palliative Care](../4%20Populations/Palliative%20Care.md).
+    Iron deficiency anemia, suspected cancer in primary care, and venous thromboembolism (DVT and PE). Palliative care has its own page under Populations: [Palliative Care](../4%20Populations/Palliative%20Care.md).
 
 -   :material-ear-hearing:{ .nppr-icon } [**Eyes, Ears, Nose and Throat**](Eyes%2C%20Ears%2C%20Nose%20and%20Throat/index.md)
 
-    Acute otitis media and otitis externa, and red eye.
+    Acute otitis media and otitis externa, allergic rhinitis, anaphylaxis, and red eye.
 
 -   :material-account-heart-outline:{ .nppr-icon } [**Sexual and Reproductive Health**](Sexual%20and%20Reproductive%20Health/index.md)
 

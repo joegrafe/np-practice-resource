@@ -328,7 +328,7 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
     - [x] Lacerations and minor wounds (Dermatology; urgent care)
     - [x] Venous thromboembolism (Hematology and Oncology)
     - [x] Obesity (Endocrine and Metabolic)
-    - [ ] Anemia (Hematology and Oncology). Joe removed the 2026-11-02 "Anemia and Iron" draft from wave 15: it covered iron deficiency anemia only, not an accurate approach to anemias. Rebuild only when Joe asks.
+    - [x] Anemia (Hematology and Oncology). Joe removed the 2026-11-02 "Anemia and Iron" draft from wave 15: it covered iron deficiency anemia only, not an accurate approach to anemias. Built 2026-11-09 (wave 22) as Iron Deficiency Anemia, titled and scoped to that condition only, at Joe's ask.
     - [x] Burns (Dermatology; urgent care)
     - [x] GERD and H. pylori (Gastrointestinal and Liver): built as "Dyspepsia, GERD and H. pylori"
     - [x] Migraine and headache (Neurology): built as "Headache and Migraine"
@@ -350,8 +350,8 @@ Each phase opens only when its gate is met (diagram in the doc, described here):
     - [x] Suspected cancer in primary care (breast, lung, prostate, endometrial and ovarian BC Guidelines) (Hematology and Oncology): built as "Suspected Cancer in Primary Care"
     - [x] Eating disorders (Mental Health and Substance Use)
 - Later:
-    - [ ] Allergic rhinitis and anaphylaxis (Eyes, Ears, Nose and Throat; urgent care)
-    - [ ] Post COVID-19 condition (Infectious Disease)
+    - [x] Allergic rhinitis and anaphylaxis (Eyes, Ears, Nose and Throat; urgent care). Built 2026-11-09 (wave 22) as two pages: Allergic Rhinitis and Anaphylaxis.
+    - [x] Post COVID-19 condition (Infectious Disease). Built 2026-11-09 (wave 22) as Post COVID-19 Condition (Long COVID).
 
 ## Section page lists
 
@@ -443,6 +443,7 @@ Agreed by Joe on 2026-10-26 from the [NPPR.ca master plan](https://claude.ai/art
 17. Stage D wrap-up: Resources wave 2 (Libraries and databases, CPD and learning; retire the Clinical Tools and BC Library Guides stubs) and About: How NPPR is kept current. *(Built 2026-11-08 as draft PRs.)*
 18. Approaches wave 3: TREKK and CMAJ "Five things to know about", only when Joe asks. *(Built 2026-11-08 as draft PRs, started by Joe alongside wave 17.)*
 19 to 21. Conditions wave 3 in three batches, ordered by the missed-search log.
+22. Conditions wave 4: the last checklist conditions (allergic rhinitis, anaphylaxis, post COVID-19 condition) and Iron Deficiency Anemia, at Joe's pick on 2026-11-09. *(Built 2026-11-09 as draft PRs.)*
 
 **Next waves after ON-3 and ON-4** (from the [master plan update](https://claude.ai/artifact/8pVpBPZ5hLjistCczBVaow) of 2026-11-05, agreed by Joe on 2026-11-05). Waves 12 to 16 are built; the province switch and Ontario waves ON-1 and ON-2 shipped on 2026-11-05. From here, in this order, each when Joe says start:
 
