@@ -5,10 +5,10 @@ system: mental-health-substance-use
 tags: [condition, mental-health-substance-use, eating-disorders, anorexia-nervosa, bulimia-nervosa, binge-eating-disorder, arfid, weight-loss, pediatrics, adolescents]
 jurisdiction: [BC, "ON", CA, INTL]
 aliases: [eating disorder, eating disorders, ED, anorexia, anorexia nervosa, AN, atypical anorexia, atypical anorexia nervosa, bulimia, bulimia nervosa, BN, binge eating, binge eating disorder, BED, ARFID, avoidant restrictive food intake disorder, OSFED, disordered eating, restrictive eating, purging, self-induced vomiting, laxative misuse, refeeding syndrome, malnutrition, low weight, weight loss in teens, body image, family-based treatment, FBT, SCOFF, ESP, eating disorder screen, Kelty Eating Disorders, Looking Glass, NEDIC]
-status: review
+status: published
 last-reviewed: 2026-11-09
 review-due: 2027-11-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- Conditions wave 3 (build wave 21), built 2026-11-09.
      Key Sources: the Eating Disorders Toolkit for Primary Care Practitioners in BC (a BC Guidelines partner guideline, listed as 2018; Kelty Eating Disorders hosts the current file, dated October 2023), then the Canadian Paediatric Society's guide to community management (2024) and AAFP's free review (2021, international).

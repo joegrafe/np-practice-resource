@@ -5,10 +5,10 @@ system: hematology-oncology
 tags: [condition, hematology-oncology, cancer, oncology, cancer-diagnosis, red-flags, referral, womens-health, mens-health]
 jurisdiction: [BC, AB, "ON", CA, INTL]
 aliases: [suspected cancer, suspicion of cancer, cancer diagnosis, cancer red flags, cancer warning signs, cancer referral, urgent cancer referral, two week wait, lung cancer, suspected lung cancer, lung nodule, pulmonary nodule, hemoptysis, breast cancer, breast lump, breast mass, breast imaging, mammogram, prostate cancer, PSA, prostate-specific antigen, endometrial cancer, uterine cancer, postmenopausal bleeding, PMB, ovarian cancer, adnexal mass, pelvic mass, CA-125, fallopian tube cancer, peritoneal cancer, esophageal cancer, gastric cancer, stomach cancer, pancreatic cancer, liver cancer, hepatocellular carcinoma, HCC, upper GI cancer, lymphadenopathy, swollen lymph nodes, unexplained weight loss, hematuria, rectal bleeding, iron deficiency anemia, head and neck cancer, renal mass, hereditary cancer, BRCA, NICE NG12, BEACON]
-status: review
+status: published
 last-reviewed: 2026-11-09
 review-due: 2027-11-09
-reviewers: []
+reviewers: [joegrafe]
 ---
 <!-- Conditions wave 3 (build wave 21), built 2026-11-09.
      Key Sources: the five BC Guidelines on recognising and referring suspected cancer (lung 2021, breast 2013, prostate Part 1 2020, endometrial 2014, ovarian 2014) as one box, then Ontario Health's BEACON Suspicion of Cancer Service (Ontario view) and NICE NG12 (international; the UK's referral criteria by symptom, updated April 2026).
