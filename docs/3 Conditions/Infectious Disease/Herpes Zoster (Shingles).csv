@@ -27,6 +27,7 @@ Prescribing,,1,,,,,,,,,,dermnet-gabapentin
 Prescribing,,1,,,,,,,,,,dermnet-tricyclic-antidepressants
 Prescribing,,1,,,,,,,,,,dermnet-capsaicin
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Pathways BC - Infectious Disease,https://pathwaysbc.ca/specialties/34,,,[Ophthalmology](https://pathwaysbc.ca/specialties/15),"login; specialists and clinics, with referral details","Pathways, Infectious Disease, Ophthalmology",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Shingles,,,,,,,BC,,healthlinkbc-shingles
 Patient Resources,,,HealthLinkBC File - Shingles Vaccine,,,,,,,BC,,healthlinkbc-file-shingles-vaccine

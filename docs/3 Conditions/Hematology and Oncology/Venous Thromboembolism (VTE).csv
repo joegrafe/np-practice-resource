@@ -62,6 +62,7 @@ Prescribing,,1,"PharmaCare Special Authority Request: Low Molecular Weight Hepar
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Pathways BC - Hematology,https://pathwaysbc.ca/specialties/61,,,,"login; specialists and clinics, with referral details","Pathways, Hematology",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Deep Vein Thrombosis,,,,,,,BC,,healthlinkbc-dvt
 Patient Resources,,,HealthLink BC - Pulmonary Embolism,,,,,,,BC,,healthlinkbc-pe

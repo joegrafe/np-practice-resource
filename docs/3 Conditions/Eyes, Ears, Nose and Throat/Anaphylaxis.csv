@@ -28,6 +28,7 @@ Prescribing,note,,,,,,,"RxFiles has no anaphylaxis chart (checked 2026-11-09); e
 Prescribing,,,BC PharmaCare Formulary Search,,,,,look up PharmaCare coverage of epinephrine auto-injectors,EpiPen Allerject coverage,BC,yes,bc-pharmacare-formulary-search
 Prescribing,,,Ontario Drug Benefit: Allergy Shots and Epinephrine Injectable Products,,,,,ODB coverage of epinephrine auto-injectors,EpiPen Allerject ODB,ON,yes,odb-epinephrine-auto-injectors
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Pathways BC - Allergy & Immunology,https://pathwaysbc.ca/specialties/28,,,,"login; specialists and clinics, with referral details","Pathways, Allergy & Immunology",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Severe Allergic Reaction: Anaphylaxis,,,,,,,BC,,healthlinkbc-anaphylaxis
 Patient Resources,,,HealthLinkBC File - Severe Allergic Reactions to Food: Children and Teens,,,,,,food allergy school,BC,,healthlinkbc-file-severe-food-allergy-children

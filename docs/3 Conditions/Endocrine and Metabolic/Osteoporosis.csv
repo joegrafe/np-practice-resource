@@ -47,6 +47,7 @@ Prescribing,,1,PharmaCare Special Authority Request: Romosozumab (HLTH 5853),htt
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Prescribing,,,,,,,,drug comparison chart; needs an RxFiles subscription,,CA,,rxfiles-osteoporosis-chart
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Pathways BC - Endocrinology,https://pathwaysbc.ca/specialties/6,,,[Rheumatology](https://pathwaysbc.ca/specialties/9),"login; specialists and clinics, with referral details","Pathways, Endocrinology, Rheumatology",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,Ontario Osteoporosis Strategy - Find a Fracture Screening and Prevention Program site,,,,,hospital and community sites with fracture prevention coordinators who assess and follow up fragility fractures,FSPP fracture prevention,ON,yes,ontario-osteoporosis-strategy-fspp
 Advice and Referral,,,Osteoporosis Canada - Fracture Liaison Services,https://osteoporosis.ca/fls-news/,,,,post-fracture assessment programs,FLS,CA,,

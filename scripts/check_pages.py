@@ -70,6 +70,9 @@ Checks:
                  page that no longer exists
   registry-checked  a registry row with no checked date, or one older than 12 months
                  (a warning: a few sites block the build network, see UNOPENED-SOURCES.csv)
+  pathways-referral  a condition page with no Pathways BC directory row (registry id
+                 pathways-bc, or a pathwaysbc.ca link that isn't an Enhanced Care Pathway
+                 at /ci/) in Advice and Referral (Joe, 2026-11-09)
   imaging-section  on a condition page, imaging guidance (appropriate imaging, CT or MRI
                  criteria, referral guidelines) outside Assessment Tools and Calculators;
                  Choosing Wisely patient leaflets stay in Patient Resources (Joe, 2026-11-06)
@@ -169,7 +172,8 @@ TEAM_ID = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # network (UNOPENED-SOURCES.csv), to be hand-checked.
 AUDIT_RULES = {"region-order", "intro-in-page", "section-order", "key-sources", "superseded",
                "duplicate", "pdf-alone", "year", "rxfiles", "aafp-first", "jurisdiction",
-               "bc-wording", "md-links", "search", "index-list", "registry-checked", "imaging-section"}
+               "bc-wording", "md-links", "search", "index-list", "registry-checked", "imaging-section",
+               "pathways-referral"}
 WARN_ONLY = {"review-due", "registry-checked"}
 # Page standard: section order on a condition page (Review notes and the Evidence Pack
 # link are added by later steps); the sections other sheet-backed pages open and close with.
@@ -181,6 +185,7 @@ CONTENT_TYPES = {"approach", "assessment", "condition", "population", "prescribi
 DATED_KINDS = {"guideline", "algorithm", "pathway"}
 DATED_HEADINGS = {"key sources", "further resources", "algorithms and pathways"}
 AAFP_HOST, RXFILES_HOST = "aafp.org", "rxfiles.ca"
+PATHWAYS_ID, PATHWAYS_HOST = "pathways-bc", "pathwaysbc.ca"  # the Pathways BC directory (its /ci/ documents are other rows)
 REGION_WORDING = re.compile(r"\b(?:in|for|across) (?:BC|B\.C\.|British Columbia|Ontario)\b")
 YEAR_IN_TITLE = re.compile(r"\((?:[A-Za-z .&-]+, )?(?:19|20)\d{2}\)")  # "(2021)" or "(BC GPAC, 2021)"; a month-dated version ("July 2026") may stay
 IMAGING_TITLE = re.compile(r"\bimaging\b|\b(?:CT|MRI)\b|\bultrasound\b|\bx-ray\b|\bradiograph", re.I)
@@ -496,8 +501,8 @@ def _shown(only, region, view):
 
 def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
     """The audit rules that read one sheet: region-order, section-order, key-sources,
-    superseded, duplicate, pdf-alone, year, rxfiles, aafp-first, jurisdiction, bc-wording,
-    md-links. `superseded` maps a superseded id or address to the id that replaced it."""
+    superseded, duplicate, pdf-alone, year, rxfiles, pathways-referral, aafp-first,
+    jurisdiction, bc-wording, md-links. `superseded` maps a superseded id or address to the id that replaced it."""
     cols, rows = read_sheet(path)
     if cols is None or "title" not in cols:
         return
@@ -506,6 +511,7 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
         (c.get("heading") or "").lower() in ("algorithms and pathways", "advice and referral") for _, c in rows))
     headings, seen_docs, used_regions = [], {}, set()
     last_rank, last_row, section, top_only, rx_in_prescribing = None, None, None, "", False
+    pathways_in_referral = False
     intl_seen = {}  # section -> line of the first international row
     key_counts = {view: 0 for view in ["BC"] + [v for v in LIVE if v != "BC"]}
     for n, cells in rows:
@@ -597,6 +603,8 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
                     key_counts[view] += 1
         if hl == "prescribing" and (RXFILES_HOST in _host(link)):
             rx_in_prescribing = True
+        if hl == "advice and referral" and (source == PATHWAYS_ID or (_host(link).endswith(PATHWAYS_HOST) and "/ci/" not in link)):
+            pathways_in_referral = True
 
     # section-order
     if ptype == "condition":
@@ -626,6 +634,10 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
     if ptype == "condition" and not rx_in_prescribing:
         line = next((n for n, hl, _ in headings if hl == "prescribing"), 1)
         f.add("rxfiles", rel, line, "No RxFiles row in Prescribing: check rxfiles.ca for a resource on this condition and link it (with a note when it needs a subscription).")
+    # pathways-referral (Joe, 2026-11-09): every condition page sends BC readers to the Pathways directory
+    if ptype == "condition" and not pathways_in_referral:
+        line = next((n for n, hl, _ in headings if hl == "advice and referral"), 1)
+        f.add("pathways-referral", rel, line, "No Pathways BC row in Advice and Referral: add the pathways-bc row (only=yes, BC) linking the condition's Pathways specialty page (pathwaysbc.ca/specialties/<id>).")
     # jurisdiction
     juris = (meta or {}).get("jurisdiction")
     if isinstance(juris, list) and used_regions and ptype in CONTENT_TYPES:
