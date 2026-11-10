@@ -105,6 +105,7 @@ childhealthbc.ca
 choosingwiselycanada.org
 cirrhosiscare.ca
 ckdpathway.ca
+clwk.ca
 cma.ca
 cmaj.ca
 cmpa-acpm.ca
@@ -256,6 +257,7 @@ medsafer.org
 menopause.org
 menopauseandu.ca
 menopausefoundationcanada.ca
+merckmanuals.com
 metaphi.ca
 migrainecanada.org
 mini-cog.com
@@ -284,10 +286,7 @@ nnpbc.com
 *.nnpbc.com
 northernhealth.ca
 *.northernhealth.ca
-nosm.ca
-npac-aiipc.org
 npao.org
-npcircle.ca
 nurses.ab.ca
 *.nurses.ab.ca
 obesitycanada.ca
@@ -342,6 +341,7 @@ rourkebabyrecord.ca
 rxfiles.ca
 sagepub.com
 *.sagepub.com
+saskoer.ca
 sciencedirect.com
 scribeberry.com
 *.scribeberry.com

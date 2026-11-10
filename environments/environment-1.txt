@@ -93,6 +93,7 @@ childhealthbc.ca
 choosingwiselycanada.org
 cirrhosiscare.ca
 ckdpathway.ca
+clwk.ca
 cma.ca
 cmaj.ca
 cmpa-acpm.ca
@@ -211,6 +212,7 @@ medsafer.org
 menopause.org
 menopauseandu.ca
 menopausefoundationcanada.ca
+merckmanuals.com
 metaphi.ca
 migrainecanada.org
 mini-cog.com
@@ -275,7 +277,7 @@ perinatalservicesbc.ca
 pharmacists.ca
 phsa.ca
 *.phsa.ca
-pmmonline.org
+picnet.ca
 primarycarealberta.ca
 psbchealthhub.ca
 *.psbchealthhub.ca
@@ -298,6 +300,7 @@ rourkebabyrecord.ca
 rxfiles.ca
 sagepub.com
 *.sagepub.com
+saskoer.ca
 schoolfirstconcussion.ca
 sciencedirect.com
 scribeberry.com

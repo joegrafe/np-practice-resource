@@ -1,0 +1,106 @@
+heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,,md,,"*Step-by-step guides, videos and aftercare handouts for the procedures nurse practitioners and NP students do in primary and urgent care. Check first that a procedure is within your scope and privileges, and that you have the training for it, on [Procedures: Scope, Training and Privileging](Procedures%20Scope%20Training%20and%20Privileging.md).*",,,,,,,,,
+Key Sources,,,,BC MQI - Nurse Practitioner privileging dictionary,,,,,"the BC list of NP procedures, core and non-core, with the training and criteria for each; open the PDF from the Nurse Practitioner entry","procedure list, core procedures, non-core procedures",BC,yes,bcmqi-np-dictionary
+Key Sources,,box,,Saskatchewan Polytechnic - Advanced Procedural Skills (open textbook),,,,,"written by nurse practitioners for NP students: preparation, procedure steps, aftercare and follow-up for 24 primary care procedures; free, CC BY",NP procedures textbook,CA,,saskpoly-advanced-procedural-skills
+Key Sources,,,1,Local anesthesia,https://www.saskoer.ca/advancedprceduralskills2/chapter/chapter-1/,,,,,,,,
+Key Sources,,,1,Digital nerve block,https://www.saskoer.ca/advancedprceduralskills2/chapter/skill/,,,,,,,,
+Key Sources,,,1,Punch biopsy,https://www.saskoer.ca/advancedprceduralskills2/chapter/skills-5/,,,,,,,,
+Key Sources,,,1,Excision biopsy,https://www.saskoer.ca/advancedprceduralskills2/chapter/skills-3/,,,,,,,,
+Key Sources,,,1,Skin tag removal,https://www.saskoer.ca/advancedprceduralskills2/chapter/skin-tag-removal/,,,,,,,,
+Key Sources,,,1,Incision and drainage,https://www.saskoer.ca/advancedprceduralskills2/chapter/skills-4/,,,,,,,,
+Key Sources,,,1,Acute paronychia,https://www.saskoer.ca/advancedprceduralskills2/chapter/acute-paronychia-management/,,,,,,,,
+Key Sources,,,1,Partial removal of ingrown toenail,https://www.saskoer.ca/advancedprceduralskills2/chapter/skills-6/,,,,,,,,
+Key Sources,,,1,Subungual hematoma,https://www.saskoer.ca/advancedprceduralskills2/chapter/subungual-hematoma/,,,,,,,,
+Key Sources,,,1,Suturing of uncomplicated lacerations,https://www.saskoer.ca/advancedprceduralskills2/chapter/skills/,,,,,,,,
+Key Sources,,,1,Staples for wound closure,https://www.saskoer.ca/advancedprceduralskills2/chapter/skills-2/,,,,,,,,
+Key Sources,,,1,Animal bites,https://www.saskoer.ca/advancedprceduralskills2/chapter/assessment-and-management-of-animal-bites/,,,,,,,,
+Key Sources,,,1,Fishhook removal,https://www.saskoer.ca/advancedprceduralskills2/chapter/skills-7/,,,,,,,,
+Key Sources,,,1,Tick removal,https://www.saskoer.ca/advancedprceduralskills2/chapter/tick-removal/,,,,,,,,
+Key Sources,,,1,Aural canal irrigation,https://www.saskoer.ca/advancedprceduralskills2/chapter/aural-canal-irrigation/,,,,,,,,
+Key Sources,,,1,Foreign body: ear,https://www.saskoer.ca/advancedprceduralskills2/chapter/removal-of-foreign-body-ear/,,,,,,,,
+Key Sources,,,1,Foreign body: nose,https://www.saskoer.ca/advancedprceduralskills2/chapter/removal-of-foreign-body-nose/,,,,,,,,
+Key Sources,,,1,Foreign body: eye,https://www.saskoer.ca/advancedprceduralskills2/chapter/removal-of-foreign-body-eye/,,,,,,,,
+Key Sources,,,1,Corneal abrasion,https://www.saskoer.ca/advancedprceduralskills2/chapter/skills-8/,,,,,,,,
+Key Sources,,,1,Epistaxis,https://www.saskoer.ca/advancedprceduralskills2/chapter/epistaxis-management/,,,,,,,,
+Key Sources,,,1,Speculum exam and Pap test,https://www.saskoer.ca/advancedprceduralskills2/chapter/speculum-exam-and-papanicolaou-pap-smear/,,,,,,,,
+Key Sources,,,1,Bimanual examination,https://www.saskoer.ca/advancedprceduralskills2/chapter/bimanual-examination/,,,,,,,,
+Key Sources,,,1,Prostate examination,https://www.saskoer.ca/advancedprceduralskills2/chapter/prostate-examination/,,,,,,,,
+Key Sources,,,1,Venipuncture,https://www.saskoer.ca/advancedprceduralskills2/chapter/venipuncture/,,,,,,,,
+Key Sources,,,,Merck Manual Professional - Procedures & Exams,,,,,"International source: free index of step-by-step ""How To"" pages, many with videos, from anesthesia and wound care to splints, joint aspiration and ear, nose and eye procedures","procedure videos, how to",INTL,,merck-procedures-exams
+Before Any Procedure,,md,,"- Scope, privileges, courses and certification: [Procedures: Scope, Training and Privileging](Procedures%20Scope%20Training%20and%20Privileging.md)",,,,,,,,,
+Before Any Procedure,,,,BCCNM - Nurses: Consent,,,,,"informed consent, capability and substitute decision-makers; a practice standard and bylaw since April 1, 2026","informed consent, procedure consent",BC,yes,bccnm-consent
+Before Any Procedure,,,,BC Ministry of Health - Medical device reprocessing: best practice guidelines,,,,,"cleaning, disinfection and sterilization of reusable instruments in BC health authorities; the provincial reprocessing policy is on the same page","sterilization, autoclave, instruments, reprocessing",BC,yes,bc-moh-reprocessing-best-practice
+Before Any Procedure,,,,CNO - Practice Guideline: Consent (PDF),-,,,,Ontario: consent to treatment for nurses,Ontario consent,ON,yes,cno-consent
+Before Any Procedure,,,,Public Health Ontario - Infection Prevention and Control for Clinical Office Practice,,,,,"Ontario (PIDAC): infection control in office practice, including reprocessing of instruments; with checklists on the same page","office infection control, reprocessing, sterilization",ON,,pho-ipac-clinical-office-practice
+Before Any Procedure,,,,CMAJ - Five things to know about minimizing injection pain in local anesthesia,,,,,,"local anesthetic pain, buffered lidocaine",CA,,cmaj-5t-minimizing-injection-pain-in-local-anesthesia-2012
+Before Any Procedure,,,,Merck Manual - How To Do Local Wound Infiltration,,,,,International source: with video,local anesthetic infiltration,INTL,,merck-local-wound-infiltration
+Before Any Procedure,,,,Merck Manual - How To Do a Digital Nerve Block,,,,,International source,"digital block, ring block",INTL,,merck-digital-nerve-block
+Before Any Procedure,,,,DermNet - Local anaesthesia,,,,,International source: New Zealand,"local anesthetic, lidocaine, adrenaline",INTL,,dermnet-local-anaesthesia
+"Skin: Biopsy, Excision and Cryotherapy",,,,AAFP - Shave and Punch Biopsy for Skin Lesions,,,,,International source: US; Pickett H. Am Fam Physician 84(9),"punch biopsy, shave biopsy",INTL,,aafp-shave-punch-biopsy-2011
+"Skin: Biopsy, Excision and Cryotherapy",,box,,DermNet - Skin surgery,https://dermnetnz.org/topics/skin-surgery,,,,International source: New Zealand; each page shows its last review,skin surgery,INTL,,
+"Skin: Biopsy, Excision and Cryotherapy",,,1,,,,,,,,,,dermnet-skin-biopsy
+"Skin: Biopsy, Excision and Cryotherapy",,,1,,,,,,,,,,dermnet-excision-of-skin-lesions
+"Skin: Biopsy, Excision and Cryotherapy",,,1,,,,,,,,,,dermnet-curettage-and-cautery
+"Skin: Biopsy, Excision and Cryotherapy",,,1,,,,,,,,,,dermnet-cryotherapy
+"Skin: Biopsy, Excision and Cryotherapy",,,,Merck Manual - How To Incise and Drain an Abscess,,,,,International source,"I&D, abscess, boil",INTL,,merck-incise-drain-abscess
+"Wounds, Bites and Foreign Bodies",,md,,"- Laceration repair, wound closure, bites and tetanus: [Lacerations and Minor Wounds](../3%20Conditions/Dermatology/Lacerations%20and%20Minor%20Wounds.md)",,,,,,,,,
+"Wounds, Bites and Foreign Bodies",,,,"Merck Manual - How To Cleanse, Irrigate, Debride, and Dress Wounds",,,,,International source: with video,"wound irrigation, dressing",INTL,,merck-cleanse-dress-wounds
+"Wounds, Bites and Foreign Bodies",,,,Merck Manual - How To Repair a Laceration With Simple Interrupted Sutures,,,,,"International source: with video; vertical and horizontal mattress, buried and subcuticular sutures and staples are in the same chapter","suturing, stitches",INTL,,merck-simple-interrupted-sutures
+"Wounds, Bites and Foreign Bodies",,,,Merck Manual - How To Repair a Laceration With Tissue Adhesive,,,,,International source,skin glue,INTL,,merck-tissue-adhesive
+"Wounds, Bites and Foreign Bodies",,,,Merck Manual - How To Remove a Shallow Fishhook,,,,[Deep fishhook](https://www.merckmanuals.com/professional/injuries-poisoning/how-to-do-skin-soft-tissue-and-minor-surgical-procedures/how-to-remove-a-deep-fishhook),International source,fishhook,INTL,,merck-remove-fishhook-shallow
+"Wounds, Bites and Foreign Bodies",,,,Merck Manual - How To Remove a Tick,,,,,International source,tick removal,INTL,,merck-remove-tick
+Nails,,,,AAFP - Ingrown Toenail Management,,,,,"International source: US; Mayeaux EJ, Carter C, Murphy TE. Am Fam Physician 100(3)","ingrown toenail, partial nail avulsion, matrixectomy, phenol, toenail removal, nail removal",INTL,,aafp-ingrown-toenail-2019
+Nails,,,,Merck Manual - How To Treat an Ingrown Toenail,,,,,International source,"ingrown toenail, wedge resection, nail removal",INTL,,merck-ingrown-toenail
+Nails,,,,Merck Manual - How To Do Nail Trephination,,,,,International source: subungual hematoma,subungual hematoma,INTL,,merck-nail-trephination
+Joint and Soft Tissue Injections,,,,CMAJ - Five things to know about intra-articular glucocorticoid injections for knee osteoarthritis,,,,,,"knee injection, steroid injection",CA,,cmaj-5t-intra-articular-glucocorticoid-injections-for-knee-2026
+Joint and Soft Tissue Injections,,,,AAFP - Joint and Soft Tissue Injections,,,,,"International source: US; Creech-Organ JA, Szybist SE, Yurgil JL. Am Fam Physician 108(2); indications, contraindications, preparation and complications","joint injection, bursa, tendon sheath, cortisone shot",INTL,,aafp-joint-soft-tissue-injections-2023
+Joint and Soft Tissue Injections,,,,Merck Manual - How To Do Knee Arthrocentesis,,,,[Shoulder](https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/how-to-do-arthrocentesis/how-to-do-shoulder-arthrocentesis) · [Ankle](https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/how-to-do-arthrocentesis/how-to-do-ankle-arthrocentesis),International source: with video,"knee aspiration, joint tap",INTL,,merck-knee-arthrocentesis
+"Splints, Casts and Reductions",,md,,"- Which dislocations BC NPs may reduce is set in the BCCNM advanced procedures standard: see [Procedures: Scope, Training and Privileging](Procedures%20Scope%20Training%20and%20Privileging.md)",,,,,,,BC,yes,
+"Splints, Casts and Reductions",,,,AAFP - Principles of Casting and Splinting,,,,[Splints and Casts: Indications and Methods (2009)](https://www.aafp.org/pubs/afp/issues/2009/0901/p491.html),"International source: US; Boyd AS, Benjamin HJ, Asplund C. Am Fam Physician 79(1)","casting, splinting",INTL,,aafp-casting-splinting-principles-2009
+"Splints, Casts and Reductions",,box,,Merck Manual - How To Splint or Immobilize an Upper Limb,https://www.merckmanuals.com/professional/injuries-poisoning/how-to-splint-or-immobilize-an-upper-limb,,,,"International source: step-by-step, most with videos",splint,INTL,,
+"Splints, Casts and Reductions",,,1,,,,,,,,,,merck-volar-arm-splint
+"Splints, Casts and Reductions",,,1,,,,,,,,,,merck-thumb-spica-splint
+"Splints, Casts and Reductions",,,1,,,,,,,,,,merck-ulnar-gutter-splint
+"Splints, Casts and Reductions",,,1,,,,,,,,,,merck-buddy-tape-fingers
+"Splints, Casts and Reductions",,,,Merck Manual - How To Apply a Posterior Ankle Splint,,,,,International source: with video,ankle splint,INTL,,merck-posterior-ankle-splint
+"Splints, Casts and Reductions",,,,Merck Manual - How To Apply a Cast,,,,,International source,cast,INTL,,merck-apply-cast
+"Splints, Casts and Reductions",,,,Merck Manual - How To Reduce a Radial Head Subluxation (Nursemaid Elbow),,,,,International source: with video,"pulled elbow, nursemaid",INTL,,merck-radial-head-subluxation
+"Splints, Casts and Reductions",,,,Merck Manual - Overview of Shoulder Dislocation Reduction Techniques,,,,,"International source: links each technique, with videos",shoulder dislocation,INTL,,merck-shoulder-dislocation-reduction
+"Ear, Nose and Eye",,,,AAFP - Cerumen Impaction: Diagnosis and Management,,,,,"International source: US; Michaudet C, Malaty J. Am Fam Physician 98(8)","earwax, cerumen",INTL,,aafp-cerumen-impaction-2018
+"Ear, Nose and Eye",,,,Merck Manual - How To Remove Cerumen Manually and With Irrigation,,,,,International source: with video,"ear syringing, ear irrigation",INTL,,merck-cerumen-removal
+"Ear, Nose and Eye",,,,Merck Manual - How To Remove a Foreign Body From the External Ear,,,,,International source,ear foreign body,INTL,,merck-ear-foreign-body
+"Ear, Nose and Eye",,,,Merck Manual - How To Remove a Foreign Body From the Nose,,,,,International source,nasal foreign body,INTL,,merck-nose-foreign-body
+"Ear, Nose and Eye",,,,Merck Manual - How To Treat Anterior Epistaxis With Cautery,,,,[Nasal packing](https://www.merckmanuals.com/professional/ear-nose-and-throat-disorders/how-to-do-nose-procedures/how-to-treat-anterior-epistaxis-with-nasal-packing),International source: with video,"nosebleed, silver nitrate",INTL,,merck-epistaxis-cautery
+"Ear, Nose and Eye",,,,Merck Manual - How To Irrigate the Eye and Do Eyelid Eversion,,,,,International source: with video,"eye irrigation, chemical eye",INTL,,merck-eye-irrigation-eversion
+"Ear, Nose and Eye",,,,Merck Manual - How To Remove a Foreign Body From the Eye,,,,,International source,corneal foreign body,INTL,,merck-eye-foreign-body
+Sexual and Reproductive Health,,,,"SOGC - Statement on Intrauterine Devices, Counselling and Pain Management",,,,,counselling and pain management options for IUD insertion,"IUD pain, IUD insertion",CA,,sogc-iud-statement-2022
+Sexual and Reproductive Health,,,,Tools for Practice #405: Topical lidocaine for IUD insertion,,,,,,"IUD pain, lidocaine",CA,,tfp-405-lidocaine-iud
+Sexual and Reproductive Health,,,,SOGC Guideline No. 411: Vaginal Pessary Use,,,,,"pessary types, fitting, follow-up and complications",pessary fitting,CA,,sogc-guideline-no-411-vaginal-pessary-use
+Sexual and Reproductive Health,,,,AAFP - Long-Acting Reversible Contraception: Difficult Insertions and Removals,,,,,International source: US,"IUD, implant, Nexplanon removal",INTL,,aafp-larc-difficult-2018
+Sexual and Reproductive Health,,,,AAFP - Endometrial Biopsy: Tips and Pitfalls,,,,,"International source: US; Williams PM, Gaddey HL. Am Fam Physician 101(9)","endometrial biopsy, pipelle",INTL,,aafp-endometrial-biopsy-2020
+Sexual and Reproductive Health,,md,,"- IUD and implant insertion workshops: Training on [Procedures: Scope, Training and Privileging](Procedures%20Scope%20Training%20and%20Privileging.md)",,,,,,,,,
+"Injections, Lines and Tests",,,,"BCCDC - BC Immunization Manual, Appendix B: Administration of Biological Products",,,,,"injection sites, needle lengths and technique for vaccines and immune globulins","IM injection, intramuscular, subcutaneous, needle length, vaccine administration",BC,,bccdc-imm-appendix-b-administration
+"Injections, Lines and Tests",,,,"BCCDC - TB Manual, Section 4(a): TB Screening and Testing",,,,,"tuberculin skin test use, administration and reading in BC","TST, Mantoux, TB skin test",BC,yes,bccdc-tb-manual-section-4-a-tb-screening-and-testing
+"Injections, Lines and Tests",,,,PHSA LearningHub - BCCDC Tuberculin Skin Testing (course),,,,,"2-hour eLearning course on TST preparation, administration and follow-up for BC health care workers","TST course, Mantoux training",BC,yes,phsa-learninghub-tst-course
+"Injections, Lines and Tests",,,,Merck Manual - How To Insert a Peripheral Intravenous Catheter,,,,,International source: with video,IV start,INTL,,merck-peripheral-iv
+"Injections, Lines and Tests",,,,Merck Manual - How To Do Urethral Catheterization in a Female,,,,[In a male](https://www.merckmanuals.com/professional/genitourinary-disorders/how-to-do-genitourinary-procedures/how-to-do-urethral-catheterization-in-a-male),International source: with video,"urinary catheter, Foley",INTL,,merck-urethral-catheter-female
+Children,,,,CPS - Managing pain and distress in children undergoing brief diagnostic and therapeutic procedures,,,,,"physical, psychological and drug strategies for needles and other brief procedures","procedural pain children, needle pain, distraction, topical anesthetic, sucrose",CA,,cps-procedural-pain-distress
+Children,,,,TREKK - Bottom Line Recommendations: Procedural Pain,,,,,pediatric emergency procedural pain summary,procedural pain children,CA,,trekk-procedural-pain-blr-2022
+For NP Students,,,,BCCNM - Nurses: Regulatory Supervision of Students,,,,,how an NP preceptor authorizes and supervises an NP student performing restricted activities,"NP student, preceptor, restricted activities",BC,yes,bccnm-regulatory-supervision-students
+For NP Students,,,,Saskatchewan Polytechnic - CNPP Preceptor Handbook: Practice Education Procedures,,,,,Saskatchewan: the procedures one NP program lets its students do under a preceptor,NP student procedures,SK,,saskpoly-cnpp-student-procedures
+For NP Students,,,,CFPC - Assessment Objectives for Certification in Family Medicine: Procedure Skills,,,,,"Physician-focused: the general key features of doing a procedure, and the 65 core procedures family physicians are expected to do",core procedures list,CA,,cfpc-procedure-skills
+Patient Resources,,,,HealthLink BC - Skin Biopsy,,,,,,,BC,,healthlinkbc-skin-biopsy
+Patient Resources,,,,HealthLink BC - Punch Biopsy,,,,,,,BC,,healthlinkbc-punch-biopsy
+Patient Resources,,,,HealthLink BC - Cryotherapy for Warts,,,,,,wart freezing,BC,,healthlinkbc-cryotherapy-warts
+Patient Resources,,,,HealthLink BC - How to Treat an Ingrown Toenail,,,,,,toenail surgery aftercare,BC,,healthlinkbc-how-treat-ingrown-toenail
+Patient Resources,,,,HealthLink BC - Taking Care of Your Stitches or Staples,,,,,,suture care,BC,,healthlinkbc-taking-care-your-stitches-or-staples
+Patient Resources,,,,HealthLink BC - Cast Care Tips,,,,,,,BC,,healthlinkbc-cast-care-tips
+Patient Resources,,,,HealthLink BC - Splint Care Tips,,,,,,,BC,,healthlinkbc-splint-care-tips
+Patient Resources,,,,HealthLink BC - Earwax,,,,,,,BC,,healthlinkbc-earwax
+Patient Resources,,,,HealthLink BC - Nosebleeds,,,,,,,BC,,healthlinkbc-nosebleeds
+Patient Resources,,,,HealthLink BC - Intrauterine Device (IUD) for Birth Control,,,,,,,BC,,healthlinkbc-iud
+Patient Resources,,,,HealthLink BC - Birth Control Hormones: The Implant,,,,,,Nexplanon,BC,,healthlinkbc-birth-control-implant
+Patient Resources,,,,HealthLink BC - Endometrial Biopsy,,,,,,,BC,,healthlinkbc-endometrial-biopsy
+Patient Resources,,,,HealthLink BC - Vaginal Pessaries,,,,,,,BC,,healthlinkbc-vaginal-pessaries
+Patient Resources,,,,HealthLink BC - Tuberculin Skin Test,,,,,,TST,BC,,healthlinkbc-tuberculin-skin-test
+Patient Resources,,,,Caring for Kids - Supporting your child through a brief medical procedure,,,,,"Canadian Paediatric Society, for parents",needle fear,CA,,caring-for-kids-brief-procedure

@@ -78,6 +78,7 @@ childhealthbc.ca
 choosingwiselycanada.org
 chrsonline.ca
 cjrm.srpc.ca
+clwk.ca
 cma.ca
 cmaj.ca
 cna-aiic.ca
@@ -209,6 +210,7 @@ mchatscreen.com
 mdcalc.com
 menopause.org
 menopauseandu.ca
+merckmanuals.com
 metaphi.ca
 mini-cog.com
 mja.com.au
@@ -251,6 +253,7 @@ ontariopalliativecarenetwork.ca
 ontariopoisoncentre.ca
 ontariorenalnetwork.ca
 ontariorheum.ca
+opentextbc.ca
 ophthalmology.ca
 optionsforsexualhealth.org
 optometrists.ca
@@ -274,7 +277,6 @@ pcmch.on.ca
 pediatricpalliativecare.ca
 pedscases.com
 pedsconcussion.com
-peerevidence.ca
 pemcincinnati.com
 perinatalservicesbc.ca
 phqscreeners.com
@@ -306,6 +308,7 @@ rourkebabyrecord.ca
 rxfiles.ca
 sagepub.com
 *.sagepub.com
+saskoer.ca
 sciencedirect.com
 sexandu.ca
 sexualhealthontario.ca
