@@ -3,10 +3,10 @@ title: "Procedures: How-To Guides and Videos"
 type: practice
 tags: [practice, procedures, procedural-skills, how-to, minor-surgery, students]
 jurisdiction: [BC, "ON", CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-10
 review-due: 2027-11-10
-reviewers: []
+reviewers: [joegrafe]
 aliases: [procedural skills, how to do procedures, procedure videos, office procedures, minor procedures, minor surgery, clinical skills, NP student skills, skin biopsy, punch biopsy, shave biopsy, excision, elliptical excision, skin tag removal, cryotherapy, liquid nitrogen, wart freezing, curettage, cautery, incision and drainage, I&D, abscess drainage, suturing, stitches, laceration repair, staples, skin glue, ingrown toenail, toenail removal, nail removal, wedge resection, partial nail avulsion, subungual hematoma, nail trephination, paronychia drainage, joint injection, steroid injection, cortisone shot, knee injection, shoulder injection, arthrocentesis, joint aspiration, splinting, casting, buddy taping, nursemaid elbow, shoulder dislocation reduction, digital block, local anesthetic, lidocaine, earwax removal, ear syringing, ear irrigation, cerumen, foreign body removal, fishhook removal, tick removal, nosebleed cautery, nasal packing, eye irrigation, corneal foreign body, IUD insertion, implant insertion, Nexplanon, pessary fitting, endometrial biopsy, Pap test, venipuncture, IV start, urinary catheter, TB skin test, Mantoux, procedural pain children, needle pain]
 description: "How-to guides, videos and patient aftercare handouts for the procedures nurse practitioners and NP students do in primary and urgent care: skin biopsy and excision, nails, wounds, joint injections, splints, ear, nose and eye, and sexual health procedures."
 ---
