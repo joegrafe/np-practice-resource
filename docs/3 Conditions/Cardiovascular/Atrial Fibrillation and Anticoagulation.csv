@@ -54,7 +54,7 @@ Prescribing,,,RxFiles: Atrial Fibrillation Anticoagulation Colour Comparison Cha
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Advice and Referral,,,BC Guidelines: Indications for Potential Specialist Referral,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/atrial-fibrillation#indications,2023,,,,,BC,,
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
-Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; specialists and clinics across BC, with referral wait times and areas of expertise; search Cardiology","Pathways referral directory, specialist wait times, Cardiology",BC,yes,pathways-bc
+Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; directory of specialists and clinics, with referral details; search Cardiology","Pathways, Cardiology",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,Patient Record Sheet: DOACs Before and After Procedures (BC GPAC),,,,,,,BC,,bc-gpac-doac-procedure-record
 Patient Resources,,,Patient Record Sheet: Warfarin Before and After Procedures (BC GPAC),,,,,,,BC,,bc-gpac-warfarin-procedure-record

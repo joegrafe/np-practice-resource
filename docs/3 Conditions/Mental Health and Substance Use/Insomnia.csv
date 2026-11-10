@@ -40,7 +40,7 @@ Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ont
 Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
 Prescribing,md,,"- Benzodiazepine and z-drug prescribing and tapering — *see [Opioids, Controlled Drugs and Substance Use](../../5%20Prescribing/Opioids%20Controlled%20Drugs%20and%20Substance%20Use.md) and [Deprescribing](../../5%20Prescribing/Deprescribing.md)*",,,,,,,,,
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
-Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; specialists and clinics across BC, with referral wait times and areas of expertise; search Sleep Medicine or Psychiatry","Pathways referral directory, specialist wait times, Sleep Medicine, Psychiatry",BC,yes,pathways-bc
+Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; directory of specialists and clinics, with referral details; search Sleep Medicine or Psychiatry","Pathways, Sleep Medicine, Psychiatry",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Insomnia,,,,,,,BC,,healthlinkbc-insomnia
 Patient Resources,,,HealthLink BC - Insomnia: Improving Your Sleep,https://www.healthlinkbc.ca/healthwise/insomnia-improving-your-sleep,,,,,sleep hygiene,BC,,

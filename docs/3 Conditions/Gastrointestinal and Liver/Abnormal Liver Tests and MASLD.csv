@@ -23,7 +23,7 @@ Prescribing,,,RxFiles - Drug Comparison Charts: Weight Loss Approach,,,,,weight-
 Prescribing,,,LiverTox: Clinical and Research Information on Drug-Induced Liver Injury,,,,,"NIH database of medicines, herbals and supplements that can injure the liver. International source: US, not Canadian.",drug-induced liver injury hepatotoxicity herbal,INTL,,livertox-nih
 Prescribing,note,,,,,,,No PharmaCare Special Authority criteria for MASLD found (checked 2026-11-08).,,,,
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",hepatology gastroenterology advice,BC,yes,race-connect
-Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; specialists and clinics across BC, with referral wait times and areas of expertise; search Gastroenterology or Hepatology","Pathways referral directory, specialist wait times, Gastroenterology, Hepatology",BC,yes,pathways-bc
+Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; directory of specialists and clinics, with referral details; search Gastroenterology or Hepatology","Pathways, Gastroenterology, Hepatology",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Non-Alcoholic Fatty Liver Disease (NAFLD),,,,,,fatty liver,BC,,healthlinkbc-nafld
 Patient Resources,,,HealthLink BC - Liver Function Tests,,,,,,liver blood tests,BC,,healthlinkbc-liver-function-tests

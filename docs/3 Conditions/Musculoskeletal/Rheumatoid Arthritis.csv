@@ -60,7 +60,7 @@ Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ont
 Prescribing,,1,Ontario Rheumatology Association - EAP and Limited Use codes for rheumatology drugs,,,,,"the EAP criteria and limited use codes for biologics and other rheumatology drugs, with the biosimilar fact sheet",EAP limited use biologics,,,ora-eap-limited-use
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Mary Pack Arthritis Program (MPAP) Clinics (Vancouver Coastal Health),,,,,inflammatory arthritis clinics across BC; services need a doctor's or rheumatologist's referral,,BC,yes,vch-mary-pack-arthritis-program
-Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; specialists and clinics across BC, with referral wait times and areas of expertise; search Rheumatology","Pathways referral directory, specialist wait times, Rheumatology",BC,yes,pathways-bc
+Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; directory of specialists and clinics, with referral details; search Rheumatology","Pathways, Rheumatology",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,Ontario Rheumatology Association - Find a Rheumatologist,,,,,directory of Ontario rheumatologists by region,rheumatologist directory,ON,yes,ora-find-a-rheumatologist
 Advice and Referral,,,RheumInfo - Comprehensive Arthritis Referral Tool (CART),,,,,rheumatology referral triage form,,CA,,rheuminfo-cart
