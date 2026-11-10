@@ -6,43 +6,61 @@ section_nav: false
 
 <p class="nppr-hero">A free, curated index of current provincial and Canadian practice sources for nurse practitioners and students.</p>
 
-<div class="grid cards nppr-cards" markdown>
+## How to use it
 
--   :material-head-lightbulb-outline:{ .nppr-icon } [**Approaches**](1%20Approaches/index.md)
+Each tab matches a step of the appointment, so the source is one click away when an AI tool hands you a differential, a dose or a drafted note. Pick your province in the header to see its sources first; British Columbia is the default.
 
-    Clinical reasoning frameworks and documentation.
+<div class="grid cards nppr-cards nppr-steps" markdown>
 
--   :material-stethoscope:{ .nppr-icon } [**Assessments**](2%20Assessments/index.md)
+-   :material-head-lightbulb-outline:{ .nppr-icon } <span class="nppr-step">Step 1 · Hear the complaint</span> [**Approaches**](1%20Approaches/index.md)
 
-    Exams by system, point-of-care ultrasound, decision rules, screening, and lab and imaging interpretation.
+    "Approach to" articles and care pathways, A to Z by complaint.
 
--   :material-clipboard-pulse-outline:{ .nppr-icon } [**Conditions**](3%20Conditions/index.md)
+-   :material-stethoscope:{ .nppr-icon } <span class="nppr-step">Step 2 · Examine and test</span> [**Assessments**](2%20Assessments/index.md)
 
-    One page per condition, grouped by body system.
+    Exam by system, decision rules, screening scales, lab and imaging, and POCUS.
 
--   :material-account-group-outline:{ .nppr-icon } [**Populations**](4%20Populations/index.md)
+-   :material-clipboard-pulse-outline:{ .nppr-icon } <span class="nppr-step">Step 3 · Name the diagnosis</span> [**Conditions**](3%20Conditions/index.md)
 
-    Pediatrics, women's health, trans and gender-affirming care, and rural and remote practice.
+    One page per condition, your province's guideline first and every source dated.
 
--   :material-pill:{ .nppr-icon } [**Prescribing**](5%20Prescribing/index.md)
+-   :material-pill:{ .nppr-icon } <span class="nppr-step">Step 4 · Treat</span> [**Prescribing**](5%20Prescribing/index.md)
 
-    Drug references, antimicrobial guidance and immunization.
+    Drug references, antimicrobials, drug coverage, immunization and deprescribing.
 
--   :material-briefcase-outline:{ .nppr-icon } [**Practice**](6%20Practice/index.md)
+-   :material-briefcase-outline:{ .nppr-icon } <span class="nppr-step">Step 5 · Refer and follow up</span> [**Practice**](6%20Practice/index.md)
 
-    NP scope and standards, prescribing authority, registration, practice models, documentation and peer support.
+    Advice lines, referral, forms, duty to report and NP scope.
 
--   :material-toolbox-outline:{ .nppr-icon } [**Tools**](7%20Tools/index.md)
+-   :material-toolbox-outline:{ .nppr-icon } <span class="nppr-step">Step 6 · Document</span> [**Tools**](7%20Tools/index.md)
 
-    AI tools, peer-written charting and AI templates, and Evidence Packs.
-
--   :material-bookshelf:{ .nppr-icon } [**Resources**](8%20Resources/index.md)
-
-    Guideline directories, library guides, evidence summaries and clinical tools.
+    Checking AI output, AI scribes, consent and safe use, and loading sources into AI tools.
 
 </div>
 
-Know a source other NPs should have? [Submit a link](About/Submissions.md).
+<div class="nppr-lens" markdown>
+
+:material-account-group-outline:{ .nppr-icon } **[Populations](4%20Populations/index.md)** run across every step, because who the patient is changes each one: pediatrics, pregnancy and perinatal, women's health, older adults, trans care, Indigenous health, newcomers and refugees, rural and remote, and adults with intellectual and developmental disabilities.
+
+</div>
+
+<div class="nppr-lens" markdown>
+
+:material-bookshelf:{ .nppr-icon } **[Resources](8%20Resources/index.md)** for when a topic isn't on NPPR yet: the guideline directories, evidence summaries, libraries and databases to check next.
+
+</div>
+
+<div class="nppr-loop" markdown>
+
+**You stay the human in the loop**
+
+1. **An AI tool makes a suggestion:** a differential, a dose, a drafted note.
+2. **NPPR opens the current source:** your province first, with the year beside it.
+3. **You confirm, change or overrule it.**
+
+</div>
+
+Know a source other NPs should have? [Submit a link](About/Submissions.md). New here? Read [About NPPR](About/index.md).
 
 !!! warning "Disclaimer"
     NPPR is a reference index for licensed clinicians. It links to other organizations' guidance and doesn't replace your clinical judgement or the source document. Check any AI answer against the cited source. [Full disclaimer](About/Disclaimer%2C%20Licence%20and%20Privacy.md)
