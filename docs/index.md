@@ -6,10 +6,6 @@ section_nav: false
 
 <p class="nppr-hero">A free, curated index of current provincial and Canadian practice sources for nurse practitioners and students.</p>
 
-## How to use it
-
-Each tab matches a step of the appointment, so the source is one click away when an AI tool hands you a differential, a dose or a drafted note. Pick your province in the header to see its sources first; British Columbia is the default.
-
 <div class="grid cards nppr-cards nppr-steps" markdown>
 
 -   :material-head-lightbulb-outline:{ .nppr-icon } <span class="nppr-step">Step 1 · Hear the complaint</span> [**Approaches**](1%20Approaches/index.md)
