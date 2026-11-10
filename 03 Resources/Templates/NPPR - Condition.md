@@ -22,6 +22,7 @@ reviewers: []
      Algorithms and Pathways: BC first, then Alberta's Pathway Hub.
      Assessment Tools and Calculators: a BC or Canadian calculator first (BC Guidelines appendices, Thrombosis Canada clinical tools), then MDCalc and other sites as required. Not MDCalc's Framingham (hard coronary model): use BC Guidelines CVD Appendix B.
      Prescribing: always the RxFiles page when RxFiles has an appropriate resource (note when it needs a subscription). Special Authority criteria and forms go last, in one box.
+     Advice and Referral: RACE, then the Pathways BC directory row (source pathways-bc, only=yes) with the specialty to search in its note, then other regions' lines. check_pages.py fails a condition sheet without the Pathways row.
      Every linked top-level row carries a region code from docs/regions.csv (BC, AB, ON, CA, US, INTL): the jurisdiction the content is written for, not the publisher's address.
      A row for its region alone (the BC Guideline in Key Sources, Special Authority, RACE, a CEP tool, Ontario eConsult, a quality standard) is only=yes; the BC key source gets a one-line copy at the top of Further Resources marked only=other. check_pages.py fails a condition sheet without them.
      A document's facts (title, publisher, url, pdf, year, region, checked) go in docs/sources.csv once; the row names it in the source column and leaves url, pdf and year blank.

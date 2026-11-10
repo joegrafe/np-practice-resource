@@ -17,6 +17,7 @@ Prescribing,,1,PharmaCare Special Authority Request: General (HLTH 5328),https:/
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary (febuxostat is not a listed benefit); nurse practitioners submit requests through SADIE,EAP SADIE Ontario febuxostat,ON,yes,odb-eap
 Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",rheumatology advice,BC,yes,race-connect
+Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; specialists and clinics across BC, with referral wait times and areas of expertise; search Rheumatology","Pathways referral directory, specialist wait times, Rheumatology",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Gout,,,,,,,BC,,healthlinkbc-gout
 Patient Resources,,,HealthLink BC - Gout: Changing Your Diet,,,,,,diet purines,BC,,healthlinkbc-gout-diet

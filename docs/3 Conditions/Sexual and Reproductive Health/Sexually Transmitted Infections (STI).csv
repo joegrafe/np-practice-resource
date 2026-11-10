@@ -71,6 +71,7 @@ Prescribing,,,RxFiles - Drug Comparison Charts: HIV Pre-Exposure Prophylaxis (Pr
 Prescribing,,,,,,,,,,CA,,naci-hpv-2024
 Prescribing,,,NACI: Updated Guidance on Imvamune for Prevention of Mpox,,,,,,,CA,,naci-imvamune-2025
 Advice and Referral,,,RACE - STI Service,,,,,"BC specialist telephone advice for family physicians, nurse practitioners and midwives",,BC,yes,race-connect-sti
+Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; specialists and clinics across BC, with referral wait times and areas of expertise; search Infectious Disease","Pathways referral directory, specialist wait times, Infectious Disease",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,BCCDC Sexually Transmitted Infections Clinics,,,,,,,BC,,bccdc-sti-clinics
 Patient Resources,,,BCCDC - Sexually Transmitted Infections (STIs),https://www.bccdc.ca/health-info/diseases-conditions/sexually-transmitted-infections-%28stis%29,,,,,,BC,,

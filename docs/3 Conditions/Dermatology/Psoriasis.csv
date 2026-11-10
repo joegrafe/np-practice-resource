@@ -97,6 +97,7 @@ Prescribing,,2,,,,,,,,,,dermnet-secukinumab
 Prescribing,,2,,,,,,,,,,dermnet-tildrakizumab
 Prescribing,,2,,,,,,,,,,dermnet-ustekinumab
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
+Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; specialists and clinics across BC, with referral wait times and areas of expertise; search Dermatology","Pathways referral directory, specialist wait times, Dermatology",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,RheumInfo - Comprehensive Arthritis Referral Tool (CART),,,,,"rheumatology referral triage form, for suspected psoriatic arthritis",,CA,,rheuminfo-cart
 Patient Resources,,,HealthLink BC - Psoriasis,,,,,,,BC,,healthlinkbc-psoriasis
