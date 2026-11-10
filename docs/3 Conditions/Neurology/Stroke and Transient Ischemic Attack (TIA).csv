@@ -18,7 +18,7 @@ Prescribing,,1,Dual Antiplatelet and Triple Therapy chart (PDF),https://www.rxfi
 Prescribing,note,,,,,,,PharmaCare Special Authority criteria for anticoagulants are on [Atrial Fibrillation and Anticoagulation](../Cardiovascular/Atrial%20Fibrillation%20and%20Anticoagulation.md); no stroke-specific PharmaCare criteria found (checked 2026-11-08).,,,,
 Advice and Referral,,,Stroke Services BC,,,,,PHSA provincial stroke program; links to each health authority's stroke prevention clinics,stroke prevention clinic TIA clinic BC,BC,yes,phsa-stroke-services-bc
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",neurology stroke advice,BC,yes,race-connect
-Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; directory of specialists and clinics, with referral details; search Neurology","Pathways, Neurology",BC,yes,pathways-bc
+Advice and Referral,,,Pathways BC - Neurology,https://pathwaysbc.ca/specialties/14,,,,"login; specialists and clinics, with referral details","Pathways, Neurology",BC,yes,pathways-bc
 Advice and Referral,,,"Ontario Health - Cardiac, Stroke and Vascular Care: Centres",,,,,Ontario's regional and district stroke centres,Ontario stroke centre stroke prevention clinic,ON,yes,ontario-health-stroke-centres
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Stroke,,,,,,stroke,BC,,healthlinkbc-stroke

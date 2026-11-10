@@ -18,7 +18,7 @@ Prescribing,,2,"Drug name (last updated Month D, YYYY)",URL,,,,,,,,
 Prescribing,,1,"PharmaCare Special Authority Request: Name (HLTH ####, rev. YYYY/MM/DD)",URL,,,,,,,,
 Prescribing,,,Ontario Drug Benefit - Exceptional Access Program: Drug name,,,,,criteria and request form,,ON,yes,odb-eap
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
-Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; directory of specialists and clinics, with referral details; search Specialty","Pathways, Specialty",BC,yes,pathways-bc
+Advice and Referral,,,Pathways BC - Specialty,https://pathwaysbc.ca/specialties/ID,,,,"login; specialists and clinics, with referral details","Pathways, Specialty",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult,,,,,specialist advice for Ontario clinicians,,ON,yes,ontario-econsult
 Patient Resources,,,HealthLink BC - Condition Name,URL,,,,,,BC,,
 Patient Resources,,,Resource Name (Publisher),URL,,,,,,CA,,

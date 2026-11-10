@@ -50,7 +50,7 @@ Prescribing,,,RxFiles: Pain Book,,,,,"chronic pain therapy, colour chart, NSAID 
 Prescribing,box,,Ontario Drug Benefit - Exceptional Access Program (EAP),,,,,Ontario coverage for drugs not on the ODB Formulary; nurse practitioners submit requests through SADIE,EAP SADIE Ontario,ON,yes,odb-eap
 Prescribing,,1,,,,,,,,,,sadie-special-authorization-digital-information
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
-Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; directory of specialists and clinics, with referral details; search Pain Medicine","Pathways, Pain Medicine",BC,yes,pathways-bc
+Advice and Referral,,,Pathways BC - Pain Medicine,https://pathwaysbc.ca/specialties/30,,,[Pain Management](https://pathwaysbc.ca/service_categories/40),"login; specialists and clinics, with referral details","Pathways, Pain Medicine",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,Pain BC - BC ECHO for Chronic Pain,https://learn.painbc.ca/program/bc-echo-for-chronic-pain,,,,free monthly virtual case-based sessions with an interdisciplinary pain team,ECHO,BC,,
 Advice and Referral,,,"Pain BC - BC Adaptive Mentorship Network for Pain, Mental Health and Substance Use",https://learn.painbc.ca/program/bc-adaptive-mentorship-network,,,,mentorship for primary care providers,BCAMN mentorship,BC,,

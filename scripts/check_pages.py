@@ -637,7 +637,7 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
     # pathways-referral (Joe, 2026-11-09): every condition page sends BC readers to the Pathways directory
     if ptype == "condition" and not pathways_in_referral:
         line = next((n for n, hl, _ in headings if hl == "advice and referral"), 1)
-        f.add("pathways-referral", rel, line, "No Pathways BC row in Advice and Referral: add the pathways-bc row (only=yes, BC) with the specialty to search in its note.")
+        f.add("pathways-referral", rel, line, "No Pathways BC row in Advice and Referral: add the pathways-bc row (only=yes, BC) linking the condition's Pathways specialty page (pathwaysbc.ca/specialties/<id>).")
     # jurisdiction
     juris = (meta or {}).get("jurisdiction")
     if isinstance(juris, list) and used_regions and ptype in CONTENT_TYPES:

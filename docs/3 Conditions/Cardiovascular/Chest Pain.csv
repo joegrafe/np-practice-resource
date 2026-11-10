@@ -22,7 +22,7 @@ Assessment Tools and Calculators,,,MDCalc: HEART Score for Major Cardiac Events,
 Prescribing,,,Canadian Cardiovascular Society - Post-Acute Coronary Syndrome Secondary Prevention Pathway,,,,,medications and follow-up after ACS; see also [Cardiovascular Risk and Lipids](Cardiovascular%20Risk%20and%20Lipids.md),secondary prevention post-MI,CA,,ccs-post-acs-pathway-2025
 Prescribing,,,,,,,,drug comparison chart; needs an RxFiles subscription,,CA,,rxfiles-post-mi-chart
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",cardiology,BC,yes,race-connect
-Advice and Referral,,,Pathways BC - specialists and clinics,,,,,"login; directory of specialists and clinics, with referral details; search Cardiology","Pathways, Cardiology",BC,yes,pathways-bc
+Advice and Referral,,,Pathways BC - Cardiology,https://pathwaysbc.ca/specialties/4,,,,"login; specialists and clinics, with referral details","Pathways, Cardiology",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
 Advice and Referral,,,RCCbc - Real-Time Virtual Support: RUDi (Emergency),,,,,"24/7 emergency physician support by Zoom and phone for rural and remote providers, including nurse practitioners",RTVS rural,BC,yes,rccbc-rtvs-rudi
 Patient Resources,,,HealthLink BC - Chest Problems,,,,,symptom guide: when to call 9-1-1 or seek care,,BC,,healthlinkbc-chest-problems
