@@ -33,4 +33,4 @@ Once installed on Android, NPPR also appears in your phone's **Share** menu. Sha
 
 - **One tap.** Open NPPR mid-visit without typing an address or finding a bookmark.
 - **More room.** The app hides the browser's address bar, leaving more of the screen for the page.
-- **Submit Links** Share any web page and pick NPPR from the share menu. The form opens with the link filled in.
+- **Submit Links.** Share any web page and pick NPPR from the share menu. The form opens with the link filled in.
