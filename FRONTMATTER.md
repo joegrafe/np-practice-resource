@@ -25,7 +25,7 @@ The page's documents are rows of `docs/sources.csv` (Sources registry, below), n
 | Field | Required | Values | Notes |
 | --- | --- | --- | --- |
 | `title` | Yes | Text | Page title as shown on the site. |
-| `type` | Yes | `approach` · `assessment` · `condition` · `population` · `prescribing` · `practice` · `evidence-pack` · `resource` · `index` · `about` | `index` (section index pages) and `about` (About pages) are additions for pages the framework's list doesn't cover. |
+| `type` | Yes | `approach` · `assessment` · `condition` · `population` · `procedure` · `prescribing` · `practice` · `evidence-pack` · `resource` · `index` · `about` | `index` (section index pages) and `about` (About pages) are additions for pages the framework's list doesn't cover. |
 | `system` | Condition pages only | One slug from the body-system list below | Must match the Conditions sub-folder. |
 | `tags` | Yes | Lowercase, hyphenated list | First tag is the page type. Add the system, then any population and presenting-symptom tags that apply (see Tags below). |
 | `jurisdiction` | Yes | List of codes from `docs/regions.csv` (`BC`, `CA`, `INTL`, `ON`, `AB` ...) | Every jurisdiction the page's sources cover, provinces first: `[BC, "ON", CA]`. Write `"ON"` in quotes, because YAML reads a bare `ON` as true. |
@@ -105,12 +105,13 @@ Condition pages use one of these `system` slugs, which match the Conditions sub-
 | --- | --- |
 | NPPR - Approach | `approach` |
 | NPPR - Approach.csv | List sheet to copy beside a new Approaches page (columns: List sheets in NPPR-FRAMEWORK.md) |
-| NPPR - Condition.csv, Population.csv, Assessment.csv, Practice.csv, Prescribing.csv, Resource.csv | The `style=condition` list sheet to copy beside a new page of that type, renamed to the page's name; its first row is the intro line (`kind=md`), and every linked top-level row has a `region` (columns: List sheets in NPPR-FRAMEWORK.md) |
+| NPPR - Condition.csv, Population.csv, Assessment.csv, Practice.csv, Prescribing.csv, Procedure.csv, Resource.csv | The `style=condition` list sheet to copy beside a new page of that type, renamed to the page's name; its first row is the intro line (`kind=md`), and every linked top-level row has a `region` (columns: List sheets in NPPR-FRAMEWORK.md) |
 | NPPR - Assessment | `assessment` |
 | NPPR - Condition | `condition` |
 | NPPR - Population | `population` |
 | NPPR - Practice | `practice` |
 | NPPR - Prescribing | `prescribing` |
+| NPPR - Procedure | `procedure` (Procedures tab pages, since 2026-11-11) |
 | NPPR - Resource | `resource` |
 | NPPR - Section Index | `index` |
 | NPPR - About Page | `about` |

@@ -98,7 +98,7 @@ import sys
 
 import yaml
 
-TYPES = {"approach", "assessment", "condition", "population", "prescribing", "practice",
+TYPES = {"approach", "assessment", "condition", "population", "procedure", "prescribing", "practice",
          "evidence-pack", "resource", "index", "about"}
 STATUSES = {"draft", "review", "published"}
 REGIONS_SHEET = "regions.csv"  # docs/regions.csv: code, name, country, kind, live
@@ -181,7 +181,7 @@ CONDITION_ORDER = ["key sources", "further resources", "algorithms and pathways"
                    "assessment tools and calculators", "prescribing", "advice and referral",
                    "patient resources", "evidence pack", "review notes"]
 LAST_SECTION = {"prescribing": "np prescribing notes", "practice": "contacts"}  # else Patient Resources, when present
-CONTENT_TYPES = {"approach", "assessment", "condition", "population", "prescribing", "practice", "resource"}
+CONTENT_TYPES = {"approach", "assessment", "condition", "population", "procedure", "prescribing", "practice", "resource"}
 DATED_KINDS = {"guideline", "algorithm", "pathway"}
 DATED_HEADINGS = {"key sources", "further resources", "algorithms and pathways"}
 AAFP_HOST, RXFILES_HOST = "aafp.org", "rxfiles.ca"

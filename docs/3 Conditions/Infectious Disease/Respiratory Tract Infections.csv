@@ -23,7 +23,7 @@ Algorithms and Pathways,,,Alberta Primary Care Pathways: Rhinosinusitis,,,,,Calg
 Algorithms and Pathways,note,,,,,,,No BC or Alberta pathway for pharyngitis or community-acquired pneumonia was found on 2026-10-29.,,BC,,
 Assessment Tools and Calculators,,,MDCalc: Centor Score (Modified/McIsaac) for Strep Pharyngitis,,,,,strep pharyngitis likelihood,McIsaac sore throat,INTL,,cdr-mcisaac
 Assessment Tools and Calculators,,,MDCalc: CURB-65 Score for Pneumonia Severity,,,,,pneumonia severity and site of care,CAP,INTL,,cdr-curb-65
-Prescribing,md,,"- [NPPR Antimicrobials](../../5%20Prescribing/Antimicrobials.md) — *general antimicrobial references, penicillin allergy assessment and stewardship tools*",,,,,,,,,
+Prescribing,md,,"- [NPPR Antimicrobials](../../6%20Prescribing/Antimicrobials.md) — *general antimicrobial references, penicillin allergy assessment and stewardship tools*",,,,,,,,,
 Prescribing,box,,RxFiles - Antibiotics: Respiratory Tract Infection Charts,,,,,"RxFiles antibiotic charts by infection; the pharyngitis chart is free, the others need an RxFiles subscription",,CA,,rxfiles-abx-rti-charts
 Prescribing,,1,Pharyngitis (free),https://www.rxfiles.ca/rxfiles/uploads/documents/ABX-Pharyngitis.pdf,,,,,,,,
 Prescribing,,1,Rhinosinusitis (subscription),https://www.rxfiles.ca/RxFiles/uploads/documents/members/ABX-Sinusitis.pdf,,,,,,,,

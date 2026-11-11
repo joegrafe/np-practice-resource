@@ -1,0 +1,18 @@
+heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,,md,,"*Step-by-step guides, videos and aftercare handouts for joint aspiration and injection, splints and casts, and reducing a pulled elbow or a dislocated shoulder. Check scope, privileges and training first on [Scope, Training and Privileging](Scope%20Training%20and%20Privileging.md); consent, infection control and local anesthesia are on [Before Any Procedure](Before%20Any%20Procedure.md).*",,,,,,,,,
+Key Sources,,,,CMAJ - Five things to know about intra-articular glucocorticoid injections for knee osteoarthritis,,,,,,"knee injection, steroid injection",CA,,cmaj-5t-intra-articular-glucocorticoid-injections-for-knee-2026
+Key Sources,,,,AAFP - Joint and Soft Tissue Injections,,,,,"International source: US; Creech-Organ JA, Szybist SE, Yurgil JL. Am Fam Physician 108(2); indications, contraindications, preparation and complications","joint injection, bursa, tendon sheath, cortisone shot",INTL,,aafp-joint-soft-tissue-injections-2023
+Key Sources,,,,AAFP - Principles of Casting and Splinting,,,,[Splints and Casts: Indications and Methods (2009)](https://www.aafp.org/pubs/afp/issues/2009/0901/p491.html),"International source: US; Boyd AS, Benjamin HJ, Asplund C. Am Fam Physician 79(1)","casting, splinting",INTL,,aafp-casting-splinting-principles-2009
+Joint Aspiration and Injection,,,,Merck Manual - How To Do Knee Arthrocentesis,,,,[Shoulder](https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/how-to-do-arthrocentesis/how-to-do-shoulder-arthrocentesis) · [Ankle](https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/how-to-do-arthrocentesis/how-to-do-ankle-arthrocentesis),International source: with video,"knee aspiration, joint tap",INTL,,merck-knee-arthrocentesis
+Splints and Casts,,box,,Merck Manual - How To Splint or Immobilize an Upper Limb,https://www.merckmanuals.com/professional/injuries-poisoning/how-to-splint-or-immobilize-an-upper-limb,,,,"International source: step-by-step, most with videos",splint,INTL,,
+Splints and Casts,,,1,,,,,,,,,,merck-volar-arm-splint
+Splints and Casts,,,1,,,,,,,,,,merck-thumb-spica-splint
+Splints and Casts,,,1,,,,,,,,,,merck-ulnar-gutter-splint
+Splints and Casts,,,1,,,,,,,,,,merck-buddy-tape-fingers
+Splints and Casts,,,,Merck Manual - How To Apply a Posterior Ankle Splint,,,,,International source: with video,ankle splint,INTL,,merck-posterior-ankle-splint
+Splints and Casts,,,,Merck Manual - How To Apply a Cast,,,,,International source,cast,INTL,,merck-apply-cast
+Reductions,,md,,"- Which dislocations BC NPs may reduce is set in the BCCNM advanced procedures standard: see [Scope, Training and Privileging](Scope%20Training%20and%20Privileging.md)",,,,,,,BC,yes,
+Reductions,,,,Merck Manual - How To Reduce a Radial Head Subluxation (Nursemaid Elbow),,,,,International source: with video,"pulled elbow, nursemaid",INTL,,merck-radial-head-subluxation
+Reductions,,,,Merck Manual - Overview of Shoulder Dislocation Reduction Techniques,,,,,"International source: links each technique, with videos",shoulder dislocation,INTL,,merck-shoulder-dislocation-reduction
+Patient Resources,,,,HealthLink BC - Cast Care Tips,,,,,,,BC,,healthlinkbc-cast-care-tips
+Patient Resources,,,,HealthLink BC - Splint Care Tips,,,,,,,BC,,healthlinkbc-splint-care-tips
