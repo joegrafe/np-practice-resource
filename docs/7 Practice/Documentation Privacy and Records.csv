@@ -1,5 +1,5 @@
 heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
-,,md,,"*Charting, privacy and records for nurse practitioners: the regulator's standards, who holds the record in a team clinic, provincial privacy law, what the clinical record must hold, virtual care, and CNPS medico-legal guidance. Using AI scribes and other AI tools is on [AI Tools](../7%20Tools/4%20AI%20Tools/index.md).*",,,,,,,,,
+,,md,,"*Charting, privacy and records for nurse practitioners: the regulator's standards, who holds the record in a team clinic, provincial privacy law, what the clinical record must hold, virtual care, and CNPS medico-legal guidance. Using AI scribes and other AI tools is on [AI Tools](../8%20Tools/4%20AI%20Tools/index.md).*",,,,,,,,,
 Key Sources,,,,BCCNM - Nurses: Documentation,,,,,,,BC,yes,bccnm-documentation-standard
 Key Sources,,,,CNO - Practice Standard: Documentation (PDF),-,,,,Ontario,Ontario documentation standard,ON,yes,cno-documentation
 Key Sources,,,,BCCNM - Nurses: Privacy and Confidentiality,,,,,,,BC,yes,bccnm-privacy-confidentiality-standard
@@ -16,7 +16,7 @@ Privacy and Confidentiality,,,,Information and Privacy Commissioner of Ontario,h
 Privacy and Confidentiality,,,,CNPS - InfoLAW: Privacy and Electronic Medical Records,,,,,,,CA,,cnps-privacy-emr
 Virtual Care,,,,BCCNM - Virtual care learning resources,,,,,,,BC,yes,bccnm-np-virtual-care
 Virtual Care,,,,CNO - Practice Guideline: Virtual Care (PDF),-,,,,Ontario,,ON,yes,cno-virtual-care
-AI Tools and Scribes,,md,,- See [Tools: AI Tools](../7%20Tools/4%20AI%20Tools/index.md),,,,,,,,,
+AI Tools and Scribes,,md,,- See [Tools: AI Tools](../8%20Tools/4%20AI%20Tools/index.md),,,,,,,,,
 How to Do It in BC,,md,,"1. When you join a clinic, confirm who is the custodian of the records you create and whether a data-sharing agreement is in place ([BCCNM documentation FAQ](https://bccnm.ca/NP/learning/documentation/Pages/Default.aspx)).
 2. Check your charting against the [BCCNM Documentation standard](https://www.bccnm.ca/NP/PracticeStandards/Pages/documentation.aspx) and [MSP's clinical record requirements](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/medical-services-plan/4_clinical_record_documentation_nov2024.pdf).
 3. For a privacy breach or a records request you're unsure about, call [CNPS](https://cnps.ca/services/plp-core/) or ask [BCCNM Standards Support](https://public.bccnm.ca/standardssupport).",,,,,,,BC,yes,

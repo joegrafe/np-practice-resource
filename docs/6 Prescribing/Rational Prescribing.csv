@@ -10,7 +10,7 @@ Where to Check Each Step,,md,,"| Step | Where to check | On NPPR |
 | 1. Define the problem | Your province's guideline or the national guideline for the condition | [Approaches](../1%20Approaches/index.md) · [Conditions](../3%20Conditions/index.md) |
 | 2. Set the treatment goal | The same guideline's targets and outcomes | The condition page's Key Sources |
 | 3. Choose the drug | Therapeutics Initiative, RxFiles, CPS, Health Canada product monographs | [Drug References](Drug%20References.md) |
-| 4. Check NP prescribing authority | [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx) | [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md) |
+| 4. Check NP prescribing authority | [BCCNM - Nurse Practitioners: Prescribing Drugs](https://www.bccnm.ca/NP/PracticeStandards/Pages/Prescribing.aspx) | [Practice: Prescribing Authority](../7%20Practice/Prescribing%20Authority.md) |
 | 5. Check coverage and start | PharmaCare Formulary Search, Special Authority | [Drug Coverage](Drug%20Coverage.md) |
 | 6. Inform the patient | Decision aids and patient handouts below | The condition page's Patient Resources |
 | 7. Monitor, report and stop | MedEffect adverse reaction reporting, prescribing cascades, deprescribing algorithms | [Drug References](Drug%20References.md#safety-and-supply) · Deprescribing *(coming)* |",,,,,,,BC,yes,
@@ -20,4 +20,4 @@ Further Resources,Independent Drug Education in BC,,,RxFiles Academic Detailing 
 Further Resources,Prescribing Less and Prescribing Safely,,,Choosing Wisely Canada - Medications,,,,,"campaigns, prescriber tools and quality improvement toolkits on medication use, including antibiotics, opioids, sedatives and PPIs",,CA,,cwc-medications
 Further Resources,Shared Decision-Making,,,"Ottawa Hospital Research Institute - Patient Decision Aids, A to Z inventory",,,,,"decision aids by topic, screened against international standards",,CA,,ohri-patient-decision-aids
 Further Resources,Prescribing Less and Prescribing Safely,,,ThinkCascades,,,,,"international, Canadian-led; nine clinically important prescribing cascades in older people; Drugs Aging 2022;39(10):829-40",,INTL,,thinkcascades-2022
-NP Prescribing Notes,,,,BCCNM - Nurse Practitioners: Prescribing Drugs,,,,,"the standard, limits and conditions for NP prescribing in BC; the full set of prescribing rules is on [Practice: Prescribing Authority](../6%20Practice/Prescribing%20Authority.md)",,BC,yes,bccnm-np-prescribing-standard
+NP Prescribing Notes,,,,BCCNM - Nurse Practitioners: Prescribing Drugs,,,,,"the standard, limits and conditions for NP prescribing in BC; the full set of prescribing rules is on [Practice: Prescribing Authority](../7%20Practice/Prescribing%20Authority.md)",,BC,yes,bccnm-np-prescribing-standard

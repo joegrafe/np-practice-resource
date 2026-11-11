@@ -14,7 +14,7 @@ description: "Where to look when a topic isn't on NPPR yet: provincial guideline
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*General directories that cover many topics at once: guideline directories, evidence summaries, journals, libraries and databases, and CPD. Topic-specific sources live on their own pages: guidelines for a condition on [Conditions](../3%20Conditions/index.md), pathways on [Approaches](../1%20Approaches/index.md), drug references on [Prescribing](../5%20Prescribing/index.md).*
+*General directories that cover many topics at once: guideline directories, evidence summaries, journals, libraries and databases, and CPD. Topic-specific sources live on their own pages: guidelines for a condition on [Conditions](../3%20Conditions/index.md), pathways on [Approaches](../1%20Approaches/index.md), drug references on [Prescribing](../6%20Prescribing/index.md).*
 
 ## Not on NPPR Yet?
 
