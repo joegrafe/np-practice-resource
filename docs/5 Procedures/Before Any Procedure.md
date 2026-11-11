@@ -3,10 +3,10 @@ title: Before Any Procedure
 type: procedure
 tags: [procedure, consent, infection-control, local-anesthesia, procedural-pain]
 jurisdiction: [BC, "ON", CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-11
 review-due: 2027-11-11
-reviewers: []
+reviewers: [joegrafe]
 aliases: [consent for procedures, informed consent, procedure consent, local anesthetic, local anaesthesia, lidocaine, digital block, ring block, nerve block, infection control, sterilization, reprocessing, autoclave, procedural pain children, needle pain, needle fear, procedure preparation]
 description: "What applies to every procedure nurse practitioners do: consent, infection control and instrument reprocessing, local anesthesia and digital nerve blocks, and pain and distress in children."
 ---

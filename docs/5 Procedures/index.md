@@ -3,10 +3,10 @@ title: Procedures
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-11-11
 review-due: 2027-11-11
-reviewers: []
+reviewers: [joegrafe]
 aliases: [procedures, procedural skills, how to do procedures, procedure videos, how-to guides, office procedures, minor procedures, clinical skills, NP student skills]
 description: "How-to guides, videos and aftercare handouts for the hands-on procedures nurse practitioners and NP students do in primary and urgent care, with scope, privileging and training."
 redirect_from: [practice/procedures-how-to-guides-and-videos, "6 Practice/Procedures How-To Guides and Videos"]  # the how-to page was split into this tab's pages, 2026-11-11

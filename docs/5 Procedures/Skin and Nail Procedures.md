@@ -3,10 +3,10 @@ title: Skin and Nail Procedures
 type: procedure
 tags: [procedure, skin, nails, biopsy, minor-surgery]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-11
 review-due: 2027-11-11
-reviewers: []
+reviewers: [joegrafe]
 aliases: [skin biopsy, punch biopsy, shave biopsy, excision, elliptical excision, excision biopsy, skin tag removal, cryotherapy, liquid nitrogen, wart freezing, curettage, cautery, incision and drainage, I&D, abscess drainage, ingrown toenail, toenail removal, nail removal, wedge resection, partial nail avulsion, matrixectomy, subungual hematoma, nail trephination, paronychia drainage, minor surgery]
 description: "How-to guides, videos and aftercare handouts for skin biopsy, excision, cryotherapy, abscess drainage, ingrown toenail removal and subungual hematoma, for nurse practitioners and NP students."
 ---

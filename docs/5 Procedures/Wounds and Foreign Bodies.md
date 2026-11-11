@@ -3,10 +3,10 @@ title: Wounds and Foreign Bodies
 type: procedure
 tags: [procedure, wounds, suturing, foreign-body, minor-surgery]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-11
 review-due: 2027-11-11
-reviewers: []
+reviewers: [joegrafe]
 aliases: [wound care, wound irrigation, wound dressing, suturing, sutures, stitches, staples, skin glue, tissue adhesive, how to suture, animal bite, fishhook removal, tick removal]
 description: "How-to guides, videos and aftercare handouts for wound cleaning and closure, sutures, staples and skin glue, bites, and fishhook and tick removal, for nurse practitioners and NP students."
 ---

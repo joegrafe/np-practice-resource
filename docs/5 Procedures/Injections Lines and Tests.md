@@ -3,10 +3,10 @@ title: "Injections, Lines and Tests"
 type: procedure
 tags: [procedure, injections, immunization, tb-skin-test, venipuncture]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-11
 review-due: 2027-11-11
-reviewers: []
+reviewers: [joegrafe]
 aliases: [IM injection, intramuscular injection, subcutaneous injection, vaccine administration, injection technique, needle length, TB skin test, TST, Mantoux, tuberculin skin test, venipuncture, blood draw, phlebotomy, IV start, peripheral IV, IV insertion, urinary catheter, Foley catheter, urethral catheterization]
 description: "How-to guides, videos and patient handouts for vaccine injections, the tuberculin skin test, venipuncture, peripheral IV lines and urinary catheters, for nurse practitioners and NP students."
 ---

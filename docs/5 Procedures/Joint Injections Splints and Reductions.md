@@ -3,10 +3,10 @@ title: "Joint Injections, Splints and Reductions"
 type: procedure
 tags: [procedure, joint-injection, splinting, casting, musculoskeletal]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-11
 review-due: 2027-11-11
-reviewers: []
+reviewers: [joegrafe]
 aliases: [joint injection, steroid injection, cortisone shot, corticosteroid injection, knee injection, shoulder injection, intra-articular injection, arthrocentesis, joint aspiration, joint tap, splinting, splint, casting, cast, buddy taping, thumb spica, ulnar gutter splint, nursemaid elbow, pulled elbow, radial head subluxation, shoulder dislocation reduction, dislocation reduction]
 description: "How-to guides, videos and aftercare handouts for joint aspiration and injection, splints and casts, and reducing a pulled elbow or dislocated shoulder, for nurse practitioners and NP students."
 ---

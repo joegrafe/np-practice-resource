@@ -3,10 +3,10 @@ title: "Ear, Nose and Eye Procedures"
 type: procedure
 tags: [procedure, ear, nose, eye, foreign-body]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-11
 review-due: 2027-11-11
-reviewers: []
+reviewers: [joegrafe]
 aliases: [earwax removal, ear wax, ear syringing, ear irrigation, cerumen, cerumen impaction, ear foreign body, nasal foreign body, foreign body removal, nosebleed cautery, epistaxis, silver nitrate, nasal packing, eye irrigation, eyelid eversion, corneal foreign body, corneal abrasion]
 description: "How-to guides, videos and aftercare handouts for earwax removal, foreign bodies in the ear, nose and eye, nosebleed cautery and packing, and eye irrigation, for nurse practitioners and NP students."
 ---

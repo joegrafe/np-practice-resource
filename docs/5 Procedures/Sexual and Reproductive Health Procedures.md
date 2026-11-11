@@ -3,10 +3,10 @@ title: Sexual and Reproductive Health Procedures
 type: procedure
 tags: [procedure, sexual-and-reproductive-health, iud, pessary, contraception]
 jurisdiction: [BC, CA, INTL]
-status: draft
+status: published
 last-reviewed: 2026-11-11
 review-due: 2027-11-11
-reviewers: []
+reviewers: [joegrafe]
 aliases: [IUD insertion, IUD removal, IUD pain, intrauterine device, implant insertion, implant removal, Nexplanon, LARC, long-acting reversible contraception, pessary fitting, pessary, endometrial biopsy, pipelle, Pap test, Pap smear, speculum exam, bimanual exam, pelvic exam, prostate exam]
 description: "How-to guides, reviews and patient handouts for IUD and implant insertion and removal, pessary fitting, endometrial biopsy and pelvic examination, for nurse practitioners and NP students."
 ---
