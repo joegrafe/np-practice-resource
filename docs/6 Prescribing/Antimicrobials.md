@@ -8,7 +8,7 @@ last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
 description: "General antimicrobial references for NP prescribing: Bugs & Drugs, the Canadian Antibiotic Treatment Guidance, provincial stewardship advice, penicillin allergy de-labelling and local resistance data."
-redirect_from: [prescribing/bugs-and-drugs]  # replaced the Bugs & Drugs page 2026-10-29
+redirect_from: [prescribing/bugs-and-drugs, "4 Resources/Bugs & Drugs"]  # replaced the Bugs & Drugs page 2026-10-29; long addresses moved here from mkdocs.yml redirect_maps 2026-11-11
 ---
 <!-- Prescribing wave 2 (plan: https://claude.ai/artifact/GJeAP8SPPZrsk4G8ihftgU, approved by Joe 2026-10-27).
      Replaces the Bugs & Drugs page (Joe's decision 4); the old address redirects here.

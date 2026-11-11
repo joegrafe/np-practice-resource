@@ -9,7 +9,7 @@ review-due: 2027-10-29
 reviewers: [joegrafe]
 aliases: [Ontario immunization schedule, Publicly Funded Immunization Schedules for Ontario, Public Health Ontario, PHO, AEFI form Ontario]
 description: "Provincial immunization manuals and schedules, the Canadian Immunization Guide and NACI, with program updates, adverse event reporting, vaccine handling, courses and patient resources."
-redirect_from: [prescribing/bc-immunization-manual]  # replaced the BC Immunization Manual page 2026-10-29
+redirect_from: [prescribing/bc-immunization-manual, "4 Resources/BC Immunization Manual"]  # replaced the BC Immunization Manual page 2026-10-29; long addresses moved here from mkdocs.yml redirect_maps 2026-11-11
 ---
 <!-- Prescribing wave 2 (plan: https://claude.ai/artifact/GJeAP8SPPZrsk4G8ihftgU, approved by Joe 2026-10-27).
      Replaces the BC Immunization Manual page (Joe's decision 4); the old address redirects here.

@@ -3,7 +3,7 @@ title: "Evidence Summaries and Journals"
 type: resource
 tags: [resource, evidence-summaries, journals]
 aliases: [peer, peer evidence, peerevidence, tools for practice, tfp, choosing wisely, evidence summary, journals, cfp, cmaj, bcmj, trip, cochrane, pubmed, systematic review, cadth]
-redirect_from: [resources/peerevidence-ca]  # page folded in 2026-10-30
+redirect_from: [resources/peerevidence-ca, "4 Resources/Peerevidence.ca", "8 Resources/Peerevidence.ca"]  # page folded in 2026-10-30; long addresses moved here from mkdocs.yml redirect_maps 2026-11-11
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-30

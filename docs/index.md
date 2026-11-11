@@ -20,15 +20,19 @@ section_nav: false
 
     One page per condition, your province's guideline first and every source dated.
 
--   :material-pill:{ .nppr-icon } <span class="nppr-step">Step 4 · Treat</span> [**Prescribing**](6%20Prescribing/index.md)
+-   :material-needle:{ .nppr-icon } <span class="nppr-step">Step 4 · Treat with a procedure</span> [**Procedures**](5%20Procedures/index.md)
+
+    How-to guides and videos, what to check before any procedure, and which procedures NPs can do.
+
+-   :material-pill:{ .nppr-icon } <span class="nppr-step">Step 5 · Prescribe</span> [**Prescribing**](6%20Prescribing/index.md)
 
     Drug references, antimicrobials, drug coverage, immunization and deprescribing.
 
--   :material-briefcase-outline:{ .nppr-icon } <span class="nppr-step">Step 5 · Refer and follow up</span> [**Practice**](7%20Practice/index.md)
+-   :material-briefcase-outline:{ .nppr-icon } <span class="nppr-step">Step 6 · Refer and follow up</span> [**Practice**](7%20Practice/index.md)
 
     Advice lines, referral, forms, duty to report and NP scope.
 
--   :material-toolbox-outline:{ .nppr-icon } <span class="nppr-step">Step 6 · Document</span> [**Tools**](8%20Tools/index.md)
+-   :material-toolbox-outline:{ .nppr-icon } <span class="nppr-step">Step 7 · Document</span> [**Tools**](8%20Tools/index.md)
 
     Checking AI output, AI scribes, consent and safe use, and loading sources into AI tools.
 

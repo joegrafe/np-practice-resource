@@ -8,6 +8,7 @@ status: published
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
 reviewers: [joegrafe]
+redirect_from: ["4 Resources"]  # the section's long address before the 2026-10 restructure; moved here from mkdocs.yml redirect_maps 2026-11-11
 description: "Where to look when a topic isn't on NPPR yet: provincial guidelines, the Canadian Task Force, specialty-society guideline libraries, PEER and Tools for Practice, then Trip."
 ---
 <!-- Section buttons are added automatically by the website build on top-level section pages.

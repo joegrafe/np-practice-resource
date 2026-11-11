@@ -3,7 +3,10 @@ title: "Guideline Directories"
 type: resource
 tags: [resource, guidelines, guideline-directories]
 aliases: [guidelines, guideline library, clinical practice guidelines, cpg, bc guidelines, gpac, task force, ctfphc, specialty society guidelines, nice, uspstf]
-redirect_from: [resources/bc-guidelines, resources/clinical-practice-guidelines, resources/canadian-urological-association]  # pages folded in 2026-10-30
+redirect_from: [resources/bc-guidelines, resources/clinical-practice-guidelines, resources/canadian-urological-association,
+  "4 Resources/Guidelines/BC Guidelines", "4 Resources/Guidelines/Clinical Practice Guidelines", "4 Resources/Guidelines/Canadian Urological Association",
+  "8 Resources/Guidelines/BC Guidelines", "8 Resources/Guidelines/Clinical Practice Guidelines", "8 Resources/Guidelines/Canadian Urological Association"]
+  # pages folded in 2026-10-30; long addresses moved here from mkdocs.yml redirect_maps 2026-11-11
 jurisdiction: [BC, CA, INTL]
 status: published
 last-reviewed: 2026-10-30
