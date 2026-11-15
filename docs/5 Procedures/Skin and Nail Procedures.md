@@ -16,7 +16,9 @@ description: "How-to guides, videos and aftercare handouts for skin biopsy, exci
      Topic ownership: scope, privileging and courses are on Scope, Training and Privileging; consent, infection control and
      local anesthesia are on Before Any Procedure; a condition's guidelines stay on its condition page.
      The Saskatchewan Polytechnic textbook's chapter pages blocked the build network after the first visit on 2026-11-10; chapter links come from the book's own table of contents (UNOPENED-SOURCES.csv).
-     Not opened from the build environment (UNOPENED-SOURCES.csv, 2026-11-10): cfp.ca (Canadian Family Physician minor surgery video series), geekymedics.com; wave P2 re-checks them. -->
+     Not opened from the build environment (UNOPENED-SOURCES.csv, 2026-11-10): cfp.ca (Canadian Family Physician minor surgery video series), geekymedics.com; wave P2 re-checks them.
+     2026-11-15 (Joe): the DermNet Skin surgery box (skin biopsy, excision, curettage and cautery, cryotherapy) moved from
+     Skin Procedures to Patient Resources; the Saskatchewan Polytechnic textbook and the Merck Manual are the clinician how-to. -->
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. toenail"></div>
 
