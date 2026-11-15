@@ -15,7 +15,9 @@ description: "What applies to every procedure nurse practitioners do: consent, i
      notes, regions and registry ids unchanged; no source was added.
      Topic ownership: scope, privileging and courses are on Scope, Training and Privileging; consent, infection control and
      local anesthesia are on Before Any Procedure; a condition's guidelines stay on its condition page.
-     The Saskatchewan Polytechnic textbook's chapter pages blocked the build network after the first visit on 2026-11-10; chapter links come from the book's own table of contents (UNOPENED-SOURCES.csv). -->
+     The Saskatchewan Polytechnic textbook's chapter pages blocked the build network after the first visit on 2026-11-10; chapter links come from the book's own table of contents (UNOPENED-SOURCES.csv).
+     2026-11-15 (Joe): DermNet - Local anaesthesia moved from Local Anesthesia and Nerve Blocks to Patient Resources, as on
+     Skin and Nail Procedures; CMAJ and the Merck Manual are the clinician how-to. -->
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. consent"></div>
 
