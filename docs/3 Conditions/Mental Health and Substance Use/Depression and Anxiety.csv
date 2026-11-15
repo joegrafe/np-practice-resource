@@ -44,7 +44,7 @@ Algorithms and Pathways,,,Pathways BC: Anxiety (adult),,,,,BC enhanced care path
 Algorithms and Pathways,,,Alberta Primary Care Pathways: Anxiety,,,,,Calgary Zone primary care pathway,,AB,,alberta-anxiety-pathway
 Algorithms and Pathways,,,Alberta Primary Care Pathways: Difficult to Treat Depression,,,,,Calgary Zone primary care pathway,treatment-resistant,AB,,alberta-difficult-depression-pathway
 Assessment Tools and Calculators,,,MDCalc: PHQ-9 (Patient Health Questionnaire-9),,,,,depression severity score,PHQ9,INTL,,mdcalc-phq9
-Assessment Tools and Calculators,,1,PHQ-9 form (BC Guidelines),,,,,printable questionnaire,,BC,,bcg-phq9
+Assessment Tools and Calculators,,1,PHQ-9 form (BC Guidelines),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/depression-in-adults#diagnosis:~:text=Associated%20Document%3A%20Patient%20Health%20Questionnaire,,,,printable questionnaire,,BC,,bcg-phq9
 Assessment Tools and Calculators,,,MDCalc: GAD-7 (General Anxiety Disorder-7),,,,,anxiety severity score,GAD7,INTL,,mdcalc-gad7
 Assessment Tools and Calculators,,,Columbia Suicide Severity Rating Scale (C-SSRS) for healthcare settings,,,,,suicide risk screening; International source: US,suicide risk,INTL,,cssrs-healthcare
 Prescribing,,,,,,,[Patient booklet (PDF)](https://www.rxfiles.ca/rxfiles/uploads/documents/depression-patient-booklet.pdf),antidepressant comparison charts; some documents need an RxFiles subscription,antidepressant,CA,,rxfiles-depression
@@ -63,7 +63,7 @@ Patient Resources,,,HeretoHelp - Depression and Depressive Disorders,https://www
 Patient Resources,,,HeretoHelp - Anxiety Disorders,https://www.heretohelp.bc.ca/infosheet/anxiety-disorders,,,,,,BC,yes,
 Patient Resources,,,Kelty Mental Health - Depression,https://keltymentalhealth.ca/depression,,,,for children and youth and their families,,BC,yes,
 Patient Resources,,,Kelty Mental Health - Anxiety,https://keltymentalhealth.ca/anxiety,,,,for children and youth and their families,,BC,yes,
-Patient Resources,,,BC Guidelines - Anxiety in Children and Youth: A Guide for Parents,,,,,,,BC,,bc-gpac-anxiety-youth-parent-guide-2010
-Patient Resources,,,BC Guidelines - Depression in Children and Youth: A Guide for Parents,,,,,,,BC,,bc-gpac-depression-youth-parent-guide-2010
-Patient Resources,,,BC Guidelines - Resource Guide: Information Sources for Patients (depression in adults),,,,,,,BC,,bc-gpac-depression-patient-resource-guide-2013
+Patient Resources,,,BC Guidelines - Anxiety in Children and Youth: A Guide for Parents,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/anxiety-and-depression-in-children-and-youth#ManagementConsiderations:~:text=A%20Guide%20for%20Parents,,,,,,BC,,bc-gpac-anxiety-youth-parent-guide-2010
+Patient Resources,,,BC Guidelines - Depression in Children and Youth: A Guide for Parents,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/anxiety-and-depression-in-children-and-youth#AssociatedDocuments:~:text=Depression%20in%20Children%20and%20Youth%3A,,,,,,BC,,bc-gpac-depression-youth-parent-guide-2010
+Patient Resources,,,BC Guidelines - Resource Guide: Information Sources for Patients (depression in adults),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/depression-in-adults#management:~:text=Information%20Sources%20for%20Patients,,,,,,BC,,bc-gpac-depression-patient-resource-guide-2013
 Patient Resources,,,Anxiety Canada,https://www.anxietycanada.com/,,,,self-help programs and the MindShift CBT app,,CA,,

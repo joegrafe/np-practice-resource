@@ -18,14 +18,14 @@ Further Resources,,1,Patient Guide (PDF),https://ontariohealth.ca/content/dam/on
 Further Resources,box,,CTS Guideline: Alpha-1-Antitrypsin Deficiency Targeted Testing and Augmentation Therapy,,,,,"Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. Listed as current in the CTS Guideline Library.",,INTL,,cts-alpha1-2025
 Algorithms and Pathways,,,Alberta's Pathway Hub: Chronic Obstructive Pulmonary Disease (COPD),,,,,"Alberta referral guideline last updated May 1, 2025; choose ""All"" when the hub asks for an area",,AB,,ab-pathway-hub-copd
 Algorithms and Pathways,,,Alberta's Pathway Hub: Lung Testing for Ages 6 and Above,,,,,"clinical pathway for lung function testing in asthma, COPD, chronic cough, ILD and dyspnea (last updated February 13, 2024)",,AB,,ab-pathway-hub-lung-testing
-Assessment Tools and Calculators,,,BC Guidelines: COPD Appendix A - COPD Severity Assessment Scales,,,,,,,BC,,bc-gpac-copd-severity-scales
-Assessment Tools and Calculators,,,COPD Patient Care Flow Sheet (HLTH 6003),,,,,,,BC,,bc-gpac-copd-flowsheet
-Assessment Tools and Calculators,,,BC Guidelines: COPD Appendix C - BC Home Oxygen Program Medical Eligibility,,,,,,,BC,,bc-gpac-copd-home-oxygen
+Assessment Tools and Calculators,,,BC Guidelines: COPD Appendix A - COPD Severity Assessment Scales,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#diagnosis:~:text=Appendix%20A%3A%20COPD%20Severity,,,,,,BC,,bc-gpac-copd-severity-scales
+Assessment Tools and Calculators,,,COPD Patient Care Flow Sheet (HLTH 6003),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#patient-resources:~:text=Patient%20Care%20Flow%20Sheet,,,,,,BC,,bc-gpac-copd-flowsheet
+Assessment Tools and Calculators,,,BC Guidelines: COPD Appendix C - BC Home Oxygen Program Medical Eligibility,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#patient-resources:~:text=Appendix%20C%3A%20BC%20Home%20Oxygen,,,,,,BC,,bc-gpac-copd-home-oxygen
 Assessment Tools and Calculators,,,BC Inhalers (Fraser Health),,,,,"inhaler guide for asthma and COPD: filter by PharmaCare coverage without Special Authority, carbon footprint and age, with device instructions",,BC,,bcinhalers
 Assessment Tools and Calculators,,,MDCalc - COPD Assessment Test (CAT),,,,,symptom burden,,INTL,,mdcalc-cat
 Assessment Tools and Calculators,,,MDCalc - mMRC Dyspnea Scale,,,,,breathlessness grade,,INTL,,mdcalc-mmrc
 Assessment Tools and Calculators,,,MDCalc - BODE Index for COPD Survival,,,,,prognosis,,INTL,,mdcalc-bode
-Prescribing,,,BC Guidelines: COPD Appendix B - COPD Medication Table,,,,,,,BC,,bc-gpac-copd-medications
+Prescribing,,,BC Guidelines: COPD Appendix B - COPD Medication Table,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#patient-resources,,,,,,BC,,bc-gpac-copd-medications
 Prescribing,,,PharmaCare Smoking Cessation Program: Information for Health Professionals,,,,,,,BC,yes,bc-pharmacare-smoking-cessation
 Prescribing,,,,,,,,"drug comparison chart, newsletter and inhaler technique tools; some documents need an RxFiles subscription",,CA,,rxfiles-copd
 Prescribing,box,,PharmaCare Special Authority: criteria and request forms,,,,,,,BC,yes,
@@ -50,8 +50,8 @@ Advice and Referral,,,BC Lung Foundation: Exercise Support and Pulmonary Rehab P
 Advice and Referral,,,RACE - Rapid Access to Consultative Expertise,,,,,"telephone and app advice from BC specialists for family physicians, nurse practitioners and midwives",,BC,yes,race-connect
 Advice and Referral,,,Pathways BC - Respirology,https://pathwaysbc.ca/specialties/2,,,,"login; specialists and clinics, with referral details","Pathways, Respirology",BC,yes,pathways-bc
 Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontario physicians and nurse practitioners, usually without a patient referral",eConsult Ontario,ON,yes,ontario-econsult
-Patient Resources,,,COPD Flare-Up Action Plan (BC GPAC),,,,,,,BC,,bc-gpac-copd-flare-up-action-plan
-Patient Resources,,,Patient Handout: Climate Events and COPD Exacerbations (BC GPAC),,,,,,,BC,,bc-gpac-copd-climate-handout
+Patient Resources,,,COPD Flare-Up Action Plan (BC GPAC),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#management:~:text=COPD%20Flare%2Dup%20Action%20Plan,,,,,,BC,,bc-gpac-copd-flare-up-action-plan
+Patient Resources,,,Patient Handout: Climate Events and COPD Exacerbations (BC GPAC),https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/copd#environment:~:text=Patient%20Handout%3A%20COPD%20and%20the%20Environment,,,,,,BC,,bc-gpac-copd-climate-handout
 Patient Resources,,,HealthLink BC - Chronic Obstructive Pulmonary Disease (COPD),,,,,,,BC,,healthlinkbc-copd
 Patient Resources,,,BC Lung Foundation - COPD,,,,,"support groups, self-care videos and exercise support",,BC,,bclung-copd
 Patient Resources,,,Canadian Lung Association - COPD,,,,,,,CA,,lung-ca-copd
