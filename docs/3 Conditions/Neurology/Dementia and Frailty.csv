@@ -56,7 +56,7 @@ Assessment Tools and Calculators,,1,Standardized Mini-Mental State Examination (
 Assessment Tools and Calculators,,1,,,,,,,,,,clock-drawing-test
 Assessment Tools and Calculators,,1,,,,,,informant questionnaire,,,,the-alzheimer-s-questionnaire
 Assessment Tools and Calculators,,1,,,,,,,GDS staging,,,global-deterioration-scale
-Assessment Tools and Calculators,,1,,,,,,,,,,bcg-geriatric-depression-scale
+Assessment Tools and Calculators,,1,,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cognitive-impairment#appendices:~:text=Geriatric%20Depression%20Scale,,,,,,,,bcg-geriatric-depression-scale
 Assessment Tools and Calculators,,1,PRISMA-7 Questionnaire,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/frailty-prisma7.pdf,,,,frailty case finding,,,,
 Assessment Tools and Calculators,,1,Timed Up and Go (TUG) Test,https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/frailty-tug.pdf,,,,,,,,
 Assessment Tools and Calculators,,1,,,,,,,,,,gait-speed-test
@@ -80,8 +80,8 @@ Advice and Referral,,,Ontario eConsult (OTNhub),,,,,"specialist advice for Ontar
 Advice and Referral,,,Alzheimer Society of B.C. - First Link referrals,https://alzheimer.ca/bc/en/help-support/programs-services/first-linkr-referrals,,,[Making a referral with First Link](https://alzheimer.ca/en/help-support/im-healthcare-provider/making-referral-first-link),refer people with dementia and their caregivers to support after diagnosis,First Link,BC,yes,
 Advice and Referral,,,BC Government - Home and Community Care,,,,,"home support, adult day services and assisted living through the health authorities",home care,BC,,bc-government-home-and-community-care
 Patient Resources,,,HealthLink BC - Dementia,,,,[Alzheimer's Disease](https://www.healthlinkbc.ca/healthwise/alzheimers-disease),,,BC,,healthlinkbc-dementia
-Patient Resources,,,BC Guidelines - Cognitive Impairment: Guide for Patients and Caregivers (PDF),,,,,,,BC,,bc-gpac-cognitive-impairment-patient-guide-2016
-Patient Resources,,,BC Guidelines - Frailty: Resource Guide for Older Adults and Caregivers (PDF),,,,,,,BC,,bc-gpac-frailty-patient-guide-2017
+Patient Resources,,,BC Guidelines - Cognitive Impairment: Guide for Patients and Caregivers,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cognitive-impairment#diagnosis:~:text=Guide%20for%20Patients%20%26%20Caregivers,,,,,,BC,,bc-gpac-cognitive-impairment-patient-guide-2016
+Patient Resources,,,BC Guidelines - Frailty: Resource Guide for Older Adults and Caregivers,https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/frailty#careplan:~:text=Resource%20Guide%20for%20Older%20Adults,,,,,,BC,,bc-gpac-frailty-patient-guide-2017
 Patient Resources,,,Alzheimer Society of B.C. - First Link Dementia Helpline,https://alzheimer.ca/bc/en/help-support/find-support-bc/first-link-dementia-helpline,,,,"1-800-936-6033, information and support for people with dementia and caregivers",caregiver support,BC,yes,
 Patient Resources,,,HealthLink BC - Preventing Falls as You Age,,,,,,falls,BC,,healthlink-bc-preventing-falls-as-you-age
 Patient Resources,,,BC Government - Advance Care Planning,https://www2.gov.bc.ca/gov/content/health/managing-your-health/incapacity-planning,,,,My Voice planning guide and representation agreements,advance directive,BC,,
