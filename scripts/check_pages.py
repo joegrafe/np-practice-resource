@@ -47,6 +47,8 @@ Checks:
                  a heading a condition page doesn't have
   key-sources    Key Sources count outside 1 to 3, in the BC view and each other live
                  region's view
+                 (a Procedures page has no Key Sources: each source sits in the
+                 section for its procedure, Joe 2026-11-16)
   superseded     a row that names (or links) a document another registry row supersedes
   duplicate      the same document (id or address) on two top-level rows of one page
   pdf-alone      a row whose only link is a PDF; once checked that no publisher page
@@ -626,7 +628,11 @@ def audit_sheet(path, rel, f, meta, registry, by_address, superseded):
         if last in names and names[-1] != last:
             f.add("section-order", rel, headings[names.index(last)][0], f"'{headings[names.index(last)][2]}' is the page's last section (Page standard).")
     # key-sources
-    if any(hl == KEY_SOURCES for _, hl, _ in headings) and ptype in CONTENT_TYPES:
+    if ptype == "procedure":  # Joe, 2026-11-16: a Procedures page has no Key Sources section
+        for n, hl, _ in headings:
+            if hl == KEY_SOURCES:
+                f.add("key-sources", rel, n, "A Procedures page has no Key Sources section: put each source in the section for its procedure (Page standard).")
+    elif any(hl == KEY_SOURCES for _, hl, _ in headings) and ptype in CONTENT_TYPES:
         for view, count in key_counts.items():
             if not 1 <= count <= 3:
                 line = next(n for n, hl, _ in headings if hl == KEY_SOURCES)
