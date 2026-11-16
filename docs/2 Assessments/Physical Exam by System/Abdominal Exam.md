@@ -4,10 +4,10 @@ type: assessment
 tags: [assessment, physical-exam, abdomen, gastrointestinal, pediatrics]
 jurisdiction: [CA, INTL]
 aliases: [abdominal exam, abdominal examination, abdomen exam, belly exam, tummy exam, GI exam, liver exam, liver span, hepatomegaly, spleen exam, splenomegaly, ascites, shifting dullness, fluid wave, caput medusae, bowel sounds, abdominal percussion, abdominal palpation, Murphy's sign, Murphy sign, McBurney's point, Rovsing sign, psoas sign, obturator sign, Carnett sign, rebound tenderness, peritoneal signs, acute abdomen exam, rectal exam, DRE, digital rectal exam, prostate exam, hernia exam, inguinal hernia, testicular exam, Stethopedia]
-status: draft
+status: published
 last-reviewed: 2026-11-16
 review-due: 2027-11-16
-reviewers: []
+reviewers: [joegrafe]
 description: "How to examine the abdomen: exam guides and videos, inspection, percussion and palpation of the liver and spleen, abdominal special tests (Murphy, McBurney, Rovsing), the rectal, genital and hernia exams, and the child's exam. Canadian sources first (Stethopedia, U of T, PedsCases), then Stanford Medicine 25, AAFP and other international ones, labelled."
 ---
 <!-- Per-system exam pages wave (2026-11-16; plan https://claude.ai/artifact/ULf8Y8ikpxTsovq4GaywcZ): a new page on the NPPR - Exam System template, from the Abdomen section of Physical Exam by System (six rows) and a sweep on 2026-11-16.

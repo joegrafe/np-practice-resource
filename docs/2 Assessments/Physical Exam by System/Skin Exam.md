@@ -4,10 +4,10 @@ type: assessment
 tags: [assessment, physical-exam, dermatology, skin, pediatrics, newborn]
 jurisdiction: [BC, CA, INTL]
 aliases: [skin exam, skin examination, dermatology exam, dermatologic exam, skin check, full skin exam, total body skin exam, skin lesion terms, describing a rash, describing skin lesions, rash, morphology, primary lesions, macule, papule, plaque, vesicle, dermoscopy, dermatoscope, dermatoscopy, mole check, ABCDE, melanoma check, skin of colour, skin of color, darker skin, Black skin, brown skin, Mind the Gap, Skin Deep, teledermatology, skin photos, clinical photography, pediatric dermatology, paediatric dermatology, childhood rash, newborn rash, neonatal rash, viral exanthem, purpura, petechiae, bruising child abuse, non-blanching rash, TEN-4, TEN-4-FACESp, Don't Forget the Bubbles, DFTB, Dermoscopedia, DermDiag, DermNet]
-status: draft
+status: published
 last-reviewed: 2026-11-16
 review-due: 2027-11-16
-reviewers: []
+reviewers: [joegrafe]
 description: "How to examine the skin: describing lesions, skin checks and dermoscopy, clinical photos and teledermatology, skin of colour, and children's and newborn rashes. BC and Canadian sources first, then DermNet, Stanford Medicine 25 and other international ones, labelled."
 ---
 <!-- Per-system exam pages wave (2026-11-16; plan https://claude.ai/artifact/ULf8Y8ikpxTsovq4GaywcZ): the Skin section of Physical Exam by System, moved to its own page on the NPPR - Exam System template. Rows carried over unchanged from the 2026-10-30 dermatology deep dive (Joe's NURS 720 M10 and NURS 730 M7 Zotero folders) and the 2026-10-31 high-yield exam sweep; Stanford Medicine 25's dermatology exam leads Exam Guides and Videos.

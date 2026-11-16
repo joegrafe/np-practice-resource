@@ -4,10 +4,10 @@ type: assessment
 tags: [assessment, physical-exam, musculoskeletal, msk, special-tests, pediatrics]
 jurisdiction: ["ON", CA, INTL]
 aliases: [musculoskeletal exam, musculoskeletal examination, MSK exam, joint exam, joint examination, orthopedic exam, orthopaedic exam, special tests, orthopedic tests, look feel move, GALS, pGALS, shoulder exam, rotator cuff tests, Neer, Hawkins-Kennedy, empty can, elbow exam, epicondylitis tests, wrist exam, hand exam, Phalen, Tinel, Finkelstein, scaphoid, hip exam, FABER, FADIR, knee exam, McMurray, Lachman, anterior drawer, knee effusion, ankle exam, foot exam, Thompson test, back exam, spine exam, straight leg raise, SLR, neck exam, Spurling, STarT Back, RheumInfo, RheumGuide, RheumTutor, OrthoBullets, Physiopedia, virtual MSK exam]
-status: draft
+status: published
 last-reviewed: 2026-11-16
 review-due: 2027-11-16
-reviewers: []
+reviewers: [joegrafe]
 description: "How to examine the joints and spine: exam guides and videos, each joint's exam and special tests (shoulder, elbow, wrist and hand, hip, knee, ankle and foot, spine), virtual exams and the child's joint screen (pGALS). Canadian sources first (RheumInfo, Stethopedia, RheumGuide, CEP), then Stanford Medicine 25 and AAFP, labelled."
 ---
 <!-- Per-system exam pages wave (2026-11-16; plan https://claude.ai/artifact/ULf8Y8ikpxTsovq4GaywcZ): the Musculoskeletal section of Physical Exam by System, moved to its own page on the NPPR - Exam System template, with the 2026-10-27 joint special tests sources (Joe) carried over.
