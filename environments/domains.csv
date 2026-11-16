@@ -155,7 +155,7 @@ npao.org,core 1 2,3,ON:2 ?:1,yes,npao.org www.npao.org
 omdpracticehub.com,core 1 2,3,ON:3,,omdpracticehub.com
 ontariomidwives.ca,core 1 2,3,ON:3,,www.ontariomidwives.ca
 oup.com,core 1 2,3,CA:2 INTL:1,,academic.oup.com www.oup.com
-parachute.ca,core 1,3,CA:2 ?:1,,parachute.ca
+parachute.ca,core 1 2,3,CA:2 ?:1,,parachute.ca
 peerevidence.ca,core 1,3,CA:2 md:1,,peerevidence.ca
 pmmonline.org,core 2,3,INTL:3,,www.pmmonline.org
 practicalclinicalskills.com,core 2,3,INTL:3,,www.practicalclinicalskills.com
@@ -202,7 +202,7 @@ ontariorheum.ca,core 2,2,ON:2,,ontariorheum.ca
 osteostrategy.on.ca,core 2,2,ON:2,,osteostrategy.on.ca
 otn.ca,core 2,2,ON:2,,otn.ca
 phqscreeners.com,core 2,2,INTL:2,yes,www.phqscreeners.com
-physio-pedia.com,core 2,2,INTL:2,yes,www.physio-pedia.com
+physio-pedia.com,core 1 2,2,INTL:2,yes,www.physio-pedia.com
 rainbowhealthontario.ca,core 1,2,CA:2,,www.rainbowhealthontario.ca
 springer.com,core 1 2,2,CA:2,,link.springer.com www.springer.com
 srpc.ca,core 1,2,CA:2,,cjrm.srpc.ca srpc.ca
@@ -265,7 +265,7 @@ eyerounds.org,core 2,1,INTL:1,,eyerounds.org
 eyewiki.org,core 2,1,INTL:1,,eyewiki.org
 figshare.com,core 2,1,INTL:1,,sgul.figshare.com
 fraxplus.org,core 2,1,INTL:1,,www.fraxplus.org
-geekymedics.com,core 2,1,INTL:1,yes,geekymedics.com
+geekymedics.com,core 1 2,1,INTL:1,yes,geekymedics.com
 getcheckedonline.com,core 1,1,BC:1,,getcheckedonline.com
 gladcanada.ca,core 1,1,CA:1,,gladcanada.ca
 google.com,core 1,1,CA:1,,play.google.com
@@ -304,8 +304,8 @@ monashfodmap.com,core 2,1,INTL:1,,www.monashfodmap.com
 mosaicbc.org,core 1,1,BC:1,,mosaicbc.org
 mutuohealth.com,core 1,1,BC:1,,www.mutuohealth.com
 nccid.ca,core 1,1,CA:1,,nccid.ca
-nccih.ca,core 1,1,CA:1,,www.nccih.ca
-nhconnections.ca,core 1,1,BC:1,,nhconnections.ca
+nccih.ca,1,1,CA:1,,www.nccih.ca
+nhconnections.ca,1,1,BC:1,,nhconnections.ca
 nidus.ca,1,1,BC:1,,nidus.ca
 nosm.ca,2,1,ON:1,,www.nosm.ca
 npac-aiipc.org,1,1,CA:1,,npac-aiipc.org
@@ -380,7 +380,7 @@ ncbi.nlm.nih.gov,core 1 2,0,previous:1,,www.ncbi.nlm.nih.gov
 nejm.org,core 1 2,0,previous:1,,www.nejm.org
 nicotinedependenceclinic.com,2,0,,yes,www.nicotinedependenceclinic.com
 nipissingu.ca,2,0,,yes,libguides.nipissingu.ca
-nsw.gov.au,2,0,,yes,aci.health.nsw.gov.au
+nsw.gov.au,core 1 2,0,,yes,aci.health.nsw.gov.au
 ocpinfo.com,2,0,,yes,www.ocpinfo.com
 ontariopalliativecarenetwork.ca,2,0,,yes,www.ontariopalliativecarenetwork.ca
 opentextbc.ca,2,0,,yes,opentextbc.ca

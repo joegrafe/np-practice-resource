@@ -272,10 +272,8 @@ mutuohealth.com
 mysleepwell.ca
 ncbi.nlm.nih.gov
 nccid.ca
-nccih.ca
 nedic.ca
 nejm.org
-nhconnections.ca
 nice.org.uk
 *.nice.org.uk
 nimh.nih.gov
@@ -286,6 +284,8 @@ nnpbc.com
 northernhealth.ca
 *.northernhealth.ca
 npao.org
+nsw.gov.au
+*.nsw.gov.au
 nurses.ab.ca
 *.nurses.ab.ca
 obesitycanada.ca

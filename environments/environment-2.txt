@@ -269,6 +269,7 @@ ox.ac.uk
 painbc.ca
 *.painbc.ca
 paincanada.ca
+parachute.ca
 pathwaysbc.ca
 patienteduc.ca
 *.patienteduc.ca
