@@ -235,8 +235,6 @@ northernhealth.ca
 *.northernhealth.ca
 nosm.ca
 npao.org
-nsw.gov.au
-*.nsw.gov.au
 nurses.ab.ca
 *.nurses.ab.ca
 obesitycanada.ca
@@ -269,7 +267,6 @@ ox.ac.uk
 painbc.ca
 *.painbc.ca
 paincanada.ca
-parachute.ca
 pathwaysbc.ca
 patienteduc.ca
 *.patienteduc.ca

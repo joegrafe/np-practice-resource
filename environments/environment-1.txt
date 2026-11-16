@@ -242,8 +242,6 @@ northernhealth.ca
 npac-aiipc.org
 npao.org
 npcircle.ca
-nsw.gov.au
-*.nsw.gov.au
 nurses.ab.ca
 *.nurses.ab.ca
 obesitycanada.ca

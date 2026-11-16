@@ -12,7 +12,7 @@ description: "How to examine the skin: describing lesions, skin checks and dermo
 ---
 <!-- Per-system exam pages wave (2026-11-16; plan https://claude.ai/artifact/ULf8Y8ikpxTsovq4GaywcZ): the Skin section of Physical Exam by System, moved to its own page on the NPPR - Exam System template. Rows carried over unchanged from the 2026-10-30 dermatology deep dive (Joe's NURS 720 M10 and NURS 730 M7 Zotero folders) and the 2026-10-31 high-yield exam sweep; Stanford Medicine 25's dermatology exam leads Exam Guides and Videos.
      Exam technique only (Joe, 2026-11-01): treatment and referral are on each Dermatology condition page, so the template's Red Flags and Referral section is left out.
-     Sweep 2026-11-16 for palpation sources: none free that teaches skin palpation on its own; the whole-exam guides cover it. Geeky Medics' dermatological exam returns 403 to the build network (UNOPENED-SOURCES.csv, geekymedics.com row).
+     Sweep 2026-11-16 for palpation sources: none free that teaches skin palpation on its own; the whole-exam guides cover it. Geeky Medics' dermatological exam guides return 403 to the build network; linked after Joe's hand check on 2026-11-16 (address from web search).
      Link to the source guidance; don't restate its technique or criteria. -->
 <!-- The page is its frontmatter plus Skin Exam.csv beside it, one row per line; the site build writes it in here. Edit the sheet, not this page.
      Sections (NPPR - Exam System template): Exam Guides and Videos, the exam steps (Inspection, Skin Checks and Dermoscopy, Photos and Teledermatology), Skin of Colour, Children and Newborns, Related Pages. -->
