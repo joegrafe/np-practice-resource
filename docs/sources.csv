@@ -3094,3 +3094,18 @@ healthlinkbc-tuberculin-skin-test,Tuberculin Skin Test,HealthLink BC,https://www
 healthlinkbc-endometrial-biopsy,Endometrial Biopsy,HealthLink BC,https://www.healthlinkbc.ca/healthwise/endometrial-biopsy,,,,BC,patient,2026-11-10,,endometrial biopsy
 healthlinkbc-vaginal-pessaries,Vaginal Pessaries,HealthLink BC,https://www.healthlinkbc.ca/healthwise/vaginal-pessaries,,,,BC,patient,2026-11-10,,pessary
 healthlinkbc-birth-control-implant,Birth Control Hormones: The Implant,HealthLink BC,https://www.healthlinkbc.ca/healthwise/birth-control-hormones-implant,,,,BC,patient,2026-11-10,,"Nexplanon, implant"
+stethopedia-msk,Musculoskeletal (MSK) Exams,McMaster University (Stethopedia),https://stethopedia.ca/exams/msk,,,Checked 2026-11-16,CA,tool,2026-11-16,,joint exam videos
+stethopedia-shoulder,Shoulder Exam,McMaster University (Stethopedia),https://stethopedia.ca/exams/msk/shoulder,,,Checked 2026-11-16,CA,tool,2026-11-16,,rotator cuff Neer Hawkins
+stethopedia-elbow,Elbow Exam,McMaster University (Stethopedia),https://stethopedia.ca/exams/msk/elbow,,,Checked 2026-11-16,CA,tool,2026-11-16,,epicondylitis
+stethopedia-hand-wrist,Hand and Wrist Exam,McMaster University (Stethopedia),https://stethopedia.ca/exams/msk/hand-wrist,,,Checked 2026-11-16,CA,tool,2026-11-16,,Phalen Tinel Finkelstein
+stethopedia-hip,Hip Exam,McMaster University (Stethopedia),https://stethopedia.ca/exams/msk/hip,,,Checked 2026-11-16,CA,tool,2026-11-16,,FABER
+stethopedia-knee,Knee Exam,McMaster University (Stethopedia),https://stethopedia.ca/exams/msk/knee,,,Checked 2026-11-16,CA,tool,2026-11-16,,Lachman McMurray
+stethopedia-ankle-foot,Ankle and Foot Exam,McMaster University (Stethopedia),https://stethopedia.ca/exams/msk/ankle-foot,,,Checked 2026-11-16,CA,tool,2026-11-16,,ankle foot
+stethopedia-back,Back Exam,McMaster University (Stethopedia),https://stethopedia.ca/exams/msk/back,,,Checked 2026-11-16,CA,tool,2026-11-16,,low back straight leg raise
+stethopedia-abdominal-exam,Abdominal Exam,McMaster University (Stethopedia),https://stethopedia.ca/exams/abdominal/osce,,,Checked 2026-11-16,CA,tool,2026-11-16,,abdominal exam video checklist
+stethopedia-abdominal-special-tests,Abdominal Special Tests,McMaster University (Stethopedia),https://stethopedia.ca/exams/abdominal/special-tests,,,Checked 2026-11-16,CA,tool,2026-11-16,,Murphy Rovsing McBurney
+stethopedia-diabetic-foot,Diabetic Foot Exam,McMaster University (Stethopedia),https://stethopedia.ca/exams/endocrine/diabetic-foot,,,Checked 2026-11-16,CA,tool,2026-11-16,,diabetic foot monofilament
+stanford-25-ascites-venous-patterns,Ascites and Venous Patterns,Stanford Medicine,https://stanfordmedicine25.stanford.edu/the25/avp.html,,,Checked 2026-11-16,INTL,tool,2026-11-16,,ascites caput medusae
+uw-physdx-liver-ascites,Liver and Ascites Exam,University of Washington,https://depts.washington.edu/physdx/liver/index.html,,,Checked 2026-11-16,INTL,tool,2026-11-16,,liver span shifting dullness
+aafp-acute-abdominal-pain-2023,Acute Abdominal Pain in Adults: Evaluation and Diagnosis,American Academy of Family Physicians (American Family Physician),https://www.aafp.org/pubs/afp/issues/2023/0600/acute-abdominal-pain-adults.html,,2023,2023,INTL,summary,2026-11-16,,acute abdomen
+ucsd-male-genital-rectal-exam,Male Genital / Rectal Exam,UC San Diego School of Medicine,https://sites.ucsd.edu/clinicalmedguide/male-genital-rectal-exam/,,,Checked 2026-11-16,INTL,tool,2026-11-16,,hernia prostate

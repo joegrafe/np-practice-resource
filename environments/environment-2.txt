@@ -107,7 +107,6 @@ cssrs.columbia.edu
 cts-sct.ca
 dal.ca
 *.dal.ca
-decisionaid.ca
 deprescribing.org
 deprescribingnetwork.ca
 dermatology.ca
@@ -236,6 +235,8 @@ northernhealth.ca
 *.northernhealth.ca
 nosm.ca
 npao.org
+nsw.gov.au
+*.nsw.gov.au
 nurses.ab.ca
 *.nurses.ab.ca
 obesitycanada.ca
@@ -268,7 +269,6 @@ ox.ac.uk
 painbc.ca
 *.painbc.ca
 paincanada.ca
-parachute.ca
 pathwaysbc.ca
 patienteduc.ca
 *.patienteduc.ca
@@ -321,6 +321,7 @@ springer.com
 stanford.edu
 *.stanford.edu
 stanford25.org
+stethopedia.ca
 strokebestpractices.ca
 surreyplace.ca
 *.surreyplace.ca

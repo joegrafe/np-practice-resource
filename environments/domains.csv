@@ -1,8 +1,8 @@
 domain,environment,links,regions,unopened,hosts
 cmaj.ca,core 1 2,1014,CA:999 ?:13 md:2,yes,www.cmaj.ca
-gov.bc.ca,core 1 2,953,BC:529 ?:376 CA:41 ON:4 INTL:2 md:1,yes,engage.gov.bc.ca pharmacareformularysearch.gov.bc.ca pharmanetenrolment.gov.bc.ca www.bclaws.gov.bc.ca www.gov.bc.ca www2.gov.bc.ca
-pedscases.com,core 1 2,485,CA:482 md:3,,pedscases.com www.pedscases.com
-aafp.org,core 1 2,366,INTL:351 ?:14 md:1,,www.aafp.org
+gov.bc.ca,core 1 2,986,BC:561 ?:377 CA:41 ON:4 INTL:2 md:1,yes,engage.gov.bc.ca pharmacareformularysearch.gov.bc.ca pharmanetenrolment.gov.bc.ca www.bclaws.gov.bc.ca www.gov.bc.ca www2.gov.bc.ca
+pedscases.com,core 1 2,485,CA:482 md:3,yes,pedscases.com www.pedscases.com
+aafp.org,core 1 2,367,INTL:352 ?:14 md:1,,www.aafp.org
 ucalgary.ca,core 1 2,360,CA:355 md:5,yes,blackbook.ucalgary.ca calgaryguide.ucalgary.ca
 cfp.ca,core 1 2,279,CA:269 ?:8 md:2,yes,www.cfp.ca
 ontariohealth.ca,core 1 2,264,ON:178 ?:84 md:2,yes,ontariohealth.ca www.ontariohealth.ca
@@ -57,6 +57,7 @@ phsa.ca,core 1 2,15,BC:11 ?:4,yes,learninghub.phsa.ca libraries.phsa.ca www.phsa
 rheuminfo.com,core 1 2,15,CA:15,,rheuminfo.com
 ccsmh.ca,core 1 2,14,CA:14,,ccsmh.ca
 publichealthontario.ca,core 1 2,14,ON:7 ?:7,,www.publichealthontario.ca
+stethopedia.ca,core 1 2,14,CA:14,,stethopedia.ca www.stethopedia.ca
 menopause.org,core 1 2,13,INTL:7 ?:6,,menopause.org
 osteoporosis.ca,core 1 2,13,CA:10 ?:3,,osteoporosis.ca
 rccbc.ca,core 1 2,13,BC:9 ?:4,,rccbc.ca
@@ -69,6 +70,7 @@ keltymentalhealth.ca,core 1 2,11,BC:10 ?:1,,keltymentalhealth.ca
 nlm.nih.gov,core 1 2,11,INTL:7 CA:3 ?:1,yes,ncbi.nlm.nih.gov pmc.ncbi.nlm.nih.gov pubmed.ncbi.nlm.nih.gov www.ncbi.nlm.nih.gov
 headachesociety.ca,core 1 2,10,CA:9 ?:1,,www.headachesociety.ca
 kdigo.org,core 1 2,10,INTL:6 ?:4,,kdigo.org
+ucsd.edu,core 1 2,10,INTL:10,,sites.ucsd.edu
 bc-cpc.ca,core 1 2,9,?:7 BC:2,,bc-cpc.ca www.bc-cpc.ca
 bccfe.ca,core 1 2,9,BC:9,,bccfe.ca education.bccfe.ca
 cdc.gov,core 1 2,9,INTL:8 ?:1,,stacks.cdc.gov www.cdc.gov
@@ -77,7 +79,6 @@ cts-sct.ca,core 1 2,9,CA:9,,cts-sct.ca
 healthcarebc.ca,core 1 2,9,?:5 BC:4,,shop.healthcarebc.ca
 jaad.org,core 1 2,9,INTL:9,yes,www.jaad.org
 ubccpd.ca,core 1 2,9,BC:8 ?:1,,ubccpd.ca
-ucsd.edu,core 1 2,9,INTL:9,,sites.ucsd.edu
 canadianmenopausesociety.org,core 1 2,8,CA:6 ?:2,,www.canadianmenopausesociety.org
 eyeguru.org,core 1 2,8,INTL:8,,eyeguru.org
 interiorhealth.ca,core 1 2,8,BC:8,yes,www.interiorhealth.ca
@@ -154,13 +155,14 @@ npao.org,core 1 2,3,ON:2 ?:1,yes,npao.org www.npao.org
 omdpracticehub.com,core 1 2,3,ON:3,,omdpracticehub.com
 ontariomidwives.ca,core 1 2,3,ON:3,,www.ontariomidwives.ca
 oup.com,core 1 2,3,CA:2 INTL:1,,academic.oup.com www.oup.com
-parachute.ca,core 1 2,3,CA:2 ?:1,,parachute.ca
+parachute.ca,core 1,3,CA:2 ?:1,,parachute.ca
 peerevidence.ca,core 1,3,CA:2 md:1,,peerevidence.ca
 pmmonline.org,core 2,3,INTL:3,,www.pmmonline.org
 practicalclinicalskills.com,core 2,3,INTL:3,,www.practicalclinicalskills.com
 recmap.org,core 1,3,CA:3,,can-pcc.recmap.org
 scribeberry.com,core 1,3,BC:2 CA:1,,help.scribeberry.com www.scribeberry.com
 ubcplastics.ca,core 1,3,BC:3,,www.ubcplastics.ca
+washington.edu,core 2,3,INTL:3,,depts.washington.edu
 albertadoctors.org,core 1,2,AB:2,,www.albertadoctors.org
 antibioticwise.ca,core 1,2,BC:1 ?:1,,antibioticwise.ca
 asia-spinalinjury.org,core 2,2,INTL:2,,asia-spinalinjury.org
@@ -200,7 +202,7 @@ ontariorheum.ca,core 2,2,ON:2,,ontariorheum.ca
 osteostrategy.on.ca,core 2,2,ON:2,,osteostrategy.on.ca
 otn.ca,core 2,2,ON:2,,otn.ca
 phqscreeners.com,core 2,2,INTL:2,yes,www.phqscreeners.com
-physio-pedia.com,core 2,2,INTL:2,,www.physio-pedia.com
+physio-pedia.com,core 2,2,INTL:2,yes,www.physio-pedia.com
 rainbowhealthontario.ca,core 1,2,CA:2,,www.rainbowhealthontario.ca
 springer.com,core 1 2,2,CA:2,,link.springer.com www.springer.com
 srpc.ca,core 1,2,CA:2,,cjrm.srpc.ca srpc.ca
@@ -208,7 +210,6 @@ tandfonline.com,core 2,2,CA:1 ?:1,yes,www.tandfonline.com
 tripdatabase.com,core 2,2,INTL:1 md:1,,www.tripdatabase.com
 uspreventiveservicestaskforce.org,core 2,2,INTL:1 ?:1,,www.uspreventiveservicestaskforce.org
 virtualhospice.ca,core 1,2,CA:2,,www.virtualhospice.ca
-washington.edu,core 2,2,INTL:2,,depts.washington.edu
 youtu.be,core 2,2,INTL:2,,youtu.be
 youtube.com,core 2,2,CA:1 INTL:1,,www.youtube.com youtube.com
 aao.org,core 2,1,INTL:1,,www.aao.org
@@ -250,6 +251,7 @@ contentstack.io,core 2,1,INTL:1,,assets.contentstack.io
 cpocus.ca,core 1,1,CA:1,,cpocus.ca
 cua.org,core 1,1,CA:1,,www.cua.org
 cvdcalculator.com,core 1,1,CA:1,,cvdcalculator.com
+decisionaid.ca,core 1,1,CA:1,,decisionaid.ca
 dermoscopedia.org,core 2,1,INTL:1,,dermoscopedia.org
 dftbskindeep.com,core 2,1,INTL:1,,dftbskindeep.com
 dpic.org,core 1,1,BC:1,,www.dpic.org
@@ -304,7 +306,7 @@ mutuohealth.com,core 1,1,BC:1,,www.mutuohealth.com
 nccid.ca,core 1,1,CA:1,,nccid.ca
 nccih.ca,core 1,1,CA:1,,www.nccih.ca
 nhconnections.ca,core 1,1,BC:1,,nhconnections.ca
-nidus.ca,core 1,1,BC:1,,nidus.ca
+nidus.ca,1,1,BC:1,,nidus.ca
 nosm.ca,2,1,ON:1,,www.nosm.ca
 npac-aiipc.org,1,1,CA:1,,npac-aiipc.org
 npcircle.ca,1,1,CA:1,,npcircle.ca
@@ -336,7 +338,6 @@ seniorsadvocatebc.ca,1,1,BC:1,,www.seniorsadvocatebc.ca
 seniorsfirstbc.ca,1,1,BC:1,,seniorsfirstbc.ca
 sexualhealthontario.ca,2,1,ON:1,,www.sexualhealthontario.ca
 smartsexresource.com,1,1,BC:1,,smartsexresource.com
-stethopedia.ca,1,1,CA:1,,www.stethopedia.ca
 stopbang.ca,1,1,CA:1,,www.stopbang.ca
 sydney.edu.au,1,1,?:1,,cdpc.sydney.edu.au
 thennt.com,2,1,INTL:1,,thennt.com
@@ -368,7 +369,6 @@ clwk.ca,core 1 2,0,,yes,clwk.ca
 cma.ca,core 1 2,0,previous:1,,www.cma.ca
 cna-aiic.ca,2,0,,yes,www.cna-aiic.ca
 connexontario.ca,2,0,,yes,www.connexontario.ca
-decisionaid.ca,core 1 2,0,,yes,decisionaid.ca
 eczemasociety.ca,core 1 2,0,,yes,eczemasociety.ca
 foodallergycanada.ca,2,0,,yes,foodallergycanada.ca
 jamanetwork.com,core 1 2,0,previous:1,,www.jamanetwork.com
@@ -380,6 +380,7 @@ ncbi.nlm.nih.gov,core 1 2,0,previous:1,,www.ncbi.nlm.nih.gov
 nejm.org,core 1 2,0,previous:1,,www.nejm.org
 nicotinedependenceclinic.com,2,0,,yes,www.nicotinedependenceclinic.com
 nipissingu.ca,2,0,,yes,libguides.nipissingu.ca
+nsw.gov.au,2,0,,yes,aci.health.nsw.gov.au
 ocpinfo.com,2,0,,yes,www.ocpinfo.com
 ontariopalliativecarenetwork.ca,2,0,,yes,www.ontariopalliativecarenetwork.ca
 opentextbc.ca,2,0,,yes,opentextbc.ca

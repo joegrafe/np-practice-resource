@@ -1,0 +1,44 @@
+heading,subheading,kind,level,title,url,year,pdf,links,note,keywords,region,only,source
+,,md,,"*How to examine the joints and spine: screening exams, each joint's look, feel, move and special tests, and the child's joint screen. Whether to X-ray an injury is on Clinical Decision Rules; management is on the Musculoskeletal condition pages.*",,,,,,,,,
+Exam Guides and Videos,,,,Stethopedia - Musculoskeletal (MSK) Exams,,,,,Canadian; McMaster medical students' exam videos and checklists for each joint and the back,joint exam videos checklist,CA,,stethopedia-msk
+Exam Guides and Videos,,,,RheumGuide - Physical Exam,,,,,"Canadian; rheumatology exam videos by joint, including how to detect an effusion",GALS joint exam effusion,CA,,rheumguide-physical-exam
+Exam Guides and Videos,,,,RheumTutor (YouTube),,,,,Canadian; short joint exam and special test videos,videos,CA,,rheumtutor-youtube
+Exam Guides and Videos,,,,University of Toronto MD Program - Musculoskeletal Examination,,,,,"Canadian; videos of the GALS screen and the back, shoulder, hand and wrist, hip and knee exams",GALS videos back shoulder knee,CA,,uoft-musculoskeletal-examination
+Exam Guides and Videos,,,,OrthoBullets - Physical Exam,,,,,"International source: US; special tests by joint, with their sensitivity and specificity; free account for some pages",special tests sensitivity,INTL,,orthobullets-physical-exam
+Exam Guides and Videos,,,,Physiopedia - Special Tests,,,,,International source: UK; an A to Z of special tests with technique and videos,special tests,INTL,,physiopedia-special-tests
+Several Joints and Virtual Exams,,,,AAFP - Polyarticular Joint Pain in Adults: Evaluation and Differential Diagnosis,,,,,International source: US; free article; exam findings that sort inflammatory from noninflammatory joint pain,polyarthritis,INTL,,aafp-polyarticular-joint-pain-2023
+Several Joints and Virtual Exams,,,,AAFP - Telemedicine Management of Musculoskeletal Issues,,,,,International source: US; free article; virtual MSK exam manoeuvres by joint,virtual exam telehealth,INTL,,aafp-telemedicine-msk-2021
+Shoulder,,,,RheumInfo - Shoulder Examination,,,,,Canadian rheumatologist's shoulder exam video and steps,rotator cuff Neer Hawkins impingement,CA,,rheuminfo-shoulder-exam
+Shoulder,,,,Stethopedia - Shoulder Exam,,,,,"Canadian; McMaster medical students' exam video and checklist, with special tests",rotator cuff Neer Hawkins impingement,CA,,stethopedia-shoulder
+Shoulder,,,,Stanford Medicine 25 - Shoulder Exam Tutorial,,,,,International source: US; video and steps for the shoulder exam and its special tests,rotator cuff impingement,INTL,,stanford-25-shoulder-exam-tutorial
+Shoulder,,,,AAFP - The Painful Shoulder: Part I. Clinical Evaluation,,,,,International source: US; free article; shoulder exam and special tests,rotator cuff impingement,INTL,,aafp-painful-shoulder-2000
+Shoulder,,,,AAFP - Acute Shoulder Injuries in Adults,,,,,"International source: US; free article; exam after injury: dislocation, fracture and rotator cuff tear",dislocation AC joint,INTL,,aafp-acute-shoulder-injuries-2023
+Elbow,,,,RheumInfo - Elbow Examination,,,,,Canadian rheumatologist's elbow exam video and steps,epicondylitis tennis elbow,CA,,rheuminfo-elbow-exam
+Elbow,,,,Stethopedia - Elbow Exam,,,,,"Canadian; McMaster medical students' exam video and checklist, with special tests",epicondylitis,CA,,stethopedia-elbow
+Elbow,,,,AAFP - Evaluation of Elbow Pain in Adults,,,,,International source: US; free article; elbow exam and special tests,epicondylitis,INTL,,aafp-elbow-pain-2014
+Wrist and Hand,,,,Stethopedia - Hand and Wrist Exam,,,,,"Canadian; McMaster medical students' exam video and checklist, with special tests",Phalen Tinel Finkelstein scaphoid,CA,,stethopedia-hand-wrist
+Wrist and Hand,,,,Stanford Medicine 25 - The Hand Examination,,,,,International source: US; video and steps for the hand exam,hand exam,INTL,,stanford-25-the-hand-examination
+Wrist and Hand,,,,AAFP - Evaluation and Diagnosis of Wrist Pain: A Case-Based Approach,,,,,"International source: US; free article; wrist exam by site of pain, with special tests",scaphoid Finkelstein de Quervain,INTL,,aafp-wrist-pain-2013
+Hip,,,,RheumInfo - Hip Examination,,,,,Canadian rheumatologist's hip exam video and steps,FABER FADIR,CA,,rheuminfo-hip-exam
+Hip,,,,Stethopedia - Hip Exam,,,,,"Canadian; McMaster medical students' exam video and checklist, with special tests",FABER FADIR,CA,,stethopedia-hip
+Hip,,,,Stanford Medicine 25 - Hip Region Exam,,,,,International source: US; an approach to the hip region exam,FABER FADIR hip,INTL,,stanford-25-hip-region-exam
+Hip,,,,AAFP - Evaluation of the Patient with Hip Pain,,,,,International source: US; free article; hip exam and special tests,FABER FADIR,INTL,,aafp-hip-pain-2014
+Knee,,,,RheumInfo - Knee Examination,,,,,Canadian rheumatologist's knee exam video and steps,McMurray Lachman effusion,CA,,rheuminfo-knee-exam
+Knee,,,,Stethopedia - Knee Exam,,,,,"Canadian; McMaster medical students' exam video and checklist, with special tests",Lachman McMurray effusion,CA,,stethopedia-knee
+Knee,,,,Stanford Medicine 25 - Knee Exam,,,,,International source: US; video and steps for the knee exam and its special tests,Lachman McMurray,INTL,,stanford-25-knee-exam
+Knee,,,,AAFP - Knee Pain in Adults and Adolescents: The Initial Evaluation,,,,,International source: US; free article; knee exam and special tests,McMurray Lachman meniscus ACL,INTL,,aafp-knee-pain-2018
+Knee,,note,,,,,,,Whether to X-ray a knee injury: the Ottawa knee rule on [Clinical Decision Rules](../Clinical%20Decision%20Rules.md).,Ottawa knee,,,
+Ankle and Foot,,,,Stethopedia - Ankle and Foot Exam,,,,,"Canadian; McMaster medical students' exam video and checklist, with special tests",anterior drawer Thompson,CA,,stethopedia-ankle-foot
+Ankle and Foot,,,,Stanford Medicine 25 - Ankle and Foot Exam,,,,,International source: US; video and steps for the ankle and foot exam,ankle foot exam,INTL,,stanford-25-ankle-and-foot-exam
+Ankle and Foot,,note,,,,,,,Whether to X-ray an ankle or foot injury: the Ottawa ankle rules on [Clinical Decision Rules](../Clinical%20Decision%20Rules.md); ankle sprain resources on [Sprains and Minor Fractures](../../3%20Conditions/Musculoskeletal/Sprains%20and%20Minor%20Fractures.md).,Ottawa ankle,,,
+Spine,,,,CEP - CORE Back Tool,,,,,"Canadian; back exam and red flags, with a neurological exam",low back pain red flags straight leg raise,ON,,cep-core-back-tool
+Spine,,,,CEP - CORE Neck Tool and Headache Navigator,,,,,Canadian; neck exam and red flags,neck pain radiculopathy,ON,,cep-headache-navigator-2016
+Spine,,,,Stethopedia - Back Exam,,,,,"Canadian; McMaster medical students' exam video and checklist, with special tests",low back straight leg raise,CA,,stethopedia-back
+Spine,,,,Stanford Medicine 25 - Low Back Exam,,,,,International source: US; an approach to the low back exam,low back pain straight leg raise,INTL,,stanford-25-low-back-exam
+Spine,,,,Keele University - STarT Back Screening Tool,,,,[Translations](https://keele.health/startbacktool/),International source: UK; nine-question tool that sorts low back pain by risk of a poor outcome; free for non-commercial use,STarT Back SBST low back pain risk,INTL,,keele-university-start-back-screening-tool
+Spine,,,,AAFP - Neck Pain: Initial Evaluation and Management,,,,,International source: US; free article; neck exam and provocative tests (Spurling),Spurling radiculopathy,INTL,,aafp-neck-pain-2020
+Spine,,note,,,,,,,Whether to image the neck after injury: the Canadian C-Spine Rule on [Clinical Decision Rules](../Clinical%20Decision%20Rules.md).,C-spine,,,
+Children,,,,Paediatric Musculoskeletal Matters - A Guide to pGALS,,,,[pGALSplus animation](https://www.pmmonline.org/doctor/resources/information-for-clinicians/pgalsplus-graphic-animation-demonstration) · [Video pGALS (V-pGALS)](https://www.pmmonline.org/doctor/clinical-assessment/examination/virtual-or-video-pgals-v-pgals),"International source: UK; children: the 2-minute pGALS joint screen, with video",pGALS pediatric paediatric GALS child joint screen,INTL,,paediatric-musculoskeletal-matters-a-guide-to
+Related Pages,,md,,"- [Clinical Decision Rules](../Clinical%20Decision%20Rules.md) — *Ottawa ankle and knee rules, Canadian C-Spine Rule*",,,,,,,,,
+Related Pages,,md,,"- [Sprains and Minor Fractures](../../3%20Conditions/Musculoskeletal/Sprains%20and%20Minor%20Fractures.md) · [Low Back Pain](../../3%20Conditions/Musculoskeletal/Low%20Back%20Pain.md) · [Osteoarthritis](../../3%20Conditions/Musculoskeletal/Osteoarthritis%20(OA).md) · [Gout](../../3%20Conditions/Musculoskeletal/Gout.md) · [Rheumatoid Arthritis](../../3%20Conditions/Musculoskeletal/Rheumatoid%20Arthritis.md) — *management, on the condition pages*",,,,,,,,,
+Related Pages,,md,,"- [Joint Injections, Splints and Reductions](../../5%20Procedures/Joint%20Injections%20Splints%20and%20Reductions.md) — *how-to guides and videos*",,,,,,,,,
