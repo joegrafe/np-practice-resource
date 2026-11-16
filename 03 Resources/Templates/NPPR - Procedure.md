@@ -17,9 +17,10 @@ aliases: []
      Copy NPPR - Procedure.csv beside the page and rename it to the page's name. Edit the sheet, not this page.
      Columns: List sheets in NPPR-FRAMEWORK.md. The intro line is the first row (kind md, no heading); it points to
      Scope, Training and Privileging and to Before Any Procedure.
-     Sections: Key Sources (1 to 3: a Canadian step-by-step source first, then one or two high-yield reviews), one section
-     per group of procedures (a step-by-step guide or video per procedure, the format and length in its note),
-     Patient Resources (aftercare handouts).
+     Sections: one section per group of procedures (a step-by-step guide or video per procedure, the format and length
+     in its note; a Canadian step-by-step source first, such as the procedure's Saskatchewan Polytechnic textbook chapter,
+     then high-yield reviews and videos), then Patient Resources (aftercare handouts). No Key Sources section: every
+     source sits in the section for its procedure (Joe, 2026-11-16).
      No steps, doses or indications in our own words: link the source. Every linked top-level row carries a region code
      from docs/regions.csv (the jurisdiction the content is written for); a regulator's rule is its province's code with only=yes.
      Aliases: every procedure on the page by its plain and clinical names (earwax removal, cerumen), for the search. -->
