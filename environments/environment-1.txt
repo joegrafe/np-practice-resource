@@ -144,6 +144,7 @@ eyeguru.org
 fnha.ca
 foundrybc.ca
 fraserhealth.ca
+geekymedics.com
 getcheckedonline.com
 gladcanada.ca
 google.com
@@ -277,6 +278,7 @@ perinatalservicesbc.ca
 pharmacists.ca
 phsa.ca
 *.phsa.ca
+physio-pedia.com
 picnet.ca
 primarycarealberta.ca
 psbchealthhub.ca

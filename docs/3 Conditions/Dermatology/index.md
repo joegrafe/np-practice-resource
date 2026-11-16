@@ -20,4 +20,4 @@ reviewers: [joegrafe]
 
 Skin infections and shingles are under [Infectious Disease](../Infectious%20Disease/index.md).
 
-For describing lesions, skin checks, dermoscopy, skin of colour and pediatric rashes, see [Physical Exam by System: Skin](../../2%20Assessments/Physical%20Exam%20by%20System.md#skin).
+For describing lesions, skin checks, dermoscopy, skin of colour and pediatric rashes, see [Skin Exam](../../2%20Assessments/Physical%20Exam%20by%20System/Skin%20Exam.md).

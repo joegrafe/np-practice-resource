@@ -67,7 +67,8 @@ Checks:
   search         a content page with no aliases (frontmatter or hooks/search_aliases.yml)
                  or no line in scripts/search-checks.txt (needs nppr-website-config)
   index-list     a page missing from its folder's In This Section list, or a listed
-                 page that no longer exists
+                 page that no longer exists (a sheet-backed folder index, such as Physical
+                 Exam by System, may list its pages as md rows in its sheet)
   registry-checked  a registry row with no checked date, or one older than 12 months
                  (a warning: a few sites block the build network, see UNOPENED-SOURCES.csv)
   pathways-referral  a condition page with no Pathways BC directory row (registry id
@@ -730,7 +731,14 @@ def audit_indexes(docs, f):
         if re.search(r"^section_cards:\s*true\s*$", text, re.M):
             continue  # the build writes this section's cards from its pages (hooks/section_pages.py)
         listed = set()
-        for n, line in enumerate(text.splitlines(), 1):
+        lines = text.splitlines()
+        for spec in MARKER.findall(text):
+            # A sheet-backed folder index (Physical Exam by System, 2026-11-16) keeps its
+            # list of the folder's pages as md rows in its sheet.
+            sheet = folder / split_marker(spec)
+            if sheet.exists():
+                lines += sheet.read_text(encoding="utf-8").splitlines()
+        for n, line in enumerate(lines, 1):
             for target in MD_URL.findall(line):
                 if not target.endswith(".md") or URL.match(target):
                     continue

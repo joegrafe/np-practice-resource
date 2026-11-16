@@ -278,7 +278,6 @@ nejm.org
 nhconnections.ca
 nice.org.uk
 *.nice.org.uk
-nidus.ca
 nimh.nih.gov
 nlm.nih.gov
 *.nlm.nih.gov
@@ -354,6 +353,7 @@ srpc.ca
 *.srpc.ca
 stanford.edu
 *.stanford.edu
+stethopedia.ca
 strokebestpractices.ca
 surreyplace.ca
 *.surreyplace.ca
