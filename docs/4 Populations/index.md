@@ -12,7 +12,9 @@ reviewers: [joegrafe]
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*Sources and services for specific patient groups. Each page lists what changes for that group, with your province's sources first: key guidance, preventive care, urgent red flags, conditions with population notes, services and referral, and patient resources.*
+*Sources and services for specific patient groups: what changes for each group, with your province's sources first.*
+
+<div class="nppr-filter nppr-filter--pages" data-section="Populations" data-placeholder="Search all populations, e.g. Rourke or interpreter"></div>
 
 ## In This Section
 - [Pediatrics](Pediatrics/Pediatrics.md) — *Child Health BC, CPS and TREKK; well-child care (Rourke Baby Record), urgent care and red flags, adolescents, CHARLiE and BC Children's Hospital referral*
@@ -31,3 +33,6 @@ reviewers: [joegrafe]
 - [Newcomers and Refugees](Newcomers%20and%20Refugees.md) — *CCIRH guidelines and Caring for Kids New to Canada; immunization and TB screening after arrival, IFHP and MSP coverage, interpreters and refugee clinics*
 - [Palliative Care](Palliative%20Care.md) — *the BC palliative care guideline and BC Centre for Palliative Care symptom guidelines; serious illness conversations, Plan P drug coverage, the palliative consultation line and grief*
 - [Adults with Intellectual and Developmental Disabilities](Adults%20with%20Intellectual%20and%20Developmental%20Disabilities.md) — *the Canadian primary care guidelines and Health Check, behavioural crisis, decision-making, and CLBC and health authority services*
+
+## Also See
+- [Conditions](../3%20Conditions/index.md): condition pages for adults, by body system.

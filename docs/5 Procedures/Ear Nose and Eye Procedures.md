@@ -1,5 +1,6 @@
 ---
 title: "Ear, Nose and Eye Procedures"
+card-icon: eye-outline
 type: procedure
 tags: [procedure, ear, nose, eye, foreign-body]
 jurisdiction: [BC, CA, INTL]

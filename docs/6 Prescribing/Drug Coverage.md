@@ -1,5 +1,6 @@
 ---
 title: Drug Coverage
+card-icon: cash-check
 type: prescribing
 tags: [prescribing, pharmacare, special-authority, drug-coverage]
 jurisdiction: [BC, "ON", CA]

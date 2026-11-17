@@ -12,7 +12,9 @@ reviewers: [joegrafe]
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*Working through a prescribing decision, checking the drug against an independent reference, and getting it covered, plus antimicrobial, immunization, controlled drug and substance use, and deprescribing references: provincial and Canadian sources for NP prescribing.*
+*Drug references, coverage, antimicrobials, immunization, controlled drugs and deprescribing: provincial and Canadian sources for NP prescribing.*
+
+<div class="nppr-filter nppr-filter--pages" data-section="Prescribing" data-placeholder="Search all prescribing pages, e.g. Special Authority"></div>
 
 ## In This Section
 - [Rational Prescribing](Rational%20Prescribing.md)
@@ -22,3 +24,7 @@ reviewers: [joegrafe]
 - [Immunization](Immunization.md)
 - [Opioids, Controlled Drugs and Substance Use](Opioids%20Controlled%20Drugs%20and%20Substance%20Use.md)
 - [Deprescribing](Deprescribing.md)
+
+## Also See
+- [Prescribing Authority](../7%20Practice/Prescribing%20Authority.md): what NPs may prescribe is under Practice.
+- [Conditions](../3%20Conditions/index.md): each condition page keeps its own prescribing references.

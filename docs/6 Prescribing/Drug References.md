@@ -1,5 +1,6 @@
 ---
 title: Drug References
+card-icon: book-open-variant
 type: prescribing
 tags: [prescribing, drug-information, medication-safety, older-adults]
 jurisdiction: [BC, CA]

@@ -1,5 +1,6 @@
 ---
 title: Adults with Intellectual and Developmental Disabilities
+card-icon: account-group-outline
 type: population
 slug: idd
 tags: [population, idd, developmental-disabilities, intellectual-disability]

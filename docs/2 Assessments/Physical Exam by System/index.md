@@ -1,5 +1,6 @@
 ---
 title: Physical Exam by System
+card-icon: stethoscope
 type: assessment
 tags: [assessment, physical-exam, auscultation, pediatrics, head-and-neck, ent, eyes, mental-status, newborn]
 jurisdiction: [BC, CA, INTL]

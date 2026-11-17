@@ -1,5 +1,6 @@
 ---
 title: Endocrine and Metabolic
+card-icon: diabetes
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
@@ -13,7 +14,10 @@ reviewers: [joegrafe]
 ## In This Section
 
 - [Diabetes, Type 2](Diabetes%2C%20Type%202.md)
-- [Electrolyte Imbalances](Electrolyte%20Imbalances/index.md): [Calcium Disorders](Electrolyte%20Imbalances/Calcium%20Disorders.md), [Potassium Disorders](Electrolyte%20Imbalances/Potassium%20Disorders.md), [Sodium Disorders](Electrolyte%20Imbalances/Sodium%20Disorders.md)
+- [Electrolyte Imbalances](Electrolyte%20Imbalances/index.md)
+    - [Calcium Disorders](Electrolyte%20Imbalances/Calcium%20Disorders.md)
+    - [Potassium Disorders](Electrolyte%20Imbalances/Potassium%20Disorders.md)
+    - [Sodium Disorders](Electrolyte%20Imbalances/Sodium%20Disorders.md)
 - [Obesity and Weight Management](Obesity%20and%20Weight%20Management.md)
 - [Osteoporosis](Osteoporosis.md)
 - [Thyroid Disease](Thyroid%20Disease.md)

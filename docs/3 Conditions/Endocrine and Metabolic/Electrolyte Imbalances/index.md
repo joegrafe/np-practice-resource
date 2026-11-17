@@ -1,5 +1,6 @@
 ---
 title: Electrolyte Imbalances
+card-icon: flask-outline
 type: index
 tags: [index]
 jurisdiction: [BC, CA]

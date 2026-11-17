@@ -1,5 +1,6 @@
 ---
 title: POCUS
+card-icon: radiology-box-outline
 type: index
 tags: [index]
 jurisdiction: [BC, CA]

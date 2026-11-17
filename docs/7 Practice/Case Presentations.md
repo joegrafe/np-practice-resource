@@ -1,5 +1,6 @@
 ---
 title: Case Presentations
+card-icon: presentation
 type: practice
 tags: [practice, case-presentations, precepting, np-students, snapps, one-minute-preceptor, sbar, clinical-reasoning]
 jurisdiction: [BC, CA]

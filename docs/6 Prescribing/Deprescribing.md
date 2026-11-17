@@ -1,5 +1,6 @@
 ---
 title: Deprescribing
+card-icon: pill-off
 type: prescribing
 tags: [prescribing, deprescribing, polypharmacy, older-adults, medication-review]
 jurisdiction: [BC, CA, INTL]

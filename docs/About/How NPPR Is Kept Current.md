@@ -1,5 +1,6 @@
 ---
 title: How NPPR Is Kept Current
+card-icon: calendar-check-outline
 slug: kept-current
 description: "How NPPR.ca chooses its sources, keeps one current version of each, reviews every page, checks its links and uses AI tools, and how to report a problem."
 type: about

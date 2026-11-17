@@ -14,7 +14,9 @@ redirect_from: [assessments/assessment-resources]  # retired 2026-10-30; its row
      For a sub-folder index, add `section_nav: true` above to show them here too.
      Section plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE (approved by Joe 2026-10-27). -->
 
-*The exam, bedside ultrasound (POCUS), decision rules, screening tools and tests behind a diagnosis: the cross-condition index for NPs. Condition pages keep their own assessment tools and link here.*
+*The exam, bedside ultrasound (POCUS), decision rules, screening tools and tests behind a diagnosis.*
+
+<div class="nppr-filter nppr-filter--pages" data-section="Assessments" data-placeholder="Search all assessments, e.g. knee exam or PHQ-9"></div>
 
 ## In This Section
 - [Lab and Imaging](Lab%20and%20Imaging.md)
@@ -26,3 +28,7 @@ redirect_from: [assessments/assessment-resources]  # retired 2026-10-30; its row
 - [Clinical Decision Rules](Clinical%20Decision%20Rules.md)
 - [Screening Questionnaires and Scales](Screening%20Questionnaires%20and%20Scales.md)
 - [POCUS](POCUS/index.md)
+
+## Also See
+- [Conditions](../3%20Conditions/index.md): each condition page keeps its own assessment tools and calculators.
+- [Procedures](../5%20Procedures/index.md): how to do a hands-on procedure.

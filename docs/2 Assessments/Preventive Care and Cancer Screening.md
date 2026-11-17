@@ -1,5 +1,6 @@
 ---
 title: Preventive Care and Cancer Screening
+card-icon: shield-check-outline
 type: assessment
 tags: [assessment, preventive-care, screening, cancer-screening]
 jurisdiction: [BC, CA, INTL]

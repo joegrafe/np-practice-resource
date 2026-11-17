@@ -1,5 +1,6 @@
 ---
 title: Sexual and Reproductive Health
+card-icon: account-heart-outline
 type: index
 tags: [index]
 jurisdiction: [BC, CA]

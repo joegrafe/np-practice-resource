@@ -1,5 +1,6 @@
 ---
 title: Clinical Decision Rules
+card-icon: source-branch
 type: assessment
 tags: [assessment, decision-rules, calculators, urgent-care]
 jurisdiction: [BC, CA, INTL]

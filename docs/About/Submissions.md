@@ -1,5 +1,6 @@
 ---
 title: Submit a Link
+card-icon: link-variant-plus
 type: about
 tags: [about]
 jurisdiction: [BC, CA]

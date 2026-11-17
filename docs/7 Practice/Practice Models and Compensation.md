@@ -1,5 +1,6 @@
 ---
 title: Practice Models and Compensation
+card-icon: briefcase-outline
 type: practice
 tags: [practice, practice-models, compensation, pcn, np-pip, msp, encounter-records, worksafebc]
 jurisdiction: [BC, "ON"]

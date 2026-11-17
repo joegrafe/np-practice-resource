@@ -10,4 +10,6 @@ status: published
 section_cards: true
 ---
 
-<div class="nppr-filter nppr-filter--pages" data-placeholder="Search all approaches, e.g. pain"></div>
+*Every "approach to" article and pathway each publisher offers, one page per publisher, for working from a presenting complaint to a diagnosis.*
+
+<div class="nppr-filter nppr-filter--pages" data-section="Approaches" data-placeholder="Search all approaches, e.g. pain"></div>

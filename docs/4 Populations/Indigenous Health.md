@@ -1,5 +1,6 @@
 ---
 title: Indigenous Health
+card-icon: feather
 type: population
 tags: [population, indigenous-health, cultural-safety]
 jurisdiction: [BC, "ON", CA]

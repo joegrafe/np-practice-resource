@@ -71,6 +71,11 @@ Checks:
   index-list     a page missing from its folder's In This Section list, or a listed
                  page that no longer exists (a sheet-backed folder index, such as Physical
                  Exam by System, may list its pages as md rows in its sheet)
+  index-blocks   a section index page that leaves the shared blocks (Joe, 2026-11-17): a
+                 hand-written card grid (the build writes the cards from the In This
+                 Section list), no intro line or description, a section search box with
+                 no data-section, Also See before In This Section or not last, or an
+                 In This Section line the build can't turn into a card
   registry-checked  a registry row with no checked date, or one older than 12 months
                  (a warning: a few sites block the build network, see UNOPENED-SOURCES.csv)
   pathways-referral  a condition page with no Pathways BC directory row (registry id
@@ -175,7 +180,7 @@ TEAM_ID = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # network (UNOPENED-SOURCES.csv), to be hand-checked.
 AUDIT_RULES = {"region-order", "intro-in-page", "section-order", "key-sources", "superseded",
                "duplicate", "pdf-alone", "year", "rxfiles", "aafp-first", "jurisdiction",
-               "bc-wording", "md-links", "search", "index-list", "registry-checked", "imaging-section",
+               "bc-wording", "md-links", "search", "index-list", "index-blocks", "registry-checked", "imaging-section",
                "pathways-referral"}
 WARN_ONLY = {"review-due", "registry-checked"}
 # Page standard: section order on a condition page (Review notes and the Evidence Pack
@@ -762,6 +767,43 @@ def audit_indexes(docs, f):
                 f.add("index-list", (sub / HOME).as_posix(), 1, f"This sub-section is not in the In This Section list of {rel}.")
 
 
+INDEX_ITEM = re.compile(r"^(?:- |\s{2,}- )\[[^\]]+\]\([^)\s]+\)(?:\s+—\s+\*.+\*)?\s*$")
+
+
+def audit_index_blocks(docs, f):
+    """index-blocks: every section index page keeps the shared blocks, in order:
+    intro line, section search box, Start Here (optional), In This Section, Also See."""
+    for index in sorted(docs.rglob(HOME)):
+        if index.parent == docs:
+            continue
+        text = index.read_text(encoding="utf-8")
+        m = FRONT.match(text)
+        front = m.group(1) if m else ""
+        if not re.search(r"^type:\s*index\s*$", front, re.M):
+            continue  # a sheet-backed folder index (Physical Exam by System) is a content page
+        rel = index.as_posix()
+        body = COMMENT.sub("", text[m.end():] if m else text)
+        lines = body.splitlines()
+        if "grid cards" in body:
+            f.add("index-blocks", rel, 1, "Hand-written card grid: keep a plain In This Section list, the build writes the cards (hooks/section_pages.py).")
+        if not re.search(r"^description:", front, re.M) and not any(INTRO_LINE.match(line) for line in lines):
+            f.add("index-blocks", rel, 1, "No intro line: add one italic sentence under the frontmatter, or a description.")
+        for line in lines:
+            if "nppr-filter--pages" in line and "data-section=" not in line:
+                f.add("index-blocks", rel, 1, 'Section search box with no data-section="<tab name>".')
+        heads = [line[3:].strip() for line in lines if line.startswith("## ")]
+        if "Also See" in heads and heads[-1] != "Also See":
+            f.add("index-blocks", rel, 1, "Also See is the last block of a section index.")
+        if "In This Section" not in heads and not re.search(r"^section_cards:\s*true\s*$", front, re.M):
+            f.add("index-blocks", rel, 1, "No In This Section list.")
+        inside = False
+        for line in lines:
+            if line.startswith("## "):
+                inside = line[3:].strip() == "In This Section"
+            elif inside and line.strip() and not line.lstrip().startswith("*") and not INDEX_ITEM.match(line):
+                f.add("index-blocks", rel, 1, f"In This Section line the build can't turn into a card (use \"- [Title](Page.md) — *note*\", sub-pages indented): {line.strip()[:60]}")
+
+
 def audit_registry(registry, rel, f):
     """registry-checked, and the map of superseded ids and addresses to their replacements."""
     superseded = {}
@@ -994,6 +1036,7 @@ def main():
                 if re.search(r"^type:\s*condition\s*$", text, re.M):
                     condition_sheets.add(sheet.resolve())
     audit_indexes(docs, f)
+    audit_index_blocks(docs, f)
     team_sheet = docs / TEAM_SHEET
     team = check_team(team_sheet, team_sheet.as_posix(), docs, f) if team_sheet.exists() else {}
     if team:

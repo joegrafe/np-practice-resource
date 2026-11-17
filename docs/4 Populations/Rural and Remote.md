@@ -1,5 +1,6 @@
 ---
 title: Rural and Remote
+card-icon: pine-tree
 type: population
 tags: [population, rural-remote, rural, remote]
 jurisdiction: [BC, "ON", CA]

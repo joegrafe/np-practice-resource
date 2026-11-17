@@ -15,7 +15,7 @@ description: "Where to look when a topic isn't on NPPR yet: provincial guideline
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*General directories that cover many topics at once: guideline directories, evidence summaries, journals, libraries and databases, and CPD. Topic-specific sources live on their own pages: guidelines for a condition on [Conditions](../3%20Conditions/index.md), pathways on [Approaches](../1%20Approaches/index.md), drug references on [Prescribing](../6%20Prescribing/index.md).*
+<div class="nppr-filter nppr-filter--pages" data-section="Resources" data-placeholder="Search all resources, e.g. Cochrane or CPD"></div>
 
 ## Not on NPPR Yet?
 
@@ -32,3 +32,6 @@ Where to look, in this order, for the current source behind an answer when a top
 - [Evidence Summaries and Journals](Evidence%20Summaries%20and%20Journals.md) — *PEER, Tools for Practice, Choosing Wisely Canada and CDA-AMC; the BCMJ, CFP and CMAJ; Trip, Cochrane and PubMed*
 - [Libraries and Databases](Libraries%20and%20Databases.md) — *library access through your employer, college or association, university library guides, and UpToDate, DynaMed and BMJ Best Practice with their free routes*
 - [CPD and Learning](CPD%20and%20Learning.md) — *courses, webinars and podcasts for learning between visits, and CPD funding*
+
+## Also See
+- Topic-specific sources live on their own pages: guidelines for a condition on [Conditions](../3%20Conditions/index.md), pathways on [Approaches](../1%20Approaches/index.md) and drug references on [Prescribing](../6%20Prescribing/index.md).

@@ -19,7 +19,7 @@ redirect_from: [practice/procedures-how-to-guides-and-videos, "6 Practice/Proced
      Ownership: how to do a hands-on procedure, what to check before it, and whether NPs may do it live here; when a procedure
      is indicated stays on the condition page; exams, tests and POCUS stay in Assessments. -->
 
-*How-to guides, videos and aftercare handouts for the hands-on procedures of primary and urgent care, with what to check before any procedure and which procedures nurse practitioners can do. Bedside ultrasound (POCUS) is under [Assessments](../2%20Assessments/POCUS/index.md).*
+<div class="nppr-filter nppr-filter--pages" data-section="Procedures" data-placeholder="Search all procedures, e.g. biopsy or IUD"></div>
 
 ## In This Section
 - [Scope, Training and Privileging](Scope%20Training%20and%20Privileging.md)
@@ -30,3 +30,7 @@ redirect_from: [practice/procedures-how-to-guides-and-videos, "6 Practice/Proced
 - [Ear, Nose and Eye Procedures](Ear%20Nose%20and%20Eye%20Procedures.md)
 - [Sexual and Reproductive Health Procedures](Sexual%20and%20Reproductive%20Health%20Procedures.md)
 - [Injections, Lines and Tests](Injections%20Lines%20and%20Tests.md)
+
+## Also See
+- [POCUS](../2%20Assessments/POCUS/index.md): bedside ultrasound is under Assessments.
+- [Lacerations and Minor Wounds](../3%20Conditions/Dermatology/Lacerations%20and%20Minor%20Wounds.md): laceration repair, and when a procedure is indicated, stay on the condition page.

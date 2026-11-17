@@ -1,5 +1,6 @@
 ---
 title: Older Adults
+card-icon: human-cane
 type: population
 tags: [population, older-adults, geriatrics]
 jurisdiction: [BC, "ON", CA, INTL]

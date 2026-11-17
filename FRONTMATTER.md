@@ -42,6 +42,7 @@ The page's documents are rows of `docs/sources.csv` (Sources registry, below), n
 | `logo` | No | Publisher's own image URL, or `/assets/logos/<name>` | Shown beside the title and on the section card. Link the publisher's file; host a copy in `docs/assets/logos/` only when Joe asks for one. |
 | `logo-alt` | With `logo` | Text | The institution's name, used as the image's alt text. |
 | `logo-bg` | No | CSS colour, quoted | Background behind a logo drawn for dark headers, e.g. `"#111"` for a white logo. |
+| `card-icon` | No | A Material Design icon name, e.g. `heart-pulse` | The icon on this page's card on its section index (hooks/section_pages.py). A page with a `logo` shows the logo; a page with neither takes its index page's icon. Not `icon`, which the theme would also draw in the menus. |
 
 ## Tags
 

@@ -1,5 +1,6 @@
 ---
 title: Cardiovascular
+card-icon: heart-pulse
 type: index
 tags: [index]
 jurisdiction: [BC, CA]

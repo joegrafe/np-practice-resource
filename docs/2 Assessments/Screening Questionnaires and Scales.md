@@ -1,5 +1,6 @@
 ---
 title: Screening Questionnaires and Scales
+card-icon: clipboard-list-outline
 type: assessment
 tags: [assessment, screening, questionnaires, mental-health, substance-use, cognition, frailty, pediatrics]
 jurisdiction: [BC, "ON", CA, INTL]

@@ -1,5 +1,6 @@
 ---
 title: Trans Care
+card-icon: gender-transgender
 type: population
 tags: [population, trans-care, gender-affirming-care]
 jurisdiction: [BC, "ON", CA, INTL]

@@ -1,5 +1,6 @@
 ---
 title: Mental Health and Substance Use
+card-icon: head-heart-outline
 type: index
 tags: [index]
 jurisdiction: [BC, CA]

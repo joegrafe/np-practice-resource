@@ -1,5 +1,6 @@
 ---
 title: "Scope, Training and Privileging"
+card-icon: certificate-outline
 type: procedure
 tags: [procedure, scope, privileging, credentialing, training, competence, bccnm, students]
 jurisdiction: [BC, "ON", CA]

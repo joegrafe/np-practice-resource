@@ -1,5 +1,6 @@
 ---
 title: Eyes, Ears, Nose and Throat
+card-icon: ear-hearing
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
@@ -18,4 +19,5 @@ hide: [comments]
 - [Anaphylaxis](Anaphylaxis.md)
 - [Red Eye](Red%20Eye.md)
 
-Sore throat and sinusitis are on [Respiratory Tract Infections](../Infectious%20Disease/Respiratory%20Tract%20Infections.md). For the eye and ear exam, see [Physical Exam by System](../../2%20Assessments/Physical%20Exam%20by%20System/index.md).
+## Also See
+- Sore throat and sinusitis are on [Respiratory Tract Infections](../Infectious%20Disease/Respiratory%20Tract%20Infections.md). For the eye and ear exam, see [Physical Exam by System](../../2%20Assessments/Physical%20Exam%20by%20System/index.md).

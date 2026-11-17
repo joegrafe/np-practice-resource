@@ -1,5 +1,6 @@
 ---
 title: Musculoskeletal
+card-icon: bone
 type: index
 tags: [index]
 jurisdiction: [BC, CA]

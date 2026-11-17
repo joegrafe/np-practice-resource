@@ -1,5 +1,6 @@
 ---
 title: Lab and Imaging
+card-icon: test-tube
 type: assessment
 tags: [assessment, lab-tests, imaging, ecg, spirometry]
 aliases: [lab tests, blood tests, imaging, x-ray, ECG, EKG, electrocardiogram, ECG interpretation, reading an ECG, ECG library, LITFL, spirometry interpretation, reading spirometry, PFT, pulmonary function test, FEV1, FVC]

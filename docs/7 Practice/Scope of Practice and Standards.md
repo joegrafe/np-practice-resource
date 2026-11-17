@@ -1,5 +1,6 @@
 ---
 title: Scope of Practice and Standards
+card-icon: scale-balance
 type: practice
 tags: [practice, scope, bccnm, standards]
 jurisdiction: [BC, "ON"]

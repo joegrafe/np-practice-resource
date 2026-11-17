@@ -1,5 +1,6 @@
 ---
 title: Immunization
+card-icon: needle
 type: prescribing
 tags: [prescribing, immunization, vaccines]
 jurisdiction: [BC, "ON", CA]

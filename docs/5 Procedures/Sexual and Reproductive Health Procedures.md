@@ -1,5 +1,6 @@
 ---
 title: Sexual and Reproductive Health Procedures
+card-icon: gender-male-female
 type: procedure
 tags: [procedure, sexual-and-reproductive-health, iud, pessary, contraception]
 jurisdiction: [BC, CA, INTL]

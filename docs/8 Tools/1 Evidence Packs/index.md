@@ -1,5 +1,6 @@
 ---
 title: Evidence Packs
+card-icon: package-variant-closed
 type: index
 tags: [index]
 jurisdiction: [BC, CA]

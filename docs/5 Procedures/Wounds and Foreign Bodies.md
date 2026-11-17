@@ -1,5 +1,6 @@
 ---
 title: Wounds and Foreign Bodies
+card-icon: bandage
 type: procedure
 tags: [procedure, wounds, suturing, foreign-body, minor-surgery]
 jurisdiction: [BC, CA, INTL]

@@ -1,5 +1,6 @@
 ---
 title: Dermatology
+card-icon: hand-back-left-outline
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
@@ -18,6 +19,6 @@ reviewers: [joegrafe]
 - [Lacerations and Minor Wounds](Lacerations%20and%20Minor%20Wounds.md)
 - [Psoriasis](Psoriasis.md)
 
-Skin infections and shingles are under [Infectious Disease](../Infectious%20Disease/index.md).
-
-For describing lesions, skin checks, dermoscopy, skin of colour and pediatric rashes, see [Skin Exam](../../2%20Assessments/Physical%20Exam%20by%20System/Skin%20Exam.md).
+## Also See
+- Skin infections and shingles are under [Infectious Disease](../Infectious%20Disease/index.md).
+- For describing lesions, skin checks, dermoscopy, skin of colour and pediatric rashes, see [Skin Exam](../../2%20Assessments/Physical%20Exam%20by%20System/Skin%20Exam.md).
