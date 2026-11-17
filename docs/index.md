@@ -1,10 +1,11 @@
 ---
 title: Home
+seo_title: "NP Practice Resource: BC and Canadian Guidelines for Nurse Practitioners and NP Students"
 section_nav: false
 ---
 # Nurse Practitioner Practice Resource
 
-<p class="nppr-hero">A free, curated index of current provincial and Canadian practice sources for nurse practitioners and students.</p>
+<p class="nppr-hero">A free, curated index of current provincial and Canadian practice sources for nurse practitioners and NP students.</p>
 
 <div class="grid cards nppr-cards nppr-steps" markdown>
 
@@ -35,6 +36,12 @@ section_nav: false
 -   :material-toolbox-outline:{ .nppr-icon } <span class="nppr-step">Step 7 · Document</span> [**Tools**](8%20Tools/index.md)
 
     Checking AI output, AI scribes, consent and safe use, and loading sources into AI tools.
+
+</div>
+
+<div class="nppr-lens" markdown>
+
+:material-school-outline:{ .nppr-icon } **[For NP Students](7%20Practice/For%20NP%20Students.md)**: presenting to your preceptor (SNAPPS), exam by system, decision rules, procedures and the licensure exam, in the order of a placement day.
 
 </div>
 
