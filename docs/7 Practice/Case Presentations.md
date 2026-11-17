@@ -33,7 +33,9 @@ description: "How nurse practitioner students present a patient to a preceptor: 
      reasoning glossary (Joe: not available) and Fleming 2012; Chang 1998 linked by its PubMed record after Joe opened it. Left out: MedEdPORTAL illness script and summary statement
      workshops (teaching sessions, site blocks the build network); Nendaz 2002, Bordage 2007, Deschênes 2025 (research, not for the
      bedside); ONPEC preceptor support (no public content; Ontario sweep found nothing else Ontario-only). No Strong Diagnosis playlist
-     exists, so the series videos sit beside the main one. -->
+     exists, so the series videos sit beside the main one.
+     Removed 2026-11-17 at Joe's ask: Castillo and Chaplin 2025 and Wolpaw 2009 (full text not available through UNBC).
+     The USask Clinical Teaching Tips row links its PDF alone (url "-"): Joe removed its web page link on 2026-11-17. -->
 
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. SNAPPS"></div>
