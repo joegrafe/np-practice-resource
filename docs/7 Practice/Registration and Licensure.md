@@ -8,7 +8,8 @@ status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
-aliases: [CNO, College of Nurses of Ontario, Extended Class, jurisprudence exam, QA Every Day]
+aliases: [CNPLE, NP licensing exam, new grad NP, NP student, CNO, College of Nurses of Ontario, Extended Class, jurisprudence exam, QA Every Day]
+seo_title: "NP Licensure in Canada: CNPLE, BCCNM and CNO Registration | NPPR"
 description: "Getting and keeping a nurse practitioner licence: the regulator's applications, exams, annual renewal and quality assurance, liability protection through CNPS, and the provincial billing or practitioner number."
 ---
 <!-- Practice wave 2 (plan: https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc, approved by Joe 2026-10-27).

@@ -25,6 +25,7 @@ redirect_from: [practice/associations, "4 Resources/Associations", "6 Practice/A
 - [Practice Models and Compensation](Practice%20Models%20and%20Compensation.md)
 - [Documentation, Privacy and Records](Documentation%20Privacy%20and%20Records.md)
 - [Consultation, Referral and Advice](Consultation%20Referral%20and%20Advice.md)
+- [For NP Students](For%20NP%20Students.md)
 - [Case Presentations](Case%20Presentations.md)
 - [Forms and Duty to Report](Forms%20and%20Duty%20to%20Report.md)
 - [Community of Practice](Community%20of%20Practice.md)

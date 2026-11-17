@@ -9,7 +9,8 @@ status: published
 last-reviewed: 2026-10-29
 review-due: 2027-10-29
 reviewers: [joegrafe]
-aliases: [starting NP practice in BC, starting in Ontario, new NP Ontario, new graduate checklist]
+aliases: [new grad NP, new graduate nurse practitioner, first NP job, NP student, starting NP practice in BC, starting in Ontario, new NP Ontario, new graduate checklist]
+seo_title: "Starting NP Practice in Canada: New Grad Nurse Practitioner Checklist | NPPR"
 description: "A checklist for starting nurse practitioner practice, from licensure, liability protection and billing enrolment to drug information systems, controlled drug prescribing, a primary care contract, records and peer support, with links to each step's source."
 ---
 <!-- Practice wave 2 (plan: https://claude.ai/artifact/Fsisf7tmgnWJ9xwcKp2bHc, approved by Joe 2026-10-27).
