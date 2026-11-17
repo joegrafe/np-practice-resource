@@ -253,7 +253,6 @@ ohri.ca
 *.ohri.ca
 oipc.bc.ca
 oma.org
-omdpracticehub.com
 onlinecjc.ca
 ontario.ca
 *.ontario.ca

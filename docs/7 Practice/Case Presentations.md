@@ -29,7 +29,7 @@ description: "How nurse practitioner students present a patient to a preceptor: 
      educational and professional practice resources): added Clinical Reasoning in Your Presentation (Strong Medicine, Clinical Problem
      Solvers), NP Competencies and the Licensure Exam (BCCNM and CCRNR entry-level competencies, CCRNR practice analysis), Bowen 2006
      for preceptors and a Preceptor Development subsection (PEP, CFPC FTA framework). On UNOPENED-SOURCES.csv: the UCSF clinical
-     reasoning glossary, Chang 1998 and Fleming 2012 (publisher blocks). Left out: MedEdPORTAL illness script and summary statement
+     reasoning glossary (Joe: not available) and Fleming 2012; Chang 1998 linked by its PubMed record after Joe opened it. Left out: MedEdPORTAL illness script and summary statement
      workshops (teaching sessions, site blocks the build network); Nendaz 2002, Bordage 2007, Deschênes 2025 (research, not for the
      bedside); ONPEC preceptor support (no public content; Ontario sweep found nothing else Ontario-only). No Strong Diagnosis playlist
      exists, so the series videos sit beside the main one. -->
