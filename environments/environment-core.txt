@@ -156,6 +156,7 @@ eczemahelp.ca
 eczemasociety.ca
 ehealthontario.on.ca
 ehlbc.ca
+emdocs.net
 ementalhealth.ca
 emergencycarebc.ca
 empathia.ai
@@ -204,6 +205,7 @@ icbc.com
 *.icbc.com
 iconproject.org
 idsociety.org
+ihi.org
 imsociety.org
 inclusionbc.org
 indigenoushealthnh.ca
@@ -219,6 +221,7 @@ ismp-canada.org
 issbc.org
 jaad.org
 jaadinternational.org
+jabfm.org
 jamanetwork.com
 jogc.com
 jrheum.org
@@ -253,7 +256,6 @@ mchatscreen.com
 mcmaster.ca
 *.mcmaster.ca
 mdcalc.com
-medsafer.org
 menopause.org
 menopauseandu.ca
 menopausefoundationcanada.ca
@@ -261,21 +263,11 @@ merckmanuals.com
 metaphi.ca
 migrainecanada.org
 mini-cog.com
-mja.com.au
-mnbc.ca
-mocacognition.com
-monash.edu
-monashfodmap.com
-mosaicbc.org
 mq6.ca
-mutuohealth.com
 mysleepwell.ca
 ncbi.nlm.nih.gov
-nccid.ca
-nccih.ca
 nedic.ca
 nejm.org
-nhconnections.ca
 nice.org.uk
 *.nice.org.uk
 nimh.nih.gov
@@ -286,6 +278,7 @@ nnpbc.com
 northernhealth.ca
 *.northernhealth.ca
 npao.org
+npjournal.org
 nurses.ab.ca
 *.nurses.ab.ca
 obesitycanada.ca
@@ -337,6 +330,8 @@ resus.org.uk
 rheum.ca
 rheuminfo.com
 rourkebabyrecord.ca
+royalcollege.ca
+*.royalcollege.ca
 rxfiles.ca
 sagepub.com
 *.sagepub.com
@@ -376,7 +371,12 @@ ucalgary.ca
 *.ucalgary.ca
 ucsd.edu
 *.ucsd.edu
+ucsf.edu
+*.ucsf.edu
+uhn.ca
 uptodate.com
+usask.ca
+*.usask.ca
 uspreventiveservicestaskforce.org
 utah.edu
 *.utah.edu

@@ -126,6 +126,7 @@ echoontario.ca
 eczemasociety.ca
 ehealthontario.on.ca
 ehlbc.ca
+emdocs.net
 emergencymedicinecases.com
 endocrine.org
 eyeguru.org
@@ -168,6 +169,7 @@ hypertension.ca
 icbc.com
 *.icbc.com
 idsociety.org
+ihi.org
 immunizebc.ca
 imsociety.org
 infoway-inforoute.ca
@@ -181,6 +183,7 @@ islandhealth.ca
 *.islandhealth.ca
 jaad.org
 jaadinternational.org
+jabfm.org
 jamanetwork.com
 jogc.com
 jrheum.org
@@ -235,6 +238,7 @@ northernhealth.ca
 *.northernhealth.ca
 nosm.ca
 npao.org
+npjournal.org
 nurses.ab.ca
 *.nurses.ab.ca
 obesitycanada.ca
@@ -304,6 +308,7 @@ rheumatology.org
 rheuminfo.com
 rourkebabyrecord.ca
 rxfiles.ca
+saem.org
 sagepub.com
 *.sagepub.com
 saskoer.ca
@@ -332,6 +337,8 @@ thelungcentre.ca
 thennt.com
 theromefoundation.org
 thinklabs.com
+thriveap.com
+*.thriveap.com
 thrombosiscanada.ca
 torontomu.ca
 *.torontomu.ca
@@ -347,6 +354,8 @@ ucalgary.ca
 *.ucalgary.ca
 ucsd.edu
 *.ucsd.edu
+ucsf.edu
+*.ucsf.edu
 umich.edu
 *.umich.edu
 unlockfood.ca
