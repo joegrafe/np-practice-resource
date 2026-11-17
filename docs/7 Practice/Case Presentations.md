@@ -22,7 +22,7 @@ description: "How nurse practitioner students present a patient to a preceptor: 
      Publishing) are linked by their PubMed record, as the Wolpaw rows are. Left out: Johnson 2018, Davis 2021, Gilbert 2025 and
      Mackey 2026 (NP school teaching projects, not for the student or preceptor at the bedside); Melvin 2016 JAMA (no abstract
      to check).
-     Reordered 2026-11-17 (Joe: student and presenter sources first, preceptor resources below, research cut to the highest yield):
+     Reordered 2026-11-17 (Joe: student and presenter sources first, ThriveAP removed, preceptor resources below, research cut to the highest yield):
      Evidence keeps Grünewald 2023 (meta-analysis of randomized trials of both methods); Flores-Cohaila 2024, Pierce 2020,
      Munguiko 2026 and Fagundes 2020 were removed (they stay in Joe's Zotero SNAPPS folder). -->
 
