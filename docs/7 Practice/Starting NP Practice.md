@@ -1,5 +1,6 @@
 ---
 title: Starting NP Practice
+card-icon: flag-checkered
 redirect_from: [practice/starting-np-practice-in-bc]
 type: practice
 tags: [practice, checklist, new-graduate, registration, msp, pharmanet, pcn]

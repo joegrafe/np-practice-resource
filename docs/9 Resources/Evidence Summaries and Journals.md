@@ -1,5 +1,6 @@
 ---
 title: "Evidence Summaries and Journals"
+card-icon: newspaper-variant-outline
 type: resource
 tags: [resource, evidence-summaries, journals]
 aliases: [peer, peer evidence, peerevidence, tools for practice, tfp, choosing wisely, evidence summary, journals, cfp, cmaj, bcmj, trip, cochrane, pubmed, systematic review, cadth]

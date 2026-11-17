@@ -1,5 +1,6 @@
 ---
 title: Forms and Duty to Report
+card-icon: file-document-edit-outline
 type: practice
 tags: [practice, forms, duty-to-report, driver-fitness, worksafebc, icbc, reportable-diseases, child-protection]
 jurisdiction: [BC, "ON", CA]

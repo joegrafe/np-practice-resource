@@ -1,5 +1,6 @@
 ---
 title: Templates
+card-icon: file-document-multiple-outline
 type: index
 tags: [index]
 jurisdiction: [BC, CA]

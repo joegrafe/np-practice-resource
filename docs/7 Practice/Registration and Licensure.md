@@ -1,5 +1,6 @@
 ---
 title: Registration and Licensure
+card-icon: card-account-details-outline
 type: practice
 tags: [practice, registration, licensure, bccnm, quality-assurance, cnps]
 jurisdiction: [BC, "ON", CA]

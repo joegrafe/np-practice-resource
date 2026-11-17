@@ -1,5 +1,6 @@
 ---
 title: Infectious Disease
+card-icon: virus-outline
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
@@ -14,10 +15,11 @@ hide: [comments]
 ## In This Section
 
 - [Cellulitis and Skin Infections](Cellulitis%20and%20Skin%20Infections.md)
-- [Fever in Young Children](../../4%20Populations/Pediatrics/Fever%20in%20Young%20Children.md) (pediatric, under Populations)
-- [Gastroenteritis and Dehydration](../../4%20Populations/Pediatrics/Gastroenteritis%20and%20Dehydration.md) (pediatric, under Populations)
+- [Fever in Young Children](../../4%20Populations/Pediatrics/Fever%20in%20Young%20Children.md) — *pediatric, under Populations*
+- [Gastroenteritis and Dehydration](../../4%20Populations/Pediatrics/Gastroenteritis%20and%20Dehydration.md) — *pediatric, under Populations*
 - [Herpes Zoster (Shingles)](Herpes%20Zoster%20%28Shingles%29.md)
 - [Post COVID-19 Condition (Long COVID)](Post%20COVID-19%20Condition.md)
 - [Respiratory Tract Infections](Respiratory%20Tract%20Infections.md)
 
-Ear and eye infections are under [Eyes, Ears, Nose and Throat](../Eyes%2C%20Ears%2C%20Nose%20and%20Throat/index.md).
+## Also See
+- Ear and eye infections are under [Eyes, Ears, Nose and Throat](../Eyes%2C%20Ears%2C%20Nose%20and%20Throat/index.md).

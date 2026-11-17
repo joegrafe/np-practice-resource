@@ -1,5 +1,6 @@
 ---
 title: Opioids, Controlled Drugs and Substance Use
+card-icon: shield-alert-outline
 type: prescribing
 tags: [prescribing, opioids, controlled-drugs, substance-use, benzodiazepines, alcohol, tobacco, naloxone]
 jurisdiction: [BC, "ON", CA, INTL]

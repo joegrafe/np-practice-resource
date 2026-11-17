@@ -1,5 +1,6 @@
 ---
 title: Install as an App
+card-icon: cellphone-arrow-down
 description: "Add NPPR.ca to your phone's home screen so it opens like an app."
 type: about
 tags: [about]

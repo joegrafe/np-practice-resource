@@ -1,5 +1,6 @@
 ---
 title: Newcomers and Refugees
+card-icon: earth
 type: population
 tags: [population, newcomers, refugees, immigrants]
 jurisdiction: [BC, "ON", CA, INTL]

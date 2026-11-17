@@ -1,5 +1,6 @@
 ---
 title: Contact
+card-icon: email-outline
 description: "Send a question, correction or idea to NPPR.ca."
 type: about
 tags: [about]

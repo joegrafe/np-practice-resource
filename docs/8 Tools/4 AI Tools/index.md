@@ -1,5 +1,6 @@
 ---
 title: AI Tools
+card-icon: robot-outline
 type: index
 tags: [index, ai-tools]
 jurisdiction: [BC, CA, INTL]

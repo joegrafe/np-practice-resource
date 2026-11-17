@@ -1,5 +1,6 @@
 ---
 title: "Injections, Lines and Tests"
+card-icon: needle
 type: procedure
 tags: [procedure, injections, immunization, tb-skin-test, venipuncture]
 jurisdiction: [BC, CA, INTL]

@@ -1,5 +1,6 @@
 ---
 title: Pediatrics
+card-icon: baby-face-outline
 type: population
 tags: [population, pediatrics, adolescents, urgent-care]
 redirect_from: [populations/canadian-paediatric-society, populations/rourke-baby-record]  # stubs folded in 2026-10-29

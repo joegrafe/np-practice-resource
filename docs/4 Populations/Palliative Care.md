@@ -1,5 +1,6 @@
 ---
 title: Palliative Care
+card-icon: hand-heart-outline
 type: population
 tags: [population, palliative-care, end-of-life, hospice, serious-illness, advance-care-planning, grief, pain, older-adults, cancer]
 jurisdiction: [BC, "ON", CA]

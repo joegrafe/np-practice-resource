@@ -1,5 +1,6 @@
 ---
 title: Skin and Nail Procedures
+card-icon: content-cut
 type: procedure
 tags: [procedure, skin, nails, biopsy, minor-surgery]
 jurisdiction: [BC, CA, INTL]

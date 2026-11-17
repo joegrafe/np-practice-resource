@@ -1,5 +1,6 @@
 ---
 title: Antimicrobials
+card-icon: bacteria-outline
 type: prescribing
 tags: [prescribing, antimicrobials, antibiotics, antimicrobial-stewardship, penicillin-allergy]
 jurisdiction: [BC, CA, INTL]

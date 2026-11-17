@@ -1,5 +1,6 @@
 ---
 title: Neurology
+card-icon: brain
 type: index
 tags: [index]
 jurisdiction: [BC, CA]

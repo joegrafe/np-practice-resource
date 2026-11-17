@@ -1,5 +1,6 @@
 ---
 title: "Joint Injections, Splints and Reductions"
+card-icon: arm-flex-outline
 type: procedure
 tags: [procedure, joint-injection, splinting, casting, musculoskeletal]
 jurisdiction: [BC, CA, INTL]

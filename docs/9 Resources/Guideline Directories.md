@@ -1,5 +1,6 @@
 ---
 title: "Guideline Directories"
+card-icon: bookshelf
 type: resource
 tags: [resource, guidelines, guideline-directories]
 aliases: [guidelines, guideline library, clinical practice guidelines, cpg, bc guidelines, gpac, task force, ctfphc, specialty society guidelines, nice, uspstf]

@@ -1,5 +1,6 @@
 ---
 title: Gastrointestinal and Liver
+card-icon: stomach
 type: index
 tags: [index]
 jurisdiction: [BC, CA]

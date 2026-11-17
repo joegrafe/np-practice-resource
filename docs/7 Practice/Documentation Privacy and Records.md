@@ -1,5 +1,6 @@
 ---
 title: Documentation, Privacy and Records
+card-icon: file-lock-outline
 type: practice
 tags: [practice, documentation, privacy, confidentiality, records, emr, virtual-care, pipa, fippa]
 jurisdiction: [BC, "ON", CA]

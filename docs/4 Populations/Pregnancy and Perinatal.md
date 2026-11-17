@@ -1,5 +1,6 @@
 ---
 title: Pregnancy and Perinatal
+card-icon: human-pregnant
 type: population
 tags: [population, pregnancy, lactation, pregnancy-and-perinatal]
 jurisdiction: [BC, "ON", CA, INTL]

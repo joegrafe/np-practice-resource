@@ -1,5 +1,6 @@
 ---
 title: CPD and Learning
+card-icon: school-outline
 aliases: [cpd, continuing professional development, continuing education, ce, cme, learning, webinars, courses, podcasts, clinically speaking, ubc cpd, np cpd, cpd funding, cpd reimbursement, mainpro, cfpclearn, learninghub, bloomberg nursing cpd]
 type: resource
 tags: [resource, cpd, learning]

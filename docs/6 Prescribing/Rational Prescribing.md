@@ -1,5 +1,6 @@
 ---
 title: Rational Prescribing
+card-icon: head-cog-outline
 type: prescribing
 tags: [prescribing, rational-prescribing]
 jurisdiction: [BC, CA, INTL]

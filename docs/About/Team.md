@@ -1,5 +1,6 @@
 ---
 title: Team
+card-icon: account-group-outline
 description: "The editors, reviewers and contributors who build and check NPPR.ca, and how to join them."
 type: about
 tags: [about]

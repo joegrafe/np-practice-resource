@@ -1,5 +1,6 @@
 ---
 title: Before Any Procedure
+card-icon: clipboard-check-outline
 type: procedure
 tags: [procedure, consent, infection-control, local-anesthesia, procedural-pain]
 jurisdiction: [BC, "ON", CA, INTL]

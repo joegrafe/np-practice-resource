@@ -1,5 +1,6 @@
 ---
 title: Prescribing Authority
+card-icon: prescription
 type: practice
 tags: [practice, prescribing, bccnm, controlled-drugs, pharmanet, prime]
 jurisdiction: [BC, "ON", CA]

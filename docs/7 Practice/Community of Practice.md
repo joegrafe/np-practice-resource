@@ -1,5 +1,6 @@
 ---
 title: Community of Practice
+card-icon: account-multiple-outline
 type: practice
 tags: [practice, community-of-practice, mentorship, peer-support, echo, np-circle]
 jurisdiction: [BC, "ON", CA]

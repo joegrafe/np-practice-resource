@@ -1,5 +1,6 @@
 ---
 title: Women's Health
+card-icon: gender-female
 type: population
 tags: [population, womens-health]
 jurisdiction: [BC, "ON", CA, INTL]
