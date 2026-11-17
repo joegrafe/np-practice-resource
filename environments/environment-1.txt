@@ -260,8 +260,6 @@ ontariohealth.ca
 ontariorenalnetwork.ca
 ophthalmology.ca
 optometrists.ca
-osteopathic.org
-*.osteopathic.org
 osteoporosis.ca
 otnhub.ca
 oup.com

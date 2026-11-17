@@ -40,7 +40,7 @@ description: "How nurse practitioner students present a patient to a preceptor: 
      toolkit's patient presentations section. Left out: Aquifer Oral Presentation Skills and SHM's guide (subscription or login), the
      UCalgary-hosted 'Art of Mastering Oral Case Presentations' (American, inpatient rounds), Dalhousie's SNAPPS summary (pharmacy
      drug therapy problems), Johnson et al. 2018 (an NP teaching study; the free copy is the author's school's, not the publisher's).
-     The DO's 2020 article with Misra's Tips and Tricks handout is on UNOPENED-SOURCES.csv. -->
+     The DO's 2020 article with Misra's Tips and Tricks handout added after Joe opened both (the site blocks the build network). -->
 
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. SNAPPS"></div>
