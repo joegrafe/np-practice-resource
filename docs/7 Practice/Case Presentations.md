@@ -8,7 +8,7 @@ status: published
 last-reviewed: 2026-11-17
 review-due: 2027-11-17
 reviewers: [joegrafe]
-aliases: [case presentation, oral case presentation, presenting a patient, present a patient, patient presentation, presenting to preceptor, preceptor, precepting, preceptorship, clinical teaching, NP student, nurse practitioner student, student, clinical placement, SNAPPS, one minute preceptor, one-minute preceptor, OMP, microskills, five microskills, RIME, clinical reasoning, diagnostic reasoning, problem representation, semantic qualifiers, semantic qualifier, summary statement, one-liner, one liner, illness script, illness scripts, Strong Medicine, Strong Diagnosis, entry-level competencies, NP entry-level competencies, ELC, CNPLE, NP licensure exam, preceptor education program, PEP, preceptor training, faculty development, SBAR, ISBAR, situation background assessment recommendation, calling a consult, feedback]
+aliases: [case presentation, signpost method, oral case presentation, presenting a patient, present a patient, patient presentation, presenting to preceptor, preceptor, precepting, preceptorship, clinical teaching, NP student, nurse practitioner student, student, clinical placement, SNAPPS, one minute preceptor, one-minute preceptor, OMP, microskills, five microskills, RIME, clinical reasoning, diagnostic reasoning, problem representation, semantic qualifiers, semantic qualifier, summary statement, one-liner, one liner, illness script, illness scripts, Strong Medicine, Strong Diagnosis, entry-level competencies, NP entry-level competencies, ELC, CNPLE, NP licensure exam, preceptor education program, PEP, preceptor training, faculty development, SBAR, ISBAR, situation background assessment recommendation, calling a consult, feedback]
 description: "How nurse practitioner students present a patient to a preceptor: oral case presentation formats, problem representation and semantic qualifiers, SNAPPS, urgent care presentations, SBAR and the NP entry-level competencies, with preceptor resources (the One-Minute Preceptor, supervision, feedback and preceptor courses) below."
 ---
 <!-- Built 2026-11-17 at Joe's ask ("case presentations for students presenting their patient to their preceptors").
@@ -35,7 +35,12 @@ description: "How nurse practitioner students present a patient to a preceptor: 
      bedside); ONPEC preceptor support (no public content; Ontario sweep found nothing else Ontario-only). No Strong Diagnosis playlist
      exists, so the series videos sit beside the main one.
      Removed 2026-11-17 at Joe's ask: Castillo and Chaplin 2025 and Wolpaw 2009 (full text not available through UNBC).
-     The USask Clinical Teaching Tips row links its PDF alone (url "-"): Joe removed its web page link on 2026-11-17. -->
+     The USask Clinical Teaching Tips row links its PDF alone (url "-"): Joe removed its web page link on 2026-11-17.
+     More presenting sources (2026-11-17, Joe's ask): the UCalgary Signpost Method video, STFM's ambulatory rotation guide and the AAMC
+     toolkit's patient presentations section. Left out: Aquifer Oral Presentation Skills and SHM's guide (subscription or login), the
+     UCalgary-hosted 'Art of Mastering Oral Case Presentations' (American, inpatient rounds), Dalhousie's SNAPPS summary (pharmacy
+     drug therapy problems), Johnson et al. 2018 (an NP teaching study; the free copy is the author's school's, not the publisher's).
+     The DO's 2020 article with Misra's Tips and Tricks handout is on UNOPENED-SOURCES.csv. -->
 
 
 <div class="nppr-filter" data-ai="off" data-placeholder="Filter, e.g. SNAPPS"></div>

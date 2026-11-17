@@ -1,4 +1,6 @@
 aafp.org
+aamc.org
+*.aamc.org
 aao.org
 aap.org
 *.aap.org
@@ -264,6 +266,8 @@ ophthalmology.ca
 optionsforsexualhealth.org
 optometrists.ca
 orthobullets.com
+osteopathic.org
+*.osteopathic.org
 osteoporosis.ca
 osteostrategy.on.ca
 otn.ca
@@ -328,6 +332,7 @@ stanford.edu
 *.stanford.edu
 stanford25.org
 stethopedia.ca
+stfm.org
 strokebestpractices.ca
 surreyplace.ca
 *.surreyplace.ca
