@@ -3,10 +3,10 @@ title: What's New
 type: index
 tags: [index]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-11-17
 review-due: 2027-11-17
-reviewers: []
+reviewers: [joegrafe]
 description: "Pages added to NPPR and pages whose sources were re-checked, newest first, with a feed to follow."
 aliases: [whats new, new pages, recent updates, recently updated, latest changes, changelog, updates feed, RSS, Atom feed]
 section_cards: false
