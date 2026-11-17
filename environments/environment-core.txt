@@ -117,8 +117,6 @@ columbia.edu
 communitylivingbc.ca
 compassbc.ca
 concussionsontario.org
-confex.com
-*.confex.com
 contentstack.io
 *.contentstack.io
 cpocus.ca
@@ -255,6 +253,8 @@ mcc.ca
 mcgill.ca
 *.mcgill.ca
 mchatscreen.com
+mcmaster.ca
+*.mcmaster.ca
 mdcalc.com
 menopause.org
 menopauseandu.ca

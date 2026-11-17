@@ -91,8 +91,6 @@ columbia.edu
 compassbc.ca
 concussionmanagement.com
 concussionsontario.org
-confex.com
-*.confex.com
 connexontario.ca
 contentstack.io
 *.contentstack.io
@@ -273,7 +271,6 @@ ox.ac.uk
 painbc.ca
 *.painbc.ca
 paincanada.ca
-parachute.ca
 pathwaysbc.ca
 patienteduc.ca
 *.patienteduc.ca

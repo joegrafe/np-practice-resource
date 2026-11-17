@@ -103,8 +103,6 @@ cochranelibrary.com
 communitylivingbc.ca
 compassbc.ca
 concussionsontario.org
-confex.com
-*.confex.com
 cpocus.ca
 cps.ca
 *.cps.ca
