@@ -298,7 +298,7 @@ def check_page(path, rel, text, f, source_ids):
             bad = [t for t in tags if not isinstance(t, str) or not SLUG.match(t)]
             if bad:
                 f.add("frontmatter", rel, ln("tags"), f"Tags must be lowercase and hyphenated: {', '.join(map(str, bad))}.")
-            if ptype in TYPES and tags[0] != ptype and ptype not in NO_SOURCES:
+            if ptype in TYPES and tags[0] != ptype:
                 f.add("frontmatter", rel, ln("tags"), f"First tag should be the page type '{ptype}'.")
     if "reviewers" in meta and not isinstance(meta["reviewers"], list):
         f.add("frontmatter", rel, ln("reviewers"), "reviewers must be a list, [] while in draft.")
