@@ -3,10 +3,10 @@ title: Case Presentations
 type: practice
 tags: [practice, case-presentations, precepting, np-students, snapps, one-minute-preceptor, sbar]
 jurisdiction: [BC, CA]
-status: draft
+status: published
 last-reviewed: 2026-11-17
 review-due: 2027-11-17
-reviewers: []
+reviewers: [joegrafe]
 aliases: [case presentation, oral case presentation, presenting a patient, present a patient, patient presentation, presenting to preceptor, preceptor, precepting, preceptorship, clinical teaching, NP student, nurse practitioner student, student, clinical placement, SNAPPS, one minute preceptor, one-minute preceptor, OMP, microskills, five microskills, RIME, clinical reasoning, SBAR, ISBAR, situation background assessment recommendation, calling a consult, feedback]
 description: "How nurse practitioner students present a patient to a preceptor, and how preceptors teach from it: oral case presentation formats, SNAPPS, the One-Minute Preceptor, urgent care presentations and SBAR."
 ---
