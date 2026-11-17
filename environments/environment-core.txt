@@ -1,5 +1,7 @@
 aafp.org
 aao.org
+aap.org
+*.aap.org
 aboutkidshealth.ca
 accessalliance.ca
 acneandrosacea.ca
@@ -86,6 +88,7 @@ canuckplace.org
 car.ca
 cattonline.com
 ccirhken.ca
+ccrnr.ca
 ccs.ca
 ccsa.ca
 ccsmh.ca
@@ -105,6 +108,7 @@ childhealthbc.ca
 choosingwiselycanada.org
 cirrhosiscare.ca
 ckdpathway.ca
+clinicalproblemsolving.com
 clwk.ca
 cma.ca
 cmaj.ca
@@ -245,16 +249,12 @@ lung.ca
 lunghealth.ca
 *.lunghealth.ca
 lww.com
-magicapp.org
-*.magicapp.org
 mayoclinic.org
 *.mayoclinic.org
 mcc.ca
 mcgill.ca
 *.mcgill.ca
 mchatscreen.com
-mcmaster.ca
-*.mcmaster.ca
 mdcalc.com
 menopause.org
 menopauseandu.ca

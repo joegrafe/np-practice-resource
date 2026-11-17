@@ -1,4 +1,6 @@
 aafp.org
+aap.org
+*.aap.org
 aboutkidshealth.ca
 acneandrosacea.ca
 aidecanada.ca
@@ -75,6 +77,7 @@ canuckplace.org
 car.ca
 cattonline.com
 ccirhken.ca
+ccrnr.ca
 ccs.ca
 ccsa.ca
 ccsmh.ca
@@ -255,7 +258,6 @@ onlinecjc.ca
 ontario.ca
 *.ontario.ca
 ontariohealth.ca
-ontariomidwives.ca
 ontariorenalnetwork.ca
 ophthalmology.ca
 optometrists.ca
@@ -281,6 +283,7 @@ phsa.ca
 *.phsa.ca
 physio-pedia.com
 picnet.ca
+preceptor.ca
 primarycarealberta.ca
 psbchealthhub.ca
 *.psbchealthhub.ca
@@ -381,3 +384,4 @@ wiley.com
 *.wiley.com
 worksafebc.com
 wsib.ca
+youtube.com

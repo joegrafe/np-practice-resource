@@ -1,6 +1,7 @@
 aafp.org
 aao.org
 aap.org
+*.aap.org
 accessalliance.ca
 acneandrosacea.ca
 ahajournals.org
@@ -61,6 +62,7 @@ car.ca
 cardiacbc.ca
 cas.ca
 cattonline.com
+ccrnr.ca
 ccs.ca
 ccsmh.ca
 cda-amc.ca
@@ -78,6 +80,7 @@ childhealthbc.ca
 choosingwiselycanada.org
 chrsonline.ca
 cjrm.srpc.ca
+clinicalproblemsolving.com
 clwk.ca
 cma.ca
 cmaj.ca
@@ -337,8 +340,6 @@ thelungcentre.ca
 thennt.com
 theromefoundation.org
 thinklabs.com
-thriveap.com
-*.thriveap.com
 thrombosiscanada.ca
 torontomu.ca
 *.torontomu.ca
