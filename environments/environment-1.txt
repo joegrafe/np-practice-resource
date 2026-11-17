@@ -103,6 +103,8 @@ cochranelibrary.com
 communitylivingbc.ca
 compassbc.ca
 concussionsontario.org
+confex.com
+*.confex.com
 cpocus.ca
 cps.ca
 *.cps.ca
@@ -242,6 +244,7 @@ northernhealth.ca
 npac-aiipc.org
 npao.org
 npcircle.ca
+npjournal.org
 nurses.ab.ca
 *.nurses.ab.ca
 obesitycanada.ca
@@ -299,6 +302,8 @@ rheum.ca
 rheumguide.ca
 rheuminfo.com
 rourkebabyrecord.ca
+royalcollege.ca
+*.royalcollege.ca
 rxfiles.ca
 sagepub.com
 *.sagepub.com
@@ -348,11 +353,16 @@ ucalgary.ca
 *.ucalgary.ca
 ucsd.edu
 *.ucsd.edu
+ucsf.edu
+*.ucsf.edu
+uhn.ca
 umbrellacoop.ca
 unbc.ca
 *.unbc.ca
 upstreamlab.org
 uptodate.com
+usask.ca
+*.usask.ca
 utah.edu
 *.utah.edu
 utoronto.ca

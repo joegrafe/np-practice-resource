@@ -13,7 +13,7 @@ redirect_from: [practice/associations, "4 Resources/Associations", "6 Practice/A
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*NP scope and standards, prescribing authority, registration, contracts, documentation and privacy, peer support, advice and referral services and forms. Procedure scope, privileging, training and how-to guides have their own tab: [Procedures](../5%20Procedures/index.md).*
+*NP scope and standards, prescribing authority, registration, contracts, documentation and privacy, peer support, advice and referral services, case presentations for NP students and preceptors, and forms. Procedure scope, privileging, training and how-to guides have their own tab: [Procedures](../5%20Procedures/index.md).*
 
 ## In This Section
 - [Starting NP Practice](Starting%20NP%20Practice.md)
@@ -23,5 +23,6 @@ redirect_from: [practice/associations, "4 Resources/Associations", "6 Practice/A
 - [Practice Models and Compensation](Practice%20Models%20and%20Compensation.md)
 - [Documentation, Privacy and Records](Documentation%20Privacy%20and%20Records.md)
 - [Consultation, Referral and Advice](Consultation%20Referral%20and%20Advice.md)
+- [Case Presentations](Case%20Presentations.md)
 - [Forms and Duty to Report](Forms%20and%20Duty%20to%20Report.md)
 - [Community of Practice](Community%20of%20Practice.md)
