@@ -1,4 +1,6 @@
 aafp.org
+aamc.org
+*.aamc.org
 aao.org
 aap.org
 *.aap.org
@@ -242,9 +244,6 @@ libguides.com
 litfl.com
 liveplanbe.ca
 liver.ca
-longcovidweb.ca
-lookingglassbc.com
-lookseechecklist.com
 lung.ca
 lunghealth.ca
 *.lunghealth.ca
@@ -295,6 +294,8 @@ ontariorenalnetwork.ca
 ontariorheum.ca
 ophthalmology.ca
 optometrists.ca
+osteopathic.org
+*.osteopathic.org
 osteoporosis.ca
 osteostrategy.on.ca
 otn.ca
@@ -349,6 +350,7 @@ srpc.ca
 stanford.edu
 *.stanford.edu
 stethopedia.ca
+stfm.org
 strokebestpractices.ca
 surreyplace.ca
 *.surreyplace.ca
@@ -375,8 +377,6 @@ ucsf.edu
 *.ucsf.edu
 uhn.ca
 uptodate.com
-usask.ca
-*.usask.ca
 uspreventiveservicestaskforce.org
 utah.edu
 *.utah.edu
