@@ -1,7 +1,7 @@
 ---
 title: Team
 card-icon: account-group-outline
-description: "The editors, reviewers and contributors who build and check NPPR.ca, and how to join them."
+description: "The editors, reviewers and contributors who build and check NPPR.ca, the free BC and Canadian practice resource for nurse practitioners, and how to join them."
 type: about
 tags: [about]
 jurisdiction: [BC, CA]

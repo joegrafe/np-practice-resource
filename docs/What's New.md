@@ -7,7 +7,7 @@ status: published
 last-reviewed: 2026-11-17
 review-due: 2027-11-17
 reviewers: [joegrafe]
-description: "Pages added to NPPR and pages whose sources were re-checked, newest first, with a feed to follow."
+description: "Pages recently added to NPPR.ca and pages whose sources were re-checked, newest first, with an Atom feed so nurse practitioners can follow updates."
 aliases: [whats new, new pages, recent updates, recently updated, latest changes, changelog, updates feed, RSS, Atom feed]
 section_cards: false
 ---

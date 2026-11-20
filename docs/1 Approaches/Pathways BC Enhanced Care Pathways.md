@@ -9,7 +9,7 @@ status: published
 last-reviewed: 2026-11-06
 review-due: 2027-11-06
 reviewers: [joegrafe]
-description: "Pathways BC Enhanced Care Pathways for primary care: all 53, listed by body system with their year."
+description: "Pathways BC Enhanced Care Pathways for primary care in British Columbia: all 53, listed by body system with their year, for nurse practitioners and NP students."
 logo: "/assets/logos/pathways.svg"
 logo-alt: "Pathways BC"
 ---

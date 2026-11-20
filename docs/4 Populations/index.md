@@ -12,7 +12,7 @@ reviewers: [joegrafe]
      Edit them in nppr-website-config/overrides/partials/section-nav.html.
      For a sub-folder index, add `section_nav: true` above to show them here too. -->
 
-*Sources and services for specific patient groups: what changes for each group, with your province's sources first.*
+*Sources and services for specific patient groups, from children to older adults: what changes for each group, with your province's sources first.*
 
 <div class="nppr-filter nppr-filter--pages" data-section="Populations" data-placeholder="Search all populations, e.g. Rourke or interpreter"></div>
 

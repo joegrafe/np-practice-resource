@@ -8,7 +8,7 @@ status: published
 last-reviewed: 2026-10-10
 review-due: 2027-10-10
 reviewers: [joegrafe]
-description: "An index of the McGill Journal of Medicine's peer-reviewed \"Approach to\" articles, grouped by body system."
+description: "An index of the McGill Journal of Medicine's peer-reviewed \"Approach to\" articles, grouped by body system, for nurse practitioners and NP students."
 logo: "https://mjm.mcgill.ca/public/site/images/mrobinson/mjm-logo-no-text-400-dpi.png"
 logo-alt: "McGill Journal of Medicine"
 ---
