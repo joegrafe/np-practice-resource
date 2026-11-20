@@ -9,7 +9,7 @@ status: published
 last-reviewed: 2026-10-27
 review-due: 2027-10-27
 reviewers: [joegrafe]
-description: "Published frameworks for working through a prescribing decision, and where to check each step in your province."
+description: "Published frameworks for working through a prescribing decision step by step, and where nurse practitioners can check each step in their own province."
 ---
 <!-- Prescribing wave 1 (plan: https://claude.ai/artifact/GJeAP8SPPZrsk4G8ihftgU, approved by Joe 2026-10-27).
      Joe's decision 6: link published frameworks and map each step to where it is checked; no NPPR-written algorithm.

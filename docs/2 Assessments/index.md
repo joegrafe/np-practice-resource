@@ -14,7 +14,7 @@ redirect_from: [assessments/assessment-resources]  # retired 2026-10-30; its row
      For a sub-folder index, add `section_nav: true` above to show them here too.
      Section plan: https://claude.ai/artifact/1XYYoWApRRZt5SydEACouE (approved by Joe 2026-10-27). -->
 
-*The exam, bedside ultrasound (POCUS), decision rules, screening tools and tests behind a diagnosis.*
+*The physical exam by system, bedside ultrasound (POCUS), clinical decision rules, screening scales, and the lab and imaging tests behind a diagnosis.*
 
 <div class="nppr-filter nppr-filter--pages" data-section="Assessments" data-placeholder="Search all assessments, e.g. knee exam or PHQ-9"></div>
 

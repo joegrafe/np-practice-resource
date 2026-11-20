@@ -1,7 +1,7 @@
 ---
 title: Install as an App
 card-icon: cellphone-arrow-down
-description: "Add NPPR.ca to your phone's home screen so it opens like an app."
+description: "Add NPPR.ca to your phone's home screen so it opens like an app, with steps for iPhone (Safari) and Android (Chrome). Free, with no app store download needed."
 type: about
 tags: [about]
 jurisdiction: [BC, CA]

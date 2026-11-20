@@ -5,7 +5,7 @@ type: index
 tags: [index]
 jurisdiction: [BC, CA]
 status: published
-description: "Electrolyte disorders for nurse practitioners: calcium, potassium and sodium."
+description: "Electrolyte disorders for nurse practitioners: calcium, potassium and sodium pages, each linking current BC and Canadian guidelines, tools and references."
 last-reviewed: 2026-10-30
 review-due: 2027-10-30
 reviewers: [joegrafe]

@@ -8,7 +8,7 @@ status: published
 last-reviewed: 2026-11-02
 review-due: 2027-11-02
 reviewers: [joegrafe]
-description: "Suggest a guideline, tool or resource for other nurse practitioners. No account needed."
+description: "Suggest a guideline, tool or resource for NPPR.ca, the free BC and Canadian practice resource for nurse practitioners. No account needed to send a suggestion."
 hide:
   - suggest
 ---

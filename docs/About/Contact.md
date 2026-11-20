@@ -1,7 +1,7 @@
 ---
 title: Contact
 card-icon: email-outline
-description: "Send a question, correction or idea to NPPR.ca."
+description: "Contact NPPR.ca, the free BC and Canadian practice resource for nurse practitioners: send a question, a correction, a broken link or an idea for a page."
 type: about
 tags: [about]
 jurisdiction: [BC, CA]
