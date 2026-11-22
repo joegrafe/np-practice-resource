@@ -242,8 +242,6 @@ lakeheadu.ca
 libguides.com
 *.libguides.com
 litfl.com
-liveplanbe.ca
-liver.ca
 lung.ca
 lunghealth.ca
 *.lunghealth.ca
@@ -376,6 +374,8 @@ ucsd.edu
 ucsf.edu
 *.ucsf.edu
 uhn.ca
+umich.edu
+*.umich.edu
 uptodate.com
 uspreventiveservicestaskforce.org
 utah.edu

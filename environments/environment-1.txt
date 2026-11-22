@@ -294,6 +294,7 @@ raceapp.ca
 raceconnect.ca
 radiopaedia.org
 rainbowhealthontario.ca
+rale.ca
 rccbc.ca
 recmap.org
 *.recmap.org
@@ -357,6 +358,8 @@ ucsf.edu
 *.ucsf.edu
 uhn.ca
 umbrellacoop.ca
+umich.edu
+*.umich.edu
 unbc.ca
 *.unbc.ca
 upstreamlab.org
@@ -376,6 +379,8 @@ vch.ca
 victimlinkbc.ca
 victoriahospice.org
 virtualhospice.ca
+washington.edu
+*.washington.edu
 welcomebc.ca
 who.int
 *.who.int
