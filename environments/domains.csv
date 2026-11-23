@@ -82,6 +82,7 @@ jaad.org,core 1 2,9,INTL:9,yes,www.jaad.org
 ubccpd.ca,core 1 2,9,BC:8 ?:1,,ubccpd.ca
 canadianmenopausesociety.org,core 1 2,8,CA:6 ?:2,,www.canadianmenopausesociety.org
 eyeguru.org,core 1 2,8,INTL:8,,eyeguru.org
+geekymedics.com,core 1 2,8,INTL:8,yes,geekymedics.com
 interiorhealth.ca,core 1 2,8,BC:8,yes,www.interiorhealth.ca
 nnpbc.com,core 1 2,8,BC:8,yes,portal.nnpbc.com www.nnpbc.com
 who.int,core 1 2,8,INTL:8,,apps.who.int iris.who.int www.who.int
@@ -105,7 +106,6 @@ ammi.ca,core 1 2,5,CA:3 ?:2,,ammi.ca
 bclung.ca,core 1 2,5,BC:5,,bclung.ca
 cnps.ca,core 1 2,5,CA:4 ?:1,,cnps.ca
 csepguidelines.ca,core 1 2,5,CA:5,,csepguidelines.ca
-geekymedics.com,core 1 2,5,INTL:5,yes,geekymedics.com
 heartfailure.ca,core 1 2,5,CA:4 ?:1,,heartfailure.ca
 infoway-inforoute.ca,core 1 2,5,CA:5,,www.infoway-inforoute.ca
 jrheum.org,core 1 2,5,CA:5,,www.jrheum.org
@@ -155,7 +155,7 @@ mchatscreen.com,core 1 2,3,INTL:3,,www.mchatscreen.com
 metaphi.ca,core 1 2,3,?:2 ON:1,,www.metaphi.ca
 nedic.ca,core 1 2,3,CA:3,,nedic.ca
 nimh.nih.gov,core 1 2,3,INTL:3,,www.nimh.nih.gov
-npao.org,core 1 2,3,ON:2 ?:1,yes,npao.org www.npao.org
+npao.org,core 2,3,ON:2 ?:1,yes,npao.org www.npao.org
 omdpracticehub.com,core 2,3,ON:3,,omdpracticehub.com
 ontariomidwives.ca,core 2,3,ON:3,,www.ontariomidwives.ca
 oup.com,core 1 2,3,CA:2 INTL:1,,academic.oup.com www.oup.com
@@ -278,6 +278,7 @@ fraxplus.org,core 2,1,INTL:1,,www.fraxplus.org
 getcheckedonline.com,core 1,1,BC:1,,getcheckedonline.com
 gladcanada.ca,core 1,1,CA:1,,gladcanada.ca
 google.com,core 1,1,CA:1,,play.google.com
+handle.net,core 2,1,INTL:1,,hdl.handle.net
 hcaiinfo.ca,core 2,1,ON:1,,www.hcaiinfo.ca
 healthpei.ca,core 2,1,PE:1,yes,src.healthpei.ca
 healthproductshortages.ca,core 1,1,?:1,,healthproductshortages.ca
@@ -362,7 +363,6 @@ thyroid.ca,1,1,CA:1,,thyroid.ca
 torontomu.ca,2,1,ON:1,,learn.library.torontomu.ca
 tru.ca,1,1,BC:1,,libguides.tru.ca
 umbrellacoop.ca,1,1,BC:1,,umbrellacoop.ca
-umich.edu,core 1 2,1,INTL:1,yes,deepblue.lib.umich.edu
 unbc.ca,1,1,BC:1,,libguides.unbc.ca
 upstreamlab.org,1,1,CA:1,,upstreamlab.org
 uptodate.com,core 1 2,1,INTL:1,,www.uptodate.com

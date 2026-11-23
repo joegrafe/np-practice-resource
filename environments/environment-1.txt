@@ -243,7 +243,6 @@ nnpbc.com
 northernhealth.ca
 *.northernhealth.ca
 npac-aiipc.org
-npao.org
 npcircle.ca
 npjournal.org
 nurses.ab.ca
@@ -358,8 +357,6 @@ ucsf.edu
 *.ucsf.edu
 uhn.ca
 umbrellacoop.ca
-umich.edu
-*.umich.edu
 unbc.ca
 *.unbc.ca
 upstreamlab.org
