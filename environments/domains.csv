@@ -278,7 +278,6 @@ fraxplus.org,core 2,1,INTL:1,,www.fraxplus.org
 getcheckedonline.com,core 1,1,BC:1,,getcheckedonline.com
 gladcanada.ca,core 1,1,CA:1,,gladcanada.ca
 google.com,core 1,1,CA:1,,play.google.com
-handle.net,core 2,1,INTL:1,,hdl.handle.net
 hcaiinfo.ca,core 2,1,ON:1,,www.hcaiinfo.ca
 healthpei.ca,core 2,1,PE:1,yes,src.healthpei.ca
 healthproductshortages.ca,core 1,1,?:1,,healthproductshortages.ca
@@ -299,8 +298,8 @@ issbc.org,core 1,1,BC:1,,issbc.org
 keltyeatingdisorders.ca,core 2,1,BC:1,yes,cfe.keltyeatingdisorders.ca keltyeatingdisorders.ca
 lakeheadu.ca,core 2,1,ON:1,,libguides.lakeheadu.ca
 litfl.com,core 2,1,INTL:1,,litfl.com
-liveplanbe.ca,1,1,CA:1,,liveplanbe.ca
-liver.ca,1,1,CA:1,,liver.ca
+liveplanbe.ca,core 1,1,CA:1,,liveplanbe.ca
+liver.ca,core 1,1,CA:1,,liver.ca
 longcovidweb.ca,1,1,CA:1,,www.longcovidweb.ca
 lookingglassbc.com,1,1,BC:1,,lookingglassbc.com
 lookseechecklist.com,1,1,CA:1,,lookseechecklist.com
@@ -387,6 +386,7 @@ cna-aiic.ca,2,0,,yes,www.cna-aiic.ca
 connexontario.ca,2,0,,yes,www.connexontario.ca
 eczemasociety.ca,core 1 2,0,,yes,eczemasociety.ca
 foodallergycanada.ca,2,0,,yes,foodallergycanada.ca
+handle.net,2,0,,yes,hdl.handle.net
 jamanetwork.com,core 1 2,0,previous:1,,www.jamanetwork.com
 lww.com,core 1 2,0,previous:1,,www.lww.com
 mayoclinic.org,core 1 2,0,,yes,statindecisionaid.mayoclinic.org
