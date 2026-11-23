@@ -23,6 +23,8 @@ redirect_from: [assessments/assessment-resources]  # retired 2026-10-30; its row
 - [Preventive Care and Cancer Screening](Preventive%20Care%20and%20Cancer%20Screening.md)
 - [Physical Exam by System](Physical%20Exam%20by%20System/index.md)
     - [Skin Exam](Physical%20Exam%20by%20System/Skin%20Exam.md)
+    - [Cardiovascular Exam](Physical%20Exam%20by%20System/Cardiovascular%20Exam.md)
+    - [Respiratory Exam](Physical%20Exam%20by%20System/Respiratory%20Exam.md)
     - [Musculoskeletal Exam](Physical%20Exam%20by%20System/Musculoskeletal%20Exam.md)
     - [Abdominal Exam](Physical%20Exam%20by%20System/Abdominal%20Exam.md)
 - [Clinical Decision Rules](Clinical%20Decision%20Rules.md)

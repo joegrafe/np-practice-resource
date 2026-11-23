@@ -243,7 +243,6 @@ nnpbc.com
 northernhealth.ca
 *.northernhealth.ca
 npac-aiipc.org
-npao.org
 npcircle.ca
 npjournal.org
 nurses.ab.ca
@@ -294,6 +293,7 @@ raceapp.ca
 raceconnect.ca
 radiopaedia.org
 rainbowhealthontario.ca
+rale.ca
 rccbc.ca
 recmap.org
 *.recmap.org
@@ -376,6 +376,8 @@ vch.ca
 victimlinkbc.ca
 victoriahospice.org
 virtualhospice.ca
+washington.edu
+*.washington.edu
 welcomebc.ca
 who.int
 *.who.int
