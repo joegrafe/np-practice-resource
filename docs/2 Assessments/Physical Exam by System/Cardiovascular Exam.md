@@ -4,10 +4,10 @@ type: assessment
 tags: [assessment, physical-exam, cardiovascular, auscultation, pediatrics]
 jurisdiction: [BC, CA, INTL]
 aliases: [cardiovascular exam, cardiovascular examination, cardiac exam, cardiac examination, heart exam, CVS exam, CV exam, precordial exam, precordium, apex beat, PMI, heave, thrill, JVP, jugular venous pressure, neck veins, neck vein exam, Kussmaul sign, carotid upstroke, pulsus paradoxus, blood pressure measurement, BP measurement, AOBP, manual blood pressure, heart sounds, heart murmurs, murmur, cardiac auscultation, S1, S2, split S2, S3, S4, gallop, systolic murmur, diastolic murmur, aortic stenosis murmur, mitral regurgitation murmur, innocent murmur, Still's murmur, pediatric murmur, heart sound library, newborn cardiac exam, peripheral vascular exam, peripheral pulses, capillary refill, Buerger test, Brodie-Trendelenburg, ankle-brachial index, ABI, stethoscope, auscultation eModules, Stethopedia]
-status: draft
+status: published
 last-reviewed: 2026-11-22
 review-due: 2027-11-22
-reviewers: []
+reviewers: [joegrafe]
 redirect_from: [assessments/heart-sounds-and-murmurs]  # its own page until 2026-10-30, then a section of Physical Exam by System until 2026-11-22
 description: "How to examine the heart and circulation: exam guides and videos, the JVP and precordium, blood pressure technique, heart sounds and murmurs with recordings, the peripheral vascular exam, and the newborn and child's heart exam. Canadian sources first (Stethopedia, U of T, BC Guidelines, Hypertension Canada, PedsCases), then Stanford Medicine 25 and other international ones, labelled."
 ---

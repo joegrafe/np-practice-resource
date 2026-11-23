@@ -4,10 +4,10 @@ type: assessment
 tags: [assessment, physical-exam, respiratory, auscultation, pediatrics]
 jurisdiction: [CA, INTL]
 aliases: [respiratory exam, respiratory examination, lung exam, lung examination, chest exam, chest examination, pulmonary exam, resp exam, chest percussion, percussion, tactile fremitus, egophony, bronchophony, whispered pectoriloquy, diaphragmatic excursion, forced expiratory time, lung sounds, breath sounds, respiratory auscultation, chest auscultation, adventitious sounds, crackles, rales, wheeze, wheezing, rhonchi, stridor, pleural rub, squawk, grunting, bronchial breath sounds, vesicular breath sounds, lung sound library, RALE, R.A.L.E., respiratory distress, work of breathing, retractions, pediatric vital signs, respiratory rate, pulse oximetry, pulse oximeter, SpO2, oxygen saturation, oximetry dark skin, occult hypoxemia, cyanosis, stethoscope, Stethopedia]
-status: draft
+status: published
 last-reviewed: 2026-11-22
 review-due: 2027-11-22
-reviewers: []
+reviewers: [joegrafe]
 redirect_from: [assessments/lung-sounds]  # its own page until 2026-10-30, then a section of Physical Exam by System until 2026-11-22
 description: "How to examine the chest and lungs: exam guides and videos, inspection, palpation and percussion, special tests, breath sounds with recordings, the child in respiratory distress, and pulse oximetry in darker skin. Canadian sources first (Stethopedia, U of T, R.A.L.E., PedsCases, Health Canada), then Stanford Medicine 25 and other international ones, labelled."
 ---
