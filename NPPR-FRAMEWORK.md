@@ -2,6 +2,24 @@
 
 Exported 2026-10-09 from the NPPR Framework doc (https://claude.ai/code/artifact/5e9d248a-789d-4815-8f25-a3c965081661). The doc is the master copy: re-export this file whenever the doc changes. Part 1 is the framework; Part 2 is the step-by-step build prompts. The "Section page lists" part of Part 1 comes from the NPPR.ca master plan (https://claude.ai/artifact/8pVpBPZ5hLjistCczBVaow), agreed by Joe on 2026-10-26.
 
+## What to read
+
+This file is about 130 KB. Read this table, then only the sections it names for the task: find a heading with a search for `^## ` or the bold lead-in, and read that range. Rules in CLAUDE.md apply to every task.
+
+| Task | Read |
+|---|---|
+| New or updated condition, population, assessment, procedure, prescribing, practice or resource page | Page standard; the Source map rows for the page (All topics plus its system or population); Before every pull request |
+| Approaches page or list sheet change | In Page standard: List sheets, Sources registry, Regions; Before every pull request |
+| Link fix, year or version change | In Page standard: Sources registry, Regions; Before every pull request |
+| Search aliases, synonyms, search scripts | In Page standard: Search, Keeping the search structure; Before every pull request |
+| Where a new page or topic belongs, index pages, a new tab | Recommended structure; Section page lists (the section concerned) |
+| Running a numbered build step | Where to run each step; that step under Step 0 or Phases 1 to 4; Before every pull request |
+| A source that would not open, or allowed domains | Cloud environments |
+| Evidence Packs, llms.txt, loading guidelines into AI tools | Loading guidelines into AI tools; Phase 3: AI layer |
+| Reviewers, review dates, governance | Governance |
+| Cleaning up project files or memory | Library and memory |
+| Background only, rarely needed | Summary; Comparable Canadian sites; Strengths and gaps; Roadmap; Sources |
+
 ---
 
 # Part 1: Benchmarking and Structure
@@ -530,6 +548,36 @@ The cloud environment's Allowed domains setting holds about 400 entries, so the 
 - **Environment 2 (Ontario, international, pediatric):** new condition pages from wave 17 on (Ontario and AAFP sweep), Ontario waves, international and pediatric sweeps, re-checks of `UNOPENED-SOURCES.csv` rows.
 
 A site missing from the active environment goes in `UNOPENED-SOURCES.csv` with action `allowlist: environment N`; the build does not switch mid-wave. Rerun the script after a wave that adds sources and say in the PR when a list changed.
+
+## Library and memory
+
+The project's own rules for the project-library-cleanup skill (Joe, 2026-11-23). They win over the skill's general rules. Two rules never change: ask Joe before deleting anything not covered here, and back up the memory index before rewriting it.
+
+What every thread pays for, and its target:
+
+- `MEMORY.md` (project memory index): 8 KB or less. Pointers only, one short line per note, grouped by heading. No PR numbers, merge hashes or wave-by-wave status: those go in the build waves log note or stay in git.
+- Memory notes: under 4 KB each (only the first 4 KB is recalled), one subject per file. When a plan is fully built, cut its note to the decisions a later thread still needs and a link.
+- This file: read by section, from the What to read table. A new section gets a row in that table in the same PR.
+- CLAUDE.md: rules only, one line each; the explanation goes in this file.
+
+Project files (`/mnt/project-files/`):
+
+- Preview screenshots are for the open PR. Once a PR merges, delete its screenshots (Joe, 2026-11-23, "Delete them"); no approval is needed for this each time. Keep a screenshot only when no page or PR shows the same thing.
+- Never delete or archive without asking: `environment/`, `pathways/`, `npcircle/`, `status-check/`, `triage/`, `tally-checks/`, `resource-audit/`, `page-audit/` (summaries and scorecards), `zotero/`, `promotion/`, `uploads/`, and Joe's personal documents (`hp-reference/`, `heidi-template/`, `upcc-np-reference/`).
+- Anything set aside goes in `archive/` at the root, which also holds the memory index backups (`archive/memory/`) and the lists of deleted files.
+- Keep the folder under about 150 entries at its top two levels.
+
+Where each kind of thing lives:
+
+- A rule, format or checklist for site work: this file or CLAUDE.md, by draft PR, never memory alone.
+- Site data (sources, sheets, unopened sources, environment lists): the repositories.
+- Joe's preferences, decisions awaiting him, and facts with no other home: project memory.
+- Joe's personal reference notes that are not site pages: his Obsidian vault, the repository joegrafe/obsidian-vault, by draft PR, with a one-line pointer in memory.
+- Plans and reports for Joe to read: Claude Docs, linked from memory.
+
+Run log:
+
+- 2026-11-23: first run. 1,013 screenshots deleted (625 MB to 22 MB); memory index 23.6 KB to 4.8 KB; What to read table and this section added.
 
 ## Where to run each step
 
