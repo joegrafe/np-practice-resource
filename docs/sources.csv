@@ -1543,16 +1543,19 @@ pathways-bc-falls-care-pathway,Falls Care Pathway,Pathways BC,https://pathwaysbc
 pathways-bc-gender-affirming-care,Gender-Affirming Care,Pathways BC,https://pathwaysbc.ca/ci/9838,,2025,2025,BC,pathway,2026-11-01,,gender affirming care pathway
 pathways-bc-osteoporosis,Osteoporosis enhanced care pathway,Pathways BC (Fraser Health Geriatrics),https://pathwaysbc.ca/ci/9866,,2026,2026,BC,pathway,2026-10-30,,
 pathways-bc-pelvic-floor-disorders,Pelvic Floor Disorders,Pathways BC,https://pathwaysbc.ca/ci/8201,,2025,2025,BC,pathway,2026-11-01,,pelvic floor incontinence prolapse
-pathways-dementia,Dementia Enhanced Care Pathway,Pathways BC,https://pathwaysbc.ca/ci/5853,,2026,2026,BC,pathway,2026-10-30,,
+pathways-dementia,Dementia Enhanced Care Pathway,Pathways BC (Fraser Health and Providence Health Care geriatrics),https://pathwaysbc.ca/ci/5853,,2026,"V38, November 2026",BC,pathway,2026-11-23,,
 pathways-frailty,Frailty Care Pathway,Pathways BC (Fraser Health Geriatrics),https://pathwaysbc.ca/ci/9864,,2026,2026,BC,pathway,2026-10-30,,
 pathways-hiv-prep,Pathways BC: HIV Pre-exposure Prophylaxis (PrEP) Care Pathway,Pathways BC,https://pathwaysbc.ca/ci/10546,,2026,2026-09-16,BC,pathway,2026-10-29,,
 pathwaysbc-aud-pathway-2025,Alcohol Use Disorder (AUD) Treatment Care Pathway,Pathways BC (BC Guidelines),https://pathwaysbc.ca/ci/3399,,2025,2025,BC,pathway,2026-11-02,,AUD algorithm
-pathwaysbc-dyspepsia-2021,Dyspepsia: Enhanced Primary Care Pathway,Shared Care (Pathways BC),https://pathwaysbc.ca/ci/2530,,2021,2021,BC,pathway,2026-11-03,,dyspepsia pathway BC
+pathwaysbc-gerd-dyspepsia-2026,GERD and Dyspepsia Primary Care Pathways,Pathways BC,https://pathwaysbc.ca/ci/2530,,2026,"V21, November 13, 2026 (one pathway replacing the Dyspepsia 2021 and GERD 2019 pathways)",BC,pathway,2026-11-23,pathwaysbc-gerd-2019,"GERD dyspepsia pathway BC, reflux, heartburn, indigestion"
 pathwaysbc-ecp-bronchiolitis,Bronchiolitis - Pediatric Enhanced Care Pathway,Pathways BC,https://pathwaysbc.ca/ci/7572,,2024,Updated May 2024,BC,pathway,2026-11-02,,pathway bronchiolitis BC
 pathwaysbc-gerd-2019,GERD Primary Care Pathway,Shared Care (Pathways BC),https://pathwaysbc.ca/ci/2531,,2019,2019,BC,pathway,2026-11-03,,GERD pathway
 pathwaysbc-hpylori-2019,H. pylori Enhanced Primary Care Pathway,Shared Care (Pathways BC),https://pathwaysbc.ca/ci/2532,,2019,2019,BC,pathway,2026-11-03,,H. pylori pathway
 pathwaysbc-migraine-prevention-2024,Migraine: Preventive Management Algorithm (Fraser Health Headache Toolkit),Fraser Health (Pathways BC),https://pathwaysbc.ca/ci/8454,,2024,2024,BC,algorithm,2026-11-03,,migraine prevention algorithm
 pathwaysbc-tud-algorithm-2025,Tobacco Use Disorder: Cessation Algorithm and Medication Table,Pathways BC (BC Guidelines),https://pathwaysbc.ca/ci/9073,,2025,2025,BC,pathway,2026-11-02,,smoking cessation algorithm
+pathwaysbc-constipation-2026,Constipation Care Pathway,Pathways BC,https://pathwaysbc.ca/ci/2529,,2026,"V25, November 2026",BC,pathway,2026-11-23,,"constipation pathway BC, laxatives"
+pathwaysbc-iron-deficiency-anemia-2026,Iron Deficiency Anemia (IDA) Pathway,Pathways BC,https://pathwaysbc.ca/ci/10749,,2026,"V29, November 13, 2026",BC,pathway,2026-11-23,,"IDA pathway BC, anemia, ferritin, iron"
+pathwaysbc-pediatric-asthma-2026,Pediatric Asthma Care Pathway,Pathways BC,https://pathwaysbc.ca/ci/10730,,2026,"V23, November 10, 2026",BC,pathway,2026-11-23,,"pediatric asthma pathway BC, children, wheeze, inhaler"
 pca-pathway-hub,Alberta's Pathway Hub,Primary Care Alberta,https://www.primarycarealberta.ca/pathways/,,,,CA,pathway,2026-10-10,,
 pch-paediatric-htn-2021,Paediatric hypertension for the primary care provider: What you need to know,Paediatrics & Child Health (Canadian Paediatric Society journal),https://doi.org/10.1093/pch/pxaa069,,2021,2021 (Paediatr Child Health 2021;26(2):93-8),CA,summary,2026-10-09,,
 blackbook-pediatric-fractures,Pediatric fractures,University of Calgary,https://blackbook.ucalgary.ca/schemes/pediatric/pediatric-fractures/,,,,CA,summary,,,

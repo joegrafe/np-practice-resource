@@ -9,7 +9,7 @@ status: published
 last-reviewed: 2026-11-06
 review-due: 2027-11-06
 reviewers: [joegrafe]
-description: "Pathways BC Enhanced Care Pathways for primary care in British Columbia: all 53, listed by body system with their year, for nurse practitioners and NP students."
+description: "Pathways BC Enhanced Care Pathways for primary care in British Columbia: 54 pathways, listed by body system with their year, for nurse practitioners and NP students."
 logo: "/assets/logos/pathways.svg"
 logo-alt: "Pathways BC"
 ---
@@ -18,6 +18,7 @@ logo-alt: "Pathways BC"
      Years come from the version date in each document's file name, or from the PDF's modified date when the name has none.
      Publisher names come from the bracketed name in the Pathways title; items without one are left blank.
      Colon Polyps links to BC Cancer's own PDF, which is where the Pathways link points.
+     2026-11-23 (Joe): added Pediatric Asthma (ci/10730) and Iron Deficiency Anemia (ci/10749); the Dyspepsia and GERD pathways became one GERD and Dyspepsia pathway (ci/2530, November 2026; the old GERD link ci/2531 now asks for a login); Constipation and Dementia updated to their November 2026 versions. All opened without signing in.
      Link to the pathways; don't copy them. -->
 *Enhanced Care Pathways from [Pathways BC](https://pathwaysbc.ca/), the Divisions of Family Practice referral directory. Each pathway is a BC primary care algorithm or toolkit, mostly written with BC specialists through Shared Care, for assessing and managing a condition and deciding when and where to refer. The pathway documents below open without a login. The rest of Pathways, such as specialist wait times and referral forms, needs a Pathways login.*
 

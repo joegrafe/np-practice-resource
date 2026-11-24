@@ -2,9 +2,8 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,only,source
 ,Cardiovascular,Advanced and End Stage Heart Failure: Clinician's Enhanced Supportive Tool,,,,,Shared Care,,BC,yes,pathways-advanced-hf
 ,Renal and Genitourinary,Acute Kidney Injury,,,,,,,BC,yes,pathways-aki
 ,Gastrointestinal and Liver,Colon Polyps: Follow-up After Colonoscopy,http://www.bccancer.bc.ca/screening/health-professionals/colon,2025,http://www.bccancer.bc.ca/screening/Documents/ColonoscopyFollow-up-Algorithm.pdf,,BC Cancer,,BC,yes,
-,Gastrointestinal and Liver,Constipation,https://pathwaysbc.ca/ci/2529,2021,,,,,BC,yes,
-,Gastrointestinal and Liver,Dyspepsia,,,,,Shared Care,,BC,yes,pathwaysbc-dyspepsia-2021
-,Gastrointestinal and Liver,Gastroesophageal Reflux Disease (GERD),,,,,Shared Care,,BC,yes,pathwaysbc-gerd-2019
+,Gastrointestinal and Liver,Constipation,,,,,,,BC,yes,pathwaysbc-constipation-2026
+,Gastrointestinal and Liver,GERD and Dyspepsia,,,,,,"GERD, reflux, heartburn, dyspepsia, indigestion",BC,yes,pathwaysbc-gerd-dyspepsia-2026
 ,Gastrointestinal and Liver,Irritable Bowel Syndrome (IBS),,,,,Shared Care,,BC,yes,pathwaysbc-ibs-2019
 ,Neurology,Concussion Diagnostic and Management Algorithm,https://pathwaysbc.ca/ci/8677,2024,,[BC Guideline: Concussion / Mild Traumatic Brain Injury (2024)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/concussion-mild-traumatic-brain-injury-mtbi),BC Guidelines,,BC,yes,
 ,Neurology,Migraine: Preventive Management Algorithm,,,,,Fraser Health Headache Toolkit,,BC,yes,pathwaysbc-migraine-prevention-2024
@@ -21,6 +20,7 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,only,source
 ,Infectious Disease and Allergy,Penicillin Allergy De-labelling,https://pathwaysbc.ca/ci/6571,2025,,,,,BC,yes,
 ,Infectious Disease and Allergy,Post COVID-19 Recovery,,,,,,,BC,yes,pathways-bc-post-covid-recovery-2023
 ,Infectious Disease and Allergy,Rabies: Managing Possible Exposures,https://pathwaysbc.ca/ci/10547,2026,,,BCCDC,,BC,yes,
+,Hematology and Oncology,Iron Deficiency Anemia (IDA),,,,[BC Guideline: Iron Deficiency (2019)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/iron-deficiency),BC Guidelines,"anemia, ferritin, iron",BC,yes,pathwaysbc-iron-deficiency-anemia-2026
 ,"Eyes, Ears, Nose and Throat",Hearing Loss,https://pathwaysbc.ca/ci/9104,2026,,,,,BC,yes,
 ,Sexual and Reproductive Health,Cervical Cancer Screening Algorithm,https://pathwaysbc.ca/ci/9305,2026,,[BC Guideline: Cervical Cancer Prevention and Screening (2025)](https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/cervical-cancer-prevention-and-screening),BC Cancer and BC Guidelines,,BC,yes,
 ,Sexual and Reproductive Health,,,,,,Shared Care,,BC,yes,pathways-bc-gender-affirming-care
@@ -38,8 +38,9 @@ heading,subheading,title,url,year,pdf,links,note,keywords,region,only,source
 ,Pediatrics and Youth,Child and Youth Eating Disorders,,,,,Shared Care,,BC,yes,pathways-bc-child-youth-eating-disorders-2026
 ,Pediatrics and Youth,Child and Youth Mental Health,https://pathwaysbc.ca/ci/10626,2026,,,Shared Care,,BC,yes,
 ,Pediatrics and Youth,Child and Youth Substance Use,https://pathwaysbc.ca/ci/7710,2026,,,Shared Care,,BC,yes,
+,Pediatrics and Youth,Pediatric Asthma,,,,,,"asthma, children, wheeze, inhaler",BC,yes,pathwaysbc-pediatric-asthma-2026
 ,Pediatrics and Youth,Pediatric Dermatology,,,,,,,BC,yes,pathwaysbc-peds-derm-care-pathway-2026
-,Older Adults,Dementia,,,,,,,BC,yes,pathways-dementia
+,Older Adults,Dementia,,,,,Fraser Health and Providence Health Care geriatrics,,BC,yes,pathways-dementia
 ,Older Adults,Falls,,,,,Fraser Health Geriatrics,,BC,yes,pathways-bc-falls-care-pathway
 ,Older Adults,Frailty,,,,,Fraser Health Geriatrics,,BC,yes,pathways-frailty
 ,Palliative and End-of-Life Care,Adult Palliative Care (provincial),,,,,"Shared Care, RMDFP",,BC,yes,pathways-bc-adult-palliative-care
